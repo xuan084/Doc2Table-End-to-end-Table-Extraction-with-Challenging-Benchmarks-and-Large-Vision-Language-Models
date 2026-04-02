@@ -1,0 +1,252 @@
+{
+  "image_id": "img_006338",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The table presents data across four methods (COACH, CMC, ClusterONE, COAN) with corresponding values for each",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "method's performance (F) and statistical significance (σF) based on various datasets. The Krogan dataset yields COACH F of",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "0.441 with σF as \"-\", CMC F at 0.358 with σF \"-\", ClusterONE F of 0.401 with σF \"-\", and COAN F at 0.451 with σF as \"-\". In",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "the Krogan + random I dataset, COACH F is 0.439 with σF of 0.002, CMC F is 0.353 with σF of 0.004, ClusterONE F is 0.379",
+      "bbox": [
+        15,
+        97,
+        580,
+        109
+      ]
+    },
+    {
+      "text": "with σF of 0.014, and COAN F is 0.445 with σF of 0.002. The Krogan + random II dataset shows COACH F at 0.436 with σF",
+      "bbox": [
+        15,
+        113,
+        580,
+        125
+      ]
+    },
+    {
+      "text": "of 0.004, CMC F at 0.349 with σF of 0.006, ClusterONE F is 0.354 with σF of 0.021, and COAN F is 0.449 with σF of 0.006.",
+      "bbox": [
+        15,
+        128,
+        580,
+        140
+      ]
+    },
+    {
+      "text": "The Krogan + random III dataset records COACH F at 0.433 with σF of 0.004, CMC F at 0.347 with σF of 0.006, ClusterONE",
+      "bbox": [
+        15,
+        143,
+        580,
+        155
+      ]
+    },
+    {
+      "text": "F is 0.340 with σF of 0.018, and COAN F at 0.444 with σF of 0.007. The Krogan + Aimed dataset has COACH F at 0.457 with",
+      "bbox": [
+        15,
+        159,
+        580,
+        171
+      ]
+    },
+    {
+      "text": "σF as \"-\", CMC F at 0.411 with σF as \"-\", ClusterONE F at 0.417 with σF as \"-\", and COAN F at 0.464 with σF as \"-\". The",
+      "bbox": [
+        15,
+        174,
+        580,
+        186
+      ]
+    },
+    {
+      "text": "Krogan + BioInfer dataset yields COACH F of 0.453 with σF as \"-\", CMC F at 0.366 with σF as \"-\", ClusterONE F at 0.405",
+      "bbox": [
+        15,
+        190,
+        580,
+        202
+      ]
+    },
+    {
+      "text": "with σF as \"-\", and COAN F at 0.458 with σF as \"-\".",
+      "bbox": [
+        15,
+        205,
+        246,
+        217
+      ]
+    },
+    {
+      "text": "COACH  CMC  ClusterONE  COAN",
+      "bbox": [
+        16,
+        235,
+        580,
+        256
+      ]
+    },
+    {
+      "text": "F  σF  F  σF  F  σF  F  σF",
+      "bbox": [
+        16,
+        256,
+        580,
+        277
+      ]
+    },
+    {
+      "text": "Krogan dataset  0.441  -  0.358  -  0.401  -  0.451  -",
+      "bbox": [
+        16,
+        277,
+        580,
+        298
+      ]
+    },
+    {
+      "text": "Krogan + random I  0.439  0.002  0.353  0.004  0.379  0.014  0.445  0.002",
+      "bbox": [
+        16,
+        298,
+        580,
+        319
+      ]
+    },
+    {
+      "text": "Krogan + random II  0.436  0.004  0.349  0.006  0.354  0.021  0.449  0.006",
+      "bbox": [
+        16,
+        319,
+        580,
+        340
+      ]
+    },
+    {
+      "text": "Krogan + random III  0.433  0.004  0.347  0.006  0.34  0.018  0.444  0.007",
+      "bbox": [
+        16,
+        340,
+        580,
+        361
+      ]
+    },
+    {
+      "text": "Krogan + Aimed  0.457  -  0.411  -  0.417  -  0.464  -",
+      "bbox": [
+        16,
+        361,
+        580,
+        382
+      ]
+    },
+    {
+      "text": "Krogan + BioInfer  0.453  -  0.366  -  0.405  -  0.458  -",
+      "bbox": [
+        16,
+        382,
+        580,
+        403
+      ]
+    },
+    {
+      "text": "Krogan + IEPA  0.444  -  0.398  -  0.393  -  0.453  -",
+      "bbox": [
+        16,
+        403,
+        580,
+        424
+      ]
+    },
+    {
+      "text": "Krogan + HPRD50  0.445  -  0.384  -  0.389  -  0.463  -",
+      "bbox": [
+        16,
+        424,
+        580,
+        445
+      ]
+    },
+    {
+      "text": "Krogan + LLL  0.454  -  0.393  -  0.404  -  0.453  -",
+      "bbox": [
+        16,
+        445,
+        580,
+        466
+      ]
+    },
+    {
+      "text": "In the Krogan + IEPA dataset, COACH F is 0.444 with σF as \"-\", CMC F is 0.398 with σF as \"-\", ClusterONE F at 0.393 with",
+      "bbox": [
+        15,
+        482,
+        580,
+        494
+      ]
+    },
+    {
+      "text": "σF as \"-\", and COAN F is 0.453 with σF as \"-\". Lastly, the Krogan + HPRD50 dataset shows COACH F at 0.445 with σF as \"-\",",
+      "bbox": [
+        15,
+        498,
+        580,
+        510
+      ]
+    },
+    {
+      "text": "CMC F at 0.384 with σF as \"-\", ClusterONE F at 0.389 with σF as \"-\", and COAN F at 0.463 with σF as \"-\". The Krogan + LLL",
+      "bbox": [
+        15,
+        513,
+        580,
+        525
+      ]
+    },
+    {
+      "text": "dataset records COACH F at 0.454 with σF as \"-\", CMC F at 0.393 with σF as \"-\", ClusterONE F at 0.404 with σF as \"-\", and",
+      "bbox": [
+        15,
+        528,
+        580,
+        540
+      ]
+    },
+    {
+      "text": "COAN F at 0.453 with σF as \"-\".",
+      "bbox": [
+        15,
+        544,
+        160,
+        556
+      ]
+    }
+  ]
+}

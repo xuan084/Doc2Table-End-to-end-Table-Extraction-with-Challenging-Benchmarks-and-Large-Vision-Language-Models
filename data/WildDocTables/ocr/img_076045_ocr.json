@@ -1,0 +1,252 @@
+{
+  "image_id": "img_076045",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In the analysis of site-specific class association rules, the table presents a comprehensive overview of various methods",
+      "bbox": [
+        15,
+        135,
+        580,
+        147
+      ]
+    },
+    {
+      "text": "employed to derive insights from the data. The metrics of Support and Confidence are particularly critical in evaluating the",
+      "bbox": [
+        15,
+        150,
+        580,
+        162
+      ]
+    },
+    {
+      "text": "strength of these association rules. Support indicates the proportion of instances in the dataset that meet the criteria of the rule,",
+      "bbox": [
+        15,
+        166,
+        580,
+        178
+      ]
+    },
+    {
+      "text": "while Confidence reflects the reliability of the inference made by the rule based on the data available. For example, the Wi-Fi",
+      "bbox": [
+        15,
+        181,
+        580,
+        193
+      ]
+    },
+    {
+      "text": "method demonstrates a Support metric of 92.6%, suggesting a strong correlation between the variables analyzed.",
+      "bbox": [
+        15,
+        197,
+        511,
+        209
+      ]
+    },
+    {
+      "text": "Method  Support  Confidence",
+      "bbox": [
+        16,
+        261,
+        580,
+        282
+      ]
+    },
+    {
+      "text": "Site-specific class Association rules",
+      "bbox": [
+        16,
+        282,
+        580,
+        303
+      ]
+    },
+    {
+      "text": "Wildtype 2378T in NR subtype 1b  50%  69%",
+      "bbox": [
+        16,
+        303,
+        580,
+        324
+      ]
+    },
+    {
+      "text": "A2368T in R in subtype 1a  100%  52.2%",
+      "bbox": [
+        16,
+        324,
+        580,
+        345
+      ]
+    },
+    {
+      "text": "E2356G/D in R in subtype 1b  76.3%  67.3%",
+      "bbox": [
+        16,
+        345,
+        580,
+        366
+      ]
+    },
+    {
+      "text": "Number of variable sitesThree variable sites in R  100%  25%",
+      "bbox": [
+        16,
+        366,
+        580,
+        387
+      ]
+    },
+    {
+      "text": "Six variable sites in R  1.7%  100%",
+      "bbox": [
+        16,
+        387,
+        580,
+        408
+      ]
+    },
+    {
+      "text": "Genetic distancesGD > 0.2 for the V3 region in R  55%  35%",
+      "bbox": [
+        16,
+        408,
+        580,
+        429
+      ]
+    },
+    {
+      "text": "Profile Hidden Markov ModelScore > 45 for R  70%  20%",
+      "bbox": [
+        16,
+        429,
+        580,
+        450
+      ]
+    },
+    {
+      "text": "Prediction  Wi-Fi  LTE  DVB-T  Noise  Unknown",
+      "bbox": [
+        15,
+        502,
+        580,
+        523
+      ]
+    },
+    {
+      "text": "Actual",
+      "bbox": [
+        15,
+        523,
+        580,
+        543
+      ]
+    },
+    {
+      "text": "Wi-Fi  92.6%  1.85 %  0%  3.70%  1.85%",
+      "bbox": [
+        15,
+        543,
+        580,
+        564
+      ]
+    },
+    {
+      "text": "LTE  0%  100%  0%  0%  0%",
+      "bbox": [
+        15,
+        564,
+        580,
+        584
+      ]
+    },
+    {
+      "text": "DVB-T  0%  1.85%  98.15%  0%  0%",
+      "bbox": [
+        15,
+        584,
+        580,
+        604
+      ]
+    },
+    {
+      "text": "Noise  0%  0%  0%  0%  0%",
+      "bbox": [
+        15,
+        604,
+        580,
+        624
+      ]
+    },
+    {
+      "text": "Unknown  0%  0%  0%  0%  0%",
+      "bbox": [
+        15,
+        624,
+        580,
+        644
+      ]
+    },
+    {
+      "text": "This high Support value indicates that the rule applies to a significant portion of the dataset, enhancing its relevance for",
+      "bbox": [
+        15,
+        674,
+        580,
+        686
+      ]
+    },
+    {
+      "text": "practical applications. Additionally, the Confidence level of 1.85% indicates the likelihood that the conclusion drawn from this",
+      "bbox": [
+        15,
+        689,
+        580,
+        701
+      ]
+    },
+    {
+      "text": "rule will hold true when the rule is applied in similar contexts. Such metrics are essential for practitioners aiming to leverage",
+      "bbox": [
+        15,
+        705,
+        580,
+        717
+      ]
+    },
+    {
+      "text": "these rules for decision-making processes, as they provide a quantitative basis for understanding the relationships within the",
+      "bbox": [
+        15,
+        720,
+        580,
+        732
+      ]
+    },
+    {
+      "text": "data. Overall, the insights derived from these association rules can significantly contribute to optimizing site-specific strategies",
+      "bbox": [
+        15,
+        736,
+        580,
+        748
+      ]
+    },
+    {
+      "text": "and improving operational efficiencies.",
+      "bbox": [
+        15,
+        751,
+        188,
+        763
+      ]
+    }
+  ]
+}

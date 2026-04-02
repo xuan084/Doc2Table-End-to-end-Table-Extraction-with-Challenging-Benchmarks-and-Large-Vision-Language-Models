@@ -1,0 +1,5308 @@
+{
+  "image_id": "img_195204",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        44,
+        510,
+        71
+      ],
+      "content": "The BHP Group's December 2023 report evaluates the economics of mining methods, specifically comparing Underground and Open-Pit strategies across various metrics.",
+      "lines": [
+        {
+          "text": "The BHP Group's December 2023 report evaluates the economics of mining methods, specifically comparing Underground and",
+          "bbox": [
+            13,
+            45,
+            510,
+            55
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                13,
+                45,
+                28,
+                55
+              ]
+            },
+            {
+              "text": "BHP",
+              "bbox": [
+                31,
+                45,
+                49,
+                55
+              ]
+            },
+            {
+              "text": "Group's",
+              "bbox": [
+                52,
+                45,
+                82,
+                55
+              ]
+            },
+            {
+              "text": "December",
+              "bbox": [
+                85,
+                45,
+                125,
+                55
+              ]
+            },
+            {
+              "text": "2023",
+              "bbox": [
+                127,
+                45,
+                147,
+                55
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                149,
+                45,
+                172,
+                55
+              ]
+            },
+            {
+              "text": "evaluates",
+              "bbox": [
+                175,
+                45,
+                211,
+                55
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                214,
+                45,
+                225,
+                55
+              ]
+            },
+            {
+              "text": "economics",
+              "bbox": [
+                228,
+                45,
+                269,
+                55
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                272,
+                45,
+                280,
+                55
+              ]
+            },
+            {
+              "text": "mining",
+              "bbox": [
+                283,
+                45,
+                310,
+                55
+              ]
+            },
+            {
+              "text": "methods,",
+              "bbox": [
+                313,
+                45,
+                348,
+                55
+              ]
+            },
+            {
+              "text": "specifically",
+              "bbox": [
+                351,
+                45,
+                395,
+                55
+              ]
+            },
+            {
+              "text": "comparing",
+              "bbox": [
+                398,
+                45,
+                439,
+                55
+              ]
+            },
+            {
+              "text": "Underground",
+              "bbox": [
+                442,
+                45,
+                493,
+                55
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                496,
+                45,
+                510,
+                55
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Open-Pit strategies across various metrics.",
+          "bbox": [
+            13,
+            58,
+            178,
+            69
+          ],
+          "words": [
+            {
+              "text": "Open-Pit",
+              "bbox": [
+                13,
+                58,
+                48,
+                69
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                51,
+                58,
+                87,
+                69
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                89,
+                58,
+                114,
+                69
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                116,
+                58,
+                144,
+                69
+              ]
+            },
+            {
+              "text": "metrics.",
+              "bbox": [
+                147,
+                58,
+                178,
+                69
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_195204_t0",
+      "bbox": [
+        13,
+        84,
+        510,
+        419
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            85,
+            510,
+            115
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            115,
+            510,
+            207
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            207,
+            510,
+            249
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            249,
+            510,
+            292
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            292,
+            510,
+            334
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            334,
+            510,
+            376
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            13,
+            376,
+            510,
+            419
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\">MiningMethodComparison</td><td>Rating</td><td>Status</td><td colspan=\"3\">CategoryInsights</td><td colspan=\"2\">CostAnalysis</td></tr><tr><td>Underground</td><td>Open-Pit</td><td>OperationalRisk</td><td>RecoveryRate</td><td>CAPEX</td><td>OPEX</td><td>ProductionVolume</td><td>ProfitMargin</td><td>IRR(%)</td></tr></thead><tbody><tr><td>High</td><td>Medium</td><td>Moderate</td><td>95%</td><td>£500M</td><td>£300M</td><td>1.2Mtons</td><td>20%</td><td>12.5%</td></tr><tr><td>Medium</td><td>High</td><td>Higher</td><td>90%</td><td>£600M</td><td>£400M</td><td>1.5Mtons</td><td>25%</td><td>15%</td></tr><tr><td>Low</td><td>Low</td><td>Lower</td><td>85%</td><td>£400M</td><td>£200M</td><td>1.0Mtons</td><td>18%</td><td>10%</td></tr><tr><td>High</td><td>High</td><td>Veryhigh</td><td>92%</td><td>£700M</td><td>£500M</td><td>1.8Mtons</td><td>22%</td><td>14%</td></tr><tr><td>Low</td><td>Medium</td><td>Moderate</td><td>87%</td><td>£300M</td><td>£150M</td><td>0.8Mtons</td><td>15%</td><td>8%</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "MiningMethodComparison",
+          "bbox": [
+            13,
+            85,
+            145,
+            115
+          ],
+          "words": [
+            {
+              "text": "MiningMethodComparison",
+              "bbox": [
+                18,
+                89,
+                121,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Rating",
+          "bbox": [
+            145,
+            85,
+            211,
+            115
+          ],
+          "words": [
+            {
+              "text": "Rating",
+              "bbox": [
+                150,
+                89,
+                175,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Status",
+          "bbox": [
+            211,
+            85,
+            277,
+            115
+          ],
+          "words": [
+            {
+              "text": "Status",
+              "bbox": [
+                216,
+                89,
+                239,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "CategoryInsights",
+          "bbox": [
+            277,
+            85,
+            475,
+            115
+          ],
+          "words": [
+            {
+              "text": "CategoryInsights",
+              "bbox": [
+                282,
+                89,
+                346,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "CostAnalysis",
+          "bbox": [
+            475,
+            85,
+            510,
+            115
+          ],
+          "words": [
+            {
+              "text": "CostAnalysis",
+              "bbox": [
+                479,
+                89,
+                505,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Underground",
+          "bbox": [
+            13,
+            115,
+            79,
+            207
+          ],
+          "words": [
+            {
+              "text": "Underground",
+              "bbox": [
+                18,
+                118,
+                69,
+                128
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Open-Pit",
+          "bbox": [
+            79,
+            115,
+            145,
+            207
+          ],
+          "words": [
+            {
+              "text": "Open-Pit",
+              "bbox": [
+                84,
+                118,
+                118,
+                128
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "OperationalRisk",
+          "bbox": [
+            145,
+            115,
+            211,
+            207
+          ],
+          "words": [
+            {
+              "text": "OperationalRisk",
+              "bbox": [
+                150,
+                118,
+                204,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "RecoveryRate",
+          "bbox": [
+            211,
+            115,
+            277,
+            207
+          ],
+          "words": [
+            {
+              "text": "RecoveryRate",
+              "bbox": [
+                216,
+                118,
+                268,
+                128
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "CAPEX",
+          "bbox": [
+            277,
+            115,
+            343,
+            207
+          ],
+          "words": [
+            {
+              "text": "CAPEX",
+              "bbox": [
+                282,
+                118,
+                312,
+                128
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "OPEX",
+          "bbox": [
+            343,
+            115,
+            409,
+            207
+          ],
+          "words": [
+            {
+              "text": "OPEX",
+              "bbox": [
+                348,
+                118,
+                372,
+                128
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "ProductionVolume",
+          "bbox": [
+            409,
+            115,
+            475,
+            207
+          ],
+          "words": [
+            {
+              "text": "ProductionVolume",
+              "bbox": [
+                416,
+                118,
+                471,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "ProfitMargin",
+          "bbox": [
+            475,
+            115,
+            492,
+            207
+          ],
+          "words": [
+            {
+              "text": "ProfitMargin",
+              "bbox": [
+                479,
+                118,
+                488,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "IRR(%)",
+          "bbox": [
+            492,
+            115,
+            510,
+            207
+          ],
+          "words": [
+            {
+              "text": "IRR(%)",
+              "bbox": [
+                497,
+                118,
+                505,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            13,
+            207,
+            79,
+            249
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                18,
+                211,
+                35,
+                220
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            79,
+            207,
+            145,
+            249
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                84,
+                211,
+                113,
+                220
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Moderate",
+          "bbox": [
+            145,
+            207,
+            211,
+            249
+          ],
+          "words": [
+            {
+              "text": "Moderate",
+              "bbox": [
+                150,
+                211,
+                183,
+                220
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "95%",
+          "bbox": [
+            211,
+            207,
+            277,
+            249
+          ],
+          "words": [
+            {
+              "text": "95%",
+              "bbox": [
+                216,
+                211,
+                232,
+                220
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£500M",
+          "bbox": [
+            277,
+            207,
+            343,
+            249
+          ],
+          "words": [
+            {
+              "text": "£500M",
+              "bbox": [
+                282,
+                211,
+                307,
+                220
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "£300M",
+          "bbox": [
+            343,
+            207,
+            409,
+            249
+          ],
+          "words": [
+            {
+              "text": "£300M",
+              "bbox": [
+                348,
+                211,
+                373,
+                220
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.2Mtons",
+          "bbox": [
+            409,
+            207,
+            475,
+            249
+          ],
+          "words": [
+            {
+              "text": "1.2Mtons",
+              "bbox": [
+                437,
+                211,
+                471,
+                220
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            475,
+            207,
+            492,
+            249
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                479,
+                211,
+                487,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5%",
+          "bbox": [
+            492,
+            207,
+            510,
+            249
+          ],
+          "words": [
+            {
+              "text": "12.5%",
+              "bbox": [
+                497,
+                211,
+                505,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            13,
+            249,
+            79,
+            292
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                18,
+                253,
+                47,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            79,
+            249,
+            145,
+            292
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                84,
+                253,
+                101,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Higher",
+          "bbox": [
+            145,
+            249,
+            211,
+            292
+          ],
+          "words": [
+            {
+              "text": "Higher",
+              "bbox": [
+                150,
+                253,
+                174,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "90%",
+          "bbox": [
+            211,
+            249,
+            277,
+            292
+          ],
+          "words": [
+            {
+              "text": "90%",
+              "bbox": [
+                216,
+                253,
+                232,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£600M",
+          "bbox": [
+            277,
+            249,
+            343,
+            292
+          ],
+          "words": [
+            {
+              "text": "£600M",
+              "bbox": [
+                282,
+                253,
+                307,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "£400M",
+          "bbox": [
+            343,
+            249,
+            409,
+            292
+          ],
+          "words": [
+            {
+              "text": "£400M",
+              "bbox": [
+                348,
+                253,
+                373,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5Mtons",
+          "bbox": [
+            409,
+            249,
+            475,
+            292
+          ],
+          "words": [
+            {
+              "text": "1.5Mtons",
+              "bbox": [
+                437,
+                253,
+                471,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "25%",
+          "bbox": [
+            475,
+            249,
+            492,
+            292
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                479,
+                253,
+                487,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            492,
+            249,
+            510,
+            292
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                497,
+                253,
+                505,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Low",
+          "bbox": [
+            13,
+            292,
+            79,
+            334
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                18,
+                295,
+                34,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Low",
+          "bbox": [
+            79,
+            292,
+            145,
+            334
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                84,
+                295,
+                100,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Lower",
+          "bbox": [
+            145,
+            292,
+            211,
+            334
+          ],
+          "words": [
+            {
+              "text": "Lower",
+              "bbox": [
+                150,
+                295,
+                173,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "85%",
+          "bbox": [
+            211,
+            292,
+            277,
+            334
+          ],
+          "words": [
+            {
+              "text": "85%",
+              "bbox": [
+                216,
+                295,
+                232,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£400M",
+          "bbox": [
+            277,
+            292,
+            343,
+            334
+          ],
+          "words": [
+            {
+              "text": "£400M",
+              "bbox": [
+                282,
+                295,
+                307,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "£200M",
+          "bbox": [
+            343,
+            292,
+            409,
+            334
+          ],
+          "words": [
+            {
+              "text": "£200M",
+              "bbox": [
+                348,
+                295,
+                373,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.0Mtons",
+          "bbox": [
+            409,
+            292,
+            475,
+            334
+          ],
+          "words": [
+            {
+              "text": "1.0Mtons",
+              "bbox": [
+                437,
+                295,
+                471,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "18%",
+          "bbox": [
+            475,
+            292,
+            492,
+            334
+          ],
+          "words": [
+            {
+              "text": "18%",
+              "bbox": [
+                479,
+                295,
+                487,
+                329
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            492,
+            292,
+            510,
+            334
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                497,
+                295,
+                505,
+                317
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            13,
+            334,
+            79,
+            376
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                18,
+                337,
+                35,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            79,
+            334,
+            145,
+            376
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                84,
+                337,
+                101,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Veryhigh",
+          "bbox": [
+            145,
+            334,
+            211,
+            376
+          ],
+          "words": [
+            {
+              "text": "Veryhigh",
+              "bbox": [
+                150,
+                337,
+                182,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "92%",
+          "bbox": [
+            211,
+            334,
+            277,
+            376
+          ],
+          "words": [
+            {
+              "text": "92%",
+              "bbox": [
+                216,
+                337,
+                232,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£700M",
+          "bbox": [
+            277,
+            334,
+            343,
+            376
+          ],
+          "words": [
+            {
+              "text": "£700M",
+              "bbox": [
+                282,
+                337,
+                307,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "£500M",
+          "bbox": [
+            343,
+            334,
+            409,
+            376
+          ],
+          "words": [
+            {
+              "text": "£500M",
+              "bbox": [
+                348,
+                337,
+                373,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.8Mtons",
+          "bbox": [
+            409,
+            334,
+            475,
+            376
+          ],
+          "words": [
+            {
+              "text": "1.8Mtons",
+              "bbox": [
+                437,
+                337,
+                471,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "22%",
+          "bbox": [
+            475,
+            334,
+            492,
+            376
+          ],
+          "words": [
+            {
+              "text": "22%",
+              "bbox": [
+                479,
+                337,
+                487,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "14%",
+          "bbox": [
+            492,
+            334,
+            510,
+            376
+          ],
+          "words": [
+            {
+              "text": "14%",
+              "bbox": [
+                497,
+                337,
+                505,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Low",
+          "bbox": [
+            13,
+            376,
+            79,
+            419
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                18,
+                379,
+                34,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            79,
+            376,
+            145,
+            419
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                84,
+                379,
+                113,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Moderate",
+          "bbox": [
+            145,
+            376,
+            211,
+            419
+          ],
+          "words": [
+            {
+              "text": "Moderate",
+              "bbox": [
+                150,
+                379,
+                183,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "87%",
+          "bbox": [
+            211,
+            376,
+            277,
+            419
+          ],
+          "words": [
+            {
+              "text": "87%",
+              "bbox": [
+                216,
+                379,
+                232,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£300M",
+          "bbox": [
+            277,
+            376,
+            343,
+            419
+          ],
+          "words": [
+            {
+              "text": "£300M",
+              "bbox": [
+                282,
+                379,
+                307,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "£150M",
+          "bbox": [
+            343,
+            376,
+            409,
+            419
+          ],
+          "words": [
+            {
+              "text": "£150M",
+              "bbox": [
+                348,
+                379,
+                373,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.8Mtons",
+          "bbox": [
+            409,
+            376,
+            475,
+            419
+          ],
+          "words": [
+            {
+              "text": "0.8Mtons",
+              "bbox": [
+                437,
+                379,
+                471,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            475,
+            376,
+            492,
+            419
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                479,
+                379,
+                487,
+                414
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "8%",
+          "bbox": [
+            492,
+            376,
+            510,
+            419
+          ],
+          "words": [
+            {
+              "text": "8%",
+              "bbox": [
+                498,
+                379,
+                505,
+                401
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        432,
+        510,
+        540
+      ],
+      "content": "The Underground method is rated as High in operational risk with a recovery rate of 95%, requiring a CAPEX of £500M and an OPEX of £300M, yielding a production volume of 1.2Mtons, a profit margin of 20%, and an IRR of 12.5%. In contrast, the Open-Pit method is rated Medium for operational risk with a recovery rate of 90%, necessitating a CAPEX of £600M and an OPEX of £400M, producing 1.5Mtons, a profit margin of 25%, and an IRR of 15%. The Low-rated Underground method indicates a lower operational risk with a recovery rate of 85%, requiring £400M in CAPEX and £200M for OPEX, producing 1.0Mtons, achieving an 18% profit margin and a 10% IRR. Additionally, a High-rated Open-Pit method presents a very high operational risk with a recovery rate of 92%, a CAPEX of £700M, OPEX of £500M, and a production volume of 1.8Mtons, offering a profit margin of 22% and an IRR of 14%.",
+      "lines": [
+        {
+          "text": "The Underground method is rated as High in operational risk with a recovery rate of 95%, requiring a CAPEX of £500M and an",
+          "bbox": [
+            13,
+            433,
+            510,
+            444
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                13,
+                433,
+                28,
+                444
+              ]
+            },
+            {
+              "text": "Underground",
+              "bbox": [
+                31,
+                433,
+                82,
+                444
+              ]
+            },
+            {
+              "text": "method",
+              "bbox": [
+                84,
+                433,
+                114,
+                444
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                116,
+                433,
+                122,
+                444
+              ]
+            },
+            {
+              "text": "rated",
+              "bbox": [
+                125,
+                433,
+                144,
+                444
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                147,
+                433,
+                155,
+                444
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                157,
+                433,
+                176,
+                444
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                179,
+                433,
+                186,
+                444
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                189,
+                433,
+                232,
+                444
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                235,
+                433,
+                249,
+                444
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                252,
+                433,
+                269,
+                444
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                271,
+                433,
+                276,
+                444
+              ]
+            },
+            {
+              "text": "recovery",
+              "bbox": [
+                278,
+                433,
+                312,
+                444
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                314,
+                433,
+                329,
+                444
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                331,
+                433,
+                339,
+                444
+              ]
+            },
+            {
+              "text": "95%,",
+              "bbox": [
+                342,
+                433,
+                362,
+                444
+              ]
+            },
+            {
+              "text": "requiring",
+              "bbox": [
+                365,
+                433,
+                400,
+                444
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                402,
+                433,
+                407,
+                444
+              ]
+            },
+            {
+              "text": "CAPEX",
+              "bbox": [
+                409,
+                433,
+                441,
+                444
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                443,
+                433,
+                451,
+                444
+              ]
+            },
+            {
+              "text": "£500M",
+              "bbox": [
+                454,
+                433,
+                482,
+                444
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                484,
+                433,
+                498,
+                444
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                501,
+                433,
+                510,
+                444
+              ]
+            }
+          ]
+        },
+        {
+          "text": "OPEX of £300M, yielding a production volume of 1.2Mtons, a profit margin of 20%, and an IRR of 12.5%. In contrast, the",
+          "bbox": [
+            13,
+            447,
+            510,
+            457
+          ],
+          "words": [
+            {
+              "text": "OPEX",
+              "bbox": [
+                13,
+                447,
+                38,
+                457
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                42,
+                447,
+                50,
+                457
+              ]
+            },
+            {
+              "text": "£300M,",
+              "bbox": [
+                53,
+                447,
+                84,
+                457
+              ]
+            },
+            {
+              "text": "yielding",
+              "bbox": [
+                87,
+                447,
+                119,
+                457
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                122,
+                447,
+                126,
+                457
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                129,
+                447,
+                171,
+                457
+              ]
+            },
+            {
+              "text": "volume",
+              "bbox": [
+                175,
+                447,
+                204,
+                457
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                207,
+                447,
+                215,
+                457
+              ]
+            },
+            {
+              "text": "1.2Mtons,",
+              "bbox": [
+                218,
+                447,
+                258,
+                457
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                261,
+                447,
+                265,
+                457
+              ]
+            },
+            {
+              "text": "profit",
+              "bbox": [
+                269,
+                447,
+                290,
+                457
+              ]
+            },
+            {
+              "text": "margin",
+              "bbox": [
+                293,
+                447,
+                321,
+                457
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                324,
+                447,
+                332,
+                457
+              ]
+            },
+            {
+              "text": "20%,",
+              "bbox": [
+                335,
+                447,
+                356,
+                457
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                359,
+                447,
+                373,
+                457
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                376,
+                447,
+                385,
+                457
+              ]
+            },
+            {
+              "text": "IRR",
+              "bbox": [
+                389,
+                447,
+                405,
+                457
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                408,
+                447,
+                416,
+                457
+              ]
+            },
+            {
+              "text": "12.5%.",
+              "bbox": [
+                419,
+                447,
+                447,
+                457
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                450,
+                447,
+                458,
+                457
+              ]
+            },
+            {
+              "text": "contrast,",
+              "bbox": [
+                462,
+                447,
+                495,
+                457
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                498,
+                447,
+                510,
+                457
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Open-Pit method is rated Medium for operational risk with a recovery rate of 90%, necessitating a CAPEX of £600M and an",
+          "bbox": [
+            13,
+            460,
+            510,
+            471
+          ],
+          "words": [
+            {
+              "text": "Open-Pit",
+              "bbox": [
+                13,
+                460,
+                48,
+                471
+              ]
+            },
+            {
+              "text": "method",
+              "bbox": [
+                51,
+                460,
+                80,
+                471
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                83,
+                460,
+                90,
+                471
+              ]
+            },
+            {
+              "text": "rated",
+              "bbox": [
+                93,
+                460,
+                112,
+                471
+              ]
+            },
+            {
+              "text": "Medium",
+              "bbox": [
+                115,
+                460,
+                148,
+                471
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                151,
+                460,
+                162,
+                471
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                165,
+                460,
+                209,
+                471
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                212,
+                460,
+                227,
+                471
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                230,
+                460,
+                247,
+                471
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                250,
+                460,
+                254,
+                471
+              ]
+            },
+            {
+              "text": "recovery",
+              "bbox": [
+                257,
+                460,
+                291,
+                471
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                294,
+                460,
+                309,
+                471
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                312,
+                460,
+                320,
+                471
+              ]
+            },
+            {
+              "text": "90%,",
+              "bbox": [
+                323,
+                460,
+                343,
+                471
+              ]
+            },
+            {
+              "text": "necessitating",
+              "bbox": [
+                346,
+                460,
+                396,
+                471
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                399,
+                460,
+                404,
+                471
+              ]
+            },
+            {
+              "text": "CAPEX",
+              "bbox": [
+                407,
+                460,
+                438,
+                471
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                441,
+                460,
+                449,
+                471
+              ]
+            },
+            {
+              "text": "£600M",
+              "bbox": [
+                453,
+                460,
+                480,
+                471
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                484,
+                460,
+                498,
+                471
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                501,
+                460,
+                510,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "text": "OPEX of £400M, producing 1.5Mtons, a profit margin of 25%, and an IRR of 15%. The Low-rated Underground method",
+          "bbox": [
+            13,
+            474,
+            510,
+            484
+          ],
+          "words": [
+            {
+              "text": "OPEX",
+              "bbox": [
+                13,
+                474,
+                38,
+                484
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                42,
+                474,
+                50,
+                484
+              ]
+            },
+            {
+              "text": "£400M,",
+              "bbox": [
+                54,
+                474,
+                85,
+                484
+              ]
+            },
+            {
+              "text": "producing",
+              "bbox": [
+                89,
+                474,
+                128,
+                484
+              ]
+            },
+            {
+              "text": "1.5Mtons,",
+              "bbox": [
+                132,
+                474,
+                171,
+                484
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                175,
+                474,
+                179,
+                484
+              ]
+            },
+            {
+              "text": "profit",
+              "bbox": [
+                183,
+                474,
+                205,
+                484
+              ]
+            },
+            {
+              "text": "margin",
+              "bbox": [
+                208,
+                474,
+                236,
+                484
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                240,
+                474,
+                248,
+                484
+              ]
+            },
+            {
+              "text": "25%,",
+              "bbox": [
+                252,
+                474,
+                272,
+                484
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                276,
+                474,
+                290,
+                484
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                293,
+                474,
+                303,
+                484
+              ]
+            },
+            {
+              "text": "IRR",
+              "bbox": [
+                306,
+                474,
+                323,
+                484
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                327,
+                474,
+                335,
+                484
+              ]
+            },
+            {
+              "text": "15%.",
+              "bbox": [
+                338,
+                474,
+                359,
+                484
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                362,
+                474,
+                377,
+                484
+              ]
+            },
+            {
+              "text": "Low-rated",
+              "bbox": [
+                381,
+                474,
+                422,
+                484
+              ]
+            },
+            {
+              "text": "Underground",
+              "bbox": [
+                425,
+                474,
+                477,
+                484
+              ]
+            },
+            {
+              "text": "method",
+              "bbox": [
+                481,
+                474,
+                510,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "text": "indicates a lower operational risk with a recovery rate of 85%, requiring £400M in CAPEX and £200M for OPEX, producing",
+          "bbox": [
+            13,
+            487,
+            510,
+            498
+          ],
+          "words": [
+            {
+              "text": "indicates",
+              "bbox": [
+                13,
+                487,
+                48,
+                498
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                51,
+                487,
+                55,
+                498
+              ]
+            },
+            {
+              "text": "lower",
+              "bbox": [
+                58,
+                487,
+                80,
+                498
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                83,
+                487,
+                126,
+                498
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                129,
+                487,
+                144,
+                498
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                147,
+                487,
+                164,
+                498
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                167,
+                487,
+                171,
+                498
+              ]
+            },
+            {
+              "text": "recovery",
+              "bbox": [
+                174,
+                487,
+                208,
+                498
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                211,
+                487,
+                226,
+                498
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                229,
+                487,
+                237,
+                498
+              ]
+            },
+            {
+              "text": "85%,",
+              "bbox": [
+                240,
+                487,
+                260,
+                498
+              ]
+            },
+            {
+              "text": "requiring",
+              "bbox": [
+                263,
+                487,
+                298,
+                498
+              ]
+            },
+            {
+              "text": "£400M",
+              "bbox": [
+                301,
+                487,
+                329,
+                498
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                332,
+                487,
+                340,
+                498
+              ]
+            },
+            {
+              "text": "CAPEX",
+              "bbox": [
+                343,
+                487,
+                375,
+                498
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                378,
+                487,
+                392,
+                498
+              ]
+            },
+            {
+              "text": "£200M",
+              "bbox": [
+                395,
+                487,
+                423,
+                498
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                426,
+                487,
+                437,
+                498
+              ]
+            },
+            {
+              "text": "OPEX,",
+              "bbox": [
+                440,
+                487,
+                468,
+                498
+              ]
+            },
+            {
+              "text": "producing",
+              "bbox": [
+                471,
+                487,
+                510,
+                498
+              ]
+            }
+          ]
+        },
+        {
+          "text": "1.0Mtons, achieving an 18% profit margin and a 10% IRR. Additionally, a High-rated Open-Pit method presents a very high",
+          "bbox": [
+            13,
+            501,
+            510,
+            511
+          ],
+          "words": [
+            {
+              "text": "1.0Mtons,",
+              "bbox": [
+                13,
+                501,
+                52,
+                511
+              ]
+            },
+            {
+              "text": "achieving",
+              "bbox": [
+                56,
+                501,
+                93,
+                511
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                97,
+                501,
+                106,
+                511
+              ]
+            },
+            {
+              "text": "18%",
+              "bbox": [
+                109,
+                501,
+                127,
+                511
+              ]
+            },
+            {
+              "text": "profit",
+              "bbox": [
+                130,
+                501,
+                151,
+                511
+              ]
+            },
+            {
+              "text": "margin",
+              "bbox": [
+                155,
+                501,
+                182,
+                511
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                185,
+                501,
+                199,
+                511
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                202,
+                501,
+                207,
+                511
+              ]
+            },
+            {
+              "text": "10%",
+              "bbox": [
+                210,
+                501,
+                228,
+                511
+              ]
+            },
+            {
+              "text": "IRR.",
+              "bbox": [
+                231,
+                501,
+                250,
+                511
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                252,
+                501,
+                303,
+                511
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                306,
+                501,
+                311,
+                511
+              ]
+            },
+            {
+              "text": "High-rated",
+              "bbox": [
+                314,
+                501,
+                356,
+                511
+              ]
+            },
+            {
+              "text": "Open-Pit",
+              "bbox": [
+                359,
+                501,
+                394,
+                511
+              ]
+            },
+            {
+              "text": "method",
+              "bbox": [
+                397,
+                501,
+                426,
+                511
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                430,
+                501,
+                461,
+                511
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                465,
+                501,
+                469,
+                511
+              ]
+            },
+            {
+              "text": "very",
+              "bbox": [
+                472,
+                501,
+                489,
+                511
+              ]
+            },
+            {
+              "text": "high",
+              "bbox": [
+                493,
+                501,
+                510,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "text": "operational risk with a recovery rate of 92%, a CAPEX of £700M, OPEX of £500M, and a production volume of 1.8Mtons,",
+          "bbox": [
+            13,
+            514,
+            510,
+            525
+          ],
+          "words": [
+            {
+              "text": "operational",
+              "bbox": [
+                13,
+                514,
+                57,
+                525
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                60,
+                514,
+                74,
+                525
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                78,
+                514,
+                95,
+                525
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                98,
+                514,
+                103,
+                525
+              ]
+            },
+            {
+              "text": "recovery",
+              "bbox": [
+                106,
+                514,
+                140,
+                525
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                143,
+                514,
+                158,
+                525
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                161,
+                514,
+                169,
+                525
+              ]
+            },
+            {
+              "text": "92%,",
+              "bbox": [
+                172,
+                514,
+                192,
+                525
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                196,
+                514,
+                200,
+                525
+              ]
+            },
+            {
+              "text": "CAPEX",
+              "bbox": [
+                203,
+                514,
+                235,
+                525
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                238,
+                514,
+                246,
+                525
+              ]
+            },
+            {
+              "text": "£700M,",
+              "bbox": [
+                250,
+                514,
+                280,
+                525
+              ]
+            },
+            {
+              "text": "OPEX",
+              "bbox": [
+                283,
+                514,
+                308,
+                525
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                312,
+                514,
+                320,
+                525
+              ]
+            },
+            {
+              "text": "£500M,",
+              "bbox": [
+                323,
+                514,
+                354,
+                525
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                357,
+                514,
+                371,
+                525
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                374,
+                514,
+                378,
+                525
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                382,
+                514,
+                424,
+                525
+              ]
+            },
+            {
+              "text": "volume",
+              "bbox": [
+                427,
+                514,
+                456,
+                525
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                459,
+                514,
+                467,
+                525
+              ]
+            },
+            {
+              "text": "1.8Mtons,",
+              "bbox": [
+                471,
+                514,
+                510,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "text": "offering a profit margin of 22% and an IRR of 14%.",
+          "bbox": [
+            13,
+            528,
+            214,
+            538
+          ],
+          "words": [
+            {
+              "text": "offering",
+              "bbox": [
+                13,
+                528,
+                44,
+                538
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                47,
+                528,
+                51,
+                538
+              ]
+            },
+            {
+              "text": "profit",
+              "bbox": [
+                53,
+                528,
+                75,
+                538
+              ]
+            },
+            {
+              "text": "margin",
+              "bbox": [
+                77,
+                528,
+                104,
+                538
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                107,
+                528,
+                115,
+                538
+              ]
+            },
+            {
+              "text": "22%",
+              "bbox": [
+                117,
+                528,
+                135,
+                538
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                137,
+                528,
+                151,
+                538
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                154,
+                528,
+                163,
+                538
+              ]
+            },
+            {
+              "text": "IRR",
+              "bbox": [
+                165,
+                528,
+                181,
+                538
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                184,
+                528,
+                192,
+                538
+              ]
+            },
+            {
+              "text": "14%.",
+              "bbox": [
+                194,
+                528,
+                214,
+                538
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_195204_t1",
+      "bbox": [
+        13,
+        554,
+        510,
+        721
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 5,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            14,
+            554,
+            509,
+            573
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            14,
+            573,
+            509,
+            591
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            14,
+            591,
+            509,
+            609
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            14,
+            609,
+            509,
+            628
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            14,
+            628,
+            509,
+            646
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            14,
+            646,
+            509,
+            665
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            14,
+            665,
+            509,
+            683
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            14,
+            683,
+            509,
+            702
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            14,
+            702,
+            509,
+            720
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Mineral</td><td>Status</td></tr><tr><td>Production</td><td>Supply</td></tr><tr><td colspan=\"2\">CriticalMineralsOverview</td><td>UsageRate</td></tr><tr><td>Lithium</td><td colspan=\"2\">1000tons</td><td colspan=\"2\">75%demand</td></tr><tr><td>Cobalt</td><td>500tons</td><td>50%demand</td><td>Nickel</td><td>800tons</td></tr></thead><tbody><tr><td>Lithium</td><td>Active</td><td>1000tons</td><td>1500tons</td><td>67%</td></tr><tr><td>Cobalt</td><td>Active</td><td>500tons</td><td>1000tons</td><td>50%</td></tr><tr><td>Nickel</td><td>Planned</td><td>800tons</td><td>1200tons</td><td>67%</td></tr><tr><td>RareEarth</td><td>Inactive</td><td>200tons</td><td>300tons</td><td>67%</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Mineral",
+          "bbox": [
+            14,
+            554,
+            148,
+            573
+          ],
+          "words": [
+            {
+              "text": "Mineral",
+              "bbox": [
+                18,
+                558,
+                49,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Status",
+          "bbox": [
+            148,
+            554,
+            282,
+            573
+          ],
+          "words": [
+            {
+              "text": "Status",
+              "bbox": [
+                153,
+                558,
+                176,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Production",
+          "bbox": [
+            14,
+            573,
+            148,
+            591
+          ],
+          "words": [
+            {
+              "text": "Production",
+              "bbox": [
+                18,
+                576,
+                60,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Supply",
+          "bbox": [
+            148,
+            573,
+            282,
+            591
+          ],
+          "words": [
+            {
+              "text": "Supply",
+              "bbox": [
+                153,
+                576,
+                179,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CriticalMineralsOverview",
+          "bbox": [
+            14,
+            591,
+            282,
+            609
+          ],
+          "words": [
+            {
+              "text": "CriticalMineralsOverview",
+              "bbox": [
+                18,
+                595,
+                117,
+                605
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "UsageRate",
+          "bbox": [
+            282,
+            591,
+            417,
+            609
+          ],
+          "words": [
+            {
+              "text": "UsageRate",
+              "bbox": [
+                287,
+                595,
+                327,
+                605
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Lithium",
+          "bbox": [
+            14,
+            609,
+            148,
+            628
+          ],
+          "words": [
+            {
+              "text": "Lithium",
+              "bbox": [
+                18,
+                613,
+                49,
+                623
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "1000tons",
+          "bbox": [
+            148,
+            609,
+            417,
+            628
+          ],
+          "words": [
+            {
+              "text": "1000tons",
+              "bbox": [
+                153,
+                613,
+                186,
+                623
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "75%demand",
+          "bbox": [
+            417,
+            609,
+            509,
+            628
+          ],
+          "words": [
+            {
+              "text": "75%demand",
+              "bbox": [
+                457,
+                613,
+                504,
+                623
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Cobalt",
+          "bbox": [
+            14,
+            628,
+            148,
+            646
+          ],
+          "words": [
+            {
+              "text": "Cobalt",
+              "bbox": [
+                18,
+                632,
+                44,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "500tons",
+          "bbox": [
+            148,
+            628,
+            282,
+            646
+          ],
+          "words": [
+            {
+              "text": "500tons",
+              "bbox": [
+                153,
+                632,
+                182,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "50%demand",
+          "bbox": [
+            282,
+            628,
+            417,
+            646
+          ],
+          "words": [
+            {
+              "text": "50%demand",
+              "bbox": [
+                287,
+                632,
+                335,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Nickel",
+          "bbox": [
+            417,
+            628,
+            463,
+            646
+          ],
+          "words": [
+            {
+              "text": "Nickel",
+              "bbox": [
+                434,
+                632,
+                458,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "800tons",
+          "bbox": [
+            463,
+            628,
+            509,
+            646
+          ],
+          "words": [
+            {
+              "text": "800tons",
+              "bbox": [
+                476,
+                632,
+                504,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Lithium",
+          "bbox": [
+            14,
+            646,
+            148,
+            665
+          ],
+          "words": [
+            {
+              "text": "Lithium",
+              "bbox": [
+                18,
+                650,
+                47,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Active",
+          "bbox": [
+            148,
+            646,
+            282,
+            665
+          ],
+          "words": [
+            {
+              "text": "Active",
+              "bbox": [
+                153,
+                650,
+                176,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1000tons",
+          "bbox": [
+            282,
+            646,
+            417,
+            665
+          ],
+          "words": [
+            {
+              "text": "1000tons",
+              "bbox": [
+                287,
+                650,
+                319,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1500tons",
+          "bbox": [
+            417,
+            646,
+            463,
+            665
+          ],
+          "words": [
+            {
+              "text": "1500tons",
+              "bbox": [
+                426,
+                650,
+                458,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "67%",
+          "bbox": [
+            463,
+            646,
+            509,
+            665
+          ],
+          "words": [
+            {
+              "text": "67%",
+              "bbox": [
+                488,
+                650,
+                504,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Cobalt",
+          "bbox": [
+            14,
+            665,
+            148,
+            683
+          ],
+          "words": [
+            {
+              "text": "Cobalt",
+              "bbox": [
+                18,
+                669,
+                42,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Active",
+          "bbox": [
+            148,
+            665,
+            282,
+            683
+          ],
+          "words": [
+            {
+              "text": "Active",
+              "bbox": [
+                153,
+                669,
+                176,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "500tons",
+          "bbox": [
+            282,
+            665,
+            417,
+            683
+          ],
+          "words": [
+            {
+              "text": "500tons",
+              "bbox": [
+                287,
+                669,
+                315,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1000tons",
+          "bbox": [
+            417,
+            665,
+            463,
+            683
+          ],
+          "words": [
+            {
+              "text": "1000tons",
+              "bbox": [
+                426,
+                669,
+                458,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "50%",
+          "bbox": [
+            463,
+            665,
+            509,
+            683
+          ],
+          "words": [
+            {
+              "text": "50%",
+              "bbox": [
+                488,
+                669,
+                504,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Nickel",
+          "bbox": [
+            14,
+            683,
+            148,
+            702
+          ],
+          "words": [
+            {
+              "text": "Nickel",
+              "bbox": [
+                18,
+                687,
+                42,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Planned",
+          "bbox": [
+            148,
+            683,
+            282,
+            702
+          ],
+          "words": [
+            {
+              "text": "Planned",
+              "bbox": [
+                153,
+                687,
+                181,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "800tons",
+          "bbox": [
+            282,
+            683,
+            417,
+            702
+          ],
+          "words": [
+            {
+              "text": "800tons",
+              "bbox": [
+                287,
+                687,
+                315,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1200tons",
+          "bbox": [
+            417,
+            683,
+            463,
+            702
+          ],
+          "words": [
+            {
+              "text": "1200tons",
+              "bbox": [
+                426,
+                687,
+                458,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "67%",
+          "bbox": [
+            463,
+            683,
+            509,
+            702
+          ],
+          "words": [
+            {
+              "text": "67%",
+              "bbox": [
+                488,
+                687,
+                504,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "RareEarth",
+          "bbox": [
+            14,
+            702,
+            148,
+            720
+          ],
+          "words": [
+            {
+              "text": "RareEarth",
+              "bbox": [
+                18,
+                706,
+                54,
+                715
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Inactive",
+          "bbox": [
+            148,
+            702,
+            282,
+            720
+          ],
+          "words": [
+            {
+              "text": "Inactive",
+              "bbox": [
+                153,
+                706,
+                181,
+                715
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "200tons",
+          "bbox": [
+            282,
+            702,
+            417,
+            720
+          ],
+          "words": [
+            {
+              "text": "200tons",
+              "bbox": [
+                287,
+                706,
+                315,
+                715
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "300tons",
+          "bbox": [
+            417,
+            702,
+            463,
+            720
+          ],
+          "words": [
+            {
+              "text": "300tons",
+              "bbox": [
+                431,
+                706,
+                458,
+                715
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "67%",
+          "bbox": [
+            463,
+            702,
+            509,
+            720
+          ],
+          "words": [
+            {
+              "text": "67%",
+              "bbox": [
+                488,
+                706,
+                504,
+                715
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        734,
+        510,
+        788
+      ],
+      "content": "Lastly, the Low-rated Open-Pit method has a moderate operational risk with an 87% recovery rate, requiring £300M in CAPEX, £150M in OPEX, producing 0.8Mtons, a profit margin of 15%, and an IRR of 8%. The critical minerals overview indicates Lithium production of 1,000tons with a usage rate of 67% of demand, Cobalt at 500tons with 50% of demand, and Nickel planned at 800tons with 67% usage, while inactive Rare Earth production is at 200tons, meeting 67% of demand.",
+      "lines": [
+        {
+          "text": "Lastly, the Low-rated Open-Pit method has a moderate operational risk with an 87% recovery rate, requiring £300M in CAPEX,",
+          "bbox": [
+            13,
+            735,
+            510,
+            745
+          ],
+          "words": [
+            {
+              "text": "Lastly,",
+              "bbox": [
+                13,
+                735,
+                39,
+                745
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                42,
+                735,
+                53,
+                745
+              ]
+            },
+            {
+              "text": "Low-rated",
+              "bbox": [
+                56,
+                735,
+                96,
+                745
+              ]
+            },
+            {
+              "text": "Open-Pit",
+              "bbox": [
+                98,
+                735,
+                133,
+                745
+              ]
+            },
+            {
+              "text": "method",
+              "bbox": [
+                136,
+                735,
+                165,
+                745
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                167,
+                735,
+                180,
+                745
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                183,
+                735,
+                187,
+                745
+              ]
+            },
+            {
+              "text": "moderate",
+              "bbox": [
+                189,
+                735,
+                225,
+                745
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                228,
+                735,
+                271,
+                745
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                274,
+                735,
+                288,
+                745
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                291,
+                735,
+                308,
+                745
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                310,
+                735,
+                319,
+                745
+              ]
+            },
+            {
+              "text": "87%",
+              "bbox": [
+                322,
+                735,
+                339,
+                745
+              ]
+            },
+            {
+              "text": "recovery",
+              "bbox": [
+                342,
+                735,
+                376,
+                745
+              ]
+            },
+            {
+              "text": "rate,",
+              "bbox": [
+                378,
+                735,
+                395,
+                745
+              ]
+            },
+            {
+              "text": "requiring",
+              "bbox": [
+                397,
+                735,
+                433,
+                745
+              ]
+            },
+            {
+              "text": "£300M",
+              "bbox": [
+                435,
+                735,
+                463,
+                745
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                466,
+                735,
+                473,
+                745
+              ]
+            },
+            {
+              "text": "CAPEX,",
+              "bbox": [
+                476,
+                735,
+                510,
+                745
+              ]
+            }
+          ]
+        },
+        {
+          "text": "£150M in OPEX, producing 0.8Mtons, a profit margin of 15%, and an IRR of 8%. The critical minerals overview indicates",
+          "bbox": [
+            13,
+            748,
+            510,
+            759
+          ],
+          "words": [
+            {
+              "text": "£150M",
+              "bbox": [
+                13,
+                748,
+                41,
+                759
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                45,
+                748,
+                52,
+                759
+              ]
+            },
+            {
+              "text": "OPEX,",
+              "bbox": [
+                56,
+                748,
+                83,
+                759
+              ]
+            },
+            {
+              "text": "producing",
+              "bbox": [
+                87,
+                748,
+                126,
+                759
+              ]
+            },
+            {
+              "text": "0.8Mtons,",
+              "bbox": [
+                129,
+                748,
+                169,
+                759
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                172,
+                748,
+                176,
+                759
+              ]
+            },
+            {
+              "text": "profit",
+              "bbox": [
+                180,
+                748,
+                201,
+                759
+              ]
+            },
+            {
+              "text": "margin",
+              "bbox": [
+                205,
+                748,
+                232,
+                759
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                235,
+                748,
+                244,
+                759
+              ]
+            },
+            {
+              "text": "15%,",
+              "bbox": [
+                247,
+                748,
+                267,
+                759
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                271,
+                748,
+                285,
+                759
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                288,
+                748,
+                297,
+                759
+              ]
+            },
+            {
+              "text": "IRR",
+              "bbox": [
+                301,
+                748,
+                317,
+                759
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                320,
+                748,
+                328,
+                759
+              ]
+            },
+            {
+              "text": "8%.",
+              "bbox": [
+                332,
+                748,
+                347,
+                759
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                350,
+                748,
+                365,
+                759
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                369,
+                748,
+                396,
+                759
+              ]
+            },
+            {
+              "text": "minerals",
+              "bbox": [
+                399,
+                748,
+                432,
+                759
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                436,
+                748,
+                472,
+                759
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                475,
+                748,
+                510,
+                759
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lithium production of 1,000tons with a usage rate of 67% of demand, Cobalt at 500tons with 50% of demand, and Nickel",
+          "bbox": [
+            13,
+            762,
+            510,
+            772
+          ],
+          "words": [
+            {
+              "text": "Lithium",
+              "bbox": [
+                13,
+                762,
+                44,
+                772
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                48,
+                762,
+                90,
+                772
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                94,
+                762,
+                102,
+                772
+              ]
+            },
+            {
+              "text": "1,000tons",
+              "bbox": [
+                105,
+                762,
+                143,
+                772
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                147,
+                762,
+                164,
+                772
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                168,
+                762,
+                172,
+                772
+              ]
+            },
+            {
+              "text": "usage",
+              "bbox": [
+                176,
+                762,
+                198,
+                772
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                201,
+                762,
+                216,
+                772
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                220,
+                762,
+                228,
+                772
+              ]
+            },
+            {
+              "text": "67%",
+              "bbox": [
+                231,
+                762,
+                249,
+                772
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                253,
+                762,
+                261,
+                772
+              ]
+            },
+            {
+              "text": "demand,",
+              "bbox": [
+                264,
+                762,
+                298,
+                772
+              ]
+            },
+            {
+              "text": "Cobalt",
+              "bbox": [
+                301,
+                762,
+                327,
+                772
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                331,
+                762,
+                338,
+                772
+              ]
+            },
+            {
+              "text": "500tons",
+              "bbox": [
+                341,
+                762,
+                372,
+                772
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                376,
+                762,
+                393,
+                772
+              ]
+            },
+            {
+              "text": "50%",
+              "bbox": [
+                396,
+                762,
+                414,
+                772
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                418,
+                762,
+                426,
+                772
+              ]
+            },
+            {
+              "text": "demand,",
+              "bbox": [
+                430,
+                762,
+                463,
+                772
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                466,
+                762,
+                480,
+                772
+              ]
+            },
+            {
+              "text": "Nickel",
+              "bbox": [
+                484,
+                762,
+                510,
+                772
+              ]
+            }
+          ]
+        },
+        {
+          "text": "planned at 800tons with 67% usage, while inactive Rare Earth production is at 200tons, meeting 67% of demand.",
+          "bbox": [
+            13,
+            775,
+            451,
+            786
+          ],
+          "words": [
+            {
+              "text": "planned",
+              "bbox": [
+                13,
+                775,
+                44,
+                786
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                46,
+                775,
+                53,
+                786
+              ]
+            },
+            {
+              "text": "800tons",
+              "bbox": [
+                56,
+                775,
+                86,
+                786
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                89,
+                775,
+                106,
+                786
+              ]
+            },
+            {
+              "text": "67%",
+              "bbox": [
+                108,
+                775,
+                126,
+                786
+              ]
+            },
+            {
+              "text": "usage,",
+              "bbox": [
+                128,
+                775,
+                153,
+                786
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                155,
+                775,
+                177,
+                786
+              ]
+            },
+            {
+              "text": "inactive",
+              "bbox": [
+                179,
+                775,
+                210,
+                786
+              ]
+            },
+            {
+              "text": "Rare",
+              "bbox": [
+                212,
+                775,
+                230,
+                786
+              ]
+            },
+            {
+              "text": "Earth",
+              "bbox": [
+                233,
+                775,
+                254,
+                786
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                256,
+                775,
+                298,
+                786
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                300,
+                775,
+                307,
+                786
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                309,
+                775,
+                316,
+                786
+              ]
+            },
+            {
+              "text": "200tons,",
+              "bbox": [
+                319,
+                775,
+                352,
+                786
+              ]
+            },
+            {
+              "text": "meeting",
+              "bbox": [
+                354,
+                775,
+                385,
+                786
+              ]
+            },
+            {
+              "text": "67%",
+              "bbox": [
+                388,
+                775,
+                405,
+                786
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                408,
+                775,
+                416,
+                786
+              ]
+            },
+            {
+              "text": "demand.",
+              "bbox": [
+                418,
+                775,
+                451,
+                786
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

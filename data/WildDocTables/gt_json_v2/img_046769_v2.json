@@ -1,0 +1,4692 @@
+{
+  "image_id": "img_046769",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_046769_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        192
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            66,
+            580,
+            87
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            87,
+            580,
+            108
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            108,
+            580,
+            129
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            129,
+            580,
+            150
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            150,
+            580,
+            171
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            171,
+            580,
+            192
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Group</td><td colspan=\"4\">Cytokine production (pg/mL)</td></tr><tr><td></td><td>IFN-γ</td><td>IL-12(p70)</td><td>IL-10</td><td>IL-4</td></tr><tr><td>pVAX-TgCDPK2</td><td>694.56 ± 76.72*</td><td>334.51 ± 7.52*</td><td>421 ± 23.25*</td><td>11.75 ± 2.98</td></tr><tr><td>pVAX I</td><td>104.63 ± 28.39</td><td>&lt; 15</td><td>&lt; 15</td><td>11.29 ± 4.45</td></tr><tr><td>PBS</td><td>89.14 ± 20.14</td><td>&lt; 15</td><td>&lt; 15</td><td>13.17 ± 0.98</td></tr><tr><td>Blank control</td><td>62.14 ± 26.92</td><td>&lt; 15</td><td>&lt; 15</td><td>11.67 ± 3.21</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Group",
+          "bbox": [
+            16,
+            66,
+            146,
+            87
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                21,
+                70,
+                49,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Cytokine production (pg/mL)",
+          "bbox": [
+            146,
+            66,
+            580,
+            87
+          ],
+          "words": [
+            {
+              "text": "Cytokine",
+              "bbox": [
+                152,
+                70,
+                191,
+                81
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                193,
+                70,
+                240,
+                81
+              ]
+            },
+            {
+              "text": "(pg/mL)",
+              "bbox": [
+                243,
+                70,
+                278,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            87,
+            146,
+            108
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "IFN-γ",
+          "bbox": [
+            146,
+            87,
+            267,
+            108
+          ],
+          "words": [
+            {
+              "text": "IFN-γ",
+              "bbox": [
+                152,
+                91,
+                177,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "IL-12(p70)",
+          "bbox": [
+            267,
+            87,
+            381,
+            108
+          ],
+          "words": [
+            {
+              "text": "IL-12(p70)",
+              "bbox": [
+                329,
+                91,
+                375,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "IL-10",
+          "bbox": [
+            381,
+            87,
+            482,
+            108
+          ],
+          "words": [
+            {
+              "text": "IL-10",
+              "bbox": [
+                453,
+                91,
+                477,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "IL-4",
+          "bbox": [
+            482,
+            87,
+            580,
+            108
+          ],
+          "words": [
+            {
+              "text": "IL-4",
+              "bbox": [
+                555,
+                91,
+                574,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "pVAX-TgCDPK2",
+          "bbox": [
+            16,
+            108,
+            146,
+            129
+          ],
+          "words": [
+            {
+              "text": "pVAX-TgCDPK2",
+              "bbox": [
+                21,
+                112,
+                93,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "694.56 ± 76.72*",
+          "bbox": [
+            146,
+            108,
+            267,
+            129
+          ],
+          "words": [
+            {
+              "text": "694.56",
+              "bbox": [
+                152,
+                112,
+                179,
+                123
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                182,
+                112,
+                187,
+                123
+              ]
+            },
+            {
+              "text": "76.72*",
+              "bbox": [
+                190,
+                112,
+                217,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "334.51 ± 7.52*",
+          "bbox": [
+            267,
+            108,
+            381,
+            129
+          ],
+          "words": [
+            {
+              "text": "334.51",
+              "bbox": [
+                315,
+                112,
+                342,
+                123
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                345,
+                112,
+                350,
+                123
+              ]
+            },
+            {
+              "text": "7.52*",
+              "bbox": [
+                353,
+                112,
+                375,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "421 ± 23.25*",
+          "bbox": [
+            381,
+            108,
+            482,
+            129
+          ],
+          "words": [
+            {
+              "text": "421",
+              "bbox": [
+                424,
+                112,
+                439,
+                123
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                441,
+                112,
+                447,
+                123
+              ]
+            },
+            {
+              "text": "23.25*",
+              "bbox": [
+                449,
+                112,
+                477,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "11.75 ± 2.98",
+          "bbox": [
+            482,
+            108,
+            580,
+            129
+          ],
+          "words": [
+            {
+              "text": "11.75",
+              "bbox": [
+                524,
+                112,
+                546,
+                123
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                549,
+                112,
+                554,
+                123
+              ]
+            },
+            {
+              "text": "2.98",
+              "bbox": [
+                556,
+                112,
+                574,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "pVAX I",
+          "bbox": [
+            16,
+            129,
+            146,
+            150
+          ],
+          "words": [
+            {
+              "text": "pVAX",
+              "bbox": [
+                21,
+                133,
+                46,
+                144
+              ]
+            },
+            {
+              "text": "I",
+              "bbox": [
+                49,
+                133,
+                52,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "104.63 ± 28.39",
+          "bbox": [
+            146,
+            129,
+            267,
+            150
+          ],
+          "words": [
+            {
+              "text": "104.63",
+              "bbox": [
+                152,
+                133,
+                179,
+                144
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                182,
+                133,
+                187,
+                144
+              ]
+            },
+            {
+              "text": "28.39",
+              "bbox": [
+                190,
+                133,
+                212,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "< 15",
+          "bbox": [
+            267,
+            129,
+            381,
+            150
+          ],
+          "words": [
+            {
+              "text": "<",
+              "bbox": [
+                357,
+                133,
+                363,
+                144
+              ]
+            },
+            {
+              "text": "15",
+              "bbox": [
+                365,
+                133,
+                375,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "< 15",
+          "bbox": [
+            381,
+            129,
+            482,
+            150
+          ],
+          "words": [
+            {
+              "text": "<",
+              "bbox": [
+                458,
+                133,
+                464,
+                144
+              ]
+            },
+            {
+              "text": "15",
+              "bbox": [
+                467,
+                133,
+                477,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "11.29 ± 4.45",
+          "bbox": [
+            482,
+            129,
+            580,
+            150
+          ],
+          "words": [
+            {
+              "text": "11.29",
+              "bbox": [
+                524,
+                133,
+                546,
+                144
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                549,
+                133,
+                554,
+                144
+              ]
+            },
+            {
+              "text": "4.45",
+              "bbox": [
+                556,
+                133,
+                574,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PBS",
+          "bbox": [
+            16,
+            150,
+            146,
+            171
+          ],
+          "words": [
+            {
+              "text": "PBS",
+              "bbox": [
+                21,
+                154,
+                39,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "89.14 ± 20.14",
+          "bbox": [
+            146,
+            150,
+            267,
+            171
+          ],
+          "words": [
+            {
+              "text": "89.14",
+              "bbox": [
+                152,
+                154,
+                174,
+                165
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                177,
+                154,
+                182,
+                165
+              ]
+            },
+            {
+              "text": "20.14",
+              "bbox": [
+                185,
+                154,
+                207,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "< 15",
+          "bbox": [
+            267,
+            150,
+            381,
+            171
+          ],
+          "words": [
+            {
+              "text": "<",
+              "bbox": [
+                357,
+                154,
+                363,
+                165
+              ]
+            },
+            {
+              "text": "15",
+              "bbox": [
+                365,
+                154,
+                375,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "< 15",
+          "bbox": [
+            381,
+            150,
+            482,
+            171
+          ],
+          "words": [
+            {
+              "text": "<",
+              "bbox": [
+                458,
+                154,
+                464,
+                165
+              ]
+            },
+            {
+              "text": "15",
+              "bbox": [
+                467,
+                154,
+                477,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "13.17 ± 0.98",
+          "bbox": [
+            482,
+            150,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "13.17",
+              "bbox": [
+                524,
+                154,
+                546,
+                165
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                549,
+                154,
+                554,
+                165
+              ]
+            },
+            {
+              "text": "0.98",
+              "bbox": [
+                556,
+                154,
+                574,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Blank control",
+          "bbox": [
+            16,
+            171,
+            146,
+            192
+          ],
+          "words": [
+            {
+              "text": "Blank",
+              "bbox": [
+                21,
+                175,
+                45,
+                186
+              ]
+            },
+            {
+              "text": "control",
+              "bbox": [
+                47,
+                175,
+                76,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "62.14 ± 26.92",
+          "bbox": [
+            146,
+            171,
+            267,
+            192
+          ],
+          "words": [
+            {
+              "text": "62.14",
+              "bbox": [
+                152,
+                175,
+                174,
+                186
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                177,
+                175,
+                182,
+                186
+              ]
+            },
+            {
+              "text": "26.92",
+              "bbox": [
+                185,
+                175,
+                207,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "< 15",
+          "bbox": [
+            267,
+            171,
+            381,
+            192
+          ],
+          "words": [
+            {
+              "text": "<",
+              "bbox": [
+                357,
+                175,
+                363,
+                186
+              ]
+            },
+            {
+              "text": "15",
+              "bbox": [
+                365,
+                175,
+                375,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "< 15",
+          "bbox": [
+            381,
+            171,
+            482,
+            192
+          ],
+          "words": [
+            {
+              "text": "<",
+              "bbox": [
+                458,
+                175,
+                464,
+                186
+              ]
+            },
+            {
+              "text": "15",
+              "bbox": [
+                467,
+                175,
+                477,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "11.67 ± 3.21",
+          "bbox": [
+            482,
+            171,
+            580,
+            192
+          ],
+          "words": [
+            {
+              "text": "11.67",
+              "bbox": [
+                524,
+                175,
+                546,
+                186
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                549,
+                175,
+                554,
+                186
+              ]
+            },
+            {
+              "text": "3.21",
+              "bbox": [
+                556,
+                175,
+                574,
+                186
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_046769_t1",
+      "bbox": [
+        15,
+        207,
+        580,
+        348
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            207,
+            580,
+            228
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            228,
+            580,
+            248
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            248,
+            580,
+            268
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            268,
+            580,
+            288
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            288,
+            580,
+            308
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            308,
+            580,
+            328
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            328,
+            580,
+            348
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Covariate</td><td>N Studies</td><td>Coefficient (95% CI)</td><td>p value</td></tr><tr><td>Mean study age</td><td>6</td><td>0.003 (−0.009, 0.014)</td><td>0.052</td></tr><tr><td>Study age criteria (under 22 or over 18)</td><td>6</td><td>0.067 (−0.365, 0.499)</td><td>0.691</td></tr><tr><td>Type I or type II diabetes</td><td>5</td><td>−0.05 (−0.74, 0.63)</td><td>0.825</td></tr><tr><td>Male (percent)</td><td>6</td><td>0.002 (−0.006, 0.010)</td><td>0.522</td></tr><tr><td>Study design</td><td>6</td><td>0.062 (−0.483, 0.608)</td><td>0.767</td></tr><tr><td>Duration smoked</td><td>Not reported</td><td>N/A</td><td>N/A</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Covariate",
+          "bbox": [
+            15,
+            207,
+            273,
+            228
+          ],
+          "words": [
+            {
+              "text": "Covariate",
+              "bbox": [
+                20,
+                211,
+                62,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "N Studies",
+          "bbox": [
+            273,
+            207,
+            366,
+            228
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                278,
+                211,
+                285,
+                222
+              ]
+            },
+            {
+              "text": "Studies",
+              "bbox": [
+                287,
+                211,
+                318,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Coefficient (95% CI)",
+          "bbox": [
+            366,
+            207,
+            518,
+            228
+          ],
+          "words": [
+            {
+              "text": "Coefficient",
+              "bbox": [
+                423,
+                211,
+                470,
+                222
+              ]
+            },
+            {
+              "text": "(95%",
+              "bbox": [
+                472,
+                211,
+                496,
+                222
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                498,
+                211,
+                513,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "p value",
+          "bbox": [
+            518,
+            207,
+            580,
+            228
+          ],
+          "words": [
+            {
+              "text": "p",
+              "bbox": [
+                544,
+                211,
+                550,
+                222
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                552,
+                211,
+                575,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Mean study age",
+          "bbox": [
+            15,
+            228,
+            273,
+            248
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                20,
+                232,
+                43,
+                243
+              ]
+            },
+            {
+              "text": "study",
+              "bbox": [
+                45,
+                232,
+                67,
+                243
+              ]
+            },
+            {
+              "text": "age",
+              "bbox": [
+                69,
+                232,
+                83,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            273,
+            228,
+            366,
+            248
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                278,
+                232,
+                283,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.003 (−0.009, 0.014)",
+          "bbox": [
+            366,
+            228,
+            518,
+            248
+          ],
+          "words": [
+            {
+              "text": "0.003",
+              "bbox": [
+                425,
+                232,
+                448,
+                243
+              ]
+            },
+            {
+              "text": "(−0.009,",
+              "bbox": [
+                450,
+                232,
+                484,
+                243
+              ]
+            },
+            {
+              "text": "0.014)",
+              "bbox": [
+                487,
+                232,
+                513,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.052",
+          "bbox": [
+            518,
+            228,
+            580,
+            248
+          ],
+          "words": [
+            {
+              "text": "0.052",
+              "bbox": [
+                553,
+                232,
+                575,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Study age criteria (under 22 or over 18)",
+          "bbox": [
+            15,
+            248,
+            273,
+            268
+          ],
+          "words": [
+            {
+              "text": "Study",
+              "bbox": [
+                20,
+                252,
+                43,
+                263
+              ]
+            },
+            {
+              "text": "age",
+              "bbox": [
+                46,
+                252,
+                60,
+                263
+              ]
+            },
+            {
+              "text": "criteria",
+              "bbox": [
+                62,
+                252,
+                91,
+                263
+              ]
+            },
+            {
+              "text": "(under",
+              "bbox": [
+                93,
+                252,
+                119,
+                263
+              ]
+            },
+            {
+              "text": "22",
+              "bbox": [
+                122,
+                252,
+                132,
+                263
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                134,
+                252,
+                142,
+                263
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                145,
+                252,
+                163,
+                263
+              ]
+            },
+            {
+              "text": "18)",
+              "bbox": [
+                165,
+                252,
+                179,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            273,
+            248,
+            366,
+            268
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                278,
+                252,
+                283,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.067 (−0.365, 0.499)",
+          "bbox": [
+            366,
+            248,
+            518,
+            268
+          ],
+          "words": [
+            {
+              "text": "0.067",
+              "bbox": [
+                425,
+                252,
+                448,
+                263
+              ]
+            },
+            {
+              "text": "(−0.365,",
+              "bbox": [
+                450,
+                252,
+                484,
+                263
+              ]
+            },
+            {
+              "text": "0.499)",
+              "bbox": [
+                487,
+                252,
+                513,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.691",
+          "bbox": [
+            518,
+            248,
+            580,
+            268
+          ],
+          "words": [
+            {
+              "text": "0.691",
+              "bbox": [
+                553,
+                252,
+                575,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Type I or type II diabetes",
+          "bbox": [
+            15,
+            268,
+            273,
+            288
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                20,
+                272,
+                40,
+                283
+              ]
+            },
+            {
+              "text": "I",
+              "bbox": [
+                42,
+                272,
+                46,
+                283
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                48,
+                272,
+                57,
+                283
+              ]
+            },
+            {
+              "text": "type",
+              "bbox": [
+                59,
+                272,
+                76,
+                283
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                79,
+                272,
+                85,
+                283
+              ]
+            },
+            {
+              "text": "diabetes",
+              "bbox": [
+                88,
+                272,
+                121,
+                283
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            273,
+            268,
+            366,
+            288
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                278,
+                272,
+                283,
+                283
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.05 (−0.74, 0.63)",
+          "bbox": [
+            366,
+            268,
+            518,
+            288
+          ],
+          "words": [
+            {
+              "text": "−0.05",
+              "bbox": [
+                435,
+                272,
+                458,
+                283
+              ]
+            },
+            {
+              "text": "(−0.74,",
+              "bbox": [
+                460,
+                272,
+                489,
+                283
+              ]
+            },
+            {
+              "text": "0.63)",
+              "bbox": [
+                492,
+                272,
+                513,
+                283
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.825",
+          "bbox": [
+            518,
+            268,
+            580,
+            288
+          ],
+          "words": [
+            {
+              "text": "0.825",
+              "bbox": [
+                553,
+                272,
+                575,
+                283
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Male (percent)",
+          "bbox": [
+            15,
+            288,
+            273,
+            308
+          ],
+          "words": [
+            {
+              "text": "Male",
+              "bbox": [
+                20,
+                292,
+                41,
+                303
+              ]
+            },
+            {
+              "text": "(percent)",
+              "bbox": [
+                43,
+                292,
+                79,
+                303
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            273,
+            288,
+            366,
+            308
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                278,
+                292,
+                283,
+                303
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.002 (−0.006, 0.010)",
+          "bbox": [
+            366,
+            288,
+            518,
+            308
+          ],
+          "words": [
+            {
+              "text": "0.002",
+              "bbox": [
+                425,
+                292,
+                448,
+                303
+              ]
+            },
+            {
+              "text": "(−0.006,",
+              "bbox": [
+                450,
+                292,
+                484,
+                303
+              ]
+            },
+            {
+              "text": "0.010)",
+              "bbox": [
+                487,
+                292,
+                513,
+                303
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.522",
+          "bbox": [
+            518,
+            288,
+            580,
+            308
+          ],
+          "words": [
+            {
+              "text": "0.522",
+              "bbox": [
+                553,
+                292,
+                575,
+                303
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Study design",
+          "bbox": [
+            15,
+            308,
+            273,
+            328
+          ],
+          "words": [
+            {
+              "text": "Study",
+              "bbox": [
+                20,
+                312,
+                43,
+                323
+              ]
+            },
+            {
+              "text": "design",
+              "bbox": [
+                46,
+                312,
+                72,
+                323
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            273,
+            308,
+            366,
+            328
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                278,
+                312,
+                283,
+                323
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.062 (−0.483, 0.608)",
+          "bbox": [
+            366,
+            308,
+            518,
+            328
+          ],
+          "words": [
+            {
+              "text": "0.062",
+              "bbox": [
+                425,
+                312,
+                448,
+                323
+              ]
+            },
+            {
+              "text": "(−0.483,",
+              "bbox": [
+                450,
+                312,
+                484,
+                323
+              ]
+            },
+            {
+              "text": "0.608)",
+              "bbox": [
+                487,
+                312,
+                513,
+                323
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.767",
+          "bbox": [
+            518,
+            308,
+            580,
+            328
+          ],
+          "words": [
+            {
+              "text": "0.767",
+              "bbox": [
+                553,
+                312,
+                575,
+                323
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Duration smoked",
+          "bbox": [
+            15,
+            328,
+            273,
+            348
+          ],
+          "words": [
+            {
+              "text": "Duration",
+              "bbox": [
+                20,
+                332,
+                56,
+                343
+              ]
+            },
+            {
+              "text": "smoked",
+              "bbox": [
+                58,
+                332,
+                89,
+                343
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Not reported",
+          "bbox": [
+            273,
+            328,
+            366,
+            348
+          ],
+          "words": [
+            {
+              "text": "Not",
+              "bbox": [
+                278,
+                332,
+                293,
+                343
+              ]
+            },
+            {
+              "text": "reported",
+              "bbox": [
+                295,
+                332,
+                328,
+                343
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            366,
+            328,
+            518,
+            348
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                495,
+                332,
+                513,
+                343
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            518,
+            328,
+            580,
+            348
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                558,
+                332,
+                575,
+                343
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        363,
+        580,
+        532
+      ],
+      "content": "The first table presents cytokine production in pg/mL across four groups: for the group pVAX-TgCDPK2, the values are IFN-γ at 694.56 ± 76.72*, IL-12(p70) at 334.51 ± 7.52*, IL-10 at 421 ± 23.25*, and IL-4 at 11.75 ± 2.98; for the group pVAX I, IFN-γ is 104.63 ± 28.39, IL-12(p70) is < 15, IL-10 is < 15, and IL-4 is 11.29 ± 4.45; for the PBS group, IFN-γ is 89.14 ± 20.14, IL-12(p70) is < 15, IL-10 is < 15, and IL-4 is 13.17 ± 0.98; and for the Blank control, IFN-γ is 62.14 ± 26.92, IL-12(p70) is < 15, IL-10 is < 15, and IL-4 is 11.67 ± 3.21. The second table details various covariates affecting study outcomes, with the mean study age showing N Studies of 6, a Coefficient (95% CI) of 0.003 (−0.009, 0.014), and a p value of 0.052; study age criteria (under 22 or over 18) also has N Studies of 6, a Coefficient (95% CI) of 0.067 (−0.365, 0.499), and a p value of 0.691; type I or type II diabetes shows N Studies of 5, a Coefficient (95% CI) of −0.05 (−0.74, 0.63), and a p value of 0.825; male (percent) has N Studies of 6, a Coefficient (95% CI) of 0.002 (−0.006, 0.010), and a p value of 0.522; study design indicates N Studies of 6, a Coefficient (95% CI) of 0.062 (−0.483, 0.608), and a p value of 0.767; while duration smoked is not reported, marked as N/A for both Coefficient and p value.",
+      "lines": [
+        {
+          "text": "The first table presents cytokine production in pg/mL across four groups: for the group pVAX-TgCDPK2, the values are IFN-γ",
+          "bbox": [
+            15,
+            364,
+            580,
+            376
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                364,
+                32,
+                376
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                35,
+                364,
+                53,
+                376
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                56,
+                364,
+                77,
+                376
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                81,
+                364,
+                117,
+                376
+              ]
+            },
+            {
+              "text": "cytokine",
+              "bbox": [
+                120,
+                364,
+                158,
+                376
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                161,
+                364,
+                208,
+                376
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                212,
+                364,
+                220,
+                376
+              ]
+            },
+            {
+              "text": "pg/mL",
+              "bbox": [
+                223,
+                364,
+                252,
+                376
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                255,
+                364,
+                283,
+                376
+              ]
+            },
+            {
+              "text": "four",
+              "bbox": [
+                286,
+                364,
+                304,
+                376
+              ]
+            },
+            {
+              "text": "groups:",
+              "bbox": [
+                307,
+                364,
+                340,
+                376
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                344,
+                364,
+                356,
+                376
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                359,
+                364,
+                373,
+                376
+              ]
+            },
+            {
+              "text": "group",
+              "bbox": [
+                376,
+                364,
+                402,
+                376
+              ]
+            },
+            {
+              "text": "pVAX-TgCDPK2,",
+              "bbox": [
+                405,
+                364,
+                486,
+                376
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                489,
+                364,
+                503,
+                376
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                506,
+                364,
+                534,
+                376
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                537,
+                364,
+                551,
+                376
+              ]
+            },
+            {
+              "text": "IFN-γ",
+              "bbox": [
+                554,
+                364,
+                580,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "text": "at 694.56 ± 76.72*, IL-12(p70) at 334.51 ± 7.52*, IL-10 at 421 ± 23.25*, and IL-4 at 11.75 ± 2.98; for the group pVAX I, IFN-γ",
+          "bbox": [
+            15,
+            379,
+            580,
+            391
+          ],
+          "words": [
+            {
+              "text": "at",
+              "bbox": [
+                15,
+                379,
+                23,
+                391
+              ]
+            },
+            {
+              "text": "694.56",
+              "bbox": [
+                26,
+                379,
+                56,
+                391
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                59,
+                379,
+                65,
+                391
+              ]
+            },
+            {
+              "text": "76.72*,",
+              "bbox": [
+                68,
+                379,
+                101,
+                391
+              ]
+            },
+            {
+              "text": "IL-12(p70)",
+              "bbox": [
+                103,
+                379,
+                152,
+                391
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                155,
+                379,
+                163,
+                391
+              ]
+            },
+            {
+              "text": "334.51",
+              "bbox": [
+                166,
+                379,
+                196,
+                391
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                199,
+                379,
+                205,
+                391
+              ]
+            },
+            {
+              "text": "7.52*,",
+              "bbox": [
+                208,
+                379,
+                235,
+                391
+              ]
+            },
+            {
+              "text": "IL-10",
+              "bbox": [
+                238,
+                379,
+                263,
+                391
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                266,
+                379,
+                274,
+                391
+              ]
+            },
+            {
+              "text": "421",
+              "bbox": [
+                277,
+                379,
+                293,
+                391
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                296,
+                379,
+                302,
+                391
+              ]
+            },
+            {
+              "text": "23.25*,",
+              "bbox": [
+                305,
+                379,
+                338,
+                391
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                341,
+                379,
+                356,
+                391
+              ]
+            },
+            {
+              "text": "IL-4",
+              "bbox": [
+                359,
+                379,
+                379,
+                391
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                382,
+                379,
+                390,
+                391
+              ]
+            },
+            {
+              "text": "11.75",
+              "bbox": [
+                392,
+                379,
+                417,
+                391
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                420,
+                379,
+                426,
+                391
+              ]
+            },
+            {
+              "text": "2.98;",
+              "bbox": [
+                428,
+                379,
+                451,
+                391
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                453,
+                379,
+                466,
+                391
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                469,
+                379,
+                483,
+                391
+              ]
+            },
+            {
+              "text": "group",
+              "bbox": [
+                485,
+                379,
+                511,
+                391
+              ]
+            },
+            {
+              "text": "pVAX",
+              "bbox": [
+                514,
+                379,
+                542,
+                391
+              ]
+            },
+            {
+              "text": "I,",
+              "bbox": [
+                545,
+                379,
+                551,
+                391
+              ]
+            },
+            {
+              "text": "IFN-γ",
+              "bbox": [
+                554,
+                379,
+                580,
+                391
+              ]
+            }
+          ]
+        },
+        {
+          "text": "is 104.63 ± 28.39, IL-12(p70) is < 15, IL-10 is < 15, and IL-4 is 11.29 ± 4.45; for the PBS group, IFN-γ is 89.14 ± 20.14, IL-",
+          "bbox": [
+            15,
+            395,
+            580,
+            407
+          ],
+          "words": [
+            {
+              "text": "is",
+              "bbox": [
+                15,
+                395,
+                22,
+                407
+              ]
+            },
+            {
+              "text": "104.63",
+              "bbox": [
+                26,
+                395,
+                56,
+                407
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                59,
+                395,
+                65,
+                407
+              ]
+            },
+            {
+              "text": "28.39,",
+              "bbox": [
+                69,
+                395,
+                96,
+                407
+              ]
+            },
+            {
+              "text": "IL-12(p70)",
+              "bbox": [
+                99,
+                395,
+                148,
+                407
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                152,
+                395,
+                159,
+                407
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                162,
+                395,
+                168,
+                407
+              ]
+            },
+            {
+              "text": "15,",
+              "bbox": [
+                172,
+                395,
+                186,
+                407
+              ]
+            },
+            {
+              "text": "IL-10",
+              "bbox": [
+                189,
+                395,
+                214,
+                407
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                217,
+                395,
+                225,
+                407
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                228,
+                395,
+                234,
+                407
+              ]
+            },
+            {
+              "text": "15,",
+              "bbox": [
+                237,
+                395,
+                251,
+                407
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                255,
+                395,
+                270,
+                407
+              ]
+            },
+            {
+              "text": "IL-4",
+              "bbox": [
+                274,
+                395,
+                293,
+                407
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                297,
+                395,
+                304,
+                407
+              ]
+            },
+            {
+              "text": "11.29",
+              "bbox": [
+                307,
+                395,
+                332,
+                407
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                335,
+                395,
+                341,
+                407
+              ]
+            },
+            {
+              "text": "4.45;",
+              "bbox": [
+                344,
+                395,
+                367,
+                407
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                370,
+                395,
+                383,
+                407
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                386,
+                395,
+                400,
+                407
+              ]
+            },
+            {
+              "text": "PBS",
+              "bbox": [
+                403,
+                395,
+                422,
+                407
+              ]
+            },
+            {
+              "text": "group,",
+              "bbox": [
+                426,
+                395,
+                454,
+                407
+              ]
+            },
+            {
+              "text": "IFN-γ",
+              "bbox": [
+                457,
+                395,
+                484,
+                407
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                487,
+                395,
+                494,
+                407
+              ]
+            },
+            {
+              "text": "89.14",
+              "bbox": [
+                498,
+                395,
+                522,
+                407
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                526,
+                395,
+                532,
+                407
+              ]
+            },
+            {
+              "text": "20.14,",
+              "bbox": [
+                535,
+                395,
+                563,
+                407
+              ]
+            },
+            {
+              "text": "IL-",
+              "bbox": [
+                566,
+                395,
+                580,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "text": "12(p70) is < 15, IL-10 is < 15, and IL-4 is 13.17 ± 0.98; and for the Blank control, IFN-γ is 62.14 ± 26.92, IL-12(p70) is < 15,",
+          "bbox": [
+            15,
+            410,
+            580,
+            422
+          ],
+          "words": [
+            {
+              "text": "12(p70)",
+              "bbox": [
+                15,
+                410,
+                50,
+                422
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                53,
+                410,
+                60,
+                422
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                63,
+                410,
+                70,
+                422
+              ]
+            },
+            {
+              "text": "15,",
+              "bbox": [
+                73,
+                410,
+                87,
+                422
+              ]
+            },
+            {
+              "text": "IL-10",
+              "bbox": [
+                90,
+                410,
+                115,
+                422
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                118,
+                410,
+                125,
+                422
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                128,
+                410,
+                134,
+                422
+              ]
+            },
+            {
+              "text": "15,",
+              "bbox": [
+                138,
+                410,
+                151,
+                422
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                154,
+                410,
+                170,
+                422
+              ]
+            },
+            {
+              "text": "IL-4",
+              "bbox": [
+                173,
+                410,
+                193,
+                422
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                196,
+                410,
+                203,
+                422
+              ]
+            },
+            {
+              "text": "13.17",
+              "bbox": [
+                207,
+                410,
+                231,
+                422
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                234,
+                410,
+                240,
+                422
+              ]
+            },
+            {
+              "text": "0.98;",
+              "bbox": [
+                244,
+                410,
+                266,
+                422
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                269,
+                410,
+                285,
+                422
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                288,
+                410,
+                301,
+                422
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                304,
+                410,
+                317,
+                422
+              ]
+            },
+            {
+              "text": "Blank",
+              "bbox": [
+                321,
+                410,
+                347,
+                422
+              ]
+            },
+            {
+              "text": "control,",
+              "bbox": [
+                350,
+                410,
+                384,
+                422
+              ]
+            },
+            {
+              "text": "IFN-γ",
+              "bbox": [
+                387,
+                410,
+                413,
+                422
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                416,
+                410,
+                424,
+                422
+              ]
+            },
+            {
+              "text": "62.14",
+              "bbox": [
+                427,
+                410,
+                452,
+                422
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                455,
+                410,
+                461,
+                422
+              ]
+            },
+            {
+              "text": "26.92,",
+              "bbox": [
+                464,
+                410,
+                491,
+                422
+              ]
+            },
+            {
+              "text": "IL-12(p70)",
+              "bbox": [
+                494,
+                410,
+                543,
+                422
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                546,
+                410,
+                554,
+                422
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                557,
+                410,
+                563,
+                422
+              ]
+            },
+            {
+              "text": "15,",
+              "bbox": [
+                566,
+                410,
+                580,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "text": "IL-10 is < 15, and IL-4 is 11.67 ± 3.21. The second table details various covariates affecting study outcomes, with the mean",
+          "bbox": [
+            15,
+            426,
+            580,
+            438
+          ],
+          "words": [
+            {
+              "text": "IL-10",
+              "bbox": [
+                15,
+                426,
+                40,
+                438
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                44,
+                426,
+                51,
+                438
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                55,
+                426,
+                61,
+                438
+              ]
+            },
+            {
+              "text": "15,",
+              "bbox": [
+                65,
+                426,
+                79,
+                438
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                82,
+                426,
+                98,
+                438
+              ]
+            },
+            {
+              "text": "IL-4",
+              "bbox": [
+                102,
+                426,
+                121,
+                438
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                125,
+                426,
+                133,
+                438
+              ]
+            },
+            {
+              "text": "11.67",
+              "bbox": [
+                136,
+                426,
+                161,
+                438
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                164,
+                426,
+                170,
+                438
+              ]
+            },
+            {
+              "text": "3.21.",
+              "bbox": [
+                174,
+                426,
+                196,
+                438
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                200,
+                426,
+                217,
+                438
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                221,
+                426,
+                251,
+                438
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                255,
+                426,
+                276,
+                438
+              ]
+            },
+            {
+              "text": "details",
+              "bbox": [
+                280,
+                426,
+                309,
+                438
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                312,
+                426,
+                345,
+                438
+              ]
+            },
+            {
+              "text": "covariates",
+              "bbox": [
+                349,
+                426,
+                393,
+                438
+              ]
+            },
+            {
+              "text": "affecting",
+              "bbox": [
+                397,
+                426,
+                436,
+                438
+              ]
+            },
+            {
+              "text": "study",
+              "bbox": [
+                439,
+                426,
+                463,
+                438
+              ]
+            },
+            {
+              "text": "outcomes,",
+              "bbox": [
+                467,
+                426,
+                512,
+                438
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                516,
+                426,
+                535,
+                438
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                539,
+                426,
+                552,
+                438
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                556,
+                426,
+                580,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "text": "study age showing N Studies of 6, a Coefficient (95% CI) of 0.003 (−0.009, 0.014), and a p value of 0.052; study age criteria",
+          "bbox": [
+            15,
+            441,
+            580,
+            453
+          ],
+          "words": [
+            {
+              "text": "study",
+              "bbox": [
+                15,
+                441,
+                39,
+                453
+              ]
+            },
+            {
+              "text": "age",
+              "bbox": [
+                42,
+                441,
+                58,
+                453
+              ]
+            },
+            {
+              "text": "showing",
+              "bbox": [
+                61,
+                441,
+                98,
+                453
+              ]
+            },
+            {
+              "text": "N",
+              "bbox": [
+                102,
+                441,
+                110,
+                453
+              ]
+            },
+            {
+              "text": "Studies",
+              "bbox": [
+                113,
+                441,
+                145,
+                453
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                149,
+                441,
+                158,
+                453
+              ]
+            },
+            {
+              "text": "6,",
+              "bbox": [
+                161,
+                441,
+                170,
+                453
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                173,
+                441,
+                178,
+                453
+              ]
+            },
+            {
+              "text": "Coefficient",
+              "bbox": [
+                181,
+                441,
+                231,
+                453
+              ]
+            },
+            {
+              "text": "(95%",
+              "bbox": [
+                234,
+                441,
+                258,
+                453
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                261,
+                441,
+                276,
+                453
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                279,
+                441,
+                288,
+                453
+              ]
+            },
+            {
+              "text": "0.003",
+              "bbox": [
+                292,
+                441,
+                317,
+                453
+              ]
+            },
+            {
+              "text": "(−0.009,",
+              "bbox": [
+                320,
+                441,
+                357,
+                453
+              ]
+            },
+            {
+              "text": "0.014),",
+              "bbox": [
+                361,
+                441,
+                392,
+                453
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                395,
+                441,
+                411,
+                453
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                415,
+                441,
+                420,
+                453
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                423,
+                441,
+                429,
+                453
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                432,
+                441,
+                456,
+                453
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                459,
+                441,
+                468,
+                453
+              ]
+            },
+            {
+              "text": "0.052;",
+              "bbox": [
+                472,
+                441,
+                500,
+                453
+              ]
+            },
+            {
+              "text": "study",
+              "bbox": [
+                503,
+                441,
+                527,
+                453
+              ]
+            },
+            {
+              "text": "age",
+              "bbox": [
+                530,
+                441,
+                545,
+                453
+              ]
+            },
+            {
+              "text": "criteria",
+              "bbox": [
+                549,
+                441,
+                580,
+                453
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(under 22 or over 18) also has N Studies of 6, a Coefficient (95% CI) of 0.067 (−0.365, 0.499), and a p value of 0.691; type I or",
+          "bbox": [
+            15,
+            456,
+            580,
+            468
+          ],
+          "words": [
+            {
+              "text": "(under",
+              "bbox": [
+                15,
+                456,
+                44,
+                468
+              ]
+            },
+            {
+              "text": "22",
+              "bbox": [
+                47,
+                456,
+                58,
+                468
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                60,
+                456,
+                70,
+                468
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                73,
+                456,
+                92,
+                468
+              ]
+            },
+            {
+              "text": "18)",
+              "bbox": [
+                95,
+                456,
+                110,
+                468
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                112,
+                456,
+                130,
+                468
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                133,
+                456,
+                148,
+                468
+              ]
+            },
+            {
+              "text": "N",
+              "bbox": [
+                151,
+                456,
+                159,
+                468
+              ]
+            },
+            {
+              "text": "Studies",
+              "bbox": [
+                161,
+                456,
+                194,
+                468
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                197,
+                456,
+                206,
+                468
+              ]
+            },
+            {
+              "text": "6,",
+              "bbox": [
+                209,
+                456,
+                217,
+                468
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                220,
+                456,
+                225,
+                468
+              ]
+            },
+            {
+              "text": "Coefficient",
+              "bbox": [
+                228,
+                456,
+                277,
+                468
+              ]
+            },
+            {
+              "text": "(95%",
+              "bbox": [
+                280,
+                456,
+                304,
+                468
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                307,
+                456,
+                321,
+                468
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                324,
+                456,
+                333,
+                468
+              ]
+            },
+            {
+              "text": "0.067",
+              "bbox": [
+                336,
+                456,
+                361,
+                468
+              ]
+            },
+            {
+              "text": "(−0.365,",
+              "bbox": [
+                364,
+                456,
+                401,
+                468
+              ]
+            },
+            {
+              "text": "0.499),",
+              "bbox": [
+                404,
+                456,
+                435,
+                468
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                438,
+                456,
+                454,
+                468
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                457,
+                456,
+                462,
+                468
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                465,
+                456,
+                470,
+                468
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                473,
+                456,
+                497,
+                468
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                500,
+                456,
+                509,
+                468
+              ]
+            },
+            {
+              "text": "0.691;",
+              "bbox": [
+                512,
+                456,
+                540,
+                468
+              ]
+            },
+            {
+              "text": "type",
+              "bbox": [
+                542,
+                456,
+                561,
+                468
+              ]
+            },
+            {
+              "text": "I",
+              "bbox": [
+                564,
+                456,
+                568,
+                468
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                571,
+                456,
+                580,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "text": "type II diabetes shows N Studies of 5, a Coefficient (95% CI) of −0.05 (−0.74, 0.63), and a p value of 0.825; male (percent) has",
+          "bbox": [
+            15,
+            472,
+            580,
+            484
+          ],
+          "words": [
+            {
+              "text": "type",
+              "bbox": [
+                15,
+                472,
+                34,
+                484
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                37,
+                472,
+                44,
+                484
+              ]
+            },
+            {
+              "text": "diabetes",
+              "bbox": [
+                47,
+                472,
+                83,
+                484
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                86,
+                472,
+                114,
+                484
+              ]
+            },
+            {
+              "text": "N",
+              "bbox": [
+                116,
+                472,
+                124,
+                484
+              ]
+            },
+            {
+              "text": "Studies",
+              "bbox": [
+                127,
+                472,
+                160,
+                484
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                163,
+                472,
+                172,
+                484
+              ]
+            },
+            {
+              "text": "5,",
+              "bbox": [
+                175,
+                472,
+                183,
+                484
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                186,
+                472,
+                191,
+                484
+              ]
+            },
+            {
+              "text": "Coefficient",
+              "bbox": [
+                194,
+                472,
+                243,
+                484
+              ]
+            },
+            {
+              "text": "(95%",
+              "bbox": [
+                246,
+                472,
+                270,
+                484
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                273,
+                472,
+                287,
+                484
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                290,
+                472,
+                299,
+                484
+              ]
+            },
+            {
+              "text": "−0.05",
+              "bbox": [
+                302,
+                472,
+                328,
+                484
+              ]
+            },
+            {
+              "text": "(−0.74,",
+              "bbox": [
+                331,
+                472,
+                362,
+                484
+              ]
+            },
+            {
+              "text": "0.63),",
+              "bbox": [
+                365,
+                472,
+                391,
+                484
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                394,
+                472,
+                410,
+                484
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                413,
+                472,
+                418,
+                484
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                421,
+                472,
+                426,
+                484
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                429,
+                472,
+                453,
+                484
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                456,
+                472,
+                465,
+                484
+              ]
+            },
+            {
+              "text": "0.825;",
+              "bbox": [
+                468,
+                472,
+                496,
+                484
+              ]
+            },
+            {
+              "text": "male",
+              "bbox": [
+                498,
+                472,
+                520,
+                484
+              ]
+            },
+            {
+              "text": "(percent)",
+              "bbox": [
+                523,
+                472,
+                562,
+                484
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                565,
+                472,
+                580,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "text": "N Studies of 6, a Coefficient (95% CI) of 0.002 (−0.006, 0.010), and a p value of 0.522; study design indicates N Studies of 6, a",
+          "bbox": [
+            15,
+            487,
+            580,
+            499
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                15,
+                487,
+                23,
+                499
+              ]
+            },
+            {
+              "text": "Studies",
+              "bbox": [
+                26,
+                487,
+                58,
+                499
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                61,
+                487,
+                70,
+                499
+              ]
+            },
+            {
+              "text": "6,",
+              "bbox": [
+                73,
+                487,
+                81,
+                499
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                84,
+                487,
+                89,
+                499
+              ]
+            },
+            {
+              "text": "Coefficient",
+              "bbox": [
+                92,
+                487,
+                141,
+                499
+              ]
+            },
+            {
+              "text": "(95%",
+              "bbox": [
+                144,
+                487,
+                168,
+                499
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                171,
+                487,
+                185,
+                499
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                188,
+                487,
+                197,
+                499
+              ]
+            },
+            {
+              "text": "0.002",
+              "bbox": [
+                200,
+                487,
+                225,
+                499
+              ]
+            },
+            {
+              "text": "(−0.006,",
+              "bbox": [
+                228,
+                487,
+                265,
+                499
+              ]
+            },
+            {
+              "text": "0.010),",
+              "bbox": [
+                268,
+                487,
+                299,
+                499
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                302,
+                487,
+                318,
+                499
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                321,
+                487,
+                325,
+                499
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                328,
+                487,
+                334,
+                499
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                337,
+                487,
+                360,
+                499
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                363,
+                487,
+                372,
+                499
+              ]
+            },
+            {
+              "text": "0.522;",
+              "bbox": [
+                375,
+                487,
+                403,
+                499
+              ]
+            },
+            {
+              "text": "study",
+              "bbox": [
+                406,
+                487,
+                430,
+                499
+              ]
+            },
+            {
+              "text": "design",
+              "bbox": [
+                433,
+                487,
+                461,
+                499
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                464,
+                487,
+                503,
+                499
+              ]
+            },
+            {
+              "text": "N",
+              "bbox": [
+                506,
+                487,
+                514,
+                499
+              ]
+            },
+            {
+              "text": "Studies",
+              "bbox": [
+                517,
+                487,
+                549,
+                499
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                552,
+                487,
+                561,
+                499
+              ]
+            },
+            {
+              "text": "6,",
+              "bbox": [
+                564,
+                487,
+                572,
+                499
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                487,
+                580,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Coefficient (95% CI) of 0.062 (−0.483, 0.608), and a p value of 0.767; while duration smoked is not reported, marked as N/A",
+          "bbox": [
+            15,
+            503,
+            580,
+            515
+          ],
+          "words": [
+            {
+              "text": "Coefficient",
+              "bbox": [
+                15,
+                503,
+                64,
+                515
+              ]
+            },
+            {
+              "text": "(95%",
+              "bbox": [
+                68,
+                503,
+                91,
+                515
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                95,
+                503,
+                110,
+                515
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                113,
+                503,
+                122,
+                515
+              ]
+            },
+            {
+              "text": "0.062",
+              "bbox": [
+                125,
+                503,
+                150,
+                515
+              ]
+            },
+            {
+              "text": "(−0.483,",
+              "bbox": [
+                153,
+                503,
+                191,
+                515
+              ]
+            },
+            {
+              "text": "0.608),",
+              "bbox": [
+                194,
+                503,
+                225,
+                515
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                229,
+                503,
+                245,
+                515
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                248,
+                503,
+                253,
+                515
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                256,
+                503,
+                262,
+                515
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                265,
+                503,
+                289,
+                515
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                292,
+                503,
+                301,
+                515
+              ]
+            },
+            {
+              "text": "0.767;",
+              "bbox": [
+                305,
+                503,
+                333,
+                515
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                336,
+                503,
+                360,
+                515
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                364,
+                503,
+                400,
+                515
+              ]
+            },
+            {
+              "text": "smoked",
+              "bbox": [
+                404,
+                503,
+                438,
+                515
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                441,
+                503,
+                449,
+                515
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                452,
+                503,
+                466,
+                515
+              ]
+            },
+            {
+              "text": "reported,",
+              "bbox": [
+                469,
+                503,
+                509,
+                515
+              ]
+            },
+            {
+              "text": "marked",
+              "bbox": [
+                512,
+                503,
+                545,
+                515
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                549,
+                503,
+                558,
+                515
+              ]
+            },
+            {
+              "text": "N/A",
+              "bbox": [
+                561,
+                503,
+                580,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for both Coefficient and p value.",
+          "bbox": [
+            15,
+            518,
+            158,
+            530
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                15,
+                518,
+                28,
+                530
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                31,
+                518,
+                50,
+                530
+              ]
+            },
+            {
+              "text": "Coefficient",
+              "bbox": [
+                53,
+                518,
+                102,
+                530
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                105,
+                518,
+                121,
+                530
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                124,
+                518,
+                129,
+                530
+              ]
+            },
+            {
+              "text": "value.",
+              "bbox": [
+                132,
+                518,
+                158,
+                530
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "image_id": "img_011220",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The extraction of DNA from microbial communities is a critical step in microbiological research, influencing the accuracy and",
+      "bbox": [
+        9,
+        32,
+        366,
+        40
+      ]
+    },
+    {
+      "text": "reliability of subsequent analyses. One significant challenge identified in this process is the uneven representation of the",
+      "bbox": [
+        9,
+        42,
+        366,
+        49
+      ]
+    },
+    {
+      "text": "microbial community under scrutiny, which can lead to biased results and hinder the interpretation of ecological dynamics.",
+      "bbox": [
+        9,
+        52,
+        351,
+        59
+      ]
+    },
+    {
+      "text": "Step  Main challenge  Possible solution  Importance",
+      "bbox": [
+        10,
+        70,
+        366,
+        110
+      ]
+    },
+    {
+      "text": "DNA extraction  Uneven representation of the microbial community under scrutiny.  The use of a DNA extraction method that includes a bead-beating step results in a more comprehensive representation of the microbial community.  Moderate",
+      "bbox": [
+        10,
+        110,
+        366,
+        150
+      ]
+    },
+    {
+      "text": "Differential representation of microbial communities due to differences in DNA extraction kits.  Direct comparisons should be carried only between studies using the same DNA extraction kit.  Moderate",
+      "bbox": [
+        10,
+        150,
+        366,
+        190
+      ]
+    },
+    {
+      "text": "Contamination by microbial DNA from the DNA extraction and PCR reagents.  In order to reduce the risk of contamination, the starting biomass should be maximized. To control it, the samples must be processed in random order, the kit lots must be included as metadata and technical controls from the reagents must be sequenced.  Moderate",
+      "bbox": [
+        10,
+        190,
+        366,
+        247
+      ]
+    },
+    {
+      "text": "Multi-template PCR  Differences in the estimated phylogenetic diversity between hypervariable regions of the 16S rRNA gene.  The region that best approximates the phylogenetic diversity given by the whole gene should be selected. The V4 region has been shown to approximate the phylogenetic diversity given by the whole gene and to result in best taxonomy labeling.  Moderate",
+      "bbox": [
+        10,
+        247,
+        366,
+        305
+      ]
+    },
+    {
+      "text": "Uneven coverage of different microbial taxa by the PCR primers.  Bioinformatic tools, such as SILVA TestPrime, allow the evaluation of primers, and the ones with the highest coverage rate for the taxa known to be present in the microbial community of interest should be selected.  Moderate",
+      "bbox": [
+        10,
+        305,
+        366,
+        353
+      ]
+    },
+    {
+      "text": "The microbial coverage is maximized by using degenerate primers.  High",
+      "bbox": [
+        10,
+        353,
+        366,
+        384
+      ]
+    },
+    {
+      "text": "Direct comparisons should be carried only between studies using the same set of primers.  Moderate",
+      "bbox": [
+        10,
+        384,
+        366,
+        415
+      ]
+    },
+    {
+      "text": "Amplicon sequencing by NGS  Sequencing platform selection.  The selection of the sequencing platform should be made prioritizing error rate over sequencing depth and read length.  High",
+      "bbox": [
+        10,
+        415,
+        366,
+        446
+      ]
+    },
+    {
+      "text": "Assessment of the quality of the sequencing run.  The sequencing of a mock community allows the quality assessment of each individual amplicon sequencing run.  High",
+      "bbox": [
+        10,
+        446,
+        366,
+        477
+      ]
+    },
+    {
+      "text": "Culling of dubious sequences  Overestimation of diversity caused by spurious sequences.  Apply a stringent sequence denoising and curation procedures and assess their effectiveness by determining the final error rate using a sequenced mock community.  High",
+      "bbox": [
+        10,
+        477,
+        366,
+        517
+      ]
+    },
+    {
+      "text": "Chimera removal  Overestimation of diversity caused by non-existent organisms (chimeric sequences).  The use of database-free approaches, especially when studying poorly characterized environments, is encouraged.  Moderate",
+      "bbox": [
+        10,
+        517,
+        366,
+        548
+      ]
+    },
+    {
+      "text": "OTU clustering and taxonomy assignment  Overestimation of diversity caused by clustering algorithms.  Database-free OTU-based methods should be preferred over taxonomic-dependent (phylotyping) approaches.  Moderate",
+      "bbox": [
+        10,
+        548,
+        366,
+        579
+      ]
+    },
+    {
+      "text": "If computationally possible, the use of hierarchical methods such as average or complete linkage should be used, otherwise, a heuristic method such as CD-HIT is suggested.  Moderate",
+      "bbox": [
+        10,
+        579,
+        366,
+        636
+      ]
+    },
+    {
+      "text": "Erroneous taxonomic classification of OTUs.  The taxonomic assignment should be carried by majority consensus of the sequences within the OTU.  Moderate",
+      "bbox": [
+        10,
+        636,
+        366,
+        667
+      ]
+    },
+    {
+      "text": "Copy number variation  Over- or underestimation of diversity caused by erroneous abundance assessment.  While algorithms that correct CNV exist, they depend on whole genome sequence data, which may not be available for poorly described microorganisms, thus, their use is not encouraged  Low",
+      "bbox": [
+        10,
+        667,
+        366,
+        716
+      ]
+    },
+    {
+      "text": "As outlined in the accompanying table, addressing this challenge requires careful consideration of the DNA extraction method",
+      "bbox": [
+        9,
+        726,
+        366,
+        734
+      ]
+    },
+    {
+      "text": "employed. Specifically, the inclusion of a bead-beating step has been shown to enhance the efficiency of cell lysis, thereby",
+      "bbox": [
+        9,
+        736,
+        366,
+        743
+      ]
+    },
+    {
+      "text": "promoting a more comprehensive representation of the microbial community. This methodological adjustment not only",
+      "bbox": [
+        9,
+        745,
+        366,
+        753
+      ]
+    },
+    {
+      "text": "facilitates improved DNA yield but also ensures that a broader spectrum of microbial taxa is captured in the resulting samples.",
+      "bbox": [
+        9,
+        755,
+        366,
+        763
+      ]
+    },
+    {
+      "text": "The importance of optimizing DNA extraction methods cannot be overstated, as it directly impacts the fidelity of downstream",
+      "bbox": [
+        9,
+        765,
+        366,
+        772
+      ]
+    },
+    {
+      "text": "applications such as sequencing and quantification. By employing solutions that address the main challenges associated with",
+      "bbox": [
+        9,
+        775,
+        366,
+        782
+      ]
+    },
+    {
+      "text": "DNA extraction, researchers can significantly enhance the quality of their data, ultimately leading to more robust conclusions",
+      "bbox": [
+        9,
+        784,
+        366,
+        792
+      ]
+    },
+    {
+      "text": "regarding microbial diversity and functionality in environmental samples.",
+      "bbox": [
+        9,
+        794,
+        214,
+        802
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7998 @@
+{
+  "image_id": "img_042592",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_042592_t0",
+      "bbox": [
+        15,
+        63,
+        561,
+        269
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            63,
+            561,
+            83
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            83,
+            561,
+            116
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            116,
+            561,
+            163
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            163,
+            561,
+            196
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            196,
+            561,
+            229
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            229,
+            561,
+            248
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            248,
+            561,
+            268
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td></td><td colspan=\"3\">Living conditions and lifestyle</td><td colspan=\"3\">Social relationships</td><td colspan=\"3\">Personal independence</td></tr><tr><td>Parameters</td><td>Weighted model (A)</td><td>Unweighted model (B)</td><td>Difference (A–B)</td><td>Weighted model (A)</td><td>Unweighted model (B)</td><td>Difference (A–B)</td><td>Weighted model (A)</td><td>Unweighted model (B)</td><td>Difference (A−B)</td></tr><tr><td>Log-likelihood</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Intercept only</td><td>−2258.415</td><td>−2266.742</td><td>8.327</td><td>−2174.316</td><td>−2230.414</td><td>56.099</td><td>−2220.829</td><td>−2360.524</td><td>139.695</td></tr><tr><td>Full model</td><td>−2227.716</td><td>−2230.964</td><td>3.248</td><td>−2148.154</td><td>−2204.064</td><td>55.91</td><td>−2202.666</td><td>−2333.997</td><td>131.332</td></tr><tr><td>AIC</td><td>8.546</td><td>8.559</td><td>−0.012</td><td>8.244</td><td>8.457</td><td>−0.213</td><td>8.451</td><td>8.951</td><td>−0.499</td></tr><tr><td>BIC</td><td>1285.189</td><td>1291.686</td><td>−6.497</td><td>1126.066</td><td>1237.886</td><td>−111.821</td><td>1235.089</td><td>1497.752</td><td>−262.663</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            63,
+            58,
+            83
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Living conditions and lifestyle",
+          "bbox": [
+            58,
+            63,
+            225,
+            83
+          ],
+          "words": [
+            {
+              "text": "Living",
+              "bbox": [
+                63,
+                68,
+                90,
+                78
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                92,
+                68,
+                135,
+                78
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                137,
+                68,
+                153,
+                78
+              ]
+            },
+            {
+              "text": "lifestyle",
+              "bbox": [
+                155,
+                68,
+                187,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Social relationships",
+          "bbox": [
+            225,
+            63,
+            393,
+            83
+          ],
+          "words": [
+            {
+              "text": "Social",
+              "bbox": [
+                230,
+                68,
+                255,
+                78
+              ]
+            },
+            {
+              "text": "relationships",
+              "bbox": [
+                257,
+                68,
+                310,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7,
+            8,
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "Personal independence",
+          "bbox": [
+            393,
+            63,
+            561,
+            83
+          ],
+          "words": [
+            {
+              "text": "Personal",
+              "bbox": [
+                461,
+                68,
+                497,
+                78
+              ]
+            },
+            {
+              "text": "independence",
+              "bbox": [
+                499,
+                68,
+                556,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Parameters",
+          "bbox": [
+            15,
+            83,
+            58,
+            116
+          ],
+          "words": [
+            {
+              "text": "Parameters",
+              "bbox": [
+                19,
+                87,
+                52,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Weighted model (A)",
+          "bbox": [
+            58,
+            83,
+            115,
+            116
+          ],
+          "words": [
+            {
+              "text": "Weighted",
+              "bbox": [
+                63,
+                87,
+                102,
+                98
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                63,
+                101,
+                88,
+                111
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                91,
+                101,
+                104,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Unweighted model (B)",
+          "bbox": [
+            115,
+            83,
+            176,
+            116
+          ],
+          "words": [
+            {
+              "text": "Unweighted",
+              "bbox": [
+                120,
+                87,
+                169,
+                98
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                120,
+                101,
+                145,
+                111
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                147,
+                101,
+                160,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Difference (A–B)",
+          "bbox": [
+            176,
+            83,
+            225,
+            116
+          ],
+          "words": [
+            {
+              "text": "Difference",
+              "bbox": [
+                181,
+                87,
+                220,
+                111
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                188,
+                101,
+                213,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Weighted model (A)",
+          "bbox": [
+            225,
+            83,
+            282,
+            116
+          ],
+          "words": [
+            {
+              "text": "Weighted",
+              "bbox": [
+                230,
+                87,
+                269,
+                98
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                230,
+                101,
+                256,
+                111
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                258,
+                101,
+                271,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Unweighted model (B)",
+          "bbox": [
+            282,
+            83,
+            344,
+            116
+          ],
+          "words": [
+            {
+              "text": "Unweighted",
+              "bbox": [
+                289,
+                87,
+                339,
+                98
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                298,
+                101,
+                323,
+                111
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                326,
+                101,
+                339,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Difference (A–B)",
+          "bbox": [
+            344,
+            83,
+            393,
+            116
+          ],
+          "words": [
+            {
+              "text": "Difference",
+              "bbox": [
+                350,
+                87,
+                388,
+                111
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                363,
+                101,
+                388,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Weighted model (A)",
+          "bbox": [
+            393,
+            83,
+            450,
+            116
+          ],
+          "words": [
+            {
+              "text": "Weighted",
+              "bbox": [
+                406,
+                87,
+                445,
+                98
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                404,
+                101,
+                429,
+                111
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                431,
+                101,
+                445,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Unweighted model (B)",
+          "bbox": [
+            450,
+            83,
+            511,
+            116
+          ],
+          "words": [
+            {
+              "text": "Unweighted",
+              "bbox": [
+                457,
+                87,
+                506,
+                98
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                466,
+                101,
+                491,
+                111
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                493,
+                101,
+                506,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "Difference (A−B)",
+          "bbox": [
+            511,
+            83,
+            561,
+            116
+          ],
+          "words": [
+            {
+              "text": "Difference",
+              "bbox": [
+                517,
+                87,
+                556,
+                111
+              ]
+            },
+            {
+              "text": "(A−B)",
+              "bbox": [
+                530,
+                101,
+                556,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Log-likelihood",
+          "bbox": [
+            15,
+            116,
+            58,
+            163
+          ],
+          "words": [
+            {
+              "text": "Log-likelihood",
+              "bbox": [
+                19,
+                121,
+                49,
+                159
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            58,
+            116,
+            115,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            115,
+            116,
+            176,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            176,
+            116,
+            225,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            225,
+            116,
+            282,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            282,
+            116,
+            344,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            344,
+            116,
+            393,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            393,
+            116,
+            450,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            450,
+            116,
+            511,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            511,
+            116,
+            561,
+            163
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Intercept only",
+          "bbox": [
+            15,
+            163,
+            58,
+            196
+          ],
+          "words": [
+            {
+              "text": "Intercept",
+              "bbox": [
+                19,
+                167,
+                51,
+                191
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                24,
+                181,
+                42,
+                191
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "−2258.415",
+          "bbox": [
+            58,
+            163,
+            115,
+            196
+          ],
+          "words": [
+            {
+              "text": "−2258.415",
+              "bbox": [
+                63,
+                167,
+                105,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−2266.742",
+          "bbox": [
+            115,
+            163,
+            176,
+            196
+          ],
+          "words": [
+            {
+              "text": "−2266.742",
+              "bbox": [
+                120,
+                167,
+                161,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "8.327",
+          "bbox": [
+            176,
+            163,
+            225,
+            196
+          ],
+          "words": [
+            {
+              "text": "8.327",
+              "bbox": [
+                181,
+                167,
+                203,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "−2174.316",
+          "bbox": [
+            225,
+            163,
+            282,
+            196
+          ],
+          "words": [
+            {
+              "text": "−2174.316",
+              "bbox": [
+                230,
+                167,
+                272,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "−2230.414",
+          "bbox": [
+            282,
+            163,
+            344,
+            196
+          ],
+          "words": [
+            {
+              "text": "−2230.414",
+              "bbox": [
+                297,
+                167,
+                339,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "56.099",
+          "bbox": [
+            344,
+            163,
+            393,
+            196
+          ],
+          "words": [
+            {
+              "text": "56.099",
+              "bbox": [
+                361,
+                167,
+                388,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "−2220.829",
+          "bbox": [
+            393,
+            163,
+            450,
+            196
+          ],
+          "words": [
+            {
+              "text": "−2220.829",
+              "bbox": [
+                403,
+                167,
+                445,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "−2360.524",
+          "bbox": [
+            450,
+            163,
+            511,
+            196
+          ],
+          "words": [
+            {
+              "text": "−2360.524",
+              "bbox": [
+                465,
+                167,
+                506,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "139.695",
+          "bbox": [
+            511,
+            163,
+            561,
+            196
+          ],
+          "words": [
+            {
+              "text": "139.695",
+              "bbox": [
+                524,
+                167,
+                556,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Full model",
+          "bbox": [
+            15,
+            196,
+            58,
+            229
+          ],
+          "words": [
+            {
+              "text": "Full",
+              "bbox": [
+                19,
+                200,
+                35,
+                211
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                19,
+                214,
+                44,
+                224
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "−2227.716",
+          "bbox": [
+            58,
+            196,
+            115,
+            229
+          ],
+          "words": [
+            {
+              "text": "−2227.716",
+              "bbox": [
+                63,
+                200,
+                105,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−2230.964",
+          "bbox": [
+            115,
+            196,
+            176,
+            229
+          ],
+          "words": [
+            {
+              "text": "−2230.964",
+              "bbox": [
+                120,
+                200,
+                161,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3.248",
+          "bbox": [
+            176,
+            196,
+            225,
+            229
+          ],
+          "words": [
+            {
+              "text": "3.248",
+              "bbox": [
+                181,
+                200,
+                203,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "−2148.154",
+          "bbox": [
+            225,
+            196,
+            282,
+            229
+          ],
+          "words": [
+            {
+              "text": "−2148.154",
+              "bbox": [
+                230,
+                200,
+                272,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "−2204.064",
+          "bbox": [
+            282,
+            196,
+            344,
+            229
+          ],
+          "words": [
+            {
+              "text": "−2204.064",
+              "bbox": [
+                297,
+                200,
+                339,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "55.91",
+          "bbox": [
+            344,
+            196,
+            393,
+            229
+          ],
+          "words": [
+            {
+              "text": "55.91",
+              "bbox": [
+                366,
+                200,
+                388,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "−2202.666",
+          "bbox": [
+            393,
+            196,
+            450,
+            229
+          ],
+          "words": [
+            {
+              "text": "−2202.666",
+              "bbox": [
+                403,
+                200,
+                445,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "−2333.997",
+          "bbox": [
+            450,
+            196,
+            511,
+            229
+          ],
+          "words": [
+            {
+              "text": "−2333.997",
+              "bbox": [
+                465,
+                200,
+                506,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "131.332",
+          "bbox": [
+            511,
+            196,
+            561,
+            229
+          ],
+          "words": [
+            {
+              "text": "131.332",
+              "bbox": [
+                524,
+                200,
+                556,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "AIC",
+          "bbox": [
+            15,
+            229,
+            58,
+            248
+          ],
+          "words": [
+            {
+              "text": "AIC",
+              "bbox": [
+                19,
+                233,
+                36,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "8.546",
+          "bbox": [
+            58,
+            229,
+            115,
+            248
+          ],
+          "words": [
+            {
+              "text": "8.546",
+              "bbox": [
+                63,
+                233,
+                85,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "8.559",
+          "bbox": [
+            115,
+            229,
+            176,
+            248
+          ],
+          "words": [
+            {
+              "text": "8.559",
+              "bbox": [
+                120,
+                233,
+                142,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.012",
+          "bbox": [
+            176,
+            229,
+            225,
+            248
+          ],
+          "words": [
+            {
+              "text": "−0.012",
+              "bbox": [
+                181,
+                233,
+                208,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "8.244",
+          "bbox": [
+            225,
+            229,
+            282,
+            248
+          ],
+          "words": [
+            {
+              "text": "8.244",
+              "bbox": [
+                230,
+                233,
+                252,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "8.457",
+          "bbox": [
+            282,
+            229,
+            344,
+            248
+          ],
+          "words": [
+            {
+              "text": "8.457",
+              "bbox": [
+                317,
+                233,
+                339,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.213",
+          "bbox": [
+            344,
+            229,
+            393,
+            248
+          ],
+          "words": [
+            {
+              "text": "−0.213",
+              "bbox": [
+                361,
+                233,
+                388,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "8.451",
+          "bbox": [
+            393,
+            229,
+            450,
+            248
+          ],
+          "words": [
+            {
+              "text": "8.451",
+              "bbox": [
+                423,
+                233,
+                445,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "8.951",
+          "bbox": [
+            450,
+            229,
+            511,
+            248
+          ],
+          "words": [
+            {
+              "text": "8.951",
+              "bbox": [
+                484,
+                233,
+                506,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.499",
+          "bbox": [
+            511,
+            229,
+            561,
+            248
+          ],
+          "words": [
+            {
+              "text": "−0.499",
+              "bbox": [
+                529,
+                233,
+                556,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "BIC",
+          "bbox": [
+            15,
+            248,
+            58,
+            268
+          ],
+          "words": [
+            {
+              "text": "BIC",
+              "bbox": [
+                19,
+                252,
+                35,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1285.189",
+          "bbox": [
+            58,
+            248,
+            115,
+            268
+          ],
+          "words": [
+            {
+              "text": "1285.189",
+              "bbox": [
+                63,
+                252,
+                99,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1291.686",
+          "bbox": [
+            115,
+            248,
+            176,
+            268
+          ],
+          "words": [
+            {
+              "text": "1291.686",
+              "bbox": [
+                120,
+                252,
+                156,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "−6.497",
+          "bbox": [
+            176,
+            248,
+            225,
+            268
+          ],
+          "words": [
+            {
+              "text": "−6.497",
+              "bbox": [
+                181,
+                252,
+                208,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1126.066",
+          "bbox": [
+            225,
+            248,
+            282,
+            268
+          ],
+          "words": [
+            {
+              "text": "1126.066",
+              "bbox": [
+                230,
+                252,
+                266,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1237.886",
+          "bbox": [
+            282,
+            248,
+            344,
+            268
+          ],
+          "words": [
+            {
+              "text": "1237.886",
+              "bbox": [
+                303,
+                252,
+                339,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "−111.821",
+          "bbox": [
+            344,
+            248,
+            393,
+            268
+          ],
+          "words": [
+            {
+              "text": "−111.821",
+              "bbox": [
+                352,
+                252,
+                388,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1235.089",
+          "bbox": [
+            393,
+            248,
+            450,
+            268
+          ],
+          "words": [
+            {
+              "text": "1235.089",
+              "bbox": [
+                409,
+                252,
+                445,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1497.752",
+          "bbox": [
+            450,
+            248,
+            511,
+            268
+          ],
+          "words": [
+            {
+              "text": "1497.752",
+              "bbox": [
+                470,
+                252,
+                506,
+                263
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "−262.663",
+          "bbox": [
+            511,
+            248,
+            561,
+            268
+          ],
+          "words": [
+            {
+              "text": "−262.663",
+              "bbox": [
+                519,
+                252,
+                556,
+                263
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_042592_t1",
+      "bbox": [
+        15,
+        283,
+        561,
+        470
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            284,
+            561,
+            304
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            304,
+            561,
+            337
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            337,
+            561,
+            370
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            370,
+            561,
+            403
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            403,
+            561,
+            436
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            436,
+            561,
+            469
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Object</td><td>VTK Class Type</td><td>Data File Structure</td></tr><tr><td>Topographic map</td><td>vtkDelaunay2D</td><td>Line 1: 1 (Classification code)Line 2: UnusedLine 3: UnusedLine 4: (x, y, z) of point 1Line 5: (x, y, z) of point 2...</td></tr><tr><td>Drift or shaft</td><td>vtkLineSourcevtkTubeFilter</td><td>Line 1: 2 (Classification code)Line 2: Radius of tubeLine 3: UnusedLine 4: (x, y, z) of start point 1 / end point 1Line 5: (x, y, z) of start point 2 / end point 2...</td></tr><tr><td>Borehole</td><td>vtkLineSourcevtkTubeFilter</td><td>Line 1: 3 (Classification code)Line 2: Radius of tubeLine 3: Number of classLine 4: (x, y, z) of point 1 / label / classLine 5: (x, y, z) of point 2 / label / class...</td></tr><tr><td>Goaf</td><td>vtkPolygonvtkLinearExtrusionFilter</td><td>Line 1:4 (Classification code)Line 2: Extrusion lengthLine 3: UnusedLine 4: (x, y, z) of point 1 / polygon numberLine 5: (x, y, z) of point 2 / polygon number...</td></tr><tr><td>Groundwater level</td><td>vtkCylinderSource</td><td>Line 1: 5 (Classification code)Line 2: Number of pondsLine 3: Radius of each pondLine 4: Number of time stepsLine 5: Pond number / time step / (x, y, z) of water level...</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Object",
+          "bbox": [
+            15,
+            284,
+            69,
+            304
+          ],
+          "words": [
+            {
+              "text": "Object",
+              "bbox": [
+                19,
+                288,
+                47,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "VTK Class Type",
+          "bbox": [
+            69,
+            284,
+            164,
+            304
+          ],
+          "words": [
+            {
+              "text": "VTK",
+              "bbox": [
+                91,
+                288,
+                112,
+                299
+              ]
+            },
+            {
+              "text": "Class",
+              "bbox": [
+                114,
+                288,
+                136,
+                299
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                139,
+                288,
+                159,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Data File Structure",
+          "bbox": [
+            164,
+            284,
+            561,
+            304
+          ],
+          "words": [
+            {
+              "text": "Data",
+              "bbox": [
+                476,
+                288,
+                496,
+                299
+              ]
+            },
+            {
+              "text": "File",
+              "bbox": [
+                498,
+                288,
+                514,
+                299
+              ]
+            },
+            {
+              "text": "Structure",
+              "bbox": [
+                516,
+                288,
+                556,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Topographic map",
+          "bbox": [
+            15,
+            304,
+            69,
+            337
+          ],
+          "words": [
+            {
+              "text": "Topographic",
+              "bbox": [
+                19,
+                308,
+                64,
+                333
+              ]
+            },
+            {
+              "text": "map",
+              "bbox": [
+                26,
+                322,
+                43,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "vtkDelaunay2D",
+          "bbox": [
+            69,
+            304,
+            164,
+            337
+          ],
+          "words": [
+            {
+              "text": "vtkDelaunay2D",
+              "bbox": [
+                98,
+                308,
+                159,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Line 1: 1 (Classification code)Line 2: UnusedLine 3: UnusedLine 4: (x, y, z) of point 1Line 5: (x, y, z) of point 2...",
+          "bbox": [
+            164,
+            304,
+            561,
+            337
+          ],
+          "words": [
+            {
+              "text": "Line",
+              "bbox": [
+                170,
+                308,
+                188,
+                319
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                190,
+                308,
+                198,
+                319
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                200,
+                308,
+                205,
+                319
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                207,
+                308,
+                264,
+                319
+              ]
+            },
+            {
+              "text": "code)Line",
+              "bbox": [
+                266,
+                308,
+                305,
+                319
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                308,
+                308,
+                315,
+                319
+              ]
+            },
+            {
+              "text": "UnusedLine",
+              "bbox": [
+                318,
+                308,
+                365,
+                319
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                367,
+                308,
+                375,
+                319
+              ]
+            },
+            {
+              "text": "UnusedLine",
+              "bbox": [
+                377,
+                308,
+                424,
+                319
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                427,
+                308,
+                434,
+                319
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                437,
+                308,
+                447,
+                319
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                450,
+                308,
+                456,
+                319
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                459,
+                308,
+                466,
+                319
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                469,
+                308,
+                477,
+                319
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                479,
+                308,
+                499,
+                319
+              ]
+            },
+            {
+              "text": "1Line",
+              "bbox": [
+                501,
+                308,
+                524,
+                319
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                526,
+                308,
+                534,
+                319
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                536,
+                308,
+                547,
+                319
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                549,
+                308,
+                556,
+                319
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                501,
+                322,
+                509,
+                333
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                511,
+                322,
+                519,
+                333
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                521,
+                322,
+                541,
+                333
+              ]
+            },
+            {
+              "text": "2...",
+              "bbox": [
+                544,
+                322,
+                556,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Drift or shaft",
+          "bbox": [
+            15,
+            337,
+            69,
+            370
+          ],
+          "words": [
+            {
+              "text": "Drift",
+              "bbox": [
+                19,
+                341,
+                38,
+                352
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                41,
+                341,
+                49,
+                352
+              ]
+            },
+            {
+              "text": "shaft",
+              "bbox": [
+                19,
+                355,
+                38,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "vtkLineSourcevtkTubeFilter",
+          "bbox": [
+            69,
+            337,
+            164,
+            370
+          ],
+          "words": [
+            {
+              "text": "vtkLineSourcevtkTubeFilter",
+              "bbox": [
+                74,
+                341,
+                159,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Line 1: 2 (Classification code)Line 2: Radius of tubeLine 3: UnusedLine 4: (x, y, z) of start point 1 / end point 1Line 5: (x, y, z) of start point 2 / end point 2...",
+          "bbox": [
+            164,
+            337,
+            561,
+            370
+          ],
+          "words": [
+            {
+              "text": "Line",
+              "bbox": [
+                169,
+                341,
+                186,
+                352
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                189,
+                341,
+                196,
+                352
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                199,
+                341,
+                203,
+                352
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                206,
+                341,
+                262,
+                352
+              ]
+            },
+            {
+              "text": "code)Line",
+              "bbox": [
+                265,
+                341,
+                304,
+                352
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                306,
+                341,
+                314,
+                352
+              ]
+            },
+            {
+              "text": "Radius",
+              "bbox": [
+                316,
+                341,
+                343,
+                352
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                345,
+                341,
+                354,
+                352
+              ]
+            },
+            {
+              "text": "tubeLine",
+              "bbox": [
+                356,
+                341,
+                390,
+                352
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                393,
+                341,
+                400,
+                352
+              ]
+            },
+            {
+              "text": "UnusedLine",
+              "bbox": [
+                403,
+                341,
+                450,
+                352
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                452,
+                341,
+                460,
+                352
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                462,
+                341,
+                473,
+                352
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                475,
+                341,
+                482,
+                352
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                484,
+                341,
+                492,
+                352
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                494,
+                341,
+                502,
+                352
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                505,
+                341,
+                521,
+                352
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                524,
+                341,
+                543,
+                352
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                546,
+                341,
+                551,
+                352
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                553,
+                341,
+                556,
+                352
+              ]
+            },
+            {
+              "text": "end",
+              "bbox": [
+                336,
+                355,
+                349,
+                365
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                352,
+                355,
+                372,
+                365
+              ]
+            },
+            {
+              "text": "1Line",
+              "bbox": [
+                374,
+                355,
+                397,
+                365
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                399,
+                355,
+                407,
+                365
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                409,
+                355,
+                420,
+                365
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                422,
+                355,
+                429,
+                365
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                431,
+                355,
+                439,
+                365
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                441,
+                355,
+                449,
+                365
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                451,
+                355,
+                468,
+                365
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                470,
+                355,
+                490,
+                365
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                493,
+                355,
+                498,
+                365
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                500,
+                355,
+                503,
+                365
+              ]
+            },
+            {
+              "text": "end",
+              "bbox": [
+                505,
+                355,
+                519,
+                365
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                521,
+                355,
+                541,
+                365
+              ]
+            },
+            {
+              "text": "2...",
+              "bbox": [
+                544,
+                355,
+                556,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Borehole",
+          "bbox": [
+            15,
+            370,
+            69,
+            403
+          ],
+          "words": [
+            {
+              "text": "Borehole",
+              "bbox": [
+                19,
+                374,
+                55,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "vtkLineSourcevtkTubeFilter",
+          "bbox": [
+            69,
+            370,
+            164,
+            403
+          ],
+          "words": [
+            {
+              "text": "vtkLineSourcevtkTubeFilter",
+              "bbox": [
+                74,
+                374,
+                159,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Line 1: 3 (Classification code)Line 2: Radius of tubeLine 3: Number of classLine 4: (x, y, z) of point 1 / label / classLine 5: (x, y, z) of point 2 / label / class...",
+          "bbox": [
+            164,
+            370,
+            561,
+            403
+          ],
+          "words": [
+            {
+              "text": "Line",
+              "bbox": [
+                188,
+                374,
+                206,
+                385
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                209,
+                374,
+                216,
+                385
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                218,
+                374,
+                223,
+                385
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                226,
+                374,
+                282,
+                385
+              ]
+            },
+            {
+              "text": "code)Line",
+              "bbox": [
+                285,
+                374,
+                324,
+                385
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                326,
+                374,
+                334,
+                385
+              ]
+            },
+            {
+              "text": "Radius",
+              "bbox": [
+                336,
+                374,
+                363,
+                385
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                365,
+                374,
+                373,
+                385
+              ]
+            },
+            {
+              "text": "tubeLine",
+              "bbox": [
+                376,
+                374,
+                410,
+                385
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                413,
+                374,
+                420,
+                385
+              ]
+            },
+            {
+              "text": "Number",
+              "bbox": [
+                423,
+                374,
+                454,
+                385
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                457,
+                374,
+                465,
+                385
+              ]
+            },
+            {
+              "text": "classLine",
+              "bbox": [
+                467,
+                374,
+                504,
+                385
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                506,
+                374,
+                514,
+                385
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                516,
+                374,
+                526,
+                385
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                529,
+                374,
+                535,
+                385
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                538,
+                374,
+                545,
+                385
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                548,
+                374,
+                556,
+                385
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                317,
+                388,
+                337,
+                398
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                339,
+                388,
+                344,
+                398
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                346,
+                388,
+                349,
+                398
+              ]
+            },
+            {
+              "text": "label",
+              "bbox": [
+                351,
+                388,
+                370,
+                398
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                373,
+                388,
+                375,
+                398
+              ]
+            },
+            {
+              "text": "classLine",
+              "bbox": [
+                378,
+                388,
+                414,
+                398
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                417,
+                388,
+                424,
+                398
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                427,
+                388,
+                437,
+                398
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                439,
+                388,
+                446,
+                398
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                448,
+                388,
+                456,
+                398
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                458,
+                388,
+                466,
+                398
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                469,
+                388,
+                489,
+                398
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                491,
+                388,
+                496,
+                398
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                498,
+                388,
+                501,
+                398
+              ]
+            },
+            {
+              "text": "label",
+              "bbox": [
+                504,
+                388,
+                522,
+                398
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                525,
+                388,
+                527,
+                398
+              ]
+            },
+            {
+              "text": "class...",
+              "bbox": [
+                530,
+                388,
+                556,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Goaf",
+          "bbox": [
+            15,
+            403,
+            69,
+            436
+          ],
+          "words": [
+            {
+              "text": "Goaf",
+              "bbox": [
+                19,
+                407,
+                39,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "vtkPolygonvtkLinearExtrusionFilter",
+          "bbox": [
+            69,
+            403,
+            164,
+            436
+          ],
+          "words": [
+            {
+              "text": "vtkPolygonvtkLinearExtrusionFilter",
+              "bbox": [
+                77,
+                407,
+                159,
+                431
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Line 1:4 (Classification code)Line 2: Extrusion lengthLine 3: UnusedLine 4: (x, y, z) of point 1 / polygon numberLine 5: (x, y, z) of point 2 / polygon number...",
+          "bbox": [
+            164,
+            403,
+            561,
+            436
+          ],
+          "words": [
+            {
+              "text": "Line",
+              "bbox": [
+                182,
+                407,
+                200,
+                418
+              ]
+            },
+            {
+              "text": "1:4",
+              "bbox": [
+                202,
+                407,
+                215,
+                418
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                217,
+                407,
+                274,
+                418
+              ]
+            },
+            {
+              "text": "code)Line",
+              "bbox": [
+                276,
+                407,
+                315,
+                418
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                318,
+                407,
+                325,
+                418
+              ]
+            },
+            {
+              "text": "Extrusion",
+              "bbox": [
+                327,
+                407,
+                365,
+                418
+              ]
+            },
+            {
+              "text": "lengthLine",
+              "bbox": [
+                367,
+                407,
+                409,
+                418
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                412,
+                407,
+                419,
+                418
+              ]
+            },
+            {
+              "text": "UnusedLine",
+              "bbox": [
+                422,
+                407,
+                469,
+                418
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                471,
+                407,
+                479,
+                418
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                481,
+                407,
+                492,
+                418
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                494,
+                407,
+                501,
+                418
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                503,
+                407,
+                511,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                513,
+                407,
+                521,
+                418
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                524,
+                407,
+                543,
+                418
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                546,
+                407,
+                551,
+                418
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                553,
+                407,
+                556,
+                418
+              ]
+            },
+            {
+              "text": "polygon",
+              "bbox": [
+                315,
+                421,
+                347,
+                431
+              ]
+            },
+            {
+              "text": "numberLine",
+              "bbox": [
+                349,
+                421,
+                396,
+                431
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                399,
+                421,
+                406,
+                431
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                409,
+                421,
+                419,
+                431
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                421,
+                421,
+                428,
+                431
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                430,
+                421,
+                438,
+                431
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                440,
+                421,
+                448,
+                431
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                451,
+                421,
+                471,
+                431
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                473,
+                421,
+                478,
+                431
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                480,
+                421,
+                483,
+                431
+              ]
+            },
+            {
+              "text": "polygon",
+              "bbox": [
+                485,
+                421,
+                517,
+                431
+              ]
+            },
+            {
+              "text": "number...",
+              "bbox": [
+                520,
+                421,
+                556,
+                431
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Groundwater level",
+          "bbox": [
+            15,
+            436,
+            69,
+            469
+          ],
+          "words": [
+            {
+              "text": "Groundwater",
+              "bbox": [
+                19,
+                440,
+                63,
+                464
+              ]
+            },
+            {
+              "text": "level",
+              "bbox": [
+                29,
+                453,
+                48,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "vtkCylinderSource",
+          "bbox": [
+            69,
+            436,
+            164,
+            469
+          ],
+          "words": [
+            {
+              "text": "vtkCylinderSource",
+              "bbox": [
+                86,
+                440,
+                159,
+                450
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Line 1: 5 (Classification code)Line 2: Number of pondsLine 3: Radius of each pondLine 4: Number of time stepsLine 5: Pond number / time step / (x, y, z) of water level...",
+          "bbox": [
+            164,
+            436,
+            561,
+            469
+          ],
+          "words": [
+            {
+              "text": "Line",
+              "bbox": [
+                170,
+                440,
+                187,
+                450
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                190,
+                440,
+                197,
+                450
+              ]
+            },
+            {
+              "text": "5",
+              "bbox": [
+                200,
+                440,
+                204,
+                450
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                207,
+                440,
+                263,
+                450
+              ]
+            },
+            {
+              "text": "code)Line",
+              "bbox": [
+                266,
+                440,
+                305,
+                450
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                307,
+                440,
+                315,
+                450
+              ]
+            },
+            {
+              "text": "Number",
+              "bbox": [
+                317,
+                440,
+                349,
+                450
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                351,
+                440,
+                359,
+                450
+              ]
+            },
+            {
+              "text": "pondsLine",
+              "bbox": [
+                362,
+                440,
+                403,
+                450
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                405,
+                440,
+                412,
+                450
+              ]
+            },
+            {
+              "text": "Radius",
+              "bbox": [
+                415,
+                440,
+                442,
+                450
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                444,
+                440,
+                452,
+                450
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                455,
+                440,
+                472,
+                450
+              ]
+            },
+            {
+              "text": "pondLine",
+              "bbox": [
+                475,
+                440,
+                512,
+                450
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                514,
+                440,
+                522,
+                450
+              ]
+            },
+            {
+              "text": "Number",
+              "bbox": [
+                524,
+                440,
+                556,
+                450
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                282,
+                453,
+                290,
+                464
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                293,
+                453,
+                310,
+                464
+              ]
+            },
+            {
+              "text": "stepsLine",
+              "bbox": [
+                312,
+                453,
+                349,
+                464
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                352,
+                453,
+                359,
+                464
+              ]
+            },
+            {
+              "text": "Pond",
+              "bbox": [
+                362,
+                453,
+                381,
+                464
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                384,
+                453,
+                413,
+                464
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                416,
+                453,
+                418,
+                464
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                421,
+                453,
+                438,
+                464
+              ]
+            },
+            {
+              "text": "step",
+              "bbox": [
+                441,
+                453,
+                456,
+                464
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                458,
+                453,
+                461,
+                464
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                464,
+                453,
+                474,
+                464
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                476,
+                453,
+                483,
+                464
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                486,
+                453,
+                493,
+                464
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                495,
+                453,
+                504,
+                464
+              ]
+            },
+            {
+              "text": "water",
+              "bbox": [
+                506,
+                453,
+                527,
+                464
+              ]
+            },
+            {
+              "text": "level...",
+              "bbox": [
+                530,
+                453,
+                556,
+                464
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        484,
+        561,
+        782
+      ],
+      "content": "The report on living conditions and lifestyle reveals the following parameters: for Log-likelihood, the intercept only is represented by Weighted model (A) at −2258.415, Unweighted model (B) at −2266.742, with a Difference (A–B) of 8.327; Full model shows Weighted model (A) at −2227.716, Unweighted model (B) at −2230.964, and a Difference (A–B) of 3.248. AIC presents Weighted model (A) at 8.546, Unweighted model (B) at 8.559, with a Difference (A–B) of −0.012; BIC shows Weighted model (A) at 1285.189, Unweighted model (B) at 1291.686, and a Difference (A–B) of −6.497. In Social relationships, the intercept only is Weighted model (A) at −2174.316, Unweighted model (B) at −2230.414, with a Difference (A–B) of 56.099; Full model is Weighted model (A) at −2148.154, Unweighted model (B) at −2204.064, with a Difference (A–B) of 55.91. AIC is 8.244 for Weighted model (A) and 8.457 for Unweighted model (B); BIC is 1126.066 and 1237.886 respectively. Personal independence lists the intercept only as Weighted model (A) at −2220.829, Unweighted model (B) at −2360.524, Difference (A–B) at 139.695; Full model at Weighted model (A) −2202.666, Unweighted model (B) −2333.997, Difference (A–B) 131.332; AIC is 8.451 and 8.951; BIC is 1235.089 and 1497.752. \n\nThe data from Table 2 categorizes objects as follows: Topographic map is linked to vtkDelaunay2D with a data file structure consisting of Line 1: 1 (Classification code), Line 2: Unused, Line 3: Unused, Line 4: (x, y, z) of point 1, Line 5: (x, y, z) of point 2; Drift or shaft is associated with vtkLineSourcevtkTubeFilter, featuring Line 1: 2 (Classification code), Line 2: Radius of tube, Line 3: Unused, Line 4: (x, y, z) of start point 1 / end point 1, Line 5: (x, y, z) of start point 2 / end point 2; Borehole uses vtkLineSourcevtkTubeFilter with Line 1: 3 (Classification code), Line 2: Radius of tube, Line 3: Number of class, Line 4: (x, y, z) of point 1 / label / class, Line 5: (x, y, z) of point 2 / label / class; Goaf is linked to vtkPolygonvtkLinearExtrusionFilter, with Line 1: 4 (Classification code), Line 2: Extrusion length, Line 3: Unused, Line 4: (x, y, z) of point 1 / polygon number, Line 5: (x, y, z) of point 2 / polygon number; Groundwater level is associated with vtkCylinderSource, comprising Line 1: 5 (Classification code), Line 2: Number of ponds, Line 3: Radius of each pond, Line 4: Number of time steps, Line 5: Pond number / time step / (x, y, z) of water level.",
+      "lines": [
+        {
+          "text": "The report on living conditions and lifestyle reveals the following parameters: for Log-likelihood, the intercept only is",
+          "bbox": [
+            15,
+            485,
+            561,
+            497
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                485,
+                31,
+                497
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                36,
+                485,
+                62,
+                497
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                67,
+                485,
+                78,
+                497
+              ]
+            },
+            {
+              "text": "living",
+              "bbox": [
+                83,
+                485,
+                108,
+                497
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                113,
+                485,
+                158,
+                497
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                163,
+                485,
+                178,
+                497
+              ]
+            },
+            {
+              "text": "lifestyle",
+              "bbox": [
+                184,
+                485,
+                218,
+                497
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                223,
+                485,
+                253,
+                497
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                259,
+                485,
+                272,
+                497
+              ]
+            },
+            {
+              "text": "following",
+              "bbox": [
+                277,
+                485,
+                319,
+                497
+              ]
+            },
+            {
+              "text": "parameters:",
+              "bbox": [
+                324,
+                485,
+                373,
+                497
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                379,
+                485,
+                391,
+                497
+              ]
+            },
+            {
+              "text": "Log-likelihood,",
+              "bbox": [
+                397,
+                485,
+                463,
+                497
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                468,
+                485,
+                481,
+                497
+              ]
+            },
+            {
+              "text": "intercept",
+              "bbox": [
+                487,
+                485,
+                524,
+                497
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                529,
+                485,
+                548,
+                497
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                554,
+                485,
+                561,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "text": "represented by Weighted model (A) at −2258.415, Unweighted model (B) at −2266.742, with a Difference (A–B) of 8.327; Full",
+          "bbox": [
+            15,
+            500,
+            561,
+            512
+          ],
+          "words": [
+            {
+              "text": "represented",
+              "bbox": [
+                15,
+                500,
+                64,
+                512
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                66,
+                500,
+                77,
+                512
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                80,
+                500,
+                120,
+                512
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                123,
+                500,
+                149,
+                512
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                152,
+                500,
+                167,
+                512
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                170,
+                500,
+                178,
+                512
+              ]
+            },
+            {
+              "text": "−2258.415,",
+              "bbox": [
+                180,
+                500,
+                229,
+                512
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                232,
+                500,
+                284,
+                512
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                287,
+                500,
+                313,
+                512
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                316,
+                500,
+                330,
+                512
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                333,
+                500,
+                341,
+                512
+              ]
+            },
+            {
+              "text": "−2266.742,",
+              "bbox": [
+                343,
+                500,
+                392,
+                512
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                395,
+                500,
+                414,
+                512
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                417,
+                500,
+                421,
+                512
+              ]
+            },
+            {
+              "text": "Difference",
+              "bbox": [
+                424,
+                500,
+                469,
+                512
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                472,
+                500,
+                499,
+                512
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                502,
+                500,
+                511,
+                512
+              ]
+            },
+            {
+              "text": "8.327;",
+              "bbox": [
+                514,
+                500,
+                541,
+                512
+              ]
+            },
+            {
+              "text": "Full",
+              "bbox": [
+                544,
+                500,
+                561,
+                512
+              ]
+            }
+          ]
+        },
+        {
+          "text": "model shows Weighted model (A) at −2227.716, Unweighted model (B) at −2230.964, and a Difference (A–B) of 3.248. AIC",
+          "bbox": [
+            15,
+            515,
+            561,
+            527
+          ],
+          "words": [
+            {
+              "text": "model",
+              "bbox": [
+                15,
+                515,
+                41,
+                527
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                44,
+                515,
+                71,
+                527
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                74,
+                515,
+                115,
+                527
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                118,
+                515,
+                145,
+                527
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                148,
+                515,
+                163,
+                527
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                166,
+                515,
+                174,
+                527
+              ]
+            },
+            {
+              "text": "−2227.716,",
+              "bbox": [
+                177,
+                515,
+                226,
+                527
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                229,
+                515,
+                281,
+                527
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                284,
+                515,
+                311,
+                527
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                314,
+                515,
+                329,
+                527
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                332,
+                515,
+                340,
+                527
+              ]
+            },
+            {
+              "text": "−2230.964,",
+              "bbox": [
+                343,
+                515,
+                391,
+                527
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                395,
+                515,
+                410,
+                527
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                414,
+                515,
+                418,
+                527
+              ]
+            },
+            {
+              "text": "Difference",
+              "bbox": [
+                422,
+                515,
+                467,
+                527
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                470,
+                515,
+                497,
+                527
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                501,
+                515,
+                510,
+                527
+              ]
+            },
+            {
+              "text": "3.248.",
+              "bbox": [
+                513,
+                515,
+                540,
+                527
+              ]
+            },
+            {
+              "text": "AIC",
+              "bbox": [
+                542,
+                515,
+                561,
+                527
+              ]
+            }
+          ]
+        },
+        {
+          "text": "presents Weighted model (A) at 8.546, Unweighted model (B) at 8.559, with a Difference (A–B) of −0.012; BIC shows",
+          "bbox": [
+            15,
+            530,
+            561,
+            542
+          ],
+          "words": [
+            {
+              "text": "presents",
+              "bbox": [
+                15,
+                530,
+                49,
+                542
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                54,
+                530,
+                94,
+                542
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                99,
+                530,
+                126,
+                542
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                131,
+                530,
+                145,
+                542
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                150,
+                530,
+                158,
+                542
+              ]
+            },
+            {
+              "text": "8.546,",
+              "bbox": [
+                163,
+                530,
+                189,
+                542
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                194,
+                530,
+                246,
+                542
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                251,
+                530,
+                277,
+                542
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                282,
+                530,
+                296,
+                542
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                301,
+                530,
+                309,
+                542
+              ]
+            },
+            {
+              "text": "8.559,",
+              "bbox": [
+                314,
+                530,
+                340,
+                542
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                345,
+                530,
+                364,
+                542
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                369,
+                530,
+                373,
+                542
+              ]
+            },
+            {
+              "text": "Difference",
+              "bbox": [
+                378,
+                530,
+                423,
+                542
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                428,
+                530,
+                455,
+                542
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                460,
+                530,
+                469,
+                542
+              ]
+            },
+            {
+              "text": "−0.012;",
+              "bbox": [
+                474,
+                530,
+                507,
+                542
+              ]
+            },
+            {
+              "text": "BIC",
+              "bbox": [
+                512,
+                530,
+                529,
+                542
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                534,
+                530,
+                561,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Weighted model (A) at 1285.189, Unweighted model (B) at 1291.686, and a Difference (A–B) of −6.497. In Social",
+          "bbox": [
+            15,
+            545,
+            561,
+            556
+          ],
+          "words": [
+            {
+              "text": "Weighted",
+              "bbox": [
+                15,
+                545,
+                55,
+                556
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                61,
+                545,
+                88,
+                556
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                94,
+                545,
+                108,
+                556
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                114,
+                545,
+                122,
+                556
+              ]
+            },
+            {
+              "text": "1285.189,",
+              "bbox": [
+                128,
+                545,
+                171,
+                556
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                176,
+                545,
+                228,
+                556
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                234,
+                545,
+                261,
+                556
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                267,
+                545,
+                281,
+                556
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                287,
+                545,
+                295,
+                556
+              ]
+            },
+            {
+              "text": "1291.686,",
+              "bbox": [
+                301,
+                545,
+                343,
+                556
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                349,
+                545,
+                365,
+                556
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                371,
+                545,
+                375,
+                556
+              ]
+            },
+            {
+              "text": "Difference",
+              "bbox": [
+                381,
+                545,
+                427,
+                556
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                433,
+                545,
+                460,
+                556
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                466,
+                545,
+                475,
+                556
+              ]
+            },
+            {
+              "text": "−6.497.",
+              "bbox": [
+                481,
+                545,
+                513,
+                556
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                519,
+                545,
+                528,
+                556
+              ]
+            },
+            {
+              "text": "Social",
+              "bbox": [
+                534,
+                545,
+                561,
+                556
+              ]
+            }
+          ]
+        },
+        {
+          "text": "relationships, the intercept only is Weighted model (A) at −2174.316, Unweighted model (B) at −2230.414, with a Difference",
+          "bbox": [
+            15,
+            560,
+            561,
+            571
+          ],
+          "words": [
+            {
+              "text": "relationships,",
+              "bbox": [
+                15,
+                560,
+                72,
+                571
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                75,
+                560,
+                88,
+                571
+              ]
+            },
+            {
+              "text": "intercept",
+              "bbox": [
+                91,
+                560,
+                128,
+                571
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                132,
+                560,
+                151,
+                571
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                154,
+                560,
+                161,
+                571
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                164,
+                560,
+                205,
+                571
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                208,
+                560,
+                235,
+                571
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                238,
+                560,
+                253,
+                571
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                256,
+                560,
+                264,
+                571
+              ]
+            },
+            {
+              "text": "−2174.316,",
+              "bbox": [
+                267,
+                560,
+                316,
+                571
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                319,
+                560,
+                371,
+                571
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                375,
+                560,
+                401,
+                571
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                405,
+                560,
+                419,
+                571
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                422,
+                560,
+                430,
+                571
+              ]
+            },
+            {
+              "text": "−2230.414,",
+              "bbox": [
+                433,
+                560,
+                482,
+                571
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                485,
+                560,
+                504,
+                571
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                507,
+                560,
+                512,
+                571
+              ]
+            },
+            {
+              "text": "Difference",
+              "bbox": [
+                515,
+                560,
+                561,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(A–B) of 56.099; Full model is Weighted model (A) at −2148.154, Unweighted model (B) at −2204.064, with a Difference (A–",
+          "bbox": [
+            15,
+            575,
+            561,
+            586
+          ],
+          "words": [
+            {
+              "text": "(A–B)",
+              "bbox": [
+                15,
+                575,
+                42,
+                586
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                45,
+                575,
+                53,
+                586
+              ]
+            },
+            {
+              "text": "56.099;",
+              "bbox": [
+                56,
+                575,
+                89,
+                586
+              ]
+            },
+            {
+              "text": "Full",
+              "bbox": [
+                91,
+                575,
+                109,
+                586
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                111,
+                575,
+                138,
+                586
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                141,
+                575,
+                148,
+                586
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                151,
+                575,
+                191,
+                586
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                194,
+                575,
+                221,
+                586
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                224,
+                575,
+                238,
+                586
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                241,
+                575,
+                249,
+                586
+              ]
+            },
+            {
+              "text": "−2148.154,",
+              "bbox": [
+                252,
+                575,
+                300,
+                586
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                303,
+                575,
+                355,
+                586
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                358,
+                575,
+                385,
+                586
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                388,
+                575,
+                402,
+                586
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                405,
+                575,
+                412,
+                586
+              ]
+            },
+            {
+              "text": "−2204.064,",
+              "bbox": [
+                415,
+                575,
+                464,
+                586
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                467,
+                575,
+                485,
+                586
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                488,
+                575,
+                493,
+                586
+              ]
+            },
+            {
+              "text": "Difference",
+              "bbox": [
+                496,
+                575,
+                541,
+                586
+              ]
+            },
+            {
+              "text": "(A–",
+              "bbox": [
+                544,
+                575,
+                561,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "text": "B) of 55.91. AIC is 8.244 for Weighted model (A) and 8.457 for Unweighted model (B); BIC is 1126.066 and 1237.886",
+          "bbox": [
+            15,
+            589,
+            561,
+            601
+          ],
+          "words": [
+            {
+              "text": "B)",
+              "bbox": [
+                15,
+                589,
+                25,
+                601
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                30,
+                589,
+                39,
+                601
+              ]
+            },
+            {
+              "text": "55.91.",
+              "bbox": [
+                43,
+                589,
+                70,
+                601
+              ]
+            },
+            {
+              "text": "AIC",
+              "bbox": [
+                74,
+                589,
+                92,
+                601
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                96,
+                589,
+                103,
+                601
+              ]
+            },
+            {
+              "text": "8.244",
+              "bbox": [
+                108,
+                589,
+                132,
+                601
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                136,
+                589,
+                149,
+                601
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                153,
+                589,
+                194,
+                601
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                198,
+                589,
+                225,
+                601
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                229,
+                589,
+                244,
+                601
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                249,
+                589,
+                264,
+                601
+              ]
+            },
+            {
+              "text": "8.457",
+              "bbox": [
+                268,
+                589,
+                292,
+                601
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                297,
+                589,
+                309,
+                601
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                314,
+                589,
+                366,
+                601
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                370,
+                589,
+                397,
+                601
+              ]
+            },
+            {
+              "text": "(B);",
+              "bbox": [
+                401,
+                589,
+                419,
+                601
+              ]
+            },
+            {
+              "text": "BIC",
+              "bbox": [
+                423,
+                589,
+                441,
+                601
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                445,
+                589,
+                452,
+                601
+              ]
+            },
+            {
+              "text": "1126.066",
+              "bbox": [
+                457,
+                589,
+                496,
+                601
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                501,
+                589,
+                516,
+                601
+              ]
+            },
+            {
+              "text": "1237.886",
+              "bbox": [
+                521,
+                589,
+                561,
+                601
+              ]
+            }
+          ]
+        },
+        {
+          "text": "respectively. Personal independence lists the intercept only as Weighted model (A) at −2220.829, Unweighted model (B) at",
+          "bbox": [
+            15,
+            604,
+            561,
+            616
+          ],
+          "words": [
+            {
+              "text": "respectively.",
+              "bbox": [
+                15,
+                604,
+                68,
+                616
+              ]
+            },
+            {
+              "text": "Personal",
+              "bbox": [
+                72,
+                604,
+                108,
+                616
+              ]
+            },
+            {
+              "text": "independence",
+              "bbox": [
+                113,
+                604,
+                171,
+                616
+              ]
+            },
+            {
+              "text": "lists",
+              "bbox": [
+                175,
+                604,
+                192,
+                616
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                196,
+                604,
+                209,
+                616
+              ]
+            },
+            {
+              "text": "intercept",
+              "bbox": [
+                213,
+                604,
+                250,
+                616
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                254,
+                604,
+                273,
+                616
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                277,
+                604,
+                286,
+                616
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                290,
+                604,
+                331,
+                616
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                335,
+                604,
+                361,
+                616
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                365,
+                604,
+                380,
+                616
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                384,
+                604,
+                392,
+                616
+              ]
+            },
+            {
+              "text": "−2220.829,",
+              "bbox": [
+                396,
+                604,
+                444,
+                616
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                448,
+                604,
+                500,
+                616
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                504,
+                604,
+                531,
+                616
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                535,
+                604,
+                549,
+                616
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                553,
+                604,
+                561,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "text": "−2360.524, Difference (A–B) at 139.695; Full model at Weighted model (A) −2202.666, Unweighted model (B) −2333.997,",
+          "bbox": [
+            15,
+            619,
+            561,
+            631
+          ],
+          "words": [
+            {
+              "text": "−2360.524,",
+              "bbox": [
+                15,
+                619,
+                63,
+                631
+              ]
+            },
+            {
+              "text": "Difference",
+              "bbox": [
+                67,
+                619,
+                112,
+                631
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                116,
+                619,
+                143,
+                631
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                147,
+                619,
+                155,
+                631
+              ]
+            },
+            {
+              "text": "139.695;",
+              "bbox": [
+                158,
+                619,
+                196,
+                631
+              ]
+            },
+            {
+              "text": "Full",
+              "bbox": [
+                200,
+                619,
+                217,
+                631
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                221,
+                619,
+                247,
+                631
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                251,
+                619,
+                259,
+                631
+              ]
+            },
+            {
+              "text": "Weighted",
+              "bbox": [
+                262,
+                619,
+                303,
+                631
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                307,
+                619,
+                333,
+                631
+              ]
+            },
+            {
+              "text": "(A)",
+              "bbox": [
+                337,
+                619,
+                352,
+                631
+              ]
+            },
+            {
+              "text": "−2202.666,",
+              "bbox": [
+                356,
+                619,
+                404,
+                631
+              ]
+            },
+            {
+              "text": "Unweighted",
+              "bbox": [
+                408,
+                619,
+                460,
+                631
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                464,
+                619,
+                490,
+                631
+              ]
+            },
+            {
+              "text": "(B)",
+              "bbox": [
+                494,
+                619,
+                508,
+                631
+              ]
+            },
+            {
+              "text": "−2333.997,",
+              "bbox": [
+                512,
+                619,
+                561,
+                631
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Difference (A–B) 131.332; AIC is 8.451 and 8.951; BIC is 1235.089 and 1497.752. \n\nThe data from Table 2 categorizes objects",
+          "bbox": [
+            15,
+            634,
+            561,
+            646
+          ],
+          "words": [
+            {
+              "text": "Difference",
+              "bbox": [
+                15,
+                634,
+                60,
+                646
+              ]
+            },
+            {
+              "text": "(A–B)",
+              "bbox": [
+                63,
+                634,
+                90,
+                646
+              ]
+            },
+            {
+              "text": "131.332;",
+              "bbox": [
+                93,
+                634,
+                131,
+                646
+              ]
+            },
+            {
+              "text": "AIC",
+              "bbox": [
+                134,
+                634,
+                152,
+                646
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                155,
+                634,
+                162,
+                646
+              ]
+            },
+            {
+              "text": "8.451",
+              "bbox": [
+                165,
+                634,
+                189,
+                646
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                193,
+                634,
+                208,
+                646
+              ]
+            },
+            {
+              "text": "8.951;",
+              "bbox": [
+                211,
+                634,
+                238,
+                646
+              ]
+            },
+            {
+              "text": "BIC",
+              "bbox": [
+                241,
+                634,
+                259,
+                646
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                262,
+                634,
+                269,
+                646
+              ]
+            },
+            {
+              "text": "1235.089",
+              "bbox": [
+                273,
+                634,
+                312,
+                646
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                316,
+                634,
+                331,
+                646
+              ]
+            },
+            {
+              "text": "1497.752.",
+              "bbox": [
+                334,
+                634,
+                377,
+                646
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                380,
+                634,
+                396,
+                646
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                400,
+                634,
+                417,
+                646
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                421,
+                634,
+                441,
+                646
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                444,
+                634,
+                468,
+                646
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                471,
+                634,
+                476,
+                646
+              ]
+            },
+            {
+              "text": "categorizes",
+              "bbox": [
+                480,
+                634,
+                527,
+                646
+              ]
+            },
+            {
+              "text": "objects",
+              "bbox": [
+                531,
+                634,
+                561,
+                646
+              ]
+            }
+          ]
+        },
+        {
+          "text": "as follows: Topographic map is linked to vtkDelaunay2D with a data file structure consisting of Line 1: 1 (Classification code),",
+          "bbox": [
+            15,
+            649,
+            561,
+            661
+          ],
+          "words": [
+            {
+              "text": "as",
+              "bbox": [
+                15,
+                649,
+                23,
+                661
+              ]
+            },
+            {
+              "text": "follows:",
+              "bbox": [
+                26,
+                649,
+                61,
+                661
+              ]
+            },
+            {
+              "text": "Topographic",
+              "bbox": [
+                64,
+                649,
+                117,
+                661
+              ]
+            },
+            {
+              "text": "map",
+              "bbox": [
+                120,
+                649,
+                139,
+                661
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                142,
+                649,
+                149,
+                661
+              ]
+            },
+            {
+              "text": "linked",
+              "bbox": [
+                152,
+                649,
+                178,
+                661
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                181,
+                649,
+                189,
+                661
+              ]
+            },
+            {
+              "text": "vtkDelaunay2D",
+              "bbox": [
+                192,
+                649,
+                260,
+                661
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                263,
+                649,
+                281,
+                661
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                284,
+                649,
+                289,
+                661
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                292,
+                649,
+                310,
+                661
+              ]
+            },
+            {
+              "text": "file",
+              "bbox": [
+                313,
+                649,
+                327,
+                661
+              ]
+            },
+            {
+              "text": "structure",
+              "bbox": [
+                330,
+                649,
+                367,
+                661
+              ]
+            },
+            {
+              "text": "consisting",
+              "bbox": [
+                370,
+                649,
+                413,
+                661
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                416,
+                649,
+                425,
+                661
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                428,
+                649,
+                447,
+                661
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                450,
+                649,
+                458,
+                661
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                461,
+                649,
+                467,
+                661
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                469,
+                649,
+                531,
+                661
+              ]
+            },
+            {
+              "text": "code),",
+              "bbox": [
+                534,
+                649,
+                561,
+                661
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Line 2: Unused, Line 3: Unused, Line 4: (x, y, z) of point 1, Line 5: (x, y, z) of point 2; Drift or shaft is associated with",
+          "bbox": [
+            15,
+            664,
+            561,
+            675
+          ],
+          "words": [
+            {
+              "text": "Line",
+              "bbox": [
+                15,
+                664,
+                34,
+                675
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                38,
+                664,
+                46,
+                675
+              ]
+            },
+            {
+              "text": "Unused,",
+              "bbox": [
+                51,
+                664,
+                86,
+                675
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                90,
+                664,
+                109,
+                675
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                114,
+                664,
+                122,
+                675
+              ]
+            },
+            {
+              "text": "Unused,",
+              "bbox": [
+                126,
+                664,
+                161,
+                675
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                165,
+                664,
+                185,
+                675
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                189,
+                664,
+                197,
+                675
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                202,
+                664,
+                213,
+                675
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                217,
+                664,
+                225,
+                675
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                229,
+                664,
+                237,
+                675
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                241,
+                664,
+                250,
+                675
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                254,
+                664,
+                276,
+                675
+              ]
+            },
+            {
+              "text": "1,",
+              "bbox": [
+                280,
+                664,
+                288,
+                675
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                292,
+                664,
+                312,
+                675
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                316,
+                664,
+                324,
+                675
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                329,
+                664,
+                340,
+                675
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                344,
+                664,
+                352,
+                675
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                356,
+                664,
+                364,
+                675
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                368,
+                664,
+                377,
+                675
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                381,
+                664,
+                403,
+                675
+              ]
+            },
+            {
+              "text": "2;",
+              "bbox": [
+                407,
+                664,
+                416,
+                675
+              ]
+            },
+            {
+              "text": "Drift",
+              "bbox": [
+                420,
+                664,
+                441,
+                675
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                445,
+                664,
+                454,
+                675
+              ]
+            },
+            {
+              "text": "shaft",
+              "bbox": [
+                458,
+                664,
+                478,
+                675
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                483,
+                664,
+                490,
+                675
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                494,
+                664,
+                538,
+                675
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                542,
+                664,
+                561,
+                675
+              ]
+            }
+          ]
+        },
+        {
+          "text": "vtkLineSourcevtkTubeFilter, featuring Line 1: 2 (Classification code), Line 2: Radius of tube, Line 3: Unused, Line 4: (x, y, z)",
+          "bbox": [
+            15,
+            679,
+            561,
+            690
+          ],
+          "words": [
+            {
+              "text": "vtkLineSourcevtkTubeFilter,",
+              "bbox": [
+                15,
+                679,
+                137,
+                690
+              ]
+            },
+            {
+              "text": "featuring",
+              "bbox": [
+                141,
+                679,
+                179,
+                690
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                182,
+                679,
+                201,
+                690
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                205,
+                679,
+                213,
+                690
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                216,
+                679,
+                221,
+                690
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                224,
+                679,
+                286,
+                690
+              ]
+            },
+            {
+              "text": "code),",
+              "bbox": [
+                289,
+                679,
+                316,
+                690
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                319,
+                679,
+                338,
+                690
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                341,
+                679,
+                350,
+                690
+              ]
+            },
+            {
+              "text": "Radius",
+              "bbox": [
+                353,
+                679,
+                382,
+                690
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                385,
+                679,
+                394,
+                690
+              ]
+            },
+            {
+              "text": "tube,",
+              "bbox": [
+                397,
+                679,
+                418,
+                690
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                421,
+                679,
+                441,
+                690
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                444,
+                679,
+                452,
+                690
+              ]
+            },
+            {
+              "text": "Unused,",
+              "bbox": [
+                455,
+                679,
+                490,
+                690
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                494,
+                679,
+                513,
+                690
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                516,
+                679,
+                524,
+                690
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                527,
+                679,
+                539,
+                690
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                542,
+                679,
+                549,
+                690
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                552,
+                679,
+                561,
+                690
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of start point 1 / end point 1, Line 5: (x, y, z) of start point 2 / end point 2; Borehole uses vtkLineSourcevtkTubeFilter with Line",
+          "bbox": [
+            15,
+            694,
+            561,
+            705
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                694,
+                23,
+                705
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                26,
+                694,
+                44,
+                705
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                47,
+                694,
+                69,
+                705
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                72,
+                694,
+                77,
+                705
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                80,
+                694,
+                83,
+                705
+              ]
+            },
+            {
+              "text": "end",
+              "bbox": [
+                86,
+                694,
+                101,
+                705
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                104,
+                694,
+                126,
+                705
+              ]
+            },
+            {
+              "text": "1,",
+              "bbox": [
+                129,
+                694,
+                137,
+                705
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                139,
+                694,
+                159,
+                705
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                162,
+                694,
+                170,
+                705
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                173,
+                694,
+                184,
+                705
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                187,
+                694,
+                194,
+                705
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                197,
+                694,
+                205,
+                705
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                208,
+                694,
+                217,
+                705
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                220,
+                694,
+                238,
+                705
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                241,
+                694,
+                263,
+                705
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                265,
+                694,
+                271,
+                705
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                274,
+                694,
+                277,
+                705
+              ]
+            },
+            {
+              "text": "end",
+              "bbox": [
+                279,
+                694,
+                295,
+                705
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                297,
+                694,
+                319,
+                705
+              ]
+            },
+            {
+              "text": "2;",
+              "bbox": [
+                322,
+                694,
+                330,
+                705
+              ]
+            },
+            {
+              "text": "Borehole",
+              "bbox": [
+                333,
+                694,
+                372,
+                705
+              ]
+            },
+            {
+              "text": "uses",
+              "bbox": [
+                375,
+                694,
+                393,
+                705
+              ]
+            },
+            {
+              "text": "vtkLineSourcevtkTubeFilter",
+              "bbox": [
+                396,
+                694,
+                517,
+                705
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                519,
+                694,
+                538,
+                705
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                541,
+                694,
+                561,
+                705
+              ]
+            }
+          ]
+        },
+        {
+          "text": "1: 3 (Classification code), Line 2: Radius of tube, Line 3: Number of class, Line 4: (x, y, z) of point 1 / label / class, Line 5: (x,",
+          "bbox": [
+            15,
+            708,
+            561,
+            720
+          ],
+          "words": [
+            {
+              "text": "1:",
+              "bbox": [
+                15,
+                708,
+                23,
+                720
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                26,
+                708,
+                31,
+                720
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                34,
+                708,
+                96,
+                720
+              ]
+            },
+            {
+              "text": "code),",
+              "bbox": [
+                99,
+                708,
+                125,
+                720
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                128,
+                708,
+                148,
+                720
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                151,
+                708,
+                159,
+                720
+              ]
+            },
+            {
+              "text": "Radius",
+              "bbox": [
+                162,
+                708,
+                191,
+                720
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                194,
+                708,
+                203,
+                720
+              ]
+            },
+            {
+              "text": "tube,",
+              "bbox": [
+                206,
+                708,
+                227,
+                720
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                230,
+                708,
+                249,
+                720
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                252,
+                708,
+                261,
+                720
+              ]
+            },
+            {
+              "text": "Number",
+              "bbox": [
+                264,
+                708,
+                298,
+                720
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                301,
+                708,
+                310,
+                720
+              ]
+            },
+            {
+              "text": "class,",
+              "bbox": [
+                313,
+                708,
+                337,
+                720
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                339,
+                708,
+                359,
+                720
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                362,
+                708,
+                370,
+                720
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                373,
+                708,
+                385,
+                720
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                388,
+                708,
+                395,
+                720
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                398,
+                708,
+                406,
+                720
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                409,
+                708,
+                418,
+                720
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                421,
+                708,
+                443,
+                720
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                446,
+                708,
+                451,
+                720
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                454,
+                708,
+                457,
+                720
+              ]
+            },
+            {
+              "text": "label",
+              "bbox": [
+                460,
+                708,
+                480,
+                720
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                483,
+                708,
+                486,
+                720
+              ]
+            },
+            {
+              "text": "class,",
+              "bbox": [
+                489,
+                708,
+                513,
+                720
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                516,
+                708,
+                535,
+                720
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                538,
+                708,
+                546,
+                720
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                549,
+                708,
+                561,
+                720
+              ]
+            }
+          ]
+        },
+        {
+          "text": "y, z) of point 2 / label / class; Goaf is linked to vtkPolygonvtkLinearExtrusionFilter, with Line 1: 4 (Classification code), Line 2:",
+          "bbox": [
+            15,
+            723,
+            561,
+            735
+          ],
+          "words": [
+            {
+              "text": "y,",
+              "bbox": [
+                15,
+                723,
+                22,
+                735
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                24,
+                723,
+                33,
+                735
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                35,
+                723,
+                44,
+                735
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                47,
+                723,
+                69,
+                735
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                71,
+                723,
+                77,
+                735
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                79,
+                723,
+                82,
+                735
+              ]
+            },
+            {
+              "text": "label",
+              "bbox": [
+                85,
+                723,
+                106,
+                735
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                108,
+                723,
+                111,
+                735
+              ]
+            },
+            {
+              "text": "class;",
+              "bbox": [
+                114,
+                723,
+                138,
+                735
+              ]
+            },
+            {
+              "text": "Goaf",
+              "bbox": [
+                140,
+                723,
+                162,
+                735
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                164,
+                723,
+                171,
+                735
+              ]
+            },
+            {
+              "text": "linked",
+              "bbox": [
+                174,
+                723,
+                201,
+                735
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                203,
+                723,
+                212,
+                735
+              ]
+            },
+            {
+              "text": "vtkPolygonvtkLinearExtrusionFilter,",
+              "bbox": [
+                214,
+                723,
+                371,
+                735
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                374,
+                723,
+                393,
+                735
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                396,
+                723,
+                415,
+                735
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                418,
+                723,
+                426,
+                735
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                429,
+                723,
+                434,
+                735
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                437,
+                723,
+                499,
+                735
+              ]
+            },
+            {
+              "text": "code),",
+              "bbox": [
+                501,
+                723,
+                528,
+                735
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                530,
+                723,
+                550,
+                735
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                552,
+                723,
+                561,
+                735
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Extrusion length, Line 3: Unused, Line 4: (x, y, z) of point 1 / polygon number, Line 5: (x, y, z) of point 2 / polygon number;",
+          "bbox": [
+            15,
+            738,
+            561,
+            750
+          ],
+          "words": [
+            {
+              "text": "Extrusion",
+              "bbox": [
+                15,
+                738,
+                56,
+                750
+              ]
+            },
+            {
+              "text": "length,",
+              "bbox": [
+                59,
+                738,
+                88,
+                750
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                92,
+                738,
+                111,
+                750
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                114,
+                738,
+                123,
+                750
+              ]
+            },
+            {
+              "text": "Unused,",
+              "bbox": [
+                126,
+                738,
+                161,
+                750
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                164,
+                738,
+                184,
+                750
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                187,
+                738,
+                195,
+                750
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                199,
+                738,
+                210,
+                750
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                213,
+                738,
+                221,
+                750
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                224,
+                738,
+                232,
+                750
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                236,
+                738,
+                244,
+                750
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                248,
+                738,
+                270,
+                750
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                273,
+                738,
+                278,
+                750
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                281,
+                738,
+                284,
+                750
+              ]
+            },
+            {
+              "text": "polygon",
+              "bbox": [
+                288,
+                738,
+                323,
+                750
+              ]
+            },
+            {
+              "text": "number,",
+              "bbox": [
+                326,
+                738,
+                361,
+                750
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                364,
+                738,
+                383,
+                750
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                387,
+                738,
+                395,
+                750
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                398,
+                738,
+                410,
+                750
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                413,
+                738,
+                420,
+                750
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                423,
+                738,
+                432,
+                750
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                435,
+                738,
+                444,
+                750
+              ]
+            },
+            {
+              "text": "point",
+              "bbox": [
+                447,
+                738,
+                469,
+                750
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                472,
+                738,
+                478,
+                750
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                481,
+                738,
+                484,
+                750
+              ]
+            },
+            {
+              "text": "polygon",
+              "bbox": [
+                487,
+                738,
+                522,
+                750
+              ]
+            },
+            {
+              "text": "number;",
+              "bbox": [
+                525,
+                738,
+                561,
+                750
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Groundwater level is associated with vtkCylinderSource, comprising Line 1: 5 (Classification code), Line 2: Number of ponds,",
+          "bbox": [
+            15,
+            753,
+            561,
+            765
+          ],
+          "words": [
+            {
+              "text": "Groundwater",
+              "bbox": [
+                15,
+                753,
+                71,
+                765
+              ]
+            },
+            {
+              "text": "level",
+              "bbox": [
+                74,
+                753,
+                94,
+                765
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                97,
+                753,
+                104,
+                765
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                107,
+                753,
+                151,
+                765
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                154,
+                753,
+                173,
+                765
+              ]
+            },
+            {
+              "text": "vtkCylinderSource,",
+              "bbox": [
+                176,
+                753,
+                259,
+                765
+              ]
+            },
+            {
+              "text": "comprising",
+              "bbox": [
+                262,
+                753,
+                310,
+                765
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                313,
+                753,
+                332,
+                765
+              ]
+            },
+            {
+              "text": "1:",
+              "bbox": [
+                335,
+                753,
+                344,
+                765
+              ]
+            },
+            {
+              "text": "5",
+              "bbox": [
+                347,
+                753,
+                352,
+                765
+              ]
+            },
+            {
+              "text": "(Classification",
+              "bbox": [
+                355,
+                753,
+                417,
+                765
+              ]
+            },
+            {
+              "text": "code),",
+              "bbox": [
+                420,
+                753,
+                446,
+                765
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                449,
+                753,
+                469,
+                765
+              ]
+            },
+            {
+              "text": "2:",
+              "bbox": [
+                472,
+                753,
+                480,
+                765
+              ]
+            },
+            {
+              "text": "Number",
+              "bbox": [
+                483,
+                753,
+                518,
+                765
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                521,
+                753,
+                530,
+                765
+              ]
+            },
+            {
+              "text": "ponds,",
+              "bbox": [
+                533,
+                753,
+                561,
+                765
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Line 3: Radius of each pond, Line 4: Number of time steps, Line 5: Pond number / time step / (x, y, z) of water level.",
+          "bbox": [
+            15,
+            768,
+            512,
+            780
+          ],
+          "words": [
+            {
+              "text": "Line",
+              "bbox": [
+                15,
+                768,
+                34,
+                780
+              ]
+            },
+            {
+              "text": "3:",
+              "bbox": [
+                37,
+                768,
+                45,
+                780
+              ]
+            },
+            {
+              "text": "Radius",
+              "bbox": [
+                48,
+                768,
+                77,
+                780
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                80,
+                768,
+                89,
+                780
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                91,
+                768,
+                111,
+                780
+              ]
+            },
+            {
+              "text": "pond,",
+              "bbox": [
+                113,
+                768,
+                137,
+                780
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                140,
+                768,
+                160,
+                780
+              ]
+            },
+            {
+              "text": "4:",
+              "bbox": [
+                162,
+                768,
+                170,
+                780
+              ]
+            },
+            {
+              "text": "Number",
+              "bbox": [
+                173,
+                768,
+                208,
+                780
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                211,
+                768,
+                219,
+                780
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                222,
+                768,
+                241,
+                780
+              ]
+            },
+            {
+              "text": "steps,",
+              "bbox": [
+                244,
+                768,
+                268,
+                780
+              ]
+            },
+            {
+              "text": "Line",
+              "bbox": [
+                270,
+                768,
+                290,
+                780
+              ]
+            },
+            {
+              "text": "5:",
+              "bbox": [
+                292,
+                768,
+                301,
+                780
+              ]
+            },
+            {
+              "text": "Pond",
+              "bbox": [
+                303,
+                768,
+                325,
+                780
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                328,
+                768,
+                360,
+                780
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                363,
+                768,
+                366,
+                780
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                369,
+                768,
+                387,
+                780
+              ]
+            },
+            {
+              "text": "step",
+              "bbox": [
+                390,
+                768,
+                407,
+                780
+              ]
+            },
+            {
+              "text": "/",
+              "bbox": [
+                410,
+                768,
+                413,
+                780
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                416,
+                768,
+                427,
+                780
+              ]
+            },
+            {
+              "text": "y,",
+              "bbox": [
+                430,
+                768,
+                437,
+                780
+              ]
+            },
+            {
+              "text": "z)",
+              "bbox": [
+                440,
+                768,
+                448,
+                780
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                451,
+                768,
+                459,
+                780
+              ]
+            },
+            {
+              "text": "water",
+              "bbox": [
+                462,
+                768,
+                486,
+                780
+              ]
+            },
+            {
+              "text": "level.",
+              "bbox": [
+                488,
+                768,
+                512,
+                780
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

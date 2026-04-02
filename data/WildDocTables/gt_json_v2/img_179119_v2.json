@@ -1,0 +1,5071 @@
+{
+  "image_id": "img_179119",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_179119_t0",
+      "bbox": [
+        15,
+        108,
+        580,
+        298
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 5,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            109,
+            580,
+            130
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            130,
+            580,
+            151
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            151,
+            580,
+            172
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            172,
+            580,
+            193
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            193,
+            580,
+            214
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            214,
+            580,
+            235
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            235,
+            580,
+            256
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            16,
+            256,
+            580,
+            277
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            16,
+            277,
+            580,
+            298
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>MaterialType</td><td>CostIndex</td></tr><tr><td>AbsoluteChange</td><td>PercentageChange</td></tr><tr><td colspan=\"2\">RawMaterials</td><td colspan=\"2\">LaborCosts</td></tr><tr><td>Concrete</td><td colspan=\"2\">120.5</td><td>5.0</td><td colspan=\"2\">12.0</td></tr><tr><td>Steel</td><td>135.0</td><td>8.0</td><td>6.3</td><td>Wood</td><td>110.3</td></tr><tr><td>120.0</td><td>4.5</td><td>12.5</td><td>Brick</td><td>102.0</td><td>3.0</td></tr><tr><td>2.5</td><td>Insulation</td><td>130.0</td><td>9.0</td><td>7.5</td><td>Glass</td></tr><tr><td>115.0</td><td>6.0</td><td>5.5</td><td>Asphalt</td><td>125.0</td><td>7.5</td></tr><tr><td>10.0</td><td>Labor</td><td>150.0</td><td>15.0</td><td>10.0</td><td>Total</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "MaterialType",
+          "bbox": [
+            16,
+            109,
+            136,
+            130
+          ],
+          "words": [
+            {
+              "text": "MaterialType",
+              "bbox": [
+                21,
+                113,
+                79,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CostIndex",
+          "bbox": [
+            136,
+            109,
+            257,
+            130
+          ],
+          "words": [
+            {
+              "text": "CostIndex",
+              "bbox": [
+                142,
+                113,
+                186,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "AbsoluteChange",
+          "bbox": [
+            16,
+            130,
+            136,
+            151
+          ],
+          "words": [
+            {
+              "text": "AbsoluteChange",
+              "bbox": [
+                21,
+                134,
+                92,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "PercentageChange",
+          "bbox": [
+            136,
+            130,
+            257,
+            151
+          ],
+          "words": [
+            {
+              "text": "PercentageChange",
+              "bbox": [
+                142,
+                134,
+                221,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "RawMaterials",
+          "bbox": [
+            16,
+            151,
+            257,
+            172
+          ],
+          "words": [
+            {
+              "text": "RawMaterials",
+              "bbox": [
+                21,
+                155,
+                82,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "LaborCosts",
+          "bbox": [
+            257,
+            151,
+            445,
+            172
+          ],
+          "words": [
+            {
+              "text": "LaborCosts",
+              "bbox": [
+                390,
+                155,
+                440,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Concrete",
+          "bbox": [
+            16,
+            172,
+            136,
+            193
+          ],
+          "words": [
+            {
+              "text": "Concrete",
+              "bbox": [
+                21,
+                176,
+                60,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "120.5",
+          "bbox": [
+            136,
+            172,
+            378,
+            193
+          ],
+          "words": [
+            {
+              "text": "120.5",
+              "bbox": [
+                142,
+                176,
+                164,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "5.0",
+          "bbox": [
+            378,
+            172,
+            445,
+            193
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                383,
+                176,
+                396,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "12.0",
+          "bbox": [
+            445,
+            172,
+            580,
+            193
+          ],
+          "words": [
+            {
+              "text": "12.0",
+              "bbox": [
+                557,
+                176,
+                574,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Steel",
+          "bbox": [
+            16,
+            193,
+            136,
+            214
+          ],
+          "words": [
+            {
+              "text": "Steel",
+              "bbox": [
+                21,
+                197,
+                42,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "135.0",
+          "bbox": [
+            136,
+            193,
+            257,
+            214
+          ],
+          "words": [
+            {
+              "text": "135.0",
+              "bbox": [
+                142,
+                197,
+                164,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "8.0",
+          "bbox": [
+            257,
+            193,
+            378,
+            214
+          ],
+          "words": [
+            {
+              "text": "8.0",
+              "bbox": [
+                360,
+                197,
+                372,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "6.3",
+          "bbox": [
+            378,
+            193,
+            445,
+            214
+          ],
+          "words": [
+            {
+              "text": "6.3",
+              "bbox": [
+                383,
+                197,
+                396,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Wood",
+          "bbox": [
+            445,
+            193,
+            513,
+            214
+          ],
+          "words": [
+            {
+              "text": "Wood",
+              "bbox": [
+                482,
+                197,
+                507,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "110.3",
+          "bbox": [
+            513,
+            193,
+            580,
+            214
+          ],
+          "words": [
+            {
+              "text": "110.3",
+              "bbox": [
+                552,
+                197,
+                574,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "120.0",
+          "bbox": [
+            16,
+            214,
+            136,
+            235
+          ],
+          "words": [
+            {
+              "text": "120.0",
+              "bbox": [
+                21,
+                218,
+                44,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4.5",
+          "bbox": [
+            136,
+            214,
+            257,
+            235
+          ],
+          "words": [
+            {
+              "text": "4.5",
+              "bbox": [
+                142,
+                218,
+                154,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5",
+          "bbox": [
+            257,
+            214,
+            378,
+            235
+          ],
+          "words": [
+            {
+              "text": "12.5",
+              "bbox": [
+                355,
+                218,
+                372,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Brick",
+          "bbox": [
+            378,
+            214,
+            445,
+            235
+          ],
+          "words": [
+            {
+              "text": "Brick",
+              "bbox": [
+                383,
+                218,
+                405,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "102.0",
+          "bbox": [
+            445,
+            214,
+            513,
+            235
+          ],
+          "words": [
+            {
+              "text": "102.0",
+              "bbox": [
+                485,
+                218,
+                507,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0",
+          "bbox": [
+            513,
+            214,
+            580,
+            235
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                562,
+                218,
+                574,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2.5",
+          "bbox": [
+            16,
+            235,
+            136,
+            256
+          ],
+          "words": [
+            {
+              "text": "2.5",
+              "bbox": [
+                21,
+                239,
+                34,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Insulation",
+          "bbox": [
+            136,
+            235,
+            257,
+            256
+          ],
+          "words": [
+            {
+              "text": "Insulation",
+              "bbox": [
+                142,
+                239,
+                182,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "130.0",
+          "bbox": [
+            257,
+            235,
+            378,
+            256
+          ],
+          "words": [
+            {
+              "text": "130.0",
+              "bbox": [
+                350,
+                239,
+                372,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "9.0",
+          "bbox": [
+            378,
+            235,
+            445,
+            256
+          ],
+          "words": [
+            {
+              "text": "9.0",
+              "bbox": [
+                383,
+                239,
+                396,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "7.5",
+          "bbox": [
+            445,
+            235,
+            513,
+            256
+          ],
+          "words": [
+            {
+              "text": "7.5",
+              "bbox": [
+                495,
+                239,
+                507,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Glass",
+          "bbox": [
+            513,
+            235,
+            580,
+            256
+          ],
+          "words": [
+            {
+              "text": "Glass",
+              "bbox": [
+                552,
+                239,
+                574,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "115.0",
+          "bbox": [
+            16,
+            256,
+            136,
+            277
+          ],
+          "words": [
+            {
+              "text": "115.0",
+              "bbox": [
+                21,
+                260,
+                43,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6.0",
+          "bbox": [
+            136,
+            256,
+            257,
+            277
+          ],
+          "words": [
+            {
+              "text": "6.0",
+              "bbox": [
+                142,
+                260,
+                154,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "5.5",
+          "bbox": [
+            257,
+            256,
+            378,
+            277
+          ],
+          "words": [
+            {
+              "text": "5.5",
+              "bbox": [
+                360,
+                260,
+                372,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Asphalt",
+          "bbox": [
+            378,
+            256,
+            445,
+            277
+          ],
+          "words": [
+            {
+              "text": "Asphalt",
+              "bbox": [
+                383,
+                260,
+                414,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "125.0",
+          "bbox": [
+            445,
+            256,
+            513,
+            277
+          ],
+          "words": [
+            {
+              "text": "125.0",
+              "bbox": [
+                485,
+                260,
+                507,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "7.5",
+          "bbox": [
+            513,
+            256,
+            580,
+            277
+          ],
+          "words": [
+            {
+              "text": "7.5",
+              "bbox": [
+                562,
+                260,
+                574,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            16,
+            277,
+            136,
+            298
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                21,
+                281,
+                39,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Labor",
+          "bbox": [
+            136,
+            277,
+            257,
+            298
+          ],
+          "words": [
+            {
+              "text": "Labor",
+              "bbox": [
+                142,
+                281,
+                166,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "150.0",
+          "bbox": [
+            257,
+            277,
+            378,
+            298
+          ],
+          "words": [
+            {
+              "text": "150.0",
+              "bbox": [
+                350,
+                281,
+                372,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            378,
+            277,
+            445,
+            298
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                383,
+                281,
+                401,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            445,
+            277,
+            513,
+            298
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                490,
+                281,
+                507,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            513,
+            277,
+            580,
+            298
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                554,
+                281,
+                574,
+                292
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        324,
+        580,
+        432
+      ],
+      "content": "In the period ending December 2023, Vinci SA's Material Cost Inflation Indices reveal a comprehensive analysis across various materials, with Concrete showing a Cost Index of 120.5, an Absolute Change of $5.0, and a Percentage Change of 12.0; Steel at 135.0, with an Absolute Change of $8.0 and a Percentage Change of 6.3; Wood at 110.3, with an Absolute Change of $2.5 and a Percentage Change of 12.5; Brick at 102.0 with an Absolute Change of $3.0; Insulation at 130.0, an Absolute Change of $9.0, and a Percentage Change of 7.5; Glass at 115.0, with an Absolute Change of $6.0 and a Percentage Change of 5.5; Asphalt at 125.0, an Absolute Change of $7.5, and Labor at 150.0, with an Absolute Change of $15.0 and a Percentage Change of 10.0, culminating in a Total Index.",
+      "lines": [
+        {
+          "text": "In the period ending December 2023, Vinci SA's Material Cost Inflation Indices reveal a comprehensive analysis across various",
+          "bbox": [
+            15,
+            325,
+            580,
+            337
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                325,
+                24,
+                337
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                27,
+                325,
+                41,
+                337
+              ]
+            },
+            {
+              "text": "period",
+              "bbox": [
+                43,
+                325,
+                72,
+                337
+              ]
+            },
+            {
+              "text": "ending",
+              "bbox": [
+                74,
+                325,
+                104,
+                337
+              ]
+            },
+            {
+              "text": "December",
+              "bbox": [
+                107,
+                325,
+                153,
+                337
+              ]
+            },
+            {
+              "text": "2023,",
+              "bbox": [
+                155,
+                325,
+                180,
+                337
+              ]
+            },
+            {
+              "text": "Vinci",
+              "bbox": [
+                183,
+                325,
+                207,
+                337
+              ]
+            },
+            {
+              "text": "SA's",
+              "bbox": [
+                210,
+                325,
+                230,
+                337
+              ]
+            },
+            {
+              "text": "Material",
+              "bbox": [
+                233,
+                325,
+                270,
+                337
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                273,
+                325,
+                293,
+                337
+              ]
+            },
+            {
+              "text": "Inflation",
+              "bbox": [
+                296,
+                325,
+                334,
+                337
+              ]
+            },
+            {
+              "text": "Indices",
+              "bbox": [
+                337,
+                325,
+                369,
+                337
+              ]
+            },
+            {
+              "text": "reveal",
+              "bbox": [
+                372,
+                325,
+                399,
+                337
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                401,
+                325,
+                406,
+                337
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                409,
+                325,
+                476,
+                337
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                479,
+                325,
+                514,
+                337
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                517,
+                325,
+                545,
+                337
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                548,
+                325,
+                580,
+                337
+              ]
+            }
+          ]
+        },
+        {
+          "text": "materials, with Concrete showing a Cost Index of 120.5, an Absolute Change of $5.0, and a Percentage Change of 12.0; Steel at",
+          "bbox": [
+            15,
+            340,
+            580,
+            352
+          ],
+          "words": [
+            {
+              "text": "materials,",
+              "bbox": [
+                15,
+                340,
+                58,
+                352
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                61,
+                340,
+                81,
+                352
+              ]
+            },
+            {
+              "text": "Concrete",
+              "bbox": [
+                83,
+                340,
+                123,
+                352
+              ]
+            },
+            {
+              "text": "showing",
+              "bbox": [
+                126,
+                340,
+                163,
+                352
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                166,
+                340,
+                171,
+                352
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                174,
+                340,
+                194,
+                352
+              ]
+            },
+            {
+              "text": "Index",
+              "bbox": [
+                197,
+                340,
+                222,
+                352
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                225,
+                340,
+                234,
+                352
+              ]
+            },
+            {
+              "text": "120.5,",
+              "bbox": [
+                237,
+                340,
+                264,
+                352
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                267,
+                340,
+                278,
+                352
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                280,
+                340,
+                320,
+                352
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                322,
+                340,
+                356,
+                352
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                359,
+                340,
+                368,
+                352
+              ]
+            },
+            {
+              "text": "$5.0,",
+              "bbox": [
+                371,
+                340,
+                393,
+                352
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                396,
+                340,
+                412,
+                352
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                415,
+                340,
+                420,
+                352
+              ]
+            },
+            {
+              "text": "Percentage",
+              "bbox": [
+                422,
+                340,
+                471,
+                352
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                473,
+                340,
+                507,
+                352
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                510,
+                340,
+                519,
+                352
+              ]
+            },
+            {
+              "text": "12.0;",
+              "bbox": [
+                522,
+                340,
+                544,
+                352
+              ]
+            },
+            {
+              "text": "Steel",
+              "bbox": [
+                547,
+                340,
+                569,
+                352
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                572,
+                340,
+                580,
+                352
+              ]
+            }
+          ]
+        },
+        {
+          "text": "135.0, with an Absolute Change of $8.0 and a Percentage Change of 6.3; Wood at 110.3, with an Absolute Change of $2.5 and a",
+          "bbox": [
+            15,
+            356,
+            580,
+            368
+          ],
+          "words": [
+            {
+              "text": "135.0,",
+              "bbox": [
+                15,
+                356,
+                43,
+                368
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                45,
+                356,
+                65,
+                368
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                68,
+                356,
+                78,
+                368
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                80,
+                356,
+                120,
+                368
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                123,
+                356,
+                157,
+                368
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                159,
+                356,
+                169,
+                368
+              ]
+            },
+            {
+              "text": "$8.0",
+              "bbox": [
+                171,
+                356,
+                191,
+                368
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                193,
+                356,
+                209,
+                368
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                212,
+                356,
+                217,
+                368
+              ]
+            },
+            {
+              "text": "Percentage",
+              "bbox": [
+                220,
+                356,
+                268,
+                368
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                271,
+                356,
+                305,
+                368
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                307,
+                356,
+                317,
+                368
+              ]
+            },
+            {
+              "text": "6.3;",
+              "bbox": [
+                319,
+                356,
+                336,
+                368
+              ]
+            },
+            {
+              "text": "Wood",
+              "bbox": [
+                339,
+                356,
+                365,
+                368
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                368,
+                356,
+                376,
+                368
+              ]
+            },
+            {
+              "text": "110.3,",
+              "bbox": [
+                378,
+                356,
+                406,
+                368
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                408,
+                356,
+                428,
+                368
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                431,
+                356,
+                441,
+                368
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                443,
+                356,
+                483,
+                368
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                486,
+                356,
+                520,
+                368
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                522,
+                356,
+                531,
+                368
+              ]
+            },
+            {
+              "text": "$2.5",
+              "bbox": [
+                534,
+                356,
+                554,
+                368
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                556,
+                356,
+                572,
+                368
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                356,
+                580,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Percentage Change of 12.5; Brick at 102.0 with an Absolute Change of $3.0; Insulation at 130.0, an Absolute Change of $9.0,",
+          "bbox": [
+            15,
+            371,
+            580,
+            383
+          ],
+          "words": [
+            {
+              "text": "Percentage",
+              "bbox": [
+                15,
+                371,
+                63,
+                383
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                67,
+                371,
+                100,
+                383
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                104,
+                371,
+                113,
+                383
+              ]
+            },
+            {
+              "text": "12.5;",
+              "bbox": [
+                116,
+                371,
+                138,
+                383
+              ]
+            },
+            {
+              "text": "Brick",
+              "bbox": [
+                142,
+                371,
+                166,
+                383
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                169,
+                371,
+                177,
+                383
+              ]
+            },
+            {
+              "text": "102.0",
+              "bbox": [
+                181,
+                371,
+                205,
+                383
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                209,
+                371,
+                228,
+                383
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                232,
+                371,
+                242,
+                383
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                245,
+                371,
+                285,
+                383
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                288,
+                371,
+                321,
+                383
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                325,
+                371,
+                334,
+                383
+              ]
+            },
+            {
+              "text": "$3.0;",
+              "bbox": [
+                337,
+                371,
+                360,
+                383
+              ]
+            },
+            {
+              "text": "Insulation",
+              "bbox": [
+                363,
+                371,
+                407,
+                383
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                410,
+                371,
+                418,
+                383
+              ]
+            },
+            {
+              "text": "130.0,",
+              "bbox": [
+                422,
+                371,
+                449,
+                383
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                452,
+                371,
+                463,
+                383
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                466,
+                371,
+                505,
+                383
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                509,
+                371,
+                542,
+                383
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                545,
+                371,
+                555,
+                383
+              ]
+            },
+            {
+              "text": "$9.0,",
+              "bbox": [
+                558,
+                371,
+                580,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and a Percentage Change of 7.5; Glass at 115.0, with an Absolute Change of $6.0 and a Percentage Change of 5.5; Asphalt at",
+          "bbox": [
+            15,
+            387,
+            580,
+            399
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                387,
+                31,
+                399
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                34,
+                387,
+                39,
+                399
+              ]
+            },
+            {
+              "text": "Percentage",
+              "bbox": [
+                43,
+                387,
+                91,
+                399
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                94,
+                387,
+                128,
+                399
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                131,
+                387,
+                141,
+                399
+              ]
+            },
+            {
+              "text": "7.5;",
+              "bbox": [
+                144,
+                387,
+                161,
+                399
+              ]
+            },
+            {
+              "text": "Glass",
+              "bbox": [
+                164,
+                387,
+                189,
+                399
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                192,
+                387,
+                200,
+                399
+              ]
+            },
+            {
+              "text": "115.0,",
+              "bbox": [
+                204,
+                387,
+                231,
+                399
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                234,
+                387,
+                254,
+                399
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                257,
+                387,
+                267,
+                399
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                270,
+                387,
+                310,
+                399
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                313,
+                387,
+                347,
+                399
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                350,
+                387,
+                360,
+                399
+              ]
+            },
+            {
+              "text": "$6.0",
+              "bbox": [
+                363,
+                387,
+                382,
+                399
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                386,
+                387,
+                402,
+                399
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                405,
+                387,
+                410,
+                399
+              ]
+            },
+            {
+              "text": "Percentage",
+              "bbox": [
+                413,
+                387,
+                462,
+                399
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                465,
+                387,
+                499,
+                399
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                502,
+                387,
+                511,
+                399
+              ]
+            },
+            {
+              "text": "5.5;",
+              "bbox": [
+                515,
+                387,
+                532,
+                399
+              ]
+            },
+            {
+              "text": "Asphalt",
+              "bbox": [
+                534,
+                387,
+                569,
+                399
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                572,
+                387,
+                580,
+                399
+              ]
+            }
+          ]
+        },
+        {
+          "text": "125.0, an Absolute Change of $7.5, and Labor at 150.0, with an Absolute Change of $15.0 and a Percentage Change of 10.0,",
+          "bbox": [
+            15,
+            402,
+            580,
+            414
+          ],
+          "words": [
+            {
+              "text": "125.0,",
+              "bbox": [
+                15,
+                402,
+                43,
+                414
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                46,
+                402,
+                56,
+                414
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                59,
+                402,
+                99,
+                414
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                103,
+                402,
+                136,
+                414
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                140,
+                402,
+                149,
+                414
+              ]
+            },
+            {
+              "text": "$7.5,",
+              "bbox": [
+                153,
+                402,
+                175,
+                414
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                178,
+                402,
+                194,
+                414
+              ]
+            },
+            {
+              "text": "Labor",
+              "bbox": [
+                198,
+                402,
+                224,
+                414
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                228,
+                402,
+                236,
+                414
+              ]
+            },
+            {
+              "text": "150.0,",
+              "bbox": [
+                239,
+                402,
+                267,
+                414
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                270,
+                402,
+                290,
+                414
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                293,
+                402,
+                304,
+                414
+              ]
+            },
+            {
+              "text": "Absolute",
+              "bbox": [
+                307,
+                402,
+                346,
+                414
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                350,
+                402,
+                384,
+                414
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                387,
+                402,
+                396,
+                414
+              ]
+            },
+            {
+              "text": "$15.0",
+              "bbox": [
+                400,
+                402,
+                425,
+                414
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                428,
+                402,
+                444,
+                414
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                448,
+                402,
+                453,
+                414
+              ]
+            },
+            {
+              "text": "Percentage",
+              "bbox": [
+                456,
+                402,
+                504,
+                414
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                508,
+                402,
+                542,
+                414
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                545,
+                402,
+                554,
+                414
+              ]
+            },
+            {
+              "text": "10.0,",
+              "bbox": [
+                558,
+                402,
+                580,
+                414
+              ]
+            }
+          ]
+        },
+        {
+          "text": "culminating in a Total Index.",
+          "bbox": [
+            15,
+            417,
+            142,
+            429
+          ],
+          "words": [
+            {
+              "text": "culminating",
+              "bbox": [
+                15,
+                417,
+                68,
+                429
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                70,
+                417,
+                79,
+                429
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                82,
+                417,
+                86,
+                429
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                89,
+                417,
+                111,
+                429
+              ]
+            },
+            {
+              "text": "Index.",
+              "bbox": [
+                114,
+                417,
+                142,
+                429
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_179119_t1",
+      "bbox": [
+        15,
+        471,
+        580,
+        640
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            471,
+            580,
+            505
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            505,
+            580,
+            539
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            539,
+            580,
+            560
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            560,
+            580,
+            580
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            580,
+            580,
+            600
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            600,
+            580,
+            620
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            620,
+            580,
+            640
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">ContractMarginAnalysis</td><td>UnitsSold</td><td>TotalRevenue</td><td>CostofGoodsSold</td><td>GrossMargin</td><td>OperatingExpenses</td></tr><tr><td>Region</td><td>ProductCategory</td><td>NumberofProjects</td><td>AverageContractValue</td><td>ProfitMargin</td><td>NetProfit</td><td>Headcount</td></tr><tr><td>NorthAmerica</td><td>Concrete</td><td>1500</td><td>$75M</td><td>$50M</td><td>33.3%</td><td>$25M</td></tr><tr><td>100</td><td>Steel</td><td>1200</td><td>$60M</td><td>$40M</td><td>33.3%</td><td>$20M</td></tr><tr><td>80</td><td>Wood</td><td>800</td><td>$40M</td><td>$30M</td><td>25.0%</td><td>$10M</td></tr><tr><td>60</td><td>Glass</td><td>600</td><td>$30M</td><td>$20M</td><td>33.3%</td><td>$10M</td></tr><tr><td>40</td><td>Total</td><td>4100</td><td>$205M</td><td>$140M</td><td>31.7%</td><td>$65M</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ContractMarginAnalysis",
+          "bbox": [
+            15,
+            471,
+            173,
+            505
+          ],
+          "words": [
+            {
+              "text": "ContractMarginAnalysis",
+              "bbox": [
+                20,
+                475,
+                127,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "UnitsSold",
+          "bbox": [
+            173,
+            471,
+            255,
+            505
+          ],
+          "words": [
+            {
+              "text": "UnitsSold",
+              "bbox": [
+                178,
+                475,
+                220,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            255,
+            471,
+            336,
+            505
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                272,
+                475,
+                331,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "CostofGoodsSold",
+          "bbox": [
+            336,
+            471,
+            417,
+            505
+          ],
+          "words": [
+            {
+              "text": "CostofGoodsSold",
+              "bbox": [
+                344,
+                475,
+                412,
+                500
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "GrossMargin",
+          "bbox": [
+            417,
+            471,
+            499,
+            505
+          ],
+          "words": [
+            {
+              "text": "GrossMargin",
+              "bbox": [
+                437,
+                475,
+                494,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "OperatingExpenses",
+          "bbox": [
+            499,
+            471,
+            580,
+            505
+          ],
+          "words": [
+            {
+              "text": "OperatingExpenses",
+              "bbox": [
+                504,
+                475,
+                575,
+                500
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Region",
+          "bbox": [
+            15,
+            505,
+            94,
+            539
+          ],
+          "words": [
+            {
+              "text": "Region",
+              "bbox": [
+                20,
+                509,
+                50,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ProductCategory",
+          "bbox": [
+            94,
+            505,
+            173,
+            539
+          ],
+          "words": [
+            {
+              "text": "ProductCategory",
+              "bbox": [
+                100,
+                509,
+                168,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "NumberofProjects",
+          "bbox": [
+            173,
+            505,
+            255,
+            539
+          ],
+          "words": [
+            {
+              "text": "NumberofProjects",
+              "bbox": [
+                178,
+                509,
+                249,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageContractValue",
+          "bbox": [
+            255,
+            505,
+            336,
+            539
+          ],
+          "words": [
+            {
+              "text": "AverageContractValue",
+              "bbox": [
+                261,
+                509,
+                331,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ProfitMargin",
+          "bbox": [
+            336,
+            505,
+            417,
+            539
+          ],
+          "words": [
+            {
+              "text": "ProfitMargin",
+              "bbox": [
+                355,
+                509,
+                412,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "NetProfit",
+          "bbox": [
+            417,
+            505,
+            499,
+            539
+          ],
+          "words": [
+            {
+              "text": "NetProfit",
+              "bbox": [
+                454,
+                509,
+                494,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Headcount",
+          "bbox": [
+            499,
+            505,
+            580,
+            539
+          ],
+          "words": [
+            {
+              "text": "Headcount",
+              "bbox": [
+                528,
+                509,
+                575,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "NorthAmerica",
+          "bbox": [
+            15,
+            539,
+            94,
+            560
+          ],
+          "words": [
+            {
+              "text": "NorthAmerica",
+              "bbox": [
+                20,
+                544,
+                78,
+                555
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Concrete",
+          "bbox": [
+            94,
+            539,
+            173,
+            560
+          ],
+          "words": [
+            {
+              "text": "Concrete",
+              "bbox": [
+                132,
+                544,
+                168,
+                555
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1500",
+          "bbox": [
+            173,
+            539,
+            255,
+            560
+          ],
+          "words": [
+            {
+              "text": "1500",
+              "bbox": [
+                178,
+                544,
+                198,
+                555
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$75M",
+          "bbox": [
+            255,
+            539,
+            336,
+            560
+          ],
+          "words": [
+            {
+              "text": "$75M",
+              "bbox": [
+                307,
+                544,
+                331,
+                555
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$50M",
+          "bbox": [
+            336,
+            539,
+            417,
+            560
+          ],
+          "words": [
+            {
+              "text": "$50M",
+              "bbox": [
+                388,
+                544,
+                412,
+                555
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "33.3%",
+          "bbox": [
+            417,
+            539,
+            499,
+            560
+          ],
+          "words": [
+            {
+              "text": "33.3%",
+              "bbox": [
+                468,
+                544,
+                494,
+                555
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$25M",
+          "bbox": [
+            499,
+            539,
+            580,
+            560
+          ],
+          "words": [
+            {
+              "text": "$25M",
+              "bbox": [
+                551,
+                544,
+                575,
+                555
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "100",
+          "bbox": [
+            15,
+            560,
+            94,
+            580
+          ],
+          "words": [
+            {
+              "text": "100",
+              "bbox": [
+                20,
+                564,
+                35,
+                575
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Steel",
+          "bbox": [
+            94,
+            560,
+            173,
+            580
+          ],
+          "words": [
+            {
+              "text": "Steel",
+              "bbox": [
+                148,
+                564,
+                168,
+                575
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1200",
+          "bbox": [
+            173,
+            560,
+            255,
+            580
+          ],
+          "words": [
+            {
+              "text": "1200",
+              "bbox": [
+                178,
+                564,
+                198,
+                575
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$60M",
+          "bbox": [
+            255,
+            560,
+            336,
+            580
+          ],
+          "words": [
+            {
+              "text": "$60M",
+              "bbox": [
+                307,
+                564,
+                331,
+                575
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$40M",
+          "bbox": [
+            336,
+            560,
+            417,
+            580
+          ],
+          "words": [
+            {
+              "text": "$40M",
+              "bbox": [
+                388,
+                564,
+                412,
+                575
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "33.3%",
+          "bbox": [
+            417,
+            560,
+            499,
+            580
+          ],
+          "words": [
+            {
+              "text": "33.3%",
+              "bbox": [
+                468,
+                564,
+                494,
+                575
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$20M",
+          "bbox": [
+            499,
+            560,
+            580,
+            580
+          ],
+          "words": [
+            {
+              "text": "$20M",
+              "bbox": [
+                551,
+                564,
+                575,
+                575
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "80",
+          "bbox": [
+            15,
+            580,
+            94,
+            600
+          ],
+          "words": [
+            {
+              "text": "80",
+              "bbox": [
+                20,
+                584,
+                30,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Wood",
+          "bbox": [
+            94,
+            580,
+            173,
+            600
+          ],
+          "words": [
+            {
+              "text": "Wood",
+              "bbox": [
+                145,
+                584,
+                168,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "800",
+          "bbox": [
+            173,
+            580,
+            255,
+            600
+          ],
+          "words": [
+            {
+              "text": "800",
+              "bbox": [
+                178,
+                584,
+                193,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$40M",
+          "bbox": [
+            255,
+            580,
+            336,
+            600
+          ],
+          "words": [
+            {
+              "text": "$40M",
+              "bbox": [
+                307,
+                584,
+                331,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$30M",
+          "bbox": [
+            336,
+            580,
+            417,
+            600
+          ],
+          "words": [
+            {
+              "text": "$30M",
+              "bbox": [
+                388,
+                584,
+                412,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0%",
+          "bbox": [
+            417,
+            580,
+            499,
+            600
+          ],
+          "words": [
+            {
+              "text": "25.0%",
+              "bbox": [
+                468,
+                584,
+                494,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$10M",
+          "bbox": [
+            499,
+            580,
+            580,
+            600
+          ],
+          "words": [
+            {
+              "text": "$10M",
+              "bbox": [
+                551,
+                584,
+                575,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "60",
+          "bbox": [
+            15,
+            600,
+            94,
+            620
+          ],
+          "words": [
+            {
+              "text": "60",
+              "bbox": [
+                20,
+                604,
+                30,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Glass",
+          "bbox": [
+            94,
+            600,
+            173,
+            620
+          ],
+          "words": [
+            {
+              "text": "Glass",
+              "bbox": [
+                146,
+                604,
+                168,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "600",
+          "bbox": [
+            173,
+            600,
+            255,
+            620
+          ],
+          "words": [
+            {
+              "text": "600",
+              "bbox": [
+                178,
+                604,
+                193,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$30M",
+          "bbox": [
+            255,
+            600,
+            336,
+            620
+          ],
+          "words": [
+            {
+              "text": "$30M",
+              "bbox": [
+                307,
+                604,
+                331,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$20M",
+          "bbox": [
+            336,
+            600,
+            417,
+            620
+          ],
+          "words": [
+            {
+              "text": "$20M",
+              "bbox": [
+                388,
+                604,
+                412,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "33.3%",
+          "bbox": [
+            417,
+            600,
+            499,
+            620
+          ],
+          "words": [
+            {
+              "text": "33.3%",
+              "bbox": [
+                468,
+                604,
+                494,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$10M",
+          "bbox": [
+            499,
+            600,
+            580,
+            620
+          ],
+          "words": [
+            {
+              "text": "$10M",
+              "bbox": [
+                551,
+                604,
+                575,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "40",
+          "bbox": [
+            15,
+            620,
+            94,
+            640
+          ],
+          "words": [
+            {
+              "text": "40",
+              "bbox": [
+                20,
+                624,
+                30,
+                635
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            94,
+            620,
+            173,
+            640
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                148,
+                624,
+                168,
+                635
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4100",
+          "bbox": [
+            173,
+            620,
+            255,
+            640
+          ],
+          "words": [
+            {
+              "text": "4100",
+              "bbox": [
+                178,
+                624,
+                198,
+                635
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$205M",
+          "bbox": [
+            255,
+            620,
+            336,
+            640
+          ],
+          "words": [
+            {
+              "text": "$205M",
+              "bbox": [
+                302,
+                624,
+                331,
+                635
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$140M",
+          "bbox": [
+            336,
+            620,
+            417,
+            640
+          ],
+          "words": [
+            {
+              "text": "$140M",
+              "bbox": [
+                383,
+                624,
+                412,
+                635
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "31.7%",
+          "bbox": [
+            417,
+            620,
+            499,
+            640
+          ],
+          "words": [
+            {
+              "text": "31.7%",
+              "bbox": [
+                468,
+                624,
+                494,
+                635
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$65M",
+          "bbox": [
+            499,
+            620,
+            580,
+            640
+          ],
+          "words": [
+            {
+              "text": "$65M",
+              "bbox": [
+                551,
+                624,
+                575,
+                635
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        658,
+        580,
+        750
+      ],
+      "content": "In the Contract Margin Analysis, North America reports a Region and Product Category of Concrete with 1,500 Number of Projects, an Average Contract Value of $75M, a Profit Margin of 33.3%, a Net Profit of $25M, and a Headcount of 100; for Steel, 1,200 Projects, $60M Average Contract Value, 33.3% Profit Margin, $20M Net Profit, and 80 Headcount; Wood with 800 Projects, $40M Average Contract Value, 25.0% Profit Margin, $10M Net Profit, and 60 Headcount; Glass with 600 Projects, $30M Average Contract Value, 33.3% Profit Margin, $10M Net Profit, and 40 Headcount; totaling 4,100 Projects, $205M Total Revenue, $140M Cost of Goods Sold, a Gross Margin of 31.7%, and $65M Operating Expenses.",
+      "lines": [
+        {
+          "text": "In the Contract Margin Analysis, North America reports a Region and Product Category of Concrete with 1,500 Number of",
+          "bbox": [
+            15,
+            659,
+            580,
+            671
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                659,
+                24,
+                671
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                659,
+                42,
+                671
+              ]
+            },
+            {
+              "text": "Contract",
+              "bbox": [
+                46,
+                659,
+                84,
+                671
+              ]
+            },
+            {
+              "text": "Margin",
+              "bbox": [
+                88,
+                659,
+                120,
+                671
+              ]
+            },
+            {
+              "text": "Analysis,",
+              "bbox": [
+                123,
+                659,
+                164,
+                671
+              ]
+            },
+            {
+              "text": "North",
+              "bbox": [
+                169,
+                659,
+                194,
+                671
+              ]
+            },
+            {
+              "text": "America",
+              "bbox": [
+                198,
+                659,
+                235,
+                671
+              ]
+            },
+            {
+              "text": "reports",
+              "bbox": [
+                240,
+                659,
+                270,
+                671
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                274,
+                659,
+                279,
+                671
+              ]
+            },
+            {
+              "text": "Region",
+              "bbox": [
+                283,
+                659,
+                315,
+                671
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                319,
+                659,
+                335,
+                671
+              ]
+            },
+            {
+              "text": "Product",
+              "bbox": [
+                339,
+                659,
+                373,
+                671
+              ]
+            },
+            {
+              "text": "Category",
+              "bbox": [
+                377,
+                659,
+                417,
+                671
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                421,
+                659,
+                431,
+                671
+              ]
+            },
+            {
+              "text": "Concrete",
+              "bbox": [
+                435,
+                659,
+                474,
+                671
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                478,
+                659,
+                498,
+                671
+              ]
+            },
+            {
+              "text": "1,500",
+              "bbox": [
+                502,
+                659,
+                527,
+                671
+              ]
+            },
+            {
+              "text": "Number",
+              "bbox": [
+                531,
+                659,
+                567,
+                671
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                659,
+                580,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Projects, an Average Contract Value of $75M, a Profit Margin of 33.3%, a Net Profit of $25M, and a Headcount of 100; for",
+          "bbox": [
+            15,
+            674,
+            580,
+            686
+          ],
+          "words": [
+            {
+              "text": "Projects,",
+              "bbox": [
+                15,
+                674,
+                53,
+                686
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                57,
+                674,
+                67,
+                686
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                71,
+                674,
+                107,
+                686
+              ]
+            },
+            {
+              "text": "Contract",
+              "bbox": [
+                111,
+                674,
+                149,
+                686
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                152,
+                674,
+                177,
+                686
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                181,
+                674,
+                190,
+                686
+              ]
+            },
+            {
+              "text": "$75M,",
+              "bbox": [
+                194,
+                674,
+                223,
+                686
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                227,
+                674,
+                232,
+                686
+              ]
+            },
+            {
+              "text": "Profit",
+              "bbox": [
+                235,
+                674,
+                261,
+                686
+              ]
+            },
+            {
+              "text": "Margin",
+              "bbox": [
+                264,
+                674,
+                297,
+                686
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                300,
+                674,
+                309,
+                686
+              ]
+            },
+            {
+              "text": "33.3%,",
+              "bbox": [
+                313,
+                674,
+                344,
+                686
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                348,
+                674,
+                353,
+                686
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                357,
+                674,
+                373,
+                686
+              ]
+            },
+            {
+              "text": "Profit",
+              "bbox": [
+                377,
+                674,
+                402,
+                686
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                405,
+                674,
+                415,
+                686
+              ]
+            },
+            {
+              "text": "$25M,",
+              "bbox": [
+                418,
+                674,
+                447,
+                686
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                451,
+                674,
+                467,
+                686
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                471,
+                674,
+                476,
+                686
+              ]
+            },
+            {
+              "text": "Headcount",
+              "bbox": [
+                479,
+                674,
+                527,
+                686
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                531,
+                674,
+                540,
+                686
+              ]
+            },
+            {
+              "text": "100;",
+              "bbox": [
+                544,
+                674,
+                563,
+                686
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                674,
+                580,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Steel, 1,200 Projects, $60M Average Contract Value, 33.3% Profit Margin, $20M Net Profit, and 80 Headcount; Wood with 800",
+          "bbox": [
+            15,
+            690,
+            580,
+            702
+          ],
+          "words": [
+            {
+              "text": "Steel,",
+              "bbox": [
+                15,
+                690,
+                40,
+                702
+              ]
+            },
+            {
+              "text": "1,200",
+              "bbox": [
+                43,
+                690,
+                67,
+                702
+              ]
+            },
+            {
+              "text": "Projects,",
+              "bbox": [
+                70,
+                690,
+                108,
+                702
+              ]
+            },
+            {
+              "text": "$60M",
+              "bbox": [
+                111,
+                690,
+                138,
+                702
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                140,
+                690,
+                176,
+                702
+              ]
+            },
+            {
+              "text": "Contract",
+              "bbox": [
+                179,
+                690,
+                217,
+                702
+              ]
+            },
+            {
+              "text": "Value,",
+              "bbox": [
+                220,
+                690,
+                248,
+                702
+              ]
+            },
+            {
+              "text": "33.3%",
+              "bbox": [
+                250,
+                690,
+                279,
+                702
+              ]
+            },
+            {
+              "text": "Profit",
+              "bbox": [
+                282,
+                690,
+                307,
+                702
+              ]
+            },
+            {
+              "text": "Margin,",
+              "bbox": [
+                310,
+                690,
+                345,
+                702
+              ]
+            },
+            {
+              "text": "$20M",
+              "bbox": [
+                348,
+                690,
+                374,
+                702
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                377,
+                690,
+                393,
+                702
+              ]
+            },
+            {
+              "text": "Profit,",
+              "bbox": [
+                395,
+                690,
+                423,
+                702
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                426,
+                690,
+                442,
+                702
+              ]
+            },
+            {
+              "text": "80",
+              "bbox": [
+                445,
+                690,
+                456,
+                702
+              ]
+            },
+            {
+              "text": "Headcount;",
+              "bbox": [
+                459,
+                690,
+                509,
+                702
+              ]
+            },
+            {
+              "text": "Wood",
+              "bbox": [
+                512,
+                690,
+                538,
+                702
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                541,
+                690,
+                561,
+                702
+              ]
+            },
+            {
+              "text": "800",
+              "bbox": [
+                563,
+                690,
+                580,
+                702
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Projects, $40M Average Contract Value, 25.0% Profit Margin, $10M Net Profit, and 60 Headcount; Glass with 600 Projects,",
+          "bbox": [
+            15,
+            705,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "Projects,",
+              "bbox": [
+                15,
+                705,
+                53,
+                717
+              ]
+            },
+            {
+              "text": "$40M",
+              "bbox": [
+                57,
+                705,
+                83,
+                717
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                86,
+                705,
+                123,
+                717
+              ]
+            },
+            {
+              "text": "Contract",
+              "bbox": [
+                127,
+                705,
+                165,
+                717
+              ]
+            },
+            {
+              "text": "Value,",
+              "bbox": [
+                168,
+                705,
+                196,
+                717
+              ]
+            },
+            {
+              "text": "25.0%",
+              "bbox": [
+                200,
+                705,
+                228,
+                717
+              ]
+            },
+            {
+              "text": "Profit",
+              "bbox": [
+                232,
+                705,
+                257,
+                717
+              ]
+            },
+            {
+              "text": "Margin,",
+              "bbox": [
+                261,
+                705,
+                296,
+                717
+              ]
+            },
+            {
+              "text": "$10M",
+              "bbox": [
+                300,
+                705,
+                326,
+                717
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                330,
+                705,
+                346,
+                717
+              ]
+            },
+            {
+              "text": "Profit,",
+              "bbox": [
+                349,
+                705,
+                377,
+                717
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                381,
+                705,
+                397,
+                717
+              ]
+            },
+            {
+              "text": "60",
+              "bbox": [
+                401,
+                705,
+                412,
+                717
+              ]
+            },
+            {
+              "text": "Headcount;",
+              "bbox": [
+                415,
+                705,
+                466,
+                717
+              ]
+            },
+            {
+              "text": "Glass",
+              "bbox": [
+                470,
+                705,
+                494,
+                717
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                498,
+                705,
+                518,
+                717
+              ]
+            },
+            {
+              "text": "600",
+              "bbox": [
+                522,
+                705,
+                538,
+                717
+              ]
+            },
+            {
+              "text": "Projects,",
+              "bbox": [
+                542,
+                705,
+                580,
+                717
+              ]
+            }
+          ]
+        },
+        {
+          "text": "$30M Average Contract Value, 33.3% Profit Margin, $10M Net Profit, and 40 Headcount; totaling 4,100 Projects, $205M Total",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "$30M",
+              "bbox": [
+                15,
+                720,
+                41,
+                732
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                44,
+                720,
+                80,
+                732
+              ]
+            },
+            {
+              "text": "Contract",
+              "bbox": [
+                83,
+                720,
+                121,
+                732
+              ]
+            },
+            {
+              "text": "Value,",
+              "bbox": [
+                124,
+                720,
+                152,
+                732
+              ]
+            },
+            {
+              "text": "33.3%",
+              "bbox": [
+                155,
+                720,
+                183,
+                732
+              ]
+            },
+            {
+              "text": "Profit",
+              "bbox": [
+                186,
+                720,
+                211,
+                732
+              ]
+            },
+            {
+              "text": "Margin,",
+              "bbox": [
+                214,
+                720,
+                249,
+                732
+              ]
+            },
+            {
+              "text": "$10M",
+              "bbox": [
+                252,
+                720,
+                278,
+                732
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                281,
+                720,
+                297,
+                732
+              ]
+            },
+            {
+              "text": "Profit,",
+              "bbox": [
+                300,
+                720,
+                328,
+                732
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                331,
+                720,
+                347,
+                732
+              ]
+            },
+            {
+              "text": "40",
+              "bbox": [
+                350,
+                720,
+                361,
+                732
+              ]
+            },
+            {
+              "text": "Headcount;",
+              "bbox": [
+                364,
+                720,
+                414,
+                732
+              ]
+            },
+            {
+              "text": "totaling",
+              "bbox": [
+                417,
+                720,
+                451,
+                732
+              ]
+            },
+            {
+              "text": "4,100",
+              "bbox": [
+                454,
+                720,
+                479,
+                732
+              ]
+            },
+            {
+              "text": "Projects,",
+              "bbox": [
+                482,
+                720,
+                520,
+                732
+              ]
+            },
+            {
+              "text": "$205M",
+              "bbox": [
+                523,
+                720,
+                555,
+                732
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                558,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Revenue, $140M Cost of Goods Sold, a Gross Margin of 31.7%, and $65M Operating Expenses.",
+          "bbox": [
+            15,
+            736,
+            441,
+            748
+          ],
+          "words": [
+            {
+              "text": "Revenue,",
+              "bbox": [
+                15,
+                736,
+                56,
+                748
+              ]
+            },
+            {
+              "text": "$140M",
+              "bbox": [
+                59,
+                736,
+                91,
+                748
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                94,
+                736,
+                114,
+                748
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                116,
+                736,
+                126,
+                748
+              ]
+            },
+            {
+              "text": "Goods",
+              "bbox": [
+                128,
+                736,
+                157,
+                748
+              ]
+            },
+            {
+              "text": "Sold,",
+              "bbox": [
+                160,
+                736,
+                183,
+                748
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                186,
+                736,
+                190,
+                748
+              ]
+            },
+            {
+              "text": "Gross",
+              "bbox": [
+                193,
+                736,
+                219,
+                748
+              ]
+            },
+            {
+              "text": "Margin",
+              "bbox": [
+                222,
+                736,
+                254,
+                748
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                256,
+                736,
+                266,
+                748
+              ]
+            },
+            {
+              "text": "31.7%,",
+              "bbox": [
+                268,
+                736,
+                300,
+                748
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                302,
+                736,
+                318,
+                748
+              ]
+            },
+            {
+              "text": "$65M",
+              "bbox": [
+                321,
+                736,
+                347,
+                748
+              ]
+            },
+            {
+              "text": "Operating",
+              "bbox": [
+                350,
+                736,
+                394,
+                748
+              ]
+            },
+            {
+              "text": "Expenses.",
+              "bbox": [
+                397,
+                736,
+                441,
+                748
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

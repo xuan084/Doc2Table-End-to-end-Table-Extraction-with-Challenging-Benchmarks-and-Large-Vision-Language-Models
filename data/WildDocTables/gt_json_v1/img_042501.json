@@ -1,0 +1,4456 @@
+{
+  "image_id": "img_042501",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        50,
+        580,
+        204
+      ],
+      "content": "The assessment of hypocalcemia detection in patients is critical for optimizing treatment strategies and improving patient outcomes. The accompanying data table presents an analysis of various detection methods, highlighting key metrics such as the number of patients (N) and the corresponding detection percentages (%). Notably, the table indicates that out of 121 patients, 43.2% were accurately identified as having hypocalcemia, underscoring the efficacy of the employed detection methodologies. The incremental yield metrics also provide valuable insights; specifically, the incremental yield over the baseline detection method (D) reveals a significant improvement in detection rates, with analysis showing an increase in the number of cases detected. Furthermore, the rule description column illustrates that the medication entity is accurately detected, with both class and boundary divisions correctly applied. This comprehensive evaluation not only emphasizes the importance of precise diagnostic tools but also sets the stage for further research aimed at enhancing detection rates and ensuring timely interventions for patients suffering from hypocalcemia.",
+      "lines": [
+        {
+          "text": "The assessment of hypocalcemia detection in patients is critical for optimizing treatment strategies and improving patient",
+          "bbox": [
+            15,
+            51,
+            580,
+            63
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                51,
+                32,
+                63
+              ]
+            },
+            {
+              "text": "assessment",
+              "bbox": [
+                37,
+                51,
+                86,
+                63
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                91,
+                51,
+                100,
+                63
+              ]
+            },
+            {
+              "text": "hypocalcemia",
+              "bbox": [
+                105,
+                51,
+                166,
+                63
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                171,
+                51,
+                211,
+                63
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                216,
+                51,
+                224,
+                63
+              ]
+            },
+            {
+              "text": "patients",
+              "bbox": [
+                229,
+                51,
+                263,
+                63
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                268,
+                51,
+                276,
+                63
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                280,
+                51,
+                311,
+                63
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                316,
+                51,
+                329,
+                63
+              ]
+            },
+            {
+              "text": "optimizing",
+              "bbox": [
+                333,
+                51,
+                381,
+                63
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                386,
+                51,
+                427,
+                63
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                432,
+                51,
+                474,
+                63
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                479,
+                51,
+                495,
+                63
+              ]
+            },
+            {
+              "text": "improving",
+              "bbox": [
+                499,
+                51,
+                545,
+                63
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                550,
+                51,
+                580,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "text": "outcomes. The accompanying data table presents an analysis of various detection methods, highlighting key metrics such as the",
+          "bbox": [
+            15,
+            66,
+            580,
+            78
+          ],
+          "words": [
+            {
+              "text": "outcomes.",
+              "bbox": [
+                15,
+                66,
+                60,
+                78
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                63,
+                66,
+                80,
+                78
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                83,
+                66,
+                147,
+                78
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                150,
+                66,
+                168,
+                78
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                171,
+                66,
+                193,
+                78
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                196,
+                66,
+                232,
+                78
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                235,
+                66,
+                245,
+                78
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                248,
+                66,
+                283,
+                78
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                286,
+                66,
+                296,
+                78
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                299,
+                66,
+                331,
+                78
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                334,
+                66,
+                374,
+                78
+              ]
+            },
+            {
+              "text": "methods,",
+              "bbox": [
+                377,
+                66,
+                417,
+                78
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                420,
+                66,
+                474,
+                78
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                477,
+                66,
+                493,
+                78
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                496,
+                66,
+                528,
+                78
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                531,
+                66,
+                551,
+                78
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                554,
+                66,
+                564,
+                78
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                66,
+                580,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "text": "number of patients (N) and the corresponding detection percentages (%). Notably, the table indicates that out of 121 patients,",
+          "bbox": [
+            15,
+            82,
+            580,
+            94
+          ],
+          "words": [
+            {
+              "text": "number",
+              "bbox": [
+                15,
+                82,
+                49,
+                94
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                52,
+                82,
+                61,
+                94
+              ]
+            },
+            {
+              "text": "patients",
+              "bbox": [
+                65,
+                82,
+                99,
+                94
+              ]
+            },
+            {
+              "text": "(N)",
+              "bbox": [
+                103,
+                82,
+                118,
+                94
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                122,
+                82,
+                137,
+                94
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                141,
+                82,
+                154,
+                94
+              ]
+            },
+            {
+              "text": "corresponding",
+              "bbox": [
+                158,
+                82,
+                221,
+                94
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                225,
+                82,
+                265,
+                94
+              ]
+            },
+            {
+              "text": "percentages",
+              "bbox": [
+                268,
+                82,
+                320,
+                94
+              ]
+            },
+            {
+              "text": "(%).",
+              "bbox": [
+                324,
+                82,
+                343,
+                94
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                347,
+                82,
+                384,
+                94
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                388,
+                82,
+                401,
+                94
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                405,
+                82,
+                426,
+                94
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                430,
+                82,
+                469,
+                94
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                472,
+                82,
+                489,
+                94
+              ]
+            },
+            {
+              "text": "out",
+              "bbox": [
+                493,
+                82,
+                507,
+                94
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                510,
+                82,
+                519,
+                94
+              ]
+            },
+            {
+              "text": "121",
+              "bbox": [
+                523,
+                82,
+                539,
+                94
+              ]
+            },
+            {
+              "text": "patients,",
+              "bbox": [
+                543,
+                82,
+                580,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "text": "43.2% were accurately identified as having hypocalcemia, underscoring the efficacy of the employed detection methodologies.",
+          "bbox": [
+            15,
+            97,
+            580,
+            109
+          ],
+          "words": [
+            {
+              "text": "43.2%",
+              "bbox": [
+                15,
+                97,
+                43,
+                109
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                47,
+                97,
+                68,
+                109
+              ]
+            },
+            {
+              "text": "accurately",
+              "bbox": [
+                71,
+                97,
+                116,
+                109
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                120,
+                97,
+                162,
+                109
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                165,
+                97,
+                174,
+                109
+              ]
+            },
+            {
+              "text": "having",
+              "bbox": [
+                177,
+                97,
+                207,
+                109
+              ]
+            },
+            {
+              "text": "hypocalcemia,",
+              "bbox": [
+                211,
+                97,
+                274,
+                109
+              ]
+            },
+            {
+              "text": "underscoring",
+              "bbox": [
+                278,
+                97,
+                335,
+                109
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                338,
+                97,
+                352,
+                109
+              ]
+            },
+            {
+              "text": "efficacy",
+              "bbox": [
+                355,
+                97,
+                390,
+                109
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                393,
+                97,
+                402,
+                109
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                406,
+                97,
+                419,
+                109
+              ]
+            },
+            {
+              "text": "employed",
+              "bbox": [
+                422,
+                97,
+                466,
+                109
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                469,
+                97,
+                509,
+                109
+              ]
+            },
+            {
+              "text": "methodologies.",
+              "bbox": [
+                512,
+                97,
+                580,
+                109
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The incremental yield metrics also provide valuable insights; specifically, the incremental yield over the baseline detection",
+          "bbox": [
+            15,
+            113,
+            580,
+            125
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                113,
+                32,
+                125
+              ]
+            },
+            {
+              "text": "incremental",
+              "bbox": [
+                37,
+                113,
+                88,
+                125
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                93,
+                113,
+                115,
+                125
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                119,
+                113,
+                152,
+                125
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                156,
+                113,
+                174,
+                125
+              ]
+            },
+            {
+              "text": "provide",
+              "bbox": [
+                178,
+                113,
+                212,
+                125
+              ]
+            },
+            {
+              "text": "valuable",
+              "bbox": [
+                216,
+                113,
+                254,
+                125
+              ]
+            },
+            {
+              "text": "insights;",
+              "bbox": [
+                258,
+                113,
+                295,
+                125
+              ]
+            },
+            {
+              "text": "specifically,",
+              "bbox": [
+                300,
+                113,
+                352,
+                125
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                357,
+                113,
+                370,
+                125
+              ]
+            },
+            {
+              "text": "incremental",
+              "bbox": [
+                375,
+                113,
+                427,
+                125
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                431,
+                113,
+                453,
+                125
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                457,
+                113,
+                477,
+                125
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                481,
+                113,
+                495,
+                125
+              ]
+            },
+            {
+              "text": "baseline",
+              "bbox": [
+                499,
+                113,
+                535,
+                125
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                540,
+                113,
+                580,
+                125
+              ]
+            }
+          ]
+        },
+        {
+          "text": "method (D) reveals a significant improvement in detection rates, with analysis showing an increase in the number of cases",
+          "bbox": [
+            15,
+            128,
+            580,
+            140
+          ],
+          "words": [
+            {
+              "text": "method",
+              "bbox": [
+                15,
+                128,
+                48,
+                140
+              ]
+            },
+            {
+              "text": "(D)",
+              "bbox": [
+                52,
+                128,
+                68,
+                140
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                72,
+                128,
+                103,
+                140
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                107,
+                128,
+                112,
+                140
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                116,
+                128,
+                163,
+                140
+              ]
+            },
+            {
+              "text": "improvement",
+              "bbox": [
+                167,
+                128,
+                226,
+                140
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                230,
+                128,
+                238,
+                140
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                243,
+                128,
+                283,
+                140
+              ]
+            },
+            {
+              "text": "rates,",
+              "bbox": [
+                287,
+                128,
+                311,
+                140
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                315,
+                128,
+                335,
+                140
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                339,
+                128,
+                374,
+                140
+              ]
+            },
+            {
+              "text": "showing",
+              "bbox": [
+                379,
+                128,
+                416,
+                140
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                420,
+                128,
+                430,
+                140
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                435,
+                128,
+                471,
+                140
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                475,
+                128,
+                484,
+                140
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                488,
+                128,
+                501,
+                140
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                506,
+                128,
+                539,
+                140
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                543,
+                128,
+                553,
+                140
+              ]
+            },
+            {
+              "text": "cases",
+              "bbox": [
+                557,
+                128,
+                580,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "text": "detected. Furthermore, the rule description column illustrates that the medication entity is accurately detected, with both class",
+          "bbox": [
+            15,
+            143,
+            580,
+            155
+          ],
+          "words": [
+            {
+              "text": "detected.",
+              "bbox": [
+                15,
+                143,
+                54,
+                155
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                58,
+                143,
+                116,
+                155
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                119,
+                143,
+                133,
+                155
+              ]
+            },
+            {
+              "text": "rule",
+              "bbox": [
+                136,
+                143,
+                153,
+                155
+              ]
+            },
+            {
+              "text": "description",
+              "bbox": [
+                157,
+                143,
+                206,
+                155
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                209,
+                143,
+                242,
+                155
+              ]
+            },
+            {
+              "text": "illustrates",
+              "bbox": [
+                246,
+                143,
+                288,
+                155
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                292,
+                143,
+                309,
+                155
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                312,
+                143,
+                325,
+                155
+              ]
+            },
+            {
+              "text": "medication",
+              "bbox": [
+                329,
+                143,
+                378,
+                155
+              ]
+            },
+            {
+              "text": "entity",
+              "bbox": [
+                381,
+                143,
+                406,
+                155
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                410,
+                143,
+                417,
+                155
+              ]
+            },
+            {
+              "text": "accurately",
+              "bbox": [
+                421,
+                143,
+                466,
+                155
+              ]
+            },
+            {
+              "text": "detected,",
+              "bbox": [
+                470,
+                143,
+                509,
+                155
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                512,
+                143,
+                532,
+                155
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                536,
+                143,
+                555,
+                155
+              ]
+            },
+            {
+              "text": "class",
+              "bbox": [
+                559,
+                143,
+                580,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and boundary divisions correctly applied. This comprehensive evaluation not only emphasizes the importance of precise",
+          "bbox": [
+            15,
+            159,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                159,
+                31,
+                171
+              ]
+            },
+            {
+              "text": "boundary",
+              "bbox": [
+                36,
+                159,
+                78,
+                171
+              ]
+            },
+            {
+              "text": "divisions",
+              "bbox": [
+                83,
+                159,
+                123,
+                171
+              ]
+            },
+            {
+              "text": "correctly",
+              "bbox": [
+                128,
+                159,
+                167,
+                171
+              ]
+            },
+            {
+              "text": "applied.",
+              "bbox": [
+                172,
+                159,
+                208,
+                171
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                213,
+                159,
+                232,
+                171
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                238,
+                159,
+                304,
+                171
+              ]
+            },
+            {
+              "text": "evaluation",
+              "bbox": [
+                309,
+                159,
+                355,
+                171
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                361,
+                159,
+                375,
+                171
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                380,
+                159,
+                400,
+                171
+              ]
+            },
+            {
+              "text": "emphasizes",
+              "bbox": [
+                405,
+                159,
+                456,
+                171
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                461,
+                159,
+                474,
+                171
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                480,
+                159,
+                529,
+                171
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                534,
+                159,
+                544,
+                171
+              ]
+            },
+            {
+              "text": "precise",
+              "bbox": [
+                549,
+                159,
+                580,
+                171
+              ]
+            }
+          ]
+        },
+        {
+          "text": "diagnostic tools but also sets the stage for further research aimed at enhancing detection rates and ensuring timely interventions",
+          "bbox": [
+            15,
+            174,
+            580,
+            186
+          ],
+          "words": [
+            {
+              "text": "diagnostic",
+              "bbox": [
+                15,
+                174,
+                60,
+                186
+              ]
+            },
+            {
+              "text": "tools",
+              "bbox": [
+                63,
+                174,
+                85,
+                186
+              ]
+            },
+            {
+              "text": "but",
+              "bbox": [
+                88,
+                174,
+                102,
+                186
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                105,
+                174,
+                122,
+                186
+              ]
+            },
+            {
+              "text": "sets",
+              "bbox": [
+                125,
+                174,
+                142,
+                186
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                145,
+                174,
+                158,
+                186
+              ]
+            },
+            {
+              "text": "stage",
+              "bbox": [
+                161,
+                174,
+                184,
+                186
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                187,
+                174,
+                200,
+                186
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                203,
+                174,
+                233,
+                186
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                236,
+                174,
+                272,
+                186
+              ]
+            },
+            {
+              "text": "aimed",
+              "bbox": [
+                275,
+                174,
+                302,
+                186
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                305,
+                174,
+                313,
+                186
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                316,
+                174,
+                362,
+                186
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                365,
+                174,
+                405,
+                186
+              ]
+            },
+            {
+              "text": "rates",
+              "bbox": [
+                408,
+                174,
+                429,
+                186
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                432,
+                174,
+                448,
+                186
+              ]
+            },
+            {
+              "text": "ensuring",
+              "bbox": [
+                451,
+                174,
+                488,
+                186
+              ]
+            },
+            {
+              "text": "timely",
+              "bbox": [
+                491,
+                174,
+                520,
+                186
+              ]
+            },
+            {
+              "text": "interventions",
+              "bbox": [
+                523,
+                174,
+                580,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for patients suffering from hypocalcemia.",
+          "bbox": [
+            15,
+            190,
+            198,
+            202
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                15,
+                190,
+                28,
+                202
+              ]
+            },
+            {
+              "text": "patients",
+              "bbox": [
+                31,
+                190,
+                65,
+                202
+              ]
+            },
+            {
+              "text": "suffering",
+              "bbox": [
+                68,
+                190,
+                107,
+                202
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                110,
+                190,
+                131,
+                202
+              ]
+            },
+            {
+              "text": "hypocalcemia.",
+              "bbox": [
+                134,
+                190,
+                198,
+                202
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_042501_t0",
+      "bbox": [
+        15,
+        219,
+        580,
+        346
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            219,
+            580,
+            240
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            240,
+            580,
+            261
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            261,
+            580,
+            282
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            282,
+            580,
+            303
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            303,
+            580,
+            324
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            324,
+            580,
+            345
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td rowspan=\"2\">Electroyte imbalance</td><td colspan=\"2\">Cases</td></tr><tr><td>N</td><td>Percent (%)</td></tr></thead><tbody><tr><td>Hypocalcemia</td><td>47</td><td>23.38</td></tr><tr><td>Hypomagnesemia</td><td>28</td><td>13.93</td></tr><tr><td>Hypokalemia</td><td>18</td><td>8.96</td></tr><tr><td>Hyperkalemia</td><td>0</td><td>0</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Electroyte imbalance",
+          "bbox": [
+            16,
+            219,
+            304,
+            240
+          ],
+          "words": [
+            {
+              "text": "Electroyte",
+              "bbox": [
+                21,
+                224,
+                65,
+                235
+              ]
+            },
+            {
+              "text": "imbalance",
+              "bbox": [
+                67,
+                224,
+                111,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Cases",
+          "bbox": [
+            304,
+            219,
+            580,
+            240
+          ],
+          "words": [
+            {
+              "text": "Cases",
+              "bbox": [
+                550,
+                224,
+                574,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "N",
+          "bbox": [
+            16,
+            240,
+            304,
+            261
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                21,
+                245,
+                28,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Percent (%)",
+          "bbox": [
+            304,
+            240,
+            484,
+            261
+          ],
+          "words": [
+            {
+              "text": "Percent",
+              "bbox": [
+                427,
+                245,
+                459,
+                256
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                462,
+                245,
+                478,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Hypocalcemia",
+          "bbox": [
+            16,
+            261,
+            304,
+            282
+          ],
+          "words": [
+            {
+              "text": "Hypocalcemia",
+              "bbox": [
+                21,
+                266,
+                79,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "47",
+          "bbox": [
+            304,
+            261,
+            484,
+            282
+          ],
+          "words": [
+            {
+              "text": "47",
+              "bbox": [
+                468,
+                266,
+                478,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "23.38",
+          "bbox": [
+            484,
+            261,
+            580,
+            282
+          ],
+          "words": [
+            {
+              "text": "23.38",
+              "bbox": [
+                552,
+                266,
+                574,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Hypomagnesemia",
+          "bbox": [
+            16,
+            282,
+            304,
+            303
+          ],
+          "words": [
+            {
+              "text": "Hypomagnesemia",
+              "bbox": [
+                21,
+                287,
+                93,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28",
+          "bbox": [
+            304,
+            282,
+            484,
+            303
+          ],
+          "words": [
+            {
+              "text": "28",
+              "bbox": [
+                468,
+                287,
+                478,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "13.93",
+          "bbox": [
+            484,
+            282,
+            580,
+            303
+          ],
+          "words": [
+            {
+              "text": "13.93",
+              "bbox": [
+                552,
+                287,
+                574,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Hypokalemia",
+          "bbox": [
+            16,
+            303,
+            304,
+            324
+          ],
+          "words": [
+            {
+              "text": "Hypokalemia",
+              "bbox": [
+                21,
+                308,
+                75,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "18",
+          "bbox": [
+            304,
+            303,
+            484,
+            324
+          ],
+          "words": [
+            {
+              "text": "18",
+              "bbox": [
+                468,
+                308,
+                478,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "8.96",
+          "bbox": [
+            484,
+            303,
+            580,
+            324
+          ],
+          "words": [
+            {
+              "text": "8.96",
+              "bbox": [
+                557,
+                308,
+                574,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Hyperkalemia",
+          "bbox": [
+            16,
+            324,
+            304,
+            345
+          ],
+          "words": [
+            {
+              "text": "Hyperkalemia",
+              "bbox": [
+                21,
+                329,
+                78,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            304,
+            324,
+            484,
+            345
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                473,
+                329,
+                478,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            484,
+            324,
+            580,
+            345
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                569,
+                329,
+                574,
+                340
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_042501_t1",
+      "bbox": [
+        15,
+        361,
+        580,
+        484
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            361,
+            580,
+            382
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            382,
+            580,
+            403
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            403,
+            580,
+            423
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            423,
+            580,
+            443
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            443,
+            580,
+            463
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            463,
+            580,
+            483
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Score</td><td>Rule description</td></tr></thead><tbody><tr><td>1</td><td>Medication entity is accurately detected, and divisions of class and boundary are both correct</td></tr><tr><td>0.8</td><td>Only one error is detected at the start position of the ME boundary</td></tr><tr><td>0.6</td><td>Only one error is detected at the end position of the ME boundary</td></tr><tr><td>0.4</td><td>Two errors are detected at the start and end positions of ME boundaries, respectively</td></tr><tr><td>0</td><td>ME is not detected, or the detected phrase is not a drug name entity annotated in the gold standard</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Score",
+          "bbox": [
+            15,
+            361,
+            59,
+            382
+          ],
+          "words": [
+            {
+              "text": "Score",
+              "bbox": [
+                20,
+                366,
+                44,
+                377
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Rule description",
+          "bbox": [
+            59,
+            361,
+            580,
+            382
+          ],
+          "words": [
+            {
+              "text": "Rule",
+              "bbox": [
+                505,
+                366,
+                525,
+                377
+              ]
+            },
+            {
+              "text": "description",
+              "bbox": [
+                527,
+                366,
+                575,
+                377
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            15,
+            382,
+            59,
+            403
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                20,
+                387,
+                25,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Medication entity is accurately detected, and divisions of class and boundary are both correct",
+          "bbox": [
+            59,
+            382,
+            580,
+            403
+          ],
+          "words": [
+            {
+              "text": "Medication",
+              "bbox": [
+                202,
+                387,
+                248,
+                398
+              ]
+            },
+            {
+              "text": "entity",
+              "bbox": [
+                250,
+                387,
+                273,
+                398
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                276,
+                387,
+                282,
+                398
+              ]
+            },
+            {
+              "text": "accurately",
+              "bbox": [
+                285,
+                387,
+                326,
+                398
+              ]
+            },
+            {
+              "text": "detected,",
+              "bbox": [
+                328,
+                387,
+                364,
+                398
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                367,
+                387,
+                381,
+                398
+              ]
+            },
+            {
+              "text": "divisions",
+              "bbox": [
+                384,
+                387,
+                420,
+                398
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                422,
+                387,
+                431,
+                398
+              ]
+            },
+            {
+              "text": "class",
+              "bbox": [
+                433,
+                387,
+                453,
+                398
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                455,
+                387,
+                469,
+                398
+              ]
+            },
+            {
+              "text": "boundary",
+              "bbox": [
+                472,
+                387,
+                510,
+                398
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                512,
+                387,
+                524,
+                398
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                527,
+                387,
+                545,
+                398
+              ]
+            },
+            {
+              "text": "correct",
+              "bbox": [
+                547,
+                387,
+                575,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.8",
+          "bbox": [
+            15,
+            403,
+            59,
+            423
+          ],
+          "words": [
+            {
+              "text": "0.8",
+              "bbox": [
+                20,
+                407,
+                33,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Only one error is detected at the start position of the ME boundary",
+          "bbox": [
+            59,
+            403,
+            580,
+            423
+          ],
+          "words": [
+            {
+              "text": "Only",
+              "bbox": [
+                309,
+                407,
+                329,
+                418
+              ]
+            },
+            {
+              "text": "one",
+              "bbox": [
+                331,
+                407,
+                346,
+                418
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                348,
+                407,
+                368,
+                418
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                370,
+                407,
+                377,
+                418
+              ]
+            },
+            {
+              "text": "detected",
+              "bbox": [
+                379,
+                407,
+                413,
+                418
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                415,
+                407,
+                423,
+                418
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                425,
+                407,
+                437,
+                418
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                440,
+                407,
+                457,
+                418
+              ]
+            },
+            {
+              "text": "position",
+              "bbox": [
+                459,
+                407,
+                492,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                494,
+                407,
+                503,
+                418
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                505,
+                407,
+                517,
+                418
+              ]
+            },
+            {
+              "text": "ME",
+              "bbox": [
+                520,
+                407,
+                535,
+                418
+              ]
+            },
+            {
+              "text": "boundary",
+              "bbox": [
+                537,
+                407,
+                575,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.6",
+          "bbox": [
+            15,
+            423,
+            59,
+            443
+          ],
+          "words": [
+            {
+              "text": "0.6",
+              "bbox": [
+                20,
+                427,
+                33,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Only one error is detected at the end position of the ME boundary",
+          "bbox": [
+            59,
+            423,
+            580,
+            443
+          ],
+          "words": [
+            {
+              "text": "Only",
+              "bbox": [
+                312,
+                427,
+                332,
+                438
+              ]
+            },
+            {
+              "text": "one",
+              "bbox": [
+                334,
+                427,
+                349,
+                438
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                351,
+                427,
+                371,
+                438
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                373,
+                427,
+                380,
+                438
+              ]
+            },
+            {
+              "text": "detected",
+              "bbox": [
+                382,
+                427,
+                416,
+                438
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                418,
+                427,
+                425,
+                438
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                428,
+                427,
+                440,
+                438
+              ]
+            },
+            {
+              "text": "end",
+              "bbox": [
+                443,
+                427,
+                457,
+                438
+              ]
+            },
+            {
+              "text": "position",
+              "bbox": [
+                459,
+                427,
+                492,
+                438
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                494,
+                427,
+                503,
+                438
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                505,
+                427,
+                517,
+                438
+              ]
+            },
+            {
+              "text": "ME",
+              "bbox": [
+                520,
+                427,
+                535,
+                438
+              ]
+            },
+            {
+              "text": "boundary",
+              "bbox": [
+                537,
+                427,
+                575,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.4",
+          "bbox": [
+            15,
+            443,
+            59,
+            463
+          ],
+          "words": [
+            {
+              "text": "0.4",
+              "bbox": [
+                20,
+                447,
+                33,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Two errors are detected at the start and end positions of ME boundaries, respectively",
+          "bbox": [
+            59,
+            443,
+            580,
+            463
+          ],
+          "words": [
+            {
+              "text": "Two",
+              "bbox": [
+                236,
+                447,
+                254,
+                458
+              ]
+            },
+            {
+              "text": "errors",
+              "bbox": [
+                256,
+                447,
+                280,
+                458
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                282,
+                447,
+                295,
+                458
+              ]
+            },
+            {
+              "text": "detected",
+              "bbox": [
+                297,
+                447,
+                330,
+                458
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                333,
+                447,
+                340,
+                458
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                343,
+                447,
+                355,
+                458
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                357,
+                447,
+                374,
+                458
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                377,
+                447,
+                391,
+                458
+              ]
+            },
+            {
+              "text": "end",
+              "bbox": [
+                394,
+                447,
+                408,
+                458
+              ]
+            },
+            {
+              "text": "positions",
+              "bbox": [
+                411,
+                447,
+                447,
+                458
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                449,
+                447,
+                458,
+                458
+              ]
+            },
+            {
+              "text": "ME",
+              "bbox": [
+                460,
+                447,
+                475,
+                458
+              ]
+            },
+            {
+              "text": "boundaries,",
+              "bbox": [
+                478,
+                447,
+                524,
+                458
+              ]
+            },
+            {
+              "text": "respectively",
+              "bbox": [
+                527,
+                447,
+                575,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            15,
+            463,
+            59,
+            483
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                20,
+                467,
+                25,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "ME is not detected, or the detected phrase is not a drug name entity annotated in the gold standard",
+          "bbox": [
+            59,
+            463,
+            580,
+            483
+          ],
+          "words": [
+            {
+              "text": "ME",
+              "bbox": [
+                183,
+                467,
+                198,
+                478
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                200,
+                467,
+                207,
+                478
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                209,
+                467,
+                222,
+                478
+              ]
+            },
+            {
+              "text": "detected,",
+              "bbox": [
+                225,
+                467,
+                260,
+                478
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                263,
+                467,
+                271,
+                478
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                274,
+                467,
+                286,
+                478
+              ]
+            },
+            {
+              "text": "detected",
+              "bbox": [
+                288,
+                467,
+                322,
+                478
+              ]
+            },
+            {
+              "text": "phrase",
+              "bbox": [
+                324,
+                467,
+                350,
+                478
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                353,
+                467,
+                360,
+                478
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                362,
+                467,
+                375,
+                478
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                377,
+                467,
+                382,
+                478
+              ]
+            },
+            {
+              "text": "drug",
+              "bbox": [
+                384,
+                467,
+                403,
+                478
+              ]
+            },
+            {
+              "text": "name",
+              "bbox": [
+                405,
+                467,
+                427,
+                478
+              ]
+            },
+            {
+              "text": "entity",
+              "bbox": [
+                429,
+                467,
+                452,
+                478
+              ]
+            },
+            {
+              "text": "annotated",
+              "bbox": [
+                454,
+                467,
+                493,
+                478
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                496,
+                467,
+                504,
+                478
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                506,
+                467,
+                518,
+                478
+              ]
+            },
+            {
+              "text": "gold",
+              "bbox": [
+                521,
+                467,
+                539,
+                478
+              ]
+            },
+            {
+              "text": "standard",
+              "bbox": [
+                541,
+                467,
+                575,
+                478
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_042501_t2",
+      "bbox": [
+        15,
+        499,
+        580,
+        667
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            499,
+            580,
+            520
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            520,
+            580,
+            555
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            555,
+            580,
+            576
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            576,
+            580,
+            611
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            611,
+            580,
+            632
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            632,
+            580,
+            667
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td></td><td colspan=\"2\">Case definition of one smear</td><td colspan=\"2\">Case definition of two smears</td></tr><tr><td></td><td>N detected (% of all patients)</td><td>Incremental yield over D alone: N (%; 95% CI)</td><td>N detected (% of all patients)</td><td>Incremental yield over D alone: N (%; 95% CI)</td></tr></thead><tbody><tr><td>D</td><td>121 (43.2%)*</td><td>-</td><td>118 (42.1%)</td><td>-</td></tr><tr><td>D+SCA</td><td>122 (43.6%)</td><td>1 (0.8%; 0-4.5)</td><td>118 (42.1%)</td><td>0</td></tr><tr><td>B</td><td>134 (47.9%)†</td><td>14 (11.6%; 6.5-18.6)</td><td>123 (43.9%)</td><td>5 (4.2%; 1.4-9.6)</td></tr><tr><td>B+SCA</td><td>135 (48.6%)‡</td><td>15(12.4%; 7.1-19.6)</td><td>125 (44.6%)</td><td>7 (5.9%; 2.4-11.8)</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            499,
+            51,
+            520
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Case definition of one smear",
+          "bbox": [
+            51,
+            499,
+            315,
+            520
+          ],
+          "words": [
+            {
+              "text": "Case",
+              "bbox": [
+                56,
+                504,
+                77,
+                515
+              ]
+            },
+            {
+              "text": "definition",
+              "bbox": [
+                79,
+                504,
+                121,
+                515
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                123,
+                504,
+                131,
+                515
+              ]
+            },
+            {
+              "text": "one",
+              "bbox": [
+                134,
+                504,
+                149,
+                515
+              ]
+            },
+            {
+              "text": "smear",
+              "bbox": [
+                151,
+                504,
+                177,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Case definition of two smears",
+          "bbox": [
+            315,
+            499,
+            580,
+            520
+          ],
+          "words": [
+            {
+              "text": "Case",
+              "bbox": [
+                448,
+                504,
+                469,
+                515
+              ]
+            },
+            {
+              "text": "definition",
+              "bbox": [
+                472,
+                504,
+                513,
+                515
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                515,
+                504,
+                523,
+                515
+              ]
+            },
+            {
+              "text": "two",
+              "bbox": [
+                526,
+                504,
+                542,
+                515
+              ]
+            },
+            {
+              "text": "smears",
+              "bbox": [
+                544,
+                504,
+                574,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            520,
+            51,
+            555
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "N detected (% of all patients)",
+          "bbox": [
+            51,
+            520,
+            155,
+            555
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                56,
+                525,
+                64,
+                536
+              ]
+            },
+            {
+              "text": "detected",
+              "bbox": [
+                66,
+                525,
+                102,
+                536
+              ]
+            },
+            {
+              "text": "(%",
+              "bbox": [
+                104,
+                525,
+                117,
+                536
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                120,
+                525,
+                128,
+                536
+              ]
+            },
+            {
+              "text": "all",
+              "bbox": [
+                131,
+                525,
+                141,
+                536
+              ]
+            },
+            {
+              "text": "patients)",
+              "bbox": [
+                56,
+                539,
+                94,
+                550
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Incremental yield over D alone: N (%; 95% CI)",
+          "bbox": [
+            155,
+            520,
+            315,
+            555
+          ],
+          "words": [
+            {
+              "text": "Incremental",
+              "bbox": [
+                165,
+                525,
+                217,
+                536
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                220,
+                525,
+                240,
+                536
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                243,
+                525,
+                262,
+                536
+              ]
+            },
+            {
+              "text": "D",
+              "bbox": [
+                264,
+                525,
+                271,
+                536
+              ]
+            },
+            {
+              "text": "alone:",
+              "bbox": [
+                274,
+                525,
+                300,
+                536
+              ]
+            },
+            {
+              "text": "N",
+              "bbox": [
+                302,
+                525,
+                310,
+                536
+              ]
+            },
+            {
+              "text": "(%;",
+              "bbox": [
+                254,
+                539,
+                270,
+                550
+              ]
+            },
+            {
+              "text": "95%",
+              "bbox": [
+                273,
+                539,
+                293,
+                550
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                295,
+                539,
+                310,
+                550
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "N detected (% of all patients)",
+          "bbox": [
+            315,
+            520,
+            419,
+            555
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                329,
+                525,
+                336,
+                536
+              ]
+            },
+            {
+              "text": "detected",
+              "bbox": [
+                338,
+                525,
+                374,
+                536
+              ]
+            },
+            {
+              "text": "(%",
+              "bbox": [
+                376,
+                525,
+                390,
+                536
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                392,
+                525,
+                400,
+                536
+              ]
+            },
+            {
+              "text": "all",
+              "bbox": [
+                403,
+                525,
+                414,
+                536
+              ]
+            },
+            {
+              "text": "patients)",
+              "bbox": [
+                376,
+                539,
+                414,
+                550
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Incremental yield over D alone: N (%; 95% CI)",
+          "bbox": [
+            419,
+            520,
+            580,
+            555
+          ],
+          "words": [
+            {
+              "text": "Incremental",
+              "bbox": [
+                430,
+                525,
+                482,
+                536
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                484,
+                525,
+                505,
+                536
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                507,
+                525,
+                526,
+                536
+              ]
+            },
+            {
+              "text": "D",
+              "bbox": [
+                528,
+                525,
+                536,
+                536
+              ]
+            },
+            {
+              "text": "alone:",
+              "bbox": [
+                538,
+                525,
+                564,
+                536
+              ]
+            },
+            {
+              "text": "N",
+              "bbox": [
+                567,
+                525,
+                574,
+                536
+              ]
+            },
+            {
+              "text": "(%;",
+              "bbox": [
+                518,
+                539,
+                535,
+                550
+              ]
+            },
+            {
+              "text": "95%",
+              "bbox": [
+                537,
+                539,
+                557,
+                550
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                560,
+                539,
+                574,
+                550
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "D",
+          "bbox": [
+            16,
+            555,
+            51,
+            576
+          ],
+          "words": [
+            {
+              "text": "D",
+              "bbox": [
+                21,
+                560,
+                28,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "121 (43.2%)*",
+          "bbox": [
+            51,
+            555,
+            155,
+            576
+          ],
+          "words": [
+            {
+              "text": "121",
+              "bbox": [
+                56,
+                560,
+                71,
+                571
+              ]
+            },
+            {
+              "text": "(43.2%)*",
+              "bbox": [
+                73,
+                560,
+                111,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            155,
+            555,
+            315,
+            576
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                307,
+                560,
+                310,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "118 (42.1%)",
+          "bbox": [
+            315,
+            555,
+            419,
+            576
+          ],
+          "words": [
+            {
+              "text": "118",
+              "bbox": [
+                364,
+                560,
+                379,
+                571
+              ]
+            },
+            {
+              "text": "(42.1%)",
+              "bbox": [
+                382,
+                560,
+                414,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            419,
+            555,
+            580,
+            576
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                571,
+                560,
+                575,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "D+SCA",
+          "bbox": [
+            16,
+            576,
+            51,
+            611
+          ],
+          "words": [
+            {
+              "text": "D+SCA",
+              "bbox": [
+                21,
+                581,
+                46,
+                606
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "122 (43.6%)",
+          "bbox": [
+            51,
+            576,
+            155,
+            611
+          ],
+          "words": [
+            {
+              "text": "122",
+              "bbox": [
+                56,
+                581,
+                71,
+                592
+              ]
+            },
+            {
+              "text": "(43.6%)",
+              "bbox": [
+                73,
+                581,
+                106,
+                592
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1 (0.8%; 0-4.5)",
+          "bbox": [
+            155,
+            576,
+            315,
+            611
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                249,
+                581,
+                254,
+                592
+              ]
+            },
+            {
+              "text": "(0.8%;",
+              "bbox": [
+                257,
+                581,
+                284,
+                592
+              ]
+            },
+            {
+              "text": "0-4.5)",
+              "bbox": [
+                286,
+                581,
+                310,
+                592
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "118 (42.1%)",
+          "bbox": [
+            315,
+            576,
+            419,
+            611
+          ],
+          "words": [
+            {
+              "text": "118",
+              "bbox": [
+                364,
+                581,
+                379,
+                592
+              ]
+            },
+            {
+              "text": "(42.1%)",
+              "bbox": [
+                382,
+                581,
+                414,
+                592
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            419,
+            576,
+            580,
+            611
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                570,
+                581,
+                575,
+                592
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "B",
+          "bbox": [
+            16,
+            611,
+            51,
+            632
+          ],
+          "words": [
+            {
+              "text": "B",
+              "bbox": [
+                21,
+                616,
+                27,
+                627
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "134 (47.9%)†",
+          "bbox": [
+            51,
+            611,
+            155,
+            632
+          ],
+          "words": [
+            {
+              "text": "134",
+              "bbox": [
+                56,
+                616,
+                71,
+                627
+              ]
+            },
+            {
+              "text": "(47.9%)†",
+              "bbox": [
+                73,
+                616,
+                111,
+                627
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "14 (11.6%; 6.5-18.6)",
+          "bbox": [
+            155,
+            611,
+            315,
+            632
+          ],
+          "words": [
+            {
+              "text": "14",
+              "bbox": [
+                227,
+                616,
+                237,
+                627
+              ]
+            },
+            {
+              "text": "(11.6%;",
+              "bbox": [
+                239,
+                616,
+                271,
+                627
+              ]
+            },
+            {
+              "text": "6.5-18.6)",
+              "bbox": [
+                273,
+                616,
+                310,
+                627
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "123 (43.9%)",
+          "bbox": [
+            315,
+            611,
+            419,
+            632
+          ],
+          "words": [
+            {
+              "text": "123",
+              "bbox": [
+                364,
+                616,
+                379,
+                627
+              ]
+            },
+            {
+              "text": "(43.9%)",
+              "bbox": [
+                382,
+                616,
+                414,
+                627
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5 (4.2%; 1.4-9.6)",
+          "bbox": [
+            419,
+            611,
+            580,
+            632
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                506,
+                616,
+                511,
+                627
+              ]
+            },
+            {
+              "text": "(4.2%;",
+              "bbox": [
+                513,
+                616,
+                540,
+                627
+              ]
+            },
+            {
+              "text": "1.4-9.6)",
+              "bbox": [
+                543,
+                616,
+                575,
+                627
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "B+SCA",
+          "bbox": [
+            16,
+            632,
+            51,
+            667
+          ],
+          "words": [
+            {
+              "text": "B+SCA",
+              "bbox": [
+                21,
+                637,
+                45,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "135 (48.6%)‡",
+          "bbox": [
+            51,
+            632,
+            155,
+            667
+          ],
+          "words": [
+            {
+              "text": "135",
+              "bbox": [
+                56,
+                637,
+                71,
+                648
+              ]
+            },
+            {
+              "text": "(48.6%)‡",
+              "bbox": [
+                73,
+                637,
+                111,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15(12.4%; 7.1-19.6)",
+          "bbox": [
+            155,
+            632,
+            315,
+            667
+          ],
+          "words": [
+            {
+              "text": "15(12.4%;",
+              "bbox": [
+                229,
+                637,
+                271,
+                648
+              ]
+            },
+            {
+              "text": "7.1-19.6)",
+              "bbox": [
+                273,
+                637,
+                310,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "125 (44.6%)",
+          "bbox": [
+            315,
+            632,
+            419,
+            667
+          ],
+          "words": [
+            {
+              "text": "125",
+              "bbox": [
+                364,
+                637,
+                379,
+                648
+              ]
+            },
+            {
+              "text": "(44.6%)",
+              "bbox": [
+                382,
+                637,
+                414,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "7 (5.9%; 2.4-11.8)",
+          "bbox": [
+            419,
+            632,
+            580,
+            667
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                501,
+                637,
+                506,
+                648
+              ]
+            },
+            {
+              "text": "(5.9%;",
+              "bbox": [
+                509,
+                637,
+                536,
+                648
+              ]
+            },
+            {
+              "text": "2.4-11.8)",
+              "bbox": [
+                538,
+                637,
+                575,
+                648
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

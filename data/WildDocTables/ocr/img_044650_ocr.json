@@ -1,0 +1,261 @@
+{
+  "image_id": "img_044650",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In the context of analyzing the genetic diversity and associated traits of *Aeromonas hydrophila*, the data presented in the table",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "provides critical insights into the presence and distribution of single nucleotide polymorphisms (SNPs) within both simulated",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "and real datasets. Specifically, the table highlights the original number of SNPs called, with a total of 30 million in the",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "simulated data compared to 39 million in the real data, illustrating a significant difference in SNP discovery between the two",
+      "bbox": [
+        15,
+        97,
+        580,
+        109
+      ]
+    },
+    {
+      "text": "methods. Additionally, the table summarizes key metrics, including the crude and adjusted odds ratios with 95% confidence",
+      "bbox": [
+        15,
+        113,
+        580,
+        125
+      ]
+    },
+    {
+      "text": "intervals, which are essential for understanding the strength of association between specific genetic characteristics and",
+      "bbox": [
+        15,
+        128,
+        580,
+        140
+      ]
+    },
+    {
+      "text": "phenotypic outcomes. The percentage of positive SNPs identified further underscores the potential for selective traits linked to",
+      "bbox": [
+        15,
+        143,
+        580,
+        155
+      ]
+    },
+    {
+      "text": "*A. hydrophila*, with values reflecting both the prevalence and significance of these genetic variations. This analysis not only",
+      "bbox": [
+        15,
+        159,
+        580,
+        171
+      ]
+    },
+    {
+      "text": "enhances our understanding of the genetic landscape of *A. hydrophila* but also lays the groundwork for future research into",
+      "bbox": [
+        15,
+        174,
+        580,
+        186
+      ]
+    },
+    {
+      "text": "its ecological and pathogenic implications.",
+      "bbox": [
+        15,
+        190,
+        203,
+        202
+      ]
+    },
+    {
+      "text": "Species  Number of samples tested  Hemolysin activity  Protease activity  Lipase activity",
+      "bbox": [
+        15,
+        219,
+        580,
+        240
+      ]
+    },
+    {
+      "text": "+ve  %  +ve  %  +ve  %",
+      "bbox": [
+        15,
+        240,
+        580,
+        260
+      ]
+    },
+    {
+      "text": "A. hydrophila  22  19  86.4  14  63.6  5  22.7",
+      "bbox": [
+        15,
+        260,
+        580,
+        281
+      ]
+    },
+    {
+      "text": "A. sobria  12  12  100  12  100  1  100",
+      "bbox": [
+        15,
+        281,
+        580,
+        301
+      ]
+    },
+    {
+      "text": "A. caviae  1  1  100  1  100  0  0",
+      "bbox": [
+        15,
+        301,
+        580,
+        321
+      ]
+    },
+    {
+      "text": "Total  35  32  91.4  27  77.1  6  17.1",
+      "bbox": [
+        15,
+        321,
+        580,
+        341
+      ]
+    },
+    {
+      "text": "SNP edit  Simulated data  Real data",
+      "bbox": [
+        16,
+        357,
+        580,
+        378
+      ]
+    },
+    {
+      "text": "Original number of SNPs called  30 million  39 million",
+      "bbox": [
+        16,
+        378,
+        580,
+        399
+      ]
+    },
+    {
+      "text": "Removed for MAF of <0.01  3 million  20 million",
+      "bbox": [
+        16,
+        399,
+        580,
+        420
+      ]
+    },
+    {
+      "text": "Removed for linkage of >0.95  18 million  13 million",
+      "bbox": [
+        16,
+        420,
+        580,
+        441
+      ]
+    },
+    {
+      "text": "Removed for imputation inaccuracy  0  3 million",
+      "bbox": [
+        16,
+        441,
+        580,
+        462
+      ]
+    },
+    {
+      "text": "Remained after edits  8 million  3 million",
+      "bbox": [
+        16,
+        462,
+        580,
+        483
+      ]
+    },
+    {
+      "text": "Characteristic  Crude Odds ratios with 95% confidence interval  Adjusted Odds ratios with 95% confidence interval",
+      "bbox": [
+        15,
+        499,
+        580,
+        533
+      ]
+    },
+    {
+      "text": "Age above 25 years Age 24 years & young- Ref  2.05 (1.57-2.69)*  2.51 (1.89-3.33)*a",
+      "bbox": [
+        15,
+        533,
+        580,
+        554
+      ]
+    },
+    {
+      "text": "Education non or primary Education secondary or higher - Ref  5.73 (4.52-7.25)*  5.68 (4.44-7.27)*a",
+      "bbox": [
+        15,
+        554,
+        580,
+        588
+      ]
+    },
+    {
+      "text": "Formal employment Informal or no employment - Ref  1.73 (1.45-2.06)*  1.23 (1.01-1.49)**a",
+      "bbox": [
+        15,
+        588,
+        580,
+        622
+      ]
+    },
+    {
+      "text": "^Non-Indigenous ethnicity Indigenous ethnicity - Ref  2.00 (1.58-2.54)*  1.53 (1.18-1.99)*a",
+      "bbox": [
+        15,
+        622,
+        580,
+        656
+      ]
+    },
+    {
+      "text": "Income 5001 NPR or above/month 5000 NPR or less/month- Ref  1.89 (1.59-2.25)*  1.47 (1.20-1.80)*b",
+      "bbox": [
+        15,
+        656,
+        580,
+        690
+      ]
+    }
+  ]
+}

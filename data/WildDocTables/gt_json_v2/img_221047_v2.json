@@ -1,0 +1,4741 @@
+{
+  "image_id": "img_221047",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        74,
+        580,
+        89
+      ],
+      "content": "In the fiscal year 2024, Sea Limited's fulfillment cost per order analysis reveals diverse metrics across various orders.",
+      "lines": [
+        {
+          "text": "In the fiscal year 2024, Sea Limited's fulfillment cost per order analysis reveals diverse metrics across various orders.",
+          "bbox": [
+            15,
+            75,
+            532,
+            87
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                75,
+                24,
+                87
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                27,
+                75,
+                40,
+                87
+              ]
+            },
+            {
+              "text": "fiscal",
+              "bbox": [
+                43,
+                75,
+                67,
+                87
+              ]
+            },
+            {
+              "text": "year",
+              "bbox": [
+                70,
+                75,
+                89,
+                87
+              ]
+            },
+            {
+              "text": "2024,",
+              "bbox": [
+                91,
+                75,
+                116,
+                87
+              ]
+            },
+            {
+              "text": "Sea",
+              "bbox": [
+                119,
+                75,
+                135,
+                87
+              ]
+            },
+            {
+              "text": "Limited's",
+              "bbox": [
+                137,
+                75,
+                179,
+                87
+              ]
+            },
+            {
+              "text": "fulfillment",
+              "bbox": [
+                181,
+                75,
+                228,
+                87
+              ]
+            },
+            {
+              "text": "cost",
+              "bbox": [
+                231,
+                75,
+                249,
+                87
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                252,
+                75,
+                266,
+                87
+              ]
+            },
+            {
+              "text": "order",
+              "bbox": [
+                268,
+                75,
+                292,
+                87
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                294,
+                75,
+                330,
+                87
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                333,
+                75,
+                364,
+                87
+              ]
+            },
+            {
+              "text": "diverse",
+              "bbox": [
+                366,
+                75,
+                398,
+                87
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                401,
+                75,
+                433,
+                87
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                436,
+                75,
+                464,
+                87
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                466,
+                75,
+                499,
+                87
+              ]
+            },
+            {
+              "text": "orders.",
+              "bbox": [
+                501,
+                75,
+                532,
+                87
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_221047_t0",
+      "bbox": [
+        15,
+        114,
+        580,
+        345
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            115,
+            580,
+            150
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            150,
+            580,
+            185
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            185,
+            580,
+            220
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            220,
+            580,
+            241
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            241,
+            580,
+            262
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            262,
+            580,
+            283
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            283,
+            580,
+            304
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            16,
+            304,
+            580,
+            325
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            16,
+            325,
+            580,
+            345
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>OrderID</td><td>ProductCategory</td><td>FulfillmentMethod</td><td>CostperOrder</td><td>Status</td></tr><tr><td>OrderDate</td><td>ShippingCost</td><td>HandlingFee</td><td>TotalCost</td><td>DeliveryTime</td></tr><tr><td>CustomerID</td><td>Region</td><td>DiscountApplied</td><td>PromotionalCode</td><td>FeedbackScore</td></tr><tr><td>12345</td><td>Electronics</td><td>Standard</td><td>£5.00</td><td>Completed</td></tr><tr><td>2024-01-10</td><td>£2.50</td><td>£1.00</td><td>£8.50</td><td>3days</td></tr><tr><td>12346</td><td>Clothing</td><td>Express</td><td>£12.00</td><td>Shipped</td></tr><tr><td>2024-01-12</td><td>£5.00</td><td>£2.00</td><td>£19.00</td><td>1day</td></tr><tr><td>12347</td><td>HomeGoods</td><td>Standard</td><td>£7.50</td><td>Pending</td></tr><tr><td>2024-01-15</td><td>£3.50</td><td>£1.50</td><td>£12.50</td><td>5days</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "OrderID",
+          "bbox": [
+            16,
+            115,
+            326,
+            150
+          ],
+          "words": [
+            {
+              "text": "OrderID",
+              "bbox": [
+                282,
+                119,
+                320,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ProductCategory",
+          "bbox": [
+            326,
+            115,
+            389,
+            150
+          ],
+          "words": [
+            {
+              "text": "ProductCategory",
+              "bbox": [
+                331,
+                119,
+                381,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "FulfillmentMethod",
+          "bbox": [
+            389,
+            115,
+            453,
+            150
+          ],
+          "words": [
+            {
+              "text": "FulfillmentMethod",
+              "bbox": [
+                400,
+                119,
+                448,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CostperOrder",
+          "bbox": [
+            453,
+            115,
+            517,
+            150
+          ],
+          "words": [
+            {
+              "text": "CostperOrder",
+              "bbox": [
+                460,
+                119,
+                511,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Status",
+          "bbox": [
+            517,
+            115,
+            580,
+            150
+          ],
+          "words": [
+            {
+              "text": "Status",
+              "bbox": [
+                547,
+                119,
+                574,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "OrderDate",
+          "bbox": [
+            16,
+            150,
+            326,
+            185
+          ],
+          "words": [
+            {
+              "text": "OrderDate",
+              "bbox": [
+                274,
+                154,
+                320,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ShippingCost",
+          "bbox": [
+            326,
+            150,
+            389,
+            185
+          ],
+          "words": [
+            {
+              "text": "ShippingCost",
+              "bbox": [
+                331,
+                154,
+                382,
+                179
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "HandlingFee",
+          "bbox": [
+            389,
+            150,
+            453,
+            185
+          ],
+          "words": [
+            {
+              "text": "HandlingFee",
+              "bbox": [
+                397,
+                154,
+                448,
+                179
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalCost",
+          "bbox": [
+            453,
+            150,
+            517,
+            185
+          ],
+          "words": [
+            {
+              "text": "TotalCost",
+              "bbox": [
+                470,
+                154,
+                511,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "DeliveryTime",
+          "bbox": [
+            517,
+            150,
+            580,
+            185
+          ],
+          "words": [
+            {
+              "text": "DeliveryTime",
+              "bbox": [
+                529,
+                154,
+                574,
+                179
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "CustomerID",
+          "bbox": [
+            16,
+            185,
+            326,
+            220
+          ],
+          "words": [
+            {
+              "text": "CustomerID",
+              "bbox": [
+                267,
+                189,
+                320,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Region",
+          "bbox": [
+            326,
+            185,
+            389,
+            220
+          ],
+          "words": [
+            {
+              "text": "Region",
+              "bbox": [
+                331,
+                189,
+                361,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "DiscountApplied",
+          "bbox": [
+            389,
+            185,
+            453,
+            220
+          ],
+          "words": [
+            {
+              "text": "DiscountApplied",
+              "bbox": [
+                397,
+                189,
+                448,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "PromotionalCode",
+          "bbox": [
+            453,
+            185,
+            517,
+            220
+          ],
+          "words": [
+            {
+              "text": "PromotionalCode",
+              "bbox": [
+                461,
+                189,
+                511,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "FeedbackScore",
+          "bbox": [
+            517,
+            185,
+            580,
+            220
+          ],
+          "words": [
+            {
+              "text": "FeedbackScore",
+              "bbox": [
+                523,
+                189,
+                574,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "12345",
+          "bbox": [
+            16,
+            220,
+            326,
+            241
+          ],
+          "words": [
+            {
+              "text": "12345",
+              "bbox": [
+                296,
+                224,
+                321,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Electronics",
+          "bbox": [
+            326,
+            220,
+            389,
+            241
+          ],
+          "words": [
+            {
+              "text": "Electronics",
+              "bbox": [
+                331,
+                224,
+                376,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Standard",
+          "bbox": [
+            389,
+            220,
+            453,
+            241
+          ],
+          "words": [
+            {
+              "text": "Standard",
+              "bbox": [
+                413,
+                224,
+                448,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£5.00",
+          "bbox": [
+            453,
+            220,
+            517,
+            241
+          ],
+          "words": [
+            {
+              "text": "£5.00",
+              "bbox": [
+                489,
+                224,
+                512,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Completed",
+          "bbox": [
+            517,
+            220,
+            580,
+            241
+          ],
+          "words": [
+            {
+              "text": "Completed",
+              "bbox": [
+                531,
+                224,
+                575,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-01-10",
+          "bbox": [
+            16,
+            241,
+            326,
+            262
+          ],
+          "words": [
+            {
+              "text": "2024-01-10",
+              "bbox": [
+                274,
+                245,
+                321,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£2.50",
+          "bbox": [
+            326,
+            241,
+            389,
+            262
+          ],
+          "words": [
+            {
+              "text": "£2.50",
+              "bbox": [
+                331,
+                245,
+                353,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£1.00",
+          "bbox": [
+            389,
+            241,
+            453,
+            262
+          ],
+          "words": [
+            {
+              "text": "£1.00",
+              "bbox": [
+                426,
+                245,
+                448,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£8.50",
+          "bbox": [
+            453,
+            241,
+            517,
+            262
+          ],
+          "words": [
+            {
+              "text": "£8.50",
+              "bbox": [
+                489,
+                245,
+                512,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3days",
+          "bbox": [
+            517,
+            241,
+            580,
+            262
+          ],
+          "words": [
+            {
+              "text": "3days",
+              "bbox": [
+                551,
+                245,
+                575,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "12346",
+          "bbox": [
+            16,
+            262,
+            326,
+            283
+          ],
+          "words": [
+            {
+              "text": "12346",
+              "bbox": [
+                296,
+                266,
+                321,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Clothing",
+          "bbox": [
+            326,
+            262,
+            389,
+            283
+          ],
+          "words": [
+            {
+              "text": "Clothing",
+              "bbox": [
+                331,
+                266,
+                366,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Express",
+          "bbox": [
+            389,
+            262,
+            453,
+            283
+          ],
+          "words": [
+            {
+              "text": "Express",
+              "bbox": [
+                416,
+                266,
+                448,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£12.00",
+          "bbox": [
+            453,
+            262,
+            517,
+            283
+          ],
+          "words": [
+            {
+              "text": "£12.00",
+              "bbox": [
+                484,
+                266,
+                512,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Shipped",
+          "bbox": [
+            517,
+            262,
+            580,
+            283
+          ],
+          "words": [
+            {
+              "text": "Shipped",
+              "bbox": [
+                542,
+                266,
+                575,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-01-12",
+          "bbox": [
+            16,
+            283,
+            326,
+            304
+          ],
+          "words": [
+            {
+              "text": "2024-01-12",
+              "bbox": [
+                274,
+                287,
+                321,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£5.00",
+          "bbox": [
+            326,
+            283,
+            389,
+            304
+          ],
+          "words": [
+            {
+              "text": "£5.00",
+              "bbox": [
+                331,
+                287,
+                353,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£2.00",
+          "bbox": [
+            389,
+            283,
+            453,
+            304
+          ],
+          "words": [
+            {
+              "text": "£2.00",
+              "bbox": [
+                426,
+                287,
+                448,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£19.00",
+          "bbox": [
+            453,
+            283,
+            517,
+            304
+          ],
+          "words": [
+            {
+              "text": "£19.00",
+              "bbox": [
+                484,
+                287,
+                512,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1day",
+          "bbox": [
+            517,
+            283,
+            580,
+            304
+          ],
+          "words": [
+            {
+              "text": "1day",
+              "bbox": [
+                555,
+                287,
+                575,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "12347",
+          "bbox": [
+            16,
+            304,
+            326,
+            325
+          ],
+          "words": [
+            {
+              "text": "12347",
+              "bbox": [
+                296,
+                308,
+                321,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "HomeGoods",
+          "bbox": [
+            326,
+            304,
+            389,
+            325
+          ],
+          "words": [
+            {
+              "text": "HomeGoods",
+              "bbox": [
+                331,
+                308,
+                381,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Standard",
+          "bbox": [
+            389,
+            304,
+            453,
+            325
+          ],
+          "words": [
+            {
+              "text": "Standard",
+              "bbox": [
+                413,
+                308,
+                448,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£7.50",
+          "bbox": [
+            453,
+            304,
+            517,
+            325
+          ],
+          "words": [
+            {
+              "text": "£7.50",
+              "bbox": [
+                489,
+                308,
+                512,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Pending",
+          "bbox": [
+            517,
+            304,
+            580,
+            325
+          ],
+          "words": [
+            {
+              "text": "Pending",
+              "bbox": [
+                542,
+                308,
+                575,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-01-15",
+          "bbox": [
+            16,
+            325,
+            326,
+            345
+          ],
+          "words": [
+            {
+              "text": "2024-01-15",
+              "bbox": [
+                274,
+                329,
+                321,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£3.50",
+          "bbox": [
+            326,
+            325,
+            389,
+            345
+          ],
+          "words": [
+            {
+              "text": "£3.50",
+              "bbox": [
+                331,
+                329,
+                353,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£1.50",
+          "bbox": [
+            389,
+            325,
+            453,
+            345
+          ],
+          "words": [
+            {
+              "text": "£1.50",
+              "bbox": [
+                426,
+                329,
+                448,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£12.50",
+          "bbox": [
+            453,
+            325,
+            517,
+            345
+          ],
+          "words": [
+            {
+              "text": "£12.50",
+              "bbox": [
+                484,
+                329,
+                512,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5days",
+          "bbox": [
+            517,
+            325,
+            580,
+            345
+          ],
+          "words": [
+            {
+              "text": "5days",
+              "bbox": [
+                551,
+                329,
+                575,
+                340
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        360,
+        580,
+        407
+      ],
+      "content": "The table lists OrderID 12345 for the Electronics category, utilizing Standard fulfillment, incurring a Cost per Order of £5.00, completed on 2024-01-10, with a Shipping Cost of £2.50, Handling Fee of £1.00, leading to a Total Cost of £8.50 and a Delivery Time of 3 days.",
+      "lines": [
+        {
+          "text": "The table lists OrderID 12345 for the Electronics category, utilizing Standard fulfillment, incurring a Cost per Order of £5.00,",
+          "bbox": [
+            15,
+            361,
+            580,
+            373
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                361,
+                32,
+                373
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                35,
+                361,
+                57,
+                373
+              ]
+            },
+            {
+              "text": "lists",
+              "bbox": [
+                60,
+                361,
+                78,
+                373
+              ]
+            },
+            {
+              "text": "OrderID",
+              "bbox": [
+                81,
+                361,
+                119,
+                373
+              ]
+            },
+            {
+              "text": "12345",
+              "bbox": [
+                122,
+                361,
+                150,
+                373
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                153,
+                361,
+                166,
+                373
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                169,
+                361,
+                183,
+                373
+              ]
+            },
+            {
+              "text": "Electronics",
+              "bbox": [
+                186,
+                361,
+                235,
+                373
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                239,
+                361,
+                279,
+                373
+              ]
+            },
+            {
+              "text": "utilizing",
+              "bbox": [
+                282,
+                361,
+                319,
+                373
+              ]
+            },
+            {
+              "text": "Standard",
+              "bbox": [
+                322,
+                361,
+                361,
+                373
+              ]
+            },
+            {
+              "text": "fulfillment,",
+              "bbox": [
+                365,
+                361,
+                415,
+                373
+              ]
+            },
+            {
+              "text": "incurring",
+              "bbox": [
+                418,
+                361,
+                458,
+                373
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                462,
+                361,
+                467,
+                373
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                470,
+                361,
+                490,
+                373
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                493,
+                361,
+                508,
+                373
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                511,
+                361,
+                537,
+                373
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                540,
+                361,
+                549,
+                373
+              ]
+            },
+            {
+              "text": "£5.00,",
+              "bbox": [
+                552,
+                361,
+                580,
+                373
+              ]
+            }
+          ]
+        },
+        {
+          "text": "completed on 2024-01-10, with a Shipping Cost of £2.50, Handling Fee of £1.00, leading to a Total Cost of £8.50 and a",
+          "bbox": [
+            15,
+            377,
+            580,
+            389
+          ],
+          "words": [
+            {
+              "text": "completed",
+              "bbox": [
+                15,
+                377,
+                61,
+                389
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                65,
+                377,
+                76,
+                389
+              ]
+            },
+            {
+              "text": "2024-01-10,",
+              "bbox": [
+                81,
+                377,
+                135,
+                389
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                140,
+                377,
+                159,
+                389
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                164,
+                377,
+                169,
+                389
+              ]
+            },
+            {
+              "text": "Shipping",
+              "bbox": [
+                173,
+                377,
+                213,
+                389
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                218,
+                377,
+                238,
+                389
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                242,
+                377,
+                252,
+                389
+              ]
+            },
+            {
+              "text": "£2.50,",
+              "bbox": [
+                256,
+                377,
+                284,
+                389
+              ]
+            },
+            {
+              "text": "Handling",
+              "bbox": [
+                288,
+                377,
+                329,
+                389
+              ]
+            },
+            {
+              "text": "Fee",
+              "bbox": [
+                334,
+                377,
+                350,
+                389
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                354,
+                377,
+                364,
+                389
+              ]
+            },
+            {
+              "text": "£1.00,",
+              "bbox": [
+                368,
+                377,
+                396,
+                389
+              ]
+            },
+            {
+              "text": "leading",
+              "bbox": [
+                400,
+                377,
+                433,
+                389
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                437,
+                377,
+                446,
+                389
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                450,
+                377,
+                455,
+                389
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                460,
+                377,
+                482,
+                389
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                487,
+                377,
+                507,
+                389
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                512,
+                377,
+                521,
+                389
+              ]
+            },
+            {
+              "text": "£8.50",
+              "bbox": [
+                525,
+                377,
+                550,
+                389
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                555,
+                377,
+                571,
+                389
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                377,
+                580,
+                389
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Delivery Time of 3 days.",
+          "bbox": [
+            15,
+            392,
+            125,
+            404
+          ],
+          "words": [
+            {
+              "text": "Delivery",
+              "bbox": [
+                15,
+                392,
+                53,
+                404
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                56,
+                392,
+                79,
+                404
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                82,
+                392,
+                91,
+                404
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                94,
+                392,
+                99,
+                404
+              ]
+            },
+            {
+              "text": "days.",
+              "bbox": [
+                102,
+                392,
+                125,
+                404
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_221047_t1",
+      "bbox": [
+        15,
+        435,
+        580,
+        583
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            435,
+            580,
+            456
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            456,
+            580,
+            477
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            477,
+            580,
+            498
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            498,
+            580,
+            519
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            519,
+            580,
+            540
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            540,
+            580,
+            561
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            561,
+            580,
+            582
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"3\">LiveCommerceMetrics</td><td>TotalRevenue</td></tr><tr><td>ConversionRate</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>AverageOrderValue</td></tr><tr><td>£50M</td><td>12.5%</td><td>15.0%</td><td>25.0%</td></tr><tr><td>£45M</td><td>10.0%</td><td>14.5%</td><td>24.5%</td></tr><tr><td>£60M</td><td>15.0%</td><td>16.0%</td><td>26.0%</td></tr><tr><td>£55M</td><td>13.0%</td><td>15.5%</td><td>25.5%</td></tr><tr><td>£70M</td><td>18.0%</td><td>17.0%</td><td>Total</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "LiveCommerceMetrics",
+          "bbox": [
+            16,
+            435,
+            330,
+            456
+          ],
+          "words": [
+            {
+              "text": "LiveCommerceMetrics",
+              "bbox": [
+                21,
+                440,
+                119,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            330,
+            435,
+            580,
+            456
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                336,
+                440,
+                394,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "ConversionRate",
+          "bbox": [
+            16,
+            456,
+            120,
+            477
+          ],
+          "words": [
+            {
+              "text": "ConversionRate",
+              "bbox": [
+                21,
+                461,
+                90,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            120,
+            456,
+            225,
+            477
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                126,
+                461,
+                194,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            225,
+            456,
+            330,
+            477
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                251,
+                461,
+                325,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageOrderValue",
+          "bbox": [
+            330,
+            456,
+            580,
+            477
+          ],
+          "words": [
+            {
+              "text": "AverageOrderValue",
+              "bbox": [
+                336,
+                461,
+                421,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "£50M",
+          "bbox": [
+            16,
+            477,
+            120,
+            498
+          ],
+          "words": [
+            {
+              "text": "£50M",
+              "bbox": [
+                21,
+                482,
+                45,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5%",
+          "bbox": [
+            120,
+            477,
+            225,
+            498
+          ],
+          "words": [
+            {
+              "text": "12.5%",
+              "bbox": [
+                126,
+                482,
+                152,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0%",
+          "bbox": [
+            225,
+            477,
+            330,
+            498
+          ],
+          "words": [
+            {
+              "text": "15.0%",
+              "bbox": [
+                299,
+                482,
+                325,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0%",
+          "bbox": [
+            330,
+            477,
+            580,
+            498
+          ],
+          "words": [
+            {
+              "text": "25.0%",
+              "bbox": [
+                336,
+                482,
+                362,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "£45M",
+          "bbox": [
+            16,
+            498,
+            120,
+            519
+          ],
+          "words": [
+            {
+              "text": "£45M",
+              "bbox": [
+                21,
+                503,
+                45,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0%",
+          "bbox": [
+            120,
+            498,
+            225,
+            519
+          ],
+          "words": [
+            {
+              "text": "10.0%",
+              "bbox": [
+                126,
+                503,
+                152,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "14.5%",
+          "bbox": [
+            225,
+            498,
+            330,
+            519
+          ],
+          "words": [
+            {
+              "text": "14.5%",
+              "bbox": [
+                299,
+                503,
+                325,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "24.5%",
+          "bbox": [
+            330,
+            498,
+            580,
+            519
+          ],
+          "words": [
+            {
+              "text": "24.5%",
+              "bbox": [
+                336,
+                503,
+                362,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "£60M",
+          "bbox": [
+            16,
+            519,
+            120,
+            540
+          ],
+          "words": [
+            {
+              "text": "£60M",
+              "bbox": [
+                21,
+                524,
+                45,
+                535
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0%",
+          "bbox": [
+            120,
+            519,
+            225,
+            540
+          ],
+          "words": [
+            {
+              "text": "15.0%",
+              "bbox": [
+                126,
+                524,
+                152,
+                535
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "16.0%",
+          "bbox": [
+            225,
+            519,
+            330,
+            540
+          ],
+          "words": [
+            {
+              "text": "16.0%",
+              "bbox": [
+                299,
+                524,
+                325,
+                535
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "26.0%",
+          "bbox": [
+            330,
+            519,
+            580,
+            540
+          ],
+          "words": [
+            {
+              "text": "26.0%",
+              "bbox": [
+                336,
+                524,
+                362,
+                535
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "£55M",
+          "bbox": [
+            16,
+            540,
+            120,
+            561
+          ],
+          "words": [
+            {
+              "text": "£55M",
+              "bbox": [
+                21,
+                545,
+                45,
+                556
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "13.0%",
+          "bbox": [
+            120,
+            540,
+            225,
+            561
+          ],
+          "words": [
+            {
+              "text": "13.0%",
+              "bbox": [
+                126,
+                545,
+                152,
+                556
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15.5%",
+          "bbox": [
+            225,
+            540,
+            330,
+            561
+          ],
+          "words": [
+            {
+              "text": "15.5%",
+              "bbox": [
+                299,
+                545,
+                325,
+                556
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "25.5%",
+          "bbox": [
+            330,
+            540,
+            580,
+            561
+          ],
+          "words": [
+            {
+              "text": "25.5%",
+              "bbox": [
+                336,
+                545,
+                362,
+                556
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "£70M",
+          "bbox": [
+            16,
+            561,
+            120,
+            582
+          ],
+          "words": [
+            {
+              "text": "£70M",
+              "bbox": [
+                21,
+                566,
+                45,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "18.0%",
+          "bbox": [
+            120,
+            561,
+            225,
+            582
+          ],
+          "words": [
+            {
+              "text": "18.0%",
+              "bbox": [
+                126,
+                566,
+                152,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "17.0%",
+          "bbox": [
+            225,
+            561,
+            330,
+            582
+          ],
+          "words": [
+            {
+              "text": "17.0%",
+              "bbox": [
+                299,
+                566,
+                325,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            330,
+            561,
+            580,
+            582
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                336,
+                566,
+                356,
+                577
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        598,
+        580,
+        751
+      ],
+      "content": "OrderID 12346 for Clothing, using Express fulfillment, had a Cost per Order of £12.00, shipped on 2024-01-12, with Shipping Cost £5.00, Handling Fee £2.00, resulting in a Total Cost of £19.00 and a Delivery Time of 1 day. OrderID 12347 in the HomeGoods category, under Standard fulfillment, had a Cost per Order of £7.50, pending on 2024-01-15, with Shipping Cost £3.50, Handling Fee £1.50, totaling £12.50 and a Delivery Time of 5 days. The Live Commerce Metrics table shows Total Revenue of £50M, a Conversion Rate of 12.5%, YoY Change of 15.0%, Market Share of 25.0%, and Average Order Value of £24.5. The subsequent rows indicate Total Revenue of £45M with a Conversion Rate of 10.0%, YoY Change of 14.5%, Market Share of 24.5%, and Average Order Value of £24.5; £60M in Total Revenue with a Conversion Rate of 15.0%, YoY Change of 16.0%, Market Share of 26.0%, and Average Order Value of £26.0; £55M with a Conversion Rate of 13.0%, YoY Change of 15.5%, Market Share of 25.5%, and Average Order Value of £25.5; and finally, £70M, with a Conversion Rate of 18.0%, YoY Change of 17.0%, Market Share of 17.0%, and Total Average Order Value.",
+      "lines": [
+        {
+          "text": "OrderID 12346 for Clothing, using Express fulfillment, had a Cost per Order of £12.00, shipped on 2024-01-12, with Shipping",
+          "bbox": [
+            15,
+            599,
+            580,
+            611
+          ],
+          "words": [
+            {
+              "text": "OrderID",
+              "bbox": [
+                15,
+                599,
+                52,
+                611
+              ]
+            },
+            {
+              "text": "12346",
+              "bbox": [
+                55,
+                599,
+                83,
+                611
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                86,
+                599,
+                99,
+                611
+              ]
+            },
+            {
+              "text": "Clothing,",
+              "bbox": [
+                102,
+                599,
+                143,
+                611
+              ]
+            },
+            {
+              "text": "using",
+              "bbox": [
+                146,
+                599,
+                170,
+                611
+              ]
+            },
+            {
+              "text": "Express",
+              "bbox": [
+                173,
+                599,
+                208,
+                611
+              ]
+            },
+            {
+              "text": "fulfillment,",
+              "bbox": [
+                211,
+                599,
+                261,
+                611
+              ]
+            },
+            {
+              "text": "had",
+              "bbox": [
+                264,
+                599,
+                280,
+                611
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                283,
+                599,
+                288,
+                611
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                291,
+                599,
+                311,
+                611
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                315,
+                599,
+                329,
+                611
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                332,
+                599,
+                357,
+                611
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                360,
+                599,
+                370,
+                611
+              ]
+            },
+            {
+              "text": "£12.00,",
+              "bbox": [
+                373,
+                599,
+                406,
+                611
+              ]
+            },
+            {
+              "text": "shipped",
+              "bbox": [
+                409,
+                599,
+                443,
+                611
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                446,
+                599,
+                457,
+                611
+              ]
+            },
+            {
+              "text": "2024-01-12,",
+              "bbox": [
+                460,
+                599,
+                514,
+                611
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                518,
+                599,
+                537,
+                611
+              ]
+            },
+            {
+              "text": "Shipping",
+              "bbox": [
+                540,
+                599,
+                580,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Cost £5.00, Handling Fee £2.00, resulting in a Total Cost of £19.00 and a Delivery Time of 1 day. OrderID 12347 in the",
+          "bbox": [
+            15,
+            614,
+            580,
+            626
+          ],
+          "words": [
+            {
+              "text": "Cost",
+              "bbox": [
+                15,
+                614,
+                35,
+                626
+              ]
+            },
+            {
+              "text": "£5.00,",
+              "bbox": [
+                40,
+                614,
+                67,
+                626
+              ]
+            },
+            {
+              "text": "Handling",
+              "bbox": [
+                72,
+                614,
+                113,
+                626
+              ]
+            },
+            {
+              "text": "Fee",
+              "bbox": [
+                117,
+                614,
+                133,
+                626
+              ]
+            },
+            {
+              "text": "£2.00,",
+              "bbox": [
+                137,
+                614,
+                165,
+                626
+              ]
+            },
+            {
+              "text": "resulting",
+              "bbox": [
+                169,
+                614,
+                208,
+                626
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                212,
+                614,
+                221,
+                626
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                225,
+                614,
+                230,
+                626
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                234,
+                614,
+                257,
+                626
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                261,
+                614,
+                281,
+                626
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                286,
+                614,
+                295,
+                626
+              ]
+            },
+            {
+              "text": "£19.00",
+              "bbox": [
+                300,
+                614,
+                330,
+                626
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                334,
+                614,
+                350,
+                626
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                355,
+                614,
+                359,
+                626
+              ]
+            },
+            {
+              "text": "Delivery",
+              "bbox": [
+                364,
+                614,
+                402,
+                626
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                407,
+                614,
+                429,
+                626
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                434,
+                614,
+                443,
+                626
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                448,
+                614,
+                453,
+                626
+              ]
+            },
+            {
+              "text": "day.",
+              "bbox": [
+                457,
+                614,
+                475,
+                626
+              ]
+            },
+            {
+              "text": "OrderID",
+              "bbox": [
+                480,
+                614,
+                517,
+                626
+              ]
+            },
+            {
+              "text": "12347",
+              "bbox": [
+                522,
+                614,
+                549,
+                626
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                554,
+                614,
+                562,
+                626
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                614,
+                580,
+                626
+              ]
+            }
+          ]
+        },
+        {
+          "text": "HomeGoods category, under Standard fulfillment, had a Cost per Order of £7.50, pending on 2024-01-15, with Shipping Cost",
+          "bbox": [
+            15,
+            629,
+            580,
+            641
+          ],
+          "words": [
+            {
+              "text": "HomeGoods",
+              "bbox": [
+                15,
+                629,
+                71,
+                641
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                74,
+                629,
+                114,
+                641
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                117,
+                629,
+                142,
+                641
+              ]
+            },
+            {
+              "text": "Standard",
+              "bbox": [
+                146,
+                629,
+                185,
+                641
+              ]
+            },
+            {
+              "text": "fulfillment,",
+              "bbox": [
+                188,
+                629,
+                238,
+                641
+              ]
+            },
+            {
+              "text": "had",
+              "bbox": [
+                242,
+                629,
+                257,
+                641
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                261,
+                629,
+                266,
+                641
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                269,
+                629,
+                289,
+                641
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                293,
+                629,
+                307,
+                641
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                310,
+                629,
+                336,
+                641
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                339,
+                629,
+                349,
+                641
+              ]
+            },
+            {
+              "text": "£7.50,",
+              "bbox": [
+                352,
+                629,
+                379,
+                641
+              ]
+            },
+            {
+              "text": "pending",
+              "bbox": [
+                383,
+                629,
+                418,
+                641
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                422,
+                629,
+                433,
+                641
+              ]
+            },
+            {
+              "text": "2024-01-15,",
+              "bbox": [
+                436,
+                629,
+                490,
+                641
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                494,
+                629,
+                513,
+                641
+              ]
+            },
+            {
+              "text": "Shipping",
+              "bbox": [
+                517,
+                629,
+                556,
+                641
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                560,
+                629,
+                580,
+                641
+              ]
+            }
+          ]
+        },
+        {
+          "text": "£3.50, Handling Fee £1.50, totaling £12.50 and a Delivery Time of 5 days. The Live Commerce Metrics table shows Total",
+          "bbox": [
+            15,
+            645,
+            580,
+            657
+          ],
+          "words": [
+            {
+              "text": "£3.50,",
+              "bbox": [
+                15,
+                645,
+                43,
+                657
+              ]
+            },
+            {
+              "text": "Handling",
+              "bbox": [
+                47,
+                645,
+                88,
+                657
+              ]
+            },
+            {
+              "text": "Fee",
+              "bbox": [
+                92,
+                645,
+                108,
+                657
+              ]
+            },
+            {
+              "text": "£1.50,",
+              "bbox": [
+                112,
+                645,
+                139,
+                657
+              ]
+            },
+            {
+              "text": "totaling",
+              "bbox": [
+                144,
+                645,
+                177,
+                657
+              ]
+            },
+            {
+              "text": "£12.50",
+              "bbox": [
+                181,
+                645,
+                212,
+                657
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                216,
+                645,
+                232,
+                657
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                236,
+                645,
+                241,
+                657
+              ]
+            },
+            {
+              "text": "Delivery",
+              "bbox": [
+                245,
+                645,
+                284,
+                657
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                288,
+                645,
+                310,
+                657
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                315,
+                645,
+                324,
+                657
+              ]
+            },
+            {
+              "text": "5",
+              "bbox": [
+                328,
+                645,
+                333,
+                657
+              ]
+            },
+            {
+              "text": "days.",
+              "bbox": [
+                338,
+                645,
+                361,
+                657
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                365,
+                645,
+                382,
+                657
+              ]
+            },
+            {
+              "text": "Live",
+              "bbox": [
+                386,
+                645,
+                406,
+                657
+              ]
+            },
+            {
+              "text": "Commerce",
+              "bbox": [
+                410,
+                645,
+                458,
+                657
+              ]
+            },
+            {
+              "text": "Metrics",
+              "bbox": [
+                463,
+                645,
+                496,
+                657
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                500,
+                645,
+                522,
+                657
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                526,
+                645,
+                554,
+                657
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                558,
+                645,
+                580,
+                657
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Revenue of £50M, a Conversion Rate of 12.5%, YoY Change of 15.0%, Market Share of 25.0%, and Average Order Value of",
+          "bbox": [
+            15,
+            660,
+            580,
+            672
+          ],
+          "words": [
+            {
+              "text": "Revenue",
+              "bbox": [
+                15,
+                660,
+                53,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                57,
+                660,
+                66,
+                672
+              ]
+            },
+            {
+              "text": "£50M,",
+              "bbox": [
+                70,
+                660,
+                99,
+                672
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                102,
+                660,
+                107,
+                672
+              ]
+            },
+            {
+              "text": "Conversion",
+              "bbox": [
+                111,
+                660,
+                161,
+                672
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                165,
+                660,
+                185,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                189,
+                660,
+                198,
+                672
+              ]
+            },
+            {
+              "text": "12.5%,",
+              "bbox": [
+                201,
+                660,
+                232,
+                672
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                235,
+                660,
+                255,
+                672
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                259,
+                660,
+                292,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                296,
+                660,
+                305,
+                672
+              ]
+            },
+            {
+              "text": "15.0%,",
+              "bbox": [
+                309,
+                660,
+                340,
+                672
+              ]
+            },
+            {
+              "text": "Market",
+              "bbox": [
+                343,
+                660,
+                375,
+                672
+              ]
+            },
+            {
+              "text": "Share",
+              "bbox": [
+                379,
+                660,
+                404,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                407,
+                660,
+                416,
+                672
+              ]
+            },
+            {
+              "text": "25.0%,",
+              "bbox": [
+                420,
+                660,
+                451,
+                672
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                455,
+                660,
+                470,
+                672
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                473,
+                660,
+                510,
+                672
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                513,
+                660,
+                539,
+                672
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                542,
+                660,
+                567,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                660,
+                580,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "text": "£24.5. The subsequent rows indicate Total Revenue of £45M with a Conversion Rate of 10.0%, YoY Change of 14.5%, Market",
+          "bbox": [
+            15,
+            676,
+            580,
+            688
+          ],
+          "words": [
+            {
+              "text": "£24.5.",
+              "bbox": [
+                15,
+                676,
+                43,
+                688
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                45,
+                676,
+                62,
+                688
+              ]
+            },
+            {
+              "text": "subsequent",
+              "bbox": [
+                66,
+                676,
+                114,
+                688
+              ]
+            },
+            {
+              "text": "rows",
+              "bbox": [
+                118,
+                676,
+                139,
+                688
+              ]
+            },
+            {
+              "text": "indicate",
+              "bbox": [
+                142,
+                676,
+                177,
+                688
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                180,
+                676,
+                202,
+                688
+              ]
+            },
+            {
+              "text": "Revenue",
+              "bbox": [
+                205,
+                676,
+                244,
+                688
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                247,
+                676,
+                256,
+                688
+              ]
+            },
+            {
+              "text": "£45M",
+              "bbox": [
+                259,
+                676,
+                285,
+                688
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                288,
+                676,
+                308,
+                688
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                311,
+                676,
+                316,
+                688
+              ]
+            },
+            {
+              "text": "Conversion",
+              "bbox": [
+                319,
+                676,
+                370,
+                688
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                373,
+                676,
+                393,
+                688
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                396,
+                676,
+                405,
+                688
+              ]
+            },
+            {
+              "text": "10.0%,",
+              "bbox": [
+                408,
+                676,
+                439,
+                688
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                442,
+                676,
+                462,
+                688
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                465,
+                676,
+                499,
+                688
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                502,
+                676,
+                511,
+                688
+              ]
+            },
+            {
+              "text": "14.5%,",
+              "bbox": [
+                514,
+                676,
+                545,
+                688
+              ]
+            },
+            {
+              "text": "Market",
+              "bbox": [
+                548,
+                676,
+                580,
+                688
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Share of 24.5%, and Average Order Value of £24.5; £60M in Total Revenue with a Conversion Rate of 15.0%, YoY Change of",
+          "bbox": [
+            15,
+            691,
+            580,
+            703
+          ],
+          "words": [
+            {
+              "text": "Share",
+              "bbox": [
+                15,
+                691,
+                40,
+                703
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                43,
+                691,
+                52,
+                703
+              ]
+            },
+            {
+              "text": "24.5%,",
+              "bbox": [
+                56,
+                691,
+                87,
+                703
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                90,
+                691,
+                106,
+                703
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                108,
+                691,
+                145,
+                703
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                148,
+                691,
+                174,
+                703
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                177,
+                691,
+                202,
+                703
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                205,
+                691,
+                214,
+                703
+              ]
+            },
+            {
+              "text": "£24.5;",
+              "bbox": [
+                217,
+                691,
+                245,
+                703
+              ]
+            },
+            {
+              "text": "£60M",
+              "bbox": [
+                248,
+                691,
+                275,
+                703
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                278,
+                691,
+                286,
+                703
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                289,
+                691,
+                312,
+                703
+              ]
+            },
+            {
+              "text": "Revenue",
+              "bbox": [
+                315,
+                691,
+                353,
+                703
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                357,
+                691,
+                376,
+                703
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                379,
+                691,
+                384,
+                703
+              ]
+            },
+            {
+              "text": "Conversion",
+              "bbox": [
+                387,
+                691,
+                438,
+                703
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                441,
+                691,
+                461,
+                703
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                465,
+                691,
+                474,
+                703
+              ]
+            },
+            {
+              "text": "15.0%,",
+              "bbox": [
+                477,
+                691,
+                508,
+                703
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                511,
+                691,
+                531,
+                703
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                534,
+                691,
+                568,
+                703
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                691,
+                580,
+                703
+              ]
+            }
+          ]
+        },
+        {
+          "text": "16.0%, Market Share of 26.0%, and Average Order Value of £26.0; £55M with a Conversion Rate of 13.0%, YoY Change of",
+          "bbox": [
+            15,
+            706,
+            580,
+            718
+          ],
+          "words": [
+            {
+              "text": "16.0%,",
+              "bbox": [
+                15,
+                706,
+                46,
+                718
+              ]
+            },
+            {
+              "text": "Market",
+              "bbox": [
+                50,
+                706,
+                82,
+                718
+              ]
+            },
+            {
+              "text": "Share",
+              "bbox": [
+                85,
+                706,
+                110,
+                718
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                114,
+                706,
+                123,
+                718
+              ]
+            },
+            {
+              "text": "26.0%,",
+              "bbox": [
+                127,
+                706,
+                158,
+                718
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                162,
+                706,
+                178,
+                718
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                181,
+                706,
+                217,
+                718
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                221,
+                706,
+                246,
+                718
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                250,
+                706,
+                275,
+                718
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                279,
+                706,
+                288,
+                718
+              ]
+            },
+            {
+              "text": "£26.0;",
+              "bbox": [
+                291,
+                706,
+                319,
+                718
+              ]
+            },
+            {
+              "text": "£55M",
+              "bbox": [
+                323,
+                706,
+                349,
+                718
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                353,
+                706,
+                372,
+                718
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                376,
+                706,
+                381,
+                718
+              ]
+            },
+            {
+              "text": "Conversion",
+              "bbox": [
+                385,
+                706,
+                435,
+                718
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                439,
+                706,
+                459,
+                718
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                463,
+                706,
+                472,
+                718
+              ]
+            },
+            {
+              "text": "13.0%,",
+              "bbox": [
+                476,
+                706,
+                507,
+                718
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                510,
+                706,
+                530,
+                718
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                534,
+                706,
+                567,
+                718
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                706,
+                580,
+                718
+              ]
+            }
+          ]
+        },
+        {
+          "text": "15.5%, Market Share of 25.5%, and Average Order Value of £25.5; and finally, £70M, with a Conversion Rate of 18.0%, YoY",
+          "bbox": [
+            15,
+            722,
+            580,
+            734
+          ],
+          "words": [
+            {
+              "text": "15.5%,",
+              "bbox": [
+                15,
+                722,
+                46,
+                734
+              ]
+            },
+            {
+              "text": "Market",
+              "bbox": [
+                49,
+                722,
+                81,
+                734
+              ]
+            },
+            {
+              "text": "Share",
+              "bbox": [
+                85,
+                722,
+                110,
+                734
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                113,
+                722,
+                122,
+                734
+              ]
+            },
+            {
+              "text": "25.5%,",
+              "bbox": [
+                125,
+                722,
+                157,
+                734
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                160,
+                722,
+                176,
+                734
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                178,
+                722,
+                215,
+                734
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                218,
+                722,
+                244,
+                734
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                247,
+                722,
+                272,
+                734
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                275,
+                722,
+                285,
+                734
+              ]
+            },
+            {
+              "text": "£25.5;",
+              "bbox": [
+                288,
+                722,
+                316,
+                734
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                319,
+                722,
+                335,
+                734
+              ]
+            },
+            {
+              "text": "finally,",
+              "bbox": [
+                338,
+                722,
+                369,
+                734
+              ]
+            },
+            {
+              "text": "£70M,",
+              "bbox": [
+                372,
+                722,
+                401,
+                734
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                405,
+                722,
+                424,
+                734
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                427,
+                722,
+                432,
+                734
+              ]
+            },
+            {
+              "text": "Conversion",
+              "bbox": [
+                436,
+                722,
+                486,
+                734
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                490,
+                722,
+                510,
+                734
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                513,
+                722,
+                522,
+                734
+              ]
+            },
+            {
+              "text": "18.0%,",
+              "bbox": [
+                526,
+                722,
+                557,
+                734
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                560,
+                722,
+                580,
+                734
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Change of 17.0%, Market Share of 17.0%, and Total Average Order Value.",
+          "bbox": [
+            15,
+            737,
+            344,
+            749
+          ],
+          "words": [
+            {
+              "text": "Change",
+              "bbox": [
+                15,
+                737,
+                49,
+                749
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                51,
+                737,
+                61,
+                749
+              ]
+            },
+            {
+              "text": "17.0%,",
+              "bbox": [
+                63,
+                737,
+                94,
+                749
+              ]
+            },
+            {
+              "text": "Market",
+              "bbox": [
+                97,
+                737,
+                129,
+                749
+              ]
+            },
+            {
+              "text": "Share",
+              "bbox": [
+                132,
+                737,
+                157,
+                749
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                159,
+                737,
+                169,
+                749
+              ]
+            },
+            {
+              "text": "17.0%,",
+              "bbox": [
+                171,
+                737,
+                203,
+                749
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                205,
+                737,
+                221,
+                749
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                224,
+                737,
+                246,
+                749
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                248,
+                737,
+                285,
+                749
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                288,
+                737,
+                313,
+                749
+              ]
+            },
+            {
+              "text": "Value.",
+              "bbox": [
+                316,
+                737,
+                344,
+                749
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

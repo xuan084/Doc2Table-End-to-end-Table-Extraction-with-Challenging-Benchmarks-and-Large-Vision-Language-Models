@@ -1,0 +1,3920 @@
+{
+  "image_id": "img_197004",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_197004_t0",
+      "bbox": [
+        15,
+        84,
+        580,
+        207
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 5,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            85,
+            580,
+            105
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            105,
+            580,
+            125
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            125,
+            580,
+            145
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            145,
+            580,
+            165
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            165,
+            580,
+            186
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            186,
+            580,
+            207
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Season</td><td>UnitsSold</td></tr><tr><td colspan=\"3\">ProductCategories</td><td>SalesGrowth(%)</td></tr><tr><td>Electronics</td><td colspan=\"2\">TotalRevenue</td><td>Headcount</td><td>NumberofStores</td></tr><tr><td colspan=\"2\">Winter</td><td>50000</td><td>20MINR</td><td colspan=\"2\">250</td><td>1500</td></tr><tr><td>Summer</td><td>60000</td><td>25MINR</td><td>300</td><td>1600</td><td>Fall</td><td>45000</td></tr><tr><td>15MINR</td><td>200</td><td>1400</td><td>Spring</td><td>55000</td><td>22MINR</td><td>280</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Season",
+          "bbox": [
+            15,
+            85,
+            101,
+            105
+          ],
+          "words": [
+            {
+              "text": "Season",
+              "bbox": [
+                20,
+                89,
+                49,
+                100
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "UnitsSold",
+          "bbox": [
+            101,
+            85,
+            187,
+            105
+          ],
+          "words": [
+            {
+              "text": "UnitsSold",
+              "bbox": [
+                106,
+                89,
+                148,
+                100
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ProductCategories",
+          "bbox": [
+            15,
+            105,
+            273,
+            125
+          ],
+          "words": [
+            {
+              "text": "ProductCategories",
+              "bbox": [
+                20,
+                109,
+                100,
+                120
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "SalesGrowth(%)",
+          "bbox": [
+            273,
+            105,
+            359,
+            125
+          ],
+          "words": [
+            {
+              "text": "SalesGrowth(%)",
+              "bbox": [
+                278,
+                109,
+                349,
+                120
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Electronics",
+          "bbox": [
+            15,
+            125,
+            101,
+            145
+          ],
+          "words": [
+            {
+              "text": "Electronics",
+              "bbox": [
+                20,
+                129,
+                68,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            101,
+            125,
+            273,
+            145
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                106,
+                129,
+                164,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Headcount",
+          "bbox": [
+            273,
+            125,
+            359,
+            145
+          ],
+          "words": [
+            {
+              "text": "Headcount",
+              "bbox": [
+                278,
+                129,
+                324,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "NumberofStores",
+          "bbox": [
+            359,
+            125,
+            444,
+            145
+          ],
+          "words": [
+            {
+              "text": "NumberofStores",
+              "bbox": [
+                364,
+                129,
+                434,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Winter",
+          "bbox": [
+            15,
+            145,
+            187,
+            165
+          ],
+          "words": [
+            {
+              "text": "Winter",
+              "bbox": [
+                20,
+                149,
+                50,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "50000",
+          "bbox": [
+            187,
+            145,
+            273,
+            165
+          ],
+          "words": [
+            {
+              "text": "50000",
+              "bbox": [
+                192,
+                149,
+                217,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "20MINR",
+          "bbox": [
+            273,
+            145,
+            359,
+            165
+          ],
+          "words": [
+            {
+              "text": "20MINR",
+              "bbox": [
+                278,
+                149,
+                315,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "250",
+          "bbox": [
+            359,
+            145,
+            530,
+            165
+          ],
+          "words": [
+            {
+              "text": "250",
+              "bbox": [
+                364,
+                149,
+                379,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "1500",
+          "bbox": [
+            530,
+            145,
+            580,
+            165
+          ],
+          "words": [
+            {
+              "text": "1500",
+              "bbox": [
+                555,
+                149,
+                575,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Summer",
+          "bbox": [
+            15,
+            165,
+            101,
+            186
+          ],
+          "words": [
+            {
+              "text": "Summer",
+              "bbox": [
+                20,
+                169,
+                57,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "60000",
+          "bbox": [
+            101,
+            165,
+            187,
+            186
+          ],
+          "words": [
+            {
+              "text": "60000",
+              "bbox": [
+                106,
+                169,
+                131,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "25MINR",
+          "bbox": [
+            187,
+            165,
+            273,
+            186
+          ],
+          "words": [
+            {
+              "text": "25MINR",
+              "bbox": [
+                192,
+                169,
+                230,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "300",
+          "bbox": [
+            273,
+            165,
+            359,
+            186
+          ],
+          "words": [
+            {
+              "text": "300",
+              "bbox": [
+                278,
+                169,
+                293,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "1600",
+          "bbox": [
+            359,
+            165,
+            444,
+            186
+          ],
+          "words": [
+            {
+              "text": "1600",
+              "bbox": [
+                364,
+                169,
+                384,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Fall",
+          "bbox": [
+            444,
+            165,
+            530,
+            186
+          ],
+          "words": [
+            {
+              "text": "Fall",
+              "bbox": [
+                449,
+                169,
+                466,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "45000",
+          "bbox": [
+            530,
+            165,
+            580,
+            186
+          ],
+          "words": [
+            {
+              "text": "45000",
+              "bbox": [
+                550,
+                169,
+                575,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "15MINR",
+          "bbox": [
+            15,
+            186,
+            101,
+            207
+          ],
+          "words": [
+            {
+              "text": "15MINR",
+              "bbox": [
+                20,
+                190,
+                56,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "200",
+          "bbox": [
+            101,
+            186,
+            187,
+            207
+          ],
+          "words": [
+            {
+              "text": "200",
+              "bbox": [
+                106,
+                190,
+                121,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1400",
+          "bbox": [
+            187,
+            186,
+            273,
+            207
+          ],
+          "words": [
+            {
+              "text": "1400",
+              "bbox": [
+                192,
+                190,
+                212,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Spring",
+          "bbox": [
+            273,
+            186,
+            359,
+            207
+          ],
+          "words": [
+            {
+              "text": "Spring",
+              "bbox": [
+                278,
+                190,
+                304,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "55000",
+          "bbox": [
+            359,
+            186,
+            444,
+            207
+          ],
+          "words": [
+            {
+              "text": "55000",
+              "bbox": [
+                364,
+                190,
+                389,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "22MINR",
+          "bbox": [
+            444,
+            186,
+            530,
+            207
+          ],
+          "words": [
+            {
+              "text": "22MINR",
+              "bbox": [
+                449,
+                190,
+                486,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "280",
+          "bbox": [
+            530,
+            186,
+            580,
+            207
+          ],
+          "words": [
+            {
+              "text": "280",
+              "bbox": [
+                560,
+                190,
+                575,
+                201
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        222,
+        580,
+        268
+      ],
+      "content": "In the Asia-Pacific retail landscape, understanding seasonal demand patterns and inventory turnover is crucial for optimizing supply chain management and enhancing profitability. The accompanying data table illustrates key metrics for Costco Wholesale, highlighting fluctuations in demand across various product categories during peak seasons.",
+      "lines": [
+        {
+          "text": "In the Asia-Pacific retail landscape, understanding seasonal demand patterns and inventory turnover is crucial for optimizing",
+          "bbox": [
+            15,
+            223,
+            580,
+            235
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                223,
+                24,
+                235
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                223,
+                41,
+                235
+              ]
+            },
+            {
+              "text": "Asia-Pacific",
+              "bbox": [
+                45,
+                223,
+                99,
+                235
+              ]
+            },
+            {
+              "text": "retail",
+              "bbox": [
+                103,
+                223,
+                126,
+                235
+              ]
+            },
+            {
+              "text": "landscape,",
+              "bbox": [
+                129,
+                223,
+                175,
+                235
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                179,
+                223,
+                242,
+                235
+              ]
+            },
+            {
+              "text": "seasonal",
+              "bbox": [
+                245,
+                223,
+                283,
+                235
+              ]
+            },
+            {
+              "text": "demand",
+              "bbox": [
+                287,
+                223,
+                321,
+                235
+              ]
+            },
+            {
+              "text": "patterns",
+              "bbox": [
+                325,
+                223,
+                360,
+                235
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                364,
+                223,
+                380,
+                235
+              ]
+            },
+            {
+              "text": "inventory",
+              "bbox": [
+                384,
+                223,
+                426,
+                235
+              ]
+            },
+            {
+              "text": "turnover",
+              "bbox": [
+                430,
+                223,
+                467,
+                235
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                471,
+                223,
+                478,
+                235
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                482,
+                223,
+                512,
+                235
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                516,
+                223,
+                529,
+                235
+              ]
+            },
+            {
+              "text": "optimizing",
+              "bbox": [
+                532,
+                223,
+                580,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "text": "supply chain management and enhancing profitability. The accompanying data table illustrates key metrics for Costco",
+          "bbox": [
+            15,
+            238,
+            580,
+            250
+          ],
+          "words": [
+            {
+              "text": "supply",
+              "bbox": [
+                15,
+                238,
+                44,
+                250
+              ]
+            },
+            {
+              "text": "chain",
+              "bbox": [
+                50,
+                238,
+                74,
+                250
+              ]
+            },
+            {
+              "text": "management",
+              "bbox": [
+                80,
+                238,
+                136,
+                250
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                143,
+                238,
+                158,
+                250
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                164,
+                238,
+                210,
+                250
+              ]
+            },
+            {
+              "text": "profitability.",
+              "bbox": [
+                216,
+                238,
+                270,
+                250
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                276,
+                238,
+                293,
+                250
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                299,
+                238,
+                363,
+                250
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                370,
+                238,
+                388,
+                250
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                394,
+                238,
+                415,
+                250
+              ]
+            },
+            {
+              "text": "illustrates",
+              "bbox": [
+                421,
+                238,
+                464,
+                250
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                470,
+                238,
+                486,
+                250
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                492,
+                238,
+                525,
+                250
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                531,
+                238,
+                543,
+                250
+              ]
+            },
+            {
+              "text": "Costco",
+              "bbox": [
+                549,
+                238,
+                580,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Wholesale, highlighting fluctuations in demand across various product categories during peak seasons.",
+          "bbox": [
+            15,
+            254,
+            467,
+            266
+          ],
+          "words": [
+            {
+              "text": "Wholesale,",
+              "bbox": [
+                15,
+                254,
+                64,
+                266
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                67,
+                254,
+                121,
+                266
+              ]
+            },
+            {
+              "text": "fluctuations",
+              "bbox": [
+                123,
+                254,
+                175,
+                266
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                178,
+                254,
+                187,
+                266
+              ]
+            },
+            {
+              "text": "demand",
+              "bbox": [
+                189,
+                254,
+                224,
+                266
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                227,
+                254,
+                255,
+                266
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                257,
+                254,
+                290,
+                266
+              ]
+            },
+            {
+              "text": "product",
+              "bbox": [
+                292,
+                254,
+                326,
+                266
+              ]
+            },
+            {
+              "text": "categories",
+              "bbox": [
+                329,
+                254,
+                373,
+                266
+              ]
+            },
+            {
+              "text": "during",
+              "bbox": [
+                376,
+                254,
+                405,
+                266
+              ]
+            },
+            {
+              "text": "peak",
+              "bbox": [
+                408,
+                254,
+                428,
+                266
+              ]
+            },
+            {
+              "text": "seasons.",
+              "bbox": [
+                431,
+                254,
+                467,
+                266
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_197004_t1",
+      "bbox": [
+        15,
+        295,
+        580,
+        418
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            296,
+            580,
+            316
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            316,
+            580,
+            337
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            337,
+            580,
+            357
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            357,
+            580,
+            377
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            377,
+            580,
+            397
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            397,
+            580,
+            418
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Category</td><td>Amount(INR)</td><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td>Electronics</td><td>1500M</td><td>5.0</td><td>25.0</td></tr><tr><td>Clothing</td><td>800M</td><td>3.5</td><td>15.0</td></tr><tr><td>Groceries</td><td>2500M</td><td>7.0</td><td>40.0</td></tr><tr><td>HomeGoods</td><td>1200M</td><td>4.5</td><td>20.0</td></tr><tr><td>BeautyProducts</td><td>600M</td><td>2.0</td><td>10.0</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Category",
+          "bbox": [
+            15,
+            296,
+            101,
+            316
+          ],
+          "words": [
+            {
+              "text": "Category",
+              "bbox": [
+                20,
+                300,
+                59,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Amount(INR)",
+          "bbox": [
+            101,
+            296,
+            187,
+            316
+          ],
+          "words": [
+            {
+              "text": "Amount(INR)",
+              "bbox": [
+                106,
+                300,
+                166,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            187,
+            296,
+            273,
+            316
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                200,
+                300,
+                268,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            273,
+            296,
+            580,
+            316
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                278,
+                300,
+                351,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Electronics",
+          "bbox": [
+            15,
+            316,
+            101,
+            337
+          ],
+          "words": [
+            {
+              "text": "Electronics",
+              "bbox": [
+                20,
+                320,
+                68,
+                331
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "1500M",
+          "bbox": [
+            101,
+            316,
+            187,
+            337
+          ],
+          "words": [
+            {
+              "text": "1500M",
+              "bbox": [
+                106,
+                320,
+                135,
+                331
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "5.0",
+          "bbox": [
+            187,
+            316,
+            273,
+            337
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                255,
+                320,
+                268,
+                331
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "25.0",
+          "bbox": [
+            273,
+            316,
+            580,
+            337
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                278,
+                320,
+                295,
+                331
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Clothing",
+          "bbox": [
+            15,
+            337,
+            101,
+            357
+          ],
+          "words": [
+            {
+              "text": "Clothing",
+              "bbox": [
+                20,
+                341,
+                55,
+                352
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "800M",
+          "bbox": [
+            101,
+            337,
+            187,
+            357
+          ],
+          "words": [
+            {
+              "text": "800M",
+              "bbox": [
+                106,
+                341,
+                130,
+                352
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "3.5",
+          "bbox": [
+            187,
+            337,
+            273,
+            357
+          ],
+          "words": [
+            {
+              "text": "3.5",
+              "bbox": [
+                255,
+                341,
+                268,
+                352
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            273,
+            337,
+            580,
+            357
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                278,
+                341,
+                295,
+                352
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Groceries",
+          "bbox": [
+            15,
+            357,
+            101,
+            377
+          ],
+          "words": [
+            {
+              "text": "Groceries",
+              "bbox": [
+                20,
+                361,
+                59,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2500M",
+          "bbox": [
+            101,
+            357,
+            187,
+            377
+          ],
+          "words": [
+            {
+              "text": "2500M",
+              "bbox": [
+                106,
+                361,
+                135,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "7.0",
+          "bbox": [
+            187,
+            357,
+            273,
+            377
+          ],
+          "words": [
+            {
+              "text": "7.0",
+              "bbox": [
+                255,
+                361,
+                268,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "40.0",
+          "bbox": [
+            273,
+            357,
+            580,
+            377
+          ],
+          "words": [
+            {
+              "text": "40.0",
+              "bbox": [
+                278,
+                361,
+                295,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HomeGoods",
+          "bbox": [
+            15,
+            377,
+            101,
+            397
+          ],
+          "words": [
+            {
+              "text": "HomeGoods",
+              "bbox": [
+                20,
+                381,
+                71,
+                392
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1200M",
+          "bbox": [
+            101,
+            377,
+            187,
+            397
+          ],
+          "words": [
+            {
+              "text": "1200M",
+              "bbox": [
+                106,
+                381,
+                135,
+                392
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4.5",
+          "bbox": [
+            187,
+            377,
+            273,
+            397
+          ],
+          "words": [
+            {
+              "text": "4.5",
+              "bbox": [
+                255,
+                381,
+                268,
+                392
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            273,
+            377,
+            580,
+            397
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                278,
+                381,
+                295,
+                392
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "BeautyProducts",
+          "bbox": [
+            15,
+            397,
+            101,
+            418
+          ],
+          "words": [
+            {
+              "text": "BeautyProducts",
+              "bbox": [
+                20,
+                401,
+                83,
+                412
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "600M",
+          "bbox": [
+            101,
+            397,
+            187,
+            418
+          ],
+          "words": [
+            {
+              "text": "600M",
+              "bbox": [
+                106,
+                401,
+                130,
+                412
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            187,
+            397,
+            273,
+            418
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                255,
+                401,
+                268,
+                412
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            273,
+            397,
+            580,
+            418
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                278,
+                401,
+                295,
+                412
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        433,
+        580,
+        495
+      ],
+      "content": "Notably, the Summer column indicates a significant inventory turnover rate, with a recorded figure of 60,000 units, suggesting robust consumer engagement and the effectiveness of promotional strategies during this period. Conversely, the Fall season reveals a decrease in demand, with only 45,000 units sold, which underscores the necessity for adaptive inventory strategies to mitigate potential overstock risks.",
+      "lines": [
+        {
+          "text": "Notably, the Summer column indicates a significant inventory turnover rate, with a recorded figure of 60,000 units, suggesting",
+          "bbox": [
+            15,
+            434,
+            580,
+            446
+          ],
+          "words": [
+            {
+              "text": "Notably,",
+              "bbox": [
+                15,
+                434,
+                52,
+                446
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                56,
+                434,
+                69,
+                446
+              ]
+            },
+            {
+              "text": "Summer",
+              "bbox": [
+                72,
+                434,
+                110,
+                446
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                113,
+                434,
+                146,
+                446
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                149,
+                434,
+                188,
+                446
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                191,
+                434,
+                196,
+                446
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                200,
+                434,
+                246,
+                446
+              ]
+            },
+            {
+              "text": "inventory",
+              "bbox": [
+                249,
+                434,
+                291,
+                446
+              ]
+            },
+            {
+              "text": "turnover",
+              "bbox": [
+                295,
+                434,
+                332,
+                446
+              ]
+            },
+            {
+              "text": "rate,",
+              "bbox": [
+                335,
+                434,
+                354,
+                446
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                358,
+                434,
+                377,
+                446
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                380,
+                434,
+                385,
+                446
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                388,
+                434,
+                427,
+                446
+              ]
+            },
+            {
+              "text": "figure",
+              "bbox": [
+                430,
+                434,
+                456,
+                446
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                460,
+                434,
+                469,
+                446
+              ]
+            },
+            {
+              "text": "60,000",
+              "bbox": [
+                472,
+                434,
+                502,
+                446
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                506,
+                434,
+                530,
+                446
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                533,
+                434,
+                580,
+                446
+              ]
+            }
+          ]
+        },
+        {
+          "text": "robust consumer engagement and the effectiveness of promotional strategies during this period. Conversely, the Fall season",
+          "bbox": [
+            15,
+            450,
+            580,
+            462
+          ],
+          "words": [
+            {
+              "text": "robust",
+              "bbox": [
+                15,
+                450,
+                43,
+                462
+              ]
+            },
+            {
+              "text": "consumer",
+              "bbox": [
+                47,
+                450,
+                89,
+                462
+              ]
+            },
+            {
+              "text": "engagement",
+              "bbox": [
+                94,
+                450,
+                147,
+                462
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                151,
+                450,
+                167,
+                462
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                171,
+                450,
+                185,
+                462
+              ]
+            },
+            {
+              "text": "effectiveness",
+              "bbox": [
+                189,
+                450,
+                246,
+                462
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                250,
+                450,
+                259,
+                462
+              ]
+            },
+            {
+              "text": "promotional",
+              "bbox": [
+                264,
+                450,
+                317,
+                462
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                322,
+                450,
+                363,
+                462
+              ]
+            },
+            {
+              "text": "during",
+              "bbox": [
+                367,
+                450,
+                396,
+                462
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                400,
+                450,
+                416,
+                462
+              ]
+            },
+            {
+              "text": "period.",
+              "bbox": [
+                420,
+                450,
+                451,
+                462
+              ]
+            },
+            {
+              "text": "Conversely,",
+              "bbox": [
+                455,
+                450,
+                508,
+                462
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                512,
+                450,
+                525,
+                462
+              ]
+            },
+            {
+              "text": "Fall",
+              "bbox": [
+                529,
+                450,
+                546,
+                462
+              ]
+            },
+            {
+              "text": "season",
+              "bbox": [
+                551,
+                450,
+                580,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reveals a decrease in demand, with only 45,000 units sold, which underscores the necessity for adaptive inventory strategies to",
+          "bbox": [
+            15,
+            465,
+            580,
+            477
+          ],
+          "words": [
+            {
+              "text": "reveals",
+              "bbox": [
+                15,
+                465,
+                46,
+                477
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                49,
+                465,
+                54,
+                477
+              ]
+            },
+            {
+              "text": "decrease",
+              "bbox": [
+                57,
+                465,
+                95,
+                477
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                98,
+                465,
+                107,
+                477
+              ]
+            },
+            {
+              "text": "demand,",
+              "bbox": [
+                110,
+                465,
+                148,
+                477
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                151,
+                465,
+                171,
+                477
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                174,
+                465,
+                193,
+                477
+              ]
+            },
+            {
+              "text": "45,000",
+              "bbox": [
+                197,
+                465,
+                227,
+                477
+              ]
+            },
+            {
+              "text": "units",
+              "bbox": [
+                230,
+                465,
+                251,
+                477
+              ]
+            },
+            {
+              "text": "sold,",
+              "bbox": [
+                255,
+                465,
+                276,
+                477
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                279,
+                465,
+                306,
+                477
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                309,
+                465,
+                362,
+                477
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                365,
+                465,
+                378,
+                477
+              ]
+            },
+            {
+              "text": "necessity",
+              "bbox": [
+                381,
+                465,
+                422,
+                477
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                425,
+                465,
+                438,
+                477
+              ]
+            },
+            {
+              "text": "adaptive",
+              "bbox": [
+                441,
+                465,
+                478,
+                477
+              ]
+            },
+            {
+              "text": "inventory",
+              "bbox": [
+                481,
+                465,
+                524,
+                477
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                527,
+                465,
+                568,
+                477
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                571,
+                465,
+                580,
+                477
+              ]
+            }
+          ]
+        },
+        {
+          "text": "mitigate potential overstock risks.",
+          "bbox": [
+            15,
+            480,
+            164,
+            492
+          ],
+          "words": [
+            {
+              "text": "mitigate",
+              "bbox": [
+                15,
+                480,
+                51,
+                492
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                54,
+                480,
+                92,
+                492
+              ]
+            },
+            {
+              "text": "overstock",
+              "bbox": [
+                95,
+                480,
+                138,
+                492
+              ]
+            },
+            {
+              "text": "risks.",
+              "bbox": [
+                141,
+                480,
+                164,
+                492
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_197004_t2",
+      "bbox": [
+        15,
+        520,
+        580,
+        674
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 4,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            520,
+            580,
+            541
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            541,
+            580,
+            562
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            562,
+            580,
+            597
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            597,
+            580,
+            632
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            632,
+            580,
+            653
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            653,
+            580,
+            674
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Category</td><td>MarketShare(%)</td></tr><tr><td colspan=\"2\">PrivateLabelPerformance</td><td>GrowthRate(%)</td></tr><tr><td colspan=\"2\">Food&amp;Beverage</td><td colspan=\"2\">HouseholdProducts</td><td>Health&amp;Beauty</td></tr><tr><td>Revenue(INR)</td><td>NetIncome(INR)</td><td>CAPEX(INR)</td><td>PrivateLabel(%)</td><td>BrandLoyalty(%)</td></tr><tr><td>4500M</td><td>1000M</td><td>500M</td><td>45%</td><td>62%</td></tr><tr><td>3000M</td><td>700M</td><td>200M</td><td>30%</td><td>55%</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Category",
+          "bbox": [
+            16,
+            520,
+            144,
+            541
+          ],
+          "words": [
+            {
+              "text": "Category",
+              "bbox": [
+                21,
+                525,
+                60,
+                536
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            144,
+            520,
+            272,
+            541
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                149,
+                525,
+                223,
+                536
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "PrivateLabelPerformance",
+          "bbox": [
+            16,
+            541,
+            272,
+            562
+          ],
+          "words": [
+            {
+              "text": "PrivateLabelPerformance",
+              "bbox": [
+                21,
+                546,
+                132,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate(%)",
+          "bbox": [
+            272,
+            541,
+            400,
+            562
+          ],
+          "words": [
+            {
+              "text": "GrowthRate(%)",
+              "bbox": [
+                277,
+                546,
+                347,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Food&Beverage",
+          "bbox": [
+            16,
+            562,
+            272,
+            597
+          ],
+          "words": [
+            {
+              "text": "Food&Beverage",
+              "bbox": [
+                21,
+                567,
+                90,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "HouseholdProducts",
+          "bbox": [
+            272,
+            562,
+            528,
+            597
+          ],
+          "words": [
+            {
+              "text": "HouseholdProducts",
+              "bbox": [
+                277,
+                567,
+                361,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Health&Beauty",
+          "bbox": [
+            528,
+            562,
+            580,
+            597
+          ],
+          "words": [
+            {
+              "text": "Health&Beauty",
+              "bbox": [
+                537,
+                567,
+                574,
+                592
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(INR)",
+          "bbox": [
+            16,
+            597,
+            144,
+            632
+          ],
+          "words": [
+            {
+              "text": "Revenue(INR)",
+              "bbox": [
+                21,
+                602,
+                83,
+                613
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome(INR)",
+          "bbox": [
+            144,
+            597,
+            272,
+            632
+          ],
+          "words": [
+            {
+              "text": "NetIncome(INR)",
+              "bbox": [
+                149,
+                602,
+                221,
+                613
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "CAPEX(INR)",
+          "bbox": [
+            272,
+            597,
+            400,
+            632
+          ],
+          "words": [
+            {
+              "text": "CAPEX(INR)",
+              "bbox": [
+                277,
+                602,
+                337,
+                613
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "PrivateLabel(%)",
+          "bbox": [
+            400,
+            597,
+            528,
+            632
+          ],
+          "words": [
+            {
+              "text": "PrivateLabel(%)",
+              "bbox": [
+                405,
+                602,
+                478,
+                613
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "BrandLoyalty(%)",
+          "bbox": [
+            528,
+            597,
+            580,
+            632
+          ],
+          "words": [
+            {
+              "text": "BrandLoyalty(%)",
+              "bbox": [
+                535,
+                602,
+                574,
+                627
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "4500M",
+          "bbox": [
+            16,
+            632,
+            144,
+            653
+          ],
+          "words": [
+            {
+              "text": "4500M",
+              "bbox": [
+                21,
+                637,
+                49,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1000M",
+          "bbox": [
+            144,
+            632,
+            272,
+            653
+          ],
+          "words": [
+            {
+              "text": "1000M",
+              "bbox": [
+                149,
+                637,
+                178,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "500M",
+          "bbox": [
+            272,
+            632,
+            400,
+            653
+          ],
+          "words": [
+            {
+              "text": "500M",
+              "bbox": [
+                277,
+                637,
+                301,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "45%",
+          "bbox": [
+            400,
+            632,
+            528,
+            653
+          ],
+          "words": [
+            {
+              "text": "45%",
+              "bbox": [
+                405,
+                637,
+                423,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "62%",
+          "bbox": [
+            528,
+            632,
+            580,
+            653
+          ],
+          "words": [
+            {
+              "text": "62%",
+              "bbox": [
+                556,
+                637,
+                575,
+                648
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "3000M",
+          "bbox": [
+            16,
+            653,
+            144,
+            674
+          ],
+          "words": [
+            {
+              "text": "3000M",
+              "bbox": [
+                21,
+                658,
+                49,
+                669
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "700M",
+          "bbox": [
+            144,
+            653,
+            272,
+            674
+          ],
+          "words": [
+            {
+              "text": "700M",
+              "bbox": [
+                149,
+                658,
+                173,
+                669
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "200M",
+          "bbox": [
+            272,
+            653,
+            400,
+            674
+          ],
+          "words": [
+            {
+              "text": "200M",
+              "bbox": [
+                277,
+                658,
+                301,
+                669
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "30%",
+          "bbox": [
+            400,
+            653,
+            528,
+            674
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                405,
+                658,
+                423,
+                669
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "55%",
+          "bbox": [
+            528,
+            653,
+            580,
+            674
+          ],
+          "words": [
+            {
+              "text": "55%",
+              "bbox": [
+                556,
+                658,
+                575,
+                669
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        689,
+        580,
+        750
+      ],
+      "content": "Furthermore, the Private Label market share percentage, which demonstrates Costco's competitive positioning in the retail sector, serves as an indicator of consumer preference trends within the region. The insights derived from these metrics are invaluable for stakeholders aiming to enhance operational efficiency and align product offerings with evolving market demands, thereby driving revenue growth and sustaining profitability in a dynamic retail environment.",
+      "lines": [
+        {
+          "text": "Furthermore, the Private Label market share percentage, which demonstrates Costco's competitive positioning in the retail",
+          "bbox": [
+            15,
+            690,
+            580,
+            702
+          ],
+          "words": [
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                15,
+                690,
+                73,
+                702
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                77,
+                690,
+                91,
+                702
+              ]
+            },
+            {
+              "text": "Private",
+              "bbox": [
+                96,
+                690,
+                127,
+                702
+              ]
+            },
+            {
+              "text": "Label",
+              "bbox": [
+                131,
+                690,
+                156,
+                702
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                161,
+                690,
+                192,
+                702
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                196,
+                690,
+                220,
+                702
+              ]
+            },
+            {
+              "text": "percentage,",
+              "bbox": [
+                224,
+                690,
+                275,
+                702
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                279,
+                690,
+                306,
+                702
+              ]
+            },
+            {
+              "text": "demonstrates",
+              "bbox": [
+                311,
+                690,
+                369,
+                702
+              ]
+            },
+            {
+              "text": "Costco's",
+              "bbox": [
+                374,
+                690,
+                411,
+                702
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                415,
+                690,
+                467,
+                702
+              ]
+            },
+            {
+              "text": "positioning",
+              "bbox": [
+                472,
+                690,
+                521,
+                702
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                526,
+                690,
+                535,
+                702
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                539,
+                690,
+                553,
+                702
+              ]
+            },
+            {
+              "text": "retail",
+              "bbox": [
+                557,
+                690,
+                580,
+                702
+              ]
+            }
+          ]
+        },
+        {
+          "text": "sector, serves as an indicator of consumer preference trends within the region. The insights derived from these metrics are",
+          "bbox": [
+            15,
+            705,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "sector,",
+              "bbox": [
+                15,
+                705,
+                44,
+                717
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                48,
+                705,
+                75,
+                717
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                80,
+                705,
+                89,
+                717
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                93,
+                705,
+                104,
+                717
+              ]
+            },
+            {
+              "text": "indicator",
+              "bbox": [
+                108,
+                705,
+                147,
+                717
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                152,
+                705,
+                161,
+                717
+              ]
+            },
+            {
+              "text": "consumer",
+              "bbox": [
+                165,
+                705,
+                208,
+                717
+              ]
+            },
+            {
+              "text": "preference",
+              "bbox": [
+                212,
+                705,
+                259,
+                717
+              ]
+            },
+            {
+              "text": "trends",
+              "bbox": [
+                263,
+                705,
+                290,
+                717
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                294,
+                705,
+                322,
+                717
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                327,
+                705,
+                340,
+                717
+              ]
+            },
+            {
+              "text": "region.",
+              "bbox": [
+                345,
+                705,
+                375,
+                717
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                380,
+                705,
+                397,
+                717
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                401,
+                705,
+                435,
+                717
+              ]
+            },
+            {
+              "text": "derived",
+              "bbox": [
+                440,
+                705,
+                473,
+                717
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                477,
+                705,
+                498,
+                717
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                503,
+                705,
+                525,
+                717
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                530,
+                705,
+                562,
+                717
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                567,
+                705,
+                580,
+                717
+              ]
+            }
+          ]
+        },
+        {
+          "text": "invaluable for stakeholders aiming to enhance operational efficiency and align product offerings with evolving market demands,",
+          "bbox": [
+            15,
+            721,
+            580,
+            733
+          ],
+          "words": [
+            {
+              "text": "invaluable",
+              "bbox": [
+                15,
+                721,
+                61,
+                733
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                64,
+                721,
+                76,
+                733
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                79,
+                721,
+                134,
+                733
+              ]
+            },
+            {
+              "text": "aiming",
+              "bbox": [
+                137,
+                721,
+                168,
+                733
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                170,
+                721,
+                179,
+                733
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                182,
+                721,
+                218,
+                733
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                220,
+                721,
+                270,
+                733
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                273,
+                721,
+                316,
+                733
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                319,
+                721,
+                335,
+                733
+              ]
+            },
+            {
+              "text": "align",
+              "bbox": [
+                338,
+                721,
+                360,
+                733
+              ]
+            },
+            {
+              "text": "product",
+              "bbox": [
+                363,
+                721,
+                396,
+                733
+              ]
+            },
+            {
+              "text": "offerings",
+              "bbox": [
+                399,
+                721,
+                438,
+                733
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                441,
+                721,
+                461,
+                733
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                464,
+                721,
+                502,
+                733
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                505,
+                721,
+                535,
+                733
+              ]
+            },
+            {
+              "text": "demands,",
+              "bbox": [
+                538,
+                721,
+                580,
+                733
+              ]
+            }
+          ]
+        },
+        {
+          "text": "thereby driving revenue growth and sustaining profitability in a dynamic retail environment.",
+          "bbox": [
+            15,
+            736,
+            421,
+            748
+          ],
+          "words": [
+            {
+              "text": "thereby",
+              "bbox": [
+                15,
+                736,
+                48,
+                748
+              ]
+            },
+            {
+              "text": "driving",
+              "bbox": [
+                51,
+                736,
+                83,
+                748
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                85,
+                736,
+                120,
+                748
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                123,
+                736,
+                154,
+                748
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                157,
+                736,
+                173,
+                748
+              ]
+            },
+            {
+              "text": "sustaining",
+              "bbox": [
+                175,
+                736,
+                220,
+                748
+              ]
+            },
+            {
+              "text": "profitability",
+              "bbox": [
+                223,
+                736,
+                275,
+                748
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                278,
+                736,
+                287,
+                748
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                289,
+                736,
+                294,
+                748
+              ]
+            },
+            {
+              "text": "dynamic",
+              "bbox": [
+                297,
+                736,
+                335,
+                748
+              ]
+            },
+            {
+              "text": "retail",
+              "bbox": [
+                338,
+                736,
+                360,
+                748
+              ]
+            },
+            {
+              "text": "environment.",
+              "bbox": [
+                363,
+                736,
+                421,
+                748
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

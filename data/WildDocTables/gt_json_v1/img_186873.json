@@ -1,0 +1,5038 @@
+{
+  "image_id": "img_186873",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_186873_t0",
+      "bbox": [
+        15,
+        70,
+        580,
+        281
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            70,
+            580,
+            104
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            104,
+            580,
+            138
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            138,
+            580,
+            172
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            172,
+            580,
+            221
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            221,
+            580,
+            241
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            241,
+            580,
+            261
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            261,
+            580,
+            281
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>LifeInsuranceMetrics</td><td colspan=\"3\">PolicyValues(INR)</td></tr><tr><td>TotalPremiums</td><td>ClaimsPaid</td><td>PersistencyRate</td><td colspan=\"2\">NewPoliciesIssued</td></tr><tr><td colspan=\"3\">PolicyholderInsights</td><td>AveragePolicySize</td><td>AverageDuration(Years)</td><td colspan=\"3\">LapseRate</td><td>CustomerSatisfaction</td></tr><tr><td>Revenue(INR)</td><td>NetIncome(INR)</td><td>CAPEX(INR)</td><td>OperatingProfit(INR)</td><td>InvestmentIncome(INR)</td><td>ClaimsRatio(%)</td><td>ExpenseRatio(%)</td><td>ReturnonEquity(%)</td><td>SolvencyRatio(%)</td></tr></thead><tbody><tr><td>1,200M</td><td>900M</td><td>75%</td><td>150,000</td><td>500,000</td><td>3,200,000</td><td>1,500,000</td><td>10Years</td><td>6.5%</td></tr><tr><td>2.3M</td><td>1,000M</td><td>200M</td><td>80%</td><td>5,000</td><td>4,000</td><td>1,600,000</td><td>8.0%</td><td>15.0%</td></tr><tr><td>18.0%</td><td>20.0%</td><td>1,800M</td><td>300M</td><td>6.0%</td><td>1.5M</td><td>7,500</td><td>1,200M</td><td>Total</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "LifeInsuranceMetrics",
+          "bbox": [
+            15,
+            70,
+            79,
+            104
+          ],
+          "words": [
+            {
+              "text": "LifeInsuranceMetrics",
+              "bbox": [
+                20,
+                74,
+                71,
+                99
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "PolicyValues(INR)",
+          "bbox": [
+            79,
+            70,
+            269,
+            104
+          ],
+          "words": [
+            {
+              "text": "PolicyValues(INR)",
+              "bbox": [
+                84,
+                74,
+                163,
+                85
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalPremiums",
+          "bbox": [
+            15,
+            104,
+            79,
+            138
+          ],
+          "words": [
+            {
+              "text": "TotalPremiums",
+              "bbox": [
+                20,
+                108,
+                73,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ClaimsPaid",
+          "bbox": [
+            79,
+            104,
+            143,
+            138
+          ],
+          "words": [
+            {
+              "text": "ClaimsPaid",
+              "bbox": [
+                84,
+                108,
+                133,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "PersistencyRate",
+          "bbox": [
+            143,
+            104,
+            207,
+            138
+          ],
+          "words": [
+            {
+              "text": "PersistencyRate",
+              "bbox": [
+                153,
+                108,
+                202,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "NewPoliciesIssued",
+          "bbox": [
+            207,
+            104,
+            331,
+            138
+          ],
+          "words": [
+            {
+              "text": "NewPoliciesIssued",
+              "bbox": [
+                212,
+                108,
+                290,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "PolicyholderInsights",
+          "bbox": [
+            15,
+            138,
+            207,
+            172
+          ],
+          "words": [
+            {
+              "text": "PolicyholderInsights",
+              "bbox": [
+                20,
+                142,
+                108,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AveragePolicySize",
+          "bbox": [
+            207,
+            138,
+            269,
+            172
+          ],
+          "words": [
+            {
+              "text": "AveragePolicySize",
+              "bbox": [
+                212,
+                142,
+                263,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageDuration(Years)",
+          "bbox": [
+            269,
+            138,
+            331,
+            172
+          ],
+          "words": [
+            {
+              "text": "AverageDuration(Years)",
+              "bbox": [
+                274,
+                142,
+                326,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5,
+            6,
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "LapseRate",
+          "bbox": [
+            331,
+            138,
+            518,
+            172
+          ],
+          "words": [
+            {
+              "text": "LapseRate",
+              "bbox": [
+                467,
+                142,
+                513,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "CustomerSatisfaction",
+          "bbox": [
+            518,
+            138,
+            580,
+            172
+          ],
+          "words": [
+            {
+              "text": "CustomerSatisfaction",
+              "bbox": [
+                527,
+                142,
+                575,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(INR)",
+          "bbox": [
+            15,
+            172,
+            79,
+            221
+          ],
+          "words": [
+            {
+              "text": "Revenue(INR)",
+              "bbox": [
+                20,
+                176,
+                71,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome(INR)",
+          "bbox": [
+            79,
+            172,
+            143,
+            221
+          ],
+          "words": [
+            {
+              "text": "NetIncome(INR)",
+              "bbox": [
+                84,
+                176,
+                138,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "CAPEX(INR)",
+          "bbox": [
+            143,
+            172,
+            207,
+            221
+          ],
+          "words": [
+            {
+              "text": "CAPEX(INR)",
+              "bbox": [
+                153,
+                176,
+                202,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "OperatingProfit(INR)",
+          "bbox": [
+            207,
+            172,
+            269,
+            221
+          ],
+          "words": [
+            {
+              "text": "OperatingProfit(INR)",
+              "bbox": [
+                212,
+                176,
+                262,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "InvestmentIncome(INR)",
+          "bbox": [
+            269,
+            172,
+            331,
+            221
+          ],
+          "words": [
+            {
+              "text": "InvestmentIncome(INR)",
+              "bbox": [
+                274,
+                176,
+                326,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "ClaimsRatio(%)",
+          "bbox": [
+            331,
+            172,
+            393,
+            221
+          ],
+          "words": [
+            {
+              "text": "ClaimsRatio(%)",
+              "bbox": [
+                340,
+                176,
+                388,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "ExpenseRatio(%)",
+          "bbox": [
+            393,
+            172,
+            456,
+            221
+          ],
+          "words": [
+            {
+              "text": "ExpenseRatio(%)",
+              "bbox": [
+                399,
+                176,
+                451,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "ReturnonEquity(%)",
+          "bbox": [
+            456,
+            172,
+            518,
+            221
+          ],
+          "words": [
+            {
+              "text": "ReturnonEquity(%)",
+              "bbox": [
+                465,
+                176,
+                513,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "SolvencyRatio(%)",
+          "bbox": [
+            518,
+            172,
+            580,
+            221
+          ],
+          "words": [
+            {
+              "text": "SolvencyRatio(%)",
+              "bbox": [
+                525,
+                176,
+                575,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1,200M",
+          "bbox": [
+            15,
+            221,
+            79,
+            241
+          ],
+          "words": [
+            {
+              "text": "1,200M",
+              "bbox": [
+                20,
+                225,
+                51,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "900M",
+          "bbox": [
+            79,
+            221,
+            143,
+            241
+          ],
+          "words": [
+            {
+              "text": "900M",
+              "bbox": [
+                84,
+                225,
+                108,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            143,
+            221,
+            207,
+            241
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                183,
+                225,
+                202,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "150,000",
+          "bbox": [
+            207,
+            221,
+            269,
+            241
+          ],
+          "words": [
+            {
+              "text": "150,000",
+              "bbox": [
+                212,
+                225,
+                244,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "500,000",
+          "bbox": [
+            269,
+            221,
+            331,
+            241
+          ],
+          "words": [
+            {
+              "text": "500,000",
+              "bbox": [
+                294,
+                225,
+                326,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3,200,000",
+          "bbox": [
+            331,
+            221,
+            393,
+            241
+          ],
+          "words": [
+            {
+              "text": "3,200,000",
+              "bbox": [
+                348,
+                225,
+                388,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1,500,000",
+          "bbox": [
+            393,
+            221,
+            456,
+            241
+          ],
+          "words": [
+            {
+              "text": "1,500,000",
+              "bbox": [
+                411,
+                225,
+                451,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "10Years",
+          "bbox": [
+            456,
+            221,
+            518,
+            241
+          ],
+          "words": [
+            {
+              "text": "10Years",
+              "bbox": [
+                480,
+                225,
+                513,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "6.5%",
+          "bbox": [
+            518,
+            221,
+            580,
+            241
+          ],
+          "words": [
+            {
+              "text": "6.5%",
+              "bbox": [
+                554,
+                225,
+                575,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2.3M",
+          "bbox": [
+            15,
+            241,
+            79,
+            261
+          ],
+          "words": [
+            {
+              "text": "2.3M",
+              "bbox": [
+                20,
+                245,
+                41,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1,000M",
+          "bbox": [
+            79,
+            241,
+            143,
+            261
+          ],
+          "words": [
+            {
+              "text": "1,000M",
+              "bbox": [
+                84,
+                245,
+                115,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "200M",
+          "bbox": [
+            143,
+            241,
+            207,
+            261
+          ],
+          "words": [
+            {
+              "text": "200M",
+              "bbox": [
+                178,
+                245,
+                202,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            207,
+            241,
+            269,
+            261
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                212,
+                245,
+                230,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5,000",
+          "bbox": [
+            269,
+            241,
+            331,
+            261
+          ],
+          "words": [
+            {
+              "text": "5,000",
+              "bbox": [
+                304,
+                245,
+                326,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "4,000",
+          "bbox": [
+            331,
+            241,
+            393,
+            261
+          ],
+          "words": [
+            {
+              "text": "4,000",
+              "bbox": [
+                366,
+                245,
+                388,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1,600,000",
+          "bbox": [
+            393,
+            241,
+            456,
+            261
+          ],
+          "words": [
+            {
+              "text": "1,600,000",
+              "bbox": [
+                411,
+                245,
+                451,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "8.0%",
+          "bbox": [
+            456,
+            241,
+            518,
+            261
+          ],
+          "words": [
+            {
+              "text": "8.0%",
+              "bbox": [
+                492,
+                245,
+                513,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0%",
+          "bbox": [
+            518,
+            241,
+            580,
+            261
+          ],
+          "words": [
+            {
+              "text": "15.0%",
+              "bbox": [
+                549,
+                245,
+                575,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "18.0%",
+          "bbox": [
+            15,
+            261,
+            79,
+            281
+          ],
+          "words": [
+            {
+              "text": "18.0%",
+              "bbox": [
+                20,
+                265,
+                46,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0%",
+          "bbox": [
+            79,
+            261,
+            143,
+            281
+          ],
+          "words": [
+            {
+              "text": "20.0%",
+              "bbox": [
+                84,
+                265,
+                110,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1,800M",
+          "bbox": [
+            143,
+            261,
+            207,
+            281
+          ],
+          "words": [
+            {
+              "text": "1,800M",
+              "bbox": [
+                170,
+                265,
+                202,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "300M",
+          "bbox": [
+            207,
+            261,
+            269,
+            281
+          ],
+          "words": [
+            {
+              "text": "300M",
+              "bbox": [
+                212,
+                265,
+                236,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "6.0%",
+          "bbox": [
+            269,
+            261,
+            331,
+            281
+          ],
+          "words": [
+            {
+              "text": "6.0%",
+              "bbox": [
+                305,
+                265,
+                326,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5M",
+          "bbox": [
+            331,
+            261,
+            393,
+            281
+          ],
+          "words": [
+            {
+              "text": "1.5M",
+              "bbox": [
+                367,
+                265,
+                388,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "7,500",
+          "bbox": [
+            393,
+            261,
+            456,
+            281
+          ],
+          "words": [
+            {
+              "text": "7,500",
+              "bbox": [
+                428,
+                265,
+                451,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1,200M",
+          "bbox": [
+            456,
+            261,
+            518,
+            281
+          ],
+          "words": [
+            {
+              "text": "1,200M",
+              "bbox": [
+                481,
+                265,
+                513,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            518,
+            261,
+            580,
+            281
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                555,
+                265,
+                575,
+                276
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        296,
+        580,
+        419
+      ],
+      "content": "In FY2023, Ping An Insurance reported Life Insurance Metrics with Total Premiums at $1.2M, Claims Paid of $900M, a Persistency Rate of 75%, and New Policies Issued totaling 150,000. The Policyholder Insights revealed an Average Policy Size of $500,000, Average Duration of 10 Years, a Lapse Rate of 6.5%, and Customer Satisfaction at 15.3%. Revenue (INR) reached $3,200,000, with a Net Income of $1,500,000, CAPEX of $200M, Operating Profit amounting to $1,800M, and Investment Income at $300M. The Claims Ratio stood at 6.0%, while the Expense Ratio was noted at 8.0%. The Return on Equity was reported at 18.0%, and the Solvency Ratio was 20.0%. Additionally, the Underwriting Metrics for 2023 included a Total Revenue of ₹120B, Claims Paid at ₹70B, and Net Income of ₹23B, reflecting a Loss Ratio of 60% and an Expense Ratio of 15%.",
+      "lines": [
+        {
+          "text": "In FY2023, Ping An Insurance reported Life Insurance Metrics with Total Premiums at $1.2M, Claims Paid of $900M, a",
+          "bbox": [
+            15,
+            297,
+            580,
+            309
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                297,
+                24,
+                309
+              ]
+            },
+            {
+              "text": "FY2023,",
+              "bbox": [
+                29,
+                297,
+                68,
+                309
+              ]
+            },
+            {
+              "text": "Ping",
+              "bbox": [
+                72,
+                297,
+                93,
+                309
+              ]
+            },
+            {
+              "text": "An",
+              "bbox": [
+                97,
+                297,
+                110,
+                309
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                115,
+                297,
+                158,
+                309
+              ]
+            },
+            {
+              "text": "reported",
+              "bbox": [
+                162,
+                297,
+                199,
+                309
+              ]
+            },
+            {
+              "text": "Life",
+              "bbox": [
+                204,
+                297,
+                222,
+                309
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                227,
+                297,
+                269,
+                309
+              ]
+            },
+            {
+              "text": "Metrics",
+              "bbox": [
+                274,
+                297,
+                308,
+                309
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                312,
+                297,
+                332,
+                309
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                336,
+                297,
+                359,
+                309
+              ]
+            },
+            {
+              "text": "Premiums",
+              "bbox": [
+                364,
+                297,
+                408,
+                309
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                413,
+                297,
+                421,
+                309
+              ]
+            },
+            {
+              "text": "$1.2M,",
+              "bbox": [
+                425,
+                297,
+                457,
+                309
+              ]
+            },
+            {
+              "text": "Claims",
+              "bbox": [
+                462,
+                297,
+                493,
+                309
+              ]
+            },
+            {
+              "text": "Paid",
+              "bbox": [
+                498,
+                297,
+                517,
+                309
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                522,
+                297,
+                531,
+                309
+              ]
+            },
+            {
+              "text": "$900M,",
+              "bbox": [
+                536,
+                297,
+                570,
+                309
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                297,
+                580,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Persistency Rate of 75%, and New Policies Issued totaling 150,000. The Policyholder Insights revealed an Average Policy Size",
+          "bbox": [
+            15,
+            312,
+            580,
+            324
+          ],
+          "words": [
+            {
+              "text": "Persistency",
+              "bbox": [
+                15,
+                312,
+                65,
+                324
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                68,
+                312,
+                88,
+                324
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                91,
+                312,
+                101,
+                324
+              ]
+            },
+            {
+              "text": "75%,",
+              "bbox": [
+                104,
+                312,
+                127,
+                324
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                130,
+                312,
+                146,
+                324
+              ]
+            },
+            {
+              "text": "New",
+              "bbox": [
+                149,
+                312,
+                169,
+                324
+              ]
+            },
+            {
+              "text": "Policies",
+              "bbox": [
+                173,
+                312,
+                207,
+                324
+              ]
+            },
+            {
+              "text": "Issued",
+              "bbox": [
+                210,
+                312,
+                239,
+                324
+              ]
+            },
+            {
+              "text": "totaling",
+              "bbox": [
+                242,
+                312,
+                275,
+                324
+              ]
+            },
+            {
+              "text": "150,000.",
+              "bbox": [
+                278,
+                312,
+                317,
+                324
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                320,
+                312,
+                337,
+                324
+              ]
+            },
+            {
+              "text": "Policyholder",
+              "bbox": [
+                340,
+                312,
+                396,
+                324
+              ]
+            },
+            {
+              "text": "Insights",
+              "bbox": [
+                399,
+                312,
+                434,
+                324
+              ]
+            },
+            {
+              "text": "revealed",
+              "bbox": [
+                437,
+                312,
+                474,
+                324
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                477,
+                312,
+                488,
+                324
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                490,
+                312,
+                527,
+                324
+              ]
+            },
+            {
+              "text": "Policy",
+              "bbox": [
+                530,
+                312,
+                558,
+                324
+              ]
+            },
+            {
+              "text": "Size",
+              "bbox": [
+                561,
+                312,
+                580,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of $500,000, Average Duration of 10 Years, a Lapse Rate of 6.5%, and Customer Satisfaction at 15.3%. Revenue (INR) reached",
+          "bbox": [
+            15,
+            328,
+            580,
+            340
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                328,
+                24,
+                340
+              ]
+            },
+            {
+              "text": "$500,000,",
+              "bbox": [
+                27,
+                328,
+                71,
+                340
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                73,
+                328,
+                110,
+                340
+              ]
+            },
+            {
+              "text": "Duration",
+              "bbox": [
+                113,
+                328,
+                152,
+                340
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                155,
+                328,
+                164,
+                340
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                167,
+                328,
+                178,
+                340
+              ]
+            },
+            {
+              "text": "Years,",
+              "bbox": [
+                180,
+                328,
+                208,
+                340
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                210,
+                328,
+                215,
+                340
+              ]
+            },
+            {
+              "text": "Lapse",
+              "bbox": [
+                218,
+                328,
+                245,
+                340
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                247,
+                328,
+                268,
+                340
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                270,
+                328,
+                280,
+                340
+              ]
+            },
+            {
+              "text": "6.5%,",
+              "bbox": [
+                283,
+                328,
+                308,
+                340
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                311,
+                328,
+                327,
+                340
+              ]
+            },
+            {
+              "text": "Customer",
+              "bbox": [
+                330,
+                328,
+                373,
+                340
+              ]
+            },
+            {
+              "text": "Satisfaction",
+              "bbox": [
+                376,
+                328,
+                427,
+                340
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                430,
+                328,
+                438,
+                340
+              ]
+            },
+            {
+              "text": "15.3%.",
+              "bbox": [
+                441,
+                328,
+                472,
+                340
+              ]
+            },
+            {
+              "text": "Revenue",
+              "bbox": [
+                475,
+                328,
+                514,
+                340
+              ]
+            },
+            {
+              "text": "(INR)",
+              "bbox": [
+                517,
+                328,
+                543,
+                340
+              ]
+            },
+            {
+              "text": "reached",
+              "bbox": [
+                546,
+                328,
+                580,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "text": "$3,200,000, with a Net Income of $1,500,000, CAPEX of $200M, Operating Profit amounting to $1,800M, and Investment",
+          "bbox": [
+            15,
+            343,
+            580,
+            355
+          ],
+          "words": [
+            {
+              "text": "$3,200,000,",
+              "bbox": [
+                15,
+                343,
+                67,
+                355
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                71,
+                343,
+                91,
+                355
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                95,
+                343,
+                100,
+                355
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                104,
+                343,
+                120,
+                355
+              ]
+            },
+            {
+              "text": "Income",
+              "bbox": [
+                124,
+                343,
+                157,
+                355
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                161,
+                343,
+                170,
+                355
+              ]
+            },
+            {
+              "text": "$1,500,000,",
+              "bbox": [
+                174,
+                343,
+                227,
+                355
+              ]
+            },
+            {
+              "text": "CAPEX",
+              "bbox": [
+                231,
+                343,
+                267,
+                355
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                271,
+                343,
+                280,
+                355
+              ]
+            },
+            {
+              "text": "$200M,",
+              "bbox": [
+                284,
+                343,
+                319,
+                355
+              ]
+            },
+            {
+              "text": "Operating",
+              "bbox": [
+                323,
+                343,
+                367,
+                355
+              ]
+            },
+            {
+              "text": "Profit",
+              "bbox": [
+                371,
+                343,
+                396,
+                355
+              ]
+            },
+            {
+              "text": "amounting",
+              "bbox": [
+                400,
+                343,
+                447,
+                355
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                452,
+                343,
+                460,
+                355
+              ]
+            },
+            {
+              "text": "$1,800M,",
+              "bbox": [
+                464,
+                343,
+                507,
+                355
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                511,
+                343,
+                527,
+                355
+              ]
+            },
+            {
+              "text": "Investment",
+              "bbox": [
+                531,
+                343,
+                580,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Income at $300M. The Claims Ratio stood at 6.0%, while the Expense Ratio was noted at 8.0%. The Return on Equity was",
+          "bbox": [
+            15,
+            359,
+            580,
+            371
+          ],
+          "words": [
+            {
+              "text": "Income",
+              "bbox": [
+                15,
+                359,
+                48,
+                371
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                52,
+                359,
+                60,
+                371
+              ]
+            },
+            {
+              "text": "$300M.",
+              "bbox": [
+                64,
+                359,
+                98,
+                371
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                102,
+                359,
+                119,
+                371
+              ]
+            },
+            {
+              "text": "Claims",
+              "bbox": [
+                123,
+                359,
+                154,
+                371
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                158,
+                359,
+                182,
+                371
+              ]
+            },
+            {
+              "text": "stood",
+              "bbox": [
+                186,
+                359,
+                210,
+                371
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                213,
+                359,
+                221,
+                371
+              ]
+            },
+            {
+              "text": "6.0%,",
+              "bbox": [
+                225,
+                359,
+                251,
+                371
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                255,
+                359,
+                279,
+                371
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                283,
+                359,
+                297,
+                371
+              ]
+            },
+            {
+              "text": "Expense",
+              "bbox": [
+                301,
+                359,
+                338,
+                371
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                342,
+                359,
+                366,
+                371
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                369,
+                359,
+                387,
+                371
+              ]
+            },
+            {
+              "text": "noted",
+              "bbox": [
+                390,
+                359,
+                415,
+                371
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                419,
+                359,
+                427,
+                371
+              ]
+            },
+            {
+              "text": "8.0%.",
+              "bbox": [
+                431,
+                359,
+                456,
+                371
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                460,
+                359,
+                477,
+                371
+              ]
+            },
+            {
+              "text": "Return",
+              "bbox": [
+                481,
+                359,
+                511,
+                371
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                515,
+                359,
+                526,
+                371
+              ]
+            },
+            {
+              "text": "Equity",
+              "bbox": [
+                530,
+                359,
+                559,
+                371
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                563,
+                359,
+                580,
+                371
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reported at 18.0%, and the Solvency Ratio was 20.0%. Additionally, the Underwriting Metrics for 2023 included a Total",
+          "bbox": [
+            15,
+            374,
+            580,
+            386
+          ],
+          "words": [
+            {
+              "text": "reported",
+              "bbox": [
+                15,
+                374,
+                52,
+                386
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                57,
+                374,
+                65,
+                386
+              ]
+            },
+            {
+              "text": "18.0%,",
+              "bbox": [
+                69,
+                374,
+                101,
+                386
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                106,
+                374,
+                121,
+                386
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                126,
+                374,
+                140,
+                386
+              ]
+            },
+            {
+              "text": "Solvency",
+              "bbox": [
+                145,
+                374,
+                186,
+                386
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                191,
+                374,
+                214,
+                386
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                219,
+                374,
+                236,
+                386
+              ]
+            },
+            {
+              "text": "20.0%.",
+              "bbox": [
+                241,
+                374,
+                273,
+                386
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                277,
+                374,
+                334,
+                386
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                339,
+                374,
+                353,
+                386
+              ]
+            },
+            {
+              "text": "Underwriting",
+              "bbox": [
+                358,
+                374,
+                417,
+                386
+              ]
+            },
+            {
+              "text": "Metrics",
+              "bbox": [
+                422,
+                374,
+                456,
+                386
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                460,
+                374,
+                473,
+                386
+              ]
+            },
+            {
+              "text": "2023",
+              "bbox": [
+                478,
+                374,
+                500,
+                386
+              ]
+            },
+            {
+              "text": "included",
+              "bbox": [
+                505,
+                374,
+                543,
+                386
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                548,
+                374,
+                553,
+                386
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                558,
+                374,
+                580,
+                386
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Revenue of ₹120B, Claims Paid at ₹70B, and Net Income of ₹23B, reflecting a Loss Ratio of 60% and an Expense Ratio of",
+          "bbox": [
+            15,
+            389,
+            580,
+            401
+          ],
+          "words": [
+            {
+              "text": "Revenue",
+              "bbox": [
+                15,
+                389,
+                53,
+                401
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                57,
+                389,
+                66,
+                401
+              ]
+            },
+            {
+              "text": "₹120B,",
+              "bbox": [
+                70,
+                389,
+                102,
+                401
+              ]
+            },
+            {
+              "text": "Claims",
+              "bbox": [
+                106,
+                389,
+                137,
+                401
+              ]
+            },
+            {
+              "text": "Paid",
+              "bbox": [
+                141,
+                389,
+                160,
+                401
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                164,
+                389,
+                172,
+                401
+              ]
+            },
+            {
+              "text": "₹70B,",
+              "bbox": [
+                176,
+                389,
+                202,
+                401
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                206,
+                389,
+                222,
+                401
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                226,
+                389,
+                242,
+                401
+              ]
+            },
+            {
+              "text": "Income",
+              "bbox": [
+                245,
+                389,
+                278,
+                401
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                282,
+                389,
+                291,
+                401
+              ]
+            },
+            {
+              "text": "₹23B,",
+              "bbox": [
+                295,
+                389,
+                322,
+                401
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                325,
+                389,
+                367,
+                401
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                371,
+                389,
+                376,
+                401
+              ]
+            },
+            {
+              "text": "Loss",
+              "bbox": [
+                380,
+                389,
+                401,
+                401
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                404,
+                389,
+                428,
+                401
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                432,
+                389,
+                441,
+                401
+              ]
+            },
+            {
+              "text": "60%",
+              "bbox": [
+                445,
+                389,
+                465,
+                401
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                469,
+                389,
+                484,
+                401
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                488,
+                389,
+                499,
+                401
+              ]
+            },
+            {
+              "text": "Expense",
+              "bbox": [
+                502,
+                389,
+                540,
+                401
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                543,
+                389,
+                567,
+                401
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                389,
+                580,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "text": "15%.",
+          "bbox": [
+            15,
+            405,
+            38,
+            417
+          ],
+          "words": [
+            {
+              "text": "15%.",
+              "bbox": [
+                15,
+                405,
+                38,
+                417
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_186873_t1",
+      "bbox": [
+        15,
+        436,
+        580,
+        715
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            436,
+            580,
+            456
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            456,
+            580,
+            476
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            476,
+            580,
+            510
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            510,
+            580,
+            545
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            545,
+            580,
+            579
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            579,
+            580,
+            613
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            613,
+            580,
+            647
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            647,
+            580,
+            681
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            15,
+            681,
+            580,
+            715
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>UnderwritingMetrics</td><td colspan=\"2\">FinancialOverview</td></tr><tr><td>Period</td><td colspan=\"3\">ProfitMargins</td><td>2023</td></tr><tr><td>RevenueBreakdown</td><td colspan=\"4\">BySegment</td><td>TotalRevenue</td><td>ClaimsPaid</td><td>NetIncome</td></tr><tr><td>LifeInsurance</td><td>₹50B</td><td>₹30B</td><td>₹10B</td><td>20%</td><td>HealthInsurance</td><td>₹40B</td><td>₹25B</td></tr></thead><tbody><tr><td>₹8B</td><td>15%</td><td>PropertyInsurance</td><td>₹30B</td><td>₹15B</td><td>₹5B</td><td>16%</td><td>Total</td></tr><tr><td>₹120B</td><td>₹70B</td><td>₹23B</td><td>51%</td><td>InvestmentIncome</td><td>₹10B</td><td>OperationalCosts</td><td>₹20B</td></tr><tr><td>LossRatio</td><td>60%</td><td>ExpenseRatio</td><td>15%</td><td>CombinedRatio</td><td>75%</td><td>UnderwritingProfit</td><td>₹30B</td></tr><tr><td>ReturnonEquity</td><td>12%</td><td>PolicyholderSurplus</td><td>₹25B</td><td>TotalAssets</td><td>₹500B</td><td>TotalLiabilities</td><td>₹450B</td></tr><tr><td>NetWrittenPremiums</td><td>₹100B</td><td>ReinsuranceCosts</td><td>₹15B</td><td>ReserveRequirements</td><td>₹20B</td><td>LiquidityRatio</td><td>1.5</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "UnderwritingMetrics",
+          "bbox": [
+            15,
+            436,
+            156,
+            456
+          ],
+          "words": [
+            {
+              "text": "UnderwritingMetrics",
+              "bbox": [
+                60,
+                440,
+                151,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "FinancialOverview",
+          "bbox": [
+            156,
+            436,
+            277,
+            456
+          ],
+          "words": [
+            {
+              "text": "FinancialOverview",
+              "bbox": [
+                161,
+                440,
+                242,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Period",
+          "bbox": [
+            15,
+            456,
+            156,
+            476
+          ],
+          "words": [
+            {
+              "text": "Period",
+              "bbox": [
+                123,
+                460,
+                151,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "ProfitMargins",
+          "bbox": [
+            156,
+            456,
+            338,
+            476
+          ],
+          "words": [
+            {
+              "text": "ProfitMargins",
+              "bbox": [
+                161,
+                460,
+                222,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "2023",
+          "bbox": [
+            338,
+            456,
+            398,
+            476
+          ],
+          "words": [
+            {
+              "text": "2023",
+              "bbox": [
+                373,
+                460,
+                393,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "RevenueBreakdown",
+          "bbox": [
+            15,
+            476,
+            156,
+            510
+          ],
+          "words": [
+            {
+              "text": "RevenueBreakdown",
+              "bbox": [
+                65,
+                480,
+                151,
+                491
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "BySegment",
+          "bbox": [
+            156,
+            476,
+            398,
+            510
+          ],
+          "words": [
+            {
+              "text": "BySegment",
+              "bbox": [
+                161,
+                480,
+                209,
+                491
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            398,
+            476,
+            459,
+            510
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                405,
+                480,
+                454,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "ClaimsPaid",
+          "bbox": [
+            459,
+            476,
+            519,
+            510
+          ],
+          "words": [
+            {
+              "text": "ClaimsPaid",
+              "bbox": [
+                465,
+                480,
+                514,
+                491
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome",
+          "bbox": [
+            519,
+            476,
+            580,
+            510
+          ],
+          "words": [
+            {
+              "text": "NetIncome",
+              "bbox": [
+                528,
+                480,
+                575,
+                491
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "LifeInsurance",
+          "bbox": [
+            15,
+            510,
+            156,
+            545
+          ],
+          "words": [
+            {
+              "text": "LifeInsurance",
+              "bbox": [
+                91,
+                514,
+                151,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "₹50B",
+          "bbox": [
+            156,
+            510,
+            217,
+            545
+          ],
+          "words": [
+            {
+              "text": "₹50B",
+              "bbox": [
+                161,
+                514,
+                183,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "₹30B",
+          "bbox": [
+            217,
+            510,
+            277,
+            545
+          ],
+          "words": [
+            {
+              "text": "₹30B",
+              "bbox": [
+                250,
+                514,
+                272,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "₹10B",
+          "bbox": [
+            277,
+            510,
+            338,
+            545
+          ],
+          "words": [
+            {
+              "text": "₹10B",
+              "bbox": [
+                311,
+                514,
+                333,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "20%",
+          "bbox": [
+            338,
+            510,
+            398,
+            545
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                373,
+                514,
+                393,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "HealthInsurance",
+          "bbox": [
+            398,
+            510,
+            459,
+            545
+          ],
+          "words": [
+            {
+              "text": "HealthInsurance",
+              "bbox": [
+                406,
+                514,
+                454,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "₹40B",
+          "bbox": [
+            459,
+            510,
+            519,
+            545
+          ],
+          "words": [
+            {
+              "text": "₹40B",
+              "bbox": [
+                493,
+                514,
+                514,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "₹25B",
+          "bbox": [
+            519,
+            510,
+            580,
+            545
+          ],
+          "words": [
+            {
+              "text": "₹25B",
+              "bbox": [
+                553,
+                514,
+                575,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "₹8B",
+          "bbox": [
+            15,
+            545,
+            156,
+            579
+          ],
+          "words": [
+            {
+              "text": "₹8B",
+              "bbox": [
+                134,
+                549,
+                151,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            156,
+            545,
+            217,
+            579
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                161,
+                549,
+                179,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "PropertyInsurance",
+          "bbox": [
+            217,
+            545,
+            277,
+            579
+          ],
+          "words": [
+            {
+              "text": "PropertyInsurance",
+              "bbox": [
+                225,
+                549,
+                272,
+                574
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "₹30B",
+          "bbox": [
+            277,
+            545,
+            338,
+            579
+          ],
+          "words": [
+            {
+              "text": "₹30B",
+              "bbox": [
+                311,
+                549,
+                333,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "₹15B",
+          "bbox": [
+            338,
+            545,
+            398,
+            579
+          ],
+          "words": [
+            {
+              "text": "₹15B",
+              "bbox": [
+                372,
+                549,
+                393,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "₹5B",
+          "bbox": [
+            398,
+            545,
+            459,
+            579
+          ],
+          "words": [
+            {
+              "text": "₹5B",
+              "bbox": [
+                437,
+                549,
+                454,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "16%",
+          "bbox": [
+            459,
+            545,
+            519,
+            579
+          ],
+          "words": [
+            {
+              "text": "16%",
+              "bbox": [
+                496,
+                549,
+                514,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            519,
+            545,
+            580,
+            579
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                555,
+                549,
+                575,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "₹120B",
+          "bbox": [
+            15,
+            579,
+            156,
+            613
+          ],
+          "words": [
+            {
+              "text": "₹120B",
+              "bbox": [
+                124,
+                583,
+                151,
+                594
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "₹70B",
+          "bbox": [
+            156,
+            579,
+            217,
+            613
+          ],
+          "words": [
+            {
+              "text": "₹70B",
+              "bbox": [
+                161,
+                583,
+                183,
+                594
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "₹23B",
+          "bbox": [
+            217,
+            579,
+            277,
+            613
+          ],
+          "words": [
+            {
+              "text": "₹23B",
+              "bbox": [
+                250,
+                583,
+                272,
+                594
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "51%",
+          "bbox": [
+            277,
+            579,
+            338,
+            613
+          ],
+          "words": [
+            {
+              "text": "51%",
+              "bbox": [
+                314,
+                583,
+                333,
+                594
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "InvestmentIncome",
+          "bbox": [
+            338,
+            579,
+            398,
+            613
+          ],
+          "words": [
+            {
+              "text": "InvestmentIncome",
+              "bbox": [
+                345,
+                583,
+                393,
+                608
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "₹10B",
+          "bbox": [
+            398,
+            579,
+            459,
+            613
+          ],
+          "words": [
+            {
+              "text": "₹10B",
+              "bbox": [
+                432,
+                583,
+                454,
+                594
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "OperationalCosts",
+          "bbox": [
+            459,
+            579,
+            519,
+            613
+          ],
+          "words": [
+            {
+              "text": "OperationalCosts",
+              "bbox": [
+                467,
+                583,
+                514,
+                608
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "₹20B",
+          "bbox": [
+            519,
+            579,
+            580,
+            613
+          ],
+          "words": [
+            {
+              "text": "₹20B",
+              "bbox": [
+                553,
+                583,
+                575,
+                594
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "LossRatio",
+          "bbox": [
+            15,
+            613,
+            156,
+            647
+          ],
+          "words": [
+            {
+              "text": "LossRatio",
+              "bbox": [
+                110,
+                617,
+                151,
+                628
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "60%",
+          "bbox": [
+            156,
+            613,
+            217,
+            647
+          ],
+          "words": [
+            {
+              "text": "60%",
+              "bbox": [
+                161,
+                617,
+                179,
+                628
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "ExpenseRatio",
+          "bbox": [
+            217,
+            613,
+            277,
+            647
+          ],
+          "words": [
+            {
+              "text": "ExpenseRatio",
+              "bbox": [
+                222,
+                617,
+                272,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            277,
+            613,
+            338,
+            647
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                314,
+                617,
+                333,
+                628
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "CombinedRatio",
+          "bbox": [
+            338,
+            613,
+            398,
+            647
+          ],
+          "words": [
+            {
+              "text": "CombinedRatio",
+              "bbox": [
+                345,
+                617,
+                393,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            398,
+            613,
+            459,
+            647
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                435,
+                617,
+                454,
+                628
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "UnderwritingProfit",
+          "bbox": [
+            459,
+            613,
+            519,
+            647
+          ],
+          "words": [
+            {
+              "text": "UnderwritingProfit",
+              "bbox": [
+                465,
+                617,
+                514,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "₹30B",
+          "bbox": [
+            519,
+            613,
+            580,
+            647
+          ],
+          "words": [
+            {
+              "text": "₹30B",
+              "bbox": [
+                553,
+                617,
+                575,
+                628
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ReturnonEquity",
+          "bbox": [
+            15,
+            647,
+            156,
+            681
+          ],
+          "words": [
+            {
+              "text": "ReturnonEquity",
+              "bbox": [
+                87,
+                651,
+                151,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "12%",
+          "bbox": [
+            156,
+            647,
+            217,
+            681
+          ],
+          "words": [
+            {
+              "text": "12%",
+              "bbox": [
+                161,
+                651,
+                179,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "PolicyholderSurplus",
+          "bbox": [
+            217,
+            647,
+            277,
+            681
+          ],
+          "words": [
+            {
+              "text": "PolicyholderSurplus",
+              "bbox": [
+                224,
+                651,
+                272,
+                676
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "₹25B",
+          "bbox": [
+            277,
+            647,
+            338,
+            681
+          ],
+          "words": [
+            {
+              "text": "₹25B",
+              "bbox": [
+                311,
+                651,
+                333,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalAssets",
+          "bbox": [
+            338,
+            647,
+            398,
+            681
+          ],
+          "words": [
+            {
+              "text": "TotalAssets",
+              "bbox": [
+                347,
+                651,
+                393,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "₹500B",
+          "bbox": [
+            398,
+            647,
+            459,
+            681
+          ],
+          "words": [
+            {
+              "text": "₹500B",
+              "bbox": [
+                427,
+                651,
+                454,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalLiabilities",
+          "bbox": [
+            459,
+            647,
+            519,
+            681
+          ],
+          "words": [
+            {
+              "text": "TotalLiabilities",
+              "bbox": [
+                464,
+                651,
+                514,
+                676
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "₹450B",
+          "bbox": [
+            519,
+            647,
+            580,
+            681
+          ],
+          "words": [
+            {
+              "text": "₹450B",
+              "bbox": [
+                548,
+                651,
+                575,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "NetWrittenPremiums",
+          "bbox": [
+            15,
+            681,
+            156,
+            715
+          ],
+          "words": [
+            {
+              "text": "NetWrittenPremiums",
+              "bbox": [
+                66,
+                685,
+                151,
+                696
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "₹100B",
+          "bbox": [
+            156,
+            681,
+            217,
+            715
+          ],
+          "words": [
+            {
+              "text": "₹100B",
+              "bbox": [
+                161,
+                685,
+                188,
+                696
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "ReinsuranceCosts",
+          "bbox": [
+            217,
+            681,
+            277,
+            715
+          ],
+          "words": [
+            {
+              "text": "ReinsuranceCosts",
+              "bbox": [
+                223,
+                685,
+                272,
+                710
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "₹15B",
+          "bbox": [
+            277,
+            681,
+            338,
+            715
+          ],
+          "words": [
+            {
+              "text": "₹15B",
+              "bbox": [
+                311,
+                685,
+                333,
+                696
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "ReserveRequirements",
+          "bbox": [
+            338,
+            681,
+            398,
+            715
+          ],
+          "words": [
+            {
+              "text": "ReserveRequirements",
+              "bbox": [
+                345,
+                685,
+                393,
+                710
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "₹20B",
+          "bbox": [
+            398,
+            681,
+            459,
+            715
+          ],
+          "words": [
+            {
+              "text": "₹20B",
+              "bbox": [
+                432,
+                685,
+                454,
+                696
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "LiquidityRatio",
+          "bbox": [
+            459,
+            681,
+            519,
+            715
+          ],
+          "words": [
+            {
+              "text": "LiquidityRatio",
+              "bbox": [
+                466,
+                685,
+                514,
+                710
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            519,
+            681,
+            580,
+            715
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                563,
+                685,
+                575,
+                696
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        730,
+        580,
+        776
+      ],
+      "content": "The Combined Ratio was calculated at 75%, with an Underwriting Profit of ₹30B and a Return on Equity of 12%. The Policyholder Surplus was ₹25B, Total Assets reached ₹500B, and Total Liabilities were ₹450B. Net Written Premiums were at ₹100B, Reinsurance Costs totaled ₹15B, Reserve Requirements were ₹20B, and the Liquidity Ratio was 1.5.",
+      "lines": [
+        {
+          "text": "The Combined Ratio was calculated at 75%, with an Underwriting Profit of ₹30B and a Return on Equity of 12%. The",
+          "bbox": [
+            15,
+            731,
+            580,
+            743
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                731,
+                32,
+                743
+              ]
+            },
+            {
+              "text": "Combined",
+              "bbox": [
+                37,
+                731,
+                83,
+                743
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                88,
+                731,
+                112,
+                743
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                117,
+                731,
+                134,
+                743
+              ]
+            },
+            {
+              "text": "calculated",
+              "bbox": [
+                139,
+                731,
+                183,
+                743
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                188,
+                731,
+                196,
+                743
+              ]
+            },
+            {
+              "text": "75%,",
+              "bbox": [
+                201,
+                731,
+                224,
+                743
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                229,
+                731,
+                248,
+                743
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                253,
+                731,
+                264,
+                743
+              ]
+            },
+            {
+              "text": "Underwriting",
+              "bbox": [
+                269,
+                731,
+                328,
+                743
+              ]
+            },
+            {
+              "text": "Profit",
+              "bbox": [
+                333,
+                731,
+                358,
+                743
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                363,
+                731,
+                372,
+                743
+              ]
+            },
+            {
+              "text": "₹30B",
+              "bbox": [
+                377,
+                731,
+                401,
+                743
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                406,
+                731,
+                421,
+                743
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                426,
+                731,
+                431,
+                743
+              ]
+            },
+            {
+              "text": "Return",
+              "bbox": [
+                436,
+                731,
+                466,
+                743
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                471,
+                731,
+                482,
+                743
+              ]
+            },
+            {
+              "text": "Equity",
+              "bbox": [
+                487,
+                731,
+                516,
+                743
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                521,
+                731,
+                530,
+                743
+              ]
+            },
+            {
+              "text": "12%.",
+              "bbox": [
+                535,
+                731,
+                558,
+                743
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                563,
+                731,
+                580,
+                743
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Policyholder Surplus was ₹25B, Total Assets reached ₹500B, and Total Liabilities were ₹450B. Net Written Premiums were at",
+          "bbox": [
+            15,
+            747,
+            580,
+            759
+          ],
+          "words": [
+            {
+              "text": "Policyholder",
+              "bbox": [
+                15,
+                747,
+                71,
+                759
+              ]
+            },
+            {
+              "text": "Surplus",
+              "bbox": [
+                75,
+                747,
+                108,
+                759
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                111,
+                747,
+                129,
+                759
+              ]
+            },
+            {
+              "text": "₹25B,",
+              "bbox": [
+                132,
+                747,
+                158,
+                759
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                161,
+                747,
+                184,
+                759
+              ]
+            },
+            {
+              "text": "Assets",
+              "bbox": [
+                187,
+                747,
+                215,
+                759
+              ]
+            },
+            {
+              "text": "reached",
+              "bbox": [
+                219,
+                747,
+                253,
+                759
+              ]
+            },
+            {
+              "text": "₹500B,",
+              "bbox": [
+                256,
+                747,
+                288,
+                759
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                291,
+                747,
+                307,
+                759
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                310,
+                747,
+                333,
+                759
+              ]
+            },
+            {
+              "text": "Liabilities",
+              "bbox": [
+                336,
+                747,
+                381,
+                759
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                384,
+                747,
+                405,
+                759
+              ]
+            },
+            {
+              "text": "₹450B.",
+              "bbox": [
+                409,
+                747,
+                441,
+                759
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                444,
+                747,
+                460,
+                759
+              ]
+            },
+            {
+              "text": "Written",
+              "bbox": [
+                463,
+                747,
+                496,
+                759
+              ]
+            },
+            {
+              "text": "Premiums",
+              "bbox": [
+                499,
+                747,
+                544,
+                759
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                547,
+                747,
+                569,
+                759
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                572,
+                747,
+                580,
+                759
+              ]
+            }
+          ]
+        },
+        {
+          "text": "₹100B, Reinsurance Costs totaled ₹15B, Reserve Requirements were ₹20B, and the Liquidity Ratio was 1.5.",
+          "bbox": [
+            15,
+            762,
+            493,
+            774
+          ],
+          "words": [
+            {
+              "text": "₹100B,",
+              "bbox": [
+                15,
+                762,
+                47,
+                774
+              ]
+            },
+            {
+              "text": "Reinsurance",
+              "bbox": [
+                50,
+                762,
+                104,
+                774
+              ]
+            },
+            {
+              "text": "Costs",
+              "bbox": [
+                107,
+                762,
+                131,
+                774
+              ]
+            },
+            {
+              "text": "totaled",
+              "bbox": [
+                134,
+                762,
+                164,
+                774
+              ]
+            },
+            {
+              "text": "₹15B,",
+              "bbox": [
+                167,
+                762,
+                193,
+                774
+              ]
+            },
+            {
+              "text": "Reserve",
+              "bbox": [
+                196,
+                762,
+                232,
+                774
+              ]
+            },
+            {
+              "text": "Requirements",
+              "bbox": [
+                234,
+                762,
+                295,
+                774
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                298,
+                762,
+                320,
+                774
+              ]
+            },
+            {
+              "text": "₹20B,",
+              "bbox": [
+                322,
+                762,
+                349,
+                774
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                352,
+                762,
+                368,
+                774
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                370,
+                762,
+                384,
+                774
+              ]
+            },
+            {
+              "text": "Liquidity",
+              "bbox": [
+                386,
+                762,
+                427,
+                774
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                430,
+                762,
+                454,
+                774
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                457,
+                762,
+                474,
+                774
+              ]
+            },
+            {
+              "text": "1.5.",
+              "bbox": [
+                477,
+                762,
+                493,
+                774
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

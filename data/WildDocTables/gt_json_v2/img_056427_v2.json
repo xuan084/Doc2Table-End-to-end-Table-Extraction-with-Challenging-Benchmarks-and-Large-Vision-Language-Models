@@ -1,0 +1,4899 @@
+{
+  "image_id": "img_056427",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_056427_t0",
+      "bbox": [
+        15,
+        87,
+        580,
+        214
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            88,
+            580,
+            109
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            109,
+            580,
+            130
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            130,
+            580,
+            151
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            151,
+            580,
+            172
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            172,
+            580,
+            193
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            193,
+            580,
+            214
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Sample #</td><td>Growth temperature (°C)</td><td>Ar flow rate (SCCM)</td><td>N2 flow rate (SCCM)</td><td>N2/Ar flow rate ratio</td></tr><tr><td>1</td><td>300</td><td>9</td><td>2</td><td>0.22</td></tr><tr><td>2</td><td>300</td><td>10</td><td>4</td><td>0.40</td></tr><tr><td>3</td><td>300</td><td>10</td><td>6</td><td>0.60</td></tr><tr><td>4</td><td>300</td><td>10</td><td>8</td><td>0.80</td></tr><tr><td>5</td><td>300</td><td>10</td><td>10</td><td>1.0</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Sample #",
+          "bbox": [
+            16,
+            88,
+            75,
+            109
+          ],
+          "words": [
+            {
+              "text": "Sample",
+              "bbox": [
+                21,
+                92,
+                53,
+                103
+              ]
+            },
+            {
+              "text": "#",
+              "bbox": [
+                55,
+                92,
+                60,
+                103
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Growth temperature (°C)",
+          "bbox": [
+            75,
+            88,
+            218,
+            109
+          ],
+          "words": [
+            {
+              "text": "Growth",
+              "bbox": [
+                81,
+                92,
+                114,
+                103
+              ]
+            },
+            {
+              "text": "temperature",
+              "bbox": [
+                116,
+                92,
+                169,
+                103
+              ]
+            },
+            {
+              "text": "(°C)",
+              "bbox": [
+                172,
+                92,
+                190,
+                103
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Ar flow rate (SCCM)",
+          "bbox": [
+            218,
+            88,
+            338,
+            109
+          ],
+          "words": [
+            {
+              "text": "Ar",
+              "bbox": [
+                242,
+                92,
+                253,
+                103
+              ]
+            },
+            {
+              "text": "flow",
+              "bbox": [
+                256,
+                92,
+                274,
+                103
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                277,
+                92,
+                294,
+                103
+              ]
+            },
+            {
+              "text": "(SCCM)",
+              "bbox": [
+                297,
+                92,
+                333,
+                103
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "N2 flow rate (SCCM)",
+          "bbox": [
+            338,
+            88,
+            460,
+            109
+          ],
+          "words": [
+            {
+              "text": "N2",
+              "bbox": [
+                363,
+                92,
+                375,
+                103
+              ]
+            },
+            {
+              "text": "flow",
+              "bbox": [
+                377,
+                92,
+                396,
+                103
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                398,
+                92,
+                415,
+                103
+              ]
+            },
+            {
+              "text": "(SCCM)",
+              "bbox": [
+                418,
+                92,
+                454,
+                103
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "N2/Ar flow rate ratio",
+          "bbox": [
+            460,
+            88,
+            580,
+            109
+          ],
+          "words": [
+            {
+              "text": "N2/Ar",
+              "bbox": [
+                484,
+                92,
+                510,
+                103
+              ]
+            },
+            {
+              "text": "flow",
+              "bbox": [
+                513,
+                92,
+                531,
+                103
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                534,
+                92,
+                551,
+                103
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                553,
+                92,
+                574,
+                103
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            16,
+            109,
+            75,
+            130
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                21,
+                113,
+                26,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "300",
+          "bbox": [
+            75,
+            109,
+            218,
+            130
+          ],
+          "words": [
+            {
+              "text": "300",
+              "bbox": [
+                81,
+                113,
+                96,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "9",
+          "bbox": [
+            218,
+            109,
+            338,
+            130
+          ],
+          "words": [
+            {
+              "text": "9",
+              "bbox": [
+                328,
+                113,
+                333,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            338,
+            109,
+            460,
+            130
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                449,
+                113,
+                454,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.22",
+          "bbox": [
+            460,
+            109,
+            580,
+            130
+          ],
+          "words": [
+            {
+              "text": "0.22",
+              "bbox": [
+                557,
+                113,
+                574,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            16,
+            130,
+            75,
+            151
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                21,
+                134,
+                26,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "300",
+          "bbox": [
+            75,
+            130,
+            218,
+            151
+          ],
+          "words": [
+            {
+              "text": "300",
+              "bbox": [
+                81,
+                134,
+                96,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            218,
+            130,
+            338,
+            151
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                323,
+                134,
+                333,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            338,
+            130,
+            460,
+            151
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                449,
+                134,
+                454,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.40",
+          "bbox": [
+            460,
+            130,
+            580,
+            151
+          ],
+          "words": [
+            {
+              "text": "0.40",
+              "bbox": [
+                557,
+                134,
+                574,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "3",
+          "bbox": [
+            16,
+            151,
+            75,
+            172
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                21,
+                155,
+                26,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "300",
+          "bbox": [
+            75,
+            151,
+            218,
+            172
+          ],
+          "words": [
+            {
+              "text": "300",
+              "bbox": [
+                81,
+                155,
+                96,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            218,
+            151,
+            338,
+            172
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                323,
+                155,
+                333,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            338,
+            151,
+            460,
+            172
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                449,
+                155,
+                454,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.60",
+          "bbox": [
+            460,
+            151,
+            580,
+            172
+          ],
+          "words": [
+            {
+              "text": "0.60",
+              "bbox": [
+                557,
+                155,
+                574,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            16,
+            172,
+            75,
+            193
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                21,
+                176,
+                26,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "300",
+          "bbox": [
+            75,
+            172,
+            218,
+            193
+          ],
+          "words": [
+            {
+              "text": "300",
+              "bbox": [
+                81,
+                176,
+                96,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            218,
+            172,
+            338,
+            193
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                323,
+                176,
+                333,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "8",
+          "bbox": [
+            338,
+            172,
+            460,
+            193
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                449,
+                176,
+                454,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.80",
+          "bbox": [
+            460,
+            172,
+            580,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.80",
+              "bbox": [
+                557,
+                176,
+                574,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            16,
+            193,
+            75,
+            214
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                21,
+                197,
+                26,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "300",
+          "bbox": [
+            75,
+            193,
+            218,
+            214
+          ],
+          "words": [
+            {
+              "text": "300",
+              "bbox": [
+                81,
+                197,
+                96,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            218,
+            193,
+            338,
+            214
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                323,
+                197,
+                333,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            338,
+            193,
+            460,
+            214
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                444,
+                197,
+                454,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.0",
+          "bbox": [
+            460,
+            193,
+            580,
+            214
+          ],
+          "words": [
+            {
+              "text": "1.0",
+              "bbox": [
+                562,
+                197,
+                574,
+                208
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_056427_t1",
+      "bbox": [
+        15,
+        242,
+        580,
+        365
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            243,
+            580,
+            264
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            264,
+            580,
+            284
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            284,
+            580,
+            304
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            304,
+            580,
+            324
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            324,
+            580,
+            344
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            344,
+            580,
+            365
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">motion_sensor/hand.msg</td></tr><tr><td>std_msgs/Header</td><td>header</td></tr><tr><td>uint32</td><td>hands_num</td></tr><tr><td>string[]</td><td>hand_typer</td></tr><tr><td>geometry_msgs/Point</td><td>position</td></tr><tr><td>geometry_msgs/Quaternion</td><td>orientation</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "motion_sensor/hand.msg",
+          "bbox": [
+            15,
+            243,
+            580,
+            264
+          ],
+          "words": [
+            {
+              "text": "motion_sensor/hand.msg",
+              "bbox": [
+                20,
+                247,
+                126,
+                258
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "std_msgs/Header",
+          "bbox": [
+            15,
+            264,
+            401,
+            284
+          ],
+          "words": [
+            {
+              "text": "std_msgs/Header",
+              "bbox": [
+                20,
+                268,
+                89,
+                279
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "header",
+          "bbox": [
+            401,
+            264,
+            580,
+            284
+          ],
+          "words": [
+            {
+              "text": "header",
+              "bbox": [
+                548,
+                268,
+                575,
+                279
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "uint32",
+          "bbox": [
+            15,
+            284,
+            401,
+            304
+          ],
+          "words": [
+            {
+              "text": "uint32",
+              "bbox": [
+                20,
+                288,
+                46,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "hands_num",
+          "bbox": [
+            401,
+            284,
+            580,
+            304
+          ],
+          "words": [
+            {
+              "text": "hands_num",
+              "bbox": [
+                529,
+                288,
+                575,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "string[]",
+          "bbox": [
+            15,
+            304,
+            401,
+            324
+          ],
+          "words": [
+            {
+              "text": "string[]",
+              "bbox": [
+                20,
+                308,
+                49,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "hand_typer",
+          "bbox": [
+            401,
+            304,
+            580,
+            324
+          ],
+          "words": [
+            {
+              "text": "hand_typer",
+              "bbox": [
+                530,
+                308,
+                575,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "geometry_msgs/Point",
+          "bbox": [
+            15,
+            324,
+            401,
+            344
+          ],
+          "words": [
+            {
+              "text": "geometry_msgs/Point",
+              "bbox": [
+                20,
+                328,
+                107,
+                339
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "position",
+          "bbox": [
+            401,
+            324,
+            580,
+            344
+          ],
+          "words": [
+            {
+              "text": "position",
+              "bbox": [
+                543,
+                328,
+                575,
+                339
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "geometry_msgs/Quaternion",
+          "bbox": [
+            15,
+            344,
+            401,
+            365
+          ],
+          "words": [
+            {
+              "text": "geometry_msgs/Quaternion",
+              "bbox": [
+                20,
+                348,
+                131,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "orientation",
+          "bbox": [
+            401,
+            344,
+            580,
+            365
+          ],
+          "words": [
+            {
+              "text": "orientation",
+              "bbox": [
+                532,
+                348,
+                575,
+                359
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_056427_t2",
+      "bbox": [
+        15,
+        394,
+        580,
+        601
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            395,
+            580,
+            430
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            430,
+            580,
+            464
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            464,
+            580,
+            498
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            498,
+            580,
+            532
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            532,
+            580,
+            566
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            566,
+            580,
+            601
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Induced Damage</td><td>Experimental Animal</td><td>Intervention</td><td>Duration</td><td>Main Outcomes a</td><td>Reference</td></tr><tr><td>Obesity-related inflammation</td><td>C57BL/6 J mice</td><td>5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)</td><td>18 weeks</td><td>↓ High fat diet-induced IL-6 and expression of pro-inflammatory genes</td><td>[56]</td></tr><tr><td>Adipose tissue inflammation</td><td>C57BL/6 J mice</td><td>5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)</td><td>18 weeks</td><td>↓ High fat diet-induced TNF-α, IL-6, iNOS, NF-κB, COX-2</td><td>[57]</td></tr><tr><td>Adipose tissue inflammation</td><td>Swiss mice</td><td>10% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)</td><td>4 weeks</td><td>↑ High fat diet-down regulated PPARα expression and signaling</td><td>[58]</td></tr><tr><td>Experimental myocarditis</td><td>Balb/c mice</td><td>Cocoa polyphenol extract (oral)</td><td>3 weeks</td><td>↓ Myocarditis-induced IL-1β, IL-6, E-selectin, VCAM-1, NF-κB</td><td>[60]</td></tr><tr><td>Atherogenic diet</td><td>ApoE3Leiden mice</td><td>High flavanol chocolate-enriched diet (8.75%)</td><td>20 weeks</td><td>↑ High cholesterol-induced VCAM-1 and E-selectin</td><td>[62]</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Induced Damage",
+          "bbox": [
+            15,
+            395,
+            101,
+            430
+          ],
+          "words": [
+            {
+              "text": "Induced",
+              "bbox": [
+                20,
+                399,
+                55,
+                410
+              ]
+            },
+            {
+              "text": "Damage",
+              "bbox": [
+                58,
+                399,
+                93,
+                410
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Experimental Animal",
+          "bbox": [
+            101,
+            395,
+            171,
+            430
+          ],
+          "words": [
+            {
+              "text": "Experimental",
+              "bbox": [
+                106,
+                399,
+                165,
+                410
+              ]
+            },
+            {
+              "text": "Animal",
+              "bbox": [
+                106,
+                413,
+                138,
+                424
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Intervention",
+          "bbox": [
+            171,
+            395,
+            314,
+            430
+          ],
+          "words": [
+            {
+              "text": "Intervention",
+              "bbox": [
+                176,
+                399,
+                230,
+                410
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Duration",
+          "bbox": [
+            314,
+            395,
+            351,
+            430
+          ],
+          "words": [
+            {
+              "text": "Duration",
+              "bbox": [
+                320,
+                399,
+                346,
+                424
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Main Outcomes a",
+          "bbox": [
+            351,
+            395,
+            541,
+            430
+          ],
+          "words": [
+            {
+              "text": "Main",
+              "bbox": [
+                460,
+                399,
+                483,
+                410
+              ]
+            },
+            {
+              "text": "Outcomes",
+              "bbox": [
+                486,
+                399,
+                528,
+                410
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                531,
+                399,
+                536,
+                410
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Reference",
+          "bbox": [
+            541,
+            395,
+            580,
+            430
+          ],
+          "words": [
+            {
+              "text": "Reference",
+              "bbox": [
+                547,
+                399,
+                575,
+                424
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Obesity-related inflammation",
+          "bbox": [
+            15,
+            430,
+            101,
+            464
+          ],
+          "words": [
+            {
+              "text": "Obesity-related",
+              "bbox": [
+                20,
+                434,
+                82,
+                445
+              ]
+            },
+            {
+              "text": "inflammation",
+              "bbox": [
+                20,
+                448,
+                74,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "C57BL/6 J mice",
+          "bbox": [
+            101,
+            430,
+            171,
+            464
+          ],
+          "words": [
+            {
+              "text": "C57BL/6",
+              "bbox": [
+                106,
+                434,
+                143,
+                445
+              ]
+            },
+            {
+              "text": "J",
+              "bbox": [
+                146,
+                434,
+                150,
+                445
+              ]
+            },
+            {
+              "text": "mice",
+              "bbox": [
+                106,
+                448,
+                126,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)",
+          "bbox": [
+            171,
+            430,
+            314,
+            464
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                176,
+                434,
+                190,
+                445
+              ]
+            },
+            {
+              "text": "Cocoa-enriched",
+              "bbox": [
+                192,
+                434,
+                255,
+                445
+              ]
+            },
+            {
+              "text": "diet",
+              "bbox": [
+                258,
+                434,
+                273,
+                445
+              ]
+            },
+            {
+              "text": "(50",
+              "bbox": [
+                275,
+                434,
+                289,
+                445
+              ]
+            },
+            {
+              "text": "mg",
+              "bbox": [
+                291,
+                434,
+                304,
+                445
+              ]
+            },
+            {
+              "text": "flavanols/Kg.b.w.)",
+              "bbox": [
+                176,
+                448,
+                250,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "18 weeks",
+          "bbox": [
+            314,
+            430,
+            351,
+            464
+          ],
+          "words": [
+            {
+              "text": "18",
+              "bbox": [
+                336,
+                434,
+                346,
+                445
+              ]
+            },
+            {
+              "text": "weeks",
+              "bbox": [
+                321,
+                448,
+                346,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "↓ High fat diet-induced IL-6 and expression of pro-inflammatory genes",
+          "bbox": [
+            351,
+            430,
+            541,
+            464
+          ],
+          "words": [
+            {
+              "text": "↓",
+              "bbox": [
+                360,
+                434,
+                365,
+                445
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                368,
+                434,
+                388,
+                445
+              ]
+            },
+            {
+              "text": "fat",
+              "bbox": [
+                390,
+                434,
+                401,
+                445
+              ]
+            },
+            {
+              "text": "diet-induced",
+              "bbox": [
+                403,
+                434,
+                453,
+                445
+              ]
+            },
+            {
+              "text": "IL-6",
+              "bbox": [
+                456,
+                434,
+                474,
+                445
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                476,
+                434,
+                491,
+                445
+              ]
+            },
+            {
+              "text": "expression",
+              "bbox": [
+                493,
+                434,
+                536,
+                445
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                429,
+                448,
+                437,
+                459
+              ]
+            },
+            {
+              "text": "pro-inflammatory",
+              "bbox": [
+                440,
+                448,
+                511,
+                459
+              ]
+            },
+            {
+              "text": "genes",
+              "bbox": [
+                513,
+                448,
+                536,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "[56]",
+          "bbox": [
+            541,
+            430,
+            580,
+            464
+          ],
+          "words": [
+            {
+              "text": "[56]",
+              "bbox": [
+                558,
+                434,
+                575,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Adipose tissue inflammation",
+          "bbox": [
+            15,
+            464,
+            101,
+            498
+          ],
+          "words": [
+            {
+              "text": "Adipose",
+              "bbox": [
+                20,
+                468,
+                53,
+                479
+              ]
+            },
+            {
+              "text": "tissue",
+              "bbox": [
+                56,
+                468,
+                79,
+                479
+              ]
+            },
+            {
+              "text": "inflammation",
+              "bbox": [
+                20,
+                482,
+                74,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "C57BL/6 J mice",
+          "bbox": [
+            101,
+            464,
+            171,
+            498
+          ],
+          "words": [
+            {
+              "text": "C57BL/6",
+              "bbox": [
+                106,
+                468,
+                143,
+                479
+              ]
+            },
+            {
+              "text": "J",
+              "bbox": [
+                146,
+                468,
+                150,
+                479
+              ]
+            },
+            {
+              "text": "mice",
+              "bbox": [
+                106,
+                482,
+                126,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)",
+          "bbox": [
+            171,
+            464,
+            314,
+            498
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                176,
+                468,
+                190,
+                479
+              ]
+            },
+            {
+              "text": "Cocoa-enriched",
+              "bbox": [
+                192,
+                468,
+                255,
+                479
+              ]
+            },
+            {
+              "text": "diet",
+              "bbox": [
+                258,
+                468,
+                273,
+                479
+              ]
+            },
+            {
+              "text": "(50",
+              "bbox": [
+                275,
+                468,
+                289,
+                479
+              ]
+            },
+            {
+              "text": "mg",
+              "bbox": [
+                291,
+                468,
+                304,
+                479
+              ]
+            },
+            {
+              "text": "flavanols/Kg.b.w.)",
+              "bbox": [
+                176,
+                482,
+                250,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "18 weeks",
+          "bbox": [
+            314,
+            464,
+            351,
+            498
+          ],
+          "words": [
+            {
+              "text": "18",
+              "bbox": [
+                336,
+                468,
+                346,
+                479
+              ]
+            },
+            {
+              "text": "weeks",
+              "bbox": [
+                321,
+                482,
+                346,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "↓ High fat diet-induced TNF-α, IL-6, iNOS, NF-κB, COX-2",
+          "bbox": [
+            351,
+            464,
+            541,
+            498
+          ],
+          "words": [
+            {
+              "text": "↓",
+              "bbox": [
+                360,
+                468,
+                365,
+                479
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                368,
+                468,
+                388,
+                479
+              ]
+            },
+            {
+              "text": "fat",
+              "bbox": [
+                390,
+                468,
+                401,
+                479
+              ]
+            },
+            {
+              "text": "diet-induced",
+              "bbox": [
+                403,
+                468,
+                453,
+                479
+              ]
+            },
+            {
+              "text": "TNF-α,",
+              "bbox": [
+                455,
+                468,
+                485,
+                479
+              ]
+            },
+            {
+              "text": "IL-6,",
+              "bbox": [
+                488,
+                468,
+                508,
+                479
+              ]
+            },
+            {
+              "text": "iNOS,",
+              "bbox": [
+                511,
+                468,
+                536,
+                479
+              ]
+            },
+            {
+              "text": "NF-κB,",
+              "bbox": [
+                474,
+                482,
+                504,
+                493
+              ]
+            },
+            {
+              "text": "COX-2",
+              "bbox": [
+                506,
+                482,
+                536,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "[57]",
+          "bbox": [
+            541,
+            464,
+            580,
+            498
+          ],
+          "words": [
+            {
+              "text": "[57]",
+              "bbox": [
+                558,
+                468,
+                575,
+                479
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Adipose tissue inflammation",
+          "bbox": [
+            15,
+            498,
+            101,
+            532
+          ],
+          "words": [
+            {
+              "text": "Adipose",
+              "bbox": [
+                20,
+                502,
+                53,
+                513
+              ]
+            },
+            {
+              "text": "tissue",
+              "bbox": [
+                56,
+                502,
+                79,
+                513
+              ]
+            },
+            {
+              "text": "inflammation",
+              "bbox": [
+                20,
+                516,
+                74,
+                527
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Swiss mice",
+          "bbox": [
+            101,
+            498,
+            171,
+            532
+          ],
+          "words": [
+            {
+              "text": "Swiss",
+              "bbox": [
+                106,
+                502,
+                130,
+                513
+              ]
+            },
+            {
+              "text": "mice",
+              "bbox": [
+                132,
+                502,
+                151,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)",
+          "bbox": [
+            171,
+            498,
+            314,
+            532
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                176,
+                502,
+                195,
+                513
+              ]
+            },
+            {
+              "text": "Cocoa-enriched",
+              "bbox": [
+                197,
+                502,
+                260,
+                513
+              ]
+            },
+            {
+              "text": "diet",
+              "bbox": [
+                263,
+                502,
+                278,
+                513
+              ]
+            },
+            {
+              "text": "(50",
+              "bbox": [
+                280,
+                502,
+                294,
+                513
+              ]
+            },
+            {
+              "text": "mg",
+              "bbox": [
+                176,
+                516,
+                189,
+                527
+              ]
+            },
+            {
+              "text": "flavanols/Kg.b.w.)",
+              "bbox": [
+                192,
+                516,
+                266,
+                527
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4 weeks",
+          "bbox": [
+            314,
+            498,
+            351,
+            532
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                341,
+                502,
+                346,
+                513
+              ]
+            },
+            {
+              "text": "weeks",
+              "bbox": [
+                321,
+                516,
+                346,
+                527
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "↑ High fat diet-down regulated PPARα expression and signaling",
+          "bbox": [
+            351,
+            498,
+            541,
+            532
+          ],
+          "words": [
+            {
+              "text": "↑",
+              "bbox": [
+                381,
+                502,
+                386,
+                513
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                388,
+                502,
+                408,
+                513
+              ]
+            },
+            {
+              "text": "fat",
+              "bbox": [
+                411,
+                502,
+                421,
+                513
+              ]
+            },
+            {
+              "text": "diet-down",
+              "bbox": [
+                424,
+                502,
+                464,
+                513
+              ]
+            },
+            {
+              "text": "regulated",
+              "bbox": [
+                467,
+                502,
+                504,
+                513
+              ]
+            },
+            {
+              "text": "PPARα",
+              "bbox": [
+                507,
+                502,
+                536,
+                513
+              ]
+            },
+            {
+              "text": "expression",
+              "bbox": [
+                437,
+                516,
+                480,
+                527
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                482,
+                516,
+                497,
+                527
+              ]
+            },
+            {
+              "text": "signaling",
+              "bbox": [
+                499,
+                516,
+                536,
+                527
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "[58]",
+          "bbox": [
+            541,
+            498,
+            580,
+            532
+          ],
+          "words": [
+            {
+              "text": "[58]",
+              "bbox": [
+                558,
+                502,
+                575,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Experimental myocarditis",
+          "bbox": [
+            15,
+            532,
+            101,
+            566
+          ],
+          "words": [
+            {
+              "text": "Experimental",
+              "bbox": [
+                20,
+                536,
+                74,
+                547
+              ]
+            },
+            {
+              "text": "myocarditis",
+              "bbox": [
+                20,
+                550,
+                67,
+                561
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Balb/c mice",
+          "bbox": [
+            101,
+            532,
+            171,
+            566
+          ],
+          "words": [
+            {
+              "text": "Balb/c",
+              "bbox": [
+                106,
+                536,
+                132,
+                547
+              ]
+            },
+            {
+              "text": "mice",
+              "bbox": [
+                135,
+                536,
+                154,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Cocoa polyphenol extract (oral)",
+          "bbox": [
+            171,
+            532,
+            314,
+            566
+          ],
+          "words": [
+            {
+              "text": "Cocoa",
+              "bbox": [
+                176,
+                536,
+                202,
+                547
+              ]
+            },
+            {
+              "text": "polyphenol",
+              "bbox": [
+                204,
+                536,
+                249,
+                547
+              ]
+            },
+            {
+              "text": "extract",
+              "bbox": [
+                252,
+                536,
+                279,
+                547
+              ]
+            },
+            {
+              "text": "(oral)",
+              "bbox": [
+                282,
+                536,
+                304,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3 weeks",
+          "bbox": [
+            314,
+            532,
+            351,
+            566
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                341,
+                536,
+                346,
+                547
+              ]
+            },
+            {
+              "text": "weeks",
+              "bbox": [
+                321,
+                550,
+                346,
+                561
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "↓ Myocarditis-induced IL-1β, IL-6, E-selectin, VCAM-1, NF-κB",
+          "bbox": [
+            351,
+            532,
+            541,
+            566
+          ],
+          "words": [
+            {
+              "text": "↓",
+              "bbox": [
+                382,
+                536,
+                387,
+                547
+              ]
+            },
+            {
+              "text": "Myocarditis-induced",
+              "bbox": [
+                390,
+                536,
+                473,
+                547
+              ]
+            },
+            {
+              "text": "IL-1β,",
+              "bbox": [
+                476,
+                536,
+                501,
+                547
+              ]
+            },
+            {
+              "text": "IL-6,",
+              "bbox": [
+                504,
+                536,
+                524,
+                547
+              ]
+            },
+            {
+              "text": "E-selectin,",
+              "bbox": [
+                429,
+                536,
+                536,
+                561
+              ]
+            },
+            {
+              "text": "VCAM-1,",
+              "bbox": [
+                465,
+                550,
+                506,
+                561
+              ]
+            },
+            {
+              "text": "NF-κB",
+              "bbox": [
+                508,
+                550,
+                536,
+                561
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "[60]",
+          "bbox": [
+            541,
+            532,
+            580,
+            566
+          ],
+          "words": [
+            {
+              "text": "[60]",
+              "bbox": [
+                558,
+                536,
+                575,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Atherogenic diet",
+          "bbox": [
+            15,
+            566,
+            101,
+            601
+          ],
+          "words": [
+            {
+              "text": "Atherogenic",
+              "bbox": [
+                20,
+                570,
+                69,
+                581
+              ]
+            },
+            {
+              "text": "diet",
+              "bbox": [
+                72,
+                570,
+                87,
+                581
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "ApoE3Leiden mice",
+          "bbox": [
+            101,
+            566,
+            171,
+            601
+          ],
+          "words": [
+            {
+              "text": "ApoE3Leiden",
+              "bbox": [
+                106,
+                570,
+                162,
+                581
+              ]
+            },
+            {
+              "text": "mice",
+              "bbox": [
+                106,
+                584,
+                126,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "High flavanol chocolate-enriched diet (8.75%)",
+          "bbox": [
+            171,
+            566,
+            314,
+            601
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                176,
+                570,
+                196,
+                581
+              ]
+            },
+            {
+              "text": "flavanol",
+              "bbox": [
+                199,
+                570,
+                232,
+                581
+              ]
+            },
+            {
+              "text": "chocolate-enriched",
+              "bbox": [
+                176,
+                570,
+                276,
+                595
+              ]
+            },
+            {
+              "text": "diet",
+              "bbox": [
+                213,
+                584,
+                228,
+                595
+              ]
+            },
+            {
+              "text": "(8.75%)",
+              "bbox": [
+                231,
+                584,
+                263,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20 weeks",
+          "bbox": [
+            314,
+            566,
+            351,
+            601
+          ],
+          "words": [
+            {
+              "text": "20",
+              "bbox": [
+                336,
+                570,
+                346,
+                581
+              ]
+            },
+            {
+              "text": "weeks",
+              "bbox": [
+                321,
+                584,
+                346,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "↑ High cholesterol-induced VCAM-1 and E-selectin",
+          "bbox": [
+            351,
+            566,
+            541,
+            601
+          ],
+          "words": [
+            {
+              "text": "↑",
+              "bbox": [
+                357,
+                570,
+                362,
+                581
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                365,
+                570,
+                385,
+                581
+              ]
+            },
+            {
+              "text": "cholesterol-induced",
+              "bbox": [
+                387,
+                570,
+                466,
+                581
+              ]
+            },
+            {
+              "text": "VCAM-1",
+              "bbox": [
+                469,
+                570,
+                507,
+                581
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                509,
+                570,
+                524,
+                581
+              ]
+            },
+            {
+              "text": "E-selectin",
+              "bbox": [
+                505,
+                570,
+                536,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "[62]",
+          "bbox": [
+            541,
+            566,
+            580,
+            601
+          ],
+          "words": [
+            {
+              "text": "[62]",
+              "bbox": [
+                558,
+                570,
+                575,
+                581
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        616,
+        580,
+        770
+      ],
+      "content": "The data presented in Table 1 provides a comprehensive overview of experimental conditions and outcomes related to obesity-related inflammation in various animal models. The table systematically categorizes samples based on key parameters, including growth temperature (°C) and flow rates of argon (Ar) and nitrogen (N2). Notably, the N2/Ar flow rate ratio is highlighted, indicating the specific gas mixture utilized in each experimental setup. This ratio is critical for understanding the environmental conditions under which the experiments were conducted, as it influences the physiological responses observed in the subjects. Additionally, the table includes metrics such as the duration of the intervention and the main outcomes associated with each sample, which are essential for assessing the efficacy of the treatments administered. By documenting the induced damage alongside the experimental animals used, the table serves as a valuable resource for researchers aiming to replicate or build upon these findings. Together, these variables elucidate the complex interplay between environmental factors and the biological mechanisms underlying obesity-related inflammation, offering insights into potential therapeutic strategies.",
+      "lines": [
+        {
+          "text": "The data presented in Table 1 provides a comprehensive overview of experimental conditions and outcomes related to obesity-",
+          "bbox": [
+            15,
+            617,
+            580,
+            629
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                617,
+                32,
+                629
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                35,
+                617,
+                54,
+                629
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                57,
+                617,
+                99,
+                629
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                102,
+                617,
+                111,
+                629
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                114,
+                617,
+                138,
+                629
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                141,
+                617,
+                147,
+                629
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                150,
+                617,
+                188,
+                629
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                191,
+                617,
+                196,
+                629
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                199,
+                617,
+                266,
+                629
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                269,
+                617,
+                310,
+                629
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                313,
+                617,
+                322,
+                629
+              ]
+            },
+            {
+              "text": "experimental",
+              "bbox": [
+                325,
+                617,
+                383,
+                629
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                386,
+                617,
+                432,
+                629
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                435,
+                617,
+                451,
+                629
+              ]
+            },
+            {
+              "text": "outcomes",
+              "bbox": [
+                454,
+                617,
+                496,
+                629
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                500,
+                617,
+                530,
+                629
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                533,
+                617,
+                541,
+                629
+              ]
+            },
+            {
+              "text": "obesity-",
+              "bbox": [
+                545,
+                617,
+                580,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "text": "related inflammation in various animal models. The table systematically categorizes samples based on key parameters,",
+          "bbox": [
+            15,
+            632,
+            580,
+            644
+          ],
+          "words": [
+            {
+              "text": "related",
+              "bbox": [
+                15,
+                632,
+                45,
+                644
+              ]
+            },
+            {
+              "text": "inflammation",
+              "bbox": [
+                51,
+                632,
+                110,
+                644
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                116,
+                632,
+                124,
+                644
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                130,
+                632,
+                163,
+                644
+              ]
+            },
+            {
+              "text": "animal",
+              "bbox": [
+                168,
+                632,
+                198,
+                644
+              ]
+            },
+            {
+              "text": "models.",
+              "bbox": [
+                204,
+                632,
+                239,
+                644
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                244,
+                632,
+                261,
+                644
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                267,
+                632,
+                289,
+                644
+              ]
+            },
+            {
+              "text": "systematically",
+              "bbox": [
+                294,
+                632,
+                357,
+                644
+              ]
+            },
+            {
+              "text": "categorizes",
+              "bbox": [
+                363,
+                632,
+                413,
+                644
+              ]
+            },
+            {
+              "text": "samples",
+              "bbox": [
+                418,
+                632,
+                454,
+                644
+              ]
+            },
+            {
+              "text": "based",
+              "bbox": [
+                460,
+                632,
+                485,
+                644
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                490,
+                632,
+                502,
+                644
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                507,
+                632,
+                523,
+                644
+              ]
+            },
+            {
+              "text": "parameters,",
+              "bbox": [
+                529,
+                632,
+                580,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "text": "including growth temperature (°C) and flow rates of argon (Ar) and nitrogen (N2). Notably, the N2/Ar flow rate ratio is",
+          "bbox": [
+            15,
+            648,
+            580,
+            660
+          ],
+          "words": [
+            {
+              "text": "including",
+              "bbox": [
+                15,
+                648,
+                57,
+                660
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                61,
+                648,
+                93,
+                660
+              ]
+            },
+            {
+              "text": "temperature",
+              "bbox": [
+                97,
+                648,
+                150,
+                660
+              ]
+            },
+            {
+              "text": "(°C)",
+              "bbox": [
+                155,
+                648,
+                174,
+                660
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                179,
+                648,
+                195,
+                660
+              ]
+            },
+            {
+              "text": "flow",
+              "bbox": [
+                199,
+                648,
+                219,
+                660
+              ]
+            },
+            {
+              "text": "rates",
+              "bbox": [
+                224,
+                648,
+                245,
+                660
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                250,
+                648,
+                259,
+                660
+              ]
+            },
+            {
+              "text": "argon",
+              "bbox": [
+                264,
+                648,
+                289,
+                660
+              ]
+            },
+            {
+              "text": "(Ar)",
+              "bbox": [
+                294,
+                648,
+                313,
+                660
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                317,
+                648,
+                333,
+                660
+              ]
+            },
+            {
+              "text": "nitrogen",
+              "bbox": [
+                338,
+                648,
+                375,
+                660
+              ]
+            },
+            {
+              "text": "(N2).",
+              "bbox": [
+                380,
+                648,
+                403,
+                660
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                408,
+                648,
+                445,
+                660
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                450,
+                648,
+                464,
+                660
+              ]
+            },
+            {
+              "text": "N2/Ar",
+              "bbox": [
+                468,
+                648,
+                497,
+                660
+              ]
+            },
+            {
+              "text": "flow",
+              "bbox": [
+                501,
+                648,
+                522,
+                660
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                526,
+                648,
+                543,
+                660
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                548,
+                648,
+                568,
+                660
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                573,
+                648,
+                580,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "text": "highlighted, indicating the specific gas mixture utilized in each experimental setup. This ratio is critical for understanding the",
+          "bbox": [
+            15,
+            663,
+            580,
+            675
+          ],
+          "words": [
+            {
+              "text": "highlighted,",
+              "bbox": [
+                15,
+                663,
+                68,
+                675
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                71,
+                663,
+                115,
+                675
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                119,
+                663,
+                132,
+                675
+              ]
+            },
+            {
+              "text": "specific",
+              "bbox": [
+                136,
+                663,
+                170,
+                675
+              ]
+            },
+            {
+              "text": "gas",
+              "bbox": [
+                174,
+                663,
+                188,
+                675
+              ]
+            },
+            {
+              "text": "mixture",
+              "bbox": [
+                192,
+                663,
+                226,
+                675
+              ]
+            },
+            {
+              "text": "utilized",
+              "bbox": [
+                230,
+                663,
+                263,
+                675
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                266,
+                663,
+                275,
+                675
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                278,
+                663,
+                299,
+                675
+              ]
+            },
+            {
+              "text": "experimental",
+              "bbox": [
+                302,
+                663,
+                360,
+                675
+              ]
+            },
+            {
+              "text": "setup.",
+              "bbox": [
+                363,
+                663,
+                389,
+                675
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                392,
+                663,
+                412,
+                675
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                416,
+                663,
+                436,
+                675
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                439,
+                663,
+                447,
+                675
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                450,
+                663,
+                481,
+                675
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                484,
+                663,
+                497,
+                675
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                501,
+                663,
+                563,
+                675
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                663,
+                580,
+                675
+              ]
+            }
+          ]
+        },
+        {
+          "text": "environmental conditions under which the experiments were conducted, as it influences the physiological responses observed in",
+          "bbox": [
+            15,
+            679,
+            580,
+            691
+          ],
+          "words": [
+            {
+              "text": "environmental",
+              "bbox": [
+                15,
+                679,
+                79,
+                691
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                81,
+                679,
+                127,
+                691
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                130,
+                679,
+                155,
+                691
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                158,
+                679,
+                185,
+                691
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                188,
+                679,
+                201,
+                691
+              ]
+            },
+            {
+              "text": "experiments",
+              "bbox": [
+                204,
+                679,
+                258,
+                691
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                261,
+                679,
+                282,
+                691
+              ]
+            },
+            {
+              "text": "conducted,",
+              "bbox": [
+                285,
+                679,
+                333,
+                691
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                336,
+                679,
+                345,
+                691
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                348,
+                679,
+                354,
+                691
+              ]
+            },
+            {
+              "text": "influences",
+              "bbox": [
+                357,
+                679,
+                402,
+                691
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                405,
+                679,
+                418,
+                691
+              ]
+            },
+            {
+              "text": "physiological",
+              "bbox": [
+                421,
+                679,
+                480,
+                691
+              ]
+            },
+            {
+              "text": "responses",
+              "bbox": [
+                483,
+                679,
+                526,
+                691
+              ]
+            },
+            {
+              "text": "observed",
+              "bbox": [
+                529,
+                679,
+                569,
+                691
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                679,
+                580,
+                691
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the subjects. Additionally, the table includes metrics such as the duration of the intervention and the main outcomes associated",
+          "bbox": [
+            15,
+            694,
+            580,
+            706
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                694,
+                28,
+                706
+              ]
+            },
+            {
+              "text": "subjects.",
+              "bbox": [
+                32,
+                694,
+                70,
+                706
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                73,
+                694,
+                130,
+                706
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                133,
+                694,
+                147,
+                706
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                150,
+                694,
+                172,
+                706
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                175,
+                694,
+                211,
+                706
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                215,
+                694,
+                247,
+                706
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                250,
+                694,
+                270,
+                706
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                274,
+                694,
+                283,
+                706
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                286,
+                694,
+                300,
+                706
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                303,
+                694,
+                340,
+                706
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                343,
+                694,
+                352,
+                706
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                355,
+                694,
+                369,
+                706
+              ]
+            },
+            {
+              "text": "intervention",
+              "bbox": [
+                372,
+                694,
+                425,
+                706
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                428,
+                694,
+                444,
+                706
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                447,
+                694,
+                461,
+                706
+              ]
+            },
+            {
+              "text": "main",
+              "bbox": [
+                464,
+                694,
+                486,
+                706
+              ]
+            },
+            {
+              "text": "outcomes",
+              "bbox": [
+                489,
+                694,
+                532,
+                706
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                535,
+                694,
+                580,
+                706
+              ]
+            }
+          ]
+        },
+        {
+          "text": "with each sample, which are essential for assessing the efficacy of the treatments administered. By documenting the induced",
+          "bbox": [
+            15,
+            709,
+            580,
+            721
+          ],
+          "words": [
+            {
+              "text": "with",
+              "bbox": [
+                15,
+                709,
+                35,
+                721
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                38,
+                709,
+                58,
+                721
+              ]
+            },
+            {
+              "text": "sample,",
+              "bbox": [
+                62,
+                709,
+                96,
+                721
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                100,
+                709,
+                127,
+                721
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                131,
+                709,
+                144,
+                721
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                148,
+                709,
+                186,
+                721
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                189,
+                709,
+                202,
+                721
+              ]
+            },
+            {
+              "text": "assessing",
+              "bbox": [
+                206,
+                709,
+                247,
+                721
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                251,
+                709,
+                264,
+                721
+              ]
+            },
+            {
+              "text": "efficacy",
+              "bbox": [
+                268,
+                709,
+                303,
+                721
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                307,
+                709,
+                316,
+                721
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                320,
+                709,
+                333,
+                721
+              ]
+            },
+            {
+              "text": "treatments",
+              "bbox": [
+                337,
+                709,
+                383,
+                721
+              ]
+            },
+            {
+              "text": "administered.",
+              "bbox": [
+                387,
+                709,
+                446,
+                721
+              ]
+            },
+            {
+              "text": "By",
+              "bbox": [
+                450,
+                709,
+                463,
+                721
+              ]
+            },
+            {
+              "text": "documenting",
+              "bbox": [
+                467,
+                709,
+                524,
+                721
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                528,
+                709,
+                541,
+                721
+              ]
+            },
+            {
+              "text": "induced",
+              "bbox": [
+                545,
+                709,
+                580,
+                721
+              ]
+            }
+          ]
+        },
+        {
+          "text": "damage alongside the experimental animals used, the table serves as a valuable resource for researchers aiming to replicate or",
+          "bbox": [
+            15,
+            725,
+            580,
+            737
+          ],
+          "words": [
+            {
+              "text": "damage",
+              "bbox": [
+                15,
+                725,
+                49,
+                737
+              ]
+            },
+            {
+              "text": "alongside",
+              "bbox": [
+                53,
+                725,
+                95,
+                737
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                98,
+                725,
+                112,
+                737
+              ]
+            },
+            {
+              "text": "experimental",
+              "bbox": [
+                115,
+                725,
+                172,
+                737
+              ]
+            },
+            {
+              "text": "animals",
+              "bbox": [
+                176,
+                725,
+                210,
+                737
+              ]
+            },
+            {
+              "text": "used,",
+              "bbox": [
+                213,
+                725,
+                236,
+                737
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                240,
+                725,
+                253,
+                737
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                257,
+                725,
+                278,
+                737
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                281,
+                725,
+                309,
+                737
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                312,
+                725,
+                322,
+                737
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                325,
+                725,
+                330,
+                737
+              ]
+            },
+            {
+              "text": "valuable",
+              "bbox": [
+                333,
+                725,
+                370,
+                737
+              ]
+            },
+            {
+              "text": "resource",
+              "bbox": [
+                374,
+                725,
+                411,
+                737
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                415,
+                725,
+                427,
+                737
+              ]
+            },
+            {
+              "text": "researchers",
+              "bbox": [
+                431,
+                725,
+                480,
+                737
+              ]
+            },
+            {
+              "text": "aiming",
+              "bbox": [
+                484,
+                725,
+                514,
+                737
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                518,
+                725,
+                526,
+                737
+              ]
+            },
+            {
+              "text": "replicate",
+              "bbox": [
+                530,
+                725,
+                567,
+                737
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                571,
+                725,
+                580,
+                737
+              ]
+            }
+          ]
+        },
+        {
+          "text": "build upon these findings. Together, these variables elucidate the complex interplay between environmental factors and the",
+          "bbox": [
+            15,
+            740,
+            580,
+            752
+          ],
+          "words": [
+            {
+              "text": "build",
+              "bbox": [
+                15,
+                740,
+                38,
+                752
+              ]
+            },
+            {
+              "text": "upon",
+              "bbox": [
+                42,
+                740,
+                64,
+                752
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                68,
+                740,
+                91,
+                752
+              ]
+            },
+            {
+              "text": "findings.",
+              "bbox": [
+                95,
+                740,
+                134,
+                752
+              ]
+            },
+            {
+              "text": "Together,",
+              "bbox": [
+                138,
+                740,
+                180,
+                752
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                184,
+                740,
+                207,
+                752
+              ]
+            },
+            {
+              "text": "variables",
+              "bbox": [
+                211,
+                740,
+                251,
+                752
+              ]
+            },
+            {
+              "text": "elucidate",
+              "bbox": [
+                255,
+                740,
+                295,
+                752
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                299,
+                740,
+                313,
+                752
+              ]
+            },
+            {
+              "text": "complex",
+              "bbox": [
+                317,
+                740,
+                355,
+                752
+              ]
+            },
+            {
+              "text": "interplay",
+              "bbox": [
+                359,
+                740,
+                399,
+                752
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                403,
+                740,
+                440,
+                752
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                444,
+                740,
+                508,
+                752
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                512,
+                740,
+                542,
+                752
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                546,
+                740,
+                562,
+                752
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                740,
+                580,
+                752
+              ]
+            }
+          ]
+        },
+        {
+          "text": "biological mechanisms underlying obesity-related inflammation, offering insights into potential therapeutic strategies.",
+          "bbox": [
+            15,
+            756,
+            534,
+            768
+          ],
+          "words": [
+            {
+              "text": "biological",
+              "bbox": [
+                15,
+                756,
+                59,
+                768
+              ]
+            },
+            {
+              "text": "mechanisms",
+              "bbox": [
+                62,
+                756,
+                116,
+                768
+              ]
+            },
+            {
+              "text": "underlying",
+              "bbox": [
+                119,
+                756,
+                167,
+                768
+              ]
+            },
+            {
+              "text": "obesity-related",
+              "bbox": [
+                169,
+                756,
+                235,
+                768
+              ]
+            },
+            {
+              "text": "inflammation,",
+              "bbox": [
+                237,
+                756,
+                299,
+                768
+              ]
+            },
+            {
+              "text": "offering",
+              "bbox": [
+                302,
+                756,
+                337,
+                768
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                340,
+                756,
+                374,
+                768
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                377,
+                756,
+                394,
+                768
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                397,
+                756,
+                435,
+                768
+              ]
+            },
+            {
+              "text": "therapeutic",
+              "bbox": [
+                438,
+                756,
+                487,
+                768
+              ]
+            },
+            {
+              "text": "strategies.",
+              "bbox": [
+                490,
+                756,
+                534,
+                768
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4461 @@
+{
+  "image_id": "img_048784",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_048784_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        192
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            66,
+            580,
+            87
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            87,
+            580,
+            108
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            108,
+            580,
+            129
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            129,
+            580,
+            150
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            150,
+            580,
+            171
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            171,
+            580,
+            192
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Type of helminths</td><td>Malaria</td><td>No malaria</td><td>Total</td><td>OR</td><td>P†</td></tr><tr><td></td><td>(N = 197)</td><td>(N = 216)</td><td>(N = 413)</td><td>(95%CI)#</td><td></td></tr><tr><td>T. trichiura</td><td>119 (63.6)</td><td>98 (58.0)</td><td>217 (61.0)</td><td>1.361 (1.119, 1.655)</td><td>0.002</td></tr><tr><td>A. lumbricoides</td><td>98 (52.4)</td><td>98 (58.0)</td><td>196 (55.1)</td><td>1.147 (0.780, 1.687)</td><td>1.147</td></tr><tr><td>S. mansoni</td><td>52 (27.8)</td><td>43 (25.4)</td><td>95 (26.7)</td><td>1.137 (0.976, 1.326)</td><td>1.137</td></tr><tr><td>Hookworm</td><td>23 (12.3)</td><td>19 (11.2)</td><td>42 (11.8)</td><td>1.086 (0.926, 1.275)</td><td>1.086</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Type of helminths",
+          "bbox": [
+            16,
+            66,
+            146,
+            87
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                21,
+                70,
+                42,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                44,
+                70,
+                53,
+                81
+              ]
+            },
+            {
+              "text": "helminths",
+              "bbox": [
+                55,
+                70,
+                98,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Malaria",
+          "bbox": [
+            146,
+            66,
+            224,
+            87
+          ],
+          "words": [
+            {
+              "text": "Malaria",
+              "bbox": [
+                152,
+                70,
+                186,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "No malaria",
+          "bbox": [
+            224,
+            66,
+            312,
+            87
+          ],
+          "words": [
+            {
+              "text": "No",
+              "bbox": [
+                230,
+                70,
+                242,
+                81
+              ]
+            },
+            {
+              "text": "malaria",
+              "bbox": [
+                244,
+                70,
+                278,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Total",
+          "bbox": [
+            312,
+            66,
+            391,
+            87
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                364,
+                70,
+                386,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "OR",
+          "bbox": [
+            391,
+            66,
+            529,
+            87
+          ],
+          "words": [
+            {
+              "text": "OR",
+              "bbox": [
+                509,
+                70,
+                524,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "P†",
+          "bbox": [
+            529,
+            66,
+            580,
+            87
+          ],
+          "words": [
+            {
+              "text": "P†",
+              "bbox": [
+                563,
+                70,
+                574,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            87,
+            146,
+            108
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "(N = 197)",
+          "bbox": [
+            146,
+            87,
+            224,
+            108
+          ],
+          "words": [
+            {
+              "text": "(N",
+              "bbox": [
+                152,
+                91,
+                162,
+                102
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                165,
+                91,
+                170,
+                102
+              ]
+            },
+            {
+              "text": "197)",
+              "bbox": [
+                173,
+                91,
+                191,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "(N = 216)",
+          "bbox": [
+            224,
+            87,
+            312,
+            108
+          ],
+          "words": [
+            {
+              "text": "(N",
+              "bbox": [
+                230,
+                91,
+                240,
+                102
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                243,
+                91,
+                249,
+                102
+              ]
+            },
+            {
+              "text": "216)",
+              "bbox": [
+                251,
+                91,
+                269,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "(N = 413)",
+          "bbox": [
+            312,
+            87,
+            391,
+            108
+          ],
+          "words": [
+            {
+              "text": "(N",
+              "bbox": [
+                346,
+                91,
+                357,
+                102
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                359,
+                91,
+                365,
+                102
+              ]
+            },
+            {
+              "text": "413)",
+              "bbox": [
+                367,
+                91,
+                386,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "(95%CI)#",
+          "bbox": [
+            391,
+            87,
+            529,
+            108
+          ],
+          "words": [
+            {
+              "text": "(95%CI)#",
+              "bbox": [
+                481,
+                91,
+                524,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            529,
+            87,
+            580,
+            108
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "T. trichiura",
+          "bbox": [
+            16,
+            108,
+            146,
+            129
+          ],
+          "words": [
+            {
+              "text": "T.",
+              "bbox": [
+                21,
+                112,
+                29,
+                123
+              ]
+            },
+            {
+              "text": "trichiura",
+              "bbox": [
+                31,
+                112,
+                65,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "119 (63.6)",
+          "bbox": [
+            146,
+            108,
+            224,
+            129
+          ],
+          "words": [
+            {
+              "text": "119",
+              "bbox": [
+                152,
+                112,
+                166,
+                123
+              ]
+            },
+            {
+              "text": "(63.6)",
+              "bbox": [
+                169,
+                112,
+                193,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "98 (58.0)",
+          "bbox": [
+            224,
+            108,
+            312,
+            129
+          ],
+          "words": [
+            {
+              "text": "98",
+              "bbox": [
+                230,
+                112,
+                240,
+                123
+              ]
+            },
+            {
+              "text": "(58.0)",
+              "bbox": [
+                242,
+                112,
+                266,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "217 (61.0)",
+          "bbox": [
+            312,
+            108,
+            391,
+            129
+          ],
+          "words": [
+            {
+              "text": "217",
+              "bbox": [
+                344,
+                112,
+                359,
+                123
+              ]
+            },
+            {
+              "text": "(61.0)",
+              "bbox": [
+                361,
+                112,
+                386,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.361 (1.119, 1.655)",
+          "bbox": [
+            391,
+            108,
+            529,
+            129
+          ],
+          "words": [
+            {
+              "text": "1.361",
+              "bbox": [
+                443,
+                112,
+                465,
+                123
+              ]
+            },
+            {
+              "text": "(1.119,",
+              "bbox": [
+                468,
+                112,
+                496,
+                123
+              ]
+            },
+            {
+              "text": "1.655)",
+              "bbox": [
+                498,
+                112,
+                524,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.002",
+          "bbox": [
+            529,
+            108,
+            580,
+            129
+          ],
+          "words": [
+            {
+              "text": "0.002",
+              "bbox": [
+                552,
+                112,
+                574,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "A. lumbricoides",
+          "bbox": [
+            16,
+            129,
+            146,
+            150
+          ],
+          "words": [
+            {
+              "text": "A.",
+              "bbox": [
+                21,
+                133,
+                31,
+                144
+              ]
+            },
+            {
+              "text": "lumbricoides",
+              "bbox": [
+                33,
+                133,
+                85,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "98 (52.4)",
+          "bbox": [
+            146,
+            129,
+            224,
+            150
+          ],
+          "words": [
+            {
+              "text": "98",
+              "bbox": [
+                152,
+                133,
+                162,
+                144
+              ]
+            },
+            {
+              "text": "(52.4)",
+              "bbox": [
+                164,
+                133,
+                188,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "98 (58.0)",
+          "bbox": [
+            224,
+            129,
+            312,
+            150
+          ],
+          "words": [
+            {
+              "text": "98",
+              "bbox": [
+                230,
+                133,
+                240,
+                144
+              ]
+            },
+            {
+              "text": "(58.0)",
+              "bbox": [
+                242,
+                133,
+                266,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "196 (55.1)",
+          "bbox": [
+            312,
+            129,
+            391,
+            150
+          ],
+          "words": [
+            {
+              "text": "196",
+              "bbox": [
+                344,
+                133,
+                359,
+                144
+              ]
+            },
+            {
+              "text": "(55.1)",
+              "bbox": [
+                361,
+                133,
+                386,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.147 (0.780, 1.687)",
+          "bbox": [
+            391,
+            129,
+            529,
+            150
+          ],
+          "words": [
+            {
+              "text": "1.147",
+              "bbox": [
+                442,
+                133,
+                465,
+                144
+              ]
+            },
+            {
+              "text": "(0.780,",
+              "bbox": [
+                467,
+                133,
+                496,
+                144
+              ]
+            },
+            {
+              "text": "1.687)",
+              "bbox": [
+                498,
+                133,
+                524,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.147",
+          "bbox": [
+            529,
+            129,
+            580,
+            150
+          ],
+          "words": [
+            {
+              "text": "1.147",
+              "bbox": [
+                552,
+                133,
+                574,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "S. mansoni",
+          "bbox": [
+            16,
+            150,
+            146,
+            171
+          ],
+          "words": [
+            {
+              "text": "S.",
+              "bbox": [
+                21,
+                154,
+                29,
+                165
+              ]
+            },
+            {
+              "text": "mansoni",
+              "bbox": [
+                32,
+                154,
+                65,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "52 (27.8)",
+          "bbox": [
+            146,
+            150,
+            224,
+            171
+          ],
+          "words": [
+            {
+              "text": "52",
+              "bbox": [
+                152,
+                154,
+                162,
+                165
+              ]
+            },
+            {
+              "text": "(27.8)",
+              "bbox": [
+                164,
+                154,
+                188,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "43 (25.4)",
+          "bbox": [
+            224,
+            150,
+            312,
+            171
+          ],
+          "words": [
+            {
+              "text": "43",
+              "bbox": [
+                230,
+                154,
+                240,
+                165
+              ]
+            },
+            {
+              "text": "(25.4)",
+              "bbox": [
+                242,
+                154,
+                266,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "95 (26.7)",
+          "bbox": [
+            312,
+            150,
+            391,
+            171
+          ],
+          "words": [
+            {
+              "text": "95",
+              "bbox": [
+                349,
+                154,
+                359,
+                165
+              ]
+            },
+            {
+              "text": "(26.7)",
+              "bbox": [
+                361,
+                154,
+                386,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.137 (0.976, 1.326)",
+          "bbox": [
+            391,
+            150,
+            529,
+            171
+          ],
+          "words": [
+            {
+              "text": "1.137",
+              "bbox": [
+                442,
+                154,
+                465,
+                165
+              ]
+            },
+            {
+              "text": "(0.976,",
+              "bbox": [
+                467,
+                154,
+                496,
+                165
+              ]
+            },
+            {
+              "text": "1.326)",
+              "bbox": [
+                498,
+                154,
+                524,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.137",
+          "bbox": [
+            529,
+            150,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "1.137",
+              "bbox": [
+                552,
+                154,
+                574,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Hookworm",
+          "bbox": [
+            16,
+            171,
+            146,
+            192
+          ],
+          "words": [
+            {
+              "text": "Hookworm",
+              "bbox": [
+                21,
+                175,
+                67,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "23 (12.3)",
+          "bbox": [
+            146,
+            171,
+            224,
+            192
+          ],
+          "words": [
+            {
+              "text": "23",
+              "bbox": [
+                152,
+                175,
+                162,
+                186
+              ]
+            },
+            {
+              "text": "(12.3)",
+              "bbox": [
+                164,
+                175,
+                188,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "19 (11.2)",
+          "bbox": [
+            224,
+            171,
+            312,
+            192
+          ],
+          "words": [
+            {
+              "text": "19",
+              "bbox": [
+                230,
+                175,
+                240,
+                186
+              ]
+            },
+            {
+              "text": "(11.2)",
+              "bbox": [
+                242,
+                175,
+                266,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "42 (11.8)",
+          "bbox": [
+            312,
+            171,
+            391,
+            192
+          ],
+          "words": [
+            {
+              "text": "42",
+              "bbox": [
+                349,
+                175,
+                359,
+                186
+              ]
+            },
+            {
+              "text": "(11.8)",
+              "bbox": [
+                362,
+                175,
+                386,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.086 (0.926, 1.275)",
+          "bbox": [
+            391,
+            171,
+            529,
+            192
+          ],
+          "words": [
+            {
+              "text": "1.086",
+              "bbox": [
+                442,
+                175,
+                465,
+                186
+              ]
+            },
+            {
+              "text": "(0.926,",
+              "bbox": [
+                467,
+                175,
+                496,
+                186
+              ]
+            },
+            {
+              "text": "1.275)",
+              "bbox": [
+                498,
+                175,
+                524,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.086",
+          "bbox": [
+            529,
+            171,
+            580,
+            192
+          ],
+          "words": [
+            {
+              "text": "1.086",
+              "bbox": [
+                552,
+                175,
+                574,
+                186
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_048784_t1",
+      "bbox": [
+        15,
+        207,
+        580,
+        400
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            208,
+            580,
+            229
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            229,
+            580,
+            263
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            263,
+            580,
+            297
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            297,
+            580,
+            331
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            331,
+            580,
+            365
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            365,
+            580,
+            400
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Sources of bias</td><td>Expected/watched for/resisted</td><td>Often unseen, unresisted</td></tr><tr><td>Internal sense of direction</td><td>Threats; overt pressure to slant findings/conclusions</td><td>Congeniality, support; compliments on neutrality</td></tr><tr><td>“Maps” of where to look</td><td>Lawyers expected to be adversarial (whereas science is collegial)</td><td>Lawyers good at changing questions— which are more important than answers</td></tr><tr><td>Rules of the “hunt”</td><td>Focus on “facts,” on answering questions</td><td>Broader “frames” that shape initial selection of questions</td></tr><tr><td>Broader region in which the hunt takes place</td><td>Economic interests may have purchased media outlets, “bought” journalists</td><td>“Subsidies” to mass media from public relations firms, semi-independent journalists</td></tr><tr><td>Ways of assessing quarry</td><td>“Sound science,” statistical significance</td><td>Balanced science—statistical power; trade-offs between type I/type II errors</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Sources of bias",
+          "bbox": [
+            15,
+            208,
+            143,
+            229
+          ],
+          "words": [
+            {
+              "text": "Sources",
+              "bbox": [
+                20,
+                212,
+                53,
+                223
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                56,
+                212,
+                64,
+                223
+              ]
+            },
+            {
+              "text": "bias",
+              "bbox": [
+                66,
+                212,
+                84,
+                223
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Expected/watched for/resisted",
+          "bbox": [
+            143,
+            208,
+            350,
+            229
+          ],
+          "words": [
+            {
+              "text": "Expected/watched",
+              "bbox": [
+                217,
+                212,
+                294,
+                223
+              ]
+            },
+            {
+              "text": "for/resisted",
+              "bbox": [
+                297,
+                212,
+                345,
+                223
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Often unseen, unresisted",
+          "bbox": [
+            350,
+            208,
+            580,
+            229
+          ],
+          "words": [
+            {
+              "text": "Often",
+              "bbox": [
+                470,
+                212,
+                494,
+                223
+              ]
+            },
+            {
+              "text": "unseen,",
+              "bbox": [
+                497,
+                212,
+                529,
+                223
+              ]
+            },
+            {
+              "text": "unresisted",
+              "bbox": [
+                531,
+                212,
+                575,
+                223
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Internal sense of direction",
+          "bbox": [
+            15,
+            229,
+            143,
+            263
+          ],
+          "words": [
+            {
+              "text": "Internal",
+              "bbox": [
+                20,
+                233,
+                51,
+                244
+              ]
+            },
+            {
+              "text": "sense",
+              "bbox": [
+                54,
+                233,
+                75,
+                244
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                78,
+                233,
+                86,
+                244
+              ]
+            },
+            {
+              "text": "direction",
+              "bbox": [
+                89,
+                233,
+                124,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Threats; overt pressure to slant findings/conclusions",
+          "bbox": [
+            143,
+            229,
+            350,
+            263
+          ],
+          "words": [
+            {
+              "text": "Threats;",
+              "bbox": [
+                222,
+                233,
+                254,
+                244
+              ]
+            },
+            {
+              "text": "overt",
+              "bbox": [
+                257,
+                233,
+                278,
+                244
+              ]
+            },
+            {
+              "text": "pressure",
+              "bbox": [
+                280,
+                233,
+                313,
+                244
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                316,
+                233,
+                324,
+                244
+              ]
+            },
+            {
+              "text": "slant",
+              "bbox": [
+                326,
+                233,
+                345,
+                244
+              ]
+            },
+            {
+              "text": "findings/conclusions",
+              "bbox": [
+                262,
+                247,
+                345,
+                258
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Congeniality, support; compliments on neutrality",
+          "bbox": [
+            350,
+            229,
+            580,
+            263
+          ],
+          "words": [
+            {
+              "text": "Congeniality,",
+              "bbox": [
+                379,
+                233,
+                432,
+                244
+              ]
+            },
+            {
+              "text": "support;",
+              "bbox": [
+                435,
+                233,
+                468,
+                244
+              ]
+            },
+            {
+              "text": "compliments",
+              "bbox": [
+                470,
+                233,
+                522,
+                244
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                524,
+                233,
+                534,
+                244
+              ]
+            },
+            {
+              "text": "neutrality",
+              "bbox": [
+                537,
+                233,
+                575,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "“Maps” of where to look",
+          "bbox": [
+            15,
+            263,
+            143,
+            297
+          ],
+          "words": [
+            {
+              "text": "“Maps”",
+              "bbox": [
+                20,
+                267,
+                51,
+                278
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                54,
+                267,
+                62,
+                278
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                64,
+                267,
+                89,
+                278
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                91,
+                267,
+                99,
+                278
+              ]
+            },
+            {
+              "text": "look",
+              "bbox": [
+                102,
+                267,
+                119,
+                278
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Lawyers expected to be adversarial (whereas science is collegial)",
+          "bbox": [
+            143,
+            263,
+            350,
+            297
+          ],
+          "words": [
+            {
+              "text": "Lawyers",
+              "bbox": [
+                165,
+                267,
+                200,
+                278
+              ]
+            },
+            {
+              "text": "expected",
+              "bbox": [
+                202,
+                267,
+                238,
+                278
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                240,
+                267,
+                248,
+                278
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                251,
+                267,
+                260,
+                278
+              ]
+            },
+            {
+              "text": "adversarial",
+              "bbox": [
+                263,
+                267,
+                306,
+                278
+              ]
+            },
+            {
+              "text": "(whereas",
+              "bbox": [
+                309,
+                267,
+                345,
+                278
+              ]
+            },
+            {
+              "text": "science",
+              "bbox": [
+                266,
+                281,
+                296,
+                292
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                298,
+                281,
+                305,
+                292
+              ]
+            },
+            {
+              "text": "collegial)",
+              "bbox": [
+                307,
+                281,
+                345,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Lawyers good at changing questions— which are more important than answers",
+          "bbox": [
+            350,
+            263,
+            580,
+            297
+          ],
+          "words": [
+            {
+              "text": "Lawyers",
+              "bbox": [
+                377,
+                267,
+                412,
+                278
+              ]
+            },
+            {
+              "text": "good",
+              "bbox": [
+                414,
+                267,
+                434,
+                278
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                437,
+                267,
+                444,
+                278
+              ]
+            },
+            {
+              "text": "changing",
+              "bbox": [
+                446,
+                267,
+                483,
+                278
+              ]
+            },
+            {
+              "text": "questions—",
+              "bbox": [
+                486,
+                267,
+                533,
+                278
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                536,
+                267,
+                560,
+                278
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                563,
+                267,
+                575,
+                278
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                459,
+                281,
+                479,
+                292
+              ]
+            },
+            {
+              "text": "important",
+              "bbox": [
+                482,
+                281,
+                521,
+                292
+              ]
+            },
+            {
+              "text": "than",
+              "bbox": [
+                523,
+                281,
+                540,
+                292
+              ]
+            },
+            {
+              "text": "answers",
+              "bbox": [
+                543,
+                281,
+                575,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Rules of the “hunt”",
+          "bbox": [
+            15,
+            297,
+            143,
+            331
+          ],
+          "words": [
+            {
+              "text": "Rules",
+              "bbox": [
+                20,
+                301,
+                43,
+                312
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                45,
+                301,
+                54,
+                312
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                56,
+                301,
+                68,
+                312
+              ]
+            },
+            {
+              "text": "“hunt”",
+              "bbox": [
+                71,
+                301,
+                97,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Focus on “facts,” on answering questions",
+          "bbox": [
+            143,
+            297,
+            350,
+            331
+          ],
+          "words": [
+            {
+              "text": "Focus",
+              "bbox": [
+                179,
+                301,
+                203,
+                312
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                206,
+                301,
+                216,
+                312
+              ]
+            },
+            {
+              "text": "“facts,”",
+              "bbox": [
+                218,
+                301,
+                249,
+                312
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                251,
+                301,
+                261,
+                312
+              ]
+            },
+            {
+              "text": "answering",
+              "bbox": [
+                264,
+                301,
+                305,
+                312
+              ]
+            },
+            {
+              "text": "questions",
+              "bbox": [
+                307,
+                301,
+                345,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Broader “frames” that shape initial selection of questions",
+          "bbox": [
+            350,
+            297,
+            580,
+            331
+          ],
+          "words": [
+            {
+              "text": "Broader",
+              "bbox": [
+                387,
+                301,
+                419,
+                312
+              ]
+            },
+            {
+              "text": "“frames”",
+              "bbox": [
+                421,
+                301,
+                458,
+                312
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                460,
+                301,
+                475,
+                312
+              ]
+            },
+            {
+              "text": "shape",
+              "bbox": [
+                478,
+                301,
+                500,
+                312
+              ]
+            },
+            {
+              "text": "initial",
+              "bbox": [
+                503,
+                301,
+                526,
+                312
+              ]
+            },
+            {
+              "text": "selection",
+              "bbox": [
+                529,
+                301,
+                564,
+                312
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                567,
+                301,
+                575,
+                312
+              ]
+            },
+            {
+              "text": "questions",
+              "bbox": [
+                537,
+                315,
+                575,
+                326
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Broader region in which the hunt takes place",
+          "bbox": [
+            15,
+            331,
+            143,
+            365
+          ],
+          "words": [
+            {
+              "text": "Broader",
+              "bbox": [
+                20,
+                335,
+                52,
+                346
+              ]
+            },
+            {
+              "text": "region",
+              "bbox": [
+                55,
+                335,
+                80,
+                346
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                83,
+                335,
+                91,
+                346
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                93,
+                335,
+                117,
+                346
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                120,
+                335,
+                132,
+                346
+              ]
+            },
+            {
+              "text": "hunt",
+              "bbox": [
+                20,
+                349,
+                38,
+                360
+              ]
+            },
+            {
+              "text": "takes",
+              "bbox": [
+                40,
+                349,
+                61,
+                360
+              ]
+            },
+            {
+              "text": "place",
+              "bbox": [
+                63,
+                349,
+                84,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Economic interests may have purchased media outlets, “bought” journalists",
+          "bbox": [
+            143,
+            331,
+            350,
+            365
+          ],
+          "words": [
+            {
+              "text": "Economic",
+              "bbox": [
+                158,
+                335,
+                198,
+                346
+              ]
+            },
+            {
+              "text": "interests",
+              "bbox": [
+                201,
+                335,
+                234,
+                346
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                236,
+                335,
+                254,
+                346
+              ]
+            },
+            {
+              "text": "have",
+              "bbox": [
+                256,
+                335,
+                275,
+                346
+              ]
+            },
+            {
+              "text": "purchased",
+              "bbox": [
+                278,
+                335,
+                318,
+                346
+              ]
+            },
+            {
+              "text": "media",
+              "bbox": [
+                321,
+                335,
+                345,
+                346
+              ]
+            },
+            {
+              "text": "outlets,",
+              "bbox": [
+                233,
+                349,
+                262,
+                360
+              ]
+            },
+            {
+              "text": "“bought”",
+              "bbox": [
+                264,
+                349,
+                301,
+                360
+              ]
+            },
+            {
+              "text": "journalists",
+              "bbox": [
+                303,
+                349,
+                345,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "“Subsidies” to mass media from public relations firms, semi-independent journalists",
+          "bbox": [
+            350,
+            331,
+            580,
+            365
+          ],
+          "words": [
+            {
+              "text": "“Subsidies”",
+              "bbox": [
+                356,
+                335,
+                403,
+                346
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                405,
+                335,
+                413,
+                346
+              ]
+            },
+            {
+              "text": "mass",
+              "bbox": [
+                416,
+                335,
+                436,
+                346
+              ]
+            },
+            {
+              "text": "media",
+              "bbox": [
+                438,
+                335,
+                463,
+                346
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                465,
+                335,
+                484,
+                346
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                487,
+                335,
+                512,
+                346
+              ]
+            },
+            {
+              "text": "relations",
+              "bbox": [
+                514,
+                335,
+                549,
+                346
+              ]
+            },
+            {
+              "text": "firms,",
+              "bbox": [
+                551,
+                335,
+                575,
+                346
+              ]
+            },
+            {
+              "text": "semi-independent",
+              "bbox": [
+                460,
+                349,
+                531,
+                360
+              ]
+            },
+            {
+              "text": "journalists",
+              "bbox": [
+                533,
+                349,
+                575,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Ways of assessing quarry",
+          "bbox": [
+            15,
+            365,
+            143,
+            400
+          ],
+          "words": [
+            {
+              "text": "Ways",
+              "bbox": [
+                20,
+                369,
+                42,
+                380
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                44,
+                369,
+                53,
+                380
+              ]
+            },
+            {
+              "text": "assessing",
+              "bbox": [
+                55,
+                369,
+                93,
+                380
+              ]
+            },
+            {
+              "text": "quarry",
+              "bbox": [
+                95,
+                369,
+                121,
+                380
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "“Sound science,” statistical significance",
+          "bbox": [
+            143,
+            365,
+            350,
+            400
+          ],
+          "words": [
+            {
+              "text": "“Sound",
+              "bbox": [
+                185,
+                369,
+                215,
+                380
+              ]
+            },
+            {
+              "text": "science,”",
+              "bbox": [
+                218,
+                369,
+                254,
+                380
+              ]
+            },
+            {
+              "text": "statistical",
+              "bbox": [
+                256,
+                369,
+                294,
+                380
+              ]
+            },
+            {
+              "text": "significance",
+              "bbox": [
+                297,
+                369,
+                345,
+                380
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Balanced science—statistical power; trade-offs between type I/type II errors",
+          "bbox": [
+            350,
+            365,
+            580,
+            400
+          ],
+          "words": [
+            {
+              "text": "Balanced",
+              "bbox": [
+                387,
+                369,
+                424,
+                380
+              ]
+            },
+            {
+              "text": "science—statistical",
+              "bbox": [
+                426,
+                369,
+                504,
+                380
+              ]
+            },
+            {
+              "text": "power;",
+              "bbox": [
+                506,
+                369,
+                534,
+                380
+              ]
+            },
+            {
+              "text": "trade-offs",
+              "bbox": [
+                536,
+                369,
+                575,
+                380
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                461,
+                383,
+                494,
+                394
+              ]
+            },
+            {
+              "text": "type",
+              "bbox": [
+                497,
+                383,
+                514,
+                394
+              ]
+            },
+            {
+              "text": "I/type",
+              "bbox": [
+                517,
+                383,
+                540,
+                394
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                543,
+                383,
+                549,
+                394
+              ]
+            },
+            {
+              "text": "errors",
+              "bbox": [
+                552,
+                383,
+                575,
+                394
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        415,
+        580,
+        584
+      ],
+      "content": "The prevalence of T. trichiura among various demographic groups highlights significant patterns in internal biases and external pressures that may influence research outcomes. As indicated in the data table, the sample sizes across the groups varied, with 197, 216, and 413 participants contributing to the analysis. Notably, the column labeled \"Expected/watched for/resisted\" reveals that 63.6% of respondents indicated a tendency to resist overt pressures when reporting their findings, while 58.0% acknowledged the influence of congeniality and perceived support on their neutrality. These metrics underscore the complexities researchers face in maintaining objectivity, particularly in environments where biases—both known and covert—can impact the integrity of scientific conclusions. The confidence interval (95%CI) of 1.361 (1.119, 1.655) further illustrates the statistical significance of these findings, suggesting a noteworthy correlation between the internal sense of direction of researchers and the sources of bias they encounter. This contextual backdrop is crucial for understanding the potential implications of these biases on the interpretation and application of research related to T. trichiura, ultimately informing best practices in future studies.",
+      "lines": [
+        {
+          "text": "The prevalence of T. trichiura among various demographic groups highlights significant patterns in internal biases and external",
+          "bbox": [
+            15,
+            416,
+            580,
+            428
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                416,
+                32,
+                428
+              ]
+            },
+            {
+              "text": "prevalence",
+              "bbox": [
+                35,
+                416,
+                83,
+                428
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                86,
+                416,
+                95,
+                428
+              ]
+            },
+            {
+              "text": "T.",
+              "bbox": [
+                98,
+                416,
+                107,
+                428
+              ]
+            },
+            {
+              "text": "trichiura",
+              "bbox": [
+                110,
+                416,
+                147,
+                428
+              ]
+            },
+            {
+              "text": "among",
+              "bbox": [
+                150,
+                416,
+                180,
+                428
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                183,
+                416,
+                216,
+                428
+              ]
+            },
+            {
+              "text": "demographic",
+              "bbox": [
+                219,
+                416,
+                276,
+                428
+              ]
+            },
+            {
+              "text": "groups",
+              "bbox": [
+                279,
+                416,
+                309,
+                428
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                312,
+                416,
+                356,
+                428
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                360,
+                416,
+                406,
+                428
+              ]
+            },
+            {
+              "text": "patterns",
+              "bbox": [
+                409,
+                416,
+                444,
+                428
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                447,
+                416,
+                456,
+                428
+              ]
+            },
+            {
+              "text": "internal",
+              "bbox": [
+                459,
+                416,
+                492,
+                428
+              ]
+            },
+            {
+              "text": "biases",
+              "bbox": [
+                496,
+                416,
+                522,
+                428
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                526,
+                416,
+                541,
+                428
+              ]
+            },
+            {
+              "text": "external",
+              "bbox": [
+                545,
+                416,
+                580,
+                428
+              ]
+            }
+          ]
+        },
+        {
+          "text": "pressures that may influence research outcomes. As indicated in the data table, the sample sizes across the groups varied, with",
+          "bbox": [
+            15,
+            431,
+            580,
+            443
+          ],
+          "words": [
+            {
+              "text": "pressures",
+              "bbox": [
+                15,
+                431,
+                56,
+                443
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                59,
+                431,
+                76,
+                443
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                79,
+                431,
+                98,
+                443
+              ]
+            },
+            {
+              "text": "influence",
+              "bbox": [
+                101,
+                431,
+                142,
+                443
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                146,
+                431,
+                182,
+                443
+              ]
+            },
+            {
+              "text": "outcomes.",
+              "bbox": [
+                186,
+                431,
+                230,
+                443
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                233,
+                431,
+                245,
+                443
+              ]
+            },
+            {
+              "text": "indicated",
+              "bbox": [
+                249,
+                431,
+                289,
+                443
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                292,
+                431,
+                301,
+                443
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                304,
+                431,
+                318,
+                443
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                321,
+                431,
+                339,
+                443
+              ]
+            },
+            {
+              "text": "table,",
+              "bbox": [
+                343,
+                431,
+                367,
+                443
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                370,
+                431,
+                384,
+                443
+              ]
+            },
+            {
+              "text": "sample",
+              "bbox": [
+                387,
+                431,
+                418,
+                443
+              ]
+            },
+            {
+              "text": "sizes",
+              "bbox": [
+                421,
+                431,
+                443,
+                443
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                446,
+                431,
+                474,
+                443
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                477,
+                431,
+                490,
+                443
+              ]
+            },
+            {
+              "text": "groups",
+              "bbox": [
+                494,
+                431,
+                524,
+                443
+              ]
+            },
+            {
+              "text": "varied,",
+              "bbox": [
+                527,
+                431,
+                557,
+                443
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                560,
+                431,
+                580,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "text": "197, 216, and 413 participants contributing to the analysis. Notably, the column labeled \"Expected/watched for/resisted\" reveals",
+          "bbox": [
+            15,
+            447,
+            580,
+            459
+          ],
+          "words": [
+            {
+              "text": "197,",
+              "bbox": [
+                15,
+                447,
+                34,
+                459
+              ]
+            },
+            {
+              "text": "216,",
+              "bbox": [
+                37,
+                447,
+                56,
+                459
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                59,
+                447,
+                75,
+                459
+              ]
+            },
+            {
+              "text": "413",
+              "bbox": [
+                78,
+                447,
+                94,
+                459
+              ]
+            },
+            {
+              "text": "participants",
+              "bbox": [
+                97,
+                447,
+                149,
+                459
+              ]
+            },
+            {
+              "text": "contributing",
+              "bbox": [
+                152,
+                447,
+                205,
+                459
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                208,
+                447,
+                217,
+                459
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                220,
+                447,
+                233,
+                459
+              ]
+            },
+            {
+              "text": "analysis.",
+              "bbox": [
+                236,
+                447,
+                274,
+                459
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                277,
+                447,
+                314,
+                459
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                317,
+                447,
+                331,
+                459
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                334,
+                447,
+                367,
+                459
+              ]
+            },
+            {
+              "text": "labeled",
+              "bbox": [
+                369,
+                447,
+                401,
+                459
+              ]
+            },
+            {
+              "text": "\"Expected/watched",
+              "bbox": [
+                404,
+                447,
+                489,
+                459
+              ]
+            },
+            {
+              "text": "for/resisted\"",
+              "bbox": [
+                492,
+                447,
+                546,
+                459
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                549,
+                447,
+                580,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "text": "that 63.6% of respondents indicated a tendency to resist overt pressures when reporting their findings, while 58.0%",
+          "bbox": [
+            15,
+            462,
+            580,
+            474
+          ],
+          "words": [
+            {
+              "text": "that",
+              "bbox": [
+                15,
+                462,
+                32,
+                474
+              ]
+            },
+            {
+              "text": "63.6%",
+              "bbox": [
+                38,
+                462,
+                66,
+                474
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                73,
+                462,
+                82,
+                474
+              ]
+            },
+            {
+              "text": "respondents",
+              "bbox": [
+                88,
+                462,
+                141,
+                474
+              ]
+            },
+            {
+              "text": "indicated",
+              "bbox": [
+                147,
+                462,
+                187,
+                474
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                194,
+                462,
+                199,
+                474
+              ]
+            },
+            {
+              "text": "tendency",
+              "bbox": [
+                205,
+                462,
+                245,
+                474
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                251,
+                462,
+                260,
+                474
+              ]
+            },
+            {
+              "text": "resist",
+              "bbox": [
+                266,
+                462,
+                289,
+                474
+              ]
+            },
+            {
+              "text": "overt",
+              "bbox": [
+                296,
+                462,
+                318,
+                474
+              ]
+            },
+            {
+              "text": "pressures",
+              "bbox": [
+                325,
+                462,
+                366,
+                474
+              ]
+            },
+            {
+              "text": "when",
+              "bbox": [
+                372,
+                462,
+                396,
+                474
+              ]
+            },
+            {
+              "text": "reporting",
+              "bbox": [
+                402,
+                462,
+                443,
+                474
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                449,
+                462,
+                469,
+                474
+              ]
+            },
+            {
+              "text": "findings,",
+              "bbox": [
+                476,
+                462,
+                514,
+                474
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                521,
+                462,
+                545,
+                474
+              ]
+            },
+            {
+              "text": "58.0%",
+              "bbox": [
+                552,
+                462,
+                580,
+                474
+              ]
+            }
+          ]
+        },
+        {
+          "text": "acknowledged the influence of congeniality and perceived support on their neutrality. These metrics underscore the",
+          "bbox": [
+            15,
+            478,
+            580,
+            490
+          ],
+          "words": [
+            {
+              "text": "acknowledged",
+              "bbox": [
+                15,
+                478,
+                79,
+                490
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                85,
+                478,
+                99,
+                490
+              ]
+            },
+            {
+              "text": "influence",
+              "bbox": [
+                106,
+                478,
+                147,
+                490
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                154,
+                478,
+                163,
+                490
+              ]
+            },
+            {
+              "text": "congeniality",
+              "bbox": [
+                170,
+                478,
+                224,
+                490
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                231,
+                478,
+                247,
+                490
+              ]
+            },
+            {
+              "text": "perceived",
+              "bbox": [
+                254,
+                478,
+                296,
+                490
+              ]
+            },
+            {
+              "text": "support",
+              "bbox": [
+                303,
+                478,
+                336,
+                490
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                343,
+                478,
+                354,
+                490
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                361,
+                478,
+                381,
+                490
+              ]
+            },
+            {
+              "text": "neutrality.",
+              "bbox": [
+                388,
+                478,
+                432,
+                490
+              ]
+            },
+            {
+              "text": "These",
+              "bbox": [
+                439,
+                478,
+                465,
+                490
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                472,
+                478,
+                505,
+                490
+              ]
+            },
+            {
+              "text": "underscore",
+              "bbox": [
+                511,
+                478,
+                560,
+                490
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                478,
+                580,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "text": "complexities researchers face in maintaining objectivity, particularly in environments where biases—both known and covert—",
+          "bbox": [
+            15,
+            493,
+            580,
+            505
+          ],
+          "words": [
+            {
+              "text": "complexities",
+              "bbox": [
+                15,
+                493,
+                71,
+                505
+              ]
+            },
+            {
+              "text": "researchers",
+              "bbox": [
+                75,
+                493,
+                124,
+                505
+              ]
+            },
+            {
+              "text": "face",
+              "bbox": [
+                127,
+                493,
+                146,
+                505
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                149,
+                493,
+                157,
+                505
+              ]
+            },
+            {
+              "text": "maintaining",
+              "bbox": [
+                161,
+                493,
+                213,
+                505
+              ]
+            },
+            {
+              "text": "objectivity,",
+              "bbox": [
+                217,
+                493,
+                266,
+                505
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                269,
+                493,
+                320,
+                505
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                323,
+                493,
+                332,
+                505
+              ]
+            },
+            {
+              "text": "environments",
+              "bbox": [
+                335,
+                493,
+                395,
+                505
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                398,
+                493,
+                425,
+                505
+              ]
+            },
+            {
+              "text": "biases—both",
+              "bbox": [
+                428,
+                493,
+                486,
+                505
+              ]
+            },
+            {
+              "text": "known",
+              "bbox": [
+                489,
+                493,
+                519,
+                505
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                522,
+                493,
+                538,
+                505
+              ]
+            },
+            {
+              "text": "covert—",
+              "bbox": [
+                542,
+                493,
+                580,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "text": "can impact the integrity of scientific conclusions. The confidence interval (95%CI) of 1.361 (1.119, 1.655) further illustrates the",
+          "bbox": [
+            15,
+            508,
+            580,
+            520
+          ],
+          "words": [
+            {
+              "text": "can",
+              "bbox": [
+                15,
+                508,
+                30,
+                520
+              ]
+            },
+            {
+              "text": "impact",
+              "bbox": [
+                33,
+                508,
+                63,
+                520
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                66,
+                508,
+                79,
+                520
+              ]
+            },
+            {
+              "text": "integrity",
+              "bbox": [
+                82,
+                508,
+                119,
+                520
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                122,
+                508,
+                131,
+                520
+              ]
+            },
+            {
+              "text": "scientific",
+              "bbox": [
+                134,
+                508,
+                175,
+                520
+              ]
+            },
+            {
+              "text": "conclusions.",
+              "bbox": [
+                177,
+                508,
+                232,
+                520
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                235,
+                508,
+                252,
+                520
+              ]
+            },
+            {
+              "text": "confidence",
+              "bbox": [
+                255,
+                508,
+                303,
+                520
+              ]
+            },
+            {
+              "text": "interval",
+              "bbox": [
+                306,
+                508,
+                339,
+                520
+              ]
+            },
+            {
+              "text": "(95%CI)",
+              "bbox": [
+                342,
+                508,
+                381,
+                520
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                384,
+                508,
+                393,
+                520
+              ]
+            },
+            {
+              "text": "1.361",
+              "bbox": [
+                396,
+                508,
+                420,
+                520
+              ]
+            },
+            {
+              "text": "(1.119,",
+              "bbox": [
+                423,
+                508,
+                454,
+                520
+              ]
+            },
+            {
+              "text": "1.655)",
+              "bbox": [
+                457,
+                508,
+                485,
+                520
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                488,
+                508,
+                518,
+                520
+              ]
+            },
+            {
+              "text": "illustrates",
+              "bbox": [
+                521,
+                508,
+                564,
+                520
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                508,
+                580,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "text": "statistical significance of these findings, suggesting a noteworthy correlation between the internal sense of direction of",
+          "bbox": [
+            15,
+            524,
+            580,
+            536
+          ],
+          "words": [
+            {
+              "text": "statistical",
+              "bbox": [
+                15,
+                524,
+                57,
+                536
+              ]
+            },
+            {
+              "text": "significance",
+              "bbox": [
+                62,
+                524,
+                115,
+                536
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                121,
+                524,
+                130,
+                536
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                136,
+                524,
+                158,
+                536
+              ]
+            },
+            {
+              "text": "findings,",
+              "bbox": [
+                164,
+                524,
+                203,
+                536
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                209,
+                524,
+                256,
+                536
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                261,
+                524,
+                266,
+                536
+              ]
+            },
+            {
+              "text": "noteworthy",
+              "bbox": [
+                272,
+                524,
+                322,
+                536
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                328,
+                524,
+                375,
+                536
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                381,
+                524,
+                418,
+                536
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                423,
+                524,
+                437,
+                536
+              ]
+            },
+            {
+              "text": "internal",
+              "bbox": [
+                442,
+                524,
+                476,
+                536
+              ]
+            },
+            {
+              "text": "sense",
+              "bbox": [
+                482,
+                524,
+                506,
+                536
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                511,
+                524,
+                520,
+                536
+              ]
+            },
+            {
+              "text": "direction",
+              "bbox": [
+                526,
+                524,
+                565,
+                536
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                524,
+                580,
+                536
+              ]
+            }
+          ]
+        },
+        {
+          "text": "researchers and the sources of bias they encounter. This contextual backdrop is crucial for understanding the potential",
+          "bbox": [
+            15,
+            539,
+            580,
+            551
+          ],
+          "words": [
+            {
+              "text": "researchers",
+              "bbox": [
+                15,
+                539,
+                64,
+                551
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                70,
+                539,
+                86,
+                551
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                92,
+                539,
+                105,
+                551
+              ]
+            },
+            {
+              "text": "sources",
+              "bbox": [
+                111,
+                539,
+                144,
+                551
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                150,
+                539,
+                159,
+                551
+              ]
+            },
+            {
+              "text": "bias",
+              "bbox": [
+                165,
+                539,
+                182,
+                551
+              ]
+            },
+            {
+              "text": "they",
+              "bbox": [
+                188,
+                539,
+                207,
+                551
+              ]
+            },
+            {
+              "text": "encounter.",
+              "bbox": [
+                213,
+                539,
+                258,
+                551
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                264,
+                539,
+                283,
+                551
+              ]
+            },
+            {
+              "text": "contextual",
+              "bbox": [
+                289,
+                539,
+                335,
+                551
+              ]
+            },
+            {
+              "text": "backdrop",
+              "bbox": [
+                340,
+                539,
+                381,
+                551
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                387,
+                539,
+                394,
+                551
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                400,
+                539,
+                430,
+                551
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                436,
+                539,
+                449,
+                551
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                454,
+                539,
+                517,
+                551
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                522,
+                539,
+                536,
+                551
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                542,
+                539,
+                580,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "text": "implications of these biases on the interpretation and application of research related to T. trichiura, ultimately informing best",
+          "bbox": [
+            15,
+            555,
+            580,
+            567
+          ],
+          "words": [
+            {
+              "text": "implications",
+              "bbox": [
+                15,
+                555,
+                69,
+                567
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                73,
+                555,
+                82,
+                567
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                86,
+                555,
+                109,
+                567
+              ]
+            },
+            {
+              "text": "biases",
+              "bbox": [
+                113,
+                555,
+                139,
+                567
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                143,
+                555,
+                154,
+                567
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                158,
+                555,
+                171,
+                567
+              ]
+            },
+            {
+              "text": "interpretation",
+              "bbox": [
+                175,
+                555,
+                234,
+                567
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                238,
+                555,
+                254,
+                567
+              ]
+            },
+            {
+              "text": "application",
+              "bbox": [
+                258,
+                555,
+                307,
+                567
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                311,
+                555,
+                320,
+                567
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                324,
+                555,
+                360,
+                567
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                364,
+                555,
+                394,
+                567
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                398,
+                555,
+                406,
+                567
+              ]
+            },
+            {
+              "text": "T.",
+              "bbox": [
+                410,
+                555,
+                419,
+                567
+              ]
+            },
+            {
+              "text": "trichiura,",
+              "bbox": [
+                422,
+                555,
+                462,
+                567
+              ]
+            },
+            {
+              "text": "ultimately",
+              "bbox": [
+                466,
+                555,
+                511,
+                567
+              ]
+            },
+            {
+              "text": "informing",
+              "bbox": [
+                514,
+                555,
+                558,
+                567
+              ]
+            },
+            {
+              "text": "best",
+              "bbox": [
+                562,
+                555,
+                580,
+                567
+              ]
+            }
+          ]
+        },
+        {
+          "text": "practices in future studies.",
+          "bbox": [
+            15,
+            570,
+            130,
+            582
+          ],
+          "words": [
+            {
+              "text": "practices",
+              "bbox": [
+                15,
+                570,
+                54,
+                582
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                57,
+                570,
+                65,
+                582
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                68,
+                570,
+                94,
+                582
+              ]
+            },
+            {
+              "text": "studies.",
+              "bbox": [
+                97,
+                570,
+                130,
+                582
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

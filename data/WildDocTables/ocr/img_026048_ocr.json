@@ -1,0 +1,279 @@
+{
+  "image_id": "img_026048",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The analysis presented in the accompanying table examines the impact of varying correlation coefficients on the behavior of",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "normally distributed errors. Specifically, the columns labeled ρ = 0, ρ = .2, ρ = .5, and ρ = .7 illustrate different scenarios of",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "correlation among the error terms, providing insights into how these relationships influence the overall outcome of statistical",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "models. For instance, as the correlation coefficient increases, one can observe notable changes in the variance and standard",
+      "bbox": [
+        15,
+        97,
+        580,
+        109
+      ]
+    },
+    {
+      "text": "deviation of the error terms, which are critical metrics for evaluating the reliability and accuracy of predictive models. \n\nThe table",
+      "bbox": [
+        15,
+        113,
+        580,
+        125
+      ]
+    },
+    {
+      "text": "underscores the importance of understanding correlation in the context of normal errors, as it directly affects the assumptions",
+      "bbox": [
+        15,
+        128,
+        580,
+        140
+      ]
+    },
+    {
+      "text": "underlying many statistical techniques.",
+      "bbox": [
+        15,
+        143,
+        187,
+        155
+      ]
+    },
+    {
+      "text": "Test  Design 1 (D1)  Design 2 (D2)",
+      "bbox": [
+        16,
+        173,
+        580,
+        194
+      ]
+    },
+    {
+      "text": "ρ = 0  ρ = .2  ρ = .5  ρ = .7  ρ = 0  ρ = .2  ρ = .5  ρ = .7",
+      "bbox": [
+        16,
+        194,
+        580,
+        215
+      ]
+    },
+    {
+      "text": "Normal errors",
+      "bbox": [
+        16,
+        215,
+        580,
+        236
+      ]
+    },
+    {
+      "text": "Wald  .0674  .0728  .0854  .0808  .0612  .0697  .1000  .1130",
+      "bbox": [
+        16,
+        236,
+        580,
+        257
+      ]
+    },
+    {
+      "text": "Parametric bootstrap",
+      "bbox": [
+        16,
+        257,
+        580,
+        278
+      ]
+    },
+    {
+      "text": "B = 100  .0503  .0503  .0522  .0500  .0513  .0510  .0529  .0540",
+      "bbox": [
+        16,
+        278,
+        580,
+        299
+      ]
+    },
+    {
+      "text": "B = 200  .0513  .0522  .0507  .0544  .0460  .0489  .0508  .0537",
+      "bbox": [
+        16,
+        299,
+        580,
+        320
+      ]
+    },
+    {
+      "text": "Semi‐parametric bootstrap",
+      "bbox": [
+        16,
+        320,
+        580,
+        341
+      ]
+    },
+    {
+      "text": "B = 100  .0513  .0519  .0522  .0541  .0457  .0462  .0465  .0510",
+      "bbox": [
+        16,
+        341,
+        580,
+        362
+      ]
+    },
+    {
+      "text": "B = 200  .0494  .0479  .0505  .0499  .0508  .0475  .0458  .0561",
+      "bbox": [
+        16,
+        362,
+        580,
+        383
+      ]
+    },
+    {
+      "text": "Contaminated normal errors",
+      "bbox": [
+        16,
+        383,
+        580,
+        404
+      ]
+    },
+    {
+      "text": "Wald  .0522  .0625  .0820  .0917  .0547  .0688  .1071  .1223",
+      "bbox": [
+        16,
+        404,
+        580,
+        425
+      ]
+    },
+    {
+      "text": "Parametric bootstrap",
+      "bbox": [
+        16,
+        425,
+        580,
+        446
+      ]
+    },
+    {
+      "text": "B = 100  .0434  .0483  .0475  .0559  .0411  .0448  .0615  .0698",
+      "bbox": [
+        16,
+        446,
+        580,
+        467
+      ]
+    },
+    {
+      "text": "B = 200  .0382  .0411  .0494  .0612  .0391  .0425  .0552  .0677",
+      "bbox": [
+        16,
+        467,
+        580,
+        488
+      ]
+    },
+    {
+      "text": "Semi‐parametric bootstrap",
+      "bbox": [
+        16,
+        488,
+        580,
+        509
+      ]
+    },
+    {
+      "text": "B = 100  .0442  .0436  .0506  .0508  .0392  .0446  .0544  .0577",
+      "bbox": [
+        16,
+        509,
+        580,
+        530
+      ]
+    },
+    {
+      "text": "B = 200  .0428  .0432  .0464  .0518  .0408  .0456  .0587  .0584",
+      "bbox": [
+        16,
+        530,
+        580,
+        551
+      ]
+    },
+    {
+      "text": "With ρ = 0 representing a scenario of no correlation, the subsequent values demonstrate how increasing levels of correlation can",
+      "bbox": [
+        15,
+        568,
+        580,
+        580
+      ]
+    },
+    {
+      "text": "lead to more complex dependencies among the errors, ultimately impacting model performance. This analysis is essential for",
+      "bbox": [
+        15,
+        583,
+        580,
+        595
+      ]
+    },
+    {
+      "text": "practitioners seeking to refine their modeling approaches and ensure robust interpretations of data. As the field advances,",
+      "bbox": [
+        15,
+        599,
+        580,
+        611
+      ]
+    },
+    {
+      "text": "recognizing the implications of these varying correlation coefficients will be crucial for enhancing the validity of statistical",
+      "bbox": [
+        15,
+        614,
+        580,
+        626
+      ]
+    },
+    {
+      "text": "inferences drawn from empirical research.",
+      "bbox": [
+        15,
+        629,
+        201,
+        641
+      ]
+    }
+  ]
+}

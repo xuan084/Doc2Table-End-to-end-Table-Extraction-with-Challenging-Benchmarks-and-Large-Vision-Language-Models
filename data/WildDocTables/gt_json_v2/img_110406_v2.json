@@ -1,0 +1,4940 @@
+{
+  "image_id": "img_110406",
+  "subset": "S3",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_110406_t0",
+      "bbox": [
+        15,
+        182,
+        580,
+        315
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            183,
+            580,
+            204
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            204,
+            580,
+            225
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            225,
+            580,
+            260
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            260,
+            580,
+            295
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            295,
+            580,
+            315
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>LossReserves</td><td>ClaimsFiled</td><td colspan=\"2\">CatastropheEvents</td></tr><tr><td>TotalReserves</td><td colspan=\"2\">NaturalDisasters</td><td>FireIncidents</td><td>FloodClaims</td></tr><tr><td>ReservesAllocated</td><td>ClaimsPaid</td><td>ClaimsOutstanding</td><td colspan=\"2\">ProjectedLosses</td><td>ReinsuranceRecoveries</td></tr><tr><td>Region</td><td>NorthAmerica</td><td>Canada</td><td>USA</td><td>TotalClaims</td><td>PercentageofReserves</td></tr><tr><td>$500M</td><td>1200</td><td>15</td><td>$300M</td><td>$200M</td><td>60%</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "LossReserves",
+          "bbox": [
+            16,
+            183,
+            112,
+            204
+          ],
+          "words": [
+            {
+              "text": "LossReserves",
+              "bbox": [
+                49,
+                187,
+                106,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ClaimsFiled",
+          "bbox": [
+            112,
+            183,
+            206,
+            204
+          ],
+          "words": [
+            {
+              "text": "ClaimsFiled",
+              "bbox": [
+                117,
+                187,
+                169,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CatastropheEvents",
+          "bbox": [
+            206,
+            183,
+            393,
+            204
+          ],
+          "words": [
+            {
+              "text": "CatastropheEvents",
+              "bbox": [
+                306,
+                187,
+                387,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalReserves",
+          "bbox": [
+            16,
+            204,
+            112,
+            225
+          ],
+          "words": [
+            {
+              "text": "TotalReserves",
+              "bbox": [
+                47,
+                208,
+                106,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "NaturalDisasters",
+          "bbox": [
+            112,
+            204,
+            299,
+            225
+          ],
+          "words": [
+            {
+              "text": "NaturalDisasters",
+              "bbox": [
+                117,
+                208,
+                190,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "FireIncidents",
+          "bbox": [
+            299,
+            204,
+            393,
+            225
+          ],
+          "words": [
+            {
+              "text": "FireIncidents",
+              "bbox": [
+                330,
+                208,
+                387,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "FloodClaims",
+          "bbox": [
+            393,
+            204,
+            486,
+            225
+          ],
+          "words": [
+            {
+              "text": "FloodClaims",
+              "bbox": [
+                426,
+                208,
+                481,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "ReservesAllocated",
+          "bbox": [
+            16,
+            225,
+            112,
+            260
+          ],
+          "words": [
+            {
+              "text": "ReservesAllocated",
+              "bbox": [
+                28,
+                229,
+                106,
+                240
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ClaimsPaid",
+          "bbox": [
+            112,
+            225,
+            206,
+            260
+          ],
+          "words": [
+            {
+              "text": "ClaimsPaid",
+              "bbox": [
+                117,
+                229,
+                167,
+                240
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ClaimsOutstanding",
+          "bbox": [
+            206,
+            225,
+            299,
+            260
+          ],
+          "words": [
+            {
+              "text": "ClaimsOutstanding",
+              "bbox": [
+                215,
+                229,
+                294,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectedLosses",
+          "bbox": [
+            299,
+            225,
+            486,
+            260
+          ],
+          "words": [
+            {
+              "text": "ProjectedLosses",
+              "bbox": [
+                412,
+                229,
+                481,
+                240
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "ReinsuranceRecoveries",
+          "bbox": [
+            486,
+            225,
+            580,
+            260
+          ],
+          "words": [
+            {
+              "text": "ReinsuranceRecoveries",
+              "bbox": [
+                495,
+                229,
+                574,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Region",
+          "bbox": [
+            16,
+            260,
+            112,
+            295
+          ],
+          "words": [
+            {
+              "text": "Region",
+              "bbox": [
+                76,
+                264,
+                106,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "NorthAmerica",
+          "bbox": [
+            112,
+            260,
+            206,
+            295
+          ],
+          "words": [
+            {
+              "text": "NorthAmerica",
+              "bbox": [
+                117,
+                264,
+                180,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Canada",
+          "bbox": [
+            206,
+            260,
+            299,
+            295
+          ],
+          "words": [
+            {
+              "text": "Canada",
+              "bbox": [
+                260,
+                264,
+                294,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "USA",
+          "bbox": [
+            299,
+            260,
+            393,
+            295
+          ],
+          "words": [
+            {
+              "text": "USA",
+              "bbox": [
+                367,
+                264,
+                387,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalClaims",
+          "bbox": [
+            393,
+            260,
+            486,
+            295
+          ],
+          "words": [
+            {
+              "text": "TotalClaims",
+              "bbox": [
+                429,
+                264,
+                481,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "PercentageofReserves",
+          "bbox": [
+            486,
+            260,
+            580,
+            295
+          ],
+          "words": [
+            {
+              "text": "PercentageofReserves",
+              "bbox": [
+                494,
+                264,
+                574,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "$500M",
+          "bbox": [
+            16,
+            295,
+            112,
+            315
+          ],
+          "words": [
+            {
+              "text": "$500M",
+              "bbox": [
+                78,
+                299,
+                107,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1200",
+          "bbox": [
+            112,
+            295,
+            206,
+            315
+          ],
+          "words": [
+            {
+              "text": "1200",
+              "bbox": [
+                117,
+                299,
+                137,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15",
+          "bbox": [
+            206,
+            295,
+            299,
+            315
+          ],
+          "words": [
+            {
+              "text": "15",
+              "bbox": [
+                284,
+                299,
+                294,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$300M",
+          "bbox": [
+            299,
+            295,
+            393,
+            315
+          ],
+          "words": [
+            {
+              "text": "$300M",
+              "bbox": [
+                359,
+                299,
+                388,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$200M",
+          "bbox": [
+            393,
+            295,
+            486,
+            315
+          ],
+          "words": [
+            {
+              "text": "$200M",
+              "bbox": [
+                452,
+                299,
+                481,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "60%",
+          "bbox": [
+            486,
+            295,
+            580,
+            315
+          ],
+          "words": [
+            {
+              "text": "60%",
+              "bbox": [
+                556,
+                299,
+                575,
+                310
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        380,
+        580,
+        765
+      ],
+      "content": "In the North American catastrophe loss reserves report for Zurich Insurance covering the period of March 2025, the total reserves are allocated at $500M, with claims filed numbering 1,200, which includes 15 significant catastrophe events categorized under natural disasters, fire incidents, and flood claims. Specifically, within the total reserves, the allocation for natural disasters reaches $300M, while reserves for fire incidents are noted at $200M, leading to a comprehensive understanding of the claims paid and claims outstanding within the region. The claims paid amount to $60M, with claims outstanding calculated at $440M, resulting in projected losses of $300M. Reinsurance recoveries are also a critical element, contributing $200M to the overall financial picture. Examining the regional breakdown for North America reveals that Canada contributes a total of 600 claims, while the USA accounts for the remaining 600 claims, culminating in total claims of 1,200 across the region. The percentage of reserves allocated to these claims stands at 60%, underscoring the significance of effective reserve management in mitigating financial impacts from catastrophic events. The detailed analysis of this table provides essential insights into the catastrophic risk landscape in North America, emphasizing the importance of maintaining adequate loss reserves to address the complexities of claims resulting from both natural disasters and other incidents, thereby ensuring Zurich Insurance’s preparedness and resilience in the face of potential future catastrophes. By maintaining a clear understanding of the claims filed and the reserves allocated, Zurich Insurance can strategically adapt its approach to claims management and reinsurance strategies, ultimately enhancing its operational effectiveness and financial stability in a competitive market environment. This report serves as a vital tool for stakeholders within the insurance and reinsurance sectors, providing a snapshot of current reserve allocations and claims dynamics, which can be leveraged for informed decision-making and strategic planning. The comprehensive nature of the data presented, highlighted by the distinct categories of claims and reserves, allows for a granular analysis that is crucial for understanding the implications of catastrophe events on the overall financial health of the organization. As the insurance industry continues to evolve in response to changing environmental factors and emerging risks, the findings from this report will play a fundamental role in shaping Zurich Insurance’s ongoing risk assessment and management frameworks, ensuring that the company remains at the forefront of industry best practices while effectively safeguarding its clients' interests. The integration of this detailed claims data with broader market trends will facilitate a more nuanced understanding of the risks faced within North America, ultimately guiding Zurich Insurance toward more resilient and adaptable operational strategies in the face of an unpredictable future.",
+      "lines": [
+        {
+          "text": "In the North American catastrophe loss reserves report for Zurich Insurance covering the period of March 2025, the total",
+          "bbox": [
+            15,
+            381,
+            580,
+            393
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                381,
+                24,
+                393
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                29,
+                381,
+                42,
+                393
+              ]
+            },
+            {
+              "text": "North",
+              "bbox": [
+                47,
+                381,
+                73,
+                393
+              ]
+            },
+            {
+              "text": "American",
+              "bbox": [
+                77,
+                381,
+                120,
+                393
+              ]
+            },
+            {
+              "text": "catastrophe",
+              "bbox": [
+                125,
+                381,
+                175,
+                393
+              ]
+            },
+            {
+              "text": "loss",
+              "bbox": [
+                179,
+                381,
+                197,
+                393
+              ]
+            },
+            {
+              "text": "reserves",
+              "bbox": [
+                201,
+                381,
+                237,
+                393
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                242,
+                381,
+                268,
+                393
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                273,
+                381,
+                286,
+                393
+              ]
+            },
+            {
+              "text": "Zurich",
+              "bbox": [
+                290,
+                381,
+                320,
+                393
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                324,
+                381,
+                367,
+                393
+              ]
+            },
+            {
+              "text": "covering",
+              "bbox": [
+                372,
+                381,
+                410,
+                393
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                415,
+                381,
+                428,
+                393
+              ]
+            },
+            {
+              "text": "period",
+              "bbox": [
+                433,
+                381,
+                461,
+                393
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                466,
+                381,
+                475,
+                393
+              ]
+            },
+            {
+              "text": "March",
+              "bbox": [
+                480,
+                381,
+                508,
+                393
+              ]
+            },
+            {
+              "text": "2025,",
+              "bbox": [
+                513,
+                381,
+                538,
+                393
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                542,
+                381,
+                556,
+                393
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                560,
+                381,
+                580,
+                393
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reserves are allocated at $500M, with claims filed numbering 1,200, which includes 15 significant catastrophe events",
+          "bbox": [
+            15,
+            396,
+            580,
+            408
+          ],
+          "words": [
+            {
+              "text": "reserves",
+              "bbox": [
+                15,
+                396,
+                51,
+                408
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                57,
+                396,
+                71,
+                408
+              ]
+            },
+            {
+              "text": "allocated",
+              "bbox": [
+                77,
+                396,
+                116,
+                408
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                122,
+                396,
+                130,
+                408
+              ]
+            },
+            {
+              "text": "$500M,",
+              "bbox": [
+                136,
+                396,
+                171,
+                408
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                177,
+                396,
+                196,
+                408
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                202,
+                396,
+                231,
+                408
+              ]
+            },
+            {
+              "text": "filed",
+              "bbox": [
+                237,
+                396,
+                257,
+                408
+              ]
+            },
+            {
+              "text": "numbering",
+              "bbox": [
+                263,
+                396,
+                311,
+                408
+              ]
+            },
+            {
+              "text": "1,200,",
+              "bbox": [
+                317,
+                396,
+                345,
+                408
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                351,
+                396,
+                378,
+                408
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                384,
+                396,
+                420,
+                408
+              ]
+            },
+            {
+              "text": "15",
+              "bbox": [
+                426,
+                396,
+                437,
+                408
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                443,
+                396,
+                490,
+                408
+              ]
+            },
+            {
+              "text": "catastrophe",
+              "bbox": [
+                496,
+                396,
+                546,
+                408
+              ]
+            },
+            {
+              "text": "events",
+              "bbox": [
+                552,
+                396,
+                580,
+                408
+              ]
+            }
+          ]
+        },
+        {
+          "text": "categorized under natural disasters, fire incidents, and flood claims. Specifically, within the total reserves, the allocation for",
+          "bbox": [
+            15,
+            412,
+            580,
+            424
+          ],
+          "words": [
+            {
+              "text": "categorized",
+              "bbox": [
+                15,
+                412,
+                66,
+                424
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                70,
+                412,
+                95,
+                424
+              ]
+            },
+            {
+              "text": "natural",
+              "bbox": [
+                99,
+                412,
+                130,
+                424
+              ]
+            },
+            {
+              "text": "disasters,",
+              "bbox": [
+                134,
+                412,
+                174,
+                424
+              ]
+            },
+            {
+              "text": "fire",
+              "bbox": [
+                178,
+                412,
+                194,
+                424
+              ]
+            },
+            {
+              "text": "incidents,",
+              "bbox": [
+                198,
+                412,
+                240,
+                424
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                244,
+                412,
+                260,
+                424
+              ]
+            },
+            {
+              "text": "flood",
+              "bbox": [
+                264,
+                412,
+                287,
+                424
+              ]
+            },
+            {
+              "text": "claims.",
+              "bbox": [
+                292,
+                412,
+                323,
+                424
+              ]
+            },
+            {
+              "text": "Specifically,",
+              "bbox": [
+                327,
+                412,
+                382,
+                424
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                386,
+                412,
+                414,
+                424
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                418,
+                412,
+                432,
+                424
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                436,
+                412,
+                455,
+                424
+              ]
+            },
+            {
+              "text": "reserves,",
+              "bbox": [
+                459,
+                412,
+                498,
+                424
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                502,
+                412,
+                516,
+                424
+              ]
+            },
+            {
+              "text": "allocation",
+              "bbox": [
+                520,
+                412,
+                563,
+                424
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                412,
+                580,
+                424
+              ]
+            }
+          ]
+        },
+        {
+          "text": "natural disasters reaches $300M, while reserves for fire incidents are noted at $200M, leading to a comprehensive",
+          "bbox": [
+            15,
+            427,
+            580,
+            439
+          ],
+          "words": [
+            {
+              "text": "natural",
+              "bbox": [
+                15,
+                427,
+                46,
+                439
+              ]
+            },
+            {
+              "text": "disasters",
+              "bbox": [
+                52,
+                427,
+                90,
+                439
+              ]
+            },
+            {
+              "text": "reaches",
+              "bbox": [
+                97,
+                427,
+                130,
+                439
+              ]
+            },
+            {
+              "text": "$300M,",
+              "bbox": [
+                137,
+                427,
+                171,
+                439
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                178,
+                427,
+                202,
+                439
+              ]
+            },
+            {
+              "text": "reserves",
+              "bbox": [
+                209,
+                427,
+                245,
+                439
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                252,
+                427,
+                265,
+                439
+              ]
+            },
+            {
+              "text": "fire",
+              "bbox": [
+                271,
+                427,
+                287,
+                439
+              ]
+            },
+            {
+              "text": "incidents",
+              "bbox": [
+                294,
+                427,
+                333,
+                439
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                340,
+                427,
+                353,
+                439
+              ]
+            },
+            {
+              "text": "noted",
+              "bbox": [
+                360,
+                427,
+                385,
+                439
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                391,
+                427,
+                399,
+                439
+              ]
+            },
+            {
+              "text": "$200M,",
+              "bbox": [
+                406,
+                427,
+                441,
+                439
+              ]
+            },
+            {
+              "text": "leading",
+              "bbox": [
+                447,
+                427,
+                480,
+                439
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                486,
+                427,
+                495,
+                439
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                502,
+                427,
+                507,
+                439
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                513,
+                427,
+                580,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding of the claims paid and claims outstanding within the region. The claims paid amount to $60M, with claims",
+          "bbox": [
+            15,
+            443,
+            580,
+            455
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                443,
+                77,
+                455
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                82,
+                443,
+                91,
+                455
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                95,
+                443,
+                109,
+                455
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                113,
+                443,
+                142,
+                455
+              ]
+            },
+            {
+              "text": "paid",
+              "bbox": [
+                147,
+                443,
+                166,
+                455
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                170,
+                443,
+                186,
+                455
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                190,
+                443,
+                219,
+                455
+              ]
+            },
+            {
+              "text": "outstanding",
+              "bbox": [
+                224,
+                443,
+                275,
+                455
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                279,
+                443,
+                307,
+                455
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                312,
+                443,
+                325,
+                455
+              ]
+            },
+            {
+              "text": "region.",
+              "bbox": [
+                330,
+                443,
+                361,
+                455
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                365,
+                443,
+                382,
+                455
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                387,
+                443,
+                415,
+                455
+              ]
+            },
+            {
+              "text": "paid",
+              "bbox": [
+                420,
+                443,
+                439,
+                455
+              ]
+            },
+            {
+              "text": "amount",
+              "bbox": [
+                443,
+                443,
+                476,
+                455
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                481,
+                443,
+                489,
+                455
+              ]
+            },
+            {
+              "text": "$60M,",
+              "bbox": [
+                494,
+                443,
+                523,
+                455
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                527,
+                443,
+                547,
+                455
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                551,
+                443,
+                580,
+                455
+              ]
+            }
+          ]
+        },
+        {
+          "text": "outstanding calculated at $440M, resulting in projected losses of $300M. Reinsurance recoveries are also a critical element,",
+          "bbox": [
+            15,
+            458,
+            580,
+            470
+          ],
+          "words": [
+            {
+              "text": "outstanding",
+              "bbox": [
+                15,
+                458,
+                66,
+                470
+              ]
+            },
+            {
+              "text": "calculated",
+              "bbox": [
+                70,
+                458,
+                115,
+                470
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                119,
+                458,
+                127,
+                470
+              ]
+            },
+            {
+              "text": "$440M,",
+              "bbox": [
+                131,
+                458,
+                166,
+                470
+              ]
+            },
+            {
+              "text": "resulting",
+              "bbox": [
+                170,
+                458,
+                208,
+                470
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                212,
+                458,
+                221,
+                470
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                225,
+                458,
+                266,
+                470
+              ]
+            },
+            {
+              "text": "losses",
+              "bbox": [
+                270,
+                458,
+                296,
+                470
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                300,
+                458,
+                309,
+                470
+              ]
+            },
+            {
+              "text": "$300M.",
+              "bbox": [
+                313,
+                458,
+                348,
+                470
+              ]
+            },
+            {
+              "text": "Reinsurance",
+              "bbox": [
+                352,
+                458,
+                406,
+                470
+              ]
+            },
+            {
+              "text": "recoveries",
+              "bbox": [
+                410,
+                458,
+                456,
+                470
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                460,
+                458,
+                473,
+                470
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                477,
+                458,
+                495,
+                470
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                499,
+                458,
+                504,
+                470
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                508,
+                458,
+                538,
+                470
+              ]
+            },
+            {
+              "text": "element,",
+              "bbox": [
+                542,
+                458,
+                580,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "text": "contributing $200M to the overall financial picture. Examining the regional breakdown for North America reveals that Canada",
+          "bbox": [
+            15,
+            473,
+            580,
+            485
+          ],
+          "words": [
+            {
+              "text": "contributing",
+              "bbox": [
+                15,
+                473,
+                69,
+                485
+              ]
+            },
+            {
+              "text": "$200M",
+              "bbox": [
+                72,
+                473,
+                104,
+                485
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                107,
+                473,
+                116,
+                485
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                119,
+                473,
+                132,
+                485
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                136,
+                473,
+                166,
+                485
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                169,
+                473,
+                208,
+                485
+              ]
+            },
+            {
+              "text": "picture.",
+              "bbox": [
+                211,
+                473,
+                244,
+                485
+              ]
+            },
+            {
+              "text": "Examining",
+              "bbox": [
+                248,
+                473,
+                296,
+                485
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                299,
+                473,
+                313,
+                485
+              ]
+            },
+            {
+              "text": "regional",
+              "bbox": [
+                316,
+                473,
+                352,
+                485
+              ]
+            },
+            {
+              "text": "breakdown",
+              "bbox": [
+                355,
+                473,
+                404,
+                485
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                407,
+                473,
+                420,
+                485
+              ]
+            },
+            {
+              "text": "North",
+              "bbox": [
+                423,
+                473,
+                449,
+                485
+              ]
+            },
+            {
+              "text": "America",
+              "bbox": [
+                452,
+                473,
+                490,
+                485
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                493,
+                473,
+                524,
+                485
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                527,
+                473,
+                544,
+                485
+              ]
+            },
+            {
+              "text": "Canada",
+              "bbox": [
+                547,
+                473,
+                580,
+                485
+              ]
+            }
+          ]
+        },
+        {
+          "text": "contributes a total of 600 claims, while the USA accounts for the remaining 600 claims, culminating in total claims of 1,200",
+          "bbox": [
+            15,
+            489,
+            580,
+            501
+          ],
+          "words": [
+            {
+              "text": "contributes",
+              "bbox": [
+                15,
+                489,
+                64,
+                501
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                68,
+                489,
+                73,
+                501
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                76,
+                489,
+                96,
+                501
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                100,
+                489,
+                109,
+                501
+              ]
+            },
+            {
+              "text": "600",
+              "bbox": [
+                112,
+                489,
+                129,
+                501
+              ]
+            },
+            {
+              "text": "claims,",
+              "bbox": [
+                133,
+                489,
+                164,
+                501
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                168,
+                489,
+                192,
+                501
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                196,
+                489,
+                209,
+                501
+              ]
+            },
+            {
+              "text": "USA",
+              "bbox": [
+                213,
+                489,
+                235,
+                501
+              ]
+            },
+            {
+              "text": "accounts",
+              "bbox": [
+                238,
+                489,
+                277,
+                501
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                281,
+                489,
+                293,
+                501
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                297,
+                489,
+                311,
+                501
+              ]
+            },
+            {
+              "text": "remaining",
+              "bbox": [
+                314,
+                489,
+                359,
+                501
+              ]
+            },
+            {
+              "text": "600",
+              "bbox": [
+                363,
+                489,
+                379,
+                501
+              ]
+            },
+            {
+              "text": "claims,",
+              "bbox": [
+                383,
+                489,
+                414,
+                501
+              ]
+            },
+            {
+              "text": "culminating",
+              "bbox": [
+                418,
+                489,
+                471,
+                501
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                474,
+                489,
+                483,
+                501
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                487,
+                489,
+                506,
+                501
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                510,
+                489,
+                539,
+                501
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                542,
+                489,
+                552,
+                501
+              ]
+            },
+            {
+              "text": "1,200",
+              "bbox": [
+                555,
+                489,
+                580,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "text": "across the region. The percentage of reserves allocated to these claims stands at 60%, underscoring the significance of effective",
+          "bbox": [
+            15,
+            504,
+            580,
+            516
+          ],
+          "words": [
+            {
+              "text": "across",
+              "bbox": [
+                15,
+                504,
+                43,
+                516
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                45,
+                504,
+                59,
+                516
+              ]
+            },
+            {
+              "text": "region.",
+              "bbox": [
+                62,
+                504,
+                93,
+                516
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                96,
+                504,
+                113,
+                516
+              ]
+            },
+            {
+              "text": "percentage",
+              "bbox": [
+                116,
+                504,
+                163,
+                516
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                166,
+                504,
+                176,
+                516
+              ]
+            },
+            {
+              "text": "reserves",
+              "bbox": [
+                179,
+                504,
+                215,
+                516
+              ]
+            },
+            {
+              "text": "allocated",
+              "bbox": [
+                218,
+                504,
+                257,
+                516
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                260,
+                504,
+                269,
+                516
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                272,
+                504,
+                294,
+                516
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                297,
+                504,
+                326,
+                516
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                329,
+                504,
+                357,
+                516
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                360,
+                504,
+                368,
+                516
+              ]
+            },
+            {
+              "text": "60%,",
+              "bbox": [
+                371,
+                504,
+                394,
+                516
+              ]
+            },
+            {
+              "text": "underscoring",
+              "bbox": [
+                397,
+                504,
+                454,
+                516
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                457,
+                504,
+                470,
+                516
+              ]
+            },
+            {
+              "text": "significance",
+              "bbox": [
+                473,
+                504,
+                527,
+                516
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                530,
+                504,
+                539,
+                516
+              ]
+            },
+            {
+              "text": "effective",
+              "bbox": [
+                542,
+                504,
+                580,
+                516
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reserve management in mitigating financial impacts from catastrophic events. The detailed analysis of this table provides",
+          "bbox": [
+            15,
+            520,
+            580,
+            532
+          ],
+          "words": [
+            {
+              "text": "reserve",
+              "bbox": [
+                15,
+                520,
+                47,
+                532
+              ]
+            },
+            {
+              "text": "management",
+              "bbox": [
+                52,
+                520,
+                108,
+                532
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                113,
+                520,
+                121,
+                532
+              ]
+            },
+            {
+              "text": "mitigating",
+              "bbox": [
+                126,
+                520,
+                171,
+                532
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                176,
+                520,
+                215,
+                532
+              ]
+            },
+            {
+              "text": "impacts",
+              "bbox": [
+                220,
+                520,
+                254,
+                532
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                259,
+                520,
+                280,
+                532
+              ]
+            },
+            {
+              "text": "catastrophic",
+              "bbox": [
+                285,
+                520,
+                338,
+                532
+              ]
+            },
+            {
+              "text": "events.",
+              "bbox": [
+                343,
+                520,
+                374,
+                532
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                379,
+                520,
+                396,
+                532
+              ]
+            },
+            {
+              "text": "detailed",
+              "bbox": [
+                401,
+                520,
+                436,
+                532
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                441,
+                520,
+                476,
+                532
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                481,
+                520,
+                490,
+                532
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                495,
+                520,
+                511,
+                532
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                516,
+                520,
+                537,
+                532
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                542,
+                520,
+                580,
+                532
+              ]
+            }
+          ]
+        },
+        {
+          "text": "essential insights into the catastrophic risk landscape in North America, emphasizing the importance of maintaining adequate",
+          "bbox": [
+            15,
+            535,
+            580,
+            547
+          ],
+          "words": [
+            {
+              "text": "essential",
+              "bbox": [
+                15,
+                535,
+                53,
+                547
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                57,
+                535,
+                91,
+                547
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                95,
+                535,
+                112,
+                547
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                115,
+                535,
+                129,
+                547
+              ]
+            },
+            {
+              "text": "catastrophic",
+              "bbox": [
+                133,
+                535,
+                186,
+                547
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                189,
+                535,
+                206,
+                547
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                210,
+                535,
+                253,
+                547
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                257,
+                535,
+                265,
+                547
+              ]
+            },
+            {
+              "text": "North",
+              "bbox": [
+                269,
+                535,
+                295,
+                547
+              ]
+            },
+            {
+              "text": "America,",
+              "bbox": [
+                298,
+                535,
+                338,
+                547
+              ]
+            },
+            {
+              "text": "emphasizing",
+              "bbox": [
+                342,
+                535,
+                398,
+                547
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                401,
+                535,
+                415,
+                547
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                419,
+                535,
+                468,
+                547
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                472,
+                535,
+                481,
+                547
+              ]
+            },
+            {
+              "text": "maintaining",
+              "bbox": [
+                485,
+                535,
+                537,
+                547
+              ]
+            },
+            {
+              "text": "adequate",
+              "bbox": [
+                541,
+                535,
+                580,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "text": "loss reserves to address the complexities of claims resulting from both natural disasters and other incidents, thereby ensuring",
+          "bbox": [
+            15,
+            550,
+            580,
+            562
+          ],
+          "words": [
+            {
+              "text": "loss",
+              "bbox": [
+                15,
+                550,
+                32,
+                562
+              ]
+            },
+            {
+              "text": "reserves",
+              "bbox": [
+                36,
+                550,
+                72,
+                562
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                76,
+                550,
+                84,
+                562
+              ]
+            },
+            {
+              "text": "address",
+              "bbox": [
+                88,
+                550,
+                121,
+                562
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                125,
+                550,
+                138,
+                562
+              ]
+            },
+            {
+              "text": "complexities",
+              "bbox": [
+                142,
+                550,
+                198,
+                562
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                202,
+                550,
+                211,
+                562
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                214,
+                550,
+                243,
+                562
+              ]
+            },
+            {
+              "text": "resulting",
+              "bbox": [
+                247,
+                550,
+                285,
+                562
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                289,
+                550,
+                311,
+                562
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                314,
+                550,
+                334,
+                562
+              ]
+            },
+            {
+              "text": "natural",
+              "bbox": [
+                337,
+                550,
+                368,
+                562
+              ]
+            },
+            {
+              "text": "disasters",
+              "bbox": [
+                372,
+                550,
+                410,
+                562
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                413,
+                550,
+                429,
+                562
+              ]
+            },
+            {
+              "text": "other",
+              "bbox": [
+                433,
+                550,
+                456,
+                562
+              ]
+            },
+            {
+              "text": "incidents,",
+              "bbox": [
+                459,
+                550,
+                502,
+                562
+              ]
+            },
+            {
+              "text": "thereby",
+              "bbox": [
+                505,
+                550,
+                538,
+                562
+              ]
+            },
+            {
+              "text": "ensuring",
+              "bbox": [
+                542,
+                550,
+                580,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Zurich Insurance’s preparedness and resilience in the face of potential future catastrophes. By maintaining a clear understanding",
+          "bbox": [
+            15,
+            566,
+            580,
+            578
+          ],
+          "words": [
+            {
+              "text": "Zurich",
+              "bbox": [
+                15,
+                566,
+                44,
+                578
+              ]
+            },
+            {
+              "text": "Insurance’s",
+              "bbox": [
+                47,
+                566,
+                97,
+                578
+              ]
+            },
+            {
+              "text": "preparedness",
+              "bbox": [
+                100,
+                566,
+                157,
+                578
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                160,
+                566,
+                176,
+                578
+              ]
+            },
+            {
+              "text": "resilience",
+              "bbox": [
+                179,
+                566,
+                221,
+                578
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                224,
+                566,
+                232,
+                578
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                235,
+                566,
+                249,
+                578
+              ]
+            },
+            {
+              "text": "face",
+              "bbox": [
+                251,
+                566,
+                270,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                273,
+                566,
+                282,
+                578
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                285,
+                566,
+                323,
+                578
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                326,
+                566,
+                352,
+                578
+              ]
+            },
+            {
+              "text": "catastrophes.",
+              "bbox": [
+                355,
+                566,
+                412,
+                578
+              ]
+            },
+            {
+              "text": "By",
+              "bbox": [
+                415,
+                566,
+                428,
+                578
+              ]
+            },
+            {
+              "text": "maintaining",
+              "bbox": [
+                430,
+                566,
+                483,
+                578
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                486,
+                566,
+                491,
+                578
+              ]
+            },
+            {
+              "text": "clear",
+              "bbox": [
+                493,
+                566,
+                515,
+                578
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                518,
+                566,
+                580,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of the claims filed and the reserves allocated, Zurich Insurance can strategically adapt its approach to claims management and",
+          "bbox": [
+            15,
+            581,
+            580,
+            593
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                581,
+                24,
+                593
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                581,
+                41,
+                593
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                44,
+                581,
+                73,
+                593
+              ]
+            },
+            {
+              "text": "filed",
+              "bbox": [
+                76,
+                581,
+                97,
+                593
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                100,
+                581,
+                116,
+                593
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                119,
+                581,
+                133,
+                593
+              ]
+            },
+            {
+              "text": "reserves",
+              "bbox": [
+                136,
+                581,
+                172,
+                593
+              ]
+            },
+            {
+              "text": "allocated,",
+              "bbox": [
+                175,
+                581,
+                218,
+                593
+              ]
+            },
+            {
+              "text": "Zurich",
+              "bbox": [
+                221,
+                581,
+                251,
+                593
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                254,
+                581,
+                297,
+                593
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                300,
+                581,
+                315,
+                593
+              ]
+            },
+            {
+              "text": "strategically",
+              "bbox": [
+                319,
+                581,
+                373,
+                593
+              ]
+            },
+            {
+              "text": "adapt",
+              "bbox": [
+                376,
+                581,
+                400,
+                593
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                403,
+                581,
+                413,
+                593
+              ]
+            },
+            {
+              "text": "approach",
+              "bbox": [
+                417,
+                581,
+                457,
+                593
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                461,
+                581,
+                469,
+                593
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                472,
+                581,
+                501,
+                593
+              ]
+            },
+            {
+              "text": "management",
+              "bbox": [
+                505,
+                581,
+                561,
+                593
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                581,
+                580,
+                593
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reinsurance strategies, ultimately enhancing its operational effectiveness and financial stability in a competitive market",
+          "bbox": [
+            15,
+            596,
+            580,
+            608
+          ],
+          "words": [
+            {
+              "text": "reinsurance",
+              "bbox": [
+                15,
+                596,
+                66,
+                608
+              ]
+            },
+            {
+              "text": "strategies,",
+              "bbox": [
+                72,
+                596,
+                116,
+                608
+              ]
+            },
+            {
+              "text": "ultimately",
+              "bbox": [
+                122,
+                596,
+                167,
+                608
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                172,
+                596,
+                218,
+                608
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                224,
+                596,
+                234,
+                608
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                240,
+                596,
+                289,
+                608
+              ]
+            },
+            {
+              "text": "effectiveness",
+              "bbox": [
+                295,
+                596,
+                353,
+                608
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                359,
+                596,
+                374,
+                608
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                380,
+                596,
+                419,
+                608
+              ]
+            },
+            {
+              "text": "stability",
+              "bbox": [
+                425,
+                596,
+                460,
+                608
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                466,
+                596,
+                475,
+                608
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                481,
+                596,
+                486,
+                608
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                492,
+                596,
+                544,
+                608
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                549,
+                596,
+                580,
+                608
+              ]
+            }
+          ]
+        },
+        {
+          "text": "environment. This report serves as a vital tool for stakeholders within the insurance and reinsurance sectors, providing a",
+          "bbox": [
+            15,
+            612,
+            580,
+            624
+          ],
+          "words": [
+            {
+              "text": "environment.",
+              "bbox": [
+                15,
+                612,
+                73,
+                624
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                78,
+                612,
+                98,
+                624
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                103,
+                612,
+                129,
+                624
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                134,
+                612,
+                161,
+                624
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                166,
+                612,
+                175,
+                624
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                180,
+                612,
+                185,
+                624
+              ]
+            },
+            {
+              "text": "vital",
+              "bbox": [
+                190,
+                612,
+                210,
+                624
+              ]
+            },
+            {
+              "text": "tool",
+              "bbox": [
+                215,
+                612,
+                232,
+                624
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                237,
+                612,
+                249,
+                624
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                254,
+                612,
+                309,
+                624
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                314,
+                612,
+                342,
+                624
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                347,
+                612,
+                361,
+                624
+              ]
+            },
+            {
+              "text": "insurance",
+              "bbox": [
+                366,
+                612,
+                408,
+                624
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                413,
+                612,
+                429,
+                624
+              ]
+            },
+            {
+              "text": "reinsurance",
+              "bbox": [
+                434,
+                612,
+                484,
+                624
+              ]
+            },
+            {
+              "text": "sectors,",
+              "bbox": [
+                489,
+                612,
+                522,
+                624
+              ]
+            },
+            {
+              "text": "providing",
+              "bbox": [
+                527,
+                612,
+                570,
+                624
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                612,
+                580,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "text": "snapshot of current reserve allocations and claims dynamics, which can be leveraged for informed decision-making and",
+          "bbox": [
+            15,
+            627,
+            580,
+            639
+          ],
+          "words": [
+            {
+              "text": "snapshot",
+              "bbox": [
+                15,
+                627,
+                54,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                59,
+                627,
+                68,
+                639
+              ]
+            },
+            {
+              "text": "current",
+              "bbox": [
+                73,
+                627,
+                104,
+                639
+              ]
+            },
+            {
+              "text": "reserve",
+              "bbox": [
+                110,
+                627,
+                142,
+                639
+              ]
+            },
+            {
+              "text": "allocations",
+              "bbox": [
+                147,
+                627,
+                194,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                200,
+                627,
+                216,
+                639
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                221,
+                627,
+                250,
+                639
+              ]
+            },
+            {
+              "text": "dynamics,",
+              "bbox": [
+                255,
+                627,
+                300,
+                639
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                305,
+                627,
+                332,
+                639
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                337,
+                627,
+                353,
+                639
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                358,
+                627,
+                368,
+                639
+              ]
+            },
+            {
+              "text": "leveraged",
+              "bbox": [
+                374,
+                627,
+                416,
+                639
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                422,
+                627,
+                435,
+                639
+              ]
+            },
+            {
+              "text": "informed",
+              "bbox": [
+                440,
+                627,
+                480,
+                639
+              ]
+            },
+            {
+              "text": "decision-making",
+              "bbox": [
+                485,
+                627,
+                559,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                627,
+                580,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "text": "strategic planning. The comprehensive nature of the data presented, highlighted by the distinct categories of claims and",
+          "bbox": [
+            15,
+            643,
+            580,
+            655
+          ],
+          "words": [
+            {
+              "text": "strategic",
+              "bbox": [
+                15,
+                643,
+                52,
+                655
+              ]
+            },
+            {
+              "text": "planning.",
+              "bbox": [
+                58,
+                643,
+                99,
+                655
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                104,
+                643,
+                121,
+                655
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                126,
+                643,
+                193,
+                655
+              ]
+            },
+            {
+              "text": "nature",
+              "bbox": [
+                198,
+                643,
+                226,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                231,
+                643,
+                240,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                245,
+                643,
+                259,
+                655
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                264,
+                643,
+                282,
+                655
+              ]
+            },
+            {
+              "text": "presented,",
+              "bbox": [
+                288,
+                643,
+                333,
+                655
+              ]
+            },
+            {
+              "text": "highlighted",
+              "bbox": [
+                338,
+                643,
+                388,
+                655
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                393,
+                643,
+                404,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                409,
+                643,
+                423,
+                655
+              ]
+            },
+            {
+              "text": "distinct",
+              "bbox": [
+                428,
+                643,
+                461,
+                655
+              ]
+            },
+            {
+              "text": "categories",
+              "bbox": [
+                466,
+                643,
+                510,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                516,
+                643,
+                525,
+                655
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                530,
+                643,
+                559,
+                655
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                643,
+                580,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reserves, allows for a granular analysis that is crucial for understanding the implications of catastrophe events on the overall",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "reserves,",
+              "bbox": [
+                15,
+                658,
+                54,
+                670
+              ]
+            },
+            {
+              "text": "allows",
+              "bbox": [
+                58,
+                658,
+                86,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                90,
+                658,
+                103,
+                670
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                107,
+                658,
+                112,
+                670
+              ]
+            },
+            {
+              "text": "granular",
+              "bbox": [
+                115,
+                658,
+                152,
+                670
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                156,
+                658,
+                191,
+                670
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                195,
+                658,
+                212,
+                670
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                215,
+                658,
+                223,
+                670
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                227,
+                658,
+                257,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                260,
+                658,
+                273,
+                670
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                277,
+                658,
+                339,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                343,
+                658,
+                357,
+                670
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                360,
+                658,
+                415,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                419,
+                658,
+                428,
+                670
+              ]
+            },
+            {
+              "text": "catastrophe",
+              "bbox": [
+                432,
+                658,
+                482,
+                670
+              ]
+            },
+            {
+              "text": "events",
+              "bbox": [
+                485,
+                658,
+                514,
+                670
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                517,
+                658,
+                528,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                532,
+                658,
+                546,
+                670
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                549,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "financial health of the organization. As the insurance industry continues to evolve in response to changing environmental factors",
+          "bbox": [
+            15,
+            673,
+            580,
+            685
+          ],
+          "words": [
+            {
+              "text": "financial",
+              "bbox": [
+                15,
+                673,
+                53,
+                685
+              ]
+            },
+            {
+              "text": "health",
+              "bbox": [
+                56,
+                673,
+                83,
+                685
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                86,
+                673,
+                95,
+                685
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                98,
+                673,
+                111,
+                685
+              ]
+            },
+            {
+              "text": "organization.",
+              "bbox": [
+                114,
+                673,
+                172,
+                685
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                174,
+                673,
+                186,
+                685
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                189,
+                673,
+                202,
+                685
+              ]
+            },
+            {
+              "text": "insurance",
+              "bbox": [
+                205,
+                673,
+                247,
+                685
+              ]
+            },
+            {
+              "text": "industry",
+              "bbox": [
+                250,
+                673,
+                286,
+                685
+              ]
+            },
+            {
+              "text": "continues",
+              "bbox": [
+                289,
+                673,
+                331,
+                685
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                333,
+                673,
+                342,
+                685
+              ]
+            },
+            {
+              "text": "evolve",
+              "bbox": [
+                345,
+                673,
+                374,
+                685
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                377,
+                673,
+                385,
+                685
+              ]
+            },
+            {
+              "text": "response",
+              "bbox": [
+                388,
+                673,
+                427,
+                685
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                429,
+                673,
+                438,
+                685
+              ]
+            },
+            {
+              "text": "changing",
+              "bbox": [
+                441,
+                673,
+                481,
+                685
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                484,
+                673,
+                547,
+                685
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                550,
+                673,
+                580,
+                685
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and emerging risks, the findings from this report will play a fundamental role in shaping Zurich Insurance’s ongoing risk",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                689,
+                31,
+                701
+              ]
+            },
+            {
+              "text": "emerging",
+              "bbox": [
+                36,
+                689,
+                77,
+                701
+              ]
+            },
+            {
+              "text": "risks,",
+              "bbox": [
+                81,
+                689,
+                105,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                110,
+                689,
+                123,
+                701
+              ]
+            },
+            {
+              "text": "findings",
+              "bbox": [
+                128,
+                689,
+                164,
+                701
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                168,
+                689,
+                190,
+                701
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                194,
+                689,
+                210,
+                701
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                215,
+                689,
+                241,
+                701
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                246,
+                689,
+                263,
+                701
+              ]
+            },
+            {
+              "text": "play",
+              "bbox": [
+                268,
+                689,
+                287,
+                701
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                291,
+                689,
+                296,
+                701
+              ]
+            },
+            {
+              "text": "fundamental",
+              "bbox": [
+                301,
+                689,
+                356,
+                701
+              ]
+            },
+            {
+              "text": "role",
+              "bbox": [
+                360,
+                689,
+                377,
+                701
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                382,
+                689,
+                391,
+                701
+              ]
+            },
+            {
+              "text": "shaping",
+              "bbox": [
+                395,
+                689,
+                430,
+                701
+              ]
+            },
+            {
+              "text": "Zurich",
+              "bbox": [
+                434,
+                689,
+                463,
+                701
+              ]
+            },
+            {
+              "text": "Insurance’s",
+              "bbox": [
+                468,
+                689,
+                518,
+                701
+              ]
+            },
+            {
+              "text": "ongoing",
+              "bbox": [
+                523,
+                689,
+                559,
+                701
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                563,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "assessment and management frameworks, ensuring that the company remains at the forefront of industry best practices while",
+          "bbox": [
+            15,
+            704,
+            580,
+            716
+          ],
+          "words": [
+            {
+              "text": "assessment",
+              "bbox": [
+                15,
+                704,
+                64,
+                716
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                68,
+                704,
+                83,
+                716
+              ]
+            },
+            {
+              "text": "management",
+              "bbox": [
+                87,
+                704,
+                143,
+                716
+              ]
+            },
+            {
+              "text": "frameworks,",
+              "bbox": [
+                147,
+                704,
+                202,
+                716
+              ]
+            },
+            {
+              "text": "ensuring",
+              "bbox": [
+                206,
+                704,
+                244,
+                716
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                248,
+                704,
+                264,
+                716
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                268,
+                704,
+                281,
+                716
+              ]
+            },
+            {
+              "text": "company",
+              "bbox": [
+                285,
+                704,
+                325,
+                716
+              ]
+            },
+            {
+              "text": "remains",
+              "bbox": [
+                329,
+                704,
+                364,
+                716
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                367,
+                704,
+                375,
+                716
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                379,
+                704,
+                392,
+                716
+              ]
+            },
+            {
+              "text": "forefront",
+              "bbox": [
+                396,
+                704,
+                435,
+                716
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                439,
+                704,
+                448,
+                716
+              ]
+            },
+            {
+              "text": "industry",
+              "bbox": [
+                452,
+                704,
+                488,
+                716
+              ]
+            },
+            {
+              "text": "best",
+              "bbox": [
+                491,
+                704,
+                509,
+                716
+              ]
+            },
+            {
+              "text": "practices",
+              "bbox": [
+                513,
+                704,
+                552,
+                716
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                556,
+                704,
+                580,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "text": "effectively safeguarding its clients' interests. The integration of this detailed claims data with broader market trends will",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "effectively",
+              "bbox": [
+                15,
+                720,
+                62,
+                732
+              ]
+            },
+            {
+              "text": "safeguarding",
+              "bbox": [
+                67,
+                720,
+                124,
+                732
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                129,
+                720,
+                139,
+                732
+              ]
+            },
+            {
+              "text": "clients'",
+              "bbox": [
+                144,
+                720,
+                175,
+                732
+              ]
+            },
+            {
+              "text": "interests.",
+              "bbox": [
+                180,
+                720,
+                220,
+                732
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                224,
+                720,
+                242,
+                732
+              ]
+            },
+            {
+              "text": "integration",
+              "bbox": [
+                247,
+                720,
+                294,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                299,
+                720,
+                309,
+                732
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                314,
+                720,
+                330,
+                732
+              ]
+            },
+            {
+              "text": "detailed",
+              "bbox": [
+                335,
+                720,
+                370,
+                732
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                375,
+                720,
+                403,
+                732
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                408,
+                720,
+                427,
+                732
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                432,
+                720,
+                451,
+                732
+              ]
+            },
+            {
+              "text": "broader",
+              "bbox": [
+                457,
+                720,
+                490,
+                732
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                495,
+                720,
+                526,
+                732
+              ]
+            },
+            {
+              "text": "trends",
+              "bbox": [
+                531,
+                720,
+                558,
+                732
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                563,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "facilitate a more nuanced understanding of the risks faced within North America, ultimately guiding Zurich Insurance toward",
+          "bbox": [
+            15,
+            735,
+            580,
+            747
+          ],
+          "words": [
+            {
+              "text": "facilitate",
+              "bbox": [
+                15,
+                735,
+                53,
+                747
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                57,
+                735,
+                62,
+                747
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                66,
+                735,
+                88,
+                747
+              ]
+            },
+            {
+              "text": "nuanced",
+              "bbox": [
+                92,
+                735,
+                129,
+                747
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                132,
+                735,
+                195,
+                747
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                198,
+                735,
+                207,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                211,
+                735,
+                224,
+                747
+              ]
+            },
+            {
+              "text": "risks",
+              "bbox": [
+                228,
+                735,
+                249,
+                747
+              ]
+            },
+            {
+              "text": "faced",
+              "bbox": [
+                252,
+                735,
+                276,
+                747
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                280,
+                735,
+                308,
+                747
+              ]
+            },
+            {
+              "text": "North",
+              "bbox": [
+                312,
+                735,
+                337,
+                747
+              ]
+            },
+            {
+              "text": "America,",
+              "bbox": [
+                340,
+                735,
+                381,
+                747
+              ]
+            },
+            {
+              "text": "ultimately",
+              "bbox": [
+                385,
+                735,
+                429,
+                747
+              ]
+            },
+            {
+              "text": "guiding",
+              "bbox": [
+                433,
+                735,
+                466,
+                747
+              ]
+            },
+            {
+              "text": "Zurich",
+              "bbox": [
+                470,
+                735,
+                499,
+                747
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                503,
+                735,
+                546,
+                747
+              ]
+            },
+            {
+              "text": "toward",
+              "bbox": [
+                549,
+                735,
+                580,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "more resilient and adaptable operational strategies in the face of an unpredictable future.",
+          "bbox": [
+            15,
+            750,
+            404,
+            762
+          ],
+          "words": [
+            {
+              "text": "more",
+              "bbox": [
+                15,
+                750,
+                38,
+                762
+              ]
+            },
+            {
+              "text": "resilient",
+              "bbox": [
+                40,
+                750,
+                76,
+                762
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                79,
+                750,
+                94,
+                762
+              ]
+            },
+            {
+              "text": "adaptable",
+              "bbox": [
+                97,
+                750,
+                139,
+                762
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                142,
+                750,
+                192,
+                762
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                194,
+                750,
+                236,
+                762
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                239,
+                750,
+                247,
+                762
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                250,
+                750,
+                263,
+                762
+              ]
+            },
+            {
+              "text": "face",
+              "bbox": [
+                266,
+                750,
+                284,
+                762
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                287,
+                750,
+                296,
+                762
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                299,
+                750,
+                309,
+                762
+              ]
+            },
+            {
+              "text": "unpredictable",
+              "bbox": [
+                312,
+                750,
+                372,
+                762
+              ]
+            },
+            {
+              "text": "future.",
+              "bbox": [
+                375,
+                750,
+                404,
+                762
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

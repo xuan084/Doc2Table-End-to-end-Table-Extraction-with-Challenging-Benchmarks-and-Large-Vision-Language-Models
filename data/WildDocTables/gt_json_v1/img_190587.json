@@ -1,0 +1,5574 @@
+{
+  "image_id": "img_190587",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        45,
+        522,
+        59
+      ],
+      "content": "In January 2024, Waste Management Inc.",
+      "lines": [
+        {
+          "text": "In January 2024, Waste Management Inc.",
+          "bbox": [
+            13,
+            46,
+            178,
+            57
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                13,
+                46,
+                22,
+                57
+              ]
+            },
+            {
+              "text": "January",
+              "bbox": [
+                24,
+                46,
+                55,
+                57
+              ]
+            },
+            {
+              "text": "2024,",
+              "bbox": [
+                57,
+                46,
+                80,
+                57
+              ]
+            },
+            {
+              "text": "Waste",
+              "bbox": [
+                82,
+                46,
+                106,
+                57
+              ]
+            },
+            {
+              "text": "Management",
+              "bbox": [
+                108,
+                46,
+                160,
+                57
+              ]
+            },
+            {
+              "text": "Inc.",
+              "bbox": [
+                163,
+                46,
+                178,
+                57
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_190587_t0",
+      "bbox": [
+        13,
+        72,
+        522,
+        255
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 4,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            14,
+            73,
+            521,
+            104
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            14,
+            104,
+            521,
+            123
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            14,
+            123,
+            521,
+            155
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            14,
+            155,
+            521,
+            186
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            14,
+            186,
+            521,
+            205
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            14,
+            205,
+            521,
+            224
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            14,
+            224,
+            521,
+            255
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Date</td><td>Location</td><td>TreatmentType</td><td>Throughput</td><td>Status</td></tr><tr><td>Jan2024</td><td>Seoul</td><td>Filtration</td><td>15000m³</td><td>Completed</td></tr><tr><td colspan=\"2\">TotalThroughput</td><td>15000m³</td><td>Cost</td><td>₩12000000</td><td>Efficiency</td></tr><tr><td>Jan2024</td><td>Busan</td><td>ReverseOsmosis</td><td>12000m³</td><td>Completed</td><td>Jan2024</td></tr></thead><tbody><tr><td>Jan2024</td><td>Incheon</td><td>Chemical</td><td>8000m³</td><td>InProgress</td><td>Jan2024</td></tr><tr><td>Gwangju</td><td>Biological</td><td>6000m³</td><td>Completed</td><td>Jan2024</td><td>Daejeon</td></tr><tr><td>Filtration</td><td>5000m³</td><td>Pending</td><td>Jan2024</td><td>Suwon</td><td>ReverseOsmosis</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Date",
+          "bbox": [
+            14,
+            73,
+            160,
+            104
+          ],
+          "words": [
+            {
+              "text": "Date",
+              "bbox": [
+                19,
+                77,
+                37,
+                87
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Location",
+          "bbox": [
+            160,
+            73,
+            306,
+            104
+          ],
+          "words": [
+            {
+              "text": "Location",
+              "bbox": [
+                165,
+                77,
+                199,
+                87
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "TreatmentType",
+          "bbox": [
+            306,
+            73,
+            360,
+            104
+          ],
+          "words": [
+            {
+              "text": "TreatmentType",
+              "bbox": [
+                315,
+                77,
+                355,
+                99
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Throughput",
+          "bbox": [
+            360,
+            73,
+            414,
+            104
+          ],
+          "words": [
+            {
+              "text": "Throughput",
+              "bbox": [
+                365,
+                77,
+                409,
+                99
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Status",
+          "bbox": [
+            414,
+            73,
+            467,
+            104
+          ],
+          "words": [
+            {
+              "text": "Status",
+              "bbox": [
+                439,
+                77,
+                463,
+                87
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Jan2024",
+          "bbox": [
+            14,
+            104,
+            160,
+            123
+          ],
+          "words": [
+            {
+              "text": "Jan2024",
+              "bbox": [
+                19,
+                108,
+                51,
+                118
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Seoul",
+          "bbox": [
+            160,
+            104,
+            306,
+            123
+          ],
+          "words": [
+            {
+              "text": "Seoul",
+              "bbox": [
+                165,
+                108,
+                186,
+                118
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Filtration",
+          "bbox": [
+            306,
+            104,
+            360,
+            123
+          ],
+          "words": [
+            {
+              "text": "Filtration",
+              "bbox": [
+                318,
+                108,
+                355,
+                118
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "15000m³",
+          "bbox": [
+            360,
+            104,
+            414,
+            123
+          ],
+          "words": [
+            {
+              "text": "15000m³",
+              "bbox": [
+                376,
+                108,
+                409,
+                118
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Completed",
+          "bbox": [
+            414,
+            104,
+            467,
+            123
+          ],
+          "words": [
+            {
+              "text": "Completed",
+              "bbox": [
+                421,
+                108,
+                463,
+                118
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalThroughput",
+          "bbox": [
+            14,
+            123,
+            306,
+            155
+          ],
+          "words": [
+            {
+              "text": "TotalThroughput",
+              "bbox": [
+                19,
+                127,
+                85,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "15000m³",
+          "bbox": [
+            306,
+            123,
+            360,
+            155
+          ],
+          "words": [
+            {
+              "text": "15000m³",
+              "bbox": [
+                322,
+                127,
+                355,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Cost",
+          "bbox": [
+            360,
+            123,
+            414,
+            155
+          ],
+          "words": [
+            {
+              "text": "Cost",
+              "bbox": [
+                391,
+                127,
+                409,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "₩12000000",
+          "bbox": [
+            414,
+            123,
+            467,
+            155
+          ],
+          "words": [
+            {
+              "text": "₩12000000",
+              "bbox": [
+                422,
+                127,
+                463,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Efficiency",
+          "bbox": [
+            467,
+            123,
+            521,
+            155
+          ],
+          "words": [
+            {
+              "text": "Efficiency",
+              "bbox": [
+                478,
+                127,
+                516,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Jan2024",
+          "bbox": [
+            14,
+            155,
+            160,
+            186
+          ],
+          "words": [
+            {
+              "text": "Jan2024",
+              "bbox": [
+                19,
+                159,
+                51,
+                169
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Busan",
+          "bbox": [
+            160,
+            155,
+            306,
+            186
+          ],
+          "words": [
+            {
+              "text": "Busan",
+              "bbox": [
+                165,
+                159,
+                189,
+                169
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ReverseOsmosis",
+          "bbox": [
+            306,
+            155,
+            360,
+            186
+          ],
+          "words": [
+            {
+              "text": "ReverseOsmosis",
+              "bbox": [
+                314,
+                159,
+                355,
+                181
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "12000m³",
+          "bbox": [
+            360,
+            155,
+            414,
+            186
+          ],
+          "words": [
+            {
+              "text": "12000m³",
+              "bbox": [
+                376,
+                159,
+                409,
+                169
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Completed",
+          "bbox": [
+            414,
+            155,
+            467,
+            186
+          ],
+          "words": [
+            {
+              "text": "Completed",
+              "bbox": [
+                421,
+                159,
+                463,
+                169
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Jan2024",
+          "bbox": [
+            467,
+            155,
+            521,
+            186
+          ],
+          "words": [
+            {
+              "text": "Jan2024",
+              "bbox": [
+                484,
+                159,
+                516,
+                169
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Jan2024",
+          "bbox": [
+            14,
+            186,
+            160,
+            205
+          ],
+          "words": [
+            {
+              "text": "Jan2024",
+              "bbox": [
+                18,
+                190,
+                48,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Incheon",
+          "bbox": [
+            160,
+            186,
+            306,
+            205
+          ],
+          "words": [
+            {
+              "text": "Incheon",
+              "bbox": [
+                165,
+                190,
+                194,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Chemical",
+          "bbox": [
+            306,
+            186,
+            360,
+            205
+          ],
+          "words": [
+            {
+              "text": "Chemical",
+              "bbox": [
+                321,
+                190,
+                355,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "8000m³",
+          "bbox": [
+            360,
+            186,
+            414,
+            205
+          ],
+          "words": [
+            {
+              "text": "8000m³",
+              "bbox": [
+                382,
+                190,
+                409,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "InProgress",
+          "bbox": [
+            414,
+            186,
+            467,
+            205
+          ],
+          "words": [
+            {
+              "text": "InProgress",
+              "bbox": [
+                425,
+                190,
+                463,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Jan2024",
+          "bbox": [
+            467,
+            186,
+            521,
+            205
+          ],
+          "words": [
+            {
+              "text": "Jan2024",
+              "bbox": [
+                487,
+                190,
+                517,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Gwangju",
+          "bbox": [
+            14,
+            205,
+            160,
+            224
+          ],
+          "words": [
+            {
+              "text": "Gwangju",
+              "bbox": [
+                18,
+                209,
+                51,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Biological",
+          "bbox": [
+            160,
+            205,
+            306,
+            224
+          ],
+          "words": [
+            {
+              "text": "Biological",
+              "bbox": [
+                165,
+                209,
+                202,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "6000m³",
+          "bbox": [
+            306,
+            205,
+            360,
+            224
+          ],
+          "words": [
+            {
+              "text": "6000m³",
+              "bbox": [
+                328,
+                209,
+                355,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Completed",
+          "bbox": [
+            360,
+            205,
+            414,
+            224
+          ],
+          "words": [
+            {
+              "text": "Completed",
+              "bbox": [
+                370,
+                209,
+                409,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Jan2024",
+          "bbox": [
+            414,
+            205,
+            467,
+            224
+          ],
+          "words": [
+            {
+              "text": "Jan2024",
+              "bbox": [
+                433,
+                209,
+                463,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Daejeon",
+          "bbox": [
+            467,
+            205,
+            521,
+            224
+          ],
+          "words": [
+            {
+              "text": "Daejeon",
+              "bbox": [
+                487,
+                209,
+                517,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Filtration",
+          "bbox": [
+            14,
+            224,
+            160,
+            255
+          ],
+          "words": [
+            {
+              "text": "Filtration",
+              "bbox": [
+                18,
+                228,
+                52,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5000m³",
+          "bbox": [
+            160,
+            224,
+            306,
+            255
+          ],
+          "words": [
+            {
+              "text": "5000m³",
+              "bbox": [
+                165,
+                228,
+                192,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Pending",
+          "bbox": [
+            306,
+            224,
+            360,
+            255
+          ],
+          "words": [
+            {
+              "text": "Pending",
+              "bbox": [
+                326,
+                228,
+                355,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Jan2024",
+          "bbox": [
+            360,
+            224,
+            414,
+            255
+          ],
+          "words": [
+            {
+              "text": "Jan2024",
+              "bbox": [
+                379,
+                228,
+                409,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Suwon",
+          "bbox": [
+            414,
+            224,
+            467,
+            255
+          ],
+          "words": [
+            {
+              "text": "Suwon",
+              "bbox": [
+                438,
+                228,
+                463,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "ReverseOsmosis",
+          "bbox": [
+            467,
+            224,
+            521,
+            255
+          ],
+          "words": [
+            {
+              "text": "ReverseOsmosis",
+              "bbox": [
+                478,
+                228,
+                517,
+                250
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        268,
+        522,
+        379
+      ],
+      "content": "conducted water treatment operations across various locations, employing different treatment types, with the Seoul site utilizing Filtration, achieving a throughput of 15,000m³ and marked as Completed; the total throughput for this period stands at 15,000m³, with a cost of ₩12,000,000 indicating efficiency. In Busan, the Reverse Osmosis treatment processed 12,000m³, also Completed. Incheon’s Chemical treatment, with a throughput of 8,000m³, is currently In Progress, while Gwangju successfully completed Biological treatment of 6,000m³, and Daejeon’s filtration process, with a throughput of 5,000m³, is Pending, scheduled for January 2024, alongside Suwon's Reverse Osmosis. The emissions reduction efforts show that the Landfill source has a reduction target of 30%, is On Track, with 15,000 tons of reduction achieved and a percentage reduction of 10%, while 12,000 tons were processed through Recycling, achieving 40%.",
+      "lines": [
+        {
+          "text": "conducted water treatment operations across various locations, employing different treatment types, with the Seoul site utilizing",
+          "bbox": [
+            13,
+            269,
+            522,
+            280
+          ],
+          "words": [
+            {
+              "text": "conducted",
+              "bbox": [
+                13,
+                269,
+                54,
+                280
+              ]
+            },
+            {
+              "text": "water",
+              "bbox": [
+                57,
+                269,
+                79,
+                280
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                81,
+                269,
+                119,
+                280
+              ]
+            },
+            {
+              "text": "operations",
+              "bbox": [
+                121,
+                269,
+                163,
+                280
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                165,
+                269,
+                190,
+                280
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                192,
+                269,
+                222,
+                280
+              ]
+            },
+            {
+              "text": "locations,",
+              "bbox": [
+                224,
+                269,
+                262,
+                280
+              ]
+            },
+            {
+              "text": "employing",
+              "bbox": [
+                265,
+                269,
+                307,
+                280
+              ]
+            },
+            {
+              "text": "different",
+              "bbox": [
+                310,
+                269,
+                344,
+                280
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                346,
+                269,
+                384,
+                280
+              ]
+            },
+            {
+              "text": "types,",
+              "bbox": [
+                386,
+                269,
+                410,
+                280
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                412,
+                269,
+                430,
+                280
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                433,
+                269,
+                445,
+                280
+              ]
+            },
+            {
+              "text": "Seoul",
+              "bbox": [
+                447,
+                269,
+                470,
+                280
+              ]
+            },
+            {
+              "text": "site",
+              "bbox": [
+                472,
+                269,
+                486,
+                280
+              ]
+            },
+            {
+              "text": "utilizing",
+              "bbox": [
+                489,
+                269,
+                522,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Filtration, achieving a throughput of 15,000m³ and marked as Completed; the total throughput for this period stands at",
+          "bbox": [
+            13,
+            283,
+            522,
+            294
+          ],
+          "words": [
+            {
+              "text": "Filtration,",
+              "bbox": [
+                13,
+                283,
+                53,
+                294
+              ]
+            },
+            {
+              "text": "achieving",
+              "bbox": [
+                58,
+                283,
+                96,
+                294
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                101,
+                283,
+                105,
+                294
+              ]
+            },
+            {
+              "text": "throughput",
+              "bbox": [
+                110,
+                283,
+                154,
+                294
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                158,
+                283,
+                167,
+                294
+              ]
+            },
+            {
+              "text": "15,000m³",
+              "bbox": [
+                171,
+                283,
+                209,
+                294
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                214,
+                283,
+                228,
+                294
+              ]
+            },
+            {
+              "text": "marked",
+              "bbox": [
+                233,
+                283,
+                263,
+                294
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                268,
+                283,
+                276,
+                294
+              ]
+            },
+            {
+              "text": "Completed;",
+              "bbox": [
+                281,
+                283,
+                327,
+                294
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                332,
+                283,
+                344,
+                294
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                349,
+                283,
+                366,
+                294
+              ]
+            },
+            {
+              "text": "throughput",
+              "bbox": [
+                371,
+                283,
+                415,
+                294
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                419,
+                283,
+                431,
+                294
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                436,
+                283,
+                450,
+                294
+              ]
+            },
+            {
+              "text": "period",
+              "bbox": [
+                455,
+                283,
+                480,
+                294
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                485,
+                283,
+                510,
+                294
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                515,
+                283,
+                522,
+                294
+              ]
+            }
+          ]
+        },
+        {
+          "text": "15,000m³, with a cost of ₩12,000,000 indicating efficiency. In Busan, the Reverse Osmosis treatment processed 12,000m³, also",
+          "bbox": [
+            13,
+            297,
+            522,
+            308
+          ],
+          "words": [
+            {
+              "text": "15,000m³,",
+              "bbox": [
+                13,
+                297,
+                54,
+                308
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                56,
+                297,
+                74,
+                308
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                77,
+                297,
+                81,
+                308
+              ]
+            },
+            {
+              "text": "cost",
+              "bbox": [
+                83,
+                297,
+                99,
+                308
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                102,
+                297,
+                110,
+                308
+              ]
+            },
+            {
+              "text": "₩12,000,000",
+              "bbox": [
+                113,
+                297,
+                167,
+                308
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                169,
+                297,
+                209,
+                308
+              ]
+            },
+            {
+              "text": "efficiency.",
+              "bbox": [
+                211,
+                297,
+                253,
+                308
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                255,
+                297,
+                263,
+                308
+              ]
+            },
+            {
+              "text": "Busan,",
+              "bbox": [
+                266,
+                297,
+                293,
+                308
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                296,
+                297,
+                308,
+                308
+              ]
+            },
+            {
+              "text": "Reverse",
+              "bbox": [
+                310,
+                297,
+                342,
+                308
+              ]
+            },
+            {
+              "text": "Osmosis",
+              "bbox": [
+                345,
+                297,
+                379,
+                308
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                381,
+                297,
+                419,
+                308
+              ]
+            },
+            {
+              "text": "processed",
+              "bbox": [
+                421,
+                297,
+                460,
+                308
+              ]
+            },
+            {
+              "text": "12,000m³,",
+              "bbox": [
+                463,
+                297,
+                503,
+                308
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                506,
+                297,
+                522,
+                308
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Completed. Incheon’s Chemical treatment, with a throughput of 8,000m³, is currently In Progress, while Gwangju successfully",
+          "bbox": [
+            13,
+            311,
+            522,
+            322
+          ],
+          "words": [
+            {
+              "text": "Completed.",
+              "bbox": [
+                13,
+                311,
+                59,
+                322
+              ]
+            },
+            {
+              "text": "Incheon’s",
+              "bbox": [
+                62,
+                311,
+                101,
+                322
+              ]
+            },
+            {
+              "text": "Chemical",
+              "bbox": [
+                104,
+                311,
+                142,
+                322
+              ]
+            },
+            {
+              "text": "treatment,",
+              "bbox": [
+                144,
+                311,
+                184,
+                322
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                187,
+                311,
+                205,
+                322
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                208,
+                311,
+                212,
+                322
+              ]
+            },
+            {
+              "text": "throughput",
+              "bbox": [
+                215,
+                311,
+                258,
+                322
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                261,
+                311,
+                270,
+                322
+              ]
+            },
+            {
+              "text": "8,000m³,",
+              "bbox": [
+                272,
+                311,
+                308,
+                322
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                311,
+                311,
+                317,
+                322
+              ]
+            },
+            {
+              "text": "currently",
+              "bbox": [
+                320,
+                311,
+                356,
+                322
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                359,
+                311,
+                367,
+                322
+              ]
+            },
+            {
+              "text": "Progress,",
+              "bbox": [
+                370,
+                311,
+                406,
+                322
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                409,
+                311,
+                431,
+                322
+              ]
+            },
+            {
+              "text": "Gwangju",
+              "bbox": [
+                434,
+                311,
+                471,
+                322
+              ]
+            },
+            {
+              "text": "successfully",
+              "bbox": [
+                473,
+                311,
+                522,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "text": "completed Biological treatment of 6,000m³, and Daejeon’s filtration process, with a throughput of 5,000m³, is Pending,",
+          "bbox": [
+            13,
+            325,
+            522,
+            335
+          ],
+          "words": [
+            {
+              "text": "completed",
+              "bbox": [
+                13,
+                325,
+                55,
+                335
+              ]
+            },
+            {
+              "text": "Biological",
+              "bbox": [
+                60,
+                325,
+                101,
+                335
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                106,
+                325,
+                143,
+                335
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                148,
+                325,
+                156,
+                335
+              ]
+            },
+            {
+              "text": "6,000m³,",
+              "bbox": [
+                161,
+                325,
+                197,
+                335
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                201,
+                325,
+                216,
+                335
+              ]
+            },
+            {
+              "text": "Daejeon’s",
+              "bbox": [
+                221,
+                325,
+                260,
+                335
+              ]
+            },
+            {
+              "text": "filtration",
+              "bbox": [
+                265,
+                325,
+                300,
+                335
+              ]
+            },
+            {
+              "text": "process,",
+              "bbox": [
+                305,
+                325,
+                337,
+                335
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                342,
+                325,
+                359,
+                335
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                364,
+                325,
+                369,
+                335
+              ]
+            },
+            {
+              "text": "throughput",
+              "bbox": [
+                374,
+                325,
+                417,
+                335
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                422,
+                325,
+                430,
+                335
+              ]
+            },
+            {
+              "text": "5,000m³,",
+              "bbox": [
+                435,
+                325,
+                470,
+                335
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                475,
+                325,
+                482,
+                335
+              ]
+            },
+            {
+              "text": "Pending,",
+              "bbox": [
+                487,
+                325,
+                522,
+                335
+              ]
+            }
+          ]
+        },
+        {
+          "text": "scheduled for January 2024, alongside Suwon's Reverse Osmosis. The emissions reduction efforts show that the Landfill source",
+          "bbox": [
+            13,
+            339,
+            522,
+            349
+          ],
+          "words": [
+            {
+              "text": "scheduled",
+              "bbox": [
+                13,
+                339,
+                53,
+                349
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                56,
+                339,
+                67,
+                349
+              ]
+            },
+            {
+              "text": "January",
+              "bbox": [
+                70,
+                339,
+                101,
+                349
+              ]
+            },
+            {
+              "text": "2024,",
+              "bbox": [
+                103,
+                339,
+                125,
+                349
+              ]
+            },
+            {
+              "text": "alongside",
+              "bbox": [
+                128,
+                339,
+                166,
+                349
+              ]
+            },
+            {
+              "text": "Suwon's",
+              "bbox": [
+                169,
+                339,
+                202,
+                349
+              ]
+            },
+            {
+              "text": "Reverse",
+              "bbox": [
+                204,
+                339,
+                236,
+                349
+              ]
+            },
+            {
+              "text": "Osmosis.",
+              "bbox": [
+                239,
+                339,
+                275,
+                349
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                278,
+                339,
+                293,
+                349
+              ]
+            },
+            {
+              "text": "emissions",
+              "bbox": [
+                296,
+                339,
+                335,
+                349
+              ]
+            },
+            {
+              "text": "reduction",
+              "bbox": [
+                338,
+                339,
+                375,
+                349
+              ]
+            },
+            {
+              "text": "efforts",
+              "bbox": [
+                377,
+                339,
+                403,
+                349
+              ]
+            },
+            {
+              "text": "show",
+              "bbox": [
+                406,
+                339,
+                427,
+                349
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                429,
+                339,
+                444,
+                349
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                447,
+                339,
+                459,
+                349
+              ]
+            },
+            {
+              "text": "Landfill",
+              "bbox": [
+                461,
+                339,
+                493,
+                349
+              ]
+            },
+            {
+              "text": "source",
+              "bbox": [
+                496,
+                339,
+                522,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "text": "has a reduction target of 30%, is On Track, with 15,000 tons of reduction achieved and a percentage reduction of 10%, while",
+          "bbox": [
+            13,
+            352,
+            522,
+            363
+          ],
+          "words": [
+            {
+              "text": "has",
+              "bbox": [
+                13,
+                352,
+                27,
+                363
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                30,
+                352,
+                34,
+                363
+              ]
+            },
+            {
+              "text": "reduction",
+              "bbox": [
+                37,
+                352,
+                75,
+                363
+              ]
+            },
+            {
+              "text": "target",
+              "bbox": [
+                78,
+                352,
+                100,
+                363
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                103,
+                352,
+                112,
+                363
+              ]
+            },
+            {
+              "text": "30%,",
+              "bbox": [
+                115,
+                352,
+                136,
+                363
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                139,
+                352,
+                145,
+                363
+              ]
+            },
+            {
+              "text": "On",
+              "bbox": [
+                148,
+                352,
+                161,
+                363
+              ]
+            },
+            {
+              "text": "Track,",
+              "bbox": [
+                164,
+                352,
+                189,
+                363
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                192,
+                352,
+                209,
+                363
+              ]
+            },
+            {
+              "text": "15,000",
+              "bbox": [
+                213,
+                352,
+                240,
+                363
+              ]
+            },
+            {
+              "text": "tons",
+              "bbox": [
+                243,
+                352,
+                260,
+                363
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                263,
+                352,
+                271,
+                363
+              ]
+            },
+            {
+              "text": "reduction",
+              "bbox": [
+                274,
+                352,
+                311,
+                363
+              ]
+            },
+            {
+              "text": "achieved",
+              "bbox": [
+                315,
+                352,
+                350,
+                363
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                353,
+                352,
+                367,
+                363
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                370,
+                352,
+                375,
+                363
+              ]
+            },
+            {
+              "text": "percentage",
+              "bbox": [
+                378,
+                352,
+                421,
+                363
+              ]
+            },
+            {
+              "text": "reduction",
+              "bbox": [
+                424,
+                352,
+                461,
+                363
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                465,
+                352,
+                473,
+                363
+              ]
+            },
+            {
+              "text": "10%,",
+              "bbox": [
+                476,
+                352,
+                497,
+                363
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                500,
+                352,
+                522,
+                363
+              ]
+            }
+          ]
+        },
+        {
+          "text": "12,000 tons were processed through Recycling, achieving 40%.",
+          "bbox": [
+            13,
+            366,
+            265,
+            377
+          ],
+          "words": [
+            {
+              "text": "12,000",
+              "bbox": [
+                13,
+                366,
+                41,
+                377
+              ]
+            },
+            {
+              "text": "tons",
+              "bbox": [
+                43,
+                366,
+                60,
+                377
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                62,
+                366,
+                81,
+                377
+              ]
+            },
+            {
+              "text": "processed",
+              "bbox": [
+                84,
+                366,
+                123,
+                377
+              ]
+            },
+            {
+              "text": "through",
+              "bbox": [
+                125,
+                366,
+                156,
+                377
+              ]
+            },
+            {
+              "text": "Recycling,",
+              "bbox": [
+                159,
+                366,
+                201,
+                377
+              ]
+            },
+            {
+              "text": "achieving",
+              "bbox": [
+                204,
+                366,
+                242,
+                377
+              ]
+            },
+            {
+              "text": "40%.",
+              "bbox": [
+                245,
+                366,
+                265,
+                377
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_190587_t1",
+      "bbox": [
+        13,
+        393,
+        522,
+        690
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            14,
+            393,
+            521,
+            425
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            14,
+            425,
+            521,
+            456
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            14,
+            456,
+            521,
+            488
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            14,
+            488,
+            521,
+            519
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            14,
+            519,
+            521,
+            563
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            14,
+            563,
+            521,
+            595
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            14,
+            595,
+            521,
+            626
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            14,
+            626,
+            521,
+            658
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            14,
+            658,
+            521,
+            689
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>EmissionSource</td><td>ReductionTarget</td><td>CurrentStatus</td><td>ReductionAchieved</td><td>PercentageReduction</td><td>UnitsProcessed</td><td colspan=\"2\">WasteManagementActivities</td></tr><tr><td>Landfill</td><td>30%</td><td>OnTrack</td><td>15,000tons</td><td>10%</td><td>12,000tons</td><td>Recycling</td><td>40%</td></tr></thead><tbody><tr><td>Achieved</td><td>8,000tons</td><td>20%</td><td>7,500tons</td><td>Composting</td><td>25%</td><td>InProgress</td><td>5,000tons</td></tr><tr><td>15%</td><td>4,500tons</td><td>Incineration</td><td>20%</td><td>UnderReview</td><td>3,000tons</td><td>5%</td><td>2,800tons</td></tr><tr><td>TotalEmissions</td><td>ReductionTarget</td><td>CurrentEmissions</td><td>TotalReduction</td><td>OverallPercentage</td><td>TotalUnits</td><td>WasteProcessed</td><td>40,000tons</td></tr><tr><td>ProjectedEmissions</td><td>2024Target</td><td>30,000tons</td><td>Achieved</td><td>12,000tons</td><td>40%</td><td>AnnualGrowth</td><td>5%</td></tr><tr><td>CarbonCredits</td><td>TotalAcquired</td><td>1,500credits</td><td>Projected</td><td>2,000credits</td><td>WasteDiversionRate</td><td>CurrentRate</td><td>75%</td></tr><tr><td>TargetRate</td><td>80%</td><td>BranchCount</td><td>TotalBranches</td><td>150</td><td>NewBranches</td><td>5</td><td>StaffCount</td></tr><tr><td>TotalEmployees</td><td>1,200</td><td>NewHires</td><td>50</td><td>TrainingSessions</td><td>TotalSessions</td><td>20</td><td>FeedbackScore</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "EmissionSource",
+          "bbox": [
+            14,
+            393,
+            85,
+            425
+          ],
+          "words": [
+            {
+              "text": "EmissionSource",
+              "bbox": [
+                19,
+                397,
+                80,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ReductionTarget",
+          "bbox": [
+            85,
+            393,
+            157,
+            425
+          ],
+          "words": [
+            {
+              "text": "ReductionTarget",
+              "bbox": [
+                90,
+                397,
+                152,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "CurrentStatus",
+          "bbox": [
+            157,
+            393,
+            229,
+            425
+          ],
+          "words": [
+            {
+              "text": "CurrentStatus",
+              "bbox": [
+                162,
+                397,
+                217,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "ReductionAchieved",
+          "bbox": [
+            229,
+            393,
+            300,
+            425
+          ],
+          "words": [
+            {
+              "text": "ReductionAchieved",
+              "bbox": [
+                233,
+                397,
+                295,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "PercentageReduction",
+          "bbox": [
+            300,
+            393,
+            372,
+            425
+          ],
+          "words": [
+            {
+              "text": "PercentageReduction",
+              "bbox": [
+                305,
+                397,
+                363,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "UnitsProcessed",
+          "bbox": [
+            372,
+            393,
+            443,
+            425
+          ],
+          "words": [
+            {
+              "text": "UnitsProcessed",
+              "bbox": [
+                380,
+                397,
+                438,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6,
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "WasteManagementActivities",
+          "bbox": [
+            443,
+            393,
+            521,
+            425
+          ],
+          "words": [
+            {
+              "text": "WasteManagementActivities",
+              "bbox": [
+                448,
+                397,
+                514,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Landfill",
+          "bbox": [
+            14,
+            425,
+            85,
+            456
+          ],
+          "words": [
+            {
+              "text": "Landfill",
+              "bbox": [
+                19,
+                429,
+                50,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "30%",
+          "bbox": [
+            85,
+            425,
+            157,
+            456
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                90,
+                429,
+                108,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "OnTrack",
+          "bbox": [
+            157,
+            425,
+            229,
+            456
+          ],
+          "words": [
+            {
+              "text": "OnTrack",
+              "bbox": [
+                162,
+                429,
+                197,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "15,000tons",
+          "bbox": [
+            229,
+            425,
+            300,
+            456
+          ],
+          "words": [
+            {
+              "text": "15,000tons",
+              "bbox": [
+                233,
+                429,
+                274,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "10%",
+          "bbox": [
+            300,
+            425,
+            372,
+            456
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                305,
+                429,
+                323,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "12,000tons",
+          "bbox": [
+            372,
+            425,
+            443,
+            456
+          ],
+          "words": [
+            {
+              "text": "12,000tons",
+              "bbox": [
+                397,
+                429,
+                438,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Recycling",
+          "bbox": [
+            443,
+            425,
+            482,
+            456
+          ],
+          "words": [
+            {
+              "text": "Recycling",
+              "bbox": [
+                448,
+                429,
+                476,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "40%",
+          "bbox": [
+            482,
+            425,
+            521,
+            456
+          ],
+          "words": [
+            {
+              "text": "40%",
+              "bbox": [
+                498,
+                429,
+                516,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Achieved",
+          "bbox": [
+            14,
+            456,
+            85,
+            488
+          ],
+          "words": [
+            {
+              "text": "Achieved",
+              "bbox": [
+                19,
+                460,
+                53,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "8,000tons",
+          "bbox": [
+            85,
+            456,
+            157,
+            488
+          ],
+          "words": [
+            {
+              "text": "8,000tons",
+              "bbox": [
+                90,
+                460,
+                126,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            157,
+            456,
+            229,
+            488
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                162,
+                460,
+                178,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "7,500tons",
+          "bbox": [
+            229,
+            456,
+            300,
+            488
+          ],
+          "words": [
+            {
+              "text": "7,500tons",
+              "bbox": [
+                233,
+                460,
+                269,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Composting",
+          "bbox": [
+            300,
+            456,
+            372,
+            488
+          ],
+          "words": [
+            {
+              "text": "Composting",
+              "bbox": [
+                305,
+                460,
+                349,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "25%",
+          "bbox": [
+            372,
+            456,
+            443,
+            488
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                422,
+                460,
+                438,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "InProgress",
+          "bbox": [
+            443,
+            456,
+            482,
+            488
+          ],
+          "words": [
+            {
+              "text": "InProgress",
+              "bbox": [
+                448,
+                460,
+                476,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "5,000tons",
+          "bbox": [
+            482,
+            456,
+            521,
+            488
+          ],
+          "words": [
+            {
+              "text": "5,000tons",
+              "bbox": [
+                489,
+                460,
+                516,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            14,
+            488,
+            85,
+            519
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                19,
+                492,
+                35,
+                502
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4,500tons",
+          "bbox": [
+            85,
+            488,
+            157,
+            519
+          ],
+          "words": [
+            {
+              "text": "4,500tons",
+              "bbox": [
+                90,
+                492,
+                126,
+                502
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Incineration",
+          "bbox": [
+            157,
+            488,
+            229,
+            519
+          ],
+          "words": [
+            {
+              "text": "Incineration",
+              "bbox": [
+                162,
+                492,
+                205,
+                502
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            229,
+            488,
+            300,
+            519
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                233,
+                492,
+                250,
+                502
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "UnderReview",
+          "bbox": [
+            300,
+            488,
+            372,
+            519
+          ],
+          "words": [
+            {
+              "text": "UnderReview",
+              "bbox": [
+                305,
+                492,
+                355,
+                502
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3,000tons",
+          "bbox": [
+            372,
+            488,
+            443,
+            519
+          ],
+          "words": [
+            {
+              "text": "3,000tons",
+              "bbox": [
+                403,
+                492,
+                438,
+                502
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            443,
+            488,
+            482,
+            519
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                448,
+                492,
+                460,
+                502
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "2,800tons",
+          "bbox": [
+            482,
+            488,
+            521,
+            519
+          ],
+          "words": [
+            {
+              "text": "2,800tons",
+              "bbox": [
+                489,
+                492,
+                516,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalEmissions",
+          "bbox": [
+            14,
+            519,
+            85,
+            563
+          ],
+          "words": [
+            {
+              "text": "TotalEmissions",
+              "bbox": [
+                19,
+                523,
+                74,
+                533
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "ReductionTarget",
+          "bbox": [
+            85,
+            519,
+            157,
+            563
+          ],
+          "words": [
+            {
+              "text": "ReductionTarget",
+              "bbox": [
+                90,
+                523,
+                150,
+                533
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CurrentEmissions",
+          "bbox": [
+            157,
+            519,
+            229,
+            563
+          ],
+          "words": [
+            {
+              "text": "CurrentEmissions",
+              "bbox": [
+                162,
+                523,
+                223,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalReduction",
+          "bbox": [
+            229,
+            519,
+            300,
+            563
+          ],
+          "words": [
+            {
+              "text": "TotalReduction",
+              "bbox": [
+                233,
+                523,
+                289,
+                533
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "OverallPercentage",
+          "bbox": [
+            300,
+            519,
+            372,
+            563
+          ],
+          "words": [
+            {
+              "text": "OverallPercentage",
+              "bbox": [
+                305,
+                523,
+                363,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalUnits",
+          "bbox": [
+            372,
+            519,
+            443,
+            563
+          ],
+          "words": [
+            {
+              "text": "TotalUnits",
+              "bbox": [
+                400,
+                523,
+                438,
+                533
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "WasteProcessed",
+          "bbox": [
+            443,
+            519,
+            482,
+            563
+          ],
+          "words": [
+            {
+              "text": "WasteProcessed",
+              "bbox": [
+                448,
+                523,
+                475,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "40,000tons",
+          "bbox": [
+            482,
+            519,
+            521,
+            563
+          ],
+          "words": [
+            {
+              "text": "40,000tons",
+              "bbox": [
+                489,
+                523,
+                516,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProjectedEmissions",
+          "bbox": [
+            14,
+            563,
+            85,
+            595
+          ],
+          "words": [
+            {
+              "text": "ProjectedEmissions",
+              "bbox": [
+                19,
+                567,
+                77,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2024Target",
+          "bbox": [
+            85,
+            563,
+            157,
+            595
+          ],
+          "words": [
+            {
+              "text": "2024Target",
+              "bbox": [
+                90,
+                567,
+                131,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "30,000tons",
+          "bbox": [
+            157,
+            563,
+            229,
+            595
+          ],
+          "words": [
+            {
+              "text": "30,000tons",
+              "bbox": [
+                162,
+                567,
+                202,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Achieved",
+          "bbox": [
+            229,
+            563,
+            300,
+            595
+          ],
+          "words": [
+            {
+              "text": "Achieved",
+              "bbox": [
+                233,
+                567,
+                268,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "12,000tons",
+          "bbox": [
+            300,
+            563,
+            372,
+            595
+          ],
+          "words": [
+            {
+              "text": "12,000tons",
+              "bbox": [
+                305,
+                567,
+                345,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "40%",
+          "bbox": [
+            372,
+            563,
+            443,
+            595
+          ],
+          "words": [
+            {
+              "text": "40%",
+              "bbox": [
+                422,
+                567,
+                438,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "AnnualGrowth",
+          "bbox": [
+            443,
+            563,
+            482,
+            595
+          ],
+          "words": [
+            {
+              "text": "AnnualGrowth",
+              "bbox": [
+                448,
+                567,
+                476,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            482,
+            563,
+            521,
+            595
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                504,
+                567,
+                516,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CarbonCredits",
+          "bbox": [
+            14,
+            595,
+            85,
+            626
+          ],
+          "words": [
+            {
+              "text": "CarbonCredits",
+              "bbox": [
+                19,
+                599,
+                71,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalAcquired",
+          "bbox": [
+            85,
+            595,
+            157,
+            626
+          ],
+          "words": [
+            {
+              "text": "TotalAcquired",
+              "bbox": [
+                90,
+                599,
+                142,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1,500credits",
+          "bbox": [
+            157,
+            595,
+            229,
+            626
+          ],
+          "words": [
+            {
+              "text": "1,500credits",
+              "bbox": [
+                162,
+                599,
+                206,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Projected",
+          "bbox": [
+            229,
+            595,
+            300,
+            626
+          ],
+          "words": [
+            {
+              "text": "Projected",
+              "bbox": [
+                233,
+                599,
+                267,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2,000credits",
+          "bbox": [
+            300,
+            595,
+            372,
+            626
+          ],
+          "words": [
+            {
+              "text": "2,000credits",
+              "bbox": [
+                305,
+                599,
+                349,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "WasteDiversionRate",
+          "bbox": [
+            372,
+            595,
+            443,
+            626
+          ],
+          "words": [
+            {
+              "text": "WasteDiversionRate",
+              "bbox": [
+                381,
+                599,
+                438,
+                621
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "CurrentRate",
+          "bbox": [
+            443,
+            595,
+            482,
+            626
+          ],
+          "words": [
+            {
+              "text": "CurrentRate",
+              "bbox": [
+                448,
+                599,
+                476,
+                621
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            482,
+            595,
+            521,
+            626
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                500,
+                599,
+                516,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TargetRate",
+          "bbox": [
+            14,
+            626,
+            85,
+            658
+          ],
+          "words": [
+            {
+              "text": "TargetRate",
+              "bbox": [
+                19,
+                630,
+                58,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            85,
+            626,
+            157,
+            658
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                90,
+                630,
+                107,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "BranchCount",
+          "bbox": [
+            157,
+            626,
+            229,
+            658
+          ],
+          "words": [
+            {
+              "text": "BranchCount",
+              "bbox": [
+                162,
+                630,
+                210,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalBranches",
+          "bbox": [
+            229,
+            626,
+            300,
+            658
+          ],
+          "words": [
+            {
+              "text": "TotalBranches",
+              "bbox": [
+                233,
+                630,
+                285,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "150",
+          "bbox": [
+            300,
+            626,
+            372,
+            658
+          ],
+          "words": [
+            {
+              "text": "150",
+              "bbox": [
+                305,
+                630,
+                319,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "NewBranches",
+          "bbox": [
+            372,
+            626,
+            443,
+            658
+          ],
+          "words": [
+            {
+              "text": "NewBranches",
+              "bbox": [
+                388,
+                630,
+                438,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            443,
+            626,
+            482,
+            658
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                448,
+                630,
+                453,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "StaffCount",
+          "bbox": [
+            482,
+            626,
+            521,
+            658
+          ],
+          "words": [
+            {
+              "text": "StaffCount",
+              "bbox": [
+                489,
+                630,
+                516,
+                653
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalEmployees",
+          "bbox": [
+            14,
+            658,
+            85,
+            689
+          ],
+          "words": [
+            {
+              "text": "TotalEmployees",
+              "bbox": [
+                19,
+                662,
+                77,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1,200",
+          "bbox": [
+            85,
+            658,
+            157,
+            689
+          ],
+          "words": [
+            {
+              "text": "1,200",
+              "bbox": [
+                90,
+                662,
+                111,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "NewHires",
+          "bbox": [
+            157,
+            658,
+            229,
+            689
+          ],
+          "words": [
+            {
+              "text": "NewHires",
+              "bbox": [
+                162,
+                662,
+                198,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "50",
+          "bbox": [
+            229,
+            658,
+            300,
+            689
+          ],
+          "words": [
+            {
+              "text": "50",
+              "bbox": [
+                233,
+                662,
+                242,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "TrainingSessions",
+          "bbox": [
+            300,
+            658,
+            372,
+            689
+          ],
+          "words": [
+            {
+              "text": "TrainingSessions",
+              "bbox": [
+                305,
+                662,
+                363,
+                684
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalSessions",
+          "bbox": [
+            372,
+            658,
+            443,
+            689
+          ],
+          "words": [
+            {
+              "text": "TotalSessions",
+              "bbox": [
+                389,
+                662,
+                438,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "20",
+          "bbox": [
+            443,
+            658,
+            482,
+            689
+          ],
+          "words": [
+            {
+              "text": "20",
+              "bbox": [
+                448,
+                662,
+                457,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "FeedbackScore",
+          "bbox": [
+            482,
+            658,
+            521,
+            689
+          ],
+          "words": [
+            {
+              "text": "FeedbackScore",
+              "bbox": [
+                487,
+                662,
+                516,
+                684
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        703,
+        522,
+        786
+      ],
+      "content": "Additionally, 8,000 tons were achieved through Composting, with a 20% reduction in progress on 5,000 tons. Incineration targets a 15% reduction, currently Under Review, with 3,000 tons processed. The Total Emissions figure stands at 40,000 tons, with a projected 2024 target of 30,000 tons. The organization acquired 1,500 Carbon Credits, projecting 2,000 credits, with a current diversion rate of 75%, aiming for an 80% target rate with 150 branches, including 5 new branches and a workforce of 1,200 employees, incorporating 50 new hires and 20 training sessions, yielding a feedback score that reflects operational performance.",
+      "lines": [
+        {
+          "text": "Additionally, 8,000 tons were achieved through Composting, with a 20% reduction in progress on 5,000 tons. Incineration",
+          "bbox": [
+            13,
+            704,
+            522,
+            715
+          ],
+          "words": [
+            {
+              "text": "Additionally,",
+              "bbox": [
+                13,
+                704,
+                65,
+                715
+              ]
+            },
+            {
+              "text": "8,000",
+              "bbox": [
+                69,
+                704,
+                92,
+                715
+              ]
+            },
+            {
+              "text": "tons",
+              "bbox": [
+                96,
+                704,
+                112,
+                715
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                116,
+                704,
+                135,
+                715
+              ]
+            },
+            {
+              "text": "achieved",
+              "bbox": [
+                139,
+                704,
+                174,
+                715
+              ]
+            },
+            {
+              "text": "through",
+              "bbox": [
+                178,
+                704,
+                209,
+                715
+              ]
+            },
+            {
+              "text": "Composting,",
+              "bbox": [
+                213,
+                704,
+                264,
+                715
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                268,
+                704,
+                286,
+                715
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                290,
+                704,
+                294,
+                715
+              ]
+            },
+            {
+              "text": "20%",
+              "bbox": [
+                298,
+                704,
+                316,
+                715
+              ]
+            },
+            {
+              "text": "reduction",
+              "bbox": [
+                320,
+                704,
+                358,
+                715
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                362,
+                704,
+                369,
+                715
+              ]
+            },
+            {
+              "text": "progress",
+              "bbox": [
+                373,
+                704,
+                407,
+                715
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                411,
+                704,
+                421,
+                715
+              ]
+            },
+            {
+              "text": "5,000",
+              "bbox": [
+                425,
+                704,
+                447,
+                715
+              ]
+            },
+            {
+              "text": "tons.",
+              "bbox": [
+                451,
+                704,
+                470,
+                715
+              ]
+            },
+            {
+              "text": "Incineration",
+              "bbox": [
+                474,
+                704,
+                522,
+                715
+              ]
+            }
+          ]
+        },
+        {
+          "text": "targets a 15% reduction, currently Under Review, with 3,000 tons processed. The Total Emissions figure stands at 40,000 tons,",
+          "bbox": [
+            13,
+            718,
+            522,
+            729
+          ],
+          "words": [
+            {
+              "text": "targets",
+              "bbox": [
+                13,
+                718,
+                40,
+                729
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                43,
+                718,
+                47,
+                729
+              ]
+            },
+            {
+              "text": "15%",
+              "bbox": [
+                50,
+                718,
+                68,
+                729
+              ]
+            },
+            {
+              "text": "reduction,",
+              "bbox": [
+                71,
+                718,
+                111,
+                729
+              ]
+            },
+            {
+              "text": "currently",
+              "bbox": [
+                114,
+                718,
+                149,
+                729
+              ]
+            },
+            {
+              "text": "Under",
+              "bbox": [
+                152,
+                718,
+                177,
+                729
+              ]
+            },
+            {
+              "text": "Review,",
+              "bbox": [
+                180,
+                718,
+                212,
+                729
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                215,
+                718,
+                232,
+                729
+              ]
+            },
+            {
+              "text": "3,000",
+              "bbox": [
+                235,
+                718,
+                257,
+                729
+              ]
+            },
+            {
+              "text": "tons",
+              "bbox": [
+                260,
+                718,
+                277,
+                729
+              ]
+            },
+            {
+              "text": "processed.",
+              "bbox": [
+                280,
+                718,
+                321,
+                729
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                324,
+                718,
+                339,
+                729
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                342,
+                718,
+                362,
+                729
+              ]
+            },
+            {
+              "text": "Emissions",
+              "bbox": [
+                365,
+                718,
+                406,
+                729
+              ]
+            },
+            {
+              "text": "figure",
+              "bbox": [
+                409,
+                718,
+                432,
+                729
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                435,
+                718,
+                460,
+                729
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                463,
+                718,
+                470,
+                729
+              ]
+            },
+            {
+              "text": "40,000",
+              "bbox": [
+                473,
+                718,
+                500,
+                729
+              ]
+            },
+            {
+              "text": "tons,",
+              "bbox": [
+                503,
+                718,
+                522,
+                729
+              ]
+            }
+          ]
+        },
+        {
+          "text": "with a projected 2024 target of 30,000 tons. The organization acquired 1,500 Carbon Credits, projecting 2,000 credits, with a",
+          "bbox": [
+            13,
+            732,
+            522,
+            742
+          ],
+          "words": [
+            {
+              "text": "with",
+              "bbox": [
+                13,
+                732,
+                31,
+                742
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                34,
+                732,
+                39,
+                742
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                42,
+                732,
+                79,
+                742
+              ]
+            },
+            {
+              "text": "2024",
+              "bbox": [
+                82,
+                732,
+                102,
+                742
+              ]
+            },
+            {
+              "text": "target",
+              "bbox": [
+                105,
+                732,
+                127,
+                742
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                131,
+                732,
+                139,
+                742
+              ]
+            },
+            {
+              "text": "30,000",
+              "bbox": [
+                142,
+                732,
+                169,
+                742
+              ]
+            },
+            {
+              "text": "tons.",
+              "bbox": [
+                173,
+                732,
+                192,
+                742
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                195,
+                732,
+                210,
+                742
+              ]
+            },
+            {
+              "text": "organization",
+              "bbox": [
+                213,
+                732,
+                263,
+                742
+              ]
+            },
+            {
+              "text": "acquired",
+              "bbox": [
+                266,
+                732,
+                300,
+                742
+              ]
+            },
+            {
+              "text": "1,500",
+              "bbox": [
+                303,
+                732,
+                326,
+                742
+              ]
+            },
+            {
+              "text": "Carbon",
+              "bbox": [
+                329,
+                732,
+                358,
+                742
+              ]
+            },
+            {
+              "text": "Credits,",
+              "bbox": [
+                361,
+                732,
+                392,
+                742
+              ]
+            },
+            {
+              "text": "projecting",
+              "bbox": [
+                395,
+                732,
+                436,
+                742
+              ]
+            },
+            {
+              "text": "2,000",
+              "bbox": [
+                439,
+                732,
+                461,
+                742
+              ]
+            },
+            {
+              "text": "credits,",
+              "bbox": [
+                464,
+                732,
+                493,
+                742
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                496,
+                732,
+                514,
+                742
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                517,
+                732,
+                522,
+                742
+              ]
+            }
+          ]
+        },
+        {
+          "text": "current diversion rate of 75%, aiming for an 80% target rate with 150 branches, including 5 new branches and a workforce of",
+          "bbox": [
+            13,
+            745,
+            522,
+            756
+          ],
+          "words": [
+            {
+              "text": "current",
+              "bbox": [
+                13,
+                745,
+                42,
+                756
+              ]
+            },
+            {
+              "text": "diversion",
+              "bbox": [
+                45,
+                745,
+                81,
+                756
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                84,
+                745,
+                99,
+                756
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                102,
+                745,
+                111,
+                756
+              ]
+            },
+            {
+              "text": "75%,",
+              "bbox": [
+                114,
+                745,
+                134,
+                756
+              ]
+            },
+            {
+              "text": "aiming",
+              "bbox": [
+                137,
+                745,
+                165,
+                756
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                168,
+                745,
+                179,
+                756
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                183,
+                745,
+                192,
+                756
+              ]
+            },
+            {
+              "text": "80%",
+              "bbox": [
+                195,
+                745,
+                213,
+                756
+              ]
+            },
+            {
+              "text": "target",
+              "bbox": [
+                216,
+                745,
+                238,
+                756
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                242,
+                745,
+                256,
+                756
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                259,
+                745,
+                277,
+                756
+              ]
+            },
+            {
+              "text": "150",
+              "bbox": [
+                280,
+                745,
+                295,
+                756
+              ]
+            },
+            {
+              "text": "branches,",
+              "bbox": [
+                298,
+                745,
+                336,
+                756
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                339,
+                745,
+                376,
+                756
+              ]
+            },
+            {
+              "text": "5",
+              "bbox": [
+                379,
+                745,
+                384,
+                756
+              ]
+            },
+            {
+              "text": "new",
+              "bbox": [
+                387,
+                745,
+                404,
+                756
+              ]
+            },
+            {
+              "text": "branches",
+              "bbox": [
+                407,
+                745,
+                442,
+                756
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                445,
+                745,
+                459,
+                756
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                462,
+                745,
+                467,
+                756
+              ]
+            },
+            {
+              "text": "workforce",
+              "bbox": [
+                470,
+                745,
+                510,
+                756
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                514,
+                745,
+                522,
+                756
+              ]
+            }
+          ]
+        },
+        {
+          "text": "1,200 employees, incorporating 50 new hires and 20 training sessions, yielding a feedback score that reflects operational",
+          "bbox": [
+            13,
+            759,
+            522,
+            770
+          ],
+          "words": [
+            {
+              "text": "1,200",
+              "bbox": [
+                13,
+                759,
+                36,
+                770
+              ]
+            },
+            {
+              "text": "employees,",
+              "bbox": [
+                40,
+                759,
+                85,
+                770
+              ]
+            },
+            {
+              "text": "incorporating",
+              "bbox": [
+                89,
+                759,
+                143,
+                770
+              ]
+            },
+            {
+              "text": "50",
+              "bbox": [
+                147,
+                759,
+                157,
+                770
+              ]
+            },
+            {
+              "text": "new",
+              "bbox": [
+                161,
+                759,
+                178,
+                770
+              ]
+            },
+            {
+              "text": "hires",
+              "bbox": [
+                182,
+                759,
+                202,
+                770
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                206,
+                759,
+                220,
+                770
+              ]
+            },
+            {
+              "text": "20",
+              "bbox": [
+                225,
+                759,
+                235,
+                770
+              ]
+            },
+            {
+              "text": "training",
+              "bbox": [
+                239,
+                759,
+                270,
+                770
+              ]
+            },
+            {
+              "text": "sessions,",
+              "bbox": [
+                274,
+                759,
+                309,
+                770
+              ]
+            },
+            {
+              "text": "yielding",
+              "bbox": [
+                313,
+                759,
+                346,
+                770
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                350,
+                759,
+                355,
+                770
+              ]
+            },
+            {
+              "text": "feedback",
+              "bbox": [
+                359,
+                759,
+                395,
+                770
+              ]
+            },
+            {
+              "text": "score",
+              "bbox": [
+                399,
+                759,
+                420,
+                770
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                424,
+                759,
+                439,
+                770
+              ]
+            },
+            {
+              "text": "reflects",
+              "bbox": [
+                444,
+                759,
+                473,
+                770
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                477,
+                759,
+                522,
+                770
+              ]
+            }
+          ]
+        },
+        {
+          "text": "performance.",
+          "bbox": [
+            13,
+            773,
+            66,
+            784
+          ],
+          "words": [
+            {
+              "text": "performance.",
+              "bbox": [
+                13,
+                773,
+                66,
+                784
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

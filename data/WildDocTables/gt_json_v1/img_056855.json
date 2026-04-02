@@ -1,0 +1,4217 @@
+{
+  "image_id": "img_056855",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_056855_t0",
+      "bbox": [
+        15,
+        192,
+        580,
+        332
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            192,
+            580,
+            212
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            212,
+            580,
+            232
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            232,
+            580,
+            252
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            252,
+            580,
+            272
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            272,
+            580,
+            292
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            292,
+            580,
+            312
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            312,
+            580,
+            332
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td></td><td colspan=\"2\">Control 72 (n = 6)</td><td colspan=\"2\">LPS 72 (n = 7)</td></tr><tr><td></td><td>Type II Cells</td><td>Plate Cells</td><td>Type II Cells</td><td>Plate Cells</td></tr></thead><tbody><tr><td>Cell Numbers (106)</td><td>28.4 ± 3.9</td><td>6.2 ± 2.2</td><td>33.2 ± 5.6</td><td>7.8 ± 2.2</td></tr><tr><td>% Type II Cells</td><td>75 ± 2</td><td>22 ± 3</td><td>83 ± 1</td><td>19 ± 3</td></tr><tr><td>% Macrophages</td><td>11 ± 2</td><td>56 ± 5</td><td>12 ± 2</td><td>59 ± 4</td></tr><tr><td>% Neutrophils</td><td>-</td><td>22 ± 7</td><td>2 ± 1</td><td>22 ± 3</td></tr><tr><td>% Other Cells</td><td>14 ± 1</td><td>-</td><td>3 ± 3*</td><td>-</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            192,
+            168,
+            212
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Control 72 (n = 6)",
+          "bbox": [
+            168,
+            192,
+            374,
+            212
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                174,
+                196,
+                207,
+                207
+              ]
+            },
+            {
+              "text": "72",
+              "bbox": [
+                209,
+                196,
+                219,
+                207
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                222,
+                196,
+                231,
+                207
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                233,
+                196,
+                239,
+                207
+              ]
+            },
+            {
+              "text": "6)",
+              "bbox": [
+                241,
+                196,
+                250,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "LPS 72 (n = 7)",
+          "bbox": [
+            374,
+            192,
+            580,
+            212
+          ],
+          "words": [
+            {
+              "text": "LPS",
+              "bbox": [
+                514,
+                196,
+                532,
+                207
+              ]
+            },
+            {
+              "text": "72",
+              "bbox": [
+                535,
+                196,
+                545,
+                207
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                547,
+                196,
+                556,
+                207
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                558,
+                196,
+                564,
+                207
+              ]
+            },
+            {
+              "text": "7)",
+              "bbox": [
+                567,
+                196,
+                575,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            212,
+            168,
+            232
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Type II Cells",
+          "bbox": [
+            168,
+            212,
+            279,
+            232
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                174,
+                216,
+                194,
+                227
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                197,
+                216,
+                205,
+                227
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                207,
+                216,
+                228,
+                227
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Plate Cells",
+          "bbox": [
+            279,
+            212,
+            374,
+            232
+          ],
+          "words": [
+            {
+              "text": "Plate",
+              "bbox": [
+                324,
+                216,
+                345,
+                227
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                348,
+                216,
+                369,
+                227
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Type II Cells",
+          "bbox": [
+            374,
+            212,
+            486,
+            232
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                425,
+                216,
+                446,
+                227
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                449,
+                216,
+                457,
+                227
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                459,
+                216,
+                480,
+                227
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Plate Cells",
+          "bbox": [
+            486,
+            212,
+            580,
+            232
+          ],
+          "words": [
+            {
+              "text": "Plate",
+              "bbox": [
+                530,
+                216,
+                551,
+                227
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                554,
+                216,
+                575,
+                227
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Cell Numbers (106)",
+          "bbox": [
+            15,
+            232,
+            168,
+            252
+          ],
+          "words": [
+            {
+              "text": "Cell",
+              "bbox": [
+                20,
+                236,
+                37,
+                247
+              ]
+            },
+            {
+              "text": "Numbers",
+              "bbox": [
+                39,
+                236,
+                76,
+                247
+              ]
+            },
+            {
+              "text": "(106)",
+              "bbox": [
+                78,
+                236,
+                100,
+                247
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28.4 ± 3.9",
+          "bbox": [
+            168,
+            232,
+            279,
+            252
+          ],
+          "words": [
+            {
+              "text": "28.4",
+              "bbox": [
+                174,
+                236,
+                191,
+                247
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                194,
+                236,
+                199,
+                247
+              ]
+            },
+            {
+              "text": "3.9",
+              "bbox": [
+                201,
+                236,
+                214,
+                247
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "6.2 ± 2.2",
+          "bbox": [
+            279,
+            232,
+            374,
+            252
+          ],
+          "words": [
+            {
+              "text": "6.2",
+              "bbox": [
+                333,
+                236,
+                346,
+                247
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                348,
+                236,
+                354,
+                247
+              ]
+            },
+            {
+              "text": "2.2",
+              "bbox": [
+                356,
+                236,
+                369,
+                247
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "33.2 ± 5.6",
+          "bbox": [
+            374,
+            232,
+            486,
+            252
+          ],
+          "words": [
+            {
+              "text": "33.2",
+              "bbox": [
+                440,
+                236,
+                457,
+                247
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                460,
+                236,
+                465,
+                247
+              ]
+            },
+            {
+              "text": "5.6",
+              "bbox": [
+                468,
+                236,
+                480,
+                247
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "7.8 ± 2.2",
+          "bbox": [
+            486,
+            232,
+            580,
+            252
+          ],
+          "words": [
+            {
+              "text": "7.8",
+              "bbox": [
+                540,
+                236,
+                552,
+                247
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                555,
+                236,
+                560,
+                247
+              ]
+            },
+            {
+              "text": "2.2",
+              "bbox": [
+                562,
+                236,
+                575,
+                247
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "% Type II Cells",
+          "bbox": [
+            15,
+            252,
+            168,
+            272
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                20,
+                256,
+                28,
+                267
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                31,
+                256,
+                51,
+                267
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                53,
+                256,
+                60,
+                267
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                62,
+                256,
+                83,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "75 ± 2",
+          "bbox": [
+            168,
+            252,
+            279,
+            272
+          ],
+          "words": [
+            {
+              "text": "75",
+              "bbox": [
+                174,
+                256,
+                184,
+                267
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                186,
+                256,
+                192,
+                267
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                194,
+                256,
+                199,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "22 ± 3",
+          "bbox": [
+            279,
+            252,
+            374,
+            272
+          ],
+          "words": [
+            {
+              "text": "22",
+              "bbox": [
+                343,
+                256,
+                353,
+                267
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                356,
+                256,
+                361,
+                267
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                364,
+                256,
+                369,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "83 ± 1",
+          "bbox": [
+            374,
+            252,
+            486,
+            272
+          ],
+          "words": [
+            {
+              "text": "83",
+              "bbox": [
+                455,
+                256,
+                465,
+                267
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                467,
+                256,
+                473,
+                267
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                475,
+                256,
+                480,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "19 ± 3",
+          "bbox": [
+            486,
+            252,
+            580,
+            272
+          ],
+          "words": [
+            {
+              "text": "19",
+              "bbox": [
+                550,
+                256,
+                560,
+                267
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                562,
+                256,
+                568,
+                267
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                570,
+                256,
+                575,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "% Macrophages",
+          "bbox": [
+            15,
+            272,
+            168,
+            292
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                20,
+                276,
+                28,
+                287
+              ]
+            },
+            {
+              "text": "Macrophages",
+              "bbox": [
+                31,
+                276,
+                85,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "11 ± 2",
+          "bbox": [
+            168,
+            272,
+            279,
+            292
+          ],
+          "words": [
+            {
+              "text": "11",
+              "bbox": [
+                174,
+                276,
+                183,
+                287
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                186,
+                276,
+                191,
+                287
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                194,
+                276,
+                199,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "56 ± 5",
+          "bbox": [
+            279,
+            272,
+            374,
+            292
+          ],
+          "words": [
+            {
+              "text": "56",
+              "bbox": [
+                343,
+                276,
+                353,
+                287
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                356,
+                276,
+                361,
+                287
+              ]
+            },
+            {
+              "text": "5",
+              "bbox": [
+                364,
+                276,
+                369,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "12 ± 2",
+          "bbox": [
+            374,
+            272,
+            486,
+            292
+          ],
+          "words": [
+            {
+              "text": "12",
+              "bbox": [
+                455,
+                276,
+                465,
+                287
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                467,
+                276,
+                473,
+                287
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                475,
+                276,
+                480,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "59 ± 4",
+          "bbox": [
+            486,
+            272,
+            580,
+            292
+          ],
+          "words": [
+            {
+              "text": "59",
+              "bbox": [
+                550,
+                276,
+                560,
+                287
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                562,
+                276,
+                568,
+                287
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                570,
+                276,
+                575,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "% Neutrophils",
+          "bbox": [
+            15,
+            292,
+            168,
+            312
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                20,
+                296,
+                28,
+                307
+              ]
+            },
+            {
+              "text": "Neutrophils",
+              "bbox": [
+                31,
+                296,
+                78,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            168,
+            292,
+            279,
+            312
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                174,
+                296,
+                177,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "22 ± 7",
+          "bbox": [
+            279,
+            292,
+            374,
+            312
+          ],
+          "words": [
+            {
+              "text": "22",
+              "bbox": [
+                343,
+                296,
+                353,
+                307
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                356,
+                296,
+                361,
+                307
+              ]
+            },
+            {
+              "text": "7",
+              "bbox": [
+                364,
+                296,
+                369,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2 ± 1",
+          "bbox": [
+            374,
+            292,
+            486,
+            312
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                460,
+                296,
+                465,
+                307
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                467,
+                296,
+                473,
+                307
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                475,
+                296,
+                480,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "22 ± 3",
+          "bbox": [
+            486,
+            292,
+            580,
+            312
+          ],
+          "words": [
+            {
+              "text": "22",
+              "bbox": [
+                550,
+                296,
+                560,
+                307
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                562,
+                296,
+                568,
+                307
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                570,
+                296,
+                575,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "% Other Cells",
+          "bbox": [
+            15,
+            312,
+            168,
+            332
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                20,
+                316,
+                28,
+                327
+              ]
+            },
+            {
+              "text": "Other",
+              "bbox": [
+                31,
+                316,
+                54,
+                327
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                56,
+                316,
+                77,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "14 ± 1",
+          "bbox": [
+            168,
+            312,
+            279,
+            332
+          ],
+          "words": [
+            {
+              "text": "14",
+              "bbox": [
+                174,
+                316,
+                184,
+                327
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                186,
+                316,
+                192,
+                327
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                194,
+                316,
+                199,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            279,
+            312,
+            374,
+            332
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                366,
+                316,
+                369,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3 ± 3*",
+          "bbox": [
+            374,
+            312,
+            486,
+            332
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                455,
+                316,
+                460,
+                327
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                462,
+                316,
+                468,
+                327
+              ]
+            },
+            {
+              "text": "3*",
+              "bbox": [
+                470,
+                316,
+                480,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            486,
+            312,
+            580,
+            332
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                572,
+                316,
+                575,
+                327
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_056855_t1",
+      "bbox": [
+        15,
+        447,
+        580,
+        570
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            448,
+            580,
+            469
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            469,
+            580,
+            489
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            489,
+            580,
+            509
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            509,
+            580,
+            529
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            529,
+            580,
+            549
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            549,
+            580,
+            570
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Step</td><td>Phrase</td></tr></thead><tbody><tr><td>#1</td><td>Functional OR physical</td></tr><tr><td>#2</td><td>Capacity OR performance</td></tr><tr><td>#3</td><td>Evaluation OR assessment</td></tr><tr><td>#4</td><td>#1 AND #2 AND #3</td></tr><tr><td>#5</td><td>#4 AND reliability</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Step",
+          "bbox": [
+            15,
+            448,
+            127,
+            469
+          ],
+          "words": [
+            {
+              "text": "Step",
+              "bbox": [
+                20,
+                452,
+                39,
+                463
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Phrase",
+          "bbox": [
+            127,
+            448,
+            580,
+            469
+          ],
+          "words": [
+            {
+              "text": "Phrase",
+              "bbox": [
+                546,
+                452,
+                575,
+                463
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "#1",
+          "bbox": [
+            15,
+            469,
+            127,
+            489
+          ],
+          "words": [
+            {
+              "text": "#1",
+              "bbox": [
+                20,
+                473,
+                30,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Functional OR physical",
+          "bbox": [
+            127,
+            469,
+            580,
+            489
+          ],
+          "words": [
+            {
+              "text": "Functional",
+              "bbox": [
+                480,
+                473,
+                523,
+                484
+              ]
+            },
+            {
+              "text": "OR",
+              "bbox": [
+                525,
+                473,
+                539,
+                484
+              ]
+            },
+            {
+              "text": "physical",
+              "bbox": [
+                542,
+                473,
+                575,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "#2",
+          "bbox": [
+            15,
+            489,
+            127,
+            509
+          ],
+          "words": [
+            {
+              "text": "#2",
+              "bbox": [
+                20,
+                493,
+                30,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Capacity OR performance",
+          "bbox": [
+            127,
+            489,
+            580,
+            509
+          ],
+          "words": [
+            {
+              "text": "Capacity",
+              "bbox": [
+                470,
+                493,
+                506,
+                504
+              ]
+            },
+            {
+              "text": "OR",
+              "bbox": [
+                508,
+                493,
+                522,
+                504
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                524,
+                493,
+                575,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "#3",
+          "bbox": [
+            15,
+            509,
+            127,
+            529
+          ],
+          "words": [
+            {
+              "text": "#3",
+              "bbox": [
+                20,
+                513,
+                30,
+                524
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Evaluation OR assessment",
+          "bbox": [
+            127,
+            509,
+            580,
+            529
+          ],
+          "words": [
+            {
+              "text": "Evaluation",
+              "bbox": [
+                468,
+                513,
+                512,
+                524
+              ]
+            },
+            {
+              "text": "OR",
+              "bbox": [
+                514,
+                513,
+                528,
+                524
+              ]
+            },
+            {
+              "text": "assessment",
+              "bbox": [
+                531,
+                513,
+                575,
+                524
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "#4",
+          "bbox": [
+            15,
+            529,
+            127,
+            549
+          ],
+          "words": [
+            {
+              "text": "#4",
+              "bbox": [
+                20,
+                533,
+                30,
+                544
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "#1 AND #2 AND #3",
+          "bbox": [
+            127,
+            529,
+            580,
+            549
+          ],
+          "words": [
+            {
+              "text": "#1",
+              "bbox": [
+                493,
+                533,
+                503,
+                544
+              ]
+            },
+            {
+              "text": "AND",
+              "bbox": [
+                505,
+                533,
+                526,
+                544
+              ]
+            },
+            {
+              "text": "#2",
+              "bbox": [
+                529,
+                533,
+                539,
+                544
+              ]
+            },
+            {
+              "text": "AND",
+              "bbox": [
+                541,
+                533,
+                563,
+                544
+              ]
+            },
+            {
+              "text": "#3",
+              "bbox": [
+                565,
+                533,
+                575,
+                544
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "#5",
+          "bbox": [
+            15,
+            549,
+            127,
+            570
+          ],
+          "words": [
+            {
+              "text": "#5",
+              "bbox": [
+                20,
+                553,
+                30,
+                564
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "#4 AND reliability",
+          "bbox": [
+            127,
+            549,
+            580,
+            570
+          ],
+          "words": [
+            {
+              "text": "#4",
+              "bbox": [
+                500,
+                553,
+                510,
+                564
+              ]
+            },
+            {
+              "text": "AND",
+              "bbox": [
+                512,
+                553,
+                534,
+                564
+              ]
+            },
+            {
+              "text": "reliability",
+              "bbox": [
+                536,
+                553,
+                575,
+                564
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        626,
+        580,
+        765
+      ],
+      "content": "In Table 1, the data reveals various cellular measurements categorized by two conditions, Control 72 (n = 6) and LPS 72 (n = 7). For the row labeled Cell Numbers (106), the values are 28.4 ± 3.9 for Type II Cells and 6.2 ± 2.2 for Plate Cells under Control, while LPS shows 33.2 ± 5.6 for Type II Cells and 7.8 ± 2.2 for Plate Cells. The % Type II Cells row indicates 75 ± 2 for Control and 83 ± 1 for LPS, while the Plate Cells are at 22 ± 3 and 19 ± 3, respectively. The % Macrophages shows 11 ± 2 and 12 ± 2 for Control Type II and LPS Type II, respectively, with Plate Cells at 56 ± 5 and 59 ± 4. In the % Neutrophils row, Control has no value, while LPS reports 2 ± 1 for Type II Cells and 22 ± 3 for Plate Cells. The % Other Cells row lists 14 ± 1 for Control Type II, while LPS has 3 ± 3* for Type II and no value for Plate Cells. Table 2 outlines a sequence of phrases, starting with Step #1: Functional OR physical, continuing to Step #2: Capacity OR performance, followed by Step #3: Evaluation OR assessment, culminating in Step #4: #1 AND #2 AND #3, and concluding with Step #5: #4 AND reliability.",
+      "lines": [
+        {
+          "text": "In Table 1, the data reveals various cellular measurements categorized by two conditions, Control 72 (n = 6) and LPS 72 (n = 7).",
+          "bbox": [
+            15,
+            627,
+            580,
+            639
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                627,
+                24,
+                639
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                27,
+                627,
+                51,
+                639
+              ]
+            },
+            {
+              "text": "1,",
+              "bbox": [
+                54,
+                627,
+                62,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                65,
+                627,
+                78,
+                639
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                81,
+                627,
+                99,
+                639
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                102,
+                627,
+                133,
+                639
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                136,
+                627,
+                168,
+                639
+              ]
+            },
+            {
+              "text": "cellular",
+              "bbox": [
+                171,
+                627,
+                204,
+                639
+              ]
+            },
+            {
+              "text": "measurements",
+              "bbox": [
+                207,
+                627,
+                270,
+                639
+              ]
+            },
+            {
+              "text": "categorized",
+              "bbox": [
+                272,
+                627,
+                323,
+                639
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                326,
+                627,
+                337,
+                639
+              ]
+            },
+            {
+              "text": "two",
+              "bbox": [
+                340,
+                627,
+                356,
+                639
+              ]
+            },
+            {
+              "text": "conditions,",
+              "bbox": [
+                359,
+                627,
+                407,
+                639
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                410,
+                627,
+                444,
+                639
+              ]
+            },
+            {
+              "text": "72",
+              "bbox": [
+                447,
+                627,
+                458,
+                639
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                460,
+                627,
+                470,
+                639
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                472,
+                627,
+                478,
+                639
+              ]
+            },
+            {
+              "text": "6)",
+              "bbox": [
+                481,
+                627,
+                490,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                493,
+                627,
+                509,
+                639
+              ]
+            },
+            {
+              "text": "LPS",
+              "bbox": [
+                512,
+                627,
+                531,
+                639
+              ]
+            },
+            {
+              "text": "72",
+              "bbox": [
+                533,
+                627,
+                544,
+                639
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                547,
+                627,
+                556,
+                639
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                559,
+                627,
+                565,
+                639
+              ]
+            },
+            {
+              "text": "7).",
+              "bbox": [
+                568,
+                627,
+                580,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "text": "For the row labeled Cell Numbers (106), the values are 28.4 ± 3.9 for Type II Cells and 6.2 ± 2.2 for Plate Cells under Control,",
+          "bbox": [
+            15,
+            642,
+            580,
+            654
+          ],
+          "words": [
+            {
+              "text": "For",
+              "bbox": [
+                15,
+                642,
+                30,
+                654
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                33,
+                642,
+                47,
+                654
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                50,
+                642,
+                67,
+                654
+              ]
+            },
+            {
+              "text": "labeled",
+              "bbox": [
+                70,
+                642,
+                102,
+                654
+              ]
+            },
+            {
+              "text": "Cell",
+              "bbox": [
+                105,
+                642,
+                123,
+                654
+              ]
+            },
+            {
+              "text": "Numbers",
+              "bbox": [
+                126,
+                642,
+                166,
+                654
+              ]
+            },
+            {
+              "text": "(106),",
+              "bbox": [
+                169,
+                642,
+                196,
+                654
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                199,
+                642,
+                212,
+                654
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                215,
+                642,
+                244,
+                654
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                247,
+                642,
+                260,
+                654
+              ]
+            },
+            {
+              "text": "28.4",
+              "bbox": [
+                263,
+                642,
+                282,
+                654
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                285,
+                642,
+                291,
+                654
+              ]
+            },
+            {
+              "text": "3.9",
+              "bbox": [
+                294,
+                642,
+                308,
+                654
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                311,
+                642,
+                324,
+                654
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                327,
+                642,
+                349,
+                654
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                352,
+                642,
+                359,
+                654
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                362,
+                642,
+                385,
+                654
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                388,
+                642,
+                403,
+                654
+              ]
+            },
+            {
+              "text": "6.2",
+              "bbox": [
+                406,
+                642,
+                420,
+                654
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                423,
+                642,
+                429,
+                654
+              ]
+            },
+            {
+              "text": "2.2",
+              "bbox": [
+                432,
+                642,
+                446,
+                654
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                449,
+                642,
+                462,
+                654
+              ]
+            },
+            {
+              "text": "Plate",
+              "bbox": [
+                465,
+                642,
+                487,
+                654
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                490,
+                642,
+                513,
+                654
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                516,
+                642,
+                541,
+                654
+              ]
+            },
+            {
+              "text": "Control,",
+              "bbox": [
+                544,
+                642,
+                580,
+                654
+              ]
+            }
+          ]
+        },
+        {
+          "text": "while LPS shows 33.2 ± 5.6 for Type II Cells and 7.8 ± 2.2 for Plate Cells. The % Type II Cells row indicates 75 ± 2 for Control",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "while",
+              "bbox": [
+                15,
+                658,
+                39,
+                670
+              ]
+            },
+            {
+              "text": "LPS",
+              "bbox": [
+                42,
+                658,
+                61,
+                670
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                64,
+                658,
+                92,
+                670
+              ]
+            },
+            {
+              "text": "33.2",
+              "bbox": [
+                94,
+                658,
+                114,
+                670
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                116,
+                658,
+                122,
+                670
+              ]
+            },
+            {
+              "text": "5.6",
+              "bbox": [
+                125,
+                658,
+                139,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                142,
+                658,
+                155,
+                670
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                157,
+                658,
+                179,
+                670
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                182,
+                658,
+                189,
+                670
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                192,
+                658,
+                214,
+                670
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                217,
+                658,
+                233,
+                670
+              ]
+            },
+            {
+              "text": "7.8",
+              "bbox": [
+                236,
+                658,
+                250,
+                670
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                252,
+                658,
+                259,
+                670
+              ]
+            },
+            {
+              "text": "2.2",
+              "bbox": [
+                261,
+                658,
+                275,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                278,
+                658,
+                291,
+                670
+              ]
+            },
+            {
+              "text": "Plate",
+              "bbox": [
+                293,
+                658,
+                316,
+                670
+              ]
+            },
+            {
+              "text": "Cells.",
+              "bbox": [
+                318,
+                658,
+                344,
+                670
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                346,
+                658,
+                363,
+                670
+              ]
+            },
+            {
+              "text": "%",
+              "bbox": [
+                366,
+                658,
+                375,
+                670
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                378,
+                658,
+                400,
+                670
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                403,
+                658,
+                410,
+                670
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                413,
+                658,
+                435,
+                670
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                438,
+                658,
+                455,
+                670
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                458,
+                658,
+                497,
+                670
+              ]
+            },
+            {
+              "text": "75",
+              "bbox": [
+                500,
+                658,
+                511,
+                670
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                514,
+                658,
+                520,
+                670
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                522,
+                658,
+                528,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                531,
+                658,
+                544,
+                670
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                546,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and 83 ± 1 for LPS, while the Plate Cells are at 22 ± 3 and 19 ± 3, respectively. The % Macrophages shows 11 ± 2 and 12 ± 2",
+          "bbox": [
+            15,
+            673,
+            580,
+            685
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                673,
+                31,
+                685
+              ]
+            },
+            {
+              "text": "83",
+              "bbox": [
+                34,
+                673,
+                45,
+                685
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                48,
+                673,
+                54,
+                685
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                58,
+                673,
+                63,
+                685
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                66,
+                673,
+                79,
+                685
+              ]
+            },
+            {
+              "text": "LPS,",
+              "bbox": [
+                82,
+                673,
+                104,
+                685
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                107,
+                673,
+                132,
+                685
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                135,
+                673,
+                148,
+                685
+              ]
+            },
+            {
+              "text": "Plate",
+              "bbox": [
+                151,
+                673,
+                173,
+                685
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                177,
+                673,
+                199,
+                685
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                202,
+                673,
+                216,
+                685
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                219,
+                673,
+                227,
+                685
+              ]
+            },
+            {
+              "text": "22",
+              "bbox": [
+                230,
+                673,
+                241,
+                685
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                244,
+                673,
+                250,
+                685
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                254,
+                673,
+                259,
+                685
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                262,
+                673,
+                278,
+                685
+              ]
+            },
+            {
+              "text": "19",
+              "bbox": [
+                281,
+                673,
+                292,
+                685
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                296,
+                673,
+                302,
+                685
+              ]
+            },
+            {
+              "text": "3,",
+              "bbox": [
+                305,
+                673,
+                313,
+                685
+              ]
+            },
+            {
+              "text": "respectively.",
+              "bbox": [
+                316,
+                673,
+                371,
+                685
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                374,
+                673,
+                392,
+                685
+              ]
+            },
+            {
+              "text": "%",
+              "bbox": [
+                395,
+                673,
+                404,
+                685
+              ]
+            },
+            {
+              "text": "Macrophages",
+              "bbox": [
+                407,
+                673,
+                466,
+                685
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                470,
+                673,
+                497,
+                685
+              ]
+            },
+            {
+              "text": "11",
+              "bbox": [
+                500,
+                673,
+                511,
+                685
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                514,
+                673,
+                520,
+                685
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                523,
+                673,
+                529,
+                685
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                532,
+                673,
+                548,
+                685
+              ]
+            },
+            {
+              "text": "12",
+              "bbox": [
+                551,
+                673,
+                562,
+                685
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                565,
+                673,
+                571,
+                685
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                574,
+                673,
+                580,
+                685
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for Control Type II and LPS Type II, respectively, with Plate Cells at 56 ± 5 and 59 ± 4. In the % Neutrophils row, Control has",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                15,
+                689,
+                28,
+                701
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                31,
+                689,
+                65,
+                701
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                67,
+                689,
+                89,
+                701
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                92,
+                689,
+                100,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                103,
+                689,
+                119,
+                701
+              ]
+            },
+            {
+              "text": "LPS",
+              "bbox": [
+                122,
+                689,
+                141,
+                701
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                144,
+                689,
+                166,
+                701
+              ]
+            },
+            {
+              "text": "II,",
+              "bbox": [
+                169,
+                689,
+                179,
+                701
+              ]
+            },
+            {
+              "text": "respectively,",
+              "bbox": [
+                182,
+                689,
+                237,
+                701
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                240,
+                689,
+                260,
+                701
+              ]
+            },
+            {
+              "text": "Plate",
+              "bbox": [
+                263,
+                689,
+                285,
+                701
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                288,
+                689,
+                311,
+                701
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                314,
+                689,
+                322,
+                701
+              ]
+            },
+            {
+              "text": "56",
+              "bbox": [
+                325,
+                689,
+                336,
+                701
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                339,
+                689,
+                345,
+                701
+              ]
+            },
+            {
+              "text": "5",
+              "bbox": [
+                348,
+                689,
+                353,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                357,
+                689,
+                372,
+                701
+              ]
+            },
+            {
+              "text": "59",
+              "bbox": [
+                376,
+                689,
+                387,
+                701
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                390,
+                689,
+                396,
+                701
+              ]
+            },
+            {
+              "text": "4.",
+              "bbox": [
+                399,
+                689,
+                407,
+                701
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                410,
+                689,
+                419,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                422,
+                689,
+                436,
+                701
+              ]
+            },
+            {
+              "text": "%",
+              "bbox": [
+                439,
+                689,
+                448,
+                701
+              ]
+            },
+            {
+              "text": "Neutrophils",
+              "bbox": [
+                451,
+                689,
+                503,
+                701
+              ]
+            },
+            {
+              "text": "row,",
+              "bbox": [
+                506,
+                689,
+                526,
+                701
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                529,
+                689,
+                562,
+                701
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                565,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "no value, while LPS reports 2 ± 1 for Type II Cells and 22 ± 3 for Plate Cells. The % Other Cells row lists 14 ± 1 for Control",
+          "bbox": [
+            15,
+            704,
+            580,
+            716
+          ],
+          "words": [
+            {
+              "text": "no",
+              "bbox": [
+                15,
+                704,
+                26,
+                716
+              ]
+            },
+            {
+              "text": "value,",
+              "bbox": [
+                29,
+                704,
+                56,
+                716
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                59,
+                704,
+                84,
+                716
+              ]
+            },
+            {
+              "text": "LPS",
+              "bbox": [
+                87,
+                704,
+                106,
+                716
+              ]
+            },
+            {
+              "text": "reports",
+              "bbox": [
+                109,
+                704,
+                140,
+                716
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                143,
+                704,
+                149,
+                716
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                152,
+                704,
+                158,
+                716
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                161,
+                704,
+                167,
+                716
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                170,
+                704,
+                183,
+                716
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                186,
+                704,
+                208,
+                716
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                211,
+                704,
+                218,
+                716
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                222,
+                704,
+                244,
+                716
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                248,
+                704,
+                264,
+                716
+              ]
+            },
+            {
+              "text": "22",
+              "bbox": [
+                267,
+                704,
+                278,
+                716
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                281,
+                704,
+                287,
+                716
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                290,
+                704,
+                296,
+                716
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                299,
+                704,
+                312,
+                716
+              ]
+            },
+            {
+              "text": "Plate",
+              "bbox": [
+                315,
+                704,
+                337,
+                716
+              ]
+            },
+            {
+              "text": "Cells.",
+              "bbox": [
+                341,
+                704,
+                366,
+                716
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                369,
+                704,
+                386,
+                716
+              ]
+            },
+            {
+              "text": "%",
+              "bbox": [
+                390,
+                704,
+                399,
+                716
+              ]
+            },
+            {
+              "text": "Other",
+              "bbox": [
+                402,
+                704,
+                427,
+                716
+              ]
+            },
+            {
+              "text": "Cells",
+              "bbox": [
+                430,
+                704,
+                453,
+                716
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                456,
+                704,
+                473,
+                716
+              ]
+            },
+            {
+              "text": "lists",
+              "bbox": [
+                477,
+                704,
+                494,
+                716
+              ]
+            },
+            {
+              "text": "14",
+              "bbox": [
+                498,
+                704,
+                509,
+                716
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                512,
+                704,
+                518,
+                716
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                521,
+                704,
+                527,
+                716
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                530,
+                704,
+                543,
+                716
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                546,
+                704,
+                580,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Type II, while LPS has 3 ± 3* for Type II and no value for Plate Cells. Table 2 outlines a sequence of phrases, starting with Step",
+          "bbox": [
+            15,
+            719,
+            580,
+            731
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                15,
+                719,
+                37,
+                731
+              ]
+            },
+            {
+              "text": "II,",
+              "bbox": [
+                40,
+                719,
+                50,
+                731
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                53,
+                719,
+                77,
+                731
+              ]
+            },
+            {
+              "text": "LPS",
+              "bbox": [
+                80,
+                719,
+                99,
+                731
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                102,
+                719,
+                116,
+                731
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                119,
+                719,
+                125,
+                731
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                127,
+                719,
+                133,
+                731
+              ]
+            },
+            {
+              "text": "3*",
+              "bbox": [
+                136,
+                719,
+                147,
+                731
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                150,
+                719,
+                163,
+                731
+              ]
+            },
+            {
+              "text": "Type",
+              "bbox": [
+                165,
+                719,
+                187,
+                731
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                190,
+                719,
+                197,
+                731
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                200,
+                719,
+                216,
+                731
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                219,
+                719,
+                230,
+                731
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                233,
+                719,
+                257,
+                731
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                259,
+                719,
+                272,
+                731
+              ]
+            },
+            {
+              "text": "Plate",
+              "bbox": [
+                275,
+                719,
+                297,
+                731
+              ]
+            },
+            {
+              "text": "Cells.",
+              "bbox": [
+                300,
+                719,
+                325,
+                731
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                328,
+                719,
+                352,
+                731
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                355,
+                719,
+                360,
+                731
+              ]
+            },
+            {
+              "text": "outlines",
+              "bbox": [
+                363,
+                719,
+                398,
+                731
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                401,
+                719,
+                406,
+                731
+              ]
+            },
+            {
+              "text": "sequence",
+              "bbox": [
+                409,
+                719,
+                449,
+                731
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                452,
+                719,
+                461,
+                731
+              ]
+            },
+            {
+              "text": "phrases,",
+              "bbox": [
+                464,
+                719,
+                499,
+                731
+              ]
+            },
+            {
+              "text": "starting",
+              "bbox": [
+                502,
+                719,
+                535,
+                731
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                538,
+                719,
+                558,
+                731
+              ]
+            },
+            {
+              "text": "Step",
+              "bbox": [
+                560,
+                719,
+                580,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "text": "#1: Functional OR physical, continuing to Step #2: Capacity OR performance, followed by Step #3: Evaluation OR assessment,",
+          "bbox": [
+            15,
+            735,
+            580,
+            747
+          ],
+          "words": [
+            {
+              "text": "#1:",
+              "bbox": [
+                15,
+                735,
+                29,
+                747
+              ]
+            },
+            {
+              "text": "Functional",
+              "bbox": [
+                32,
+                735,
+                79,
+                747
+              ]
+            },
+            {
+              "text": "OR",
+              "bbox": [
+                82,
+                735,
+                97,
+                747
+              ]
+            },
+            {
+              "text": "physical,",
+              "bbox": [
+                100,
+                735,
+                139,
+                747
+              ]
+            },
+            {
+              "text": "continuing",
+              "bbox": [
+                142,
+                735,
+                189,
+                747
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                192,
+                735,
+                201,
+                747
+              ]
+            },
+            {
+              "text": "Step",
+              "bbox": [
+                204,
+                735,
+                223,
+                747
+              ]
+            },
+            {
+              "text": "#2:",
+              "bbox": [
+                226,
+                735,
+                240,
+                747
+              ]
+            },
+            {
+              "text": "Capacity",
+              "bbox": [
+                243,
+                735,
+                282,
+                747
+              ]
+            },
+            {
+              "text": "OR",
+              "bbox": [
+                285,
+                735,
+                300,
+                747
+              ]
+            },
+            {
+              "text": "performance,",
+              "bbox": [
+                303,
+                735,
+                362,
+                747
+              ]
+            },
+            {
+              "text": "followed",
+              "bbox": [
+                364,
+                735,
+                404,
+                747
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                406,
+                735,
+                417,
+                747
+              ]
+            },
+            {
+              "text": "Step",
+              "bbox": [
+                420,
+                735,
+                440,
+                747
+              ]
+            },
+            {
+              "text": "#3:",
+              "bbox": [
+                443,
+                735,
+                457,
+                747
+              ]
+            },
+            {
+              "text": "Evaluation",
+              "bbox": [
+                460,
+                735,
+                507,
+                747
+              ]
+            },
+            {
+              "text": "OR",
+              "bbox": [
+                510,
+                735,
+                525,
+                747
+              ]
+            },
+            {
+              "text": "assessment,",
+              "bbox": [
+                528,
+                735,
+                580,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "culminating in Step #4: #1 AND #2 AND #3, and concluding with Step #5: #4 AND reliability.",
+          "bbox": [
+            15,
+            750,
+            433,
+            762
+          ],
+          "words": [
+            {
+              "text": "culminating",
+              "bbox": [
+                15,
+                750,
+                68,
+                762
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                70,
+                750,
+                79,
+                762
+              ]
+            },
+            {
+              "text": "Step",
+              "bbox": [
+                82,
+                750,
+                101,
+                762
+              ]
+            },
+            {
+              "text": "#4:",
+              "bbox": [
+                104,
+                750,
+                118,
+                762
+              ]
+            },
+            {
+              "text": "#1",
+              "bbox": [
+                121,
+                750,
+                132,
+                762
+              ]
+            },
+            {
+              "text": "AND",
+              "bbox": [
+                134,
+                750,
+                158,
+                762
+              ]
+            },
+            {
+              "text": "#2",
+              "bbox": [
+                160,
+                750,
+                171,
+                762
+              ]
+            },
+            {
+              "text": "AND",
+              "bbox": [
+                174,
+                750,
+                197,
+                762
+              ]
+            },
+            {
+              "text": "#3,",
+              "bbox": [
+                200,
+                750,
+                214,
+                762
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                217,
+                750,
+                233,
+                762
+              ]
+            },
+            {
+              "text": "concluding",
+              "bbox": [
+                235,
+                750,
+                284,
+                762
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                287,
+                750,
+                306,
+                762
+              ]
+            },
+            {
+              "text": "Step",
+              "bbox": [
+                309,
+                750,
+                329,
+                762
+              ]
+            },
+            {
+              "text": "#5:",
+              "bbox": [
+                332,
+                750,
+                346,
+                762
+              ]
+            },
+            {
+              "text": "#4",
+              "bbox": [
+                348,
+                750,
+                359,
+                762
+              ]
+            },
+            {
+              "text": "AND",
+              "bbox": [
+                361,
+                750,
+                385,
+                762
+              ]
+            },
+            {
+              "text": "reliability.",
+              "bbox": [
+                388,
+                750,
+                433,
+                762
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4461 @@
+{
+  "image_id": "img_058851",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_058851_t0",
+      "bbox": [
+        15,
+        176,
+        580,
+        324
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            177,
+            580,
+            198
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            198,
+            580,
+            219
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            219,
+            580,
+            240
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            240,
+            580,
+            261
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            261,
+            580,
+            282
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            282,
+            580,
+            303
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            303,
+            580,
+            324
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td rowspan=\"2\">Treatment</td><td colspan=\"4\">Urine osmolality (mOsm)</td></tr><tr><td>1 h</td><td>2 h</td><td>4 h</td><td>6 h</td></tr></thead><tbody><tr><td>Saline 40 mL/kg</td><td>162 ± 28</td><td>194 ± 36</td><td>203 ± 33</td><td>282 ± 68</td></tr><tr><td>S. surattense 50 mg/kg</td><td>175 ± 45</td><td>245 + 28</td><td>285 ± 35*</td><td>328 ± 57*</td></tr><tr><td>S. surattense 70 mg/kg</td><td>210 ± 32</td><td>306 ± 35*</td><td>294 ± 26</td><td>452 ± 25**</td></tr><tr><td>S. surattense 100mg/kg</td><td>260 ± 55</td><td>421 ± 42*</td><td>365 ± 38*</td><td>372 ± 30</td></tr><tr><td>Furosemide 10 mg/kg</td><td>320 ± 70</td><td>380 ± 85*</td><td>645 ± 36**</td><td>390 ± 58</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Treatment",
+          "bbox": [
+            16,
+            177,
+            202,
+            198
+          ],
+          "words": [
+            {
+              "text": "Treatment",
+              "bbox": [
+                21,
+                181,
+                66,
+                192
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Urine osmolality (mOsm)",
+          "bbox": [
+            202,
+            177,
+            580,
+            198
+          ],
+          "words": [
+            {
+              "text": "Urine",
+              "bbox": [
+                208,
+                181,
+                232,
+                192
+              ]
+            },
+            {
+              "text": "osmolality",
+              "bbox": [
+                235,
+                181,
+                279,
+                192
+              ]
+            },
+            {
+              "text": "(mOsm)",
+              "bbox": [
+                281,
+                181,
+                316,
+                192
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "1 h",
+          "bbox": [
+            16,
+            198,
+            202,
+            219
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                21,
+                202,
+                26,
+                213
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                29,
+                202,
+                34,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "2 h",
+          "bbox": [
+            202,
+            198,
+            286,
+            219
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                208,
+                202,
+                213,
+                213
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                215,
+                202,
+                221,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "4 h",
+          "bbox": [
+            286,
+            198,
+            378,
+            219
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                359,
+                202,
+                364,
+                213
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                367,
+                202,
+                372,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "6 h",
+          "bbox": [
+            378,
+            198,
+            479,
+            219
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                460,
+                202,
+                465,
+                213
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                467,
+                202,
+                473,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Saline 40 mL/kg",
+          "bbox": [
+            16,
+            219,
+            202,
+            240
+          ],
+          "words": [
+            {
+              "text": "Saline",
+              "bbox": [
+                21,
+                223,
+                46,
+                234
+              ]
+            },
+            {
+              "text": "40",
+              "bbox": [
+                48,
+                223,
+                59,
+                234
+              ]
+            },
+            {
+              "text": "mL/kg",
+              "bbox": [
+                61,
+                223,
+                88,
+                234
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "162 ± 28",
+          "bbox": [
+            202,
+            219,
+            286,
+            240
+          ],
+          "words": [
+            {
+              "text": "162",
+              "bbox": [
+                208,
+                223,
+                223,
+                234
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                225,
+                223,
+                231,
+                234
+              ]
+            },
+            {
+              "text": "28",
+              "bbox": [
+                233,
+                223,
+                243,
+                234
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "194 ± 36",
+          "bbox": [
+            286,
+            219,
+            378,
+            240
+          ],
+          "words": [
+            {
+              "text": "194",
+              "bbox": [
+                337,
+                223,
+                352,
+                234
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                354,
+                223,
+                360,
+                234
+              ]
+            },
+            {
+              "text": "36",
+              "bbox": [
+                362,
+                223,
+                372,
+                234
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "203 ± 33",
+          "bbox": [
+            378,
+            219,
+            479,
+            240
+          ],
+          "words": [
+            {
+              "text": "203",
+              "bbox": [
+                438,
+                223,
+                453,
+                234
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                455,
+                223,
+                461,
+                234
+              ]
+            },
+            {
+              "text": "33",
+              "bbox": [
+                463,
+                223,
+                473,
+                234
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "282 ± 68",
+          "bbox": [
+            479,
+            219,
+            580,
+            240
+          ],
+          "words": [
+            {
+              "text": "282",
+              "bbox": [
+                539,
+                223,
+                554,
+                234
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                556,
+                223,
+                562,
+                234
+              ]
+            },
+            {
+              "text": "68",
+              "bbox": [
+                564,
+                223,
+                574,
+                234
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "S. surattense 50 mg/kg",
+          "bbox": [
+            16,
+            240,
+            202,
+            261
+          ],
+          "words": [
+            {
+              "text": "S.",
+              "bbox": [
+                21,
+                244,
+                29,
+                255
+              ]
+            },
+            {
+              "text": "surattense",
+              "bbox": [
+                32,
+                244,
+                72,
+                255
+              ]
+            },
+            {
+              "text": "50",
+              "bbox": [
+                74,
+                244,
+                84,
+                255
+              ]
+            },
+            {
+              "text": "mg/kg",
+              "bbox": [
+                87,
+                244,
+                112,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "175 ± 45",
+          "bbox": [
+            202,
+            240,
+            286,
+            261
+          ],
+          "words": [
+            {
+              "text": "175",
+              "bbox": [
+                208,
+                244,
+                223,
+                255
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                225,
+                244,
+                231,
+                255
+              ]
+            },
+            {
+              "text": "45",
+              "bbox": [
+                233,
+                244,
+                243,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "245 + 28",
+          "bbox": [
+            286,
+            240,
+            378,
+            261
+          ],
+          "words": [
+            {
+              "text": "245",
+              "bbox": [
+                336,
+                244,
+                351,
+                255
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                354,
+                244,
+                360,
+                255
+              ]
+            },
+            {
+              "text": "28",
+              "bbox": [
+                362,
+                244,
+                372,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "285 ± 35*",
+          "bbox": [
+            378,
+            240,
+            479,
+            261
+          ],
+          "words": [
+            {
+              "text": "285",
+              "bbox": [
+                433,
+                244,
+                448,
+                255
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                450,
+                244,
+                456,
+                255
+              ]
+            },
+            {
+              "text": "35*",
+              "bbox": [
+                458,
+                244,
+                473,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "328 ± 57*",
+          "bbox": [
+            479,
+            240,
+            580,
+            261
+          ],
+          "words": [
+            {
+              "text": "328",
+              "bbox": [
+                534,
+                244,
+                549,
+                255
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                551,
+                244,
+                557,
+                255
+              ]
+            },
+            {
+              "text": "57*",
+              "bbox": [
+                559,
+                244,
+                574,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "S. surattense 70 mg/kg",
+          "bbox": [
+            16,
+            261,
+            202,
+            282
+          ],
+          "words": [
+            {
+              "text": "S.",
+              "bbox": [
+                21,
+                265,
+                29,
+                276
+              ]
+            },
+            {
+              "text": "surattense",
+              "bbox": [
+                32,
+                265,
+                72,
+                276
+              ]
+            },
+            {
+              "text": "70",
+              "bbox": [
+                74,
+                265,
+                84,
+                276
+              ]
+            },
+            {
+              "text": "mg/kg",
+              "bbox": [
+                87,
+                265,
+                112,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "210 ± 32",
+          "bbox": [
+            202,
+            261,
+            286,
+            282
+          ],
+          "words": [
+            {
+              "text": "210",
+              "bbox": [
+                208,
+                265,
+                223,
+                276
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                225,
+                265,
+                231,
+                276
+              ]
+            },
+            {
+              "text": "32",
+              "bbox": [
+                233,
+                265,
+                243,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "306 ± 35*",
+          "bbox": [
+            286,
+            261,
+            378,
+            282
+          ],
+          "words": [
+            {
+              "text": "306",
+              "bbox": [
+                332,
+                265,
+                347,
+                276
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                349,
+                265,
+                355,
+                276
+              ]
+            },
+            {
+              "text": "35*",
+              "bbox": [
+                357,
+                265,
+                372,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "294 ± 26",
+          "bbox": [
+            378,
+            261,
+            479,
+            282
+          ],
+          "words": [
+            {
+              "text": "294",
+              "bbox": [
+                438,
+                265,
+                453,
+                276
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                455,
+                265,
+                461,
+                276
+              ]
+            },
+            {
+              "text": "26",
+              "bbox": [
+                463,
+                265,
+                473,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "452 ± 25**",
+          "bbox": [
+            479,
+            261,
+            580,
+            282
+          ],
+          "words": [
+            {
+              "text": "452",
+              "bbox": [
+                529,
+                265,
+                544,
+                276
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                546,
+                265,
+                552,
+                276
+              ]
+            },
+            {
+              "text": "25**",
+              "bbox": [
+                554,
+                265,
+                574,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "S. surattense 100mg/kg",
+          "bbox": [
+            16,
+            282,
+            202,
+            303
+          ],
+          "words": [
+            {
+              "text": "S.",
+              "bbox": [
+                21,
+                286,
+                29,
+                297
+              ]
+            },
+            {
+              "text": "surattense",
+              "bbox": [
+                32,
+                286,
+                72,
+                297
+              ]
+            },
+            {
+              "text": "100mg/kg",
+              "bbox": [
+                74,
+                286,
+                115,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "260 ± 55",
+          "bbox": [
+            202,
+            282,
+            286,
+            303
+          ],
+          "words": [
+            {
+              "text": "260",
+              "bbox": [
+                208,
+                286,
+                223,
+                297
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                225,
+                286,
+                231,
+                297
+              ]
+            },
+            {
+              "text": "55",
+              "bbox": [
+                233,
+                286,
+                243,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "421 ± 42*",
+          "bbox": [
+            286,
+            282,
+            378,
+            303
+          ],
+          "words": [
+            {
+              "text": "421",
+              "bbox": [
+                332,
+                286,
+                347,
+                297
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                349,
+                286,
+                355,
+                297
+              ]
+            },
+            {
+              "text": "42*",
+              "bbox": [
+                357,
+                286,
+                372,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "365 ± 38*",
+          "bbox": [
+            378,
+            282,
+            479,
+            303
+          ],
+          "words": [
+            {
+              "text": "365",
+              "bbox": [
+                433,
+                286,
+                448,
+                297
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                450,
+                286,
+                456,
+                297
+              ]
+            },
+            {
+              "text": "38*",
+              "bbox": [
+                458,
+                286,
+                473,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "372 ± 30",
+          "bbox": [
+            479,
+            282,
+            580,
+            303
+          ],
+          "words": [
+            {
+              "text": "372",
+              "bbox": [
+                539,
+                286,
+                554,
+                297
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                556,
+                286,
+                562,
+                297
+              ]
+            },
+            {
+              "text": "30",
+              "bbox": [
+                564,
+                286,
+                574,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Furosemide 10 mg/kg",
+          "bbox": [
+            16,
+            303,
+            202,
+            324
+          ],
+          "words": [
+            {
+              "text": "Furosemide",
+              "bbox": [
+                21,
+                307,
+                68,
+                318
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                71,
+                307,
+                81,
+                318
+              ]
+            },
+            {
+              "text": "mg/kg",
+              "bbox": [
+                83,
+                307,
+                109,
+                318
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "320 ± 70",
+          "bbox": [
+            202,
+            303,
+            286,
+            324
+          ],
+          "words": [
+            {
+              "text": "320",
+              "bbox": [
+                208,
+                307,
+                223,
+                318
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                225,
+                307,
+                231,
+                318
+              ]
+            },
+            {
+              "text": "70",
+              "bbox": [
+                233,
+                307,
+                243,
+                318
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "380 ± 85*",
+          "bbox": [
+            286,
+            303,
+            378,
+            324
+          ],
+          "words": [
+            {
+              "text": "380",
+              "bbox": [
+                332,
+                307,
+                347,
+                318
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                349,
+                307,
+                355,
+                318
+              ]
+            },
+            {
+              "text": "85*",
+              "bbox": [
+                357,
+                307,
+                372,
+                318
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "645 ± 36**",
+          "bbox": [
+            378,
+            303,
+            479,
+            324
+          ],
+          "words": [
+            {
+              "text": "645",
+              "bbox": [
+                428,
+                307,
+                443,
+                318
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                445,
+                307,
+                451,
+                318
+              ]
+            },
+            {
+              "text": "36**",
+              "bbox": [
+                453,
+                307,
+                473,
+                318
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "390 ± 58",
+          "bbox": [
+            479,
+            303,
+            580,
+            324
+          ],
+          "words": [
+            {
+              "text": "390",
+              "bbox": [
+                539,
+                307,
+                554,
+                318
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                556,
+                307,
+                562,
+                318
+              ]
+            },
+            {
+              "text": "58",
+              "bbox": [
+                564,
+                307,
+                574,
+                318
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_058851_t1",
+      "bbox": [
+        15,
+        386,
+        580,
+        546
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            386,
+            580,
+            406
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            406,
+            580,
+            426
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            426,
+            580,
+            446
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            446,
+            580,
+            466
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            466,
+            580,
+            486
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            486,
+            580,
+            506
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            506,
+            580,
+            526
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            526,
+            580,
+            546
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\">Previous Work [7]</td><td colspan=\"2\">This Work</td></tr><tr><td>Move Distance (x, mm)</td><td>Curvature (×10−2 mm−1)</td><td>Move Distance (x, mm)</td><td>Curvature (×10−2 mm−1)</td></tr></thead><tbody><tr><td>0.155</td><td>0.93</td><td>0.05</td><td>1.41</td></tr><tr><td>0.255</td><td>1.20</td><td>0.1</td><td>2.00</td></tr><tr><td>0.355</td><td>1.41</td><td>0.25</td><td>3.15</td></tr><tr><td>0.455</td><td>1.60</td><td>0.5</td><td>4.44</td></tr><tr><td>0.555</td><td>1.77</td><td>0.8</td><td>5.60</td></tr><tr><td>0.655</td><td>1.92</td><td>1.0</td><td>6.24</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Previous Work [7]",
+          "bbox": [
+            15,
+            386,
+            297,
+            406
+          ],
+          "words": [
+            {
+              "text": "Previous",
+              "bbox": [
+                20,
+                390,
+                57,
+                401
+              ]
+            },
+            {
+              "text": "Work",
+              "bbox": [
+                59,
+                390,
+                84,
+                401
+              ]
+            },
+            {
+              "text": "[7]",
+              "bbox": [
+                86,
+                390,
+                98,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "This Work",
+          "bbox": [
+            297,
+            386,
+            580,
+            406
+          ],
+          "words": [
+            {
+              "text": "This",
+              "bbox": [
+                529,
+                390,
+                548,
+                401
+              ]
+            },
+            {
+              "text": "Work",
+              "bbox": [
+                551,
+                390,
+                575,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Move Distance (x, mm)",
+          "bbox": [
+            15,
+            406,
+            149,
+            426
+          ],
+          "words": [
+            {
+              "text": "Move",
+              "bbox": [
+                20,
+                410,
+                44,
+                421
+              ]
+            },
+            {
+              "text": "Distance",
+              "bbox": [
+                46,
+                410,
+                83,
+                421
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                86,
+                410,
+                96,
+                421
+              ]
+            },
+            {
+              "text": "mm)",
+              "bbox": [
+                99,
+                410,
+                119,
+                421
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Curvature (×10−2 mm−1)",
+          "bbox": [
+            149,
+            406,
+            297,
+            426
+          ],
+          "words": [
+            {
+              "text": "Curvature",
+              "bbox": [
+                154,
+                410,
+                199,
+                421
+              ]
+            },
+            {
+              "text": "(×10−2",
+              "bbox": [
+                202,
+                410,
+                232,
+                421
+              ]
+            },
+            {
+              "text": "mm−1)",
+              "bbox": [
+                234,
+                410,
+                265,
+                421
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Move Distance (x, mm)",
+          "bbox": [
+            297,
+            406,
+            432,
+            426
+          ],
+          "words": [
+            {
+              "text": "Move",
+              "bbox": [
+                328,
+                410,
+                352,
+                421
+              ]
+            },
+            {
+              "text": "Distance",
+              "bbox": [
+                354,
+                410,
+                391,
+                421
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                393,
+                410,
+                404,
+                421
+              ]
+            },
+            {
+              "text": "mm)",
+              "bbox": [
+                407,
+                410,
+                427,
+                421
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Curvature (×10−2 mm−1)",
+          "bbox": [
+            432,
+            406,
+            580,
+            426
+          ],
+          "words": [
+            {
+              "text": "Curvature",
+              "bbox": [
+                465,
+                410,
+                510,
+                421
+              ]
+            },
+            {
+              "text": "(×10−2",
+              "bbox": [
+                512,
+                410,
+                542,
+                421
+              ]
+            },
+            {
+              "text": "mm−1)",
+              "bbox": [
+                544,
+                410,
+                575,
+                421
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.155",
+          "bbox": [
+            15,
+            426,
+            149,
+            446
+          ],
+          "words": [
+            {
+              "text": "0.155",
+              "bbox": [
+                20,
+                430,
+                43,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.93",
+          "bbox": [
+            149,
+            426,
+            297,
+            446
+          ],
+          "words": [
+            {
+              "text": "0.93",
+              "bbox": [
+                154,
+                430,
+                172,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.05",
+          "bbox": [
+            297,
+            426,
+            432,
+            446
+          ],
+          "words": [
+            {
+              "text": "0.05",
+              "bbox": [
+                409,
+                430,
+                427,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.41",
+          "bbox": [
+            432,
+            426,
+            580,
+            446
+          ],
+          "words": [
+            {
+              "text": "1.41",
+              "bbox": [
+                558,
+                430,
+                575,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.255",
+          "bbox": [
+            15,
+            446,
+            149,
+            466
+          ],
+          "words": [
+            {
+              "text": "0.255",
+              "bbox": [
+                20,
+                450,
+                43,
+                461
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.20",
+          "bbox": [
+            149,
+            446,
+            297,
+            466
+          ],
+          "words": [
+            {
+              "text": "1.20",
+              "bbox": [
+                154,
+                450,
+                172,
+                461
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.1",
+          "bbox": [
+            297,
+            446,
+            432,
+            466
+          ],
+          "words": [
+            {
+              "text": "0.1",
+              "bbox": [
+                414,
+                450,
+                427,
+                461
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2.00",
+          "bbox": [
+            432,
+            446,
+            580,
+            466
+          ],
+          "words": [
+            {
+              "text": "2.00",
+              "bbox": [
+                558,
+                450,
+                575,
+                461
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.355",
+          "bbox": [
+            15,
+            466,
+            149,
+            486
+          ],
+          "words": [
+            {
+              "text": "0.355",
+              "bbox": [
+                20,
+                470,
+                43,
+                481
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.41",
+          "bbox": [
+            149,
+            466,
+            297,
+            486
+          ],
+          "words": [
+            {
+              "text": "1.41",
+              "bbox": [
+                154,
+                470,
+                172,
+                481
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.25",
+          "bbox": [
+            297,
+            466,
+            432,
+            486
+          ],
+          "words": [
+            {
+              "text": "0.25",
+              "bbox": [
+                409,
+                470,
+                427,
+                481
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3.15",
+          "bbox": [
+            432,
+            466,
+            580,
+            486
+          ],
+          "words": [
+            {
+              "text": "3.15",
+              "bbox": [
+                558,
+                470,
+                575,
+                481
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.455",
+          "bbox": [
+            15,
+            486,
+            149,
+            506
+          ],
+          "words": [
+            {
+              "text": "0.455",
+              "bbox": [
+                20,
+                490,
+                43,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.60",
+          "bbox": [
+            149,
+            486,
+            297,
+            506
+          ],
+          "words": [
+            {
+              "text": "1.60",
+              "bbox": [
+                154,
+                490,
+                172,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.5",
+          "bbox": [
+            297,
+            486,
+            432,
+            506
+          ],
+          "words": [
+            {
+              "text": "0.5",
+              "bbox": [
+                414,
+                490,
+                427,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4.44",
+          "bbox": [
+            432,
+            486,
+            580,
+            506
+          ],
+          "words": [
+            {
+              "text": "4.44",
+              "bbox": [
+                558,
+                490,
+                575,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.555",
+          "bbox": [
+            15,
+            506,
+            149,
+            526
+          ],
+          "words": [
+            {
+              "text": "0.555",
+              "bbox": [
+                20,
+                510,
+                43,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.77",
+          "bbox": [
+            149,
+            506,
+            297,
+            526
+          ],
+          "words": [
+            {
+              "text": "1.77",
+              "bbox": [
+                154,
+                510,
+                172,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.8",
+          "bbox": [
+            297,
+            506,
+            432,
+            526
+          ],
+          "words": [
+            {
+              "text": "0.8",
+              "bbox": [
+                414,
+                510,
+                427,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.60",
+          "bbox": [
+            432,
+            506,
+            580,
+            526
+          ],
+          "words": [
+            {
+              "text": "5.60",
+              "bbox": [
+                558,
+                510,
+                575,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.655",
+          "bbox": [
+            15,
+            526,
+            149,
+            546
+          ],
+          "words": [
+            {
+              "text": "0.655",
+              "bbox": [
+                20,
+                530,
+                43,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.92",
+          "bbox": [
+            149,
+            526,
+            297,
+            546
+          ],
+          "words": [
+            {
+              "text": "1.92",
+              "bbox": [
+                154,
+                530,
+                172,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.0",
+          "bbox": [
+            297,
+            526,
+            432,
+            546
+          ],
+          "words": [
+            {
+              "text": "1.0",
+              "bbox": [
+                414,
+                530,
+                427,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6.24",
+          "bbox": [
+            432,
+            526,
+            580,
+            546
+          ],
+          "words": [
+            {
+              "text": "6.24",
+              "bbox": [
+                558,
+                530,
+                575,
+                541
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        596,
+        580,
+        765
+      ],
+      "content": "In the context of evaluating the physiological responses to saline infusion at a dosage of 40 mL/kg, the data presented in the accompanying table elucidate critical metrics related to movement and curvature over varying time intervals. Specifically, the metrics of \"Move Distance (x, mm)\" and \"Curvature (×10−2 mm−1)\" highlight the effects of saline administration on both the extent of movement and the associated curvature of the subjects over the first six hours post-infusion. The recorded move distance at the 1 h, 2 h, 4 h, and 6 h intervals indicates a progressive increase in movement, with values of 162 ± 28 mm at 1 hour and reaching 282 ± 68 mm by the 6-hour mark. This progressive increase may suggest an enhanced physiological response to the saline infusion over time. Furthermore, the curvature values, which reflect structural changes or adaptations in the subjects, demonstrate notable stability, with the curvature measured at 0.155 × 10−2 mm−1 at 1 hour and maintaining a similar trend throughout the observation period. This data underscores the dynamic interactions between saline infusion and the physiological parameters being monitored, providing insights into the temporal evolution of movement and curvature in response to fluid administration.",
+      "lines": [
+        {
+          "text": "In the context of evaluating the physiological responses to saline infusion at a dosage of 40 mL/kg, the data presented in the",
+          "bbox": [
+            15,
+            597,
+            580,
+            609
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                597,
+                24,
+                609
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                597,
+                41,
+                609
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                45,
+                597,
+                77,
+                609
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                81,
+                597,
+                90,
+                609
+              ]
+            },
+            {
+              "text": "evaluating",
+              "bbox": [
+                94,
+                597,
+                140,
+                609
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                143,
+                597,
+                157,
+                609
+              ]
+            },
+            {
+              "text": "physiological",
+              "bbox": [
+                161,
+                597,
+                220,
+                609
+              ]
+            },
+            {
+              "text": "responses",
+              "bbox": [
+                224,
+                597,
+                266,
+                609
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                270,
+                597,
+                279,
+                609
+              ]
+            },
+            {
+              "text": "saline",
+              "bbox": [
+                282,
+                597,
+                308,
+                609
+              ]
+            },
+            {
+              "text": "infusion",
+              "bbox": [
+                312,
+                597,
+                348,
+                609
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                351,
+                597,
+                359,
+                609
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                363,
+                597,
+                368,
+                609
+              ]
+            },
+            {
+              "text": "dosage",
+              "bbox": [
+                372,
+                597,
+                402,
+                609
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                406,
+                597,
+                415,
+                609
+              ]
+            },
+            {
+              "text": "40",
+              "bbox": [
+                419,
+                597,
+                430,
+                609
+              ]
+            },
+            {
+              "text": "mL/kg,",
+              "bbox": [
+                433,
+                597,
+                466,
+                609
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                469,
+                597,
+                483,
+                609
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                486,
+                597,
+                505,
+                609
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                508,
+                597,
+                551,
+                609
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                554,
+                597,
+                563,
+                609
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                597,
+                580,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "text": "accompanying table elucidate critical metrics related to movement and curvature over varying time intervals. Specifically, the",
+          "bbox": [
+            15,
+            612,
+            580,
+            624
+          ],
+          "words": [
+            {
+              "text": "accompanying",
+              "bbox": [
+                15,
+                612,
+                79,
+                624
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                83,
+                612,
+                104,
+                624
+              ]
+            },
+            {
+              "text": "elucidate",
+              "bbox": [
+                108,
+                612,
+                147,
+                624
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                151,
+                612,
+                181,
+                624
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                185,
+                612,
+                217,
+                624
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                221,
+                612,
+                251,
+                624
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                254,
+                612,
+                263,
+                624
+              ]
+            },
+            {
+              "text": "movement",
+              "bbox": [
+                266,
+                612,
+                313,
+                624
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                316,
+                612,
+                332,
+                624
+              ]
+            },
+            {
+              "text": "curvature",
+              "bbox": [
+                336,
+                612,
+                377,
+                624
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                381,
+                612,
+                400,
+                624
+              ]
+            },
+            {
+              "text": "varying",
+              "bbox": [
+                404,
+                612,
+                438,
+                624
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                441,
+                612,
+                461,
+                624
+              ]
+            },
+            {
+              "text": "intervals.",
+              "bbox": [
+                464,
+                612,
+                505,
+                624
+              ]
+            },
+            {
+              "text": "Specifically,",
+              "bbox": [
+                508,
+                612,
+                563,
+                624
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                612,
+                580,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "text": "metrics of \"Move Distance (x, mm)\" and \"Curvature (×10−2 mm−1)\" highlight the effects of saline administration on both the",
+          "bbox": [
+            15,
+            628,
+            580,
+            640
+          ],
+          "words": [
+            {
+              "text": "metrics",
+              "bbox": [
+                15,
+                628,
+                47,
+                640
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                51,
+                628,
+                60,
+                640
+              ]
+            },
+            {
+              "text": "\"Move",
+              "bbox": [
+                63,
+                628,
+                93,
+                640
+              ]
+            },
+            {
+              "text": "Distance",
+              "bbox": [
+                97,
+                628,
+                135,
+                640
+              ]
+            },
+            {
+              "text": "(x,",
+              "bbox": [
+                138,
+                628,
+                150,
+                640
+              ]
+            },
+            {
+              "text": "mm)\"",
+              "bbox": [
+                154,
+                628,
+                179,
+                640
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                182,
+                628,
+                198,
+                640
+              ]
+            },
+            {
+              "text": "\"Curvature",
+              "bbox": [
+                201,
+                628,
+                250,
+                640
+              ]
+            },
+            {
+              "text": "(×10−2",
+              "bbox": [
+                253,
+                628,
+                286,
+                640
+              ]
+            },
+            {
+              "text": "mm−1)\"",
+              "bbox": [
+                289,
+                628,
+                326,
+                640
+              ]
+            },
+            {
+              "text": "highlight",
+              "bbox": [
+                329,
+                628,
+                369,
+                640
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                372,
+                628,
+                386,
+                640
+              ]
+            },
+            {
+              "text": "effects",
+              "bbox": [
+                389,
+                628,
+                418,
+                640
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                421,
+                628,
+                430,
+                640
+              ]
+            },
+            {
+              "text": "saline",
+              "bbox": [
+                434,
+                628,
+                459,
+                640
+              ]
+            },
+            {
+              "text": "administration",
+              "bbox": [
+                463,
+                628,
+                526,
+                640
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                529,
+                628,
+                540,
+                640
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                544,
+                628,
+                563,
+                640
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                628,
+                580,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "text": "extent of movement and the associated curvature of the subjects over the first six hours post-infusion. The recorded move",
+          "bbox": [
+            15,
+            643,
+            580,
+            655
+          ],
+          "words": [
+            {
+              "text": "extent",
+              "bbox": [
+                15,
+                643,
+                42,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                46,
+                643,
+                55,
+                655
+              ]
+            },
+            {
+              "text": "movement",
+              "bbox": [
+                60,
+                643,
+                106,
+                655
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                111,
+                643,
+                127,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                131,
+                643,
+                145,
+                655
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                149,
+                643,
+                194,
+                655
+              ]
+            },
+            {
+              "text": "curvature",
+              "bbox": [
+                199,
+                643,
+                240,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                245,
+                643,
+                254,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                258,
+                643,
+                272,
+                655
+              ]
+            },
+            {
+              "text": "subjects",
+              "bbox": [
+                276,
+                643,
+                311,
+                655
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                316,
+                643,
+                335,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                340,
+                643,
+                353,
+                655
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                358,
+                643,
+                376,
+                655
+              ]
+            },
+            {
+              "text": "six",
+              "bbox": [
+                380,
+                643,
+                393,
+                655
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                397,
+                643,
+                422,
+                655
+              ]
+            },
+            {
+              "text": "post-infusion.",
+              "bbox": [
+                426,
+                643,
+                487,
+                655
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                491,
+                643,
+                508,
+                655
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                513,
+                643,
+                551,
+                655
+              ]
+            },
+            {
+              "text": "move",
+              "bbox": [
+                556,
+                643,
+                580,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "distance at the 1 h, 2 h, 4 h, and 6 h intervals indicates a progressive increase in movement, with values of 162 ± 28 mm at 1",
+          "bbox": [
+            15,
+            659,
+            580,
+            671
+          ],
+          "words": [
+            {
+              "text": "distance",
+              "bbox": [
+                15,
+                659,
+                51,
+                671
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                54,
+                659,
+                62,
+                671
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                66,
+                659,
+                79,
+                671
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                83,
+                659,
+                88,
+                671
+              ]
+            },
+            {
+              "text": "h,",
+              "bbox": [
+                92,
+                659,
+                100,
+                671
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                103,
+                659,
+                109,
+                671
+              ]
+            },
+            {
+              "text": "h,",
+              "bbox": [
+                112,
+                659,
+                120,
+                671
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                124,
+                659,
+                129,
+                671
+              ]
+            },
+            {
+              "text": "h,",
+              "bbox": [
+                133,
+                659,
+                141,
+                671
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                144,
+                659,
+                160,
+                671
+              ]
+            },
+            {
+              "text": "6",
+              "bbox": [
+                164,
+                659,
+                169,
+                671
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                173,
+                659,
+                178,
+                671
+              ]
+            },
+            {
+              "text": "intervals",
+              "bbox": [
+                182,
+                659,
+                219,
+                671
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                223,
+                659,
+                262,
+                671
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                265,
+                659,
+                270,
+                671
+              ]
+            },
+            {
+              "text": "progressive",
+              "bbox": [
+                274,
+                659,
+                324,
+                671
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                328,
+                659,
+                364,
+                671
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                367,
+                659,
+                376,
+                671
+              ]
+            },
+            {
+              "text": "movement,",
+              "bbox": [
+                379,
+                659,
+                428,
+                671
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                432,
+                659,
+                451,
+                671
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                455,
+                659,
+                483,
+                671
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                486,
+                659,
+                495,
+                671
+              ]
+            },
+            {
+              "text": "162",
+              "bbox": [
+                499,
+                659,
+                515,
+                671
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                519,
+                659,
+                525,
+                671
+              ]
+            },
+            {
+              "text": "28",
+              "bbox": [
+                528,
+                659,
+                539,
+                671
+              ]
+            },
+            {
+              "text": "mm",
+              "bbox": [
+                543,
+                659,
+                560,
+                671
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                563,
+                659,
+                571,
+                671
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                574,
+                659,
+                580,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "text": "hour and reaching 282 ± 68 mm by the 6-hour mark. This progressive increase may suggest an enhanced physiological response",
+          "bbox": [
+            15,
+            674,
+            580,
+            686
+          ],
+          "words": [
+            {
+              "text": "hour",
+              "bbox": [
+                15,
+                674,
+                35,
+                686
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                38,
+                674,
+                54,
+                686
+              ]
+            },
+            {
+              "text": "reaching",
+              "bbox": [
+                57,
+                674,
+                95,
+                686
+              ]
+            },
+            {
+              "text": "282",
+              "bbox": [
+                97,
+                674,
+                114,
+                686
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                117,
+                674,
+                123,
+                686
+              ]
+            },
+            {
+              "text": "68",
+              "bbox": [
+                126,
+                674,
+                137,
+                686
+              ]
+            },
+            {
+              "text": "mm",
+              "bbox": [
+                139,
+                674,
+                157,
+                686
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                159,
+                674,
+                170,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                173,
+                674,
+                187,
+                686
+              ]
+            },
+            {
+              "text": "6-hour",
+              "bbox": [
+                189,
+                674,
+                219,
+                686
+              ]
+            },
+            {
+              "text": "mark.",
+              "bbox": [
+                222,
+                674,
+                247,
+                686
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                250,
+                674,
+                269,
+                686
+              ]
+            },
+            {
+              "text": "progressive",
+              "bbox": [
+                272,
+                674,
+                323,
+                686
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                325,
+                674,
+                361,
+                686
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                364,
+                674,
+                383,
+                686
+              ]
+            },
+            {
+              "text": "suggest",
+              "bbox": [
+                386,
+                674,
+                419,
+                686
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                422,
+                674,
+                432,
+                686
+              ]
+            },
+            {
+              "text": "enhanced",
+              "bbox": [
+                435,
+                674,
+                477,
+                686
+              ]
+            },
+            {
+              "text": "physiological",
+              "bbox": [
+                479,
+                674,
+                539,
+                686
+              ]
+            },
+            {
+              "text": "response",
+              "bbox": [
+                542,
+                674,
+                580,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "to the saline infusion over time. Furthermore, the curvature values, which reflect structural changes or adaptations in the",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "to",
+              "bbox": [
+                15,
+                689,
+                24,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                689,
+                42,
+                701
+              ]
+            },
+            {
+              "text": "saline",
+              "bbox": [
+                47,
+                689,
+                72,
+                701
+              ]
+            },
+            {
+              "text": "infusion",
+              "bbox": [
+                77,
+                689,
+                113,
+                701
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                118,
+                689,
+                138,
+                701
+              ]
+            },
+            {
+              "text": "time.",
+              "bbox": [
+                143,
+                689,
+                165,
+                701
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                170,
+                689,
+                227,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                232,
+                689,
+                246,
+                701
+              ]
+            },
+            {
+              "text": "curvature",
+              "bbox": [
+                251,
+                689,
+                292,
+                701
+              ]
+            },
+            {
+              "text": "values,",
+              "bbox": [
+                297,
+                689,
+                328,
+                701
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                333,
+                689,
+                360,
+                701
+              ]
+            },
+            {
+              "text": "reflect",
+              "bbox": [
+                364,
+                689,
+                393,
+                701
+              ]
+            },
+            {
+              "text": "structural",
+              "bbox": [
+                397,
+                689,
+                439,
+                701
+              ]
+            },
+            {
+              "text": "changes",
+              "bbox": [
+                444,
+                689,
+                479,
+                701
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                484,
+                689,
+                493,
+                701
+              ]
+            },
+            {
+              "text": "adaptations",
+              "bbox": [
+                498,
+                689,
+                548,
+                701
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                553,
+                689,
+                562,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "subjects, demonstrate notable stability, with the curvature measured at 0.155 × 10−2 mm−1 at 1 hour and maintaining a similar",
+          "bbox": [
+            15,
+            705,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "subjects,",
+              "bbox": [
+                15,
+                705,
+                53,
+                717
+              ]
+            },
+            {
+              "text": "demonstrate",
+              "bbox": [
+                56,
+                705,
+                110,
+                717
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                113,
+                705,
+                146,
+                717
+              ]
+            },
+            {
+              "text": "stability,",
+              "bbox": [
+                149,
+                705,
+                186,
+                717
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                189,
+                705,
+                209,
+                717
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                212,
+                705,
+                225,
+                717
+              ]
+            },
+            {
+              "text": "curvature",
+              "bbox": [
+                228,
+                705,
+                270,
+                717
+              ]
+            },
+            {
+              "text": "measured",
+              "bbox": [
+                273,
+                705,
+                315,
+                717
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                318,
+                705,
+                326,
+                717
+              ]
+            },
+            {
+              "text": "0.155",
+              "bbox": [
+                329,
+                705,
+                354,
+                717
+              ]
+            },
+            {
+              "text": "×",
+              "bbox": [
+                357,
+                705,
+                363,
+                717
+              ]
+            },
+            {
+              "text": "10−2",
+              "bbox": [
+                366,
+                705,
+                389,
+                717
+              ]
+            },
+            {
+              "text": "mm−1",
+              "bbox": [
+                392,
+                705,
+                421,
+                717
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                424,
+                705,
+                432,
+                717
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                435,
+                705,
+                441,
+                717
+              ]
+            },
+            {
+              "text": "hour",
+              "bbox": [
+                444,
+                705,
+                464,
+                717
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                467,
+                705,
+                483,
+                717
+              ]
+            },
+            {
+              "text": "maintaining",
+              "bbox": [
+                486,
+                705,
+                538,
+                717
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                541,
+                705,
+                546,
+                717
+              ]
+            },
+            {
+              "text": "similar",
+              "bbox": [
+                549,
+                705,
+                580,
+                717
+              ]
+            }
+          ]
+        },
+        {
+          "text": "trend throughout the observation period. This data underscores the dynamic interactions between saline infusion and the",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "trend",
+              "bbox": [
+                15,
+                720,
+                38,
+                732
+              ]
+            },
+            {
+              "text": "throughout",
+              "bbox": [
+                43,
+                720,
+                91,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                96,
+                720,
+                110,
+                732
+              ]
+            },
+            {
+              "text": "observation",
+              "bbox": [
+                115,
+                720,
+                166,
+                732
+              ]
+            },
+            {
+              "text": "period.",
+              "bbox": [
+                171,
+                720,
+                202,
+                732
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                207,
+                720,
+                227,
+                732
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                232,
+                720,
+                250,
+                732
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                256,
+                720,
+                308,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                313,
+                720,
+                327,
+                732
+              ]
+            },
+            {
+              "text": "dynamic",
+              "bbox": [
+                332,
+                720,
+                370,
+                732
+              ]
+            },
+            {
+              "text": "interactions",
+              "bbox": [
+                375,
+                720,
+                426,
+                732
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                432,
+                720,
+                468,
+                732
+              ]
+            },
+            {
+              "text": "saline",
+              "bbox": [
+                473,
+                720,
+                499,
+                732
+              ]
+            },
+            {
+              "text": "infusion",
+              "bbox": [
+                504,
+                720,
+                540,
+                732
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                545,
+                720,
+                561,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "physiological parameters being monitored, providing insights into the temporal evolution of movement and curvature in",
+          "bbox": [
+            15,
+            736,
+            580,
+            748
+          ],
+          "words": [
+            {
+              "text": "physiological",
+              "bbox": [
+                15,
+                736,
+                74,
+                748
+              ]
+            },
+            {
+              "text": "parameters",
+              "bbox": [
+                80,
+                736,
+                128,
+                748
+              ]
+            },
+            {
+              "text": "being",
+              "bbox": [
+                133,
+                736,
+                158,
+                748
+              ]
+            },
+            {
+              "text": "monitored,",
+              "bbox": [
+                163,
+                736,
+                211,
+                748
+              ]
+            },
+            {
+              "text": "providing",
+              "bbox": [
+                216,
+                736,
+                259,
+                748
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                265,
+                736,
+                299,
+                748
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                304,
+                736,
+                321,
+                748
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                327,
+                736,
+                340,
+                748
+              ]
+            },
+            {
+              "text": "temporal",
+              "bbox": [
+                346,
+                736,
+                385,
+                748
+              ]
+            },
+            {
+              "text": "evolution",
+              "bbox": [
+                390,
+                736,
+                432,
+                748
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                437,
+                736,
+                446,
+                748
+              ]
+            },
+            {
+              "text": "movement",
+              "bbox": [
+                451,
+                736,
+                498,
+                748
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                503,
+                736,
+                519,
+                748
+              ]
+            },
+            {
+              "text": "curvature",
+              "bbox": [
+                525,
+                736,
+                566,
+                748
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                736,
+                580,
+                748
+              ]
+            }
+          ]
+        },
+        {
+          "text": "response to fluid administration.",
+          "bbox": [
+            15,
+            751,
+            157,
+            763
+          ],
+          "words": [
+            {
+              "text": "response",
+              "bbox": [
+                15,
+                751,
+                54,
+                763
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                56,
+                751,
+                65,
+                763
+              ]
+            },
+            {
+              "text": "fluid",
+              "bbox": [
+                68,
+                751,
+                88,
+                763
+              ]
+            },
+            {
+              "text": "administration.",
+              "bbox": [
+                91,
+                751,
+                157,
+                763
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

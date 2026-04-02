@@ -1,0 +1,4887 @@
+{
+  "image_id": "img_037781",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_037781_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        191
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            66,
+            580,
+            87
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            87,
+            580,
+            108
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            108,
+            580,
+            129
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            129,
+            580,
+            150
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            150,
+            580,
+            171
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            171,
+            580,
+            191
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td></td><td>Cortisol at waking</td><td>Cortisol at +4 h</td><td>Cortisol at + 8 h</td><td>Cortisol at + 16 h</td></tr></thead><tbody><tr><td>Shift work: No</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Shift work: Yes</td><td>2.02 (0.68, 3.36)**</td><td>0.30 (−0.28, 0.88)</td><td>− 0.01 (− 0.38, 0.36)</td><td>0.02 (− 0.26, 0.29)</td></tr><tr><td></td><td colspan=\"2\">Cortisol slope</td><td colspan=\"2\">Total cortisol AUC</td></tr><tr><td>Shift work: No</td><td colspan=\"2\">0</td><td colspan=\"2\">0</td></tr><tr><td>Shift work: Yes</td><td colspan=\"2\">−0.10 (− 0.17, − 0.03)**</td><td colspan=\"2\">5.84 (1.36, 10.32)*</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            66,
+            112,
+            87
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Cortisol at waking",
+          "bbox": [
+            112,
+            66,
+            232,
+            87
+          ],
+          "words": [
+            {
+              "text": "Cortisol",
+              "bbox": [
+                117,
+                70,
+                152,
+                81
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                154,
+                70,
+                162,
+                81
+              ]
+            },
+            {
+              "text": "waking",
+              "bbox": [
+                165,
+                70,
+                196,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Cortisol at +4 h",
+          "bbox": [
+            232,
+            66,
+            342,
+            87
+          ],
+          "words": [
+            {
+              "text": "Cortisol",
+              "bbox": [
+                270,
+                70,
+                304,
+                81
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                307,
+                70,
+                315,
+                81
+              ]
+            },
+            {
+              "text": "+4",
+              "bbox": [
+                317,
+                70,
+                328,
+                81
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                331,
+                70,
+                336,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Cortisol at + 8 h",
+          "bbox": [
+            342,
+            66,
+            466,
+            87
+          ],
+          "words": [
+            {
+              "text": "Cortisol",
+              "bbox": [
+                391,
+                70,
+                426,
+                81
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                428,
+                70,
+                437,
+                81
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                439,
+                70,
+                445,
+                81
+              ]
+            },
+            {
+              "text": "8",
+              "bbox": [
+                447,
+                70,
+                452,
+                81
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                455,
+                70,
+                460,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Cortisol at + 16 h",
+          "bbox": [
+            466,
+            66,
+            580,
+            87
+          ],
+          "words": [
+            {
+              "text": "Cortisol",
+              "bbox": [
+                500,
+                70,
+                534,
+                81
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                537,
+                70,
+                545,
+                81
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                548,
+                70,
+                553,
+                81
+              ]
+            },
+            {
+              "text": "16",
+              "bbox": [
+                556,
+                70,
+                566,
+                81
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                568,
+                70,
+                574,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Shift work: No",
+          "bbox": [
+            16,
+            87,
+            112,
+            108
+          ],
+          "words": [
+            {
+              "text": "Shift",
+              "bbox": [
+                21,
+                91,
+                40,
+                102
+              ]
+            },
+            {
+              "text": "work:",
+              "bbox": [
+                42,
+                91,
+                66,
+                102
+              ]
+            },
+            {
+              "text": "No",
+              "bbox": [
+                68,
+                91,
+                81,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            112,
+            87,
+            232,
+            108
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                117,
+                91,
+                122,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            232,
+            87,
+            342,
+            108
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                332,
+                91,
+                337,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            342,
+            87,
+            466,
+            108
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                456,
+                91,
+                461,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            466,
+            87,
+            580,
+            108
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                570,
+                91,
+                575,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Shift work: Yes",
+          "bbox": [
+            16,
+            108,
+            112,
+            129
+          ],
+          "words": [
+            {
+              "text": "Shift",
+              "bbox": [
+                21,
+                112,
+                40,
+                123
+              ]
+            },
+            {
+              "text": "work:",
+              "bbox": [
+                42,
+                112,
+                66,
+                123
+              ]
+            },
+            {
+              "text": "Yes",
+              "bbox": [
+                68,
+                112,
+                82,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2.02 (0.68, 3.36)**",
+          "bbox": [
+            112,
+            108,
+            232,
+            129
+          ],
+          "words": [
+            {
+              "text": "2.02",
+              "bbox": [
+                117,
+                112,
+                134,
+                123
+              ]
+            },
+            {
+              "text": "(0.68,",
+              "bbox": [
+                137,
+                112,
+                160,
+                123
+              ]
+            },
+            {
+              "text": "3.36)**",
+              "bbox": [
+                162,
+                112,
+                193,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.30 (−0.28, 0.88)",
+          "bbox": [
+            232,
+            108,
+            342,
+            129
+          ],
+          "words": [
+            {
+              "text": "0.30",
+              "bbox": [
+                264,
+                112,
+                282,
+                123
+              ]
+            },
+            {
+              "text": "(−0.28,",
+              "bbox": [
+                284,
+                112,
+                313,
+                123
+              ]
+            },
+            {
+              "text": "0.88)",
+              "bbox": [
+                316,
+                112,
+                337,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.01 (− 0.38, 0.36)",
+          "bbox": [
+            342,
+            108,
+            466,
+            129
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                378,
+                112,
+                384,
+                123
+              ]
+            },
+            {
+              "text": "0.01",
+              "bbox": [
+                386,
+                112,
+                404,
+                123
+              ]
+            },
+            {
+              "text": "(−",
+              "bbox": [
+                406,
+                112,
+                415,
+                123
+              ]
+            },
+            {
+              "text": "0.38,",
+              "bbox": [
+                418,
+                112,
+                438,
+                123
+              ]
+            },
+            {
+              "text": "0.36)",
+              "bbox": [
+                440,
+                112,
+                461,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.02 (− 0.26, 0.29)",
+          "bbox": [
+            466,
+            108,
+            580,
+            129
+          ],
+          "words": [
+            {
+              "text": "0.02",
+              "bbox": [
+                500,
+                112,
+                517,
+                123
+              ]
+            },
+            {
+              "text": "(−",
+              "bbox": [
+                520,
+                112,
+                529,
+                123
+              ]
+            },
+            {
+              "text": "0.26,",
+              "bbox": [
+                531,
+                112,
+                551,
+                123
+              ]
+            },
+            {
+              "text": "0.29)",
+              "bbox": [
+                554,
+                112,
+                575,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            16,
+            129,
+            112,
+            150
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Cortisol slope",
+          "bbox": [
+            112,
+            129,
+            342,
+            150
+          ],
+          "words": [
+            {
+              "text": "Cortisol",
+              "bbox": [
+                117,
+                133,
+                149,
+                144
+              ]
+            },
+            {
+              "text": "slope",
+              "bbox": [
+                151,
+                133,
+                172,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Total cortisol AUC",
+          "bbox": [
+            342,
+            129,
+            580,
+            150
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                499,
+                133,
+                519,
+                144
+              ]
+            },
+            {
+              "text": "cortisol",
+              "bbox": [
+                521,
+                133,
+                551,
+                144
+              ]
+            },
+            {
+              "text": "AUC",
+              "bbox": [
+                553,
+                133,
+                575,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Shift work: No",
+          "bbox": [
+            16,
+            150,
+            112,
+            171
+          ],
+          "words": [
+            {
+              "text": "Shift",
+              "bbox": [
+                21,
+                154,
+                40,
+                165
+              ]
+            },
+            {
+              "text": "work:",
+              "bbox": [
+                42,
+                154,
+                66,
+                165
+              ]
+            },
+            {
+              "text": "No",
+              "bbox": [
+                68,
+                154,
+                81,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            112,
+            150,
+            342,
+            171
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                117,
+                154,
+                122,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            342,
+            150,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                570,
+                154,
+                575,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Shift work: Yes",
+          "bbox": [
+            16,
+            171,
+            112,
+            191
+          ],
+          "words": [
+            {
+              "text": "Shift",
+              "bbox": [
+                21,
+                175,
+                40,
+                186
+              ]
+            },
+            {
+              "text": "work:",
+              "bbox": [
+                42,
+                175,
+                66,
+                186
+              ]
+            },
+            {
+              "text": "Yes",
+              "bbox": [
+                68,
+                175,
+                82,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.10 (− 0.17, − 0.03)**",
+          "bbox": [
+            112,
+            171,
+            342,
+            191
+          ],
+          "words": [
+            {
+              "text": "−0.10",
+              "bbox": [
+                117,
+                175,
+                140,
+                186
+              ]
+            },
+            {
+              "text": "(−",
+              "bbox": [
+                142,
+                175,
+                151,
+                186
+              ]
+            },
+            {
+              "text": "0.17,",
+              "bbox": [
+                154,
+                175,
+                174,
+                186
+              ]
+            },
+            {
+              "text": "−",
+              "bbox": [
+                176,
+                175,
+                182,
+                186
+              ]
+            },
+            {
+              "text": "0.03)**",
+              "bbox": [
+                184,
+                175,
+                215,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5.84 (1.36, 10.32)*",
+          "bbox": [
+            342,
+            171,
+            580,
+            191
+          ],
+          "words": [
+            {
+              "text": "5.84",
+              "bbox": [
+                498,
+                175,
+                515,
+                186
+              ]
+            },
+            {
+              "text": "(1.36,",
+              "bbox": [
+                518,
+                175,
+                541,
+                186
+              ]
+            },
+            {
+              "text": "10.32)*",
+              "bbox": [
+                544,
+                175,
+                575,
+                186
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_037781_t1",
+      "bbox": [
+        15,
+        206,
+        580,
+        397
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            206,
+            580,
+            227
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            227,
+            580,
+            261
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            261,
+            580,
+            295
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            295,
+            580,
+            329
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            329,
+            580,
+            363
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            363,
+            580,
+            397
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Name of Hypothesis</td><td>Definition</td></tr></thead><tbody><tr><td>Hapten hypothesis</td><td>Reactive metabolites are generated from drugs that can bind to endogenous proteins and form neoantigens, activating the immune system.</td></tr><tr><td>Pharmacological Interaction (p-i) Hypothesis</td><td>Certain drugs can act like small molecules and directly form non-covalent interactions with MHC molecules altering their binding pocket.</td></tr><tr><td>The altered peptide repertoire hypothesis</td><td>Drugs induce mistargeting of endogenous peptides to the wrong HLA leading to autoimmunity.</td></tr><tr><td>Multiple determinant hypothesis</td><td>Multiple risk factors (i.e., polymorphisms, age, gender), are necessary and overlap together to induce DILI.</td></tr><tr><td>Inflammatory stress hypothesis</td><td>A small inflammation occurring during drug therapy could interact with the action of the drug and escalate into liver injury.</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Name of Hypothesis",
+          "bbox": [
+            15,
+            206,
+            161,
+            227
+          ],
+          "words": [
+            {
+              "text": "Name",
+              "bbox": [
+                20,
+                210,
+                45,
+                221
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                47,
+                210,
+                56,
+                221
+              ]
+            },
+            {
+              "text": "Hypothesis",
+              "bbox": [
+                58,
+                210,
+                106,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Definition",
+          "bbox": [
+            161,
+            206,
+            580,
+            227
+          ],
+          "words": [
+            {
+              "text": "Definition",
+              "bbox": [
+                532,
+                210,
+                575,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Hapten hypothesis",
+          "bbox": [
+            15,
+            227,
+            161,
+            261
+          ],
+          "words": [
+            {
+              "text": "Hapten",
+              "bbox": [
+                20,
+                231,
+                49,
+                242
+              ]
+            },
+            {
+              "text": "hypothesis",
+              "bbox": [
+                51,
+                231,
+                94,
+                242
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Reactive metabolites are generated from drugs that can bind to endogenous proteins and form neoantigens, activating the immune system.",
+          "bbox": [
+            161,
+            227,
+            580,
+            261
+          ],
+          "words": [
+            {
+              "text": "Reactive",
+              "bbox": [
+                200,
+                231,
+                235,
+                242
+              ]
+            },
+            {
+              "text": "metabolites",
+              "bbox": [
+                238,
+                231,
+                284,
+                242
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                286,
+                231,
+                299,
+                242
+              ]
+            },
+            {
+              "text": "generated",
+              "bbox": [
+                301,
+                231,
+                340,
+                242
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                343,
+                231,
+                362,
+                242
+              ]
+            },
+            {
+              "text": "drugs",
+              "bbox": [
+                364,
+                231,
+                387,
+                242
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                389,
+                231,
+                404,
+                242
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                407,
+                231,
+                421,
+                242
+              ]
+            },
+            {
+              "text": "bind",
+              "bbox": [
+                423,
+                231,
+                441,
+                242
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                443,
+                231,
+                451,
+                242
+              ]
+            },
+            {
+              "text": "endogenous",
+              "bbox": [
+                454,
+                231,
+                501,
+                242
+              ]
+            },
+            {
+              "text": "proteins",
+              "bbox": [
+                504,
+                231,
+                536,
+                242
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                539,
+                231,
+                553,
+                242
+              ]
+            },
+            {
+              "text": "form",
+              "bbox": [
+                556,
+                231,
+                575,
+                242
+              ]
+            },
+            {
+              "text": "neoantigens,",
+              "bbox": [
+                400,
+                245,
+                450,
+                256
+              ]
+            },
+            {
+              "text": "activating",
+              "bbox": [
+                453,
+                245,
+                492,
+                256
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                495,
+                245,
+                507,
+                256
+              ]
+            },
+            {
+              "text": "immune",
+              "bbox": [
+                509,
+                245,
+                542,
+                256
+              ]
+            },
+            {
+              "text": "system.",
+              "bbox": [
+                545,
+                245,
+                575,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Pharmacological Interaction (p-i) Hypothesis",
+          "bbox": [
+            15,
+            261,
+            161,
+            295
+          ],
+          "words": [
+            {
+              "text": "Pharmacological",
+              "bbox": [
+                20,
+                265,
+                87,
+                276
+              ]
+            },
+            {
+              "text": "Interaction",
+              "bbox": [
+                90,
+                265,
+                133,
+                276
+              ]
+            },
+            {
+              "text": "(p-i)",
+              "bbox": [
+                136,
+                265,
+                153,
+                276
+              ]
+            },
+            {
+              "text": "Hypothesis",
+              "bbox": [
+                20,
+                279,
+                65,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Certain drugs can act like small molecules and directly form non-covalent interactions with MHC molecules altering their binding pocket.",
+          "bbox": [
+            161,
+            261,
+            580,
+            295
+          ],
+          "words": [
+            {
+              "text": "Certain",
+              "bbox": [
+                184,
+                265,
+                214,
+                276
+              ]
+            },
+            {
+              "text": "drugs",
+              "bbox": [
+                216,
+                265,
+                238,
+                276
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                241,
+                265,
+                255,
+                276
+              ]
+            },
+            {
+              "text": "act",
+              "bbox": [
+                257,
+                265,
+                269,
+                276
+              ]
+            },
+            {
+              "text": "like",
+              "bbox": [
+                271,
+                265,
+                286,
+                276
+              ]
+            },
+            {
+              "text": "small",
+              "bbox": [
+                289,
+                265,
+                311,
+                276
+              ]
+            },
+            {
+              "text": "molecules",
+              "bbox": [
+                313,
+                265,
+                354,
+                276
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                356,
+                265,
+                371,
+                276
+              ]
+            },
+            {
+              "text": "directly",
+              "bbox": [
+                373,
+                265,
+                404,
+                276
+              ]
+            },
+            {
+              "text": "form",
+              "bbox": [
+                406,
+                265,
+                426,
+                276
+              ]
+            },
+            {
+              "text": "non-covalent",
+              "bbox": [
+                428,
+                265,
+                480,
+                276
+              ]
+            },
+            {
+              "text": "interactions",
+              "bbox": [
+                483,
+                265,
+                529,
+                276
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                532,
+                265,
+                550,
+                276
+              ]
+            },
+            {
+              "text": "MHC",
+              "bbox": [
+                552,
+                265,
+                575,
+                276
+              ]
+            },
+            {
+              "text": "molecules",
+              "bbox": [
+                416,
+                279,
+                456,
+                290
+              ]
+            },
+            {
+              "text": "altering",
+              "bbox": [
+                459,
+                279,
+                489,
+                290
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                492,
+                279,
+                510,
+                290
+              ]
+            },
+            {
+              "text": "binding",
+              "bbox": [
+                513,
+                279,
+                543,
+                290
+              ]
+            },
+            {
+              "text": "pocket.",
+              "bbox": [
+                546,
+                279,
+                575,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "The altered peptide repertoire hypothesis",
+          "bbox": [
+            15,
+            295,
+            161,
+            329
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                20,
+                299,
+                36,
+                310
+              ]
+            },
+            {
+              "text": "altered",
+              "bbox": [
+                38,
+                299,
+                65,
+                310
+              ]
+            },
+            {
+              "text": "peptide",
+              "bbox": [
+                68,
+                299,
+                97,
+                310
+              ]
+            },
+            {
+              "text": "repertoire",
+              "bbox": [
+                100,
+                299,
+                139,
+                310
+              ]
+            },
+            {
+              "text": "hypothesis",
+              "bbox": [
+                20,
+                313,
+                63,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Drugs induce mistargeting of endogenous peptides to the wrong HLA leading to autoimmunity.",
+          "bbox": [
+            161,
+            295,
+            580,
+            329
+          ],
+          "words": [
+            {
+              "text": "Drugs",
+              "bbox": [
+                194,
+                299,
+                218,
+                310
+              ]
+            },
+            {
+              "text": "induce",
+              "bbox": [
+                221,
+                299,
+                248,
+                310
+              ]
+            },
+            {
+              "text": "mistargeting",
+              "bbox": [
+                250,
+                299,
+                300,
+                310
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                302,
+                299,
+                311,
+                310
+              ]
+            },
+            {
+              "text": "endogenous",
+              "bbox": [
+                313,
+                299,
+                361,
+                310
+              ]
+            },
+            {
+              "text": "peptides",
+              "bbox": [
+                363,
+                299,
+                397,
+                310
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                399,
+                299,
+                407,
+                310
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                410,
+                299,
+                422,
+                310
+              ]
+            },
+            {
+              "text": "wrong",
+              "bbox": [
+                424,
+                299,
+                450,
+                310
+              ]
+            },
+            {
+              "text": "HLA",
+              "bbox": [
+                452,
+                299,
+                472,
+                310
+              ]
+            },
+            {
+              "text": "leading",
+              "bbox": [
+                475,
+                299,
+                504,
+                310
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                507,
+                299,
+                515,
+                310
+              ]
+            },
+            {
+              "text": "autoimmunity.",
+              "bbox": [
+                517,
+                299,
+                575,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Multiple determinant hypothesis",
+          "bbox": [
+            15,
+            329,
+            161,
+            363
+          ],
+          "words": [
+            {
+              "text": "Multiple",
+              "bbox": [
+                20,
+                333,
+                54,
+                344
+              ]
+            },
+            {
+              "text": "determinant",
+              "bbox": [
+                57,
+                333,
+                105,
+                344
+              ]
+            },
+            {
+              "text": "hypothesis",
+              "bbox": [
+                107,
+                333,
+                150,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Multiple risk factors (i.e., polymorphisms, age, gender), are necessary and overlap together to induce DILI.",
+          "bbox": [
+            161,
+            329,
+            580,
+            363
+          ],
+          "words": [
+            {
+              "text": "Multiple",
+              "bbox": [
+                171,
+                333,
+                205,
+                344
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                208,
+                333,
+                223,
+                344
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                225,
+                333,
+                253,
+                344
+              ]
+            },
+            {
+              "text": "(i.e.,",
+              "bbox": [
+                255,
+                333,
+                273,
+                344
+              ]
+            },
+            {
+              "text": "polymorphisms,",
+              "bbox": [
+                276,
+                333,
+                340,
+                344
+              ]
+            },
+            {
+              "text": "age,",
+              "bbox": [
+                343,
+                333,
+                359,
+                344
+              ]
+            },
+            {
+              "text": "gender),",
+              "bbox": [
+                362,
+                333,
+                395,
+                344
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                397,
+                333,
+                410,
+                344
+              ]
+            },
+            {
+              "text": "necessary",
+              "bbox": [
+                412,
+                333,
+                451,
+                344
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                453,
+                333,
+                468,
+                344
+              ]
+            },
+            {
+              "text": "overlap",
+              "bbox": [
+                470,
+                333,
+                500,
+                344
+              ]
+            },
+            {
+              "text": "together",
+              "bbox": [
+                503,
+                333,
+                536,
+                344
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                538,
+                333,
+                546,
+                344
+              ]
+            },
+            {
+              "text": "induce",
+              "bbox": [
+                548,
+                333,
+                575,
+                344
+              ]
+            },
+            {
+              "text": "DILI.",
+              "bbox": [
+                553,
+                347,
+                575,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Inflammatory stress hypothesis",
+          "bbox": [
+            15,
+            363,
+            161,
+            397
+          ],
+          "words": [
+            {
+              "text": "Inflammatory",
+              "bbox": [
+                20,
+                367,
+                75,
+                378
+              ]
+            },
+            {
+              "text": "stress",
+              "bbox": [
+                77,
+                367,
+                100,
+                378
+              ]
+            },
+            {
+              "text": "hypothesis",
+              "bbox": [
+                102,
+                367,
+                145,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "A small inflammation occurring during drug therapy could interact with the action of the drug and escalate into liver injury.",
+          "bbox": [
+            161,
+            363,
+            580,
+            397
+          ],
+          "words": [
+            {
+              "text": "A",
+              "bbox": [
+                183,
+                367,
+                189,
+                378
+              ]
+            },
+            {
+              "text": "small",
+              "bbox": [
+                192,
+                367,
+                213,
+                378
+              ]
+            },
+            {
+              "text": "inflammation",
+              "bbox": [
+                216,
+                367,
+                270,
+                378
+              ]
+            },
+            {
+              "text": "occurring",
+              "bbox": [
+                272,
+                367,
+                311,
+                378
+              ]
+            },
+            {
+              "text": "during",
+              "bbox": [
+                313,
+                367,
+                339,
+                378
+              ]
+            },
+            {
+              "text": "drug",
+              "bbox": [
+                342,
+                367,
+                360,
+                378
+              ]
+            },
+            {
+              "text": "therapy",
+              "bbox": [
+                363,
+                367,
+                393,
+                378
+              ]
+            },
+            {
+              "text": "could",
+              "bbox": [
+                395,
+                367,
+                417,
+                378
+              ]
+            },
+            {
+              "text": "interact",
+              "bbox": [
+                420,
+                367,
+                450,
+                378
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                452,
+                367,
+                470,
+                378
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                473,
+                367,
+                485,
+                378
+              ]
+            },
+            {
+              "text": "action",
+              "bbox": [
+                487,
+                367,
+                512,
+                378
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                514,
+                367,
+                523,
+                378
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                525,
+                367,
+                537,
+                378
+              ]
+            },
+            {
+              "text": "drug",
+              "bbox": [
+                540,
+                367,
+                558,
+                378
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                561,
+                367,
+                575,
+                378
+              ]
+            },
+            {
+              "text": "escalate",
+              "bbox": [
+                476,
+                381,
+                508,
+                392
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                510,
+                381,
+                526,
+                392
+              ]
+            },
+            {
+              "text": "liver",
+              "bbox": [
+                528,
+                381,
+                547,
+                392
+              ]
+            },
+            {
+              "text": "injury.",
+              "bbox": [
+                549,
+                381,
+                575,
+                392
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_037781_t2",
+      "bbox": [
+        15,
+        412,
+        580,
+        529
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            413,
+            580,
+            448
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            448,
+            580,
+            468
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            468,
+            580,
+            488
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            488,
+            580,
+            508
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            508,
+            580,
+            529
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>The Concentration Ratio of p53 and DNA</td><td>p53 Molar Concentration (nmol/L)</td><td>The Quantity of p53 Adhering to DNA(/μm DNA)</td><td>Probability of DNA Binding Site Occupied by p53</td></tr></thead><tbody><tr><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1:1</td><td>18.867</td><td>4.2 ± 1.8</td><td>0.093 ± 0.040</td></tr><tr><td>2:1</td><td>37.734</td><td>6.2 ± 4.9</td><td>0.137 ± 0.110</td></tr><tr><td>3:1</td><td>56.601</td><td>6.3 ± 3.8</td><td>0.139 ± 0.084</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "The Concentration Ratio of p53 and DNA",
+          "bbox": [
+            15,
+            413,
+            150,
+            448
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                20,
+                417,
+                37,
+                428
+              ]
+            },
+            {
+              "text": "Concentration",
+              "bbox": [
+                39,
+                417,
+                101,
+                428
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                103,
+                417,
+                127,
+                428
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                129,
+                417,
+                138,
+                428
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                20,
+                431,
+                36,
+                442
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                38,
+                431,
+                54,
+                442
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                57,
+                431,
+                78,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "p53 Molar Concentration (nmol/L)",
+          "bbox": [
+            150,
+            413,
+            265,
+            448
+          ],
+          "words": [
+            {
+              "text": "p53",
+              "bbox": [
+                155,
+                417,
+                170,
+                428
+              ]
+            },
+            {
+              "text": "Molar",
+              "bbox": [
+                173,
+                417,
+                199,
+                428
+              ]
+            },
+            {
+              "text": "Concentration",
+              "bbox": [
+                155,
+                431,
+                216,
+                442
+              ]
+            },
+            {
+              "text": "(nmol/L)",
+              "bbox": [
+                219,
+                431,
+                257,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "The Quantity of p53 Adhering to DNA(/μm DNA)",
+          "bbox": [
+            265,
+            413,
+            422,
+            448
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                278,
+                417,
+                294,
+                428
+              ]
+            },
+            {
+              "text": "Quantity",
+              "bbox": [
+                297,
+                417,
+                335,
+                428
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                338,
+                417,
+                346,
+                428
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                348,
+                417,
+                364,
+                428
+              ]
+            },
+            {
+              "text": "Adhering",
+              "bbox": [
+                366,
+                417,
+                406,
+                428
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                409,
+                417,
+                417,
+                428
+              ]
+            },
+            {
+              "text": "DNA(/μm",
+              "bbox": [
+                348,
+                431,
+                390,
+                442
+              ]
+            },
+            {
+              "text": "DNA)",
+              "bbox": [
+                392,
+                431,
+                417,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Probability of DNA Binding Site Occupied by p53",
+          "bbox": [
+            422,
+            413,
+            580,
+            448
+          ],
+          "words": [
+            {
+              "text": "Probability",
+              "bbox": [
+                437,
+                417,
+                486,
+                428
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                488,
+                417,
+                496,
+                428
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                499,
+                417,
+                520,
+                428
+              ]
+            },
+            {
+              "text": "Binding",
+              "bbox": [
+                522,
+                417,
+                556,
+                428
+              ]
+            },
+            {
+              "text": "Site",
+              "bbox": [
+                559,
+                417,
+                575,
+                428
+              ]
+            },
+            {
+              "text": "Occupied",
+              "bbox": [
+                503,
+                431,
+                544,
+                442
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                546,
+                431,
+                557,
+                442
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                559,
+                431,
+                575,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            15,
+            448,
+            150,
+            468
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                20,
+                452,
+                25,
+                463
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            150,
+            448,
+            265,
+            468
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                155,
+                452,
+                160,
+                463
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            265,
+            448,
+            422,
+            468
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                412,
+                452,
+                417,
+                463
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            422,
+            448,
+            580,
+            468
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                570,
+                452,
+                575,
+                463
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1:1",
+          "bbox": [
+            15,
+            468,
+            150,
+            488
+          ],
+          "words": [
+            {
+              "text": "1:1",
+              "bbox": [
+                20,
+                472,
+                33,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "18.867",
+          "bbox": [
+            150,
+            468,
+            265,
+            488
+          ],
+          "words": [
+            {
+              "text": "18.867",
+              "bbox": [
+                155,
+                472,
+                182,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4.2 ± 1.8",
+          "bbox": [
+            265,
+            468,
+            422,
+            488
+          ],
+          "words": [
+            {
+              "text": "4.2",
+              "bbox": [
+                382,
+                472,
+                394,
+                483
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                397,
+                472,
+                402,
+                483
+              ]
+            },
+            {
+              "text": "1.8",
+              "bbox": [
+                405,
+                472,
+                417,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.093 ± 0.040",
+          "bbox": [
+            422,
+            468,
+            580,
+            488
+          ],
+          "words": [
+            {
+              "text": "0.093",
+              "bbox": [
+                520,
+                472,
+                542,
+                483
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                545,
+                472,
+                550,
+                483
+              ]
+            },
+            {
+              "text": "0.040",
+              "bbox": [
+                552,
+                472,
+                575,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2:1",
+          "bbox": [
+            15,
+            488,
+            150,
+            508
+          ],
+          "words": [
+            {
+              "text": "2:1",
+              "bbox": [
+                20,
+                492,
+                33,
+                503
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "37.734",
+          "bbox": [
+            150,
+            488,
+            265,
+            508
+          ],
+          "words": [
+            {
+              "text": "37.734",
+              "bbox": [
+                155,
+                492,
+                182,
+                503
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "6.2 ± 4.9",
+          "bbox": [
+            265,
+            488,
+            422,
+            508
+          ],
+          "words": [
+            {
+              "text": "6.2",
+              "bbox": [
+                382,
+                492,
+                394,
+                503
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                397,
+                492,
+                402,
+                503
+              ]
+            },
+            {
+              "text": "4.9",
+              "bbox": [
+                405,
+                492,
+                417,
+                503
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.137 ± 0.110",
+          "bbox": [
+            422,
+            488,
+            580,
+            508
+          ],
+          "words": [
+            {
+              "text": "0.137",
+              "bbox": [
+                520,
+                492,
+                542,
+                503
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                545,
+                492,
+                550,
+                503
+              ]
+            },
+            {
+              "text": "0.110",
+              "bbox": [
+                553,
+                492,
+                575,
+                503
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "3:1",
+          "bbox": [
+            15,
+            508,
+            150,
+            529
+          ],
+          "words": [
+            {
+              "text": "3:1",
+              "bbox": [
+                20,
+                512,
+                33,
+                523
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "56.601",
+          "bbox": [
+            150,
+            508,
+            265,
+            529
+          ],
+          "words": [
+            {
+              "text": "56.601",
+              "bbox": [
+                155,
+                512,
+                182,
+                523
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "6.3 ± 3.8",
+          "bbox": [
+            265,
+            508,
+            422,
+            529
+          ],
+          "words": [
+            {
+              "text": "6.3",
+              "bbox": [
+                382,
+                512,
+                394,
+                523
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                397,
+                512,
+                402,
+                523
+              ]
+            },
+            {
+              "text": "3.8",
+              "bbox": [
+                405,
+                512,
+                417,
+                523
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.139 ± 0.084",
+          "bbox": [
+            422,
+            508,
+            580,
+            529
+          ],
+          "words": [
+            {
+              "text": "0.139",
+              "bbox": [
+                520,
+                512,
+                542,
+                523
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                545,
+                512,
+                550,
+                523
+              ]
+            },
+            {
+              "text": "0.084",
+              "bbox": [
+                552,
+                512,
+                575,
+                523
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        544,
+        580,
+        683
+      ],
+      "content": "The relationship between cortisol levels and the binding dynamics of p53 to DNA is a critical area of research, particularly in the context of stress-related biological responses. The data table presented elucidates the cortisol concentrations at various time intervals post-waking, specifically highlighting the values at waking, +4 hours, +8 hours, and +16 hours. Understanding these cortisol fluctuations is essential, as they may influence the molecular mechanisms governing p53 activity. The table further details the p53 molar concentration, measured in nmol/L, alongside metrics such as the concentration ratio of p53 to DNA and the quantity of p53 adhering to DNA per micrometer of DNA. This information is pivotal for assessing the hypothesis that reactive metabolites generated from drugs can bind to endogenous proteins, thereby forming neoantigens that activate the immune system. By integrating the cortisol data with p53-binding metrics, this research aims to provide insights into the physiological impacts of stress and its potential implications for immune responses and disease outcomes.",
+      "lines": [
+        {
+          "text": "The relationship between cortisol levels and the binding dynamics of p53 to DNA is a critical area of research, particularly in",
+          "bbox": [
+            15,
+            545,
+            580,
+            557
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                545,
+                32,
+                557
+              ]
+            },
+            {
+              "text": "relationship",
+              "bbox": [
+                36,
+                545,
+                88,
+                557
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                91,
+                545,
+                128,
+                557
+              ]
+            },
+            {
+              "text": "cortisol",
+              "bbox": [
+                131,
+                545,
+                164,
+                557
+              ]
+            },
+            {
+              "text": "levels",
+              "bbox": [
+                168,
+                545,
+                193,
+                557
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                197,
+                545,
+                213,
+                557
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                216,
+                545,
+                229,
+                557
+              ]
+            },
+            {
+              "text": "binding",
+              "bbox": [
+                233,
+                545,
+                267,
+                557
+              ]
+            },
+            {
+              "text": "dynamics",
+              "bbox": [
+                270,
+                545,
+                312,
+                557
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                316,
+                545,
+                325,
+                557
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                328,
+                545,
+                345,
+                557
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                348,
+                545,
+                357,
+                557
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                360,
+                545,
+                383,
+                557
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                387,
+                545,
+                394,
+                557
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                398,
+                545,
+                403,
+                557
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                406,
+                545,
+                437,
+                557
+              ]
+            },
+            {
+              "text": "area",
+              "bbox": [
+                440,
+                545,
+                458,
+                557
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                462,
+                545,
+                471,
+                557
+              ]
+            },
+            {
+              "text": "research,",
+              "bbox": [
+                474,
+                545,
+                514,
+                557
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                517,
+                545,
+                568,
+                557
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                545,
+                580,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the context of stress-related biological responses. The data table presented elucidates the cortisol concentrations at various time",
+          "bbox": [
+            15,
+            560,
+            580,
+            572
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                560,
+                28,
+                572
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                32,
+                560,
+                64,
+                572
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                67,
+                560,
+                76,
+                572
+              ]
+            },
+            {
+              "text": "stress-related",
+              "bbox": [
+                79,
+                560,
+                137,
+                572
+              ]
+            },
+            {
+              "text": "biological",
+              "bbox": [
+                140,
+                560,
+                184,
+                572
+              ]
+            },
+            {
+              "text": "responses.",
+              "bbox": [
+                187,
+                560,
+                233,
+                572
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                236,
+                560,
+                253,
+                572
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                256,
+                560,
+                274,
+                572
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                277,
+                560,
+                299,
+                572
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                302,
+                560,
+                344,
+                572
+              ]
+            },
+            {
+              "text": "elucidates",
+              "bbox": [
+                347,
+                560,
+                391,
+                572
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                394,
+                560,
+                408,
+                572
+              ]
+            },
+            {
+              "text": "cortisol",
+              "bbox": [
+                411,
+                560,
+                444,
+                572
+              ]
+            },
+            {
+              "text": "concentrations",
+              "bbox": [
+                447,
+                560,
+                511,
+                572
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                514,
+                560,
+                522,
+                572
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                525,
+                560,
+                557,
+                572
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                560,
+                560,
+                580,
+                572
+              ]
+            }
+          ]
+        },
+        {
+          "text": "intervals post-waking, specifically highlighting the values at waking, +4 hours, +8 hours, and +16 hours. Understanding these",
+          "bbox": [
+            15,
+            576,
+            580,
+            588
+          ],
+          "words": [
+            {
+              "text": "intervals",
+              "bbox": [
+                15,
+                576,
+                53,
+                588
+              ]
+            },
+            {
+              "text": "post-waking,",
+              "bbox": [
+                56,
+                576,
+                113,
+                588
+              ]
+            },
+            {
+              "text": "specifically",
+              "bbox": [
+                117,
+                576,
+                168,
+                588
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                171,
+                576,
+                225,
+                588
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                228,
+                576,
+                242,
+                588
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                245,
+                576,
+                273,
+                588
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                277,
+                576,
+                285,
+                588
+              ]
+            },
+            {
+              "text": "waking,",
+              "bbox": [
+                288,
+                576,
+                323,
+                588
+              ]
+            },
+            {
+              "text": "+4",
+              "bbox": [
+                327,
+                576,
+                339,
+                588
+              ]
+            },
+            {
+              "text": "hours,",
+              "bbox": [
+                342,
+                576,
+                369,
+                588
+              ]
+            },
+            {
+              "text": "+8",
+              "bbox": [
+                373,
+                576,
+                384,
+                588
+              ]
+            },
+            {
+              "text": "hours,",
+              "bbox": [
+                388,
+                576,
+                415,
+                588
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                418,
+                576,
+                434,
+                588
+              ]
+            },
+            {
+              "text": "+16",
+              "bbox": [
+                438,
+                576,
+                455,
+                588
+              ]
+            },
+            {
+              "text": "hours.",
+              "bbox": [
+                459,
+                576,
+                486,
+                588
+              ]
+            },
+            {
+              "text": "Understanding",
+              "bbox": [
+                489,
+                576,
+                554,
+                588
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                557,
+                576,
+                580,
+                588
+              ]
+            }
+          ]
+        },
+        {
+          "text": "cortisol fluctuations is essential, as they may influence the molecular mechanisms governing p53 activity. The table further",
+          "bbox": [
+            15,
+            591,
+            580,
+            603
+          ],
+          "words": [
+            {
+              "text": "cortisol",
+              "bbox": [
+                15,
+                591,
+                48,
+                603
+              ]
+            },
+            {
+              "text": "fluctuations",
+              "bbox": [
+                52,
+                591,
+                104,
+                603
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                108,
+                591,
+                116,
+                603
+              ]
+            },
+            {
+              "text": "essential,",
+              "bbox": [
+                120,
+                591,
+                161,
+                603
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                165,
+                591,
+                174,
+                603
+              ]
+            },
+            {
+              "text": "they",
+              "bbox": [
+                178,
+                591,
+                197,
+                603
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                201,
+                591,
+                220,
+                603
+              ]
+            },
+            {
+              "text": "influence",
+              "bbox": [
+                225,
+                591,
+                266,
+                603
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                270,
+                591,
+                283,
+                603
+              ]
+            },
+            {
+              "text": "molecular",
+              "bbox": [
+                288,
+                591,
+                332,
+                603
+              ]
+            },
+            {
+              "text": "mechanisms",
+              "bbox": [
+                336,
+                591,
+                390,
+                603
+              ]
+            },
+            {
+              "text": "governing",
+              "bbox": [
+                394,
+                591,
+                439,
+                603
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                443,
+                591,
+                460,
+                603
+              ]
+            },
+            {
+              "text": "activity.",
+              "bbox": [
+                464,
+                591,
+                499,
+                603
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                503,
+                591,
+                520,
+                603
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                524,
+                591,
+                546,
+                603
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                550,
+                591,
+                580,
+                603
+              ]
+            }
+          ]
+        },
+        {
+          "text": "details the p53 molar concentration, measured in nmol/L, alongside metrics such as the concentration ratio of p53 to DNA and",
+          "bbox": [
+            15,
+            607,
+            580,
+            619
+          ],
+          "words": [
+            {
+              "text": "details",
+              "bbox": [
+                15,
+                607,
+                44,
+                619
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                47,
+                607,
+                60,
+                619
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                64,
+                607,
+                80,
+                619
+              ]
+            },
+            {
+              "text": "molar",
+              "bbox": [
+                83,
+                607,
+                109,
+                619
+              ]
+            },
+            {
+              "text": "concentration,",
+              "bbox": [
+                112,
+                607,
+                175,
+                619
+              ]
+            },
+            {
+              "text": "measured",
+              "bbox": [
+                178,
+                607,
+                220,
+                619
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                224,
+                607,
+                232,
+                619
+              ]
+            },
+            {
+              "text": "nmol/L,",
+              "bbox": [
+                235,
+                607,
+                270,
+                619
+              ]
+            },
+            {
+              "text": "alongside",
+              "bbox": [
+                274,
+                607,
+                316,
+                619
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                319,
+                607,
+                351,
+                619
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                355,
+                607,
+                375,
+                619
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                378,
+                607,
+                387,
+                619
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                391,
+                607,
+                404,
+                619
+              ]
+            },
+            {
+              "text": "concentration",
+              "bbox": [
+                407,
+                607,
+                467,
+                619
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                470,
+                607,
+                490,
+                619
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                494,
+                607,
+                503,
+                619
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                506,
+                607,
+                523,
+                619
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                526,
+                607,
+                534,
+                619
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                538,
+                607,
+                561,
+                619
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                607,
+                580,
+                619
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the quantity of p53 adhering to DNA per micrometer of DNA. This information is pivotal for assessing the hypothesis that",
+          "bbox": [
+            15,
+            622,
+            580,
+            634
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                622,
+                28,
+                634
+              ]
+            },
+            {
+              "text": "quantity",
+              "bbox": [
+                33,
+                622,
+                69,
+                634
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                73,
+                622,
+                82,
+                634
+              ]
+            },
+            {
+              "text": "p53",
+              "bbox": [
+                86,
+                622,
+                103,
+                634
+              ]
+            },
+            {
+              "text": "adhering",
+              "bbox": [
+                107,
+                622,
+                145,
+                634
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                149,
+                622,
+                158,
+                634
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                162,
+                622,
+                185,
+                634
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                190,
+                622,
+                204,
+                634
+              ]
+            },
+            {
+              "text": "micrometer",
+              "bbox": [
+                208,
+                622,
+                259,
+                634
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                263,
+                622,
+                272,
+                634
+              ]
+            },
+            {
+              "text": "DNA.",
+              "bbox": [
+                276,
+                622,
+                303,
+                634
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                307,
+                622,
+                326,
+                634
+              ]
+            },
+            {
+              "text": "information",
+              "bbox": [
+                330,
+                622,
+                382,
+                634
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                386,
+                622,
+                394,
+                634
+              ]
+            },
+            {
+              "text": "pivotal",
+              "bbox": [
+                398,
+                622,
+                428,
+                634
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                433,
+                622,
+                445,
+                634
+              ]
+            },
+            {
+              "text": "assessing",
+              "bbox": [
+                450,
+                622,
+                491,
+                634
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                495,
+                622,
+                508,
+                634
+              ]
+            },
+            {
+              "text": "hypothesis",
+              "bbox": [
+                512,
+                622,
+                559,
+                634
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                564,
+                622,
+                580,
+                634
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reactive metabolites generated from drugs can bind to endogenous proteins, thereby forming neoantigens that activate the",
+          "bbox": [
+            15,
+            637,
+            580,
+            649
+          ],
+          "words": [
+            {
+              "text": "reactive",
+              "bbox": [
+                15,
+                637,
+                50,
+                649
+              ]
+            },
+            {
+              "text": "metabolites",
+              "bbox": [
+                55,
+                637,
+                105,
+                649
+              ]
+            },
+            {
+              "text": "generated",
+              "bbox": [
+                110,
+                637,
+                153,
+                649
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                158,
+                637,
+                179,
+                649
+              ]
+            },
+            {
+              "text": "drugs",
+              "bbox": [
+                184,
+                637,
+                208,
+                649
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                213,
+                637,
+                228,
+                649
+              ]
+            },
+            {
+              "text": "bind",
+              "bbox": [
+                233,
+                637,
+                253,
+                649
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                257,
+                637,
+                266,
+                649
+              ]
+            },
+            {
+              "text": "endogenous",
+              "bbox": [
+                271,
+                637,
+                323,
+                649
+              ]
+            },
+            {
+              "text": "proteins,",
+              "bbox": [
+                328,
+                637,
+                366,
+                649
+              ]
+            },
+            {
+              "text": "thereby",
+              "bbox": [
+                371,
+                637,
+                404,
+                649
+              ]
+            },
+            {
+              "text": "forming",
+              "bbox": [
+                409,
+                637,
+                444,
+                649
+              ]
+            },
+            {
+              "text": "neoantigens",
+              "bbox": [
+                449,
+                637,
+                502,
+                649
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                506,
+                637,
+                523,
+                649
+              ]
+            },
+            {
+              "text": "activate",
+              "bbox": [
+                528,
+                637,
+                562,
+                649
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                637,
+                580,
+                649
+              ]
+            }
+          ]
+        },
+        {
+          "text": "immune system. By integrating the cortisol data with p53-binding metrics, this research aims to provide insights into the",
+          "bbox": [
+            15,
+            653,
+            580,
+            665
+          ],
+          "words": [
+            {
+              "text": "immune",
+              "bbox": [
+                15,
+                653,
+                51,
+                665
+              ]
+            },
+            {
+              "text": "system.",
+              "bbox": [
+                56,
+                653,
+                89,
+                665
+              ]
+            },
+            {
+              "text": "By",
+              "bbox": [
+                94,
+                653,
+                107,
+                665
+              ]
+            },
+            {
+              "text": "integrating",
+              "bbox": [
+                112,
+                653,
+                159,
+                665
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                164,
+                653,
+                178,
+                665
+              ]
+            },
+            {
+              "text": "cortisol",
+              "bbox": [
+                182,
+                653,
+                215,
+                665
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                220,
+                653,
+                238,
+                665
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                243,
+                653,
+                263,
+                665
+              ]
+            },
+            {
+              "text": "p53-binding",
+              "bbox": [
+                268,
+                653,
+                321,
+                665
+              ]
+            },
+            {
+              "text": "metrics,",
+              "bbox": [
+                326,
+                653,
+                361,
+                665
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                366,
+                653,
+                382,
+                665
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                387,
+                653,
+                423,
+                665
+              ]
+            },
+            {
+              "text": "aims",
+              "bbox": [
+                428,
+                653,
+                449,
+                665
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                454,
+                653,
+                462,
+                665
+              ]
+            },
+            {
+              "text": "provide",
+              "bbox": [
+                467,
+                653,
+                501,
+                665
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                506,
+                653,
+                540,
+                665
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                545,
+                653,
+                562,
+                665
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                653,
+                580,
+                665
+              ]
+            }
+          ]
+        },
+        {
+          "text": "physiological impacts of stress and its potential implications for immune responses and disease outcomes.",
+          "bbox": [
+            15,
+            668,
+            481,
+            680
+          ],
+          "words": [
+            {
+              "text": "physiological",
+              "bbox": [
+                15,
+                668,
+                74,
+                680
+              ]
+            },
+            {
+              "text": "impacts",
+              "bbox": [
+                77,
+                668,
+                111,
+                680
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                114,
+                668,
+                123,
+                680
+              ]
+            },
+            {
+              "text": "stress",
+              "bbox": [
+                126,
+                668,
+                150,
+                680
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                153,
+                668,
+                169,
+                680
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                172,
+                668,
+                182,
+                680
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                185,
+                668,
+                223,
+                680
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                226,
+                668,
+                281,
+                680
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                283,
+                668,
+                296,
+                680
+              ]
+            },
+            {
+              "text": "immune",
+              "bbox": [
+                299,
+                668,
+                335,
+                680
+              ]
+            },
+            {
+              "text": "responses",
+              "bbox": [
+                338,
+                668,
+                380,
+                680
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                383,
+                668,
+                399,
+                680
+              ]
+            },
+            {
+              "text": "disease",
+              "bbox": [
+                402,
+                668,
+                434,
+                680
+              ]
+            },
+            {
+              "text": "outcomes.",
+              "bbox": [
+                436,
+                668,
+                481,
+                680
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

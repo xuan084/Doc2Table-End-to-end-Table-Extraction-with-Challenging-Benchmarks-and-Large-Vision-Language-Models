@@ -1,0 +1,5444 @@
+{
+  "image_id": "img_037568",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_037568_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        230
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            66,
+            580,
+            101
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            101,
+            580,
+            121
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            121,
+            580,
+            141
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            141,
+            580,
+            161
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            161,
+            580,
+            195
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            195,
+            580,
+            230
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Fraction</td><td>Volume (ml)</td><td>Total protein (mg)</td><td>Total activity (pmol.min-1)</td><td>Specific activity (pmol.min-1.mg-1)</td><td>Purification factor</td></tr></thead><tbody><tr><td>Extract</td><td>32.0</td><td>99.2</td><td>436.5</td><td>4.4</td><td>1</td></tr><tr><td>Heat treatment</td><td>31.0</td><td>71.3</td><td>370.8</td><td>5.2</td><td>1.2</td></tr><tr><td>Sephadex G-200:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Peak I (maximum)</td><td>4.0</td><td>0.68</td><td>63.4</td><td>93.2</td><td>21.2</td></tr><tr><td>Peak II (maximum)</td><td>4.0</td><td>0.94</td><td>75.4</td><td>80.2</td><td>18.2</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Fraction",
+          "bbox": [
+            15,
+            66,
+            97,
+            101
+          ],
+          "words": [
+            {
+              "text": "Fraction",
+              "bbox": [
+                20,
+                70,
+                57,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Volume (ml)",
+          "bbox": [
+            97,
+            66,
+            155,
+            101
+          ],
+          "words": [
+            {
+              "text": "Volume",
+              "bbox": [
+                102,
+                70,
+                134,
+                81
+              ]
+            },
+            {
+              "text": "(ml)",
+              "bbox": [
+                102,
+                84,
+                119,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Total protein (mg)",
+          "bbox": [
+            155,
+            66,
+            237,
+            101
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                160,
+                70,
+                182,
+                81
+              ]
+            },
+            {
+              "text": "protein",
+              "bbox": [
+                185,
+                70,
+                216,
+                81
+              ]
+            },
+            {
+              "text": "(mg)",
+              "bbox": [
+                160,
+                84,
+                180,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Total activity (pmol.min-1)",
+          "bbox": [
+            237,
+            66,
+            351,
+            101
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                290,
+                70,
+                312,
+                81
+              ]
+            },
+            {
+              "text": "activity",
+              "bbox": [
+                314,
+                70,
+                346,
+                81
+              ]
+            },
+            {
+              "text": "(pmol.min-1)",
+              "bbox": [
+                290,
+                84,
+                346,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Specific activity (pmol.min-1.mg-1)",
+          "bbox": [
+            351,
+            66,
+            498,
+            101
+          ],
+          "words": [
+            {
+              "text": "Specific",
+              "bbox": [
+                375,
+                70,
+                409,
+                81
+              ]
+            },
+            {
+              "text": "activity",
+              "bbox": [
+                411,
+                70,
+                443,
+                81
+              ]
+            },
+            {
+              "text": "(pmol.min-1.mg-1)",
+              "bbox": [
+                445,
+                70,
+                493,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Purification factor",
+          "bbox": [
+            498,
+            66,
+            580,
+            101
+          ],
+          "words": [
+            {
+              "text": "Purification",
+              "bbox": [
+                524,
+                70,
+                575,
+                81
+              ]
+            },
+            {
+              "text": "factor",
+              "bbox": [
+                549,
+                84,
+                575,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Extract",
+          "bbox": [
+            15,
+            101,
+            97,
+            121
+          ],
+          "words": [
+            {
+              "text": "Extract",
+              "bbox": [
+                20,
+                105,
+                49,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "32.0",
+          "bbox": [
+            97,
+            101,
+            155,
+            121
+          ],
+          "words": [
+            {
+              "text": "32.0",
+              "bbox": [
+                102,
+                105,
+                119,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "99.2",
+          "bbox": [
+            155,
+            101,
+            237,
+            121
+          ],
+          "words": [
+            {
+              "text": "99.2",
+              "bbox": [
+                160,
+                105,
+                178,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "436.5",
+          "bbox": [
+            237,
+            101,
+            351,
+            121
+          ],
+          "words": [
+            {
+              "text": "436.5",
+              "bbox": [
+                323,
+                105,
+                346,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4.4",
+          "bbox": [
+            351,
+            101,
+            498,
+            121
+          ],
+          "words": [
+            {
+              "text": "4.4",
+              "bbox": [
+                480,
+                105,
+                493,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            498,
+            101,
+            580,
+            121
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                570,
+                105,
+                575,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Heat treatment",
+          "bbox": [
+            15,
+            121,
+            97,
+            141
+          ],
+          "words": [
+            {
+              "text": "Heat",
+              "bbox": [
+                20,
+                125,
+                39,
+                136
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                41,
+                125,
+                79,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "31.0",
+          "bbox": [
+            97,
+            121,
+            155,
+            141
+          ],
+          "words": [
+            {
+              "text": "31.0",
+              "bbox": [
+                102,
+                125,
+                119,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "71.3",
+          "bbox": [
+            155,
+            121,
+            237,
+            141
+          ],
+          "words": [
+            {
+              "text": "71.3",
+              "bbox": [
+                160,
+                125,
+                178,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "370.8",
+          "bbox": [
+            237,
+            121,
+            351,
+            141
+          ],
+          "words": [
+            {
+              "text": "370.8",
+              "bbox": [
+                323,
+                125,
+                346,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5.2",
+          "bbox": [
+            351,
+            121,
+            498,
+            141
+          ],
+          "words": [
+            {
+              "text": "5.2",
+              "bbox": [
+                480,
+                125,
+                493,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.2",
+          "bbox": [
+            498,
+            121,
+            580,
+            141
+          ],
+          "words": [
+            {
+              "text": "1.2",
+              "bbox": [
+                563,
+                125,
+                575,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Sephadex G-200:",
+          "bbox": [
+            15,
+            141,
+            97,
+            161
+          ],
+          "words": [
+            {
+              "text": "Sephadex",
+              "bbox": [
+                20,
+                145,
+                59,
+                156
+              ]
+            },
+            {
+              "text": "G-200:",
+              "bbox": [
+                61,
+                145,
+                90,
+                156
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            97,
+            141,
+            155,
+            161
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            155,
+            141,
+            237,
+            161
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            237,
+            141,
+            351,
+            161
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            351,
+            141,
+            498,
+            161
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            498,
+            141,
+            580,
+            161
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Peak I (maximum)",
+          "bbox": [
+            15,
+            161,
+            97,
+            195
+          ],
+          "words": [
+            {
+              "text": "Peak",
+              "bbox": [
+                20,
+                165,
+                39,
+                176
+              ]
+            },
+            {
+              "text": "I",
+              "bbox": [
+                42,
+                165,
+                45,
+                176
+              ]
+            },
+            {
+              "text": "(maximum)",
+              "bbox": [
+                20,
+                179,
+                67,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4.0",
+          "bbox": [
+            97,
+            161,
+            155,
+            195
+          ],
+          "words": [
+            {
+              "text": "4.0",
+              "bbox": [
+                102,
+                165,
+                114,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.68",
+          "bbox": [
+            155,
+            161,
+            237,
+            195
+          ],
+          "words": [
+            {
+              "text": "0.68",
+              "bbox": [
+                160,
+                165,
+                178,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "63.4",
+          "bbox": [
+            237,
+            161,
+            351,
+            195
+          ],
+          "words": [
+            {
+              "text": "63.4",
+              "bbox": [
+                328,
+                165,
+                346,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "93.2",
+          "bbox": [
+            351,
+            161,
+            498,
+            195
+          ],
+          "words": [
+            {
+              "text": "93.2",
+              "bbox": [
+                475,
+                165,
+                493,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "21.2",
+          "bbox": [
+            498,
+            161,
+            580,
+            195
+          ],
+          "words": [
+            {
+              "text": "21.2",
+              "bbox": [
+                558,
+                165,
+                575,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Peak II (maximum)",
+          "bbox": [
+            15,
+            195,
+            97,
+            230
+          ],
+          "words": [
+            {
+              "text": "Peak",
+              "bbox": [
+                20,
+                199,
+                39,
+                210
+              ]
+            },
+            {
+              "text": "II",
+              "bbox": [
+                42,
+                199,
+                49,
+                210
+              ]
+            },
+            {
+              "text": "(maximum)",
+              "bbox": [
+                20,
+                213,
+                67,
+                224
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4.0",
+          "bbox": [
+            97,
+            195,
+            155,
+            230
+          ],
+          "words": [
+            {
+              "text": "4.0",
+              "bbox": [
+                102,
+                199,
+                114,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.94",
+          "bbox": [
+            155,
+            195,
+            237,
+            230
+          ],
+          "words": [
+            {
+              "text": "0.94",
+              "bbox": [
+                160,
+                199,
+                178,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "75.4",
+          "bbox": [
+            237,
+            195,
+            351,
+            230
+          ],
+          "words": [
+            {
+              "text": "75.4",
+              "bbox": [
+                328,
+                199,
+                346,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "80.2",
+          "bbox": [
+            351,
+            195,
+            498,
+            230
+          ],
+          "words": [
+            {
+              "text": "80.2",
+              "bbox": [
+                475,
+                199,
+                493,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "18.2",
+          "bbox": [
+            498,
+            195,
+            580,
+            230
+          ],
+          "words": [
+            {
+              "text": "18.2",
+              "bbox": [
+                558,
+                199,
+                575,
+                210
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_037568_t1",
+      "bbox": [
+        15,
+        245,
+        580,
+        368
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            246,
+            580,
+            267
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            267,
+            580,
+            287
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            287,
+            580,
+            307
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            307,
+            580,
+            327
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            327,
+            580,
+            347
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            347,
+            580,
+            368
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Lignin sample</td><td>Particle size (μm)</td><td>Hydrophobicity (L/g)</td><td>Zeta potential (mV)</td><td>72 h hydrolysis yield (%)</td></tr></thead><tbody><tr><td>EOL–AS</td><td>0.75</td><td>0.43</td><td>−13.27</td><td>70.04</td></tr><tr><td>EOL–CW</td><td>0.62</td><td>0.51</td><td>−15.30</td><td>73.02</td></tr><tr><td>EOL–BW</td><td>0.59</td><td>0.80</td><td>−15.77</td><td>72.15</td></tr><tr><td>EOL–EH</td><td>0.28</td><td>0.80</td><td>−8.37</td><td>60.90</td></tr><tr><td>EOL–LP</td><td>0.23</td><td>1.11</td><td>−6.42</td><td>54.92</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Lignin sample",
+          "bbox": [
+            15,
+            246,
+            101,
+            267
+          ],
+          "words": [
+            {
+              "text": "Lignin",
+              "bbox": [
+                20,
+                250,
+                48,
+                261
+              ]
+            },
+            {
+              "text": "sample",
+              "bbox": [
+                51,
+                250,
+                81,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Particle size (μm)",
+          "bbox": [
+            101,
+            246,
+            203,
+            267
+          ],
+          "words": [
+            {
+              "text": "Particle",
+              "bbox": [
+                106,
+                250,
+                139,
+                261
+              ]
+            },
+            {
+              "text": "size",
+              "bbox": [
+                141,
+                250,
+                157,
+                261
+              ]
+            },
+            {
+              "text": "(μm)",
+              "bbox": [
+                159,
+                250,
+                180,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Hydrophobicity (L/g)",
+          "bbox": [
+            203,
+            246,
+            325,
+            267
+          ],
+          "words": [
+            {
+              "text": "Hydrophobicity",
+              "bbox": [
+                229,
+                250,
+                296,
+                261
+              ]
+            },
+            {
+              "text": "(L/g)",
+              "bbox": [
+                299,
+                250,
+                320,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Zeta potential (mV)",
+          "bbox": [
+            325,
+            246,
+            439,
+            267
+          ],
+          "words": [
+            {
+              "text": "Zeta",
+              "bbox": [
+                350,
+                250,
+                369,
+                261
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                372,
+                250,
+                409,
+                261
+              ]
+            },
+            {
+              "text": "(mV)",
+              "bbox": [
+                412,
+                250,
+                434,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "72 h hydrolysis yield (%)",
+          "bbox": [
+            439,
+            246,
+            580,
+            267
+          ],
+          "words": [
+            {
+              "text": "72",
+              "bbox": [
+                469,
+                250,
+                479,
+                261
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                481,
+                250,
+                487,
+                261
+              ]
+            },
+            {
+              "text": "hydrolysis",
+              "bbox": [
+                489,
+                250,
+                533,
+                261
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                535,
+                250,
+                556,
+                261
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                558,
+                250,
+                575,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "EOL–AS",
+          "bbox": [
+            15,
+            267,
+            101,
+            287
+          ],
+          "words": [
+            {
+              "text": "EOL–AS",
+              "bbox": [
+                20,
+                271,
+                57,
+                282
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.75",
+          "bbox": [
+            101,
+            267,
+            203,
+            287
+          ],
+          "words": [
+            {
+              "text": "0.75",
+              "bbox": [
+                106,
+                271,
+                123,
+                282
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.43",
+          "bbox": [
+            203,
+            267,
+            325,
+            287
+          ],
+          "words": [
+            {
+              "text": "0.43",
+              "bbox": [
+                303,
+                271,
+                320,
+                282
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "−13.27",
+          "bbox": [
+            325,
+            267,
+            439,
+            287
+          ],
+          "words": [
+            {
+              "text": "−13.27",
+              "bbox": [
+                406,
+                271,
+                434,
+                282
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "70.04",
+          "bbox": [
+            439,
+            267,
+            580,
+            287
+          ],
+          "words": [
+            {
+              "text": "70.04",
+              "bbox": [
+                553,
+                271,
+                575,
+                282
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "EOL–CW",
+          "bbox": [
+            15,
+            287,
+            101,
+            307
+          ],
+          "words": [
+            {
+              "text": "EOL–CW",
+              "bbox": [
+                20,
+                291,
+                61,
+                302
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.62",
+          "bbox": [
+            101,
+            287,
+            203,
+            307
+          ],
+          "words": [
+            {
+              "text": "0.62",
+              "bbox": [
+                106,
+                291,
+                123,
+                302
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.51",
+          "bbox": [
+            203,
+            287,
+            325,
+            307
+          ],
+          "words": [
+            {
+              "text": "0.51",
+              "bbox": [
+                303,
+                291,
+                320,
+                302
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "−15.30",
+          "bbox": [
+            325,
+            287,
+            439,
+            307
+          ],
+          "words": [
+            {
+              "text": "−15.30",
+              "bbox": [
+                406,
+                291,
+                434,
+                302
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "73.02",
+          "bbox": [
+            439,
+            287,
+            580,
+            307
+          ],
+          "words": [
+            {
+              "text": "73.02",
+              "bbox": [
+                553,
+                291,
+                575,
+                302
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "EOL–BW",
+          "bbox": [
+            15,
+            307,
+            101,
+            327
+          ],
+          "words": [
+            {
+              "text": "EOL–BW",
+              "bbox": [
+                20,
+                311,
+                61,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.59",
+          "bbox": [
+            101,
+            307,
+            203,
+            327
+          ],
+          "words": [
+            {
+              "text": "0.59",
+              "bbox": [
+                106,
+                311,
+                123,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.80",
+          "bbox": [
+            203,
+            307,
+            325,
+            327
+          ],
+          "words": [
+            {
+              "text": "0.80",
+              "bbox": [
+                303,
+                311,
+                320,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "−15.77",
+          "bbox": [
+            325,
+            307,
+            439,
+            327
+          ],
+          "words": [
+            {
+              "text": "−15.77",
+              "bbox": [
+                406,
+                311,
+                434,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "72.15",
+          "bbox": [
+            439,
+            307,
+            580,
+            327
+          ],
+          "words": [
+            {
+              "text": "72.15",
+              "bbox": [
+                553,
+                311,
+                575,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "EOL–EH",
+          "bbox": [
+            15,
+            327,
+            101,
+            347
+          ],
+          "words": [
+            {
+              "text": "EOL–EH",
+              "bbox": [
+                20,
+                331,
+                58,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.28",
+          "bbox": [
+            101,
+            327,
+            203,
+            347
+          ],
+          "words": [
+            {
+              "text": "0.28",
+              "bbox": [
+                106,
+                331,
+                123,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.80",
+          "bbox": [
+            203,
+            327,
+            325,
+            347
+          ],
+          "words": [
+            {
+              "text": "0.80",
+              "bbox": [
+                303,
+                331,
+                320,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "−8.37",
+          "bbox": [
+            325,
+            327,
+            439,
+            347
+          ],
+          "words": [
+            {
+              "text": "−8.37",
+              "bbox": [
+                411,
+                331,
+                434,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "60.90",
+          "bbox": [
+            439,
+            327,
+            580,
+            347
+          ],
+          "words": [
+            {
+              "text": "60.90",
+              "bbox": [
+                553,
+                331,
+                575,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "EOL–LP",
+          "bbox": [
+            15,
+            347,
+            101,
+            368
+          ],
+          "words": [
+            {
+              "text": "EOL–LP",
+              "bbox": [
+                20,
+                351,
+                56,
+                362
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.23",
+          "bbox": [
+            101,
+            347,
+            203,
+            368
+          ],
+          "words": [
+            {
+              "text": "0.23",
+              "bbox": [
+                106,
+                351,
+                123,
+                362
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.11",
+          "bbox": [
+            203,
+            347,
+            325,
+            368
+          ],
+          "words": [
+            {
+              "text": "1.11",
+              "bbox": [
+                303,
+                351,
+                320,
+                362
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "−6.42",
+          "bbox": [
+            325,
+            347,
+            439,
+            368
+          ],
+          "words": [
+            {
+              "text": "−6.42",
+              "bbox": [
+                411,
+                351,
+                434,
+                362
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "54.92",
+          "bbox": [
+            439,
+            347,
+            580,
+            368
+          ],
+          "words": [
+            {
+              "text": "54.92",
+              "bbox": [
+                553,
+                351,
+                575,
+                362
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_037568_t2",
+      "bbox": [
+        15,
+        383,
+        580,
+        503
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            383,
+            580,
+            403
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            403,
+            580,
+            423
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            423,
+            580,
+            443
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            443,
+            580,
+            463
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            463,
+            580,
+            483
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            483,
+            580,
+            503
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td rowspan=\"3\">Primary symptoms</td><td rowspan=\"3\">Alla (months)(n = 680)</td><td colspan=\"4\">Subtypeb</td></tr><tr><td>sCJD (months)(n = 535)</td><td>fCJD (months)(n = 77)</td><td>dCJD (months)(n = 50)</td><td>GSS (months)(n = 13)</td></tr></thead><tbody><tr><td>Ophthalmologic</td><td>14.9 (n = 103)c</td><td>13.6 (n = 89)</td><td>28.5 (n = 8)</td><td>15.4 (n = 6)</td><td>—</td></tr><tr><td>Psychiatric</td><td>15.9 (n = 375)c</td><td>15.5 (n = 302)</td><td>17.9 (n = 53)</td><td>16.3 (n = 16)</td><td>34.3 (n = 1)</td></tr><tr><td>Neurologic</td><td>17.2 (n = 248)c</td><td>14.2 (n = 182)</td><td>15.4 (n = 16)</td><td>19.4 (n = 36)</td><td>59.2 (n = 12)</td></tr><tr><td>Others</td><td>18.1 (n = 16)c</td><td>58.1 (n = 12)</td><td>20.3 (n = 2)</td><td>22.7 (n = 1)</td><td>41.3 (n = 1)</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0,
+            1,
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Primary symptoms",
+          "bbox": [
+            15,
+            383,
+            129,
+            403
+          ],
+          "words": [
+            {
+              "text": "Primary",
+              "bbox": [
+                20,
+                387,
+                56,
+                398
+              ]
+            },
+            {
+              "text": "symptoms",
+              "bbox": [
+                59,
+                387,
+                102,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0,
+            1,
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Alla (months)(n = 680)",
+          "bbox": [
+            129,
+            383,
+            237,
+            403
+          ],
+          "words": [
+            {
+              "text": "Alla",
+              "bbox": [
+                134,
+                387,
+                152,
+                398
+              ]
+            },
+            {
+              "text": "(months)(n",
+              "bbox": [
+                155,
+                387,
+                202,
+                398
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                204,
+                387,
+                210,
+                398
+              ]
+            },
+            {
+              "text": "680)",
+              "bbox": [
+                212,
+                387,
+                231,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Subtypeb",
+          "bbox": [
+            237,
+            383,
+            580,
+            403
+          ],
+          "words": [
+            {
+              "text": "Subtypeb",
+              "bbox": [
+                243,
+                387,
+                283,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "sCJD (months)(n = 535)",
+          "bbox": [
+            15,
+            403,
+            129,
+            423
+          ],
+          "words": [
+            {
+              "text": "sCJD",
+              "bbox": [
+                20,
+                407,
+                43,
+                418
+              ]
+            },
+            {
+              "text": "(months)(n",
+              "bbox": [
+                46,
+                407,
+                93,
+                418
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                96,
+                407,
+                101,
+                418
+              ]
+            },
+            {
+              "text": "535)",
+              "bbox": [
+                104,
+                407,
+                122,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "fCJD (months)(n = 77)",
+          "bbox": [
+            129,
+            403,
+            237,
+            423
+          ],
+          "words": [
+            {
+              "text": "fCJD",
+              "bbox": [
+                134,
+                407,
+                157,
+                418
+              ]
+            },
+            {
+              "text": "(months)(n",
+              "bbox": [
+                160,
+                407,
+                207,
+                418
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                209,
+                407,
+                215,
+                418
+              ]
+            },
+            {
+              "text": "77)",
+              "bbox": [
+                217,
+                407,
+                231,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "dCJD (months)(n = 50)",
+          "bbox": [
+            237,
+            403,
+            348,
+            423
+          ],
+          "words": [
+            {
+              "text": "dCJD",
+              "bbox": [
+                243,
+                407,
+                268,
+                418
+              ]
+            },
+            {
+              "text": "(months)(n",
+              "bbox": [
+                270,
+                407,
+                318,
+                418
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                320,
+                407,
+                326,
+                418
+              ]
+            },
+            {
+              "text": "50)",
+              "bbox": [
+                328,
+                407,
+                342,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "GSS (months)(n = 13)",
+          "bbox": [
+            348,
+            403,
+            453,
+            423
+          ],
+          "words": [
+            {
+              "text": "GSS",
+              "bbox": [
+                355,
+                407,
+                374,
+                418
+              ]
+            },
+            {
+              "text": "(months)(n",
+              "bbox": [
+                376,
+                407,
+                424,
+                418
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                426,
+                407,
+                432,
+                418
+              ]
+            },
+            {
+              "text": "13)",
+              "bbox": [
+                434,
+                407,
+                448,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Ophthalmologic",
+          "bbox": [
+            15,
+            423,
+            129,
+            443
+          ],
+          "words": [
+            {
+              "text": "Ophthalmologic",
+              "bbox": [
+                20,
+                427,
+                85,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "14.9 (n = 103)c",
+          "bbox": [
+            129,
+            423,
+            237,
+            443
+          ],
+          "words": [
+            {
+              "text": "14.9",
+              "bbox": [
+                134,
+                427,
+                152,
+                438
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                154,
+                427,
+                163,
+                438
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                165,
+                427,
+                171,
+                438
+              ]
+            },
+            {
+              "text": "103)c",
+              "bbox": [
+                173,
+                427,
+                196,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "13.6 (n = 89)",
+          "bbox": [
+            237,
+            423,
+            348,
+            443
+          ],
+          "words": [
+            {
+              "text": "13.6",
+              "bbox": [
+                243,
+                427,
+                260,
+                438
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                263,
+                427,
+                271,
+                438
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                274,
+                427,
+                279,
+                438
+              ]
+            },
+            {
+              "text": "89)",
+              "bbox": [
+                282,
+                427,
+                295,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "28.5 (n = 8)",
+          "bbox": [
+            348,
+            423,
+            453,
+            443
+          ],
+          "words": [
+            {
+              "text": "28.5",
+              "bbox": [
+                400,
+                427,
+                417,
+                438
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                420,
+                427,
+                428,
+                438
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                431,
+                427,
+                436,
+                438
+              ]
+            },
+            {
+              "text": "8)",
+              "bbox": [
+                439,
+                427,
+                447,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "15.4 (n = 6)",
+          "bbox": [
+            453,
+            423,
+            517,
+            443
+          ],
+          "words": [
+            {
+              "text": "15.4",
+              "bbox": [
+                464,
+                427,
+                481,
+                438
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                484,
+                427,
+                492,
+                438
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                495,
+                427,
+                500,
+                438
+              ]
+            },
+            {
+              "text": "6)",
+              "bbox": [
+                503,
+                427,
+                511,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "—",
+          "bbox": [
+            517,
+            423,
+            580,
+            443
+          ],
+          "words": [
+            {
+              "text": "—",
+              "bbox": [
+                565,
+                427,
+                575,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Psychiatric",
+          "bbox": [
+            15,
+            443,
+            129,
+            463
+          ],
+          "words": [
+            {
+              "text": "Psychiatric",
+              "bbox": [
+                20,
+                447,
+                64,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "15.9 (n = 375)c",
+          "bbox": [
+            129,
+            443,
+            237,
+            463
+          ],
+          "words": [
+            {
+              "text": "15.9",
+              "bbox": [
+                134,
+                447,
+                152,
+                458
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                154,
+                447,
+                163,
+                458
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                165,
+                447,
+                171,
+                458
+              ]
+            },
+            {
+              "text": "375)c",
+              "bbox": [
+                173,
+                447,
+                196,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15.5 (n = 302)",
+          "bbox": [
+            237,
+            443,
+            348,
+            463
+          ],
+          "words": [
+            {
+              "text": "15.5",
+              "bbox": [
+                243,
+                447,
+                260,
+                458
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                263,
+                447,
+                271,
+                458
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                274,
+                447,
+                279,
+                458
+              ]
+            },
+            {
+              "text": "302)",
+              "bbox": [
+                282,
+                447,
+                300,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "17.9 (n = 53)",
+          "bbox": [
+            348,
+            443,
+            453,
+            463
+          ],
+          "words": [
+            {
+              "text": "17.9",
+              "bbox": [
+                395,
+                447,
+                412,
+                458
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                415,
+                447,
+                423,
+                458
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                426,
+                447,
+                431,
+                458
+              ]
+            },
+            {
+              "text": "53)",
+              "bbox": [
+                434,
+                447,
+                447,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "16.3 (n = 16)",
+          "bbox": [
+            453,
+            443,
+            517,
+            463
+          ],
+          "words": [
+            {
+              "text": "16.3",
+              "bbox": [
+                459,
+                447,
+                476,
+                458
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                479,
+                447,
+                487,
+                458
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                490,
+                447,
+                495,
+                458
+              ]
+            },
+            {
+              "text": "16)",
+              "bbox": [
+                498,
+                447,
+                511,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "34.3 (n = 1)",
+          "bbox": [
+            517,
+            443,
+            580,
+            463
+          ],
+          "words": [
+            {
+              "text": "34.3",
+              "bbox": [
+                528,
+                447,
+                545,
+                458
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                548,
+                447,
+                556,
+                458
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                559,
+                447,
+                564,
+                458
+              ]
+            },
+            {
+              "text": "1)",
+              "bbox": [
+                567,
+                447,
+                575,
+                458
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Neurologic",
+          "bbox": [
+            15,
+            463,
+            129,
+            483
+          ],
+          "words": [
+            {
+              "text": "Neurologic",
+              "bbox": [
+                20,
+                467,
+                65,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "17.2 (n = 248)c",
+          "bbox": [
+            129,
+            463,
+            237,
+            483
+          ],
+          "words": [
+            {
+              "text": "17.2",
+              "bbox": [
+                134,
+                467,
+                152,
+                478
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                154,
+                467,
+                163,
+                478
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                165,
+                467,
+                171,
+                478
+              ]
+            },
+            {
+              "text": "248)c",
+              "bbox": [
+                173,
+                467,
+                196,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "14.2 (n = 182)",
+          "bbox": [
+            237,
+            463,
+            348,
+            483
+          ],
+          "words": [
+            {
+              "text": "14.2",
+              "bbox": [
+                243,
+                467,
+                260,
+                478
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                263,
+                467,
+                271,
+                478
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                274,
+                467,
+                279,
+                478
+              ]
+            },
+            {
+              "text": "182)",
+              "bbox": [
+                282,
+                467,
+                300,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15.4 (n = 16)",
+          "bbox": [
+            348,
+            463,
+            453,
+            483
+          ],
+          "words": [
+            {
+              "text": "15.4",
+              "bbox": [
+                395,
+                467,
+                412,
+                478
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                415,
+                467,
+                423,
+                478
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                426,
+                467,
+                431,
+                478
+              ]
+            },
+            {
+              "text": "16)",
+              "bbox": [
+                434,
+                467,
+                447,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "19.4 (n = 36)",
+          "bbox": [
+            453,
+            463,
+            517,
+            483
+          ],
+          "words": [
+            {
+              "text": "19.4",
+              "bbox": [
+                459,
+                467,
+                476,
+                478
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                479,
+                467,
+                487,
+                478
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                490,
+                467,
+                495,
+                478
+              ]
+            },
+            {
+              "text": "36)",
+              "bbox": [
+                498,
+                467,
+                511,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "59.2 (n = 12)",
+          "bbox": [
+            517,
+            463,
+            580,
+            483
+          ],
+          "words": [
+            {
+              "text": "59.2",
+              "bbox": [
+                523,
+                467,
+                540,
+                478
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                543,
+                467,
+                551,
+                478
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                554,
+                467,
+                559,
+                478
+              ]
+            },
+            {
+              "text": "12)",
+              "bbox": [
+                562,
+                467,
+                575,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Others",
+          "bbox": [
+            15,
+            483,
+            129,
+            503
+          ],
+          "words": [
+            {
+              "text": "Others",
+              "bbox": [
+                20,
+                487,
+                47,
+                498
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "18.1 (n = 16)c",
+          "bbox": [
+            129,
+            483,
+            237,
+            503
+          ],
+          "words": [
+            {
+              "text": "18.1",
+              "bbox": [
+                134,
+                487,
+                152,
+                498
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                154,
+                487,
+                163,
+                498
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                165,
+                487,
+                171,
+                498
+              ]
+            },
+            {
+              "text": "16)c",
+              "bbox": [
+                173,
+                487,
+                191,
+                498
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "58.1 (n = 12)",
+          "bbox": [
+            237,
+            483,
+            348,
+            503
+          ],
+          "words": [
+            {
+              "text": "58.1",
+              "bbox": [
+                243,
+                487,
+                260,
+                498
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                263,
+                487,
+                271,
+                498
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                274,
+                487,
+                279,
+                498
+              ]
+            },
+            {
+              "text": "12)",
+              "bbox": [
+                282,
+                487,
+                295,
+                498
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20.3 (n = 2)",
+          "bbox": [
+            348,
+            483,
+            453,
+            503
+          ],
+          "words": [
+            {
+              "text": "20.3",
+              "bbox": [
+                400,
+                487,
+                417,
+                498
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                420,
+                487,
+                428,
+                498
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                431,
+                487,
+                436,
+                498
+              ]
+            },
+            {
+              "text": "2)",
+              "bbox": [
+                439,
+                487,
+                447,
+                498
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "22.7 (n = 1)",
+          "bbox": [
+            453,
+            483,
+            517,
+            503
+          ],
+          "words": [
+            {
+              "text": "22.7",
+              "bbox": [
+                464,
+                487,
+                481,
+                498
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                484,
+                487,
+                492,
+                498
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                495,
+                487,
+                500,
+                498
+              ]
+            },
+            {
+              "text": "1)",
+              "bbox": [
+                503,
+                487,
+                511,
+                498
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "41.3 (n = 1)",
+          "bbox": [
+            517,
+            483,
+            580,
+            503
+          ],
+          "words": [
+            {
+              "text": "41.3",
+              "bbox": [
+                528,
+                487,
+                545,
+                498
+              ]
+            },
+            {
+              "text": "(n",
+              "bbox": [
+                548,
+                487,
+                556,
+                498
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                559,
+                487,
+                564,
+                498
+              ]
+            },
+            {
+              "text": "1)",
+              "bbox": [
+                567,
+                487,
+                575,
+                498
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        518,
+        580,
+        687
+      ],
+      "content": "The data presented in the accompanying table provides a comprehensive overview of various metrics associated with the characterization of lignin samples in the context of their hydrolysis yields and protein-related activities. Notably, the \"Total protein (mg)\" and \"Specific activity (pmol.min-1.mg-1)\" columns illustrate the relationship between protein content and enzymatic efficiency, which is crucial for optimizing lignin extraction processes. The analysis indicates that fractions with higher total protein concentrations tend to exhibit enhanced specific activity, thereby suggesting a correlation between protein presence and the effectiveness of the hydrolysis reaction. Additionally, the \"72 h hydrolysis yield (%)\" metric is essential for assessing the efficiency of lignin conversion, with higher yields reflecting more effective processing conditions. This report emphasizes the importance of these parameters in the development of lignin-based applications and provides insights into how variations in particle size and hydrophobicity may influence the overall performance of lignin extracts in biotechnological contexts. Further investigation into these relationships will be necessary to optimize extraction methods and improve yield outcomes in future studies.",
+      "lines": [
+        {
+          "text": "The data presented in the accompanying table provides a comprehensive overview of various metrics associated with the",
+          "bbox": [
+            15,
+            519,
+            580,
+            531
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                519,
+                32,
+                531
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                37,
+                519,
+                55,
+                531
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                60,
+                519,
+                102,
+                531
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                107,
+                519,
+                116,
+                531
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                121,
+                519,
+                134,
+                531
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                139,
+                519,
+                203,
+                531
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                208,
+                519,
+                229,
+                531
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                234,
+                519,
+                272,
+                531
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                277,
+                519,
+                282,
+                531
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                286,
+                519,
+                353,
+                531
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                358,
+                519,
+                399,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                404,
+                519,
+                413,
+                531
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                418,
+                519,
+                450,
+                531
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                455,
+                519,
+                487,
+                531
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                492,
+                519,
+                537,
+                531
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                542,
+                519,
+                562,
+                531
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                519,
+                580,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "text": "characterization of lignin samples in the context of their hydrolysis yields and protein-related activities. Notably, the \"Total",
+          "bbox": [
+            15,
+            534,
+            580,
+            546
+          ],
+          "words": [
+            {
+              "text": "characterization",
+              "bbox": [
+                15,
+                534,
+                85,
+                546
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                89,
+                534,
+                99,
+                546
+              ]
+            },
+            {
+              "text": "lignin",
+              "bbox": [
+                103,
+                534,
+                129,
+                546
+              ]
+            },
+            {
+              "text": "samples",
+              "bbox": [
+                133,
+                534,
+                168,
+                546
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                172,
+                534,
+                181,
+                546
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                185,
+                534,
+                199,
+                546
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                203,
+                534,
+                235,
+                546
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                240,
+                534,
+                249,
+                546
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                253,
+                534,
+                273,
+                546
+              ]
+            },
+            {
+              "text": "hydrolysis",
+              "bbox": [
+                277,
+                534,
+                323,
+                546
+              ]
+            },
+            {
+              "text": "yields",
+              "bbox": [
+                327,
+                534,
+                354,
+                546
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                358,
+                534,
+                374,
+                546
+              ]
+            },
+            {
+              "text": "protein-related",
+              "bbox": [
+                378,
+                534,
+                443,
+                546
+              ]
+            },
+            {
+              "text": "activities.",
+              "bbox": [
+                447,
+                534,
+                489,
+                546
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                494,
+                534,
+                531,
+                546
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                535,
+                534,
+                549,
+                546
+              ]
+            },
+            {
+              "text": "\"Total",
+              "bbox": [
+                553,
+                534,
+                580,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "text": "protein (mg)\" and \"Specific activity (pmol.min-1.mg-1)\" columns illustrate the relationship between protein content and",
+          "bbox": [
+            15,
+            550,
+            580,
+            562
+          ],
+          "words": [
+            {
+              "text": "protein",
+              "bbox": [
+                15,
+                550,
+                46,
+                562
+              ]
+            },
+            {
+              "text": "(mg)\"",
+              "bbox": [
+                52,
+                550,
+                78,
+                562
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                83,
+                550,
+                99,
+                562
+              ]
+            },
+            {
+              "text": "\"Specific",
+              "bbox": [
+                105,
+                550,
+                145,
+                562
+              ]
+            },
+            {
+              "text": "activity",
+              "bbox": [
+                151,
+                550,
+                184,
+                562
+              ]
+            },
+            {
+              "text": "(pmol.min-1.mg-1)\"",
+              "bbox": [
+                189,
+                550,
+                279,
+                562
+              ]
+            },
+            {
+              "text": "columns",
+              "bbox": [
+                284,
+                550,
+                321,
+                562
+              ]
+            },
+            {
+              "text": "illustrate",
+              "bbox": [
+                327,
+                550,
+                365,
+                562
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                371,
+                550,
+                384,
+                562
+              ]
+            },
+            {
+              "text": "relationship",
+              "bbox": [
+                390,
+                550,
+                442,
+                562
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                447,
+                550,
+                484,
+                562
+              ]
+            },
+            {
+              "text": "protein",
+              "bbox": [
+                490,
+                550,
+                521,
+                562
+              ]
+            },
+            {
+              "text": "content",
+              "bbox": [
+                526,
+                550,
+                559,
+                562
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                550,
+                580,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "text": "enzymatic efficiency, which is crucial for optimizing lignin extraction processes. The analysis indicates that fractions with",
+          "bbox": [
+            15,
+            565,
+            580,
+            577
+          ],
+          "words": [
+            {
+              "text": "enzymatic",
+              "bbox": [
+                15,
+                565,
+                60,
+                577
+              ]
+            },
+            {
+              "text": "efficiency,",
+              "bbox": [
+                65,
+                565,
+                111,
+                577
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                115,
+                565,
+                142,
+                577
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                147,
+                565,
+                154,
+                577
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                159,
+                565,
+                189,
+                577
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                193,
+                565,
+                206,
+                577
+              ]
+            },
+            {
+              "text": "optimizing",
+              "bbox": [
+                211,
+                565,
+                258,
+                577
+              ]
+            },
+            {
+              "text": "lignin",
+              "bbox": [
+                263,
+                565,
+                288,
+                577
+              ]
+            },
+            {
+              "text": "extraction",
+              "bbox": [
+                293,
+                565,
+                337,
+                577
+              ]
+            },
+            {
+              "text": "processes.",
+              "bbox": [
+                342,
+                565,
+                387,
+                577
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                391,
+                565,
+                408,
+                577
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                413,
+                565,
+                448,
+                577
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                453,
+                565,
+                492,
+                577
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                496,
+                565,
+                513,
+                577
+              ]
+            },
+            {
+              "text": "fractions",
+              "bbox": [
+                517,
+                565,
+                556,
+                577
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                560,
+                565,
+                580,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "text": "higher total protein concentrations tend to exhibit enhanced specific activity, thereby suggesting a correlation between protein",
+          "bbox": [
+            15,
+            581,
+            580,
+            593
+          ],
+          "words": [
+            {
+              "text": "higher",
+              "bbox": [
+                15,
+                581,
+                43,
+                593
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                47,
+                581,
+                66,
+                593
+              ]
+            },
+            {
+              "text": "protein",
+              "bbox": [
+                70,
+                581,
+                101,
+                593
+              ]
+            },
+            {
+              "text": "concentrations",
+              "bbox": [
+                104,
+                581,
+                169,
+                593
+              ]
+            },
+            {
+              "text": "tend",
+              "bbox": [
+                172,
+                581,
+                191,
+                593
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                195,
+                581,
+                203,
+                593
+              ]
+            },
+            {
+              "text": "exhibit",
+              "bbox": [
+                207,
+                581,
+                237,
+                593
+              ]
+            },
+            {
+              "text": "enhanced",
+              "bbox": [
+                241,
+                581,
+                282,
+                593
+              ]
+            },
+            {
+              "text": "specific",
+              "bbox": [
+                286,
+                581,
+                320,
+                593
+              ]
+            },
+            {
+              "text": "activity,",
+              "bbox": [
+                323,
+                581,
+                358,
+                593
+              ]
+            },
+            {
+              "text": "thereby",
+              "bbox": [
+                362,
+                581,
+                395,
+                593
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                399,
+                581,
+                446,
+                593
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                449,
+                581,
+                454,
+                593
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                458,
+                581,
+                505,
+                593
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                509,
+                581,
+                545,
+                593
+              ]
+            },
+            {
+              "text": "protein",
+              "bbox": [
+                549,
+                581,
+                580,
+                593
+              ]
+            }
+          ]
+        },
+        {
+          "text": "presence and the effectiveness of the hydrolysis reaction. Additionally, the \"72 h hydrolysis yield (%)\" metric is essential for",
+          "bbox": [
+            15,
+            596,
+            580,
+            608
+          ],
+          "words": [
+            {
+              "text": "presence",
+              "bbox": [
+                15,
+                596,
+                53,
+                608
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                57,
+                596,
+                73,
+                608
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                77,
+                596,
+                90,
+                608
+              ]
+            },
+            {
+              "text": "effectiveness",
+              "bbox": [
+                94,
+                596,
+                151,
+                608
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                155,
+                596,
+                164,
+                608
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                168,
+                596,
+                181,
+                608
+              ]
+            },
+            {
+              "text": "hydrolysis",
+              "bbox": [
+                185,
+                596,
+                231,
+                608
+              ]
+            },
+            {
+              "text": "reaction.",
+              "bbox": [
+                234,
+                596,
+                273,
+                608
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                276,
+                596,
+                333,
+                608
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                337,
+                596,
+                351,
+                608
+              ]
+            },
+            {
+              "text": "\"72",
+              "bbox": [
+                354,
+                596,
+                370,
+                608
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                374,
+                596,
+                379,
+                608
+              ]
+            },
+            {
+              "text": "hydrolysis",
+              "bbox": [
+                383,
+                596,
+                429,
+                608
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                432,
+                596,
+                454,
+                608
+              ]
+            },
+            {
+              "text": "(%)\"",
+              "bbox": [
+                458,
+                596,
+                479,
+                608
+              ]
+            },
+            {
+              "text": "metric",
+              "bbox": [
+                483,
+                596,
+                511,
+                608
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                515,
+                596,
+                522,
+                608
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                526,
+                596,
+                563,
+                608
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                596,
+                580,
+                608
+              ]
+            }
+          ]
+        },
+        {
+          "text": "assessing the efficiency of lignin conversion, with higher yields reflecting more effective processing conditions. This report",
+          "bbox": [
+            15,
+            611,
+            580,
+            623
+          ],
+          "words": [
+            {
+              "text": "assessing",
+              "bbox": [
+                15,
+                611,
+                56,
+                623
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                60,
+                611,
+                74,
+                623
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                78,
+                611,
+                122,
+                623
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                126,
+                611,
+                135,
+                623
+              ]
+            },
+            {
+              "text": "lignin",
+              "bbox": [
+                139,
+                611,
+                165,
+                623
+              ]
+            },
+            {
+              "text": "conversion,",
+              "bbox": [
+                169,
+                611,
+                220,
+                623
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                224,
+                611,
+                244,
+                623
+              ]
+            },
+            {
+              "text": "higher",
+              "bbox": [
+                248,
+                611,
+                276,
+                623
+              ]
+            },
+            {
+              "text": "yields",
+              "bbox": [
+                280,
+                611,
+                306,
+                623
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                311,
+                611,
+                353,
+                623
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                357,
+                611,
+                380,
+                623
+              ]
+            },
+            {
+              "text": "effective",
+              "bbox": [
+                384,
+                611,
+                422,
+                623
+              ]
+            },
+            {
+              "text": "processing",
+              "bbox": [
+                426,
+                611,
+                473,
+                623
+              ]
+            },
+            {
+              "text": "conditions.",
+              "bbox": [
+                477,
+                611,
+                526,
+                623
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                530,
+                611,
+                550,
+                623
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                554,
+                611,
+                580,
+                623
+              ]
+            }
+          ]
+        },
+        {
+          "text": "emphasizes the importance of these parameters in the development of lignin-based applications and provides insights into how",
+          "bbox": [
+            15,
+            627,
+            580,
+            639
+          ],
+          "words": [
+            {
+              "text": "emphasizes",
+              "bbox": [
+                15,
+                627,
+                66,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                69,
+                627,
+                82,
+                639
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                86,
+                627,
+                135,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                138,
+                627,
+                148,
+                639
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                151,
+                627,
+                173,
+                639
+              ]
+            },
+            {
+              "text": "parameters",
+              "bbox": [
+                177,
+                627,
+                225,
+                639
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                228,
+                627,
+                237,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                240,
+                627,
+                253,
+                639
+              ]
+            },
+            {
+              "text": "development",
+              "bbox": [
+                257,
+                627,
+                313,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                317,
+                627,
+                326,
+                639
+              ]
+            },
+            {
+              "text": "lignin-based",
+              "bbox": [
+                329,
+                627,
+                383,
+                639
+              ]
+            },
+            {
+              "text": "applications",
+              "bbox": [
+                387,
+                627,
+                440,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                443,
+                627,
+                459,
+                639
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                462,
+                627,
+                500,
+                639
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                503,
+                627,
+                537,
+                639
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                541,
+                627,
+                558,
+                639
+              ]
+            },
+            {
+              "text": "how",
+              "bbox": [
+                561,
+                627,
+                580,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "text": "variations in particle size and hydrophobicity may influence the overall performance of lignin extracts in biotechnological",
+          "bbox": [
+            15,
+            642,
+            580,
+            654
+          ],
+          "words": [
+            {
+              "text": "variations",
+              "bbox": [
+                15,
+                642,
+                58,
+                654
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                63,
+                642,
+                72,
+                654
+              ]
+            },
+            {
+              "text": "particle",
+              "bbox": [
+                76,
+                642,
+                109,
+                654
+              ]
+            },
+            {
+              "text": "size",
+              "bbox": [
+                114,
+                642,
+                131,
+                654
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                136,
+                642,
+                151,
+                654
+              ]
+            },
+            {
+              "text": "hydrophobicity",
+              "bbox": [
+                156,
+                642,
+                223,
+                654
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                228,
+                642,
+                247,
+                654
+              ]
+            },
+            {
+              "text": "influence",
+              "bbox": [
+                252,
+                642,
+                292,
+                654
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                297,
+                642,
+                311,
+                654
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                315,
+                642,
+                346,
+                654
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                350,
+                642,
+                406,
+                654
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                411,
+                642,
+                420,
+                654
+              ]
+            },
+            {
+              "text": "lignin",
+              "bbox": [
+                424,
+                642,
+                450,
+                654
+              ]
+            },
+            {
+              "text": "extracts",
+              "bbox": [
+                455,
+                642,
+                489,
+                654
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                493,
+                642,
+                502,
+                654
+              ]
+            },
+            {
+              "text": "biotechnological",
+              "bbox": [
+                507,
+                642,
+                580,
+                654
+              ]
+            }
+          ]
+        },
+        {
+          "text": "contexts. Further investigation into these relationships will be necessary to optimize extraction methods and improve yield",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "contexts.",
+              "bbox": [
+                15,
+                658,
+                54,
+                670
+              ]
+            },
+            {
+              "text": "Further",
+              "bbox": [
+                59,
+                658,
+                91,
+                670
+              ]
+            },
+            {
+              "text": "investigation",
+              "bbox": [
+                96,
+                658,
+                153,
+                670
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                157,
+                658,
+                174,
+                670
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                179,
+                658,
+                201,
+                670
+              ]
+            },
+            {
+              "text": "relationships",
+              "bbox": [
+                206,
+                658,
+                262,
+                670
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                266,
+                658,
+                284,
+                670
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                288,
+                658,
+                298,
+                670
+              ]
+            },
+            {
+              "text": "necessary",
+              "bbox": [
+                303,
+                658,
+                346,
+                670
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                350,
+                658,
+                359,
+                670
+              ]
+            },
+            {
+              "text": "optimize",
+              "bbox": [
+                363,
+                658,
+                402,
+                670
+              ]
+            },
+            {
+              "text": "extraction",
+              "bbox": [
+                406,
+                658,
+                450,
+                670
+              ]
+            },
+            {
+              "text": "methods",
+              "bbox": [
+                455,
+                658,
+                492,
+                670
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                496,
+                658,
+                512,
+                670
+              ]
+            },
+            {
+              "text": "improve",
+              "bbox": [
+                517,
+                658,
+                554,
+                670
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                558,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "outcomes in future studies.",
+          "bbox": [
+            15,
+            673,
+            134,
+            685
+          ],
+          "words": [
+            {
+              "text": "outcomes",
+              "bbox": [
+                15,
+                673,
+                57,
+                685
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                60,
+                673,
+                68,
+                685
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                71,
+                673,
+                97,
+                685
+              ]
+            },
+            {
+              "text": "studies.",
+              "bbox": [
+                100,
+                673,
+                134,
+                685
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

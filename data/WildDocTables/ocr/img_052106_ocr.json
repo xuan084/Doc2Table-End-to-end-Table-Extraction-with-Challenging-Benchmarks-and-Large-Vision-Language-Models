@@ -1,0 +1,225 @@
+{
+  "image_id": "img_052106",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The analysis presented in the accompanying data table examines the structural characteristics of the IRIS dataset, particularly",
+      "bbox": [
+        15,
+        139,
+        580,
+        151
+      ]
+    },
+    {
+      "text": "focusing on the size of the dissimilarity matrix and the resulting submatrix configurations. The IRIS dataset, which comprises",
+      "bbox": [
+        15,
+        154,
+        580,
+        166
+      ]
+    },
+    {
+      "text": "150 samples, serves as a foundational example for understanding multidimensional data organization.",
+      "bbox": [
+        15,
+        170,
+        462,
+        182
+      ]
+    },
+    {
+      "text": "(%)  N = 100  N = 50  N = 20  N = 10  N = 4",
+      "bbox": [
+        15,
+        257,
+        580,
+        278
+      ]
+    },
+    {
+      "text": "1  1  1.5  1  1  0",
+      "bbox": [
+        15,
+        278,
+        580,
+        298
+      ]
+    },
+    {
+      "text": "5  4.5  4.9  4.4  4.6  0.5",
+      "bbox": [
+        15,
+        298,
+        580,
+        318
+      ]
+    },
+    {
+      "text": "10  8.5  10.5  9  9.7  2.5",
+      "bbox": [
+        15,
+        318,
+        580,
+        338
+      ]
+    },
+    {
+      "text": "25  25.5  25  23.1  24.9  10.2",
+      "bbox": [
+        15,
+        338,
+        580,
+        358
+      ]
+    },
+    {
+      "text": "50  49.8  50.2  49.4  52.5  38.7",
+      "bbox": [
+        15,
+        358,
+        580,
+        378
+      ]
+    },
+    {
+      "text": "75  74.9  73.5  75.7  76.5  69.2",
+      "bbox": [
+        15,
+        378,
+        580,
+        398
+      ]
+    },
+    {
+      "text": "Dataset  Size of Dissimilarity Matrix  No. of Submatrices(p)  No. of Samplesin Each Submatrix (s)",
+      "bbox": [
+        15,
+        455,
+        580,
+        476
+      ]
+    },
+    {
+      "text": "IRIS  150 × 150  3  20",
+      "bbox": [
+        15,
+        476,
+        580,
+        496
+      ]
+    },
+    {
+      "text": "Dermatology  366 × 366  3  60",
+      "bbox": [
+        15,
+        496,
+        580,
+        516
+      ]
+    },
+    {
+      "text": "M. musculus Microarray  2,000 × 2,000  10  100",
+      "bbox": [
+        15,
+        516,
+        580,
+        536
+      ]
+    },
+    {
+      "text": "S. cerevisiae Microarray  9,300 × 9,300  10  150",
+      "bbox": [
+        15,
+        536,
+        580,
+        556
+      ]
+    },
+    {
+      "text": "MNIST  10,000 × 10,000  10  150",
+      "bbox": [
+        15,
+        556,
+        580,
+        577
+      ]
+    },
+    {
+      "text": "The table delineates various metrics, including the \"Size of Dissimilarity Matrix,\" which is quantified as 150 × 150, indicating a",
+      "bbox": [
+        15,
+        643,
+        580,
+        655
+      ]
+    },
+    {
+      "text": "comprehensive representation of pairwise distances among the samples. Additionally, the table provides insights into the \"No.",
+      "bbox": [
+        15,
+        659,
+        580,
+        671
+      ]
+    },
+    {
+      "text": "of Submatrices (p)\" generated from this dataset, revealing that three distinct submatrices are derived. This partitioning is",
+      "bbox": [
+        15,
+        674,
+        580,
+        686
+      ]
+    },
+    {
+      "text": "significant as it allows for a more nuanced analysis of the data, facilitating comparisons across varying sample sizes, noted in",
+      "bbox": [
+        15,
+        689,
+        580,
+        701
+      ]
+    },
+    {
+      "text": "the columns labeled \"N = 100,\" \"N = 50,\" \"N = 20,\" \"N = 10,\" and \"N = 4.\" Such metrics are crucial for researchers aiming to",
+      "bbox": [
+        15,
+        705,
+        580,
+        717
+      ]
+    },
+    {
+      "text": "apply clustering or classification techniques, as they highlight the scalability and adaptability of the dataset in addressing",
+      "bbox": [
+        15,
+        720,
+        580,
+        732
+      ]
+    },
+    {
+      "text": "diverse analytical objectives. Overall, this contextual framework establishes a foundation for further exploration of the IRIS",
+      "bbox": [
+        15,
+        736,
+        580,
+        748
+      ]
+    },
+    {
+      "text": "dataset's properties and implications in data analysis.",
+      "bbox": [
+        15,
+        751,
+        248,
+        763
+      ]
+    }
+  ]
+}

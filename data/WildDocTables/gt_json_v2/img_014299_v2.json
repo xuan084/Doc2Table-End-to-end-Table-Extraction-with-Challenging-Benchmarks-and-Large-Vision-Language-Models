@@ -1,0 +1,5260 @@
+{
+  "image_id": "img_014299",
+  "subset": "S1",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_014299_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        339
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            66,
+            580,
+            87
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            87,
+            580,
+            108
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            108,
+            580,
+            129
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            129,
+            580,
+            150
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            150,
+            580,
+            171
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            171,
+            580,
+            192
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            192,
+            580,
+            213
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            16,
+            213,
+            580,
+            234
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            16,
+            234,
+            580,
+            255
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 9,
+          "bbox": [
+            16,
+            255,
+            580,
+            276
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 10,
+          "bbox": [
+            16,
+            276,
+            580,
+            297
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 11,
+          "bbox": [
+            16,
+            297,
+            580,
+            318
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 12,
+          "bbox": [
+            16,
+            318,
+            580,
+            339
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Models</td><td>Variables</td><td>B</td><td>SE</td><td>Wald</td><td>Sig.</td><td>Odds Ratio</td><td>Low CI</td><td>High CI</td></tr><tr><td rowspan=\"6\">Model 1</td><td>Constant</td><td>−4.30</td><td>0.74</td><td>33.31</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.06</td></tr><tr><td>Age Time 1</td><td>0.04</td><td>0.01</td><td>18.62</td><td>0.00</td><td>1.05</td><td>1.02</td><td>1.06</td></tr><tr><td>Gender Time 1</td><td>0.07</td><td>0.22</td><td>0.11</td><td>0.74</td><td>1.08</td><td>0.70</td><td>1.65</td></tr><tr><td>Education Time 1</td><td>−0.13</td><td>0.06</td><td>5.25</td><td>0.02</td><td>0.88</td><td>0.78</td><td>0.99</td></tr><tr><td>Income Time 1</td><td>0.08</td><td>0.05</td><td>2.45</td><td>0.12</td><td>1.09</td><td>0.98</td><td>1.19</td></tr><tr><td>Psychosocial Safety Climate Time 1</td><td>−0.02</td><td>0.01</td><td>4.22</td><td>0.04</td><td>0.98</td><td>0.96</td><td>1.00</td></tr><tr><td rowspan=\"6\">Model 2</td><td>Constant</td><td>−3.08</td><td>0.98</td><td>9.81</td><td>0.00</td><td>0.05</td><td>0.01</td><td>0.31</td></tr><tr><td>Age Time 1</td><td>0.04</td><td>0.01</td><td>12.99</td><td>0.00</td><td>1.04</td><td>1.02</td><td>1.06</td></tr><tr><td>Education Time 1</td><td>−0.13</td><td>0.06</td><td>4.84</td><td>0.03</td><td>0.87</td><td>0.78</td><td>0.99</td></tr><tr><td>Effort-Reward Imbalance Time 1</td><td>0.51</td><td>0.47</td><td>1.18</td><td>0.28</td><td>1.66</td><td>0.66</td><td>4.18</td></tr><tr><td>JCQ Job Strain Time 1</td><td>−0.47</td><td>0.45</td><td>1.08</td><td>0.30</td><td>0.62</td><td>0.26</td><td>1.51</td></tr><tr><td>Psychosocial Safety Climate Time 1</td><td>−0.02</td><td>0.01</td><td>4.34</td><td>0.04</td><td>0.98</td><td>0.96</td><td>1.00</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Models",
+          "bbox": [
+            16,
+            66,
+            197,
+            87
+          ],
+          "words": [
+            {
+              "text": "Models",
+              "bbox": [
+                21,
+                70,
+                52,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Variables",
+          "bbox": [
+            197,
+            66,
+            256,
+            87
+          ],
+          "words": [
+            {
+              "text": "Variables",
+              "bbox": [
+                202,
+                70,
+                242,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "B",
+          "bbox": [
+            256,
+            66,
+            296,
+            87
+          ],
+          "words": [
+            {
+              "text": "B",
+              "bbox": [
+                261,
+                70,
+                268,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "SE",
+          "bbox": [
+            296,
+            66,
+            334,
+            87
+          ],
+          "words": [
+            {
+              "text": "SE",
+              "bbox": [
+                301,
+                70,
+                313,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Wald",
+          "bbox": [
+            334,
+            66,
+            374,
+            87
+          ],
+          "words": [
+            {
+              "text": "Wald",
+              "bbox": [
+                345,
+                70,
+                368,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Sig.",
+          "bbox": [
+            374,
+            66,
+            407,
+            87
+          ],
+          "words": [
+            {
+              "text": "Sig.",
+              "bbox": [
+                385,
+                70,
+                401,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Odds Ratio",
+          "bbox": [
+            407,
+            66,
+            476,
+            87
+          ],
+          "words": [
+            {
+              "text": "Odds",
+              "bbox": [
+                422,
+                70,
+                445,
+                81
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                447,
+                70,
+                470,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Low CI",
+          "bbox": [
+            476,
+            66,
+            526,
+            87
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                488,
+                70,
+                507,
+                81
+              ]
+            },
+            {
+              "text": "CI",
+              "bbox": [
+                510,
+                70,
+                521,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "High CI",
+          "bbox": [
+            526,
+            66,
+            580,
+            87
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                539,
+                70,
+                560,
+                81
+              ]
+            },
+            {
+              "text": "CI",
+              "bbox": [
+                563,
+                70,
+                574,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Model 1",
+          "bbox": [
+            16,
+            87,
+            197,
+            108
+          ],
+          "words": [
+            {
+              "text": "Model",
+              "bbox": [
+                21,
+                91,
+                47,
+                102
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                50,
+                91,
+                55,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Constant",
+          "bbox": [
+            197,
+            87,
+            256,
+            108
+          ],
+          "words": [
+            {
+              "text": "Constant",
+              "bbox": [
+                202,
+                91,
+                238,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−4.30",
+          "bbox": [
+            256,
+            87,
+            296,
+            108
+          ],
+          "words": [
+            {
+              "text": "−4.30",
+              "bbox": [
+                261,
+                91,
+                285,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.74",
+          "bbox": [
+            296,
+            87,
+            334,
+            108
+          ],
+          "words": [
+            {
+              "text": "0.74",
+              "bbox": [
+                301,
+                91,
+                319,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "33.31",
+          "bbox": [
+            334,
+            87,
+            374,
+            108
+          ],
+          "words": [
+            {
+              "text": "33.31",
+              "bbox": [
+                346,
+                91,
+                368,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.00",
+          "bbox": [
+            374,
+            87,
+            407,
+            108
+          ],
+          "words": [
+            {
+              "text": "0.00",
+              "bbox": [
+                384,
+                91,
+                401,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.01",
+          "bbox": [
+            407,
+            87,
+            476,
+            108
+          ],
+          "words": [
+            {
+              "text": "0.01",
+              "bbox": [
+                453,
+                91,
+                470,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.00",
+          "bbox": [
+            476,
+            87,
+            526,
+            108
+          ],
+          "words": [
+            {
+              "text": "0.00",
+              "bbox": [
+                503,
+                91,
+                521,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.06",
+          "bbox": [
+            526,
+            87,
+            580,
+            108
+          ],
+          "words": [
+            {
+              "text": "0.06",
+              "bbox": [
+                557,
+                91,
+                574,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Age Time 1",
+          "bbox": [
+            16,
+            108,
+            197,
+            129
+          ],
+          "words": [
+            {
+              "text": "Age",
+              "bbox": [
+                21,
+                112,
+                38,
+                123
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                40,
+                112,
+                61,
+                123
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                63,
+                112,
+                68,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.04",
+          "bbox": [
+            197,
+            108,
+            256,
+            129
+          ],
+          "words": [
+            {
+              "text": "0.04",
+              "bbox": [
+                202,
+                112,
+                220,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.01",
+          "bbox": [
+            256,
+            108,
+            296,
+            129
+          ],
+          "words": [
+            {
+              "text": "0.01",
+              "bbox": [
+                261,
+                112,
+                279,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "18.62",
+          "bbox": [
+            296,
+            108,
+            334,
+            129
+          ],
+          "words": [
+            {
+              "text": "18.62",
+              "bbox": [
+                301,
+                112,
+                324,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.00",
+          "bbox": [
+            334,
+            108,
+            374,
+            129
+          ],
+          "words": [
+            {
+              "text": "0.00",
+              "bbox": [
+                351,
+                112,
+                368,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.05",
+          "bbox": [
+            374,
+            108,
+            407,
+            129
+          ],
+          "words": [
+            {
+              "text": "1.05",
+              "bbox": [
+                384,
+                112,
+                401,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1.02",
+          "bbox": [
+            407,
+            108,
+            476,
+            129
+          ],
+          "words": [
+            {
+              "text": "1.02",
+              "bbox": [
+                453,
+                112,
+                470,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.06",
+          "bbox": [
+            476,
+            108,
+            526,
+            129
+          ],
+          "words": [
+            {
+              "text": "1.06",
+              "bbox": [
+                503,
+                112,
+                521,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Gender Time 1",
+          "bbox": [
+            16,
+            129,
+            197,
+            150
+          ],
+          "words": [
+            {
+              "text": "Gender",
+              "bbox": [
+                21,
+                133,
+                50,
+                144
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                53,
+                133,
+                74,
+                144
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                76,
+                133,
+                81,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.07",
+          "bbox": [
+            197,
+            129,
+            256,
+            150
+          ],
+          "words": [
+            {
+              "text": "0.07",
+              "bbox": [
+                202,
+                133,
+                220,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.22",
+          "bbox": [
+            256,
+            129,
+            296,
+            150
+          ],
+          "words": [
+            {
+              "text": "0.22",
+              "bbox": [
+                261,
+                133,
+                279,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.11",
+          "bbox": [
+            296,
+            129,
+            334,
+            150
+          ],
+          "words": [
+            {
+              "text": "0.11",
+              "bbox": [
+                301,
+                133,
+                318,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.74",
+          "bbox": [
+            334,
+            129,
+            374,
+            150
+          ],
+          "words": [
+            {
+              "text": "0.74",
+              "bbox": [
+                351,
+                133,
+                368,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.08",
+          "bbox": [
+            374,
+            129,
+            407,
+            150
+          ],
+          "words": [
+            {
+              "text": "1.08",
+              "bbox": [
+                384,
+                133,
+                401,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.70",
+          "bbox": [
+            407,
+            129,
+            476,
+            150
+          ],
+          "words": [
+            {
+              "text": "0.70",
+              "bbox": [
+                453,
+                133,
+                470,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.65",
+          "bbox": [
+            476,
+            129,
+            526,
+            150
+          ],
+          "words": [
+            {
+              "text": "1.65",
+              "bbox": [
+                503,
+                133,
+                521,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Education Time 1",
+          "bbox": [
+            16,
+            150,
+            197,
+            171
+          ],
+          "words": [
+            {
+              "text": "Education",
+              "bbox": [
+                21,
+                154,
+                62,
+                165
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                64,
+                154,
+                85,
+                165
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                87,
+                154,
+                92,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.13",
+          "bbox": [
+            197,
+            150,
+            256,
+            171
+          ],
+          "words": [
+            {
+              "text": "−0.13",
+              "bbox": [
+                202,
+                154,
+                225,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.06",
+          "bbox": [
+            256,
+            150,
+            296,
+            171
+          ],
+          "words": [
+            {
+              "text": "0.06",
+              "bbox": [
+                261,
+                154,
+                279,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5.25",
+          "bbox": [
+            296,
+            150,
+            334,
+            171
+          ],
+          "words": [
+            {
+              "text": "5.25",
+              "bbox": [
+                301,
+                154,
+                319,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.02",
+          "bbox": [
+            334,
+            150,
+            374,
+            171
+          ],
+          "words": [
+            {
+              "text": "0.02",
+              "bbox": [
+                351,
+                154,
+                368,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.88",
+          "bbox": [
+            374,
+            150,
+            407,
+            171
+          ],
+          "words": [
+            {
+              "text": "0.88",
+              "bbox": [
+                384,
+                154,
+                401,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.78",
+          "bbox": [
+            407,
+            150,
+            476,
+            171
+          ],
+          "words": [
+            {
+              "text": "0.78",
+              "bbox": [
+                453,
+                154,
+                470,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.99",
+          "bbox": [
+            476,
+            150,
+            526,
+            171
+          ],
+          "words": [
+            {
+              "text": "0.99",
+              "bbox": [
+                503,
+                154,
+                521,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Income Time 1",
+          "bbox": [
+            16,
+            171,
+            197,
+            192
+          ],
+          "words": [
+            {
+              "text": "Income",
+              "bbox": [
+                21,
+                175,
+                51,
+                186
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                53,
+                175,
+                74,
+                186
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                77,
+                175,
+                82,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.08",
+          "bbox": [
+            197,
+            171,
+            256,
+            192
+          ],
+          "words": [
+            {
+              "text": "0.08",
+              "bbox": [
+                202,
+                175,
+                220,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.05",
+          "bbox": [
+            256,
+            171,
+            296,
+            192
+          ],
+          "words": [
+            {
+              "text": "0.05",
+              "bbox": [
+                261,
+                175,
+                279,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2.45",
+          "bbox": [
+            296,
+            171,
+            334,
+            192
+          ],
+          "words": [
+            {
+              "text": "2.45",
+              "bbox": [
+                301,
+                175,
+                319,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.12",
+          "bbox": [
+            334,
+            171,
+            374,
+            192
+          ],
+          "words": [
+            {
+              "text": "0.12",
+              "bbox": [
+                351,
+                175,
+                368,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.09",
+          "bbox": [
+            374,
+            171,
+            407,
+            192
+          ],
+          "words": [
+            {
+              "text": "1.09",
+              "bbox": [
+                384,
+                175,
+                401,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.98",
+          "bbox": [
+            407,
+            171,
+            476,
+            192
+          ],
+          "words": [
+            {
+              "text": "0.98",
+              "bbox": [
+                453,
+                175,
+                470,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.19",
+          "bbox": [
+            476,
+            171,
+            526,
+            192
+          ],
+          "words": [
+            {
+              "text": "1.19",
+              "bbox": [
+                503,
+                175,
+                521,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Psychosocial Safety Climate Time 1",
+          "bbox": [
+            16,
+            192,
+            197,
+            213
+          ],
+          "words": [
+            {
+              "text": "Psychosocial",
+              "bbox": [
+                21,
+                196,
+                73,
+                207
+              ]
+            },
+            {
+              "text": "Safety",
+              "bbox": [
+                76,
+                196,
+                101,
+                207
+              ]
+            },
+            {
+              "text": "Climate",
+              "bbox": [
+                104,
+                196,
+                135,
+                207
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                138,
+                196,
+                159,
+                207
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                161,
+                196,
+                166,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.02",
+          "bbox": [
+            197,
+            192,
+            256,
+            213
+          ],
+          "words": [
+            {
+              "text": "−0.02",
+              "bbox": [
+                202,
+                196,
+                225,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.01",
+          "bbox": [
+            256,
+            192,
+            296,
+            213
+          ],
+          "words": [
+            {
+              "text": "0.01",
+              "bbox": [
+                261,
+                196,
+                279,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4.22",
+          "bbox": [
+            296,
+            192,
+            334,
+            213
+          ],
+          "words": [
+            {
+              "text": "4.22",
+              "bbox": [
+                301,
+                196,
+                319,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.04",
+          "bbox": [
+            334,
+            192,
+            374,
+            213
+          ],
+          "words": [
+            {
+              "text": "0.04",
+              "bbox": [
+                351,
+                196,
+                368,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.98",
+          "bbox": [
+            374,
+            192,
+            407,
+            213
+          ],
+          "words": [
+            {
+              "text": "0.98",
+              "bbox": [
+                384,
+                196,
+                401,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.96",
+          "bbox": [
+            407,
+            192,
+            476,
+            213
+          ],
+          "words": [
+            {
+              "text": "0.96",
+              "bbox": [
+                453,
+                196,
+                470,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.00",
+          "bbox": [
+            476,
+            192,
+            526,
+            213
+          ],
+          "words": [
+            {
+              "text": "1.00",
+              "bbox": [
+                503,
+                196,
+                521,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Model 2",
+          "bbox": [
+            16,
+            213,
+            197,
+            234
+          ],
+          "words": [
+            {
+              "text": "Model",
+              "bbox": [
+                21,
+                217,
+                47,
+                228
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                50,
+                217,
+                55,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Constant",
+          "bbox": [
+            197,
+            213,
+            256,
+            234
+          ],
+          "words": [
+            {
+              "text": "Constant",
+              "bbox": [
+                202,
+                217,
+                238,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−3.08",
+          "bbox": [
+            256,
+            213,
+            296,
+            234
+          ],
+          "words": [
+            {
+              "text": "−3.08",
+              "bbox": [
+                261,
+                217,
+                285,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.98",
+          "bbox": [
+            296,
+            213,
+            334,
+            234
+          ],
+          "words": [
+            {
+              "text": "0.98",
+              "bbox": [
+                301,
+                217,
+                319,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "9.81",
+          "bbox": [
+            334,
+            213,
+            374,
+            234
+          ],
+          "words": [
+            {
+              "text": "9.81",
+              "bbox": [
+                351,
+                217,
+                368,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.00",
+          "bbox": [
+            374,
+            213,
+            407,
+            234
+          ],
+          "words": [
+            {
+              "text": "0.00",
+              "bbox": [
+                384,
+                217,
+                401,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.05",
+          "bbox": [
+            407,
+            213,
+            476,
+            234
+          ],
+          "words": [
+            {
+              "text": "0.05",
+              "bbox": [
+                453,
+                217,
+                470,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.01",
+          "bbox": [
+            476,
+            213,
+            526,
+            234
+          ],
+          "words": [
+            {
+              "text": "0.01",
+              "bbox": [
+                503,
+                217,
+                521,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.31",
+          "bbox": [
+            526,
+            213,
+            580,
+            234
+          ],
+          "words": [
+            {
+              "text": "0.31",
+              "bbox": [
+                557,
+                217,
+                574,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Age Time 1",
+          "bbox": [
+            16,
+            234,
+            197,
+            255
+          ],
+          "words": [
+            {
+              "text": "Age",
+              "bbox": [
+                21,
+                238,
+                38,
+                249
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                40,
+                238,
+                61,
+                249
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                63,
+                238,
+                68,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.04",
+          "bbox": [
+            197,
+            234,
+            256,
+            255
+          ],
+          "words": [
+            {
+              "text": "0.04",
+              "bbox": [
+                202,
+                238,
+                220,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.01",
+          "bbox": [
+            256,
+            234,
+            296,
+            255
+          ],
+          "words": [
+            {
+              "text": "0.01",
+              "bbox": [
+                261,
+                238,
+                279,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "12.99",
+          "bbox": [
+            296,
+            234,
+            334,
+            255
+          ],
+          "words": [
+            {
+              "text": "12.99",
+              "bbox": [
+                301,
+                238,
+                324,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 71,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.00",
+          "bbox": [
+            334,
+            234,
+            374,
+            255
+          ],
+          "words": [
+            {
+              "text": "0.00",
+              "bbox": [
+                351,
+                238,
+                368,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 72,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.04",
+          "bbox": [
+            374,
+            234,
+            407,
+            255
+          ],
+          "words": [
+            {
+              "text": "1.04",
+              "bbox": [
+                384,
+                238,
+                401,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 73,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1.02",
+          "bbox": [
+            407,
+            234,
+            476,
+            255
+          ],
+          "words": [
+            {
+              "text": "1.02",
+              "bbox": [
+                453,
+                238,
+                470,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 74,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.06",
+          "bbox": [
+            476,
+            234,
+            526,
+            255
+          ],
+          "words": [
+            {
+              "text": "1.06",
+              "bbox": [
+                503,
+                238,
+                521,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 75,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Education Time 1",
+          "bbox": [
+            16,
+            255,
+            197,
+            276
+          ],
+          "words": [
+            {
+              "text": "Education",
+              "bbox": [
+                21,
+                259,
+                62,
+                270
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                64,
+                259,
+                85,
+                270
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                87,
+                259,
+                92,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 76,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.13",
+          "bbox": [
+            197,
+            255,
+            256,
+            276
+          ],
+          "words": [
+            {
+              "text": "−0.13",
+              "bbox": [
+                202,
+                259,
+                225,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 77,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.06",
+          "bbox": [
+            256,
+            255,
+            296,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.06",
+              "bbox": [
+                261,
+                259,
+                279,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 78,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4.84",
+          "bbox": [
+            296,
+            255,
+            334,
+            276
+          ],
+          "words": [
+            {
+              "text": "4.84",
+              "bbox": [
+                301,
+                259,
+                319,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 79,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.03",
+          "bbox": [
+            334,
+            255,
+            374,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.03",
+              "bbox": [
+                351,
+                259,
+                368,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 80,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.87",
+          "bbox": [
+            374,
+            255,
+            407,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.87",
+              "bbox": [
+                384,
+                259,
+                401,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 81,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.78",
+          "bbox": [
+            407,
+            255,
+            476,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.78",
+              "bbox": [
+                453,
+                259,
+                470,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 82,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.99",
+          "bbox": [
+            476,
+            255,
+            526,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.99",
+              "bbox": [
+                503,
+                259,
+                521,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 83,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Effort-Reward Imbalance Time 1",
+          "bbox": [
+            16,
+            276,
+            197,
+            297
+          ],
+          "words": [
+            {
+              "text": "Effort-Reward",
+              "bbox": [
+                21,
+                280,
+                79,
+                291
+              ]
+            },
+            {
+              "text": "Imbalance",
+              "bbox": [
+                82,
+                280,
+                123,
+                291
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                126,
+                280,
+                146,
+                291
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                149,
+                280,
+                154,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 84,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.51",
+          "bbox": [
+            197,
+            276,
+            256,
+            297
+          ],
+          "words": [
+            {
+              "text": "0.51",
+              "bbox": [
+                202,
+                280,
+                220,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 85,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.47",
+          "bbox": [
+            256,
+            276,
+            296,
+            297
+          ],
+          "words": [
+            {
+              "text": "0.47",
+              "bbox": [
+                261,
+                280,
+                279,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 86,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.18",
+          "bbox": [
+            296,
+            276,
+            334,
+            297
+          ],
+          "words": [
+            {
+              "text": "1.18",
+              "bbox": [
+                301,
+                280,
+                319,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 87,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.28",
+          "bbox": [
+            334,
+            276,
+            374,
+            297
+          ],
+          "words": [
+            {
+              "text": "0.28",
+              "bbox": [
+                351,
+                280,
+                368,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 88,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.66",
+          "bbox": [
+            374,
+            276,
+            407,
+            297
+          ],
+          "words": [
+            {
+              "text": "1.66",
+              "bbox": [
+                384,
+                280,
+                401,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 89,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.66",
+          "bbox": [
+            407,
+            276,
+            476,
+            297
+          ],
+          "words": [
+            {
+              "text": "0.66",
+              "bbox": [
+                453,
+                280,
+                470,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 90,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "4.18",
+          "bbox": [
+            476,
+            276,
+            526,
+            297
+          ],
+          "words": [
+            {
+              "text": "4.18",
+              "bbox": [
+                503,
+                280,
+                521,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 91,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "JCQ Job Strain Time 1",
+          "bbox": [
+            16,
+            297,
+            197,
+            318
+          ],
+          "words": [
+            {
+              "text": "JCQ",
+              "bbox": [
+                21,
+                301,
+                39,
+                312
+              ]
+            },
+            {
+              "text": "Job",
+              "bbox": [
+                41,
+                301,
+                55,
+                312
+              ]
+            },
+            {
+              "text": "Strain",
+              "bbox": [
+                58,
+                301,
+                82,
+                312
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                84,
+                301,
+                105,
+                312
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                107,
+                301,
+                112,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 92,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.47",
+          "bbox": [
+            197,
+            297,
+            256,
+            318
+          ],
+          "words": [
+            {
+              "text": "−0.47",
+              "bbox": [
+                202,
+                301,
+                225,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 93,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.45",
+          "bbox": [
+            256,
+            297,
+            296,
+            318
+          ],
+          "words": [
+            {
+              "text": "0.45",
+              "bbox": [
+                261,
+                301,
+                279,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 94,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.08",
+          "bbox": [
+            296,
+            297,
+            334,
+            318
+          ],
+          "words": [
+            {
+              "text": "1.08",
+              "bbox": [
+                301,
+                301,
+                319,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 95,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.30",
+          "bbox": [
+            334,
+            297,
+            374,
+            318
+          ],
+          "words": [
+            {
+              "text": "0.30",
+              "bbox": [
+                351,
+                301,
+                368,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 96,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.62",
+          "bbox": [
+            374,
+            297,
+            407,
+            318
+          ],
+          "words": [
+            {
+              "text": "0.62",
+              "bbox": [
+                384,
+                301,
+                401,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 97,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.26",
+          "bbox": [
+            407,
+            297,
+            476,
+            318
+          ],
+          "words": [
+            {
+              "text": "0.26",
+              "bbox": [
+                453,
+                301,
+                470,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 98,
+          "row_nums": [
+            11
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.51",
+          "bbox": [
+            476,
+            297,
+            526,
+            318
+          ],
+          "words": [
+            {
+              "text": "1.51",
+              "bbox": [
+                503,
+                301,
+                521,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 99,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Psychosocial Safety Climate Time 1",
+          "bbox": [
+            16,
+            318,
+            197,
+            339
+          ],
+          "words": [
+            {
+              "text": "Psychosocial",
+              "bbox": [
+                21,
+                322,
+                73,
+                333
+              ]
+            },
+            {
+              "text": "Safety",
+              "bbox": [
+                76,
+                322,
+                101,
+                333
+              ]
+            },
+            {
+              "text": "Climate",
+              "bbox": [
+                104,
+                322,
+                135,
+                333
+              ]
+            },
+            {
+              "text": "Time",
+              "bbox": [
+                138,
+                322,
+                159,
+                333
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                161,
+                322,
+                166,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 100,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "−0.02",
+          "bbox": [
+            197,
+            318,
+            256,
+            339
+          ],
+          "words": [
+            {
+              "text": "−0.02",
+              "bbox": [
+                202,
+                322,
+                225,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 101,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.01",
+          "bbox": [
+            256,
+            318,
+            296,
+            339
+          ],
+          "words": [
+            {
+              "text": "0.01",
+              "bbox": [
+                261,
+                322,
+                279,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 102,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4.34",
+          "bbox": [
+            296,
+            318,
+            334,
+            339
+          ],
+          "words": [
+            {
+              "text": "4.34",
+              "bbox": [
+                301,
+                322,
+                319,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 103,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.04",
+          "bbox": [
+            334,
+            318,
+            374,
+            339
+          ],
+          "words": [
+            {
+              "text": "0.04",
+              "bbox": [
+                351,
+                322,
+                368,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 104,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.98",
+          "bbox": [
+            374,
+            318,
+            407,
+            339
+          ],
+          "words": [
+            {
+              "text": "0.98",
+              "bbox": [
+                384,
+                322,
+                401,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 105,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.96",
+          "bbox": [
+            407,
+            318,
+            476,
+            339
+          ],
+          "words": [
+            {
+              "text": "0.96",
+              "bbox": [
+                453,
+                322,
+                470,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 106,
+          "row_nums": [
+            12
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.00",
+          "bbox": [
+            476,
+            318,
+            526,
+            339
+          ],
+          "words": [
+            {
+              "text": "1.00",
+              "bbox": [
+                503,
+                322,
+                521,
+                333
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        354,
+        580,
+        508
+      ],
+      "content": "In the evaluation of the predictive capabilities of various models, the data presented in Table 1 offers a comprehensive overview of Model 1, which elucidates the relationship between the independent variables and the dependent outcome. Notably, the constant for this model is recorded at −4.30, indicating a significant baseline effect on the probability of the outcome occurring. The standard error (SE) associated with this estimate is 0.74, which provides insight into the precision of the constant estimate. The Wald statistic, with a value of 33.31, further underscores the significance of this parameter within the model, hinting at the robustness of the findings. Additionally, the odds ratio associated with the predictive variables will be critical for interpreting the practical implications of these results, particularly in understanding how changes in the variables influence the likelihood of the outcome. The confidence intervals (Low CI and High CI) offer further context by indicating the range within which the true odds ratio is expected to lie, thereby enhancing the interpretability of the results. Collectively, these metrics facilitate a deeper understanding of Model 1’s efficacy in predicting outcomes based on the specified variables.",
+      "lines": [
+        {
+          "text": "In the evaluation of the predictive capabilities of various models, the data presented in Table 1 offers a comprehensive overview",
+          "bbox": [
+            15,
+            355,
+            580,
+            367
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                355,
+                24,
+                367
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                27,
+                355,
+                40,
+                367
+              ]
+            },
+            {
+              "text": "evaluation",
+              "bbox": [
+                43,
+                355,
+                89,
+                367
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                92,
+                355,
+                101,
+                367
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                104,
+                355,
+                117,
+                367
+              ]
+            },
+            {
+              "text": "predictive",
+              "bbox": [
+                120,
+                355,
+                164,
+                367
+              ]
+            },
+            {
+              "text": "capabilities",
+              "bbox": [
+                167,
+                355,
+                217,
+                367
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                220,
+                355,
+                229,
+                367
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                232,
+                355,
+                264,
+                367
+              ]
+            },
+            {
+              "text": "models,",
+              "bbox": [
+                267,
+                355,
+                302,
+                367
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                305,
+                355,
+                318,
+                367
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                321,
+                355,
+                339,
+                367
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                342,
+                355,
+                384,
+                367
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                387,
+                355,
+                396,
+                367
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                398,
+                355,
+                422,
+                367
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                425,
+                355,
+                431,
+                367
+              ]
+            },
+            {
+              "text": "offers",
+              "bbox": [
+                434,
+                355,
+                459,
+                367
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                462,
+                355,
+                467,
+                367
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                470,
+                355,
+                536,
+                367
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                539,
+                355,
+                580,
+                367
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of Model 1, which elucidates the relationship between the independent variables and the dependent outcome. Notably, the",
+          "bbox": [
+            15,
+            370,
+            580,
+            382
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                370,
+                24,
+                382
+              ]
+            },
+            {
+              "text": "Model",
+              "bbox": [
+                29,
+                370,
+                57,
+                382
+              ]
+            },
+            {
+              "text": "1,",
+              "bbox": [
+                62,
+                370,
+                70,
+                382
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                75,
+                370,
+                102,
+                382
+              ]
+            },
+            {
+              "text": "elucidates",
+              "bbox": [
+                106,
+                370,
+                150,
+                382
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                155,
+                370,
+                168,
+                382
+              ]
+            },
+            {
+              "text": "relationship",
+              "bbox": [
+                173,
+                370,
+                225,
+                382
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                229,
+                370,
+                266,
+                382
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                271,
+                370,
+                284,
+                382
+              ]
+            },
+            {
+              "text": "independent",
+              "bbox": [
+                289,
+                370,
+                342,
+                382
+              ]
+            },
+            {
+              "text": "variables",
+              "bbox": [
+                347,
+                370,
+                387,
+                382
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                391,
+                370,
+                407,
+                382
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                412,
+                370,
+                425,
+                382
+              ]
+            },
+            {
+              "text": "dependent",
+              "bbox": [
+                430,
+                370,
+                475,
+                382
+              ]
+            },
+            {
+              "text": "outcome.",
+              "bbox": [
+                479,
+                370,
+                520,
+                382
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                525,
+                370,
+                562,
+                382
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                370,
+                580,
+                382
+              ]
+            }
+          ]
+        },
+        {
+          "text": "constant for this model is recorded at −4.30, indicating a significant baseline effect on the probability of the outcome occurring.",
+          "bbox": [
+            15,
+            386,
+            580,
+            398
+          ],
+          "words": [
+            {
+              "text": "constant",
+              "bbox": [
+                15,
+                386,
+                52,
+                398
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                55,
+                386,
+                67,
+                398
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                70,
+                386,
+                86,
+                398
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                89,
+                386,
+                117,
+                398
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                120,
+                386,
+                127,
+                398
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                130,
+                386,
+                168,
+                398
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                171,
+                386,
+                179,
+                398
+              ]
+            },
+            {
+              "text": "−4.30,",
+              "bbox": [
+                182,
+                386,
+                210,
+                398
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                213,
+                386,
+                257,
+                398
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                260,
+                386,
+                265,
+                398
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                268,
+                386,
+                315,
+                398
+              ]
+            },
+            {
+              "text": "baseline",
+              "bbox": [
+                317,
+                386,
+                354,
+                398
+              ]
+            },
+            {
+              "text": "effect",
+              "bbox": [
+                356,
+                386,
+                381,
+                398
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                384,
+                386,
+                395,
+                398
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                398,
+                386,
+                412,
+                398
+              ]
+            },
+            {
+              "text": "probability",
+              "bbox": [
+                415,
+                386,
+                463,
+                398
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                466,
+                386,
+                475,
+                398
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                478,
+                386,
+                491,
+                398
+              ]
+            },
+            {
+              "text": "outcome",
+              "bbox": [
+                494,
+                386,
+                532,
+                398
+              ]
+            },
+            {
+              "text": "occurring.",
+              "bbox": [
+                535,
+                386,
+                580,
+                398
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The standard error (SE) associated with this estimate is 0.74, which provides insight into the precision of the constant estimate.",
+          "bbox": [
+            15,
+            401,
+            580,
+            413
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                401,
+                32,
+                413
+              ]
+            },
+            {
+              "text": "standard",
+              "bbox": [
+                35,
+                401,
+                72,
+                413
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                75,
+                401,
+                97,
+                413
+              ]
+            },
+            {
+              "text": "(SE)",
+              "bbox": [
+                100,
+                401,
+                120,
+                413
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                123,
+                401,
+                168,
+                413
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                171,
+                401,
+                191,
+                413
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                194,
+                401,
+                210,
+                413
+              ]
+            },
+            {
+              "text": "estimate",
+              "bbox": [
+                213,
+                401,
+                250,
+                413
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                253,
+                401,
+                260,
+                413
+              ]
+            },
+            {
+              "text": "0.74,",
+              "bbox": [
+                263,
+                401,
+                285,
+                413
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                288,
+                401,
+                315,
+                413
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                318,
+                401,
+                356,
+                413
+              ]
+            },
+            {
+              "text": "insight",
+              "bbox": [
+                359,
+                401,
+                389,
+                413
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                392,
+                401,
+                409,
+                413
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                412,
+                401,
+                426,
+                413
+              ]
+            },
+            {
+              "text": "precision",
+              "bbox": [
+                429,
+                401,
+                469,
+                413
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                472,
+                401,
+                481,
+                413
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                484,
+                401,
+                498,
+                413
+              ]
+            },
+            {
+              "text": "constant",
+              "bbox": [
+                501,
+                401,
+                538,
+                413
+              ]
+            },
+            {
+              "text": "estimate.",
+              "bbox": [
+                541,
+                401,
+                580,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The Wald statistic, with a value of 33.31, further underscores the significance of this parameter within the model, hinting at the",
+          "bbox": [
+            15,
+            417,
+            580,
+            429
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                417,
+                32,
+                429
+              ]
+            },
+            {
+              "text": "Wald",
+              "bbox": [
+                35,
+                417,
+                58,
+                429
+              ]
+            },
+            {
+              "text": "statistic,",
+              "bbox": [
+                61,
+                417,
+                97,
+                429
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                100,
+                417,
+                120,
+                429
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                123,
+                417,
+                128,
+                429
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                131,
+                417,
+                155,
+                429
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                158,
+                417,
+                167,
+                429
+              ]
+            },
+            {
+              "text": "33.31,",
+              "bbox": [
+                170,
+                417,
+                198,
+                429
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                201,
+                417,
+                231,
+                429
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                234,
+                417,
+                286,
+                429
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                289,
+                417,
+                303,
+                429
+              ]
+            },
+            {
+              "text": "significance",
+              "bbox": [
+                306,
+                417,
+                359,
+                429
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                362,
+                417,
+                371,
+                429
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                374,
+                417,
+                390,
+                429
+              ]
+            },
+            {
+              "text": "parameter",
+              "bbox": [
+                393,
+                417,
+                437,
+                429
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                440,
+                417,
+                468,
+                429
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                471,
+                417,
+                485,
+                429
+              ]
+            },
+            {
+              "text": "model,",
+              "bbox": [
+                488,
+                417,
+                518,
+                429
+              ]
+            },
+            {
+              "text": "hinting",
+              "bbox": [
+                521,
+                417,
+                552,
+                429
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                556,
+                417,
+                564,
+                429
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                417,
+                580,
+                429
+              ]
+            }
+          ]
+        },
+        {
+          "text": "robustness of the findings. Additionally, the odds ratio associated with the predictive variables will be critical for interpreting",
+          "bbox": [
+            15,
+            432,
+            580,
+            444
+          ],
+          "words": [
+            {
+              "text": "robustness",
+              "bbox": [
+                15,
+                432,
+                61,
+                444
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                65,
+                432,
+                74,
+                444
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                78,
+                432,
+                91,
+                444
+              ]
+            },
+            {
+              "text": "findings.",
+              "bbox": [
+                95,
+                432,
+                134,
+                444
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                137,
+                432,
+                194,
+                444
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                198,
+                432,
+                211,
+                444
+              ]
+            },
+            {
+              "text": "odds",
+              "bbox": [
+                215,
+                432,
+                236,
+                444
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                240,
+                432,
+                260,
+                444
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                263,
+                432,
+                309,
+                444
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                312,
+                432,
+                332,
+                444
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                335,
+                432,
+                349,
+                444
+              ]
+            },
+            {
+              "text": "predictive",
+              "bbox": [
+                352,
+                432,
+                396,
+                444
+              ]
+            },
+            {
+              "text": "variables",
+              "bbox": [
+                400,
+                432,
+                440,
+                444
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                443,
+                432,
+                460,
+                444
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                464,
+                432,
+                474,
+                444
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                478,
+                432,
+                509,
+                444
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                512,
+                432,
+                525,
+                444
+              ]
+            },
+            {
+              "text": "interpreting",
+              "bbox": [
+                529,
+                432,
+                580,
+                444
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the practical implications of these results, particularly in understanding how changes in the variables influence the likelihood of",
+          "bbox": [
+            15,
+            447,
+            580,
+            459
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                447,
+                28,
+                459
+              ]
+            },
+            {
+              "text": "practical",
+              "bbox": [
+                31,
+                447,
+                69,
+                459
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                72,
+                447,
+                127,
+                459
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                130,
+                447,
+                139,
+                459
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                142,
+                447,
+                164,
+                459
+              ]
+            },
+            {
+              "text": "results,",
+              "bbox": [
+                167,
+                447,
+                199,
+                459
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                202,
+                447,
+                252,
+                459
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                255,
+                447,
+                264,
+                459
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                267,
+                447,
+                329,
+                459
+              ]
+            },
+            {
+              "text": "how",
+              "bbox": [
+                332,
+                447,
+                351,
+                459
+              ]
+            },
+            {
+              "text": "changes",
+              "bbox": [
+                354,
+                447,
+                389,
+                459
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                392,
+                447,
+                401,
+                459
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                404,
+                447,
+                417,
+                459
+              ]
+            },
+            {
+              "text": "variables",
+              "bbox": [
+                420,
+                447,
+                460,
+                459
+              ]
+            },
+            {
+              "text": "influence",
+              "bbox": [
+                463,
+                447,
+                504,
+                459
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                507,
+                447,
+                520,
+                459
+              ]
+            },
+            {
+              "text": "likelihood",
+              "bbox": [
+                523,
+                447,
+                568,
+                459
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                447,
+                580,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the outcome. The confidence intervals (Low CI and High CI) offer further context by indicating the range within which the true",
+          "bbox": [
+            15,
+            463,
+            580,
+            475
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                463,
+                28,
+                475
+              ]
+            },
+            {
+              "text": "outcome.",
+              "bbox": [
+                31,
+                463,
+                72,
+                475
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                75,
+                463,
+                92,
+                475
+              ]
+            },
+            {
+              "text": "confidence",
+              "bbox": [
+                95,
+                463,
+                143,
+                475
+              ]
+            },
+            {
+              "text": "intervals",
+              "bbox": [
+                146,
+                463,
+                184,
+                475
+              ]
+            },
+            {
+              "text": "(Low",
+              "bbox": [
+                187,
+                463,
+                211,
+                475
+              ]
+            },
+            {
+              "text": "CI",
+              "bbox": [
+                214,
+                463,
+                225,
+                475
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                227,
+                463,
+                243,
+                475
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                246,
+                463,
+                268,
+                475
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                271,
+                463,
+                286,
+                475
+              ]
+            },
+            {
+              "text": "offer",
+              "bbox": [
+                289,
+                463,
+                310,
+                475
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                313,
+                463,
+                343,
+                475
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                346,
+                463,
+                378,
+                475
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                381,
+                463,
+                392,
+                475
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                395,
+                463,
+                439,
+                475
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                442,
+                463,
+                455,
+                475
+              ]
+            },
+            {
+              "text": "range",
+              "bbox": [
+                458,
+                463,
+                483,
+                475
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                486,
+                463,
+                514,
+                475
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                517,
+                463,
+                544,
+                475
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                547,
+                463,
+                560,
+                475
+              ]
+            },
+            {
+              "text": "true",
+              "bbox": [
+                563,
+                463,
+                580,
+                475
+              ]
+            }
+          ]
+        },
+        {
+          "text": "odds ratio is expected to lie, thereby enhancing the interpretability of the results. Collectively, these metrics facilitate a deeper",
+          "bbox": [
+            15,
+            478,
+            580,
+            490
+          ],
+          "words": [
+            {
+              "text": "odds",
+              "bbox": [
+                15,
+                478,
+                36,
+                490
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                39,
+                478,
+                59,
+                490
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                63,
+                478,
+                70,
+                490
+              ]
+            },
+            {
+              "text": "expected",
+              "bbox": [
+                73,
+                478,
+                113,
+                490
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                116,
+                478,
+                124,
+                490
+              ]
+            },
+            {
+              "text": "lie,",
+              "bbox": [
+                128,
+                478,
+                142,
+                490
+              ]
+            },
+            {
+              "text": "thereby",
+              "bbox": [
+                145,
+                478,
+                178,
+                490
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                181,
+                478,
+                227,
+                490
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                230,
+                478,
+                243,
+                490
+              ]
+            },
+            {
+              "text": "interpretability",
+              "bbox": [
+                247,
+                478,
+                312,
+                490
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                315,
+                478,
+                325,
+                490
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                328,
+                478,
+                341,
+                490
+              ]
+            },
+            {
+              "text": "results.",
+              "bbox": [
+                345,
+                478,
+                376,
+                490
+              ]
+            },
+            {
+              "text": "Collectively,",
+              "bbox": [
+                380,
+                478,
+                435,
+                490
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                439,
+                478,
+                461,
+                490
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                465,
+                478,
+                497,
+                490
+              ]
+            },
+            {
+              "text": "facilitate",
+              "bbox": [
+                501,
+                478,
+                539,
+                490
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                542,
+                478,
+                547,
+                490
+              ]
+            },
+            {
+              "text": "deeper",
+              "bbox": [
+                551,
+                478,
+                580,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding of Model 1’s efficacy in predicting outcomes based on the specified variables.",
+          "bbox": [
+            15,
+            494,
+            423,
+            506
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                494,
+                77,
+                506
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                80,
+                494,
+                89,
+                506
+              ]
+            },
+            {
+              "text": "Model",
+              "bbox": [
+                92,
+                494,
+                121,
+                506
+              ]
+            },
+            {
+              "text": "1’s",
+              "bbox": [
+                123,
+                494,
+                136,
+                506
+              ]
+            },
+            {
+              "text": "efficacy",
+              "bbox": [
+                139,
+                494,
+                174,
+                506
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                177,
+                494,
+                186,
+                506
+              ]
+            },
+            {
+              "text": "predicting",
+              "bbox": [
+                188,
+                494,
+                233,
+                506
+              ]
+            },
+            {
+              "text": "outcomes",
+              "bbox": [
+                236,
+                494,
+                278,
+                506
+              ]
+            },
+            {
+              "text": "based",
+              "bbox": [
+                281,
+                494,
+                306,
+                506
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                308,
+                494,
+                319,
+                506
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                322,
+                494,
+                336,
+                506
+              ]
+            },
+            {
+              "text": "specified",
+              "bbox": [
+                338,
+                494,
+                378,
+                506
+              ]
+            },
+            {
+              "text": "variables.",
+              "bbox": [
+                381,
+                494,
+                423,
+                506
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

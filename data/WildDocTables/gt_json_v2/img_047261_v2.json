@@ -1,0 +1,4473 @@
+{
+  "image_id": "img_047261",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_047261_t0",
+      "bbox": [
+        15,
+        65,
+        579,
+        396
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            65,
+            578,
+            156
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            156,
+            578,
+            205
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            205,
+            578,
+            294
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            294,
+            578,
+            328
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            328,
+            578,
+            376
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            376,
+            578,
+            396
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Target set</td><td>No. of target seqs.</td><td>No. of primers</td><td>No. of probes</td><td>Time against input fasta database* (h:mm:ss or m:ss)</td><td>Time against nt</td><td>RAM used (MB) against input fasta</td><td>RAM used (GB) against nt</td><td>Number of targets amplified</td><td>Number of targets with probe on amplicon</td><td>Number of sequences amplified from nt</td><td>Number of sequences amplified from nt outside the target group</td></tr><tr><td rowspan=\"2\">Coronaviridae</td><td rowspan=\"2\">547</td><td rowspan=\"2\">64</td><td rowspan=\"2\">45</td><td rowspan=\"2\">1:29</td><td rowspan=\"2\">3:36:39</td><td rowspan=\"2\">340</td><td rowspan=\"2\">10.9</td><td rowspan=\"2\">547</td><td rowspan=\"2\">541</td><td rowspan=\"2\">1091</td><td>2 vectors</td></tr><tr><td>1 Glaucous-winged gull+</td></tr><tr><td rowspan=\"3\">HIV1</td><td rowspan=\"3\">1809</td><td rowspan=\"3\">14</td><td rowspan=\"3\">96</td><td rowspan=\"3\">4:25</td><td rowspan=\"3\">4:10:44</td><td rowspan=\"3\">881</td><td rowspan=\"3\">14.5</td><td rowspan=\"3\">1809</td><td rowspan=\"3\">1809</td><td rowspan=\"3\">12371</td><td>8 synthetic contructs</td></tr><tr><td>10 vectors</td></tr><tr><td>3 SIV</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Target set",
+          "bbox": [
+            15,
+            65,
+            54,
+            156
+          ],
+          "words": [
+            {
+              "text": "Target",
+              "bbox": [
+                21,
+                70,
+                46,
+                95
+              ]
+            },
+            {
+              "text": "set",
+              "bbox": [
+                27,
+                84,
+                38,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "No. of target seqs.",
+          "bbox": [
+            54,
+            65,
+            87,
+            156
+          ],
+          "words": [
+            {
+              "text": "No.",
+              "bbox": [
+                59,
+                70,
+                74,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                59,
+                84,
+                67,
+                95
+              ]
+            },
+            {
+              "text": "target",
+              "bbox": [
+                59,
+                98,
+                81,
+                123
+              ]
+            },
+            {
+              "text": "seqs.",
+              "bbox": [
+                59,
+                126,
+                79,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "No. of primers",
+          "bbox": [
+            87,
+            65,
+            118,
+            156
+          ],
+          "words": [
+            {
+              "text": "No.",
+              "bbox": [
+                93,
+                70,
+                107,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                93,
+                84,
+                101,
+                95
+              ]
+            },
+            {
+              "text": "primers",
+              "bbox": [
+                93,
+                98,
+                110,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "No. of probes",
+          "bbox": [
+            118,
+            65,
+            147,
+            156
+          ],
+          "words": [
+            {
+              "text": "No.",
+              "bbox": [
+                124,
+                70,
+                138,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                124,
+                84,
+                132,
+                95
+              ]
+            },
+            {
+              "text": "probes",
+              "bbox": [
+                124,
+                98,
+                139,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Time against input fasta database* (h:mm:ss or m:ss)",
+          "bbox": [
+            147,
+            65,
+            215,
+            156
+          ],
+          "words": [
+            {
+              "text": "Time",
+              "bbox": [
+                153,
+                70,
+                175,
+                81
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                177,
+                70,
+                208,
+                81
+              ]
+            },
+            {
+              "text": "input",
+              "bbox": [
+                153,
+                84,
+                176,
+                95
+              ]
+            },
+            {
+              "text": "fasta",
+              "bbox": [
+                178,
+                84,
+                199,
+                95
+              ]
+            },
+            {
+              "text": "database*",
+              "bbox": [
+                153,
+                98,
+                196,
+                109
+              ]
+            },
+            {
+              "text": "(h:mm:ss",
+              "bbox": [
+                153,
+                112,
+                193,
+                123
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                195,
+                112,
+                205,
+                123
+              ]
+            },
+            {
+              "text": "m:ss)",
+              "bbox": [
+                153,
+                126,
+                176,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Time against nt",
+          "bbox": [
+            215,
+            65,
+            248,
+            156
+          ],
+          "words": [
+            {
+              "text": "Time",
+              "bbox": [
+                221,
+                70,
+                238,
+                95
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                221,
+                98,
+                239,
+                123
+              ]
+            },
+            {
+              "text": "nt",
+              "bbox": [
+                221,
+                126,
+                230,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "RAM used (MB) against input fasta",
+          "bbox": [
+            248,
+            65,
+            300,
+            156
+          ],
+          "words": [
+            {
+              "text": "RAM",
+              "bbox": [
+                270,
+                70,
+                294,
+                81
+              ]
+            },
+            {
+              "text": "used",
+              "bbox": [
+                275,
+                84,
+                294,
+                95
+              ]
+            },
+            {
+              "text": "(MB)",
+              "bbox": [
+                271,
+                98,
+                294,
+                109
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                264,
+                112,
+                294,
+                123
+              ]
+            },
+            {
+              "text": "input",
+              "bbox": [
+                271,
+                126,
+                294,
+                137
+              ]
+            },
+            {
+              "text": "fasta",
+              "bbox": [
+                274,
+                140,
+                294,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "RAM used (GB) against nt",
+          "bbox": [
+            300,
+            65,
+            343,
+            156
+          ],
+          "words": [
+            {
+              "text": "RAM",
+              "bbox": [
+                314,
+                70,
+                338,
+                81
+              ]
+            },
+            {
+              "text": "used",
+              "bbox": [
+                318,
+                84,
+                338,
+                95
+              ]
+            },
+            {
+              "text": "(GB)",
+              "bbox": [
+                317,
+                98,
+                338,
+                109
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                307,
+                112,
+                338,
+                123
+              ]
+            },
+            {
+              "text": "nt",
+              "bbox": [
+                329,
+                126,
+                338,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of targets amplified",
+          "bbox": [
+            343,
+            65,
+            387,
+            156
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                351,
+                70,
+                382,
+                95
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                374,
+                84,
+                382,
+                95
+              ]
+            },
+            {
+              "text": "targets",
+              "bbox": [
+                353,
+                98,
+                382,
+                109
+              ]
+            },
+            {
+              "text": "amplified",
+              "bbox": [
+                351,
+                112,
+                382,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of targets with probe on amplicon",
+          "bbox": [
+            387,
+            65,
+            445,
+            156
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                394,
+                70,
+                429,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                431,
+                70,
+                440,
+                81
+              ]
+            },
+            {
+              "text": "targets",
+              "bbox": [
+                410,
+                84,
+                440,
+                95
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                394,
+                98,
+                412,
+                109
+              ]
+            },
+            {
+              "text": "probe",
+              "bbox": [
+                415,
+                98,
+                440,
+                109
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                429,
+                112,
+                440,
+                123
+              ]
+            },
+            {
+              "text": "amplicon",
+              "bbox": [
+                400,
+                126,
+                440,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of sequences amplified from nt",
+          "bbox": [
+            445,
+            65,
+            500,
+            156
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                459,
+                70,
+                494,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                486,
+                84,
+                494,
+                95
+              ]
+            },
+            {
+              "text": "sequences",
+              "bbox": [
+                452,
+                98,
+                494,
+                109
+              ]
+            },
+            {
+              "text": "amplified",
+              "bbox": [
+                454,
+                112,
+                494,
+                123
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                462,
+                126,
+                483,
+                137
+              ]
+            },
+            {
+              "text": "nt",
+              "bbox": [
+                486,
+                126,
+                494,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of sequences amplified from nt outside the target group",
+          "bbox": [
+            500,
+            65,
+            578,
+            156
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                527,
+                70,
+                562,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                564,
+                70,
+                573,
+                81
+              ]
+            },
+            {
+              "text": "sequences",
+              "bbox": [
+                531,
+                84,
+                573,
+                95
+              ]
+            },
+            {
+              "text": "amplified",
+              "bbox": [
+                509,
+                98,
+                549,
+                109
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                552,
+                98,
+                573,
+                109
+              ]
+            },
+            {
+              "text": "nt",
+              "bbox": [
+                515,
+                112,
+                524,
+                123
+              ]
+            },
+            {
+              "text": "outside",
+              "bbox": [
+                526,
+                112,
+                557,
+                123
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                559,
+                112,
+                573,
+                123
+              ]
+            },
+            {
+              "text": "target",
+              "bbox": [
+                519,
+                126,
+                545,
+                137
+              ]
+            },
+            {
+              "text": "group",
+              "bbox": [
+                547,
+                126,
+                573,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Coronaviridae",
+          "bbox": [
+            15,
+            156,
+            54,
+            205
+          ],
+          "words": [
+            {
+              "text": "Coronaviridae",
+              "bbox": [
+                20,
+                161,
+                48,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "547",
+          "bbox": [
+            54,
+            156,
+            87,
+            205
+          ],
+          "words": [
+            {
+              "text": "547",
+              "bbox": [
+                59,
+                161,
+                74,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "64",
+          "bbox": [
+            87,
+            156,
+            118,
+            205
+          ],
+          "words": [
+            {
+              "text": "64",
+              "bbox": [
+                92,
+                161,
+                102,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "45",
+          "bbox": [
+            118,
+            156,
+            147,
+            205
+          ],
+          "words": [
+            {
+              "text": "45",
+              "bbox": [
+                123,
+                161,
+                133,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1:29",
+          "bbox": [
+            147,
+            156,
+            215,
+            205
+          ],
+          "words": [
+            {
+              "text": "1:29",
+              "bbox": [
+                152,
+                161,
+                170,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3:36:39",
+          "bbox": [
+            215,
+            156,
+            248,
+            205
+          ],
+          "words": [
+            {
+              "text": "3:36:39",
+              "bbox": [
+                220,
+                161,
+                241,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "340",
+          "bbox": [
+            248,
+            156,
+            300,
+            205
+          ],
+          "words": [
+            {
+              "text": "340",
+              "bbox": [
+                280,
+                161,
+                295,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "10.9",
+          "bbox": [
+            300,
+            156,
+            343,
+            205
+          ],
+          "words": [
+            {
+              "text": "10.9",
+              "bbox": [
+                321,
+                161,
+                338,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "547",
+          "bbox": [
+            343,
+            156,
+            387,
+            205
+          ],
+          "words": [
+            {
+              "text": "547",
+              "bbox": [
+                367,
+                161,
+                382,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "541",
+          "bbox": [
+            387,
+            156,
+            445,
+            205
+          ],
+          "words": [
+            {
+              "text": "541",
+              "bbox": [
+                425,
+                161,
+                440,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "1091",
+          "bbox": [
+            445,
+            156,
+            500,
+            205
+          ],
+          "words": [
+            {
+              "text": "1091",
+              "bbox": [
+                475,
+                161,
+                495,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "2 vectors",
+          "bbox": [
+            500,
+            156,
+            578,
+            205
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                537,
+                161,
+                542,
+                172
+              ]
+            },
+            {
+              "text": "vectors",
+              "bbox": [
+                544,
+                161,
+                573,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "1 Glaucous-winged gull+",
+          "bbox": [
+            15,
+            205,
+            54,
+            294
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                20,
+                209,
+                25,
+                219
+              ]
+            },
+            {
+              "text": "Glaucous-winged",
+              "bbox": [
+                20,
+                222,
+                45,
+                275
+              ]
+            },
+            {
+              "text": "gull+",
+              "bbox": [
+                20,
+                278,
+                42,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HIV1",
+          "bbox": [
+            15,
+            294,
+            54,
+            328
+          ],
+          "words": [
+            {
+              "text": "HIV1",
+              "bbox": [
+                20,
+                298,
+                43,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1809",
+          "bbox": [
+            54,
+            294,
+            87,
+            328
+          ],
+          "words": [
+            {
+              "text": "1809",
+              "bbox": [
+                59,
+                298,
+                79,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "14",
+          "bbox": [
+            87,
+            294,
+            118,
+            328
+          ],
+          "words": [
+            {
+              "text": "14",
+              "bbox": [
+                92,
+                298,
+                102,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "96",
+          "bbox": [
+            118,
+            294,
+            147,
+            328
+          ],
+          "words": [
+            {
+              "text": "96",
+              "bbox": [
+                123,
+                298,
+                133,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4:25",
+          "bbox": [
+            147,
+            294,
+            215,
+            328
+          ],
+          "words": [
+            {
+              "text": "4:25",
+              "bbox": [
+                152,
+                298,
+                170,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "4:10:44",
+          "bbox": [
+            215,
+            294,
+            248,
+            328
+          ],
+          "words": [
+            {
+              "text": "4:10:44",
+              "bbox": [
+                220,
+                298,
+                241,
+                323
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "881",
+          "bbox": [
+            248,
+            294,
+            300,
+            328
+          ],
+          "words": [
+            {
+              "text": "881",
+              "bbox": [
+                280,
+                298,
+                295,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "14.5",
+          "bbox": [
+            300,
+            294,
+            343,
+            328
+          ],
+          "words": [
+            {
+              "text": "14.5",
+              "bbox": [
+                321,
+                298,
+                338,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1809",
+          "bbox": [
+            343,
+            294,
+            387,
+            328
+          ],
+          "words": [
+            {
+              "text": "1809",
+              "bbox": [
+                362,
+                298,
+                382,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "1809",
+          "bbox": [
+            387,
+            294,
+            445,
+            328
+          ],
+          "words": [
+            {
+              "text": "1809",
+              "bbox": [
+                420,
+                298,
+                440,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "12371",
+          "bbox": [
+            445,
+            294,
+            500,
+            328
+          ],
+          "words": [
+            {
+              "text": "12371",
+              "bbox": [
+                470,
+                298,
+                495,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "8 synthetic contructs",
+          "bbox": [
+            500,
+            294,
+            578,
+            328
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                530,
+                298,
+                535,
+                309
+              ]
+            },
+            {
+              "text": "synthetic",
+              "bbox": [
+                537,
+                298,
+                573,
+                309
+              ]
+            },
+            {
+              "text": "contructs",
+              "bbox": [
+                537,
+                312,
+                573,
+                323
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "10 vectors",
+          "bbox": [
+            15,
+            328,
+            54,
+            376
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                20,
+                332,
+                30,
+                343
+              ]
+            },
+            {
+              "text": "vectors",
+              "bbox": [
+                20,
+                346,
+                45,
+                371
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "3 SIV",
+          "bbox": [
+            15,
+            376,
+            54,
+            396
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                20,
+                380,
+                25,
+                391
+              ]
+            },
+            {
+              "text": "SIV",
+              "bbox": [
+                28,
+                380,
+                44,
+                391
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_047261_t1",
+      "bbox": [
+        15,
+        411,
+        579,
+        474
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            412,
+            579,
+            432
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            432,
+            579,
+            453
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            453,
+            579,
+            473
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Gene name</td><td>Pulp SC</td><td>Pulp CM</td><td>BM CM</td><td>AD CM</td></tr><tr><td>CXCR4</td><td>64±03**</td><td>6.7±0.4**,††,§</td><td>2.8±0.7*</td><td>3.8±1.2*</td></tr><tr><td>CCR2</td><td>1.7±0.3</td><td>53±0.6**</td><td>112±06**,#</td><td>8.2±0.4**</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Gene name",
+          "bbox": [
+            15,
+            412,
+            131,
+            432
+          ],
+          "words": [
+            {
+              "text": "Gene",
+              "bbox": [
+                20,
+                416,
+                42,
+                427
+              ]
+            },
+            {
+              "text": "name",
+              "bbox": [
+                45,
+                416,
+                68,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Pulp SC",
+          "bbox": [
+            131,
+            412,
+            222,
+            432
+          ],
+          "words": [
+            {
+              "text": "Pulp",
+              "bbox": [
+                136,
+                416,
+                156,
+                427
+              ]
+            },
+            {
+              "text": "SC",
+              "bbox": [
+                158,
+                416,
+                171,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Pulp CM",
+          "bbox": [
+            222,
+            412,
+            363,
+            432
+          ],
+          "words": [
+            {
+              "text": "Pulp",
+              "bbox": [
+                319,
+                416,
+                339,
+                427
+              ]
+            },
+            {
+              "text": "CM",
+              "bbox": [
+                341,
+                416,
+                358,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "BM CM",
+          "bbox": [
+            363,
+            412,
+            478,
+            432
+          ],
+          "words": [
+            {
+              "text": "BM",
+              "bbox": [
+                438,
+                416,
+                454,
+                427
+              ]
+            },
+            {
+              "text": "CM",
+              "bbox": [
+                456,
+                416,
+                473,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "AD CM",
+          "bbox": [
+            478,
+            412,
+            579,
+            432
+          ],
+          "words": [
+            {
+              "text": "AD",
+              "bbox": [
+                540,
+                416,
+                555,
+                427
+              ]
+            },
+            {
+              "text": "CM",
+              "bbox": [
+                557,
+                416,
+                574,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CXCR4",
+          "bbox": [
+            15,
+            432,
+            131,
+            453
+          ],
+          "words": [
+            {
+              "text": "CXCR4",
+              "bbox": [
+                20,
+                437,
+                52,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "64±03**",
+          "bbox": [
+            131,
+            432,
+            222,
+            453
+          ],
+          "words": [
+            {
+              "text": "64±03**",
+              "bbox": [
+                136,
+                437,
+                171,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "6.7±0.4**,††,§",
+          "bbox": [
+            222,
+            432,
+            363,
+            453
+          ],
+          "words": [
+            {
+              "text": "6.7±0.4**,††,§",
+              "bbox": [
+                297,
+                437,
+                358,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2.8±0.7*",
+          "bbox": [
+            363,
+            432,
+            478,
+            453
+          ],
+          "words": [
+            {
+              "text": "2.8±0.7*",
+              "bbox": [
+                437,
+                437,
+                473,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.8±1.2*",
+          "bbox": [
+            478,
+            432,
+            579,
+            453
+          ],
+          "words": [
+            {
+              "text": "3.8±1.2*",
+              "bbox": [
+                538,
+                437,
+                574,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CCR2",
+          "bbox": [
+            15,
+            453,
+            131,
+            473
+          ],
+          "words": [
+            {
+              "text": "CCR2",
+              "bbox": [
+                20,
+                457,
+                45,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.7±0.3",
+          "bbox": [
+            131,
+            453,
+            222,
+            473
+          ],
+          "words": [
+            {
+              "text": "1.7±0.3",
+              "bbox": [
+                136,
+                457,
+                166,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "53±0.6**",
+          "bbox": [
+            222,
+            453,
+            363,
+            473
+          ],
+          "words": [
+            {
+              "text": "53±0.6**",
+              "bbox": [
+                320,
+                457,
+                358,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "112±06**,#",
+          "bbox": [
+            363,
+            453,
+            478,
+            473
+          ],
+          "words": [
+            {
+              "text": "112±06**,#",
+              "bbox": [
+                425,
+                457,
+                473,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "8.2±0.4**",
+          "bbox": [
+            478,
+            453,
+            579,
+            473
+          ],
+          "words": [
+            {
+              "text": "8.2±0.4**",
+              "bbox": [
+                533,
+                457,
+                574,
+                468
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_047261_t2",
+      "bbox": [
+        15,
+        489,
+        579,
+        612
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            489,
+            579,
+            510
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            510,
+            579,
+            531
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            531,
+            579,
+            551
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            551,
+            579,
+            571
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            571,
+            579,
+            591
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            591,
+            579,
+            611
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Nicotine, mg/kg</td><td>% Injected dose/ccthalamus</td><td>Nicotineoccupancy</td></tr><tr><td>0</td><td>0.489</td><td>0%</td></tr><tr><td>0.02</td><td>0.092</td><td>81%</td></tr><tr><td>0.10</td><td>0.037</td><td>92%</td></tr><tr><td>0.25</td><td>0.031</td><td>94%</td></tr><tr><td>0.50</td><td>0.005</td><td>99%</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Nicotine, mg/kg",
+          "bbox": [
+            15,
+            489,
+            161,
+            510
+          ],
+          "words": [
+            {
+              "text": "Nicotine,",
+              "bbox": [
+                20,
+                494,
+                58,
+                505
+              ]
+            },
+            {
+              "text": "mg/kg",
+              "bbox": [
+                60,
+                494,
+                87,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "% Injected dose/ccthalamus",
+          "bbox": [
+            161,
+            489,
+            407,
+            510
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                283,
+                494,
+                292,
+                505
+              ]
+            },
+            {
+              "text": "Injected",
+              "bbox": [
+                295,
+                494,
+                330,
+                505
+              ]
+            },
+            {
+              "text": "dose/ccthalamus",
+              "bbox": [
+                332,
+                494,
+                402,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Nicotineoccupancy",
+          "bbox": [
+            407,
+            489,
+            579,
+            510
+          ],
+          "words": [
+            {
+              "text": "Nicotineoccupancy",
+              "bbox": [
+                493,
+                494,
+                574,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            15,
+            510,
+            161,
+            531
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                20,
+                515,
+                25,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.489",
+          "bbox": [
+            161,
+            510,
+            407,
+            531
+          ],
+          "words": [
+            {
+              "text": "0.489",
+              "bbox": [
+                380,
+                515,
+                402,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0%",
+          "bbox": [
+            407,
+            510,
+            579,
+            531
+          ],
+          "words": [
+            {
+              "text": "0%",
+              "bbox": [
+                560,
+                515,
+                574,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.02",
+          "bbox": [
+            15,
+            531,
+            161,
+            551
+          ],
+          "words": [
+            {
+              "text": "0.02",
+              "bbox": [
+                20,
+                535,
+                37,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.092",
+          "bbox": [
+            161,
+            531,
+            407,
+            551
+          ],
+          "words": [
+            {
+              "text": "0.092",
+              "bbox": [
+                380,
+                535,
+                402,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "81%",
+          "bbox": [
+            407,
+            531,
+            579,
+            551
+          ],
+          "words": [
+            {
+              "text": "81%",
+              "bbox": [
+                555,
+                535,
+                574,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.10",
+          "bbox": [
+            15,
+            551,
+            161,
+            571
+          ],
+          "words": [
+            {
+              "text": "0.10",
+              "bbox": [
+                20,
+                555,
+                37,
+                566
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.037",
+          "bbox": [
+            161,
+            551,
+            407,
+            571
+          ],
+          "words": [
+            {
+              "text": "0.037",
+              "bbox": [
+                380,
+                555,
+                402,
+                566
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "92%",
+          "bbox": [
+            407,
+            551,
+            579,
+            571
+          ],
+          "words": [
+            {
+              "text": "92%",
+              "bbox": [
+                555,
+                555,
+                574,
+                566
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.25",
+          "bbox": [
+            15,
+            571,
+            161,
+            591
+          ],
+          "words": [
+            {
+              "text": "0.25",
+              "bbox": [
+                20,
+                575,
+                37,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.031",
+          "bbox": [
+            161,
+            571,
+            407,
+            591
+          ],
+          "words": [
+            {
+              "text": "0.031",
+              "bbox": [
+                380,
+                575,
+                402,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "94%",
+          "bbox": [
+            407,
+            571,
+            579,
+            591
+          ],
+          "words": [
+            {
+              "text": "94%",
+              "bbox": [
+                555,
+                575,
+                574,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.50",
+          "bbox": [
+            15,
+            591,
+            161,
+            611
+          ],
+          "words": [
+            {
+              "text": "0.50",
+              "bbox": [
+                20,
+                595,
+                37,
+                606
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.005",
+          "bbox": [
+            161,
+            591,
+            407,
+            611
+          ],
+          "words": [
+            {
+              "text": "0.005",
+              "bbox": [
+                380,
+                595,
+                402,
+                606
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "99%",
+          "bbox": [
+            407,
+            591,
+            579,
+            611
+          ],
+          "words": [
+            {
+              "text": "99%",
+              "bbox": [
+                555,
+                595,
+                574,
+                606
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        627,
+        579,
+        780
+      ],
+      "content": "The data presented in the table provides a comprehensive overview of the amplification and analysis of sequences related to the Coronaviridae family. Specifically, the metrics outlined demonstrate the efficiency and resource utilization associated with targeted sequencing efforts. For instance, the “No. of target seqs.” column indicates a total of 547 sequences designated for amplification, which reflects the extensive scope of the study aimed at identifying and characterizing viral variants. Additionally, the “Time against input fasta database” metric shows an efficient processing time of 1:29, suggesting that the chosen methodologies facilitate rapid analysis without compromising accuracy. The table also highlights the “RAM used (MB) against input fasta” at 64±03, along with the “No. of primers” utilized, which stands at 64. This data underscores the balance between computational resource demands and the volume of data processed, reinforcing the effectiveness of the employed protocols in handling large-scale genomic analyses. Collectively, these insights contribute to the ongoing research efforts in understanding the complexities of coronaviruses and their implications in public health.",
+      "lines": [
+        {
+          "text": "The data presented in the table provides a comprehensive overview of the amplification and analysis of sequences related to the",
+          "bbox": [
+            15,
+            628,
+            579,
+            639
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                628,
+                32,
+                639
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                35,
+                628,
+                53,
+                639
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                56,
+                628,
+                98,
+                639
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                101,
+                628,
+                110,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                113,
+                628,
+                126,
+                639
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                129,
+                628,
+                150,
+                639
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                153,
+                628,
+                191,
+                639
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                194,
+                628,
+                199,
+                639
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                202,
+                628,
+                268,
+                639
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                271,
+                628,
+                312,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                315,
+                628,
+                324,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                327,
+                628,
+                340,
+                639
+              ]
+            },
+            {
+              "text": "amplification",
+              "bbox": [
+                343,
+                628,
+                402,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                404,
+                628,
+                420,
+                639
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                423,
+                628,
+                459,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                462,
+                628,
+                471,
+                639
+              ]
+            },
+            {
+              "text": "sequences",
+              "bbox": [
+                474,
+                628,
+                518,
+                639
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                521,
+                628,
+                551,
+                639
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                554,
+                628,
+                562,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                565,
+                628,
+                579,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Coronaviridae family. Specifically, the metrics outlined demonstrate the efficiency and resource utilization associated with",
+          "bbox": [
+            15,
+            643,
+            579,
+            655
+          ],
+          "words": [
+            {
+              "text": "Coronaviridae",
+              "bbox": [
+                15,
+                643,
+                78,
+                655
+              ]
+            },
+            {
+              "text": "family.",
+              "bbox": [
+                82,
+                643,
+                113,
+                655
+              ]
+            },
+            {
+              "text": "Specifically,",
+              "bbox": [
+                118,
+                643,
+                172,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                177,
+                643,
+                190,
+                655
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                195,
+                643,
+                227,
+                655
+              ]
+            },
+            {
+              "text": "outlined",
+              "bbox": [
+                232,
+                643,
+                268,
+                655
+              ]
+            },
+            {
+              "text": "demonstrate",
+              "bbox": [
+                273,
+                643,
+                326,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                331,
+                643,
+                345,
+                655
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                349,
+                643,
+                393,
+                655
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                398,
+                643,
+                414,
+                655
+              ]
+            },
+            {
+              "text": "resource",
+              "bbox": [
+                418,
+                643,
+                455,
+                655
+              ]
+            },
+            {
+              "text": "utilization",
+              "bbox": [
+                460,
+                643,
+                505,
+                655
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                509,
+                643,
+                554,
+                655
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                559,
+                643,
+                579,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "targeted sequencing efforts. For instance, the “No. of target seqs.” column indicates a total of 547 sequences designated for",
+          "bbox": [
+            15,
+            658,
+            579,
+            670
+          ],
+          "words": [
+            {
+              "text": "targeted",
+              "bbox": [
+                15,
+                658,
+                50,
+                670
+              ]
+            },
+            {
+              "text": "sequencing",
+              "bbox": [
+                54,
+                658,
+                104,
+                670
+              ]
+            },
+            {
+              "text": "efforts.",
+              "bbox": [
+                108,
+                658,
+                139,
+                670
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                143,
+                658,
+                158,
+                670
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                162,
+                658,
+                201,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                205,
+                658,
+                218,
+                670
+              ]
+            },
+            {
+              "text": "“No.",
+              "bbox": [
+                222,
+                658,
+                243,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                247,
+                658,
+                257,
+                670
+              ]
+            },
+            {
+              "text": "target",
+              "bbox": [
+                261,
+                658,
+                285,
+                670
+              ]
+            },
+            {
+              "text": "seqs.”",
+              "bbox": [
+                289,
+                658,
+                316,
+                670
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                320,
+                658,
+                353,
+                670
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                357,
+                658,
+                396,
+                670
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                400,
+                658,
+                405,
+                670
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                409,
+                658,
+                429,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                433,
+                658,
+                442,
+                670
+              ]
+            },
+            {
+              "text": "547",
+              "bbox": [
+                446,
+                658,
+                462,
+                670
+              ]
+            },
+            {
+              "text": "sequences",
+              "bbox": [
+                466,
+                658,
+                511,
+                670
+              ]
+            },
+            {
+              "text": "designated",
+              "bbox": [
+                515,
+                658,
+                562,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                566,
+                658,
+                579,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "amplification, which reflects the extensive scope of the study aimed at identifying and characterizing viral variants.",
+          "bbox": [
+            15,
+            674,
+            579,
+            686
+          ],
+          "words": [
+            {
+              "text": "amplification,",
+              "bbox": [
+                15,
+                674,
+                76,
+                686
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                83,
+                674,
+                110,
+                686
+              ]
+            },
+            {
+              "text": "reflects",
+              "bbox": [
+                116,
+                674,
+                148,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                155,
+                674,
+                168,
+                686
+              ]
+            },
+            {
+              "text": "extensive",
+              "bbox": [
+                175,
+                674,
+                216,
+                686
+              ]
+            },
+            {
+              "text": "scope",
+              "bbox": [
+                223,
+                674,
+                248,
+                686
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                255,
+                674,
+                264,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                270,
+                674,
+                284,
+                686
+              ]
+            },
+            {
+              "text": "study",
+              "bbox": [
+                290,
+                674,
+                314,
+                686
+              ]
+            },
+            {
+              "text": "aimed",
+              "bbox": [
+                321,
+                674,
+                348,
+                686
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                354,
+                674,
+                362,
+                686
+              ]
+            },
+            {
+              "text": "identifying",
+              "bbox": [
+                369,
+                674,
+                417,
+                686
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                423,
+                674,
+                439,
+                686
+              ]
+            },
+            {
+              "text": "characterizing",
+              "bbox": [
+                446,
+                674,
+                508,
+                686
+              ]
+            },
+            {
+              "text": "viral",
+              "bbox": [
+                514,
+                674,
+                535,
+                686
+              ]
+            },
+            {
+              "text": "variants.",
+              "bbox": [
+                541,
+                674,
+                579,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Additionally, the “Time against input fasta database” metric shows an efficient processing time of 1:29, suggesting that the",
+          "bbox": [
+            15,
+            689,
+            579,
+            701
+          ],
+          "words": [
+            {
+              "text": "Additionally,",
+              "bbox": [
+                15,
+                689,
+                72,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                77,
+                689,
+                90,
+                701
+              ]
+            },
+            {
+              "text": "“Time",
+              "bbox": [
+                94,
+                689,
+                122,
+                701
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                126,
+                689,
+                157,
+                701
+              ]
+            },
+            {
+              "text": "input",
+              "bbox": [
+                161,
+                689,
+                184,
+                701
+              ]
+            },
+            {
+              "text": "fasta",
+              "bbox": [
+                188,
+                689,
+                209,
+                701
+              ]
+            },
+            {
+              "text": "database”",
+              "bbox": [
+                213,
+                689,
+                256,
+                701
+              ]
+            },
+            {
+              "text": "metric",
+              "bbox": [
+                260,
+                689,
+                288,
+                701
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                292,
+                689,
+                320,
+                701
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                324,
+                689,
+                334,
+                701
+              ]
+            },
+            {
+              "text": "efficient",
+              "bbox": [
+                338,
+                689,
+                375,
+                701
+              ]
+            },
+            {
+              "text": "processing",
+              "bbox": [
+                379,
+                689,
+                426,
+                701
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                430,
+                689,
+                449,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                454,
+                689,
+                463,
+                701
+              ]
+            },
+            {
+              "text": "1:29,",
+              "bbox": [
+                467,
+                689,
+                489,
+                701
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                493,
+                689,
+                540,
+                701
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                545,
+                689,
+                561,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                565,
+                689,
+                579,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "chosen methodologies facilitate rapid analysis without compromising accuracy. The table also highlights the “RAM used (MB)",
+          "bbox": [
+            15,
+            704,
+            579,
+            716
+          ],
+          "words": [
+            {
+              "text": "chosen",
+              "bbox": [
+                15,
+                704,
+                45,
+                716
+              ]
+            },
+            {
+              "text": "methodologies",
+              "bbox": [
+                49,
+                704,
+                113,
+                716
+              ]
+            },
+            {
+              "text": "facilitate",
+              "bbox": [
+                116,
+                704,
+                155,
+                716
+              ]
+            },
+            {
+              "text": "rapid",
+              "bbox": [
+                158,
+                704,
+                180,
+                716
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                183,
+                704,
+                219,
+                716
+              ]
+            },
+            {
+              "text": "without",
+              "bbox": [
+                222,
+                704,
+                255,
+                716
+              ]
+            },
+            {
+              "text": "compromising",
+              "bbox": [
+                259,
+                704,
+                322,
+                716
+              ]
+            },
+            {
+              "text": "accuracy.",
+              "bbox": [
+                325,
+                704,
+                366,
+                716
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                369,
+                704,
+                386,
+                716
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                389,
+                704,
+                411,
+                716
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                414,
+                704,
+                431,
+                716
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                434,
+                704,
+                478,
+                716
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                481,
+                704,
+                495,
+                716
+              ]
+            },
+            {
+              "text": "“RAM",
+              "bbox": [
+                498,
+                704,
+                528,
+                716
+              ]
+            },
+            {
+              "text": "used",
+              "bbox": [
+                531,
+                704,
+                551,
+                716
+              ]
+            },
+            {
+              "text": "(MB)",
+              "bbox": [
+                554,
+                704,
+                579,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "text": "against input fasta” at 64±03, along with the “No. of primers” utilized, which stands at 64. This data underscores the balance",
+          "bbox": [
+            15,
+            720,
+            579,
+            732
+          ],
+          "words": [
+            {
+              "text": "against",
+              "bbox": [
+                15,
+                720,
+                46,
+                732
+              ]
+            },
+            {
+              "text": "input",
+              "bbox": [
+                50,
+                720,
+                72,
+                732
+              ]
+            },
+            {
+              "text": "fasta”",
+              "bbox": [
+                76,
+                720,
+                101,
+                732
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                105,
+                720,
+                113,
+                732
+              ]
+            },
+            {
+              "text": "64±03,",
+              "bbox": [
+                116,
+                720,
+                147,
+                732
+              ]
+            },
+            {
+              "text": "along",
+              "bbox": [
+                151,
+                720,
+                175,
+                732
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                179,
+                720,
+                198,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                202,
+                720,
+                215,
+                732
+              ]
+            },
+            {
+              "text": "“No.",
+              "bbox": [
+                219,
+                720,
+                240,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                243,
+                720,
+                252,
+                732
+              ]
+            },
+            {
+              "text": "primers”",
+              "bbox": [
+                256,
+                720,
+                294,
+                732
+              ]
+            },
+            {
+              "text": "utilized,",
+              "bbox": [
+                298,
+                720,
+                334,
+                732
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                337,
+                720,
+                364,
+                732
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                368,
+                720,
+                395,
+                732
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                399,
+                720,
+                407,
+                732
+              ]
+            },
+            {
+              "text": "64.",
+              "bbox": [
+                410,
+                720,
+                424,
+                732
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                427,
+                720,
+                447,
+                732
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                450,
+                720,
+                469,
+                732
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                472,
+                720,
+                525,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                528,
+                720,
+                542,
+                732
+              ]
+            },
+            {
+              "text": "balance",
+              "bbox": [
+                545,
+                720,
+                579,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "between computational resource demands and the volume of data processed, reinforcing the effectiveness of the employed",
+          "bbox": [
+            15,
+            735,
+            579,
+            747
+          ],
+          "words": [
+            {
+              "text": "between",
+              "bbox": [
+                15,
+                735,
+                52,
+                747
+              ]
+            },
+            {
+              "text": "computational",
+              "bbox": [
+                56,
+                735,
+                119,
+                747
+              ]
+            },
+            {
+              "text": "resource",
+              "bbox": [
+                123,
+                735,
+                160,
+                747
+              ]
+            },
+            {
+              "text": "demands",
+              "bbox": [
+                165,
+                735,
+                204,
+                747
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                208,
+                735,
+                224,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                229,
+                735,
+                242,
+                747
+              ]
+            },
+            {
+              "text": "volume",
+              "bbox": [
+                247,
+                735,
+                280,
+                747
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                284,
+                735,
+                293,
+                747
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                298,
+                735,
+                316,
+                747
+              ]
+            },
+            {
+              "text": "processed,",
+              "bbox": [
+                321,
+                735,
+                367,
+                747
+              ]
+            },
+            {
+              "text": "reinforcing",
+              "bbox": [
+                371,
+                735,
+                420,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                424,
+                735,
+                438,
+                747
+              ]
+            },
+            {
+              "text": "effectiveness",
+              "bbox": [
+                442,
+                735,
+                499,
+                747
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                504,
+                735,
+                513,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                517,
+                735,
+                531,
+                747
+              ]
+            },
+            {
+              "text": "employed",
+              "bbox": [
+                535,
+                735,
+                579,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "protocols in handling large-scale genomic analyses. Collectively, these insights contribute to the ongoing research efforts in",
+          "bbox": [
+            15,
+            750,
+            579,
+            762
+          ],
+          "words": [
+            {
+              "text": "protocols",
+              "bbox": [
+                15,
+                750,
+                56,
+                762
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                60,
+                750,
+                69,
+                762
+              ]
+            },
+            {
+              "text": "handling",
+              "bbox": [
+                73,
+                750,
+                111,
+                762
+              ]
+            },
+            {
+              "text": "large-scale",
+              "bbox": [
+                115,
+                750,
+                163,
+                762
+              ]
+            },
+            {
+              "text": "genomic",
+              "bbox": [
+                167,
+                750,
+                205,
+                762
+              ]
+            },
+            {
+              "text": "analyses.",
+              "bbox": [
+                209,
+                750,
+                249,
+                762
+              ]
+            },
+            {
+              "text": "Collectively,",
+              "bbox": [
+                253,
+                750,
+                308,
+                762
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                313,
+                750,
+                335,
+                762
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                339,
+                750,
+                374,
+                762
+              ]
+            },
+            {
+              "text": "contribute",
+              "bbox": [
+                378,
+                750,
+                422,
+                762
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                426,
+                750,
+                435,
+                762
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                439,
+                750,
+                452,
+                762
+              ]
+            },
+            {
+              "text": "ongoing",
+              "bbox": [
+                457,
+                750,
+                493,
+                762
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                497,
+                750,
+                533,
+                762
+              ]
+            },
+            {
+              "text": "efforts",
+              "bbox": [
+                537,
+                750,
+                566,
+                762
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                570,
+                750,
+                579,
+                762
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding the complexities of coronaviruses and their implications in public health.",
+          "bbox": [
+            15,
+            766,
+            400,
+            778
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                766,
+                77,
+                778
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                80,
+                766,
+                93,
+                778
+              ]
+            },
+            {
+              "text": "complexities",
+              "bbox": [
+                96,
+                766,
+                152,
+                778
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                155,
+                766,
+                164,
+                778
+              ]
+            },
+            {
+              "text": "coronaviruses",
+              "bbox": [
+                167,
+                766,
+                228,
+                778
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                230,
+                766,
+                246,
+                778
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                249,
+                766,
+                269,
+                778
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                272,
+                766,
+                326,
+                778
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                329,
+                766,
+                337,
+                778
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                340,
+                766,
+                368,
+                778
+              ]
+            },
+            {
+              "text": "health.",
+              "bbox": [
+                370,
+                766,
+                400,
+                778
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

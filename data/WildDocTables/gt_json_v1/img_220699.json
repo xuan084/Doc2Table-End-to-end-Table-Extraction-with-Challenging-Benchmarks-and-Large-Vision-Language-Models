@@ -1,0 +1,5500 @@
+{
+  "image_id": "img_220699",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_220699_t0",
+      "bbox": [
+        9,
+        37,
+        331,
+        545
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            9,
+            37,
+            331,
+            57
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            9,
+            57,
+            331,
+            133
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            9,
+            133,
+            331,
+            233
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            9,
+            233,
+            331,
+            325
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            9,
+            325,
+            331,
+            361
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            9,
+            361,
+            331,
+            397
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            9,
+            397,
+            331,
+            433
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            9,
+            433,
+            331,
+            469
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            9,
+            469,
+            331,
+            545
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>InvestmentOverview</td><td colspan=\"2\">Amount($M)</td></tr><tr><td colspan=\"5\">TotalCampusInvestment</td><td colspan=\"2\">YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td>2023</td><td>2024</td><td>2025</td><td colspan=\"2\">ProjectedGrowth</td><td>TotalInvestment</td><td>FundingSources</td><td colspan=\"2\">PublicFunding(%)</td><td>PrivateInvestment(%)</td></tr><tr><td>InfrastructureType</td><td>TechnologyLabs</td><td>ClassroomUpgrades</td><td>LibraryResources</td><td>OnlinePlatforms</td><td>StudentHousing</td><td>TotalAmount($M)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>InvestmentType</td></tr></thead><tbody><tr><td>2023</td><td>25.0</td><td>15.0</td><td>10.0</td><td>30.0</td><td>20.0</td><td>110.0</td><td>5.0</td><td>45.0</td><td>Public</td></tr><tr><td>2024</td><td>30.0</td><td>20.0</td><td>15.0</td><td>35.0</td><td>25.0</td><td>115.0</td><td>10.0</td><td>50.0</td><td>Public</td></tr><tr><td>2025</td><td>35.0</td><td>25.0</td><td>20.0</td><td>40.0</td><td>30.0</td><td>120.0</td><td>15.0</td><td>55.0</td><td>Public</td></tr><tr><td>TotalFunding</td><td>145.0</td><td>20.0</td><td>50.0</td><td>50.0</td><td>1.5</td><td>Public</td><td>Private</td><td>30.0</td><td>25.0</td></tr><tr><td>TotalInvestmentGrowth</td><td>8.0</td><td>15.0</td><td>12.0</td><td>10.0</td><td>1.8</td><td>TotalMarketSize</td><td>200.0</td><td>60.0</td><td>Total</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "InvestmentOverview",
+          "bbox": [
+            9,
+            37,
+            55,
+            57
+          ],
+          "words": [
+            {
+              "text": "InvestmentOverview",
+              "bbox": [
+                12,
+                40,
+                49,
+                54
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Amount($M)",
+          "bbox": [
+            55,
+            37,
+            146,
+            57
+          ],
+          "words": [
+            {
+              "text": "Amount($M)",
+              "bbox": [
+                58,
+                40,
+                90,
+                46
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalCampusInvestment",
+          "bbox": [
+            9,
+            57,
+            237,
+            133
+          ],
+          "words": [
+            {
+              "text": "TotalCampusInvestment",
+              "bbox": [
+                12,
+                60,
+                72,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            237,
+            57,
+            295,
+            133
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                253,
+                60,
+                292,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            295,
+            57,
+            307,
+            133
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                298,
+                60,
+                304,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "2023",
+          "bbox": [
+            9,
+            133,
+            55,
+            233
+          ],
+          "words": [
+            {
+              "text": "2023",
+              "bbox": [
+                12,
+                136,
+                23,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "2024",
+          "bbox": [
+            55,
+            133,
+            100,
+            233
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                58,
+                136,
+                69,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "2025",
+          "bbox": [
+            100,
+            133,
+            146,
+            233
+          ],
+          "words": [
+            {
+              "text": "2025",
+              "bbox": [
+                103,
+                136,
+                115,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectedGrowth",
+          "bbox": [
+            146,
+            133,
+            237,
+            233
+          ],
+          "words": [
+            {
+              "text": "ProjectedGrowth",
+              "bbox": [
+                149,
+                136,
+                191,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalInvestment",
+          "bbox": [
+            237,
+            133,
+            283,
+            233
+          ],
+          "words": [
+            {
+              "text": "TotalInvestment",
+              "bbox": [
+                242,
+                136,
+                280,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "FundingSources",
+          "bbox": [
+            283,
+            133,
+            295,
+            233
+          ],
+          "words": [
+            {
+              "text": "FundingSources",
+              "bbox": [
+                286,
+                136,
+                291,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "PublicFunding(%)",
+          "bbox": [
+            295,
+            133,
+            319,
+            233
+          ],
+          "words": [
+            {
+              "text": "PublicFunding(%)",
+              "bbox": [
+                300,
+                136,
+                316,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "PrivateInvestment(%)",
+          "bbox": [
+            319,
+            133,
+            331,
+            233
+          ],
+          "words": [
+            {
+              "text": "PrivateInvestment(%)",
+              "bbox": [
+                322,
+                136,
+                328,
+                230
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "InfrastructureType",
+          "bbox": [
+            9,
+            233,
+            55,
+            325
+          ],
+          "words": [
+            {
+              "text": "InfrastructureType",
+              "bbox": [
+                12,
+                236,
+                51,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "TechnologyLabs",
+          "bbox": [
+            55,
+            233,
+            100,
+            325
+          ],
+          "words": [
+            {
+              "text": "TechnologyLabs",
+              "bbox": [
+                58,
+                236,
+                95,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ClassroomUpgrades",
+          "bbox": [
+            100,
+            233,
+            146,
+            325
+          ],
+          "words": [
+            {
+              "text": "ClassroomUpgrades",
+              "bbox": [
+                103,
+                236,
+                142,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "LibraryResources",
+          "bbox": [
+            146,
+            233,
+            192,
+            325
+          ],
+          "words": [
+            {
+              "text": "LibraryResources",
+              "bbox": [
+                149,
+                236,
+                188,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "OnlinePlatforms",
+          "bbox": [
+            192,
+            233,
+            237,
+            325
+          ],
+          "words": [
+            {
+              "text": "OnlinePlatforms",
+              "bbox": [
+                195,
+                236,
+                233,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "StudentHousing",
+          "bbox": [
+            237,
+            233,
+            283,
+            325
+          ],
+          "words": [
+            {
+              "text": "StudentHousing",
+              "bbox": [
+                241,
+                236,
+                280,
+                242
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalAmount($M)",
+          "bbox": [
+            283,
+            233,
+            295,
+            325
+          ],
+          "words": [
+            {
+              "text": "TotalAmount($M)",
+              "bbox": [
+                286,
+                236,
+                292,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            295,
+            233,
+            307,
+            325
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                298,
+                236,
+                304,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            307,
+            233,
+            319,
+            325
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                310,
+                236,
+                316,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "InvestmentType",
+          "bbox": [
+            319,
+            233,
+            331,
+            325
+          ],
+          "words": [
+            {
+              "text": "InvestmentType",
+              "bbox": [
+                322,
+                236,
+                328,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2023",
+          "bbox": [
+            9,
+            325,
+            55,
+            361
+          ],
+          "words": [
+            {
+              "text": "2023",
+              "bbox": [
+                12,
+                328,
+                23,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            55,
+            325,
+            100,
+            361
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                58,
+                328,
+                68,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            100,
+            325,
+            146,
+            361
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                103,
+                328,
+                113,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            146,
+            325,
+            192,
+            361
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                149,
+                328,
+                159,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            192,
+            325,
+            237,
+            361
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                195,
+                328,
+                205,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            237,
+            325,
+            283,
+            361
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                270,
+                328,
+                280,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "110.0",
+          "bbox": [
+            283,
+            325,
+            295,
+            361
+          ],
+          "words": [
+            {
+              "text": "110.0",
+              "bbox": [
+                286,
+                328,
+                291,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            295,
+            325,
+            307,
+            361
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                299,
+                328,
+                304,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "45.0",
+          "bbox": [
+            307,
+            325,
+            319,
+            361
+          ],
+          "words": [
+            {
+              "text": "45.0",
+              "bbox": [
+                310,
+                328,
+                316,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "Public",
+          "bbox": [
+            319,
+            325,
+            331,
+            361
+          ],
+          "words": [
+            {
+              "text": "Public",
+              "bbox": [
+                322,
+                328,
+                328,
+                350
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2024",
+          "bbox": [
+            9,
+            361,
+            55,
+            397
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                12,
+                364,
+                23,
+                370
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            55,
+            361,
+            100,
+            397
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                58,
+                364,
+                68,
+                370
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            100,
+            361,
+            146,
+            397
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                103,
+                364,
+                113,
+                370
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            146,
+            361,
+            192,
+            397
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                149,
+                364,
+                159,
+                370
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "35.0",
+          "bbox": [
+            192,
+            361,
+            237,
+            397
+          ],
+          "words": [
+            {
+              "text": "35.0",
+              "bbox": [
+                195,
+                364,
+                205,
+                370
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            237,
+            361,
+            283,
+            397
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                270,
+                364,
+                280,
+                370
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "115.0",
+          "bbox": [
+            283,
+            361,
+            295,
+            397
+          ],
+          "words": [
+            {
+              "text": "115.0",
+              "bbox": [
+                286,
+                364,
+                291,
+                394
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            295,
+            361,
+            307,
+            397
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                298,
+                364,
+                304,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "50.0",
+          "bbox": [
+            307,
+            361,
+            319,
+            397
+          ],
+          "words": [
+            {
+              "text": "50.0",
+              "bbox": [
+                310,
+                364,
+                316,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "Public",
+          "bbox": [
+            319,
+            361,
+            331,
+            397
+          ],
+          "words": [
+            {
+              "text": "Public",
+              "bbox": [
+                322,
+                364,
+                328,
+                386
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2025",
+          "bbox": [
+            9,
+            397,
+            55,
+            433
+          ],
+          "words": [
+            {
+              "text": "2025",
+              "bbox": [
+                12,
+                400,
+                23,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "35.0",
+          "bbox": [
+            55,
+            397,
+            100,
+            433
+          ],
+          "words": [
+            {
+              "text": "35.0",
+              "bbox": [
+                58,
+                400,
+                68,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            100,
+            397,
+            146,
+            433
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                103,
+                400,
+                113,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            146,
+            397,
+            192,
+            433
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                149,
+                400,
+                159,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "40.0",
+          "bbox": [
+            192,
+            397,
+            237,
+            433
+          ],
+          "words": [
+            {
+              "text": "40.0",
+              "bbox": [
+                195,
+                400,
+                205,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            237,
+            397,
+            283,
+            433
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                270,
+                400,
+                280,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "120.0",
+          "bbox": [
+            283,
+            397,
+            295,
+            433
+          ],
+          "words": [
+            {
+              "text": "120.0",
+              "bbox": [
+                286,
+                400,
+                291,
+                430
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            295,
+            397,
+            307,
+            433
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                298,
+                400,
+                304,
+                414
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "55.0",
+          "bbox": [
+            307,
+            397,
+            319,
+            433
+          ],
+          "words": [
+            {
+              "text": "55.0",
+              "bbox": [
+                310,
+                400,
+                316,
+                414
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "Public",
+          "bbox": [
+            319,
+            397,
+            331,
+            433
+          ],
+          "words": [
+            {
+              "text": "Public",
+              "bbox": [
+                322,
+                400,
+                328,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalFunding",
+          "bbox": [
+            9,
+            433,
+            55,
+            469
+          ],
+          "words": [
+            {
+              "text": "TotalFunding",
+              "bbox": [
+                12,
+                436,
+                43,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "145.0",
+          "bbox": [
+            55,
+            433,
+            100,
+            469
+          ],
+          "words": [
+            {
+              "text": "145.0",
+              "bbox": [
+                58,
+                436,
+                71,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            100,
+            433,
+            146,
+            469
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                103,
+                436,
+                113,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "50.0",
+          "bbox": [
+            146,
+            433,
+            192,
+            469
+          ],
+          "words": [
+            {
+              "text": "50.0",
+              "bbox": [
+                149,
+                436,
+                159,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "50.0",
+          "bbox": [
+            192,
+            433,
+            237,
+            469
+          ],
+          "words": [
+            {
+              "text": "50.0",
+              "bbox": [
+                195,
+                436,
+                205,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            237,
+            433,
+            283,
+            469
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                273,
+                436,
+                280,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Public",
+          "bbox": [
+            283,
+            433,
+            295,
+            469
+          ],
+          "words": [
+            {
+              "text": "Public",
+              "bbox": [
+                286,
+                436,
+                291,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "Private",
+          "bbox": [
+            295,
+            433,
+            307,
+            469
+          ],
+          "words": [
+            {
+              "text": "Private",
+              "bbox": [
+                299,
+                436,
+                304,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            307,
+            433,
+            319,
+            469
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                310,
+                436,
+                316,
+                450
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            319,
+            433,
+            331,
+            469
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                322,
+                436,
+                328,
+                450
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalInvestmentGrowth",
+          "bbox": [
+            9,
+            469,
+            55,
+            545
+          ],
+          "words": [
+            {
+              "text": "TotalInvestmentGrowth",
+              "bbox": [
+                12,
+                472,
+                49,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "8.0",
+          "bbox": [
+            55,
+            469,
+            100,
+            545
+          ],
+          "words": [
+            {
+              "text": "8.0",
+              "bbox": [
+                58,
+                472,
+                65,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            100,
+            469,
+            146,
+            545
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                103,
+                472,
+                113,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "12.0",
+          "bbox": [
+            146,
+            469,
+            192,
+            545
+          ],
+          "words": [
+            {
+              "text": "12.0",
+              "bbox": [
+                149,
+                472,
+                159,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            192,
+            469,
+            237,
+            545
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                195,
+                472,
+                205,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.8",
+          "bbox": [
+            237,
+            469,
+            283,
+            545
+          ],
+          "words": [
+            {
+              "text": "1.8",
+              "bbox": [
+                273,
+                472,
+                280,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalMarketSize",
+          "bbox": [
+            283,
+            469,
+            295,
+            545
+          ],
+          "words": [
+            {
+              "text": "TotalMarketSize",
+              "bbox": [
+                286,
+                472,
+                292,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "200.0",
+          "bbox": [
+            295,
+            469,
+            307,
+            545
+          ],
+          "words": [
+            {
+              "text": "200.0",
+              "bbox": [
+                298,
+                472,
+                304,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 71,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "60.0",
+          "bbox": [
+            307,
+            469,
+            319,
+            545
+          ],
+          "words": [
+            {
+              "text": "60.0",
+              "bbox": [
+                310,
+                472,
+                316,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 72,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            319,
+            469,
+            331,
+            545
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                323,
+                472,
+                328,
+                494
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        9,
+        554,
+        331,
+        642
+      ],
+      "content": "In March 2025, the investment overview for Coursera Inc reveals a total campus investment amount of $145.0M, with a year-over-year change of 20.0% and a market share of 50.0%. For the years 2023, 2024, and 2025, the infrastructure investments include technology labs of $25.0M, $30.0M, and $35.0M respectively; classroom upgrades of $15.0M, $20.0M, and $25.0M; library resources of $10.0M, $15.0M, and $20.0M; online platforms of $30.0M, $35.0M, and $40.0M; and student housing of $20.0M, $25.0M, and $30.0M. The total amount across these categories reaches $110.0M, $115.0M, and $120.0M with a year-over-year growth of 5.0%, 10.0%, and 15.0% and market share percentages of 45.0%, 50.0%, and 55.0%. The total funding from both public and private sources shows public funding at 30.0% and private investment at 25.0%. In the research grant funding, the University of Toronto received an approved funding amount of $1,500,000 at 85%, while McGill University is pending with $750,000 at 60%. The University of Alberta's approved funding is $950,000 at 70%, and the University of British Columbia received $1,200,000 at 90%.",
+      "lines": [
+        {
+          "text": "In March 2025, the investment overview for Coursera Inc reveals a total campus investment amount of $145.0M, with a year-",
+          "bbox": [
+            9,
+            554,
+            331,
+            561
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                9,
+                554,
+                14,
+                561
+              ]
+            },
+            {
+              "text": "March",
+              "bbox": [
+                16,
+                554,
+                32,
+                561
+              ]
+            },
+            {
+              "text": "2025,",
+              "bbox": [
+                34,
+                554,
+                48,
+                561
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                50,
+                554,
+                58,
+                561
+              ]
+            },
+            {
+              "text": "investment",
+              "bbox": [
+                60,
+                554,
+                87,
+                561
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                89,
+                554,
+                113,
+                561
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                114,
+                554,
+                122,
+                561
+              ]
+            },
+            {
+              "text": "Coursera",
+              "bbox": [
+                124,
+                554,
+                146,
+                561
+              ]
+            },
+            {
+              "text": "Inc",
+              "bbox": [
+                148,
+                554,
+                156,
+                561
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                158,
+                554,
+                176,
+                561
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                178,
+                554,
+                181,
+                561
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                183,
+                554,
+                194,
+                561
+              ]
+            },
+            {
+              "text": "campus",
+              "bbox": [
+                196,
+                554,
+                215,
+                561
+              ]
+            },
+            {
+              "text": "investment",
+              "bbox": [
+                217,
+                554,
+                244,
+                561
+              ]
+            },
+            {
+              "text": "amount",
+              "bbox": [
+                246,
+                554,
+                265,
+                561
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                267,
+                554,
+                272,
+                561
+              ]
+            },
+            {
+              "text": "$145.0M,",
+              "bbox": [
+                274,
+                554,
+                299,
+                561
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                301,
+                554,
+                312,
+                561
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                314,
+                554,
+                316,
+                561
+              ]
+            },
+            {
+              "text": "year-",
+              "bbox": [
+                318,
+                554,
+                331,
+                561
+              ]
+            }
+          ]
+        },
+        {
+          "text": "over-year change of 20.0% and a market share of 50.0%. For the years 2023, 2024, and 2025, the infrastructure investments",
+          "bbox": [
+            9,
+            563,
+            331,
+            570
+          ],
+          "words": [
+            {
+              "text": "over-year",
+              "bbox": [
+                9,
+                563,
+                32,
+                570
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                35,
+                563,
+                52,
+                570
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                55,
+                563,
+                60,
+                570
+              ]
+            },
+            {
+              "text": "20.0%",
+              "bbox": [
+                62,
+                563,
+                78,
+                570
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                80,
+                563,
+                89,
+                570
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                92,
+                563,
+                94,
+                570
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                97,
+                563,
+                114,
+                570
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                116,
+                563,
+                129,
+                570
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                132,
+                563,
+                137,
+                570
+              ]
+            },
+            {
+              "text": "50.0%.",
+              "bbox": [
+                139,
+                563,
+                157,
+                570
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                159,
+                563,
+                168,
+                570
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                170,
+                563,
+                178,
+                570
+              ]
+            },
+            {
+              "text": "years",
+              "bbox": [
+                180,
+                563,
+                193,
+                570
+              ]
+            },
+            {
+              "text": "2023,",
+              "bbox": [
+                195,
+                563,
+                209,
+                570
+              ]
+            },
+            {
+              "text": "2024,",
+              "bbox": [
+                211,
+                563,
+                226,
+                570
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                228,
+                563,
+                237,
+                570
+              ]
+            },
+            {
+              "text": "2025,",
+              "bbox": [
+                239,
+                563,
+                253,
+                570
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                255,
+                563,
+                263,
+                570
+              ]
+            },
+            {
+              "text": "infrastructure",
+              "bbox": [
+                265,
+                563,
+                299,
+                570
+              ]
+            },
+            {
+              "text": "investments",
+              "bbox": [
+                301,
+                563,
+                331,
+                570
+              ]
+            }
+          ]
+        },
+        {
+          "text": "include technology labs of $25.0M, $30.0M, and $35.0M respectively; classroom upgrades of $15.0M, $20.0M, and $25.0M;",
+          "bbox": [
+            9,
+            572,
+            331,
+            579
+          ],
+          "words": [
+            {
+              "text": "include",
+              "bbox": [
+                9,
+                572,
+                27,
+                579
+              ]
+            },
+            {
+              "text": "technology",
+              "bbox": [
+                29,
+                572,
+                57,
+                579
+              ]
+            },
+            {
+              "text": "labs",
+              "bbox": [
+                59,
+                572,
+                69,
+                579
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                71,
+                572,
+                76,
+                579
+              ]
+            },
+            {
+              "text": "$25.0M,",
+              "bbox": [
+                79,
+                572,
+                100,
+                579
+              ]
+            },
+            {
+              "text": "$30.0M,",
+              "bbox": [
+                102,
+                572,
+                123,
+                579
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                125,
+                572,
+                134,
+                579
+              ]
+            },
+            {
+              "text": "$35.0M",
+              "bbox": [
+                136,
+                572,
+                156,
+                579
+              ]
+            },
+            {
+              "text": "respectively;",
+              "bbox": [
+                158,
+                572,
+                190,
+                579
+              ]
+            },
+            {
+              "text": "classroom",
+              "bbox": [
+                192,
+                572,
+                218,
+                579
+              ]
+            },
+            {
+              "text": "upgrades",
+              "bbox": [
+                220,
+                572,
+                242,
+                579
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                245,
+                572,
+                250,
+                579
+              ]
+            },
+            {
+              "text": "$15.0M,",
+              "bbox": [
+                252,
+                572,
+                273,
+                579
+              ]
+            },
+            {
+              "text": "$20.0M,",
+              "bbox": [
+                275,
+                572,
+                296,
+                579
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                298,
+                572,
+                308,
+                579
+              ]
+            },
+            {
+              "text": "$25.0M;",
+              "bbox": [
+                310,
+                572,
+                331,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "text": "library resources of $10.0M, $15.0M, and $20.0M; online platforms of $30.0M, $35.0M, and $40.0M; and student housing of",
+          "bbox": [
+            9,
+            581,
+            331,
+            588
+          ],
+          "words": [
+            {
+              "text": "library",
+              "bbox": [
+                9,
+                581,
+                25,
+                588
+              ]
+            },
+            {
+              "text": "resources",
+              "bbox": [
+                27,
+                581,
+                51,
+                588
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                53,
+                581,
+                58,
+                588
+              ]
+            },
+            {
+              "text": "$10.0M,",
+              "bbox": [
+                60,
+                581,
+                81,
+                588
+              ]
+            },
+            {
+              "text": "$15.0M,",
+              "bbox": [
+                83,
+                581,
+                105,
+                588
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                107,
+                581,
+                116,
+                588
+              ]
+            },
+            {
+              "text": "$20.0M;",
+              "bbox": [
+                118,
+                581,
+                139,
+                588
+              ]
+            },
+            {
+              "text": "online",
+              "bbox": [
+                141,
+                581,
+                157,
+                588
+              ]
+            },
+            {
+              "text": "platforms",
+              "bbox": [
+                159,
+                581,
+                183,
+                588
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                185,
+                581,
+                190,
+                588
+              ]
+            },
+            {
+              "text": "$30.0M,",
+              "bbox": [
+                192,
+                581,
+                213,
+                588
+              ]
+            },
+            {
+              "text": "$35.0M,",
+              "bbox": [
+                215,
+                581,
+                236,
+                588
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                238,
+                581,
+                247,
+                588
+              ]
+            },
+            {
+              "text": "$40.0M;",
+              "bbox": [
+                249,
+                581,
+                271,
+                588
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                273,
+                581,
+                282,
+                588
+              ]
+            },
+            {
+              "text": "student",
+              "bbox": [
+                284,
+                581,
+                302,
+                588
+              ]
+            },
+            {
+              "text": "housing",
+              "bbox": [
+                304,
+                581,
+                324,
+                588
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                326,
+                581,
+                331,
+                588
+              ]
+            }
+          ]
+        },
+        {
+          "text": "$20.0M, $25.0M, and $30.0M. The total amount across these categories reaches $110.0M, $115.0M, and $120.0M with a year-",
+          "bbox": [
+            9,
+            589,
+            331,
+            596
+          ],
+          "words": [
+            {
+              "text": "$20.0M,",
+              "bbox": [
+                9,
+                589,
+                30,
+                596
+              ]
+            },
+            {
+              "text": "$25.0M,",
+              "bbox": [
+                32,
+                589,
+                53,
+                596
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                55,
+                589,
+                64,
+                596
+              ]
+            },
+            {
+              "text": "$30.0M.",
+              "bbox": [
+                65,
+                589,
+                87,
+                596
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                88,
+                589,
+                98,
+                596
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                100,
+                589,
+                111,
+                596
+              ]
+            },
+            {
+              "text": "amount",
+              "bbox": [
+                113,
+                589,
+                132,
+                596
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                133,
+                589,
+                149,
+                596
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                151,
+                589,
+                164,
+                596
+              ]
+            },
+            {
+              "text": "categories",
+              "bbox": [
+                166,
+                589,
+                191,
+                596
+              ]
+            },
+            {
+              "text": "reaches",
+              "bbox": [
+                193,
+                589,
+                212,
+                596
+              ]
+            },
+            {
+              "text": "$110.0M,",
+              "bbox": [
+                213,
+                589,
+                238,
+                596
+              ]
+            },
+            {
+              "text": "$115.0M,",
+              "bbox": [
+                239,
+                589,
+                264,
+                596
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                265,
+                589,
+                274,
+                596
+              ]
+            },
+            {
+              "text": "$120.0M",
+              "bbox": [
+                276,
+                589,
+                299,
+                596
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                301,
+                589,
+                312,
+                596
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                314,
+                589,
+                317,
+                596
+              ]
+            },
+            {
+              "text": "year-",
+              "bbox": [
+                318,
+                589,
+                331,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "text": "over-year growth of 5.0%, 10.0%, and 15.0% and market share percentages of 45.0%, 50.0%, and 55.0%. The total funding",
+          "bbox": [
+            9,
+            598,
+            331,
+            605
+          ],
+          "words": [
+            {
+              "text": "over-year",
+              "bbox": [
+                9,
+                598,
+                32,
+                605
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                35,
+                598,
+                53,
+                605
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                55,
+                598,
+                60,
+                605
+              ]
+            },
+            {
+              "text": "5.0%,",
+              "bbox": [
+                62,
+                598,
+                77,
+                605
+              ]
+            },
+            {
+              "text": "10.0%,",
+              "bbox": [
+                79,
+                598,
+                97,
+                605
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                99,
+                598,
+                108,
+                605
+              ]
+            },
+            {
+              "text": "15.0%",
+              "bbox": [
+                110,
+                598,
+                127,
+                605
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                129,
+                598,
+                138,
+                605
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                140,
+                598,
+                158,
+                605
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                160,
+                598,
+                173,
+                605
+              ]
+            },
+            {
+              "text": "percentages",
+              "bbox": [
+                175,
+                598,
+                205,
+                605
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                207,
+                598,
+                213,
+                605
+              ]
+            },
+            {
+              "text": "45.0%,",
+              "bbox": [
+                215,
+                598,
+                233,
+                605
+              ]
+            },
+            {
+              "text": "50.0%,",
+              "bbox": [
+                235,
+                598,
+                253,
+                605
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                255,
+                598,
+                264,
+                605
+              ]
+            },
+            {
+              "text": "55.0%.",
+              "bbox": [
+                266,
+                598,
+                284,
+                605
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                286,
+                598,
+                296,
+                605
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                298,
+                598,
+                309,
+                605
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                312,
+                598,
+                331,
+                605
+              ]
+            }
+          ]
+        },
+        {
+          "text": "from both public and private sources shows public funding at 30.0% and private investment at 25.0%. In the research grant",
+          "bbox": [
+            9,
+            607,
+            331,
+            614
+          ],
+          "words": [
+            {
+              "text": "from",
+              "bbox": [
+                9,
+                607,
+                21,
+                614
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                23,
+                607,
+                34,
+                614
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                36,
+                607,
+                52,
+                614
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                54,
+                607,
+                64,
+                614
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                66,
+                607,
+                83,
+                614
+              ]
+            },
+            {
+              "text": "sources",
+              "bbox": [
+                86,
+                607,
+                104,
+                614
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                107,
+                607,
+                122,
+                614
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                125,
+                607,
+                140,
+                614
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                143,
+                607,
+                162,
+                614
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                164,
+                607,
+                169,
+                614
+              ]
+            },
+            {
+              "text": "30.0%",
+              "bbox": [
+                171,
+                607,
+                187,
+                614
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                190,
+                607,
+                199,
+                614
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                201,
+                607,
+                219,
+                614
+              ]
+            },
+            {
+              "text": "investment",
+              "bbox": [
+                221,
+                607,
+                248,
+                614
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                251,
+                607,
+                255,
+                614
+              ]
+            },
+            {
+              "text": "25.0%.",
+              "bbox": [
+                257,
+                607,
+                275,
+                614
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                278,
+                607,
+                283,
+                614
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                285,
+                607,
+                293,
+                614
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                295,
+                607,
+                316,
+                614
+              ]
+            },
+            {
+              "text": "grant",
+              "bbox": [
+                318,
+                607,
+                331,
+                614
+              ]
+            }
+          ]
+        },
+        {
+          "text": "funding, the University of Toronto received an approved funding amount of $1,500,000 at 85%, while McGill University is",
+          "bbox": [
+            9,
+            616,
+            331,
+            623
+          ],
+          "words": [
+            {
+              "text": "funding,",
+              "bbox": [
+                9,
+                616,
+                30,
+                623
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                32,
+                616,
+                40,
+                623
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                42,
+                616,
+                69,
+                623
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                71,
+                616,
+                76,
+                623
+              ]
+            },
+            {
+              "text": "Toronto",
+              "bbox": [
+                78,
+                616,
+                98,
+                623
+              ]
+            },
+            {
+              "text": "received",
+              "bbox": [
+                100,
+                616,
+                122,
+                623
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                124,
+                616,
+                130,
+                623
+              ]
+            },
+            {
+              "text": "approved",
+              "bbox": [
+                132,
+                616,
+                156,
+                623
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                158,
+                616,
+                177,
+                623
+              ]
+            },
+            {
+              "text": "amount",
+              "bbox": [
+                180,
+                616,
+                199,
+                623
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                201,
+                616,
+                206,
+                623
+              ]
+            },
+            {
+              "text": "$1,500,000",
+              "bbox": [
+                208,
+                616,
+                237,
+                623
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                239,
+                616,
+                244,
+                623
+              ]
+            },
+            {
+              "text": "85%,",
+              "bbox": [
+                246,
+                616,
+                259,
+                623
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                261,
+                616,
+                275,
+                623
+              ]
+            },
+            {
+              "text": "McGill",
+              "bbox": [
+                278,
+                616,
+                296,
+                623
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                298,
+                616,
+                325,
+                623
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                327,
+                616,
+                331,
+                623
+              ]
+            }
+          ]
+        },
+        {
+          "text": "pending with $750,000 at 60%. The University of Alberta's approved funding is $950,000 at 70%, and the University of British",
+          "bbox": [
+            9,
+            625,
+            331,
+            631
+          ],
+          "words": [
+            {
+              "text": "pending",
+              "bbox": [
+                9,
+                625,
+                29,
+                631
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                31,
+                625,
+                42,
+                631
+              ]
+            },
+            {
+              "text": "$750,000",
+              "bbox": [
+                43,
+                625,
+                67,
+                631
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                69,
+                625,
+                73,
+                631
+              ]
+            },
+            {
+              "text": "60%.",
+              "bbox": [
+                75,
+                625,
+                88,
+                631
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                90,
+                625,
+                99,
+                631
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                101,
+                625,
+                128,
+                631
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                129,
+                625,
+                135,
+                631
+              ]
+            },
+            {
+              "text": "Alberta's",
+              "bbox": [
+                136,
+                625,
+                158,
+                631
+              ]
+            },
+            {
+              "text": "approved",
+              "bbox": [
+                160,
+                625,
+                183,
+                631
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                185,
+                625,
+                205,
+                631
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                206,
+                625,
+                211,
+                631
+              ]
+            },
+            {
+              "text": "$950,000",
+              "bbox": [
+                212,
+                625,
+                236,
+                631
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                238,
+                625,
+                242,
+                631
+              ]
+            },
+            {
+              "text": "70%,",
+              "bbox": [
+                244,
+                625,
+                257,
+                631
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                259,
+                625,
+                268,
+                631
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                269,
+                625,
+                277,
+                631
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                279,
+                625,
+                305,
+                631
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                307,
+                625,
+                312,
+                631
+              ]
+            },
+            {
+              "text": "British",
+              "bbox": [
+                314,
+                625,
+                331,
+                631
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Columbia received $1,200,000 at 90%.",
+          "bbox": [
+            9,
+            633,
+            107,
+            640
+          ],
+          "words": [
+            {
+              "text": "Columbia",
+              "bbox": [
+                9,
+                633,
+                33,
+                640
+              ]
+            },
+            {
+              "text": "received",
+              "bbox": [
+                35,
+                633,
+                56,
+                640
+              ]
+            },
+            {
+              "text": "$1,200,000",
+              "bbox": [
+                58,
+                633,
+                86,
+                640
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                88,
+                633,
+                92,
+                640
+              ]
+            },
+            {
+              "text": "90%.",
+              "bbox": [
+                94,
+                633,
+                107,
+                640
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_220699_t1",
+      "bbox": [
+        9,
+        650,
+        331,
+        780
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "None",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            9,
+            650,
+            331,
+            662
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            9,
+            662,
+            331,
+            682
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            9,
+            682,
+            331,
+            702
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            9,
+            702,
+            331,
+            722
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            9,
+            722,
+            331,
+            741
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            9,
+            741,
+            331,
+            761
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            9,
+            761,
+            331,
+            780
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"3\">ResearchGrantFunding</td><td>March2025</td><td>Currency:CAD</td></tr><tr><td>Institution</td><td>Category</td><td>Status</td><td colspan=\"3\">FundingAmount</td><td>PercentageFunded</td></tr><tr><td>UniversityofToronto</td><td>STEM</td><td>Approved</td><td>$1,500,000</td><td>85%</td><td>McGillUniversity</td><td>Humanities</td></tr></thead><tbody><tr><td>Pending</td><td>$750,000</td><td>60%</td><td>UniversityofAlberta</td><td>Education</td><td>Approved</td><td>$950,000</td></tr><tr><td>70%</td><td>UniversityofBritishColumbia</td><td>STEM</td><td>Approved</td><td>$1,200,000</td><td>90%</td><td>YorkUniversity</td></tr><tr><td>SocialSciences</td><td>Rejected</td><td>$500,000</td><td>0%</td><td>UniversityofCalgary</td><td>STEM</td><td>Approved</td></tr><tr><td>$1,000,000</td><td>80%</td><td>TotalFunding</td><td>$5,895,000</td><td>AveragePercentage</td><td>68%</td><td>Total</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ResearchGrantFunding",
+          "bbox": [
+            9,
+            650,
+            151,
+            662
+          ],
+          "words": [
+            {
+              "text": "ResearchGrantFunding",
+              "bbox": [
+                12,
+                653,
+                70,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "March2025",
+          "bbox": [
+            151,
+            650,
+            199,
+            662
+          ],
+          "words": [
+            {
+              "text": "March2025",
+              "bbox": [
+                154,
+                653,
+                182,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Currency:CAD",
+          "bbox": [
+            199,
+            650,
+            246,
+            662
+          ],
+          "words": [
+            {
+              "text": "Currency:CAD",
+              "bbox": [
+                202,
+                653,
+                239,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Institution",
+          "bbox": [
+            9,
+            662,
+            56,
+            682
+          ],
+          "words": [
+            {
+              "text": "Institution",
+              "bbox": [
+                12,
+                665,
+                38,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Category",
+          "bbox": [
+            56,
+            662,
+            104,
+            682
+          ],
+          "words": [
+            {
+              "text": "Category",
+              "bbox": [
+                59,
+                665,
+                82,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Status",
+          "bbox": [
+            104,
+            662,
+            151,
+            682
+          ],
+          "words": [
+            {
+              "text": "Status",
+              "bbox": [
+                107,
+                665,
+                122,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3,
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "FundingAmount",
+          "bbox": [
+            151,
+            662,
+            293,
+            682
+          ],
+          "words": [
+            {
+              "text": "FundingAmount",
+              "bbox": [
+                154,
+                665,
+                195,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "PercentageFunded",
+          "bbox": [
+            293,
+            662,
+            331,
+            682
+          ],
+          "words": [
+            {
+              "text": "PercentageFunded",
+              "bbox": [
+                296,
+                665,
+                327,
+                679
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "UniversityofToronto",
+          "bbox": [
+            9,
+            682,
+            56,
+            702
+          ],
+          "words": [
+            {
+              "text": "UniversityofToronto",
+              "bbox": [
+                12,
+                685,
+                51,
+                699
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "STEM",
+          "bbox": [
+            56,
+            682,
+            104,
+            702
+          ],
+          "words": [
+            {
+              "text": "STEM",
+              "bbox": [
+                59,
+                685,
+                76,
+                691
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Approved",
+          "bbox": [
+            104,
+            682,
+            151,
+            702
+          ],
+          "words": [
+            {
+              "text": "Approved",
+              "bbox": [
+                107,
+                685,
+                131,
+                691
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "$1,500,000",
+          "bbox": [
+            151,
+            682,
+            199,
+            702
+          ],
+          "words": [
+            {
+              "text": "$1,500,000",
+              "bbox": [
+                154,
+                685,
+                180,
+                691
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "85%",
+          "bbox": [
+            199,
+            682,
+            246,
+            702
+          ],
+          "words": [
+            {
+              "text": "85%",
+              "bbox": [
+                202,
+                685,
+                213,
+                691
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "McGillUniversity",
+          "bbox": [
+            246,
+            682,
+            293,
+            702
+          ],
+          "words": [
+            {
+              "text": "McGillUniversity",
+              "bbox": [
+                251,
+                685,
+                290,
+                699
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Humanities",
+          "bbox": [
+            293,
+            682,
+            331,
+            702
+          ],
+          "words": [
+            {
+              "text": "Humanities",
+              "bbox": [
+                296,
+                685,
+                325,
+                691
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Pending",
+          "bbox": [
+            9,
+            702,
+            56,
+            722
+          ],
+          "words": [
+            {
+              "text": "Pending",
+              "bbox": [
+                12,
+                705,
+                30,
+                711
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$750,000",
+          "bbox": [
+            56,
+            702,
+            104,
+            722
+          ],
+          "words": [
+            {
+              "text": "$750,000",
+              "bbox": [
+                59,
+                705,
+                81,
+                711
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "60%",
+          "bbox": [
+            104,
+            702,
+            151,
+            722
+          ],
+          "words": [
+            {
+              "text": "60%",
+              "bbox": [
+                107,
+                705,
+                117,
+                711
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "UniversityofAlberta",
+          "bbox": [
+            151,
+            702,
+            199,
+            722
+          ],
+          "words": [
+            {
+              "text": "UniversityofAlberta",
+              "bbox": [
+                154,
+                705,
+                194,
+                719
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Education",
+          "bbox": [
+            199,
+            702,
+            246,
+            722
+          ],
+          "words": [
+            {
+              "text": "Education",
+              "bbox": [
+                201,
+                705,
+                225,
+                711
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Approved",
+          "bbox": [
+            246,
+            702,
+            293,
+            722
+          ],
+          "words": [
+            {
+              "text": "Approved",
+              "bbox": [
+                268,
+                705,
+                290,
+                711
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$950,000",
+          "bbox": [
+            293,
+            702,
+            331,
+            722
+          ],
+          "words": [
+            {
+              "text": "$950,000",
+              "bbox": [
+                296,
+                705,
+                318,
+                711
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "70%",
+          "bbox": [
+            9,
+            722,
+            56,
+            741
+          ],
+          "words": [
+            {
+              "text": "70%",
+              "bbox": [
+                12,
+                724,
+                22,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "UniversityofBritishColumbia",
+          "bbox": [
+            56,
+            722,
+            104,
+            741
+          ],
+          "words": [
+            {
+              "text": "UniversityofBritishColumbia",
+              "bbox": [
+                59,
+                724,
+                101,
+                739
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "STEM",
+          "bbox": [
+            104,
+            722,
+            151,
+            741
+          ],
+          "words": [
+            {
+              "text": "STEM",
+              "bbox": [
+                107,
+                724,
+                122,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Approved",
+          "bbox": [
+            151,
+            722,
+            199,
+            741
+          ],
+          "words": [
+            {
+              "text": "Approved",
+              "bbox": [
+                154,
+                724,
+                177,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$1,200,000",
+          "bbox": [
+            199,
+            722,
+            246,
+            741
+          ],
+          "words": [
+            {
+              "text": "$1,200,000",
+              "bbox": [
+                201,
+                724,
+                227,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "90%",
+          "bbox": [
+            246,
+            722,
+            293,
+            741
+          ],
+          "words": [
+            {
+              "text": "90%",
+              "bbox": [
+                280,
+                724,
+                290,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "YorkUniversity",
+          "bbox": [
+            293,
+            722,
+            331,
+            741
+          ],
+          "words": [
+            {
+              "text": "YorkUniversity",
+              "bbox": [
+                296,
+                724,
+                327,
+                739
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SocialSciences",
+          "bbox": [
+            9,
+            741,
+            56,
+            761
+          ],
+          "words": [
+            {
+              "text": "SocialSciences",
+              "bbox": [
+                12,
+                744,
+                46,
+                750
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Rejected",
+          "bbox": [
+            56,
+            741,
+            104,
+            761
+          ],
+          "words": [
+            {
+              "text": "Rejected",
+              "bbox": [
+                59,
+                744,
+                79,
+                750
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$500,000",
+          "bbox": [
+            104,
+            741,
+            151,
+            761
+          ],
+          "words": [
+            {
+              "text": "$500,000",
+              "bbox": [
+                107,
+                744,
+                128,
+                750
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0%",
+          "bbox": [
+            151,
+            741,
+            199,
+            761
+          ],
+          "words": [
+            {
+              "text": "0%",
+              "bbox": [
+                154,
+                744,
+                162,
+                750
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "UniversityofCalgary",
+          "bbox": [
+            199,
+            741,
+            246,
+            761
+          ],
+          "words": [
+            {
+              "text": "UniversityofCalgary",
+              "bbox": [
+                201,
+                744,
+                241,
+                758
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "STEM",
+          "bbox": [
+            246,
+            741,
+            293,
+            761
+          ],
+          "words": [
+            {
+              "text": "STEM",
+              "bbox": [
+                275,
+                744,
+                290,
+                750
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Approved",
+          "bbox": [
+            293,
+            741,
+            331,
+            761
+          ],
+          "words": [
+            {
+              "text": "Approved",
+              "bbox": [
+                296,
+                744,
+                319,
+                750
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "$1,000,000",
+          "bbox": [
+            9,
+            761,
+            56,
+            780
+          ],
+          "words": [
+            {
+              "text": "$1,000,000",
+              "bbox": [
+                12,
+                763,
+                37,
+                769
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            56,
+            761,
+            104,
+            780
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                59,
+                763,
+                70,
+                769
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalFunding",
+          "bbox": [
+            104,
+            761,
+            151,
+            780
+          ],
+          "words": [
+            {
+              "text": "TotalFunding",
+              "bbox": [
+                107,
+                763,
+                137,
+                769
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$5,895,000",
+          "bbox": [
+            151,
+            761,
+            199,
+            780
+          ],
+          "words": [
+            {
+              "text": "$5,895,000",
+              "bbox": [
+                154,
+                763,
+                180,
+                769
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "AveragePercentage",
+          "bbox": [
+            199,
+            761,
+            246,
+            780
+          ],
+          "words": [
+            {
+              "text": "AveragePercentage",
+              "bbox": [
+                201,
+                763,
+                243,
+                777
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "68%",
+          "bbox": [
+            246,
+            761,
+            293,
+            780
+          ],
+          "words": [
+            {
+              "text": "68%",
+              "bbox": [
+                280,
+                763,
+                290,
+                769
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            293,
+            761,
+            331,
+            780
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                296,
+                763,
+                308,
+                769
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        9,
+        789,
+        331,
+        806
+      ],
+      "content": "York University in social sciences was rejected for $500,000 at 0%, while the University of Calgary was approved for $1,000,000 at 80%. The total funding is $5,895,000 with an average percentage funded of 68%.",
+      "lines": [
+        {
+          "text": "York University in social sciences was rejected for $500,000 at 0%, while the University of Calgary was approved for",
+          "bbox": [
+            9,
+            789,
+            331,
+            796
+          ],
+          "words": [
+            {
+              "text": "York",
+              "bbox": [
+                9,
+                789,
+                21,
+                796
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                24,
+                789,
+                50,
+                796
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                53,
+                789,
+                58,
+                796
+              ]
+            },
+            {
+              "text": "social",
+              "bbox": [
+                61,
+                789,
+                76,
+                796
+              ]
+            },
+            {
+              "text": "sciences",
+              "bbox": [
+                79,
+                789,
+                100,
+                796
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                103,
+                789,
+                113,
+                796
+              ]
+            },
+            {
+              "text": "rejected",
+              "bbox": [
+                116,
+                789,
+                136,
+                796
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                139,
+                789,
+                146,
+                796
+              ]
+            },
+            {
+              "text": "$500,000",
+              "bbox": [
+                149,
+                789,
+                173,
+                796
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                176,
+                789,
+                180,
+                796
+              ]
+            },
+            {
+              "text": "0%,",
+              "bbox": [
+                183,
+                789,
+                193,
+                796
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                196,
+                789,
+                210,
+                796
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                213,
+                789,
+                221,
+                796
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                224,
+                789,
+                250,
+                796
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                253,
+                789,
+                259,
+                796
+              ]
+            },
+            {
+              "text": "Calgary",
+              "bbox": [
+                262,
+                789,
+                282,
+                796
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                285,
+                789,
+                294,
+                796
+              ]
+            },
+            {
+              "text": "approved",
+              "bbox": [
+                297,
+                789,
+                321,
+                796
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                324,
+                789,
+                331,
+                796
+              ]
+            }
+          ]
+        },
+        {
+          "text": "$1,000,000 at 80%. The total funding is $5,895,000 with an average percentage funded of 68%.",
+          "bbox": [
+            9,
+            798,
+            249,
+            805
+          ],
+          "words": [
+            {
+              "text": "$1,000,000",
+              "bbox": [
+                9,
+                798,
+                37,
+                805
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                38,
+                798,
+                43,
+                805
+              ]
+            },
+            {
+              "text": "80%.",
+              "bbox": [
+                44,
+                798,
+                58,
+                805
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                59,
+                798,
+                69,
+                805
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                70,
+                798,
+                82,
+                805
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                83,
+                798,
+                103,
+                805
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                104,
+                798,
+                108,
+                805
+              ]
+            },
+            {
+              "text": "$5,895,000",
+              "bbox": [
+                110,
+                798,
+                138,
+                805
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                140,
+                798,
+                151,
+                805
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                153,
+                798,
+                158,
+                805
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                160,
+                798,
+                180,
+                805
+              ]
+            },
+            {
+              "text": "percentage",
+              "bbox": [
+                181,
+                798,
+                208,
+                805
+              ]
+            },
+            {
+              "text": "funded",
+              "bbox": [
+                210,
+                798,
+                227,
+                805
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                229,
+                798,
+                234,
+                805
+              ]
+            },
+            {
+              "text": "68%.",
+              "bbox": [
+                236,
+                798,
+                249,
+                805
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

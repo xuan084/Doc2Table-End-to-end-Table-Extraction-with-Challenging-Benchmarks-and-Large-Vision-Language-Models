@@ -1,0 +1,4009 @@
+{
+  "image_id": "img_043244",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_043244_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        315
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            65,
+            580,
+            99
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            99,
+            580,
+            119
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            119,
+            580,
+            139
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            139,
+            580,
+            173
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            173,
+            580,
+            207
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            207,
+            580,
+            241
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            241,
+            580,
+            275
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            275,
+            580,
+            295
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            15,
+            295,
+            580,
+            315
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Primers</td><td>Position (EMC, JX869059.2)</td><td>Sequence (5′ – 3′)</td><td>Number of matched MERS sequences*</td></tr><tr><td>F3</td><td>28848–28866</td><td>GCTCCCAGGTGGTACTTCT</td><td>86/88</td></tr><tr><td>B3</td><td>29061–29042</td><td>cagtcccctcaatgtggaag</td><td>88/88</td></tr><tr><td rowspan=\"2\">FIP (F1c + F2)</td><td>28939–28918</td><td rowspan=\"2\">tcatggacccaaacgatgccatACTGGAACTGGACCCGAAG</td><td>77/88</td></tr><tr><td>+ 28872–28890</td><td>88/88</td></tr><tr><td rowspan=\"2\">BIP (B1c + B2)</td><td>28956–28977</td><td rowspan=\"2\">GCTCCTTCAACTTTTGGGACGCtagtaccgggcgcgaatt</td><td>87/88</td></tr><tr><td>+ 29028–29011</td><td>83-88</td></tr><tr><td>LF</td><td>28906–28891</td><td>cggaatgggagtgctg</td><td>88/88</td></tr><tr><td>LB</td><td>28978–29000</td><td>GGAACCCTAACAATGATTCAGCT</td><td>85/88</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Primers",
+          "bbox": [
+            15,
+            65,
+            83,
+            99
+          ],
+          "words": [
+            {
+              "text": "Primers",
+              "bbox": [
+                20,
+                69,
+                54,
+                80
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Position (EMC, JX869059.2)",
+          "bbox": [
+            83,
+            65,
+            204,
+            99
+          ],
+          "words": [
+            {
+              "text": "Position",
+              "bbox": [
+                89,
+                69,
+                123,
+                80
+              ]
+            },
+            {
+              "text": "(EMC,",
+              "bbox": [
+                126,
+                69,
+                155,
+                80
+              ]
+            },
+            {
+              "text": "JX869059.2)",
+              "bbox": [
+                89,
+                83,
+                142,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Sequence (5′ – 3′)",
+          "bbox": [
+            204,
+            65,
+            419,
+            99
+          ],
+          "words": [
+            {
+              "text": "Sequence",
+              "bbox": [
+                339,
+                69,
+                379,
+                80
+              ]
+            },
+            {
+              "text": "(5′",
+              "bbox": [
+                381,
+                69,
+                392,
+                80
+              ]
+            },
+            {
+              "text": "–",
+              "bbox": [
+                395,
+                69,
+                400,
+                80
+              ]
+            },
+            {
+              "text": "3′)",
+              "bbox": [
+                402,
+                69,
+                413,
+                80
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of matched MERS sequences*",
+          "bbox": [
+            419,
+            65,
+            580,
+            99
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                458,
+                69,
+                494,
+                80
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                496,
+                69,
+                504,
+                80
+              ]
+            },
+            {
+              "text": "matched",
+              "bbox": [
+                507,
+                69,
+                544,
+                80
+              ]
+            },
+            {
+              "text": "MERS",
+              "bbox": [
+                546,
+                69,
+                575,
+                80
+              ]
+            },
+            {
+              "text": "sequences*",
+              "bbox": [
+                528,
+                83,
+                575,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "F3",
+          "bbox": [
+            15,
+            99,
+            83,
+            119
+          ],
+          "words": [
+            {
+              "text": "F3",
+              "bbox": [
+                20,
+                103,
+                31,
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28848–28866",
+          "bbox": [
+            83,
+            99,
+            204,
+            119
+          ],
+          "words": [
+            {
+              "text": "28848–28866",
+              "bbox": [
+                89,
+                103,
+                144,
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "GCTCCCAGGTGGTACTTCT",
+          "bbox": [
+            204,
+            99,
+            419,
+            119
+          ],
+          "words": [
+            {
+              "text": "GCTCCCAGGTGGTACTTCT",
+              "bbox": [
+                287,
+                103,
+                413,
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "86/88",
+          "bbox": [
+            419,
+            99,
+            580,
+            119
+          ],
+          "words": [
+            {
+              "text": "86/88",
+              "bbox": [
+                552,
+                103,
+                575,
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "B3",
+          "bbox": [
+            15,
+            119,
+            83,
+            139
+          ],
+          "words": [
+            {
+              "text": "B3",
+              "bbox": [
+                20,
+                123,
+                32,
+                134
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "29061–29042",
+          "bbox": [
+            83,
+            119,
+            204,
+            139
+          ],
+          "words": [
+            {
+              "text": "29061–29042",
+              "bbox": [
+                89,
+                123,
+                144,
+                134
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "cagtcccctcaatgtggaag",
+          "bbox": [
+            204,
+            119,
+            419,
+            139
+          ],
+          "words": [
+            {
+              "text": "cagtcccctcaatgtggaag",
+              "bbox": [
+                328,
+                123,
+                413,
+                134
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "88/88",
+          "bbox": [
+            419,
+            119,
+            580,
+            139
+          ],
+          "words": [
+            {
+              "text": "88/88",
+              "bbox": [
+                552,
+                123,
+                575,
+                134
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3,
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "FIP (F1c + F2)",
+          "bbox": [
+            15,
+            139,
+            83,
+            173
+          ],
+          "words": [
+            {
+              "text": "FIP",
+              "bbox": [
+                20,
+                143,
+                34,
+                154
+              ]
+            },
+            {
+              "text": "(F1c",
+              "bbox": [
+                37,
+                143,
+                55,
+                154
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                57,
+                143,
+                63,
+                154
+              ]
+            },
+            {
+              "text": "F2)",
+              "bbox": [
+                20,
+                157,
+                34,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28939–28918",
+          "bbox": [
+            83,
+            139,
+            204,
+            173
+          ],
+          "words": [
+            {
+              "text": "28939–28918",
+              "bbox": [
+                89,
+                143,
+                144,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3,
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "tcatggacccaaacgatgccatACTGGAACTGGACCCGAAG",
+          "bbox": [
+            204,
+            139,
+            419,
+            173
+          ],
+          "words": [
+            {
+              "text": "tcatggacccaaacgatgccatACTGGAACTGGACCCGAAG",
+              "bbox": [
+                217,
+                143,
+                413,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "77/88",
+          "bbox": [
+            419,
+            139,
+            580,
+            173
+          ],
+          "words": [
+            {
+              "text": "77/88",
+              "bbox": [
+                552,
+                143,
+                575,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "+ 28872–28890",
+          "bbox": [
+            15,
+            173,
+            83,
+            207
+          ],
+          "words": [
+            {
+              "text": "+",
+              "bbox": [
+                20,
+                177,
+                26,
+                188
+              ]
+            },
+            {
+              "text": "28872–28890",
+              "bbox": [
+                20,
+                177,
+                58,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "88/88",
+          "bbox": [
+            83,
+            173,
+            204,
+            207
+          ],
+          "words": [
+            {
+              "text": "88/88",
+              "bbox": [
+                89,
+                177,
+                111,
+                188
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5,
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "BIP (B1c + B2)",
+          "bbox": [
+            15,
+            207,
+            83,
+            241
+          ],
+          "words": [
+            {
+              "text": "BIP",
+              "bbox": [
+                20,
+                211,
+                35,
+                222
+              ]
+            },
+            {
+              "text": "(B1c",
+              "bbox": [
+                38,
+                211,
+                57,
+                222
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                60,
+                211,
+                65,
+                222
+              ]
+            },
+            {
+              "text": "B2)",
+              "bbox": [
+                20,
+                225,
+                35,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28956–28977",
+          "bbox": [
+            83,
+            207,
+            204,
+            241
+          ],
+          "words": [
+            {
+              "text": "28956–28977",
+              "bbox": [
+                89,
+                211,
+                144,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5,
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "GCTCCTTCAACTTTTGGGACGCtagtaccgggcgcgaatt",
+          "bbox": [
+            204,
+            207,
+            419,
+            241
+          ],
+          "words": [
+            {
+              "text": "GCTCCTTCAACTTTTGGGACGCtagtaccgggcgcgaatt",
+              "bbox": [
+                213,
+                211,
+                413,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "87/88",
+          "bbox": [
+            419,
+            207,
+            580,
+            241
+          ],
+          "words": [
+            {
+              "text": "87/88",
+              "bbox": [
+                552,
+                211,
+                575,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "+ 29028–29011",
+          "bbox": [
+            15,
+            241,
+            83,
+            275
+          ],
+          "words": [
+            {
+              "text": "+",
+              "bbox": [
+                20,
+                245,
+                26,
+                256
+              ]
+            },
+            {
+              "text": "29028–29011",
+              "bbox": [
+                20,
+                245,
+                58,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "83-88",
+          "bbox": [
+            83,
+            241,
+            204,
+            275
+          ],
+          "words": [
+            {
+              "text": "83-88",
+              "bbox": [
+                89,
+                245,
+                112,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "LF",
+          "bbox": [
+            15,
+            275,
+            83,
+            295
+          ],
+          "words": [
+            {
+              "text": "LF",
+              "bbox": [
+                20,
+                279,
+                32,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28906–28891",
+          "bbox": [
+            83,
+            275,
+            204,
+            295
+          ],
+          "words": [
+            {
+              "text": "28906–28891",
+              "bbox": [
+                89,
+                279,
+                144,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "cggaatgggagtgctg",
+          "bbox": [
+            204,
+            275,
+            419,
+            295
+          ],
+          "words": [
+            {
+              "text": "cggaatgggagtgctg",
+              "bbox": [
+                343,
+                279,
+                413,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "88/88",
+          "bbox": [
+            419,
+            275,
+            580,
+            295
+          ],
+          "words": [
+            {
+              "text": "88/88",
+              "bbox": [
+                552,
+                279,
+                575,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "LB",
+          "bbox": [
+            15,
+            295,
+            83,
+            315
+          ],
+          "words": [
+            {
+              "text": "LB",
+              "bbox": [
+                20,
+                299,
+                33,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28978–29000",
+          "bbox": [
+            83,
+            295,
+            204,
+            315
+          ],
+          "words": [
+            {
+              "text": "28978–29000",
+              "bbox": [
+                89,
+                299,
+                144,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "GGAACCCTAACAATGATTCAGCT",
+          "bbox": [
+            204,
+            295,
+            419,
+            315
+          ],
+          "words": [
+            {
+              "text": "GGAACCCTAACAATGATTCAGCT",
+              "bbox": [
+                259,
+                299,
+                413,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "85/88",
+          "bbox": [
+            419,
+            295,
+            580,
+            315
+          ],
+          "words": [
+            {
+              "text": "85/88",
+              "bbox": [
+                552,
+                299,
+                575,
+                310
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_043244_t1",
+      "bbox": [
+        15,
+        330,
+        580,
+        478
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            331,
+            580,
+            352
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            352,
+            580,
+            373
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            373,
+            580,
+            394
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            394,
+            580,
+            415
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            415,
+            580,
+            436
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            436,
+            580,
+            457
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            457,
+            580,
+            478
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>aCytokine</td><td>Control</td><td>B16OVA-7D</td><td>B16OVA-14D</td></tr><tr><td>MCP-1</td><td>6.44 ± 0.1</td><td>328 ± 1.5</td><td>13.4 ± 1.5</td></tr><tr><td>TNF-α</td><td>5.4 ± 0.1</td><td>11.39 ± 0.2</td><td>1.61 ± 0.1</td></tr><tr><td>IFN-γ</td><td>0.98 ± 0.1</td><td>91.9 ± 1.2</td><td>0.57 ± 0.1</td></tr><tr><td>IL-6</td><td>0.89 ± 0.1</td><td>12.8 ± 1.2</td><td>9.69 ± 0.5</td></tr><tr><td>IL-10</td><td>0 ± 0</td><td>13.8 ± 0</td><td>51.52 ± 0.5</td></tr><tr><td>IL-12</td><td>1.2 ± 0.1</td><td>0 ± 0</td><td>0 ± 0</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "aCytokine",
+          "bbox": [
+            16,
+            331,
+            145,
+            352
+          ],
+          "words": [
+            {
+              "text": "aCytokine",
+              "bbox": [
+                21,
+                335,
+                65,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Control",
+          "bbox": [
+            145,
+            331,
+            266,
+            352
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                150,
+                335,
+                183,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "B16OVA-7D",
+          "bbox": [
+            266,
+            331,
+            417,
+            352
+          ],
+          "words": [
+            {
+              "text": "B16OVA-7D",
+              "bbox": [
+                358,
+                335,
+                411,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "B16OVA-14D",
+          "bbox": [
+            417,
+            331,
+            580,
+            352
+          ],
+          "words": [
+            {
+              "text": "B16OVA-14D",
+              "bbox": [
+                516,
+                335,
+                574,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "MCP-1",
+          "bbox": [
+            16,
+            352,
+            145,
+            373
+          ],
+          "words": [
+            {
+              "text": "MCP-1",
+              "bbox": [
+                21,
+                356,
+                50,
+                367
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6.44 ± 0.1",
+          "bbox": [
+            145,
+            352,
+            266,
+            373
+          ],
+          "words": [
+            {
+              "text": "6.44",
+              "bbox": [
+                150,
+                356,
+                168,
+                367
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                170,
+                356,
+                176,
+                367
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                178,
+                356,
+                191,
+                367
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "328 ± 1.5",
+          "bbox": [
+            266,
+            352,
+            417,
+            373
+          ],
+          "words": [
+            {
+              "text": "328",
+              "bbox": [
+                373,
+                356,
+                388,
+                367
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                391,
+                356,
+                396,
+                367
+              ]
+            },
+            {
+              "text": "1.5",
+              "bbox": [
+                399,
+                356,
+                411,
+                367
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "13.4 ± 1.5",
+          "bbox": [
+            417,
+            352,
+            580,
+            373
+          ],
+          "words": [
+            {
+              "text": "13.4",
+              "bbox": [
+                534,
+                356,
+                551,
+                367
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                554,
+                356,
+                559,
+                367
+              ]
+            },
+            {
+              "text": "1.5",
+              "bbox": [
+                561,
+                356,
+                574,
+                367
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TNF-α",
+          "bbox": [
+            16,
+            373,
+            145,
+            394
+          ],
+          "words": [
+            {
+              "text": "TNF-α",
+              "bbox": [
+                21,
+                377,
+                48,
+                388
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5.4 ± 0.1",
+          "bbox": [
+            145,
+            373,
+            266,
+            394
+          ],
+          "words": [
+            {
+              "text": "5.4",
+              "bbox": [
+                150,
+                377,
+                163,
+                388
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                165,
+                377,
+                171,
+                388
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                173,
+                377,
+                186,
+                388
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "11.39 ± 0.2",
+          "bbox": [
+            266,
+            373,
+            417,
+            394
+          ],
+          "words": [
+            {
+              "text": "11.39",
+              "bbox": [
+                366,
+                377,
+                388,
+                388
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                391,
+                377,
+                396,
+                388
+              ]
+            },
+            {
+              "text": "0.2",
+              "bbox": [
+                399,
+                377,
+                411,
+                388
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.61 ± 0.1",
+          "bbox": [
+            417,
+            373,
+            580,
+            394
+          ],
+          "words": [
+            {
+              "text": "1.61",
+              "bbox": [
+                534,
+                377,
+                551,
+                388
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                554,
+                377,
+                559,
+                388
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                561,
+                377,
+                574,
+                388
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IFN-γ",
+          "bbox": [
+            16,
+            394,
+            145,
+            415
+          ],
+          "words": [
+            {
+              "text": "IFN-γ",
+              "bbox": [
+                21,
+                398,
+                45,
+                409
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.98 ± 0.1",
+          "bbox": [
+            145,
+            394,
+            266,
+            415
+          ],
+          "words": [
+            {
+              "text": "0.98",
+              "bbox": [
+                150,
+                398,
+                168,
+                409
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                170,
+                398,
+                176,
+                409
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                178,
+                398,
+                191,
+                409
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "91.9 ± 1.2",
+          "bbox": [
+            266,
+            394,
+            417,
+            415
+          ],
+          "words": [
+            {
+              "text": "91.9",
+              "bbox": [
+                371,
+                398,
+                388,
+                409
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                391,
+                398,
+                396,
+                409
+              ]
+            },
+            {
+              "text": "1.2",
+              "bbox": [
+                399,
+                398,
+                411,
+                409
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.57 ± 0.1",
+          "bbox": [
+            417,
+            394,
+            580,
+            415
+          ],
+          "words": [
+            {
+              "text": "0.57",
+              "bbox": [
+                534,
+                398,
+                551,
+                409
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                554,
+                398,
+                559,
+                409
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                561,
+                398,
+                574,
+                409
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IL-6",
+          "bbox": [
+            16,
+            415,
+            145,
+            436
+          ],
+          "words": [
+            {
+              "text": "IL-6",
+              "bbox": [
+                21,
+                419,
+                39,
+                430
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.89 ± 0.1",
+          "bbox": [
+            145,
+            415,
+            266,
+            436
+          ],
+          "words": [
+            {
+              "text": "0.89",
+              "bbox": [
+                150,
+                419,
+                168,
+                430
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                170,
+                419,
+                176,
+                430
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                178,
+                419,
+                191,
+                430
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "12.8 ± 1.2",
+          "bbox": [
+            266,
+            415,
+            417,
+            436
+          ],
+          "words": [
+            {
+              "text": "12.8",
+              "bbox": [
+                371,
+                419,
+                388,
+                430
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                391,
+                419,
+                396,
+                430
+              ]
+            },
+            {
+              "text": "1.2",
+              "bbox": [
+                399,
+                419,
+                411,
+                430
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "9.69 ± 0.5",
+          "bbox": [
+            417,
+            415,
+            580,
+            436
+          ],
+          "words": [
+            {
+              "text": "9.69",
+              "bbox": [
+                534,
+                419,
+                551,
+                430
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                554,
+                419,
+                559,
+                430
+              ]
+            },
+            {
+              "text": "0.5",
+              "bbox": [
+                561,
+                419,
+                574,
+                430
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IL-10",
+          "bbox": [
+            16,
+            436,
+            145,
+            457
+          ],
+          "words": [
+            {
+              "text": "IL-10",
+              "bbox": [
+                21,
+                440,
+                44,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0 ± 0",
+          "bbox": [
+            145,
+            436,
+            266,
+            457
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                150,
+                440,
+                155,
+                451
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                158,
+                440,
+                163,
+                451
+              ]
+            },
+            {
+              "text": "0",
+              "bbox": [
+                166,
+                440,
+                171,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "13.8 ± 0",
+          "bbox": [
+            266,
+            436,
+            417,
+            457
+          ],
+          "words": [
+            {
+              "text": "13.8",
+              "bbox": [
+                378,
+                440,
+                396,
+                451
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                398,
+                440,
+                404,
+                451
+              ]
+            },
+            {
+              "text": "0",
+              "bbox": [
+                406,
+                440,
+                411,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "51.52 ± 0.5",
+          "bbox": [
+            417,
+            436,
+            580,
+            457
+          ],
+          "words": [
+            {
+              "text": "51.52",
+              "bbox": [
+                529,
+                440,
+                551,
+                451
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                554,
+                440,
+                559,
+                451
+              ]
+            },
+            {
+              "text": "0.5",
+              "bbox": [
+                561,
+                440,
+                574,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IL-12",
+          "bbox": [
+            16,
+            457,
+            145,
+            478
+          ],
+          "words": [
+            {
+              "text": "IL-12",
+              "bbox": [
+                21,
+                461,
+                44,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.2 ± 0.1",
+          "bbox": [
+            145,
+            457,
+            266,
+            478
+          ],
+          "words": [
+            {
+              "text": "1.2",
+              "bbox": [
+                150,
+                461,
+                163,
+                472
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                165,
+                461,
+                171,
+                472
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                173,
+                461,
+                186,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0 ± 0",
+          "bbox": [
+            266,
+            457,
+            417,
+            478
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                391,
+                461,
+                396,
+                472
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                398,
+                461,
+                404,
+                472
+              ]
+            },
+            {
+              "text": "0",
+              "bbox": [
+                406,
+                461,
+                411,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0 ± 0",
+          "bbox": [
+            417,
+            457,
+            580,
+            478
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                554,
+                461,
+                559,
+                472
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                561,
+                461,
+                567,
+                472
+              ]
+            },
+            {
+              "text": "0",
+              "bbox": [
+                569,
+                461,
+                574,
+                472
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        493,
+        580,
+        662
+      ],
+      "content": "The data presented in Table 1 provides a comprehensive overview of the primer sequences evaluated for their efficacy in detecting matched Middle East Respiratory Syndrome (MERS) sequences. Specifically, the column labeled \"Number of matched MERS sequences*\" indicates a high specificity, with the primer sequence F3 (position EMC, JX869059.2) demonstrating an impressive 86 out of 88 matches. This level of concordance underscores the reliability of the primer in identifying relevant MERS genetic material, which is critical for both diagnostic and research applications.\n\nAdditionally, the \"aCytokine\" column reveals quantitative data on cytokine responses, with MCP-1 showing a concentration of 6.44 ± 0.1. This metric is vital for understanding the inflammatory responses associated with MERS infections and could inform therapeutic strategies. Furthermore, the control data, including metrics from B16OVA-7D and B16OVA-14D, provide baseline comparisons that enhance the interpretation of the experimental results. Collectively, these metrics elucidate the primer's performance and its potential implications for enhancing detection methods in MERS-related studies, highlighting the importance of precise primer design in virology research.",
+      "lines": [
+        {
+          "text": "The data presented in Table 1 provides a comprehensive overview of the primer sequences evaluated for their efficacy in",
+          "bbox": [
+            15,
+            494,
+            580,
+            506
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                494,
+                32,
+                506
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                37,
+                494,
+                55,
+                506
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                60,
+                494,
+                102,
+                506
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                107,
+                494,
+                115,
+                506
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                120,
+                494,
+                144,
+                506
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                148,
+                494,
+                154,
+                506
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                159,
+                494,
+                196,
+                506
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                201,
+                494,
+                206,
+                506
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                211,
+                494,
+                277,
+                506
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                282,
+                494,
+                323,
+                506
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                327,
+                494,
+                337,
+                506
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                341,
+                494,
+                355,
+                506
+              ]
+            },
+            {
+              "text": "primer",
+              "bbox": [
+                359,
+                494,
+                389,
+                506
+              ]
+            },
+            {
+              "text": "sequences",
+              "bbox": [
+                393,
+                494,
+                438,
+                506
+              ]
+            },
+            {
+              "text": "evaluated",
+              "bbox": [
+                443,
+                494,
+                485,
+                506
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                489,
+                494,
+                502,
+                506
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                507,
+                494,
+                527,
+                506
+              ]
+            },
+            {
+              "text": "efficacy",
+              "bbox": [
+                532,
+                494,
+                567,
+                506
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                494,
+                580,
+                506
+              ]
+            }
+          ]
+        },
+        {
+          "text": "detecting matched Middle East Respiratory Syndrome (MERS) sequences. Specifically, the column labeled \"Number of",
+          "bbox": [
+            15,
+            509,
+            580,
+            521
+          ],
+          "words": [
+            {
+              "text": "detecting",
+              "bbox": [
+                15,
+                509,
+                55,
+                521
+              ]
+            },
+            {
+              "text": "matched",
+              "bbox": [
+                61,
+                509,
+                98,
+                521
+              ]
+            },
+            {
+              "text": "Middle",
+              "bbox": [
+                104,
+                509,
+                136,
+                521
+              ]
+            },
+            {
+              "text": "East",
+              "bbox": [
+                141,
+                509,
+                160,
+                521
+              ]
+            },
+            {
+              "text": "Respiratory",
+              "bbox": [
+                166,
+                509,
+                217,
+                521
+              ]
+            },
+            {
+              "text": "Syndrome",
+              "bbox": [
+                223,
+                509,
+                268,
+                521
+              ]
+            },
+            {
+              "text": "(MERS)",
+              "bbox": [
+                274,
+                509,
+                311,
+                521
+              ]
+            },
+            {
+              "text": "sequences.",
+              "bbox": [
+                316,
+                509,
+                364,
+                521
+              ]
+            },
+            {
+              "text": "Specifically,",
+              "bbox": [
+                369,
+                509,
+                424,
+                521
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                430,
+                509,
+                443,
+                521
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                449,
+                509,
+                482,
+                521
+              ]
+            },
+            {
+              "text": "labeled",
+              "bbox": [
+                487,
+                509,
+                519,
+                521
+              ]
+            },
+            {
+              "text": "\"Number",
+              "bbox": [
+                525,
+                509,
+                565,
+                521
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                509,
+                580,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "text": "matched MERS sequences*\" indicates a high specificity, with the primer sequence F3 (position EMC, JX869059.2)",
+          "bbox": [
+            15,
+            525,
+            580,
+            537
+          ],
+          "words": [
+            {
+              "text": "matched",
+              "bbox": [
+                15,
+                525,
+                52,
+                537
+              ]
+            },
+            {
+              "text": "MERS",
+              "bbox": [
+                59,
+                525,
+                89,
+                537
+              ]
+            },
+            {
+              "text": "sequences*\"",
+              "bbox": [
+                96,
+                525,
+                150,
+                537
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                157,
+                525,
+                196,
+                537
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                203,
+                525,
+                208,
+                537
+              ]
+            },
+            {
+              "text": "high",
+              "bbox": [
+                215,
+                525,
+                234,
+                537
+              ]
+            },
+            {
+              "text": "specificity,",
+              "bbox": [
+                241,
+                525,
+                289,
+                537
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                296,
+                525,
+                315,
+                537
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                322,
+                525,
+                335,
+                537
+              ]
+            },
+            {
+              "text": "primer",
+              "bbox": [
+                342,
+                525,
+                371,
+                537
+              ]
+            },
+            {
+              "text": "sequence",
+              "bbox": [
+                378,
+                525,
+                418,
+                537
+              ]
+            },
+            {
+              "text": "F3",
+              "bbox": [
+                425,
+                525,
+                437,
+                537
+              ]
+            },
+            {
+              "text": "(position",
+              "bbox": [
+                444,
+                525,
+                483,
+                537
+              ]
+            },
+            {
+              "text": "EMC,",
+              "bbox": [
+                490,
+                525,
+                516,
+                537
+              ]
+            },
+            {
+              "text": "JX869059.2)",
+              "bbox": [
+                523,
+                525,
+                580,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "text": "demonstrating an impressive 86 out of 88 matches. This level of concordance underscores the reliability of the primer in",
+          "bbox": [
+            15,
+            540,
+            580,
+            552
+          ],
+          "words": [
+            {
+              "text": "demonstrating",
+              "bbox": [
+                15,
+                540,
+                78,
+                552
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                83,
+                540,
+                93,
+                552
+              ]
+            },
+            {
+              "text": "impressive",
+              "bbox": [
+                98,
+                540,
+                145,
+                552
+              ]
+            },
+            {
+              "text": "86",
+              "bbox": [
+                150,
+                540,
+                161,
+                552
+              ]
+            },
+            {
+              "text": "out",
+              "bbox": [
+                166,
+                540,
+                180,
+                552
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                185,
+                540,
+                194,
+                552
+              ]
+            },
+            {
+              "text": "88",
+              "bbox": [
+                199,
+                540,
+                210,
+                552
+              ]
+            },
+            {
+              "text": "matches.",
+              "bbox": [
+                214,
+                540,
+                253,
+                552
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                258,
+                540,
+                277,
+                552
+              ]
+            },
+            {
+              "text": "level",
+              "bbox": [
+                282,
+                540,
+                303,
+                552
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                308,
+                540,
+                317,
+                552
+              ]
+            },
+            {
+              "text": "concordance",
+              "bbox": [
+                322,
+                540,
+                378,
+                552
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                382,
+                540,
+                435,
+                552
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                440,
+                540,
+                453,
+                552
+              ]
+            },
+            {
+              "text": "reliability",
+              "bbox": [
+                458,
+                540,
+                501,
+                552
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                505,
+                540,
+                514,
+                552
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                519,
+                540,
+                533,
+                552
+              ]
+            },
+            {
+              "text": "primer",
+              "bbox": [
+                537,
+                540,
+                567,
+                552
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                540,
+                580,
+                552
+              ]
+            }
+          ]
+        },
+        {
+          "text": "identifying relevant MERS genetic material, which is critical for both diagnostic and research applications.\n\nAdditionally, the",
+          "bbox": [
+            15,
+            556,
+            580,
+            568
+          ],
+          "words": [
+            {
+              "text": "identifying",
+              "bbox": [
+                15,
+                556,
+                63,
+                568
+              ]
+            },
+            {
+              "text": "relevant",
+              "bbox": [
+                67,
+                556,
+                103,
+                568
+              ]
+            },
+            {
+              "text": "MERS",
+              "bbox": [
+                107,
+                556,
+                137,
+                568
+              ]
+            },
+            {
+              "text": "genetic",
+              "bbox": [
+                141,
+                556,
+                172,
+                568
+              ]
+            },
+            {
+              "text": "material,",
+              "bbox": [
+                176,
+                556,
+                215,
+                568
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                219,
+                556,
+                246,
+                568
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                250,
+                556,
+                257,
+                568
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                261,
+                556,
+                292,
+                568
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                296,
+                556,
+                309,
+                568
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                313,
+                556,
+                332,
+                568
+              ]
+            },
+            {
+              "text": "diagnostic",
+              "bbox": [
+                336,
+                556,
+                381,
+                568
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                385,
+                556,
+                401,
+                568
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                405,
+                556,
+                442,
+                568
+              ]
+            },
+            {
+              "text": "applications.",
+              "bbox": [
+                446,
+                556,
+                502,
+                568
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                505,
+                556,
+                563,
+                568
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                556,
+                580,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "text": "\"aCytokine\" column reveals quantitative data on cytokine responses, with MCP-1 showing a concentration of 6.44 ± 0.1. This",
+          "bbox": [
+            15,
+            571,
+            580,
+            583
+          ],
+          "words": [
+            {
+              "text": "\"aCytokine\"",
+              "bbox": [
+                15,
+                571,
+                69,
+                583
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                73,
+                571,
+                106,
+                583
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                109,
+                571,
+                140,
+                583
+              ]
+            },
+            {
+              "text": "quantitative",
+              "bbox": [
+                144,
+                571,
+                195,
+                583
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                199,
+                571,
+                217,
+                583
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                221,
+                571,
+                232,
+                583
+              ]
+            },
+            {
+              "text": "cytokine",
+              "bbox": [
+                235,
+                571,
+                273,
+                583
+              ]
+            },
+            {
+              "text": "responses,",
+              "bbox": [
+                276,
+                571,
+                322,
+                583
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                325,
+                571,
+                345,
+                583
+              ]
+            },
+            {
+              "text": "MCP-1",
+              "bbox": [
+                348,
+                571,
+                381,
+                583
+              ]
+            },
+            {
+              "text": "showing",
+              "bbox": [
+                384,
+                571,
+                421,
+                583
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                425,
+                571,
+                429,
+                583
+              ]
+            },
+            {
+              "text": "concentration",
+              "bbox": [
+                433,
+                571,
+                493,
+                583
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                496,
+                571,
+                505,
+                583
+              ]
+            },
+            {
+              "text": "6.44",
+              "bbox": [
+                509,
+                571,
+                528,
+                583
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                531,
+                571,
+                537,
+                583
+              ]
+            },
+            {
+              "text": "0.1.",
+              "bbox": [
+                541,
+                571,
+                557,
+                583
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                560,
+                571,
+                580,
+                583
+              ]
+            }
+          ]
+        },
+        {
+          "text": "metric is vital for understanding the inflammatory responses associated with MERS infections and could inform therapeutic",
+          "bbox": [
+            15,
+            586,
+            580,
+            598
+          ],
+          "words": [
+            {
+              "text": "metric",
+              "bbox": [
+                15,
+                586,
+                43,
+                598
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                47,
+                586,
+                55,
+                598
+              ]
+            },
+            {
+              "text": "vital",
+              "bbox": [
+                59,
+                586,
+                78,
+                598
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                82,
+                586,
+                95,
+                598
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                99,
+                586,
+                162,
+                598
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                166,
+                586,
+                179,
+                598
+              ]
+            },
+            {
+              "text": "inflammatory",
+              "bbox": [
+                183,
+                586,
+                243,
+                598
+              ]
+            },
+            {
+              "text": "responses",
+              "bbox": [
+                247,
+                586,
+                290,
+                598
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                294,
+                586,
+                339,
+                598
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                343,
+                586,
+                363,
+                598
+              ]
+            },
+            {
+              "text": "MERS",
+              "bbox": [
+                367,
+                586,
+                397,
+                598
+              ]
+            },
+            {
+              "text": "infections",
+              "bbox": [
+                401,
+                586,
+                444,
+                598
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                449,
+                586,
+                464,
+                598
+              ]
+            },
+            {
+              "text": "could",
+              "bbox": [
+                469,
+                586,
+                493,
+                598
+              ]
+            },
+            {
+              "text": "inform",
+              "bbox": [
+                497,
+                586,
+                527,
+                598
+              ]
+            },
+            {
+              "text": "therapeutic",
+              "bbox": [
+                531,
+                586,
+                580,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "text": "strategies. Furthermore, the control data, including metrics from B16OVA-7D and B16OVA-14D, provide baseline comparisons",
+          "bbox": [
+            15,
+            602,
+            580,
+            614
+          ],
+          "words": [
+            {
+              "text": "strategies.",
+              "bbox": [
+                15,
+                602,
+                59,
+                614
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                62,
+                602,
+                120,
+                614
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                123,
+                602,
+                136,
+                614
+              ]
+            },
+            {
+              "text": "control",
+              "bbox": [
+                139,
+                602,
+                170,
+                614
+              ]
+            },
+            {
+              "text": "data,",
+              "bbox": [
+                173,
+                602,
+                194,
+                614
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                197,
+                602,
+                238,
+                614
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                241,
+                602,
+                274,
+                614
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                276,
+                602,
+                298,
+                614
+              ]
+            },
+            {
+              "text": "B16OVA-7D",
+              "bbox": [
+                301,
+                602,
+                359,
+                614
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                361,
+                602,
+                377,
+                614
+              ]
+            },
+            {
+              "text": "B16OVA-14D,",
+              "bbox": [
+                380,
+                602,
+                446,
+                614
+              ]
+            },
+            {
+              "text": "provide",
+              "bbox": [
+                449,
+                602,
+                483,
+                614
+              ]
+            },
+            {
+              "text": "baseline",
+              "bbox": [
+                486,
+                602,
+                522,
+                614
+              ]
+            },
+            {
+              "text": "comparisons",
+              "bbox": [
+                524,
+                602,
+                580,
+                614
+              ]
+            }
+          ]
+        },
+        {
+          "text": "that enhance the interpretation of the experimental results. Collectively, these metrics elucidate the primer's performance and its",
+          "bbox": [
+            15,
+            617,
+            580,
+            629
+          ],
+          "words": [
+            {
+              "text": "that",
+              "bbox": [
+                15,
+                617,
+                32,
+                629
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                34,
+                617,
+                70,
+                629
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                73,
+                617,
+                87,
+                629
+              ]
+            },
+            {
+              "text": "interpretation",
+              "bbox": [
+                90,
+                617,
+                149,
+                629
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                152,
+                617,
+                161,
+                629
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                164,
+                617,
+                178,
+                629
+              ]
+            },
+            {
+              "text": "experimental",
+              "bbox": [
+                180,
+                617,
+                238,
+                629
+              ]
+            },
+            {
+              "text": "results.",
+              "bbox": [
+                241,
+                617,
+                272,
+                629
+              ]
+            },
+            {
+              "text": "Collectively,",
+              "bbox": [
+                275,
+                617,
+                331,
+                629
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                334,
+                617,
+                357,
+                629
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                359,
+                617,
+                392,
+                629
+              ]
+            },
+            {
+              "text": "elucidate",
+              "bbox": [
+                395,
+                617,
+                434,
+                629
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                437,
+                617,
+                451,
+                629
+              ]
+            },
+            {
+              "text": "primer's",
+              "bbox": [
+                454,
+                617,
+                489,
+                629
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                492,
+                617,
+                548,
+                629
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                551,
+                617,
+                567,
+                629
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                570,
+                617,
+                580,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "text": "potential implications for enhancing detection methods in MERS-related studies, highlighting the importance of precise primer",
+          "bbox": [
+            15,
+            633,
+            580,
+            645
+          ],
+          "words": [
+            {
+              "text": "potential",
+              "bbox": [
+                15,
+                633,
+                54,
+                645
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                57,
+                633,
+                111,
+                645
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                114,
+                633,
+                127,
+                645
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                130,
+                633,
+                176,
+                645
+              ]
+            },
+            {
+              "text": "detection",
+              "bbox": [
+                179,
+                633,
+                219,
+                645
+              ]
+            },
+            {
+              "text": "methods",
+              "bbox": [
+                222,
+                633,
+                259,
+                645
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                263,
+                633,
+                271,
+                645
+              ]
+            },
+            {
+              "text": "MERS-related",
+              "bbox": [
+                274,
+                633,
+                338,
+                645
+              ]
+            },
+            {
+              "text": "studies,",
+              "bbox": [
+                341,
+                633,
+                374,
+                645
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                378,
+                633,
+                431,
+                645
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                435,
+                633,
+                448,
+                645
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                451,
+                633,
+                501,
+                645
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                504,
+                633,
+                513,
+                645
+              ]
+            },
+            {
+              "text": "precise",
+              "bbox": [
+                516,
+                633,
+                547,
+                645
+              ]
+            },
+            {
+              "text": "primer",
+              "bbox": [
+                551,
+                633,
+                580,
+                645
+              ]
+            }
+          ]
+        },
+        {
+          "text": "design in virology research.",
+          "bbox": [
+            15,
+            648,
+            137,
+            660
+          ],
+          "words": [
+            {
+              "text": "design",
+              "bbox": [
+                15,
+                648,
+                44,
+                660
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                46,
+                648,
+                55,
+                660
+              ]
+            },
+            {
+              "text": "virology",
+              "bbox": [
+                58,
+                648,
+                95,
+                660
+              ]
+            },
+            {
+              "text": "research.",
+              "bbox": [
+                98,
+                648,
+                137,
+                660
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

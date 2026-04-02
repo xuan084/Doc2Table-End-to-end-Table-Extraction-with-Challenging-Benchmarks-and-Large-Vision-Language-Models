@@ -1,0 +1,3789 @@
+{
+  "image_id": "img_222819",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        54,
+        580,
+        85
+      ],
+      "content": "In the competitive landscape of e-commerce, particularly within platforms such as Amazon.com, understanding the intricacies of customer behavior and fulfillment efficiency is paramount.",
+      "lines": [
+        {
+          "text": "In the competitive landscape of e-commerce, particularly within platforms such as Amazon.com, understanding the intricacies",
+          "bbox": [
+            15,
+            55,
+            580,
+            67
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                55,
+                24,
+                67
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                55,
+                41,
+                67
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                45,
+                55,
+                96,
+                67
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                100,
+                55,
+                143,
+                67
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                147,
+                55,
+                156,
+                67
+              ]
+            },
+            {
+              "text": "e-commerce,",
+              "bbox": [
+                159,
+                55,
+                216,
+                67
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                220,
+                55,
+                271,
+                67
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                274,
+                55,
+                302,
+                67
+              ]
+            },
+            {
+              "text": "platforms",
+              "bbox": [
+                306,
+                55,
+                348,
+                67
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                351,
+                55,
+                371,
+                67
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                375,
+                55,
+                384,
+                67
+              ]
+            },
+            {
+              "text": "Amazon.com,",
+              "bbox": [
+                387,
+                55,
+                449,
+                67
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                452,
+                55,
+                514,
+                67
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                518,
+                55,
+                531,
+                67
+              ]
+            },
+            {
+              "text": "intricacies",
+              "bbox": [
+                535,
+                55,
+                580,
+                67
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of customer behavior and fulfillment efficiency is paramount.",
+          "bbox": [
+            15,
+            70,
+            286,
+            82
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                70,
+                24,
+                82
+              ]
+            },
+            {
+              "text": "customer",
+              "bbox": [
+                27,
+                70,
+                67,
+                82
+              ]
+            },
+            {
+              "text": "behavior",
+              "bbox": [
+                70,
+                70,
+                108,
+                82
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                111,
+                70,
+                127,
+                82
+              ]
+            },
+            {
+              "text": "fulfillment",
+              "bbox": [
+                130,
+                70,
+                177,
+                82
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                180,
+                70,
+                223,
+                82
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                226,
+                70,
+                234,
+                82
+              ]
+            },
+            {
+              "text": "paramount.",
+              "bbox": [
+                236,
+                70,
+                286,
+                82
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_222819_t0",
+      "bbox": [
+        15,
+        103,
+        580,
+        258
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 3,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            103,
+            580,
+            124
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            124,
+            580,
+            159
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            159,
+            580,
+            194
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            194,
+            580,
+            215
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            215,
+            580,
+            236
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            236,
+            580,
+            257
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>ReturnMetrics</td><td colspan=\"3\">RefundRates</td></tr><tr><td>TotalReturns</td><td>ReturnRate(%)</td><td>AverageRefund(USD)</td><td colspan=\"2\">ReturnReasons</td></tr><tr><td>ProductDefects</td><td>CustomerDissatisfaction</td><td>WrongItemShipped</td><td>OtherReasons</td><td>TotalRefunds</td></tr><tr><td>5,000</td><td>2.5%</td><td>$20</td><td>1,800</td><td>$100,000</td></tr><tr><td>1,500</td><td>30%</td><td>$15</td><td>1,200</td><td>$60,000</td></tr><tr><td>800</td><td>16%</td><td>$25</td><td>500</td><td>$25,000</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "ReturnMetrics",
+          "bbox": [
+            16,
+            103,
+            225,
+            124
+          ],
+          "words": [
+            {
+              "text": "ReturnMetrics",
+              "bbox": [
+                21,
+                108,
+                84,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "RefundRates",
+          "bbox": [
+            225,
+            103,
+            491,
+            124
+          ],
+          "words": [
+            {
+              "text": "RefundRates",
+              "bbox": [
+                430,
+                108,
+                485,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalReturns",
+          "bbox": [
+            16,
+            124,
+            225,
+            159
+          ],
+          "words": [
+            {
+              "text": "TotalReturns",
+              "bbox": [
+                21,
+                129,
+                77,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ReturnRate(%)",
+          "bbox": [
+            225,
+            124,
+            314,
+            159
+          ],
+          "words": [
+            {
+              "text": "ReturnRate(%)",
+              "bbox": [
+                241,
+                129,
+                308,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageRefund(USD)",
+          "bbox": [
+            314,
+            124,
+            402,
+            159
+          ],
+          "words": [
+            {
+              "text": "AverageRefund(USD)",
+              "bbox": [
+                320,
+                129,
+                397,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ReturnReasons",
+          "bbox": [
+            402,
+            124,
+            580,
+            159
+          ],
+          "words": [
+            {
+              "text": "ReturnReasons",
+              "bbox": [
+                508,
+                129,
+                574,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "ProductDefects",
+          "bbox": [
+            16,
+            159,
+            225,
+            194
+          ],
+          "words": [
+            {
+              "text": "ProductDefects",
+              "bbox": [
+                21,
+                164,
+                86,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CustomerDissatisfaction",
+          "bbox": [
+            225,
+            159,
+            314,
+            194
+          ],
+          "words": [
+            {
+              "text": "CustomerDissatisfaction",
+              "bbox": [
+                233,
+                164,
+                308,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "WrongItemShipped",
+          "bbox": [
+            314,
+            159,
+            402,
+            194
+          ],
+          "words": [
+            {
+              "text": "WrongItemShipped",
+              "bbox": [
+                322,
+                164,
+                397,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "OtherReasons",
+          "bbox": [
+            402,
+            159,
+            491,
+            194
+          ],
+          "words": [
+            {
+              "text": "OtherReasons",
+              "bbox": [
+                425,
+                164,
+                485,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRefunds",
+          "bbox": [
+            491,
+            159,
+            580,
+            194
+          ],
+          "words": [
+            {
+              "text": "TotalRefunds",
+              "bbox": [
+                517,
+                164,
+                574,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "5,000",
+          "bbox": [
+            16,
+            194,
+            225,
+            215
+          ],
+          "words": [
+            {
+              "text": "5,000",
+              "bbox": [
+                21,
+                199,
+                44,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2.5%",
+          "bbox": [
+            225,
+            194,
+            314,
+            215
+          ],
+          "words": [
+            {
+              "text": "2.5%",
+              "bbox": [
+                287,
+                199,
+                308,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$20",
+          "bbox": [
+            314,
+            194,
+            402,
+            215
+          ],
+          "words": [
+            {
+              "text": "$20",
+              "bbox": [
+                382,
+                199,
+                397,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1,800",
+          "bbox": [
+            402,
+            194,
+            491,
+            215
+          ],
+          "words": [
+            {
+              "text": "1,800",
+              "bbox": [
+                463,
+                199,
+                485,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$100,000",
+          "bbox": [
+            491,
+            194,
+            580,
+            215
+          ],
+          "words": [
+            {
+              "text": "$100,000",
+              "bbox": [
+                537,
+                199,
+                574,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1,500",
+          "bbox": [
+            16,
+            215,
+            225,
+            236
+          ],
+          "words": [
+            {
+              "text": "1,500",
+              "bbox": [
+                21,
+                220,
+                44,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "30%",
+          "bbox": [
+            225,
+            215,
+            314,
+            236
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                290,
+                220,
+                308,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$15",
+          "bbox": [
+            314,
+            215,
+            402,
+            236
+          ],
+          "words": [
+            {
+              "text": "$15",
+              "bbox": [
+                382,
+                220,
+                397,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1,200",
+          "bbox": [
+            402,
+            215,
+            491,
+            236
+          ],
+          "words": [
+            {
+              "text": "1,200",
+              "bbox": [
+                463,
+                220,
+                485,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$60,000",
+          "bbox": [
+            491,
+            215,
+            580,
+            236
+          ],
+          "words": [
+            {
+              "text": "$60,000",
+              "bbox": [
+                542,
+                220,
+                574,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "800",
+          "bbox": [
+            16,
+            236,
+            225,
+            257
+          ],
+          "words": [
+            {
+              "text": "800",
+              "bbox": [
+                21,
+                241,
+                36,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "16%",
+          "bbox": [
+            225,
+            236,
+            314,
+            257
+          ],
+          "words": [
+            {
+              "text": "16%",
+              "bbox": [
+                290,
+                241,
+                308,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$25",
+          "bbox": [
+            314,
+            236,
+            402,
+            257
+          ],
+          "words": [
+            {
+              "text": "$25",
+              "bbox": [
+                382,
+                241,
+                397,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "500",
+          "bbox": [
+            402,
+            236,
+            491,
+            257
+          ],
+          "words": [
+            {
+              "text": "500",
+              "bbox": [
+                470,
+                241,
+                485,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$25,000",
+          "bbox": [
+            491,
+            236,
+            580,
+            257
+          ],
+          "words": [
+            {
+              "text": "$25,000",
+              "bbox": [
+                542,
+                241,
+                574,
+                252
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        273,
+        580,
+        304
+      ],
+      "content": "The accompanying data table provides a comprehensive overview of critical metrics, including Return and Refund Rates and Fulfillment Cost per Order, essential for evaluating operational performance.",
+      "lines": [
+        {
+          "text": "The accompanying data table provides a comprehensive overview of critical metrics, including Return and Refund Rates and",
+          "bbox": [
+            15,
+            274,
+            580,
+            286
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                274,
+                32,
+                286
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                36,
+                274,
+                100,
+                286
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                104,
+                274,
+                122,
+                286
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                126,
+                274,
+                147,
+                286
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                151,
+                274,
+                189,
+                286
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                192,
+                274,
+                197,
+                286
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                201,
+                274,
+                267,
+                286
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                271,
+                274,
+                312,
+                286
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                316,
+                274,
+                325,
+                286
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                328,
+                274,
+                359,
+                286
+              ]
+            },
+            {
+              "text": "metrics,",
+              "bbox": [
+                363,
+                274,
+                398,
+                286
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                402,
+                274,
+                443,
+                286
+              ]
+            },
+            {
+              "text": "Return",
+              "bbox": [
+                447,
+                274,
+                477,
+                286
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                480,
+                274,
+                496,
+                286
+              ]
+            },
+            {
+              "text": "Refund",
+              "bbox": [
+                500,
+                274,
+                532,
+                286
+              ]
+            },
+            {
+              "text": "Rates",
+              "bbox": [
+                536,
+                274,
+                560,
+                286
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                274,
+                580,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Fulfillment Cost per Order, essential for evaluating operational performance.",
+          "bbox": [
+            15,
+            289,
+            353,
+            301
+          ],
+          "words": [
+            {
+              "text": "Fulfillment",
+              "bbox": [
+                15,
+                289,
+                65,
+                301
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                67,
+                289,
+                87,
+                301
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                90,
+                289,
+                104,
+                301
+              ]
+            },
+            {
+              "text": "Order,",
+              "bbox": [
+                107,
+                289,
+                135,
+                301
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                138,
+                289,
+                176,
+                301
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                178,
+                289,
+                191,
+                301
+              ]
+            },
+            {
+              "text": "evaluating",
+              "bbox": [
+                194,
+                289,
+                240,
+                301
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                242,
+                289,
+                292,
+                301
+              ]
+            },
+            {
+              "text": "performance.",
+              "bbox": [
+                295,
+                289,
+                353,
+                301
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_222819_t1",
+      "bbox": [
+        15,
+        322,
+        580,
+        505
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            322,
+            580,
+            357
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            357,
+            580,
+            378
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            378,
+            580,
+            413
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            413,
+            580,
+            462
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            462,
+            580,
+            483
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            483,
+            580,
+            504
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>FulfillmentMetrics</td><td colspan=\"3\">CostBreakdown</td><td>TotalOrders</td></tr><tr><td>ShippingCosts</td><td colspan=\"3\">WarehouseCosts</td><td>HandlingCosts</td></tr><tr><td>OrderType</td><td colspan=\"3\">StandardShipping</td><td>ExpeditedShipping</td><td>Same-DayDelivery</td><td>AverageCost</td></tr><tr><td>CostperOrder</td><td>UnitsSold</td><td>TotalRevenue</td><td>AverageOrderValue</td><td>TotalCost</td><td>ProfitMargin</td><td>CustomerSatisfaction</td></tr><tr><td>2023Q4</td><td>$2.5M</td><td>$1.2M</td><td>$500K</td><td>$4.2M</td><td>$50</td><td>10K</td></tr><tr><td>2023Q4</td><td>$3.0M</td><td>$1.5M</td><td>$600K</td><td>$5.1M</td><td>$60</td><td>15K</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "FulfillmentMetrics",
+          "bbox": [
+            16,
+            322,
+            101,
+            357
+          ],
+          "words": [
+            {
+              "text": "FulfillmentMetrics",
+              "bbox": [
+                21,
+                327,
+                93,
+                352
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CostBreakdown",
+          "bbox": [
+            101,
+            322,
+            359,
+            357
+          ],
+          "words": [
+            {
+              "text": "CostBreakdown",
+              "bbox": [
+                107,
+                327,
+                176,
+                338
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalOrders",
+          "bbox": [
+            359,
+            322,
+            445,
+            357
+          ],
+          "words": [
+            {
+              "text": "TotalOrders",
+              "bbox": [
+                365,
+                327,
+                417,
+                338
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "ShippingCosts",
+          "bbox": [
+            16,
+            357,
+            101,
+            378
+          ],
+          "words": [
+            {
+              "text": "ShippingCosts",
+              "bbox": [
+                21,
+                362,
+                83,
+                373
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "WarehouseCosts",
+          "bbox": [
+            101,
+            357,
+            359,
+            378
+          ],
+          "words": [
+            {
+              "text": "WarehouseCosts",
+              "bbox": [
+                107,
+                362,
+                178,
+                373
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "HandlingCosts",
+          "bbox": [
+            359,
+            357,
+            445,
+            378
+          ],
+          "words": [
+            {
+              "text": "HandlingCosts",
+              "bbox": [
+                365,
+                362,
+                428,
+                373
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "OrderType",
+          "bbox": [
+            16,
+            378,
+            101,
+            413
+          ],
+          "words": [
+            {
+              "text": "OrderType",
+              "bbox": [
+                21,
+                383,
+                69,
+                394
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "StandardShipping",
+          "bbox": [
+            101,
+            378,
+            359,
+            413
+          ],
+          "words": [
+            {
+              "text": "StandardShipping",
+              "bbox": [
+                107,
+                383,
+                185,
+                394
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ExpeditedShipping",
+          "bbox": [
+            359,
+            378,
+            445,
+            413
+          ],
+          "words": [
+            {
+              "text": "ExpeditedShipping",
+              "bbox": [
+                365,
+                383,
+                436,
+                408
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Same-DayDelivery",
+          "bbox": [
+            445,
+            378,
+            531,
+            413
+          ],
+          "words": [
+            {
+              "text": "Same-DayDelivery",
+              "bbox": [
+                473,
+                383,
+                526,
+                408
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageCost",
+          "bbox": [
+            531,
+            378,
+            580,
+            413
+          ],
+          "words": [
+            {
+              "text": "AverageCost",
+              "bbox": [
+                537,
+                383,
+                572,
+                408
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "CostperOrder",
+          "bbox": [
+            16,
+            413,
+            101,
+            462
+          ],
+          "words": [
+            {
+              "text": "CostperOrder",
+              "bbox": [
+                21,
+                418,
+                82,
+                429
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "UnitsSold",
+          "bbox": [
+            101,
+            413,
+            187,
+            462
+          ],
+          "words": [
+            {
+              "text": "UnitsSold",
+              "bbox": [
+                107,
+                418,
+                149,
+                429
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            187,
+            413,
+            273,
+            462
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                193,
+                418,
+                252,
+                429
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageOrderValue",
+          "bbox": [
+            273,
+            413,
+            359,
+            462
+          ],
+          "words": [
+            {
+              "text": "AverageOrderValue",
+              "bbox": [
+                279,
+                418,
+                352,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalCost",
+          "bbox": [
+            359,
+            413,
+            445,
+            462
+          ],
+          "words": [
+            {
+              "text": "TotalCost",
+              "bbox": [
+                365,
+                418,
+                406,
+                429
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "ProfitMargin",
+          "bbox": [
+            445,
+            413,
+            531,
+            462
+          ],
+          "words": [
+            {
+              "text": "ProfitMargin",
+              "bbox": [
+                469,
+                418,
+                526,
+                429
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "CustomerSatisfaction",
+          "bbox": [
+            531,
+            413,
+            580,
+            462
+          ],
+          "words": [
+            {
+              "text": "CustomerSatisfaction",
+              "bbox": [
+                537,
+                418,
+                570,
+                457
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2023Q4",
+          "bbox": [
+            16,
+            462,
+            101,
+            483
+          ],
+          "words": [
+            {
+              "text": "2023Q4",
+              "bbox": [
+                21,
+                467,
+                53,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$2.5M",
+          "bbox": [
+            101,
+            462,
+            187,
+            483
+          ],
+          "words": [
+            {
+              "text": "$2.5M",
+              "bbox": [
+                107,
+                467,
+                133,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$1.2M",
+          "bbox": [
+            187,
+            462,
+            273,
+            483
+          ],
+          "words": [
+            {
+              "text": "$1.2M",
+              "bbox": [
+                193,
+                467,
+                219,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$500K",
+          "bbox": [
+            273,
+            462,
+            359,
+            483
+          ],
+          "words": [
+            {
+              "text": "$500K",
+              "bbox": [
+                279,
+                467,
+                306,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$4.2M",
+          "bbox": [
+            359,
+            462,
+            445,
+            483
+          ],
+          "words": [
+            {
+              "text": "$4.2M",
+              "bbox": [
+                365,
+                467,
+                391,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "$50",
+          "bbox": [
+            445,
+            462,
+            531,
+            483
+          ],
+          "words": [
+            {
+              "text": "$50",
+              "bbox": [
+                511,
+                467,
+                526,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "10K",
+          "bbox": [
+            531,
+            462,
+            580,
+            483
+          ],
+          "words": [
+            {
+              "text": "10K",
+              "bbox": [
+                537,
+                467,
+                554,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2023Q4",
+          "bbox": [
+            16,
+            483,
+            101,
+            504
+          ],
+          "words": [
+            {
+              "text": "2023Q4",
+              "bbox": [
+                21,
+                488,
+                53,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$3.0M",
+          "bbox": [
+            101,
+            483,
+            187,
+            504
+          ],
+          "words": [
+            {
+              "text": "$3.0M",
+              "bbox": [
+                107,
+                488,
+                133,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$1.5M",
+          "bbox": [
+            187,
+            483,
+            273,
+            504
+          ],
+          "words": [
+            {
+              "text": "$1.5M",
+              "bbox": [
+                193,
+                488,
+                219,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$600K",
+          "bbox": [
+            273,
+            483,
+            359,
+            504
+          ],
+          "words": [
+            {
+              "text": "$600K",
+              "bbox": [
+                279,
+                488,
+                306,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$5.1M",
+          "bbox": [
+            359,
+            483,
+            445,
+            504
+          ],
+          "words": [
+            {
+              "text": "$5.1M",
+              "bbox": [
+                365,
+                488,
+                391,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "$60",
+          "bbox": [
+            445,
+            483,
+            531,
+            504
+          ],
+          "words": [
+            {
+              "text": "$60",
+              "bbox": [
+                511,
+                488,
+                526,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "15K",
+          "bbox": [
+            531,
+            483,
+            580,
+            504
+          ],
+          "words": [
+            {
+              "text": "15K",
+              "bbox": [
+                537,
+                488,
+                554,
+                499
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        520,
+        580,
+        581
+      ],
+      "content": "Specifically, the metrics of Total Refunds and Cost per Order reveal significant insights into the financial and logistical challenges faced by the marketplace. Analyzing the Total Refunds allows stakeholders to identify patterns in customer dissatisfaction, while the Cost per Order metric sheds light on the financial implications of fulfillment strategies. Furthermore, understanding payment method preferences is crucial, as it can influence both conversion rates and customer loyalty.",
+      "lines": [
+        {
+          "text": "Specifically, the metrics of Total Refunds and Cost per Order reveal significant insights into the financial and logistical",
+          "bbox": [
+            15,
+            521,
+            580,
+            533
+          ],
+          "words": [
+            {
+              "text": "Specifically,",
+              "bbox": [
+                15,
+                521,
+                70,
+                533
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                75,
+                521,
+                88,
+                533
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                93,
+                521,
+                126,
+                533
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                131,
+                521,
+                140,
+                533
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                145,
+                521,
+                168,
+                533
+              ]
+            },
+            {
+              "text": "Refunds",
+              "bbox": [
+                173,
+                521,
+                209,
+                533
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                215,
+                521,
+                230,
+                533
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                236,
+                521,
+                256,
+                533
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                261,
+                521,
+                275,
+                533
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                280,
+                521,
+                306,
+                533
+              ]
+            },
+            {
+              "text": "reveal",
+              "bbox": [
+                311,
+                521,
+                338,
+                533
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                343,
+                521,
+                389,
+                533
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                395,
+                521,
+                429,
+                533
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                434,
+                521,
+                451,
+                533
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                456,
+                521,
+                470,
+                533
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                475,
+                521,
+                513,
+                533
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                519,
+                521,
+                535,
+                533
+              ]
+            },
+            {
+              "text": "logistical",
+              "bbox": [
+                540,
+                521,
+                580,
+                533
+              ]
+            }
+          ]
+        },
+        {
+          "text": "challenges faced by the marketplace. Analyzing the Total Refunds allows stakeholders to identify patterns in customer",
+          "bbox": [
+            15,
+            536,
+            580,
+            548
+          ],
+          "words": [
+            {
+              "text": "challenges",
+              "bbox": [
+                15,
+                536,
+                61,
+                548
+              ]
+            },
+            {
+              "text": "faced",
+              "bbox": [
+                67,
+                536,
+                91,
+                548
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                97,
+                536,
+                108,
+                548
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                113,
+                536,
+                127,
+                548
+              ]
+            },
+            {
+              "text": "marketplace.",
+              "bbox": [
+                133,
+                536,
+                189,
+                548
+              ]
+            },
+            {
+              "text": "Analyzing",
+              "bbox": [
+                194,
+                536,
+                240,
+                548
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                246,
+                536,
+                259,
+                548
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                265,
+                536,
+                287,
+                548
+              ]
+            },
+            {
+              "text": "Refunds",
+              "bbox": [
+                293,
+                536,
+                330,
+                548
+              ]
+            },
+            {
+              "text": "allows",
+              "bbox": [
+                335,
+                536,
+                364,
+                548
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                370,
+                536,
+                425,
+                548
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                431,
+                536,
+                439,
+                548
+              ]
+            },
+            {
+              "text": "identify",
+              "bbox": [
+                445,
+                536,
+                479,
+                548
+              ]
+            },
+            {
+              "text": "patterns",
+              "bbox": [
+                485,
+                536,
+                520,
+                548
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                525,
+                536,
+                534,
+                548
+              ]
+            },
+            {
+              "text": "customer",
+              "bbox": [
+                540,
+                536,
+                580,
+                548
+              ]
+            }
+          ]
+        },
+        {
+          "text": "dissatisfaction, while the Cost per Order metric sheds light on the financial implications of fulfillment strategies. Furthermore,",
+          "bbox": [
+            15,
+            551,
+            580,
+            563
+          ],
+          "words": [
+            {
+              "text": "dissatisfaction,",
+              "bbox": [
+                15,
+                551,
+                81,
+                563
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                84,
+                551,
+                108,
+                563
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                112,
+                551,
+                125,
+                563
+              ]
+            },
+            {
+              "text": "Cost",
+              "bbox": [
+                129,
+                551,
+                149,
+                563
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                152,
+                551,
+                166,
+                563
+              ]
+            },
+            {
+              "text": "Order",
+              "bbox": [
+                169,
+                551,
+                195,
+                563
+              ]
+            },
+            {
+              "text": "metric",
+              "bbox": [
+                198,
+                551,
+                227,
+                563
+              ]
+            },
+            {
+              "text": "sheds",
+              "bbox": [
+                230,
+                551,
+                254,
+                563
+              ]
+            },
+            {
+              "text": "light",
+              "bbox": [
+                258,
+                551,
+                278,
+                563
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                281,
+                551,
+                292,
+                563
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                295,
+                551,
+                309,
+                563
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                312,
+                551,
+                351,
+                563
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                354,
+                551,
+                408,
+                563
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                412,
+                551,
+                421,
+                563
+              ]
+            },
+            {
+              "text": "fulfillment",
+              "bbox": [
+                424,
+                551,
+                471,
+                563
+              ]
+            },
+            {
+              "text": "strategies.",
+              "bbox": [
+                475,
+                551,
+                519,
+                563
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                522,
+                551,
+                580,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding payment method preferences is crucial, as it can influence both conversion rates and customer loyalty.",
+          "bbox": [
+            15,
+            567,
+            529,
+            579
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                567,
+                77,
+                579
+              ]
+            },
+            {
+              "text": "payment",
+              "bbox": [
+                80,
+                567,
+                118,
+                579
+              ]
+            },
+            {
+              "text": "method",
+              "bbox": [
+                121,
+                567,
+                154,
+                579
+              ]
+            },
+            {
+              "text": "preferences",
+              "bbox": [
+                156,
+                567,
+                207,
+                579
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                210,
+                567,
+                217,
+                579
+              ]
+            },
+            {
+              "text": "crucial,",
+              "bbox": [
+                220,
+                567,
+                253,
+                579
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                255,
+                567,
+                265,
+                579
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                267,
+                567,
+                273,
+                579
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                276,
+                567,
+                291,
+                579
+              ]
+            },
+            {
+              "text": "influence",
+              "bbox": [
+                294,
+                567,
+                335,
+                579
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                338,
+                567,
+                357,
+                579
+              ]
+            },
+            {
+              "text": "conversion",
+              "bbox": [
+                360,
+                567,
+                408,
+                579
+              ]
+            },
+            {
+              "text": "rates",
+              "bbox": [
+                411,
+                567,
+                432,
+                579
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                435,
+                567,
+                451,
+                579
+              ]
+            },
+            {
+              "text": "customer",
+              "bbox": [
+                453,
+                567,
+                494,
+                579
+              ]
+            },
+            {
+              "text": "loyalty.",
+              "bbox": [
+                496,
+                567,
+                529,
+                579
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_222819_t2",
+      "bbox": [
+        15,
+        599,
+        580,
+        726
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            600,
+            580,
+            621
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            621,
+            580,
+            642
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            642,
+            580,
+            663
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            663,
+            580,
+            684
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            684,
+            580,
+            705
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            705,
+            580,
+            726
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>PaymentMethod</td><td>AdoptionRate</td></tr><tr><td colspan=\"2\">PaymentPreferences</td><td>GrowthIndex</td></tr><tr><td>CreditCard</td><td>45%</td><td>1.2</td></tr><tr><td>DebitCard</td><td>35%</td><td>1.0</td></tr><tr><td>PayPal</td><td>15%</td><td>0.8</td></tr><tr><td>Cryptocurrency</td><td>5%</td><td>0.5</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "PaymentMethod",
+          "bbox": [
+            16,
+            600,
+            254,
+            621
+          ],
+          "words": [
+            {
+              "text": "PaymentMethod",
+              "bbox": [
+                21,
+                604,
+                92,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "AdoptionRate",
+          "bbox": [
+            254,
+            600,
+            492,
+            621
+          ],
+          "words": [
+            {
+              "text": "AdoptionRate",
+              "bbox": [
+                426,
+                604,
+                486,
+                615
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "PaymentPreferences",
+          "bbox": [
+            16,
+            621,
+            492,
+            642
+          ],
+          "words": [
+            {
+              "text": "PaymentPreferences",
+              "bbox": [
+                21,
+                625,
+                108,
+                636
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthIndex",
+          "bbox": [
+            492,
+            621,
+            580,
+            642
+          ],
+          "words": [
+            {
+              "text": "GrowthIndex",
+              "bbox": [
+                497,
+                625,
+                555,
+                636
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "CreditCard",
+          "bbox": [
+            16,
+            642,
+            254,
+            663
+          ],
+          "words": [
+            {
+              "text": "CreditCard",
+              "bbox": [
+                21,
+                646,
+                71,
+                657
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "45%",
+          "bbox": [
+            254,
+            642,
+            492,
+            663
+          ],
+          "words": [
+            {
+              "text": "45%",
+              "bbox": [
+                466,
+                646,
+                486,
+                657
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "1.2",
+          "bbox": [
+            492,
+            642,
+            580,
+            663
+          ],
+          "words": [
+            {
+              "text": "1.2",
+              "bbox": [
+                497,
+                646,
+                510,
+                657
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "DebitCard",
+          "bbox": [
+            16,
+            663,
+            254,
+            684
+          ],
+          "words": [
+            {
+              "text": "DebitCard",
+              "bbox": [
+                21,
+                667,
+                63,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "35%",
+          "bbox": [
+            254,
+            663,
+            492,
+            684
+          ],
+          "words": [
+            {
+              "text": "35%",
+              "bbox": [
+                468,
+                667,
+                486,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.0",
+          "bbox": [
+            492,
+            663,
+            580,
+            684
+          ],
+          "words": [
+            {
+              "text": "1.0",
+              "bbox": [
+                497,
+                667,
+                510,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PayPal",
+          "bbox": [
+            16,
+            684,
+            254,
+            705
+          ],
+          "words": [
+            {
+              "text": "PayPal",
+              "bbox": [
+                21,
+                688,
+                49,
+                699
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            254,
+            684,
+            492,
+            705
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                468,
+                688,
+                486,
+                699
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.8",
+          "bbox": [
+            492,
+            684,
+            580,
+            705
+          ],
+          "words": [
+            {
+              "text": "0.8",
+              "bbox": [
+                497,
+                688,
+                510,
+                699
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Cryptocurrency",
+          "bbox": [
+            16,
+            705,
+            254,
+            726
+          ],
+          "words": [
+            {
+              "text": "Cryptocurrency",
+              "bbox": [
+                21,
+                709,
+                84,
+                720
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            254,
+            705,
+            492,
+            726
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                473,
+                709,
+                486,
+                720
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.5",
+          "bbox": [
+            492,
+            705,
+            580,
+            726
+          ],
+          "words": [
+            {
+              "text": "0.5",
+              "bbox": [
+                497,
+                709,
+                510,
+                720
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        741,
+        580,
+        772
+      ],
+      "content": "As e-commerce continues to evolve, leveraging these insights will enable businesses to enhance customer satisfaction and optimize operational costs, ultimately driving profitability in an increasingly complex market environment.",
+      "lines": [
+        {
+          "text": "As e-commerce continues to evolve, leveraging these insights will enable businesses to enhance customer satisfaction and",
+          "bbox": [
+            15,
+            742,
+            580,
+            754
+          ],
+          "words": [
+            {
+              "text": "As",
+              "bbox": [
+                15,
+                742,
+                27,
+                754
+              ]
+            },
+            {
+              "text": "e-commerce",
+              "bbox": [
+                32,
+                742,
+                86,
+                754
+              ]
+            },
+            {
+              "text": "continues",
+              "bbox": [
+                91,
+                742,
+                133,
+                754
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                138,
+                742,
+                146,
+                754
+              ]
+            },
+            {
+              "text": "evolve,",
+              "bbox": [
+                151,
+                742,
+                183,
+                754
+              ]
+            },
+            {
+              "text": "leveraging",
+              "bbox": [
+                187,
+                742,
+                234,
+                754
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                238,
+                742,
+                261,
+                754
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                266,
+                742,
+                300,
+                754
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                305,
+                742,
+                322,
+                754
+              ]
+            },
+            {
+              "text": "enable",
+              "bbox": [
+                326,
+                742,
+                355,
+                754
+              ]
+            },
+            {
+              "text": "businesses",
+              "bbox": [
+                360,
+                742,
+                406,
+                754
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                411,
+                742,
+                419,
+                754
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                424,
+                742,
+                460,
+                754
+              ]
+            },
+            {
+              "text": "customer",
+              "bbox": [
+                464,
+                742,
+                505,
+                754
+              ]
+            },
+            {
+              "text": "satisfaction",
+              "bbox": [
+                509,
+                742,
+                560,
+                754
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                742,
+                580,
+                754
+              ]
+            }
+          ]
+        },
+        {
+          "text": "optimize operational costs, ultimately driving profitability in an increasingly complex market environment.",
+          "bbox": [
+            15,
+            758,
+            486,
+            770
+          ],
+          "words": [
+            {
+              "text": "optimize",
+              "bbox": [
+                15,
+                758,
+                54,
+                770
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                56,
+                758,
+                106,
+                770
+              ]
+            },
+            {
+              "text": "costs,",
+              "bbox": [
+                108,
+                758,
+                133,
+                770
+              ]
+            },
+            {
+              "text": "ultimately",
+              "bbox": [
+                136,
+                758,
+                181,
+                770
+              ]
+            },
+            {
+              "text": "driving",
+              "bbox": [
+                183,
+                758,
+                215,
+                770
+              ]
+            },
+            {
+              "text": "profitability",
+              "bbox": [
+                218,
+                758,
+                270,
+                770
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                273,
+                758,
+                282,
+                770
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                284,
+                758,
+                295,
+                770
+              ]
+            },
+            {
+              "text": "increasingly",
+              "bbox": [
+                298,
+                758,
+                351,
+                770
+              ]
+            },
+            {
+              "text": "complex",
+              "bbox": [
+                354,
+                758,
+                392,
+                770
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                395,
+                758,
+                425,
+                770
+              ]
+            },
+            {
+              "text": "environment.",
+              "bbox": [
+                428,
+                758,
+                486,
+                770
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "image_id": "img_015248",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The analysis of the impact of sex and age on health outcomes is critical for understanding population dynamics and tailoring",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "health interventions. The data presented in the accompanying table provides valuable insights into the performance metrics",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "associated with these demographic factors. Specifically, the table highlights the Area Under the Curve (AUC) value of 0.637,",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "which indicates a moderate level of discrimination in predicting health outcomes based on sex and age.",
+      "bbox": [
+        15,
+        97,
+        469,
+        109
+      ]
+    },
+    {
+      "text": "Model tests, multivariate models on hospitalisation  Area under ROC Curve  CV  AIC  LR test",
+      "bbox": [
+        15,
+        127,
+        580,
+        148
+      ]
+    },
+    {
+      "text": "AUC  (95% CI)  %",
+      "bbox": [
+        15,
+        148,
+        580,
+        168
+      ]
+    },
+    {
+      "text": "Sex and age  0.637  (0.632–0.642)  4.9  74,959  0",
+      "bbox": [
+        15,
+        168,
+        580,
+        189
+      ]
+    },
+    {
+      "text": "Adjusted for sex and age  0",
+      "bbox": [
+        15,
+        189,
+        580,
+        209
+      ]
+    },
+    {
+      "text": "Individual income and education  0.652  (0.647–0.658)  5.2  74,599  372",
+      "bbox": [
+        15,
+        209,
+        580,
+        229
+      ]
+    },
+    {
+      "text": "Relationships with primary care  0.668  (0.663–0.674)  6.2  73,638  1331",
+      "bbox": [
+        15,
+        229,
+        580,
+        249
+      ]
+    },
+    {
+      "text": "Multimorbidity level  0.858  (0.855–0.861)  13.7  56,466  18,503",
+      "bbox": [
+        15,
+        249,
+        580,
+        269
+      ]
+    },
+    {
+      "text": "Adjusted for sex, age and multimorbidity  0",
+      "bbox": [
+        15,
+        269,
+        580,
+        289
+      ]
+    },
+    {
+      "text": "Individual income and education  0.859  (0.856–0.862)  13.7  56,432  46",
+      "bbox": [
+        15,
+        289,
+        580,
+        309
+      ]
+    },
+    {
+      "text": "Relationships with primary care  0.864  (0.861–0.866)  14.1  55,626  850",
+      "bbox": [
+        15,
+        309,
+        580,
+        329
+      ]
+    },
+    {
+      "text": "Socioeconomy and relationship  0.864  (0.861–0.867)  14.2  55,587  901",
+      "bbox": [
+        15,
+        329,
+        580,
+        349
+      ]
+    },
+    {
+      "text": "The 95% Confidence Interval (95% CI) for this AUC, ranging from 0.632 to 0.642, further reinforces the reliability of this",
+      "bbox": [
+        15,
+        366,
+        580,
+        378
+      ]
+    },
+    {
+      "text": "estimate, suggesting that the model is statistically robust and provides a stable assessment of the predictive capability.",
+      "bbox": [
+        15,
+        381,
+        580,
+        393
+      ]
+    },
+    {
+      "text": "Additionally, the dataset encompasses a substantial sample size of 74,959 individuals, enhancing the validity and",
+      "bbox": [
+        15,
+        396,
+        580,
+        408
+      ]
+    },
+    {
+      "text": "generalizability of the findings. The percentage of variance explained by these demographic factors, represented as 4.9%,",
+      "bbox": [
+        15,
+        412,
+        580,
+        424
+      ]
+    },
+    {
+      "text": "underscores the importance of considering sex and age in health-related research and policy-making. These metrics collectively",
+      "bbox": [
+        15,
+        427,
+        580,
+        439
+      ]
+    },
+    {
+      "text": "indicate that while sex and age are significant contributors to health outcomes, there remains an opportunity to explore",
+      "bbox": [
+        15,
+        443,
+        580,
+        455
+      ]
+    },
+    {
+      "text": "additional variables that may further refine predictive models and improve health interventions across diverse populations.",
+      "bbox": [
+        15,
+        458,
+        554,
+        470
+      ]
+    }
+  ]
+}

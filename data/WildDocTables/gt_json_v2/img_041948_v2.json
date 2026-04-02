@@ -1,0 +1,5452 @@
+{
+  "image_id": "img_041948",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_041948_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        212
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            66,
+            580,
+            87
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            87,
+            580,
+            108
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            108,
+            580,
+            129
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            129,
+            580,
+            150
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            150,
+            580,
+            171
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            171,
+            580,
+            192
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            192,
+            580,
+            212
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">Pathway size by gene</td><td colspan=\"2\">Pathway overlapping</td><td colspan=\"2\">Gene mapping to pathway</td></tr><tr><td>Range</td><td>Proportion</td><td>Range</td><td>Proportion1</td><td>Range</td><td>Proportion</td></tr><tr><td>&gt; = 10, &lt; 20</td><td>36%</td><td>0</td><td>84%</td><td>Unique</td><td>26.20%</td></tr><tr><td>&gt; = 20, &lt; 100</td><td>55%</td><td>&gt; 0, &lt; 0.01</td><td>2.10%</td><td>&gt; = 2, &lt; 10</td><td>58.50%</td></tr><tr><td>&gt; = 100, &lt; 200</td><td>7.70%</td><td>&gt; 0.01, &lt; 0.1</td><td>11.30%</td><td>&gt; = 10, &lt; 100</td><td>15.10%</td></tr><tr><td>&gt; = 200, &lt; 300</td><td>1.30%</td><td>&gt; 0.1, &lt; 0.5</td><td>2.50%</td><td>&gt; = 100</td><td>0.20%</td></tr><tr><td></td><td></td><td>&gt; 0.5</td><td>0.10%</td><td></td><td></td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Pathway size by gene",
+          "bbox": [
+            16,
+            66,
+            207,
+            87
+          ],
+          "words": [
+            {
+              "text": "Pathway",
+              "bbox": [
+                21,
+                70,
+                58,
+                81
+              ]
+            },
+            {
+              "text": "size",
+              "bbox": [
+                61,
+                70,
+                76,
+                81
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                79,
+                70,
+                89,
+                81
+              ]
+            },
+            {
+              "text": "gene",
+              "bbox": [
+                92,
+                70,
+                111,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Pathway overlapping",
+          "bbox": [
+            207,
+            66,
+            394,
+            87
+          ],
+          "words": [
+            {
+              "text": "Pathway",
+              "bbox": [
+                213,
+                70,
+                250,
+                81
+              ]
+            },
+            {
+              "text": "overlapping",
+              "bbox": [
+                252,
+                70,
+                303,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Gene mapping to pathway",
+          "bbox": [
+            394,
+            66,
+            580,
+            87
+          ],
+          "words": [
+            {
+              "text": "Gene",
+              "bbox": [
+                461,
+                70,
+                484,
+                81
+              ]
+            },
+            {
+              "text": "mapping",
+              "bbox": [
+                486,
+                70,
+                524,
+                81
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                526,
+                70,
+                535,
+                81
+              ]
+            },
+            {
+              "text": "pathway",
+              "bbox": [
+                537,
+                70,
+                574,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Range",
+          "bbox": [
+            16,
+            87,
+            120,
+            108
+          ],
+          "words": [
+            {
+              "text": "Range",
+              "bbox": [
+                21,
+                91,
+                48,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Proportion",
+          "bbox": [
+            120,
+            87,
+            207,
+            108
+          ],
+          "words": [
+            {
+              "text": "Proportion",
+              "bbox": [
+                125,
+                91,
+                172,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Range",
+          "bbox": [
+            207,
+            87,
+            299,
+            108
+          ],
+          "words": [
+            {
+              "text": "Range",
+              "bbox": [
+                213,
+                91,
+                240,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Proportion1",
+          "bbox": [
+            299,
+            87,
+            394,
+            108
+          ],
+          "words": [
+            {
+              "text": "Proportion1",
+              "bbox": [
+                336,
+                91,
+                388,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Range",
+          "bbox": [
+            394,
+            87,
+            491,
+            108
+          ],
+          "words": [
+            {
+              "text": "Range",
+              "bbox": [
+                459,
+                91,
+                486,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Proportion",
+          "bbox": [
+            491,
+            87,
+            580,
+            108
+          ],
+          "words": [
+            {
+              "text": "Proportion",
+              "bbox": [
+                527,
+                91,
+                574,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "> = 10, < 20",
+          "bbox": [
+            16,
+            108,
+            120,
+            129
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                21,
+                112,
+                26,
+                123
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                29,
+                112,
+                34,
+                123
+              ]
+            },
+            {
+              "text": "10,",
+              "bbox": [
+                37,
+                112,
+                49,
+                123
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                52,
+                112,
+                57,
+                123
+              ]
+            },
+            {
+              "text": "20",
+              "bbox": [
+                60,
+                112,
+                70,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "36%",
+          "bbox": [
+            120,
+            108,
+            207,
+            129
+          ],
+          "words": [
+            {
+              "text": "36%",
+              "bbox": [
+                125,
+                112,
+                143,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            207,
+            108,
+            299,
+            129
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                212,
+                112,
+                217,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "84%",
+          "bbox": [
+            299,
+            108,
+            394,
+            129
+          ],
+          "words": [
+            {
+              "text": "84%",
+              "bbox": [
+                371,
+                112,
+                389,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Unique",
+          "bbox": [
+            394,
+            108,
+            491,
+            129
+          ],
+          "words": [
+            {
+              "text": "Unique",
+              "bbox": [
+                457,
+                112,
+                486,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "26.20%",
+          "bbox": [
+            491,
+            108,
+            580,
+            129
+          ],
+          "words": [
+            {
+              "text": "26.20%",
+              "bbox": [
+                544,
+                112,
+                575,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "> = 20, < 100",
+          "bbox": [
+            16,
+            129,
+            120,
+            150
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                21,
+                133,
+                26,
+                144
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                29,
+                133,
+                34,
+                144
+              ]
+            },
+            {
+              "text": "20,",
+              "bbox": [
+                37,
+                133,
+                49,
+                144
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                52,
+                133,
+                57,
+                144
+              ]
+            },
+            {
+              "text": "100",
+              "bbox": [
+                60,
+                133,
+                75,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "55%",
+          "bbox": [
+            120,
+            129,
+            207,
+            150
+          ],
+          "words": [
+            {
+              "text": "55%",
+              "bbox": [
+                125,
+                133,
+                143,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "> 0, < 0.01",
+          "bbox": [
+            207,
+            129,
+            299,
+            150
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                212,
+                133,
+                218,
+                144
+              ]
+            },
+            {
+              "text": "0,",
+              "bbox": [
+                220,
+                133,
+                228,
+                144
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                230,
+                133,
+                236,
+                144
+              ]
+            },
+            {
+              "text": "0.01",
+              "bbox": [
+                238,
+                133,
+                256,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2.10%",
+          "bbox": [
+            299,
+            129,
+            394,
+            150
+          ],
+          "words": [
+            {
+              "text": "2.10%",
+              "bbox": [
+                363,
+                133,
+                389,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "> = 2, < 10",
+          "bbox": [
+            394,
+            129,
+            491,
+            150
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                442,
+                133,
+                448,
+                144
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                450,
+                133,
+                456,
+                144
+              ]
+            },
+            {
+              "text": "2,",
+              "bbox": [
+                458,
+                133,
+                466,
+                144
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                468,
+                133,
+                474,
+                144
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                476,
+                133,
+                486,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "58.50%",
+          "bbox": [
+            491,
+            129,
+            580,
+            150
+          ],
+          "words": [
+            {
+              "text": "58.50%",
+              "bbox": [
+                544,
+                133,
+                575,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "> = 100, < 200",
+          "bbox": [
+            16,
+            150,
+            120,
+            171
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                21,
+                154,
+                26,
+                165
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                29,
+                154,
+                34,
+                165
+              ]
+            },
+            {
+              "text": "100,",
+              "bbox": [
+                37,
+                154,
+                54,
+                165
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                57,
+                154,
+                62,
+                165
+              ]
+            },
+            {
+              "text": "200",
+              "bbox": [
+                65,
+                154,
+                80,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "7.70%",
+          "bbox": [
+            120,
+            150,
+            207,
+            171
+          ],
+          "words": [
+            {
+              "text": "7.70%",
+              "bbox": [
+                125,
+                154,
+                151,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "> 0.01, < 0.1",
+          "bbox": [
+            207,
+            150,
+            299,
+            171
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                212,
+                154,
+                218,
+                165
+              ]
+            },
+            {
+              "text": "0.01,",
+              "bbox": [
+                220,
+                154,
+                240,
+                165
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                243,
+                154,
+                248,
+                165
+              ]
+            },
+            {
+              "text": "0.1",
+              "bbox": [
+                251,
+                154,
+                263,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "11.30%",
+          "bbox": [
+            299,
+            150,
+            394,
+            171
+          ],
+          "words": [
+            {
+              "text": "11.30%",
+              "bbox": [
+                358,
+                154,
+                389,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "> = 10, < 100",
+          "bbox": [
+            394,
+            150,
+            491,
+            171
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                432,
+                154,
+                438,
+                165
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                440,
+                154,
+                446,
+                165
+              ]
+            },
+            {
+              "text": "10,",
+              "bbox": [
+                448,
+                154,
+                461,
+                165
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                463,
+                154,
+                469,
+                165
+              ]
+            },
+            {
+              "text": "100",
+              "bbox": [
+                471,
+                154,
+                486,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "15.10%",
+          "bbox": [
+            491,
+            150,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "15.10%",
+              "bbox": [
+                544,
+                154,
+                575,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "> = 200, < 300",
+          "bbox": [
+            16,
+            171,
+            120,
+            192
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                21,
+                175,
+                26,
+                186
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                29,
+                175,
+                34,
+                186
+              ]
+            },
+            {
+              "text": "200,",
+              "bbox": [
+                37,
+                175,
+                54,
+                186
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                57,
+                175,
+                62,
+                186
+              ]
+            },
+            {
+              "text": "300",
+              "bbox": [
+                65,
+                175,
+                80,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.30%",
+          "bbox": [
+            120,
+            171,
+            207,
+            192
+          ],
+          "words": [
+            {
+              "text": "1.30%",
+              "bbox": [
+                125,
+                175,
+                151,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "> 0.1, < 0.5",
+          "bbox": [
+            207,
+            171,
+            299,
+            192
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                212,
+                175,
+                218,
+                186
+              ]
+            },
+            {
+              "text": "0.1,",
+              "bbox": [
+                220,
+                175,
+                235,
+                186
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                238,
+                175,
+                243,
+                186
+              ]
+            },
+            {
+              "text": "0.5",
+              "bbox": [
+                246,
+                175,
+                258,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2.50%",
+          "bbox": [
+            299,
+            171,
+            394,
+            192
+          ],
+          "words": [
+            {
+              "text": "2.50%",
+              "bbox": [
+                363,
+                175,
+                389,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "> = 100",
+          "bbox": [
+            394,
+            171,
+            491,
+            192
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                455,
+                175,
+                461,
+                186
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                463,
+                175,
+                469,
+                186
+              ]
+            },
+            {
+              "text": "100",
+              "bbox": [
+                471,
+                175,
+                486,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.20%",
+          "bbox": [
+            491,
+            171,
+            580,
+            192
+          ],
+          "words": [
+            {
+              "text": "0.20%",
+              "bbox": [
+                549,
+                175,
+                575,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            16,
+            192,
+            120,
+            212
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            120,
+            192,
+            207,
+            212
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "> 0.5",
+          "bbox": [
+            207,
+            192,
+            299,
+            212
+          ],
+          "words": [
+            {
+              "text": ">",
+              "bbox": [
+                212,
+                196,
+                218,
+                207
+              ]
+            },
+            {
+              "text": "0.5",
+              "bbox": [
+                220,
+                196,
+                233,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.10%",
+          "bbox": [
+            299,
+            192,
+            394,
+            212
+          ],
+          "words": [
+            {
+              "text": "0.10%",
+              "bbox": [
+                363,
+                196,
+                389,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            394,
+            192,
+            491,
+            212
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            491,
+            192,
+            580,
+            212
+          ],
+          "words": []
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_041948_t1",
+      "bbox": [
+        15,
+        227,
+        580,
+        375
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            228,
+            580,
+            249
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            249,
+            580,
+            270
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            270,
+            580,
+            291
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            291,
+            580,
+            312
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            312,
+            580,
+            333
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            333,
+            580,
+            354
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            354,
+            580,
+            375
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td rowspan=\"2\">Tracts</td><td colspan=\"2\">FA, mean (SD)</td><td colspan=\"2\">AD, mean (SD)</td><td colspan=\"2\">RD, mean (SD)</td></tr><tr><td>Patient</td><td>Control</td><td>Patient</td><td>Control</td><td>Patient</td><td>Control</td></tr><tr><td>SLF</td><td>0.29 (0.05)a</td><td>0.37 (0.04)</td><td>1.05 (0.15)</td><td>1.09 (0.08)</td><td>0.68 (0.11)</td><td>0.60 (0.04)</td></tr><tr><td>AF</td><td>0.33 (0.06)a</td><td>0.47 (0.03)</td><td>1.08 (0.16)</td><td>1.21 (0.05)</td><td>0.64 (0.10)</td><td>0.56 (0.04)</td></tr><tr><td>IFOF</td><td>0.32 (0.07)a</td><td>0.48 (0.03)</td><td>1.19 (0.13)a</td><td>1.35 (0.04)</td><td>0.72 (0.08)a</td><td>0.60 (0.05)</td></tr><tr><td>UF</td><td>0.34 (0.07)a</td><td>0.43 (0.03)</td><td>1.16 (0.13)</td><td>1.27 (0.06)</td><td>0.67 (0.03)</td><td>0.62 (0.04)</td></tr><tr><td>ILF</td><td>0.36 (0.03)a</td><td>0.42 (0.02)</td><td>1.27 (0.07)</td><td>1.29 (0.05)</td><td>0.71 (0.05)a</td><td>0.65 (0.03)</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Tracts",
+          "bbox": [
+            16,
+            228,
+            76,
+            249
+          ],
+          "words": [
+            {
+              "text": "Tracts",
+              "bbox": [
+                21,
+                232,
+                48,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "FA, mean (SD)",
+          "bbox": [
+            76,
+            228,
+            244,
+            249
+          ],
+          "words": [
+            {
+              "text": "FA,",
+              "bbox": [
+                82,
+                232,
+                97,
+                243
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                99,
+                232,
+                123,
+                243
+              ]
+            },
+            {
+              "text": "(SD)",
+              "bbox": [
+                125,
+                232,
+                145,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "AD, mean (SD)",
+          "bbox": [
+            244,
+            228,
+            412,
+            249
+          ],
+          "words": [
+            {
+              "text": "AD,",
+              "bbox": [
+                341,
+                232,
+                358,
+                243
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                361,
+                232,
+                384,
+                243
+              ]
+            },
+            {
+              "text": "(SD)",
+              "bbox": [
+                387,
+                232,
+                406,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "RD, mean (SD)",
+          "bbox": [
+            412,
+            228,
+            580,
+            249
+          ],
+          "words": [
+            {
+              "text": "RD,",
+              "bbox": [
+                509,
+                232,
+                526,
+                243
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                529,
+                232,
+                552,
+                243
+              ]
+            },
+            {
+              "text": "(SD)",
+              "bbox": [
+                555,
+                232,
+                574,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Patient",
+          "bbox": [
+            16,
+            249,
+            76,
+            270
+          ],
+          "words": [
+            {
+              "text": "Patient",
+              "bbox": [
+                21,
+                253,
+                52,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Control",
+          "bbox": [
+            76,
+            249,
+            163,
+            270
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                82,
+                253,
+                115,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Patient",
+          "bbox": [
+            163,
+            249,
+            244,
+            270
+          ],
+          "words": [
+            {
+              "text": "Patient",
+              "bbox": [
+                169,
+                253,
+                199,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Control",
+          "bbox": [
+            244,
+            249,
+            331,
+            270
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                292,
+                253,
+                326,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Patient",
+          "bbox": [
+            331,
+            249,
+            412,
+            270
+          ],
+          "words": [
+            {
+              "text": "Patient",
+              "bbox": [
+                376,
+                253,
+                406,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Control",
+          "bbox": [
+            412,
+            249,
+            499,
+            270
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                460,
+                253,
+                493,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SLF",
+          "bbox": [
+            16,
+            270,
+            76,
+            291
+          ],
+          "words": [
+            {
+              "text": "SLF",
+              "bbox": [
+                21,
+                274,
+                38,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.29 (0.05)a",
+          "bbox": [
+            76,
+            270,
+            163,
+            291
+          ],
+          "words": [
+            {
+              "text": "0.29",
+              "bbox": [
+                82,
+                274,
+                99,
+                285
+              ]
+            },
+            {
+              "text": "(0.05)a",
+              "bbox": [
+                102,
+                274,
+                130,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.37 (0.04)",
+          "bbox": [
+            163,
+            270,
+            244,
+            291
+          ],
+          "words": [
+            {
+              "text": "0.37",
+              "bbox": [
+                169,
+                274,
+                186,
+                285
+              ]
+            },
+            {
+              "text": "(0.04)",
+              "bbox": [
+                189,
+                274,
+                213,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.05 (0.15)",
+          "bbox": [
+            244,
+            270,
+            331,
+            291
+          ],
+          "words": [
+            {
+              "text": "1.05",
+              "bbox": [
+                281,
+                274,
+                299,
+                285
+              ]
+            },
+            {
+              "text": "(0.15)",
+              "bbox": [
+                301,
+                274,
+                326,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.09 (0.08)",
+          "bbox": [
+            331,
+            270,
+            412,
+            291
+          ],
+          "words": [
+            {
+              "text": "1.09",
+              "bbox": [
+                362,
+                274,
+                380,
+                285
+              ]
+            },
+            {
+              "text": "(0.08)",
+              "bbox": [
+                382,
+                274,
+                406,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.68 (0.11)",
+          "bbox": [
+            412,
+            270,
+            499,
+            291
+          ],
+          "words": [
+            {
+              "text": "0.68",
+              "bbox": [
+                450,
+                274,
+                467,
+                285
+              ]
+            },
+            {
+              "text": "(0.11)",
+              "bbox": [
+                470,
+                274,
+                493,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.60 (0.04)",
+          "bbox": [
+            499,
+            270,
+            580,
+            291
+          ],
+          "words": [
+            {
+              "text": "0.60",
+              "bbox": [
+                530,
+                274,
+                547,
+                285
+              ]
+            },
+            {
+              "text": "(0.04)",
+              "bbox": [
+                550,
+                274,
+                574,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "AF",
+          "bbox": [
+            16,
+            291,
+            76,
+            312
+          ],
+          "words": [
+            {
+              "text": "AF",
+              "bbox": [
+                21,
+                295,
+                34,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.33 (0.06)a",
+          "bbox": [
+            76,
+            291,
+            163,
+            312
+          ],
+          "words": [
+            {
+              "text": "0.33",
+              "bbox": [
+                82,
+                295,
+                99,
+                306
+              ]
+            },
+            {
+              "text": "(0.06)a",
+              "bbox": [
+                102,
+                295,
+                130,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.47 (0.03)",
+          "bbox": [
+            163,
+            291,
+            244,
+            312
+          ],
+          "words": [
+            {
+              "text": "0.47",
+              "bbox": [
+                169,
+                295,
+                186,
+                306
+              ]
+            },
+            {
+              "text": "(0.03)",
+              "bbox": [
+                189,
+                295,
+                213,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.08 (0.16)",
+          "bbox": [
+            244,
+            291,
+            331,
+            312
+          ],
+          "words": [
+            {
+              "text": "1.08",
+              "bbox": [
+                281,
+                295,
+                299,
+                306
+              ]
+            },
+            {
+              "text": "(0.16)",
+              "bbox": [
+                301,
+                295,
+                326,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.21 (0.05)",
+          "bbox": [
+            331,
+            291,
+            412,
+            312
+          ],
+          "words": [
+            {
+              "text": "1.21",
+              "bbox": [
+                362,
+                295,
+                380,
+                306
+              ]
+            },
+            {
+              "text": "(0.05)",
+              "bbox": [
+                382,
+                295,
+                406,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.64 (0.10)",
+          "bbox": [
+            412,
+            291,
+            499,
+            312
+          ],
+          "words": [
+            {
+              "text": "0.64",
+              "bbox": [
+                449,
+                295,
+                467,
+                306
+              ]
+            },
+            {
+              "text": "(0.10)",
+              "bbox": [
+                469,
+                295,
+                493,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.56 (0.04)",
+          "bbox": [
+            499,
+            291,
+            580,
+            312
+          ],
+          "words": [
+            {
+              "text": "0.56",
+              "bbox": [
+                530,
+                295,
+                547,
+                306
+              ]
+            },
+            {
+              "text": "(0.04)",
+              "bbox": [
+                550,
+                295,
+                574,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IFOF",
+          "bbox": [
+            16,
+            312,
+            76,
+            333
+          ],
+          "words": [
+            {
+              "text": "IFOF",
+              "bbox": [
+                21,
+                316,
+                43,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.32 (0.07)a",
+          "bbox": [
+            76,
+            312,
+            163,
+            333
+          ],
+          "words": [
+            {
+              "text": "0.32",
+              "bbox": [
+                82,
+                316,
+                99,
+                327
+              ]
+            },
+            {
+              "text": "(0.07)a",
+              "bbox": [
+                102,
+                316,
+                130,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.48 (0.03)",
+          "bbox": [
+            163,
+            312,
+            244,
+            333
+          ],
+          "words": [
+            {
+              "text": "0.48",
+              "bbox": [
+                169,
+                316,
+                186,
+                327
+              ]
+            },
+            {
+              "text": "(0.03)",
+              "bbox": [
+                189,
+                316,
+                213,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.19 (0.13)a",
+          "bbox": [
+            244,
+            312,
+            331,
+            333
+          ],
+          "words": [
+            {
+              "text": "1.19",
+              "bbox": [
+                277,
+                316,
+                294,
+                327
+              ]
+            },
+            {
+              "text": "(0.13)a",
+              "bbox": [
+                297,
+                316,
+                326,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.35 (0.04)",
+          "bbox": [
+            331,
+            312,
+            412,
+            333
+          ],
+          "words": [
+            {
+              "text": "1.35",
+              "bbox": [
+                362,
+                316,
+                380,
+                327
+              ]
+            },
+            {
+              "text": "(0.04)",
+              "bbox": [
+                382,
+                316,
+                406,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.72 (0.08)a",
+          "bbox": [
+            412,
+            312,
+            499,
+            333
+          ],
+          "words": [
+            {
+              "text": "0.72",
+              "bbox": [
+                445,
+                316,
+                462,
+                327
+              ]
+            },
+            {
+              "text": "(0.08)a",
+              "bbox": [
+                465,
+                316,
+                493,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.60 (0.05)",
+          "bbox": [
+            499,
+            312,
+            580,
+            333
+          ],
+          "words": [
+            {
+              "text": "0.60",
+              "bbox": [
+                530,
+                316,
+                547,
+                327
+              ]
+            },
+            {
+              "text": "(0.05)",
+              "bbox": [
+                550,
+                316,
+                574,
+                327
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "UF",
+          "bbox": [
+            16,
+            333,
+            76,
+            354
+          ],
+          "words": [
+            {
+              "text": "UF",
+              "bbox": [
+                21,
+                337,
+                34,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.34 (0.07)a",
+          "bbox": [
+            76,
+            333,
+            163,
+            354
+          ],
+          "words": [
+            {
+              "text": "0.34",
+              "bbox": [
+                82,
+                337,
+                99,
+                348
+              ]
+            },
+            {
+              "text": "(0.07)a",
+              "bbox": [
+                102,
+                337,
+                130,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.43 (0.03)",
+          "bbox": [
+            163,
+            333,
+            244,
+            354
+          ],
+          "words": [
+            {
+              "text": "0.43",
+              "bbox": [
+                169,
+                337,
+                186,
+                348
+              ]
+            },
+            {
+              "text": "(0.03)",
+              "bbox": [
+                189,
+                337,
+                213,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.16 (0.13)",
+          "bbox": [
+            244,
+            333,
+            331,
+            354
+          ],
+          "words": [
+            {
+              "text": "1.16",
+              "bbox": [
+                281,
+                337,
+                299,
+                348
+              ]
+            },
+            {
+              "text": "(0.13)",
+              "bbox": [
+                301,
+                337,
+                326,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.27 (0.06)",
+          "bbox": [
+            331,
+            333,
+            412,
+            354
+          ],
+          "words": [
+            {
+              "text": "1.27",
+              "bbox": [
+                362,
+                337,
+                380,
+                348
+              ]
+            },
+            {
+              "text": "(0.06)",
+              "bbox": [
+                382,
+                337,
+                406,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.67 (0.03)",
+          "bbox": [
+            412,
+            333,
+            499,
+            354
+          ],
+          "words": [
+            {
+              "text": "0.67",
+              "bbox": [
+                449,
+                337,
+                467,
+                348
+              ]
+            },
+            {
+              "text": "(0.03)",
+              "bbox": [
+                469,
+                337,
+                493,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.62 (0.04)",
+          "bbox": [
+            499,
+            333,
+            580,
+            354
+          ],
+          "words": [
+            {
+              "text": "0.62",
+              "bbox": [
+                530,
+                337,
+                547,
+                348
+              ]
+            },
+            {
+              "text": "(0.04)",
+              "bbox": [
+                550,
+                337,
+                574,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ILF",
+          "bbox": [
+            16,
+            354,
+            76,
+            375
+          ],
+          "words": [
+            {
+              "text": "ILF",
+              "bbox": [
+                21,
+                358,
+                36,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.36 (0.03)a",
+          "bbox": [
+            76,
+            354,
+            163,
+            375
+          ],
+          "words": [
+            {
+              "text": "0.36",
+              "bbox": [
+                82,
+                358,
+                99,
+                369
+              ]
+            },
+            {
+              "text": "(0.03)a",
+              "bbox": [
+                102,
+                358,
+                130,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.42 (0.02)",
+          "bbox": [
+            163,
+            354,
+            244,
+            375
+          ],
+          "words": [
+            {
+              "text": "0.42",
+              "bbox": [
+                169,
+                358,
+                186,
+                369
+              ]
+            },
+            {
+              "text": "(0.02)",
+              "bbox": [
+                189,
+                358,
+                213,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.27 (0.07)",
+          "bbox": [
+            244,
+            354,
+            331,
+            375
+          ],
+          "words": [
+            {
+              "text": "1.27",
+              "bbox": [
+                281,
+                358,
+                299,
+                369
+              ]
+            },
+            {
+              "text": "(0.07)",
+              "bbox": [
+                301,
+                358,
+                326,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.29 (0.05)",
+          "bbox": [
+            331,
+            354,
+            412,
+            375
+          ],
+          "words": [
+            {
+              "text": "1.29",
+              "bbox": [
+                362,
+                358,
+                380,
+                369
+              ]
+            },
+            {
+              "text": "(0.05)",
+              "bbox": [
+                382,
+                358,
+                406,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.71 (0.05)a",
+          "bbox": [
+            412,
+            354,
+            499,
+            375
+          ],
+          "words": [
+            {
+              "text": "0.71",
+              "bbox": [
+                445,
+                358,
+                462,
+                369
+              ]
+            },
+            {
+              "text": "(0.05)a",
+              "bbox": [
+                465,
+                358,
+                493,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.65 (0.03)",
+          "bbox": [
+            499,
+            354,
+            580,
+            375
+          ],
+          "words": [
+            {
+              "text": "0.65",
+              "bbox": [
+                530,
+                358,
+                547,
+                369
+              ]
+            },
+            {
+              "text": "(0.03)",
+              "bbox": [
+                550,
+                358,
+                574,
+                369
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        390,
+        580,
+        559
+      ],
+      "content": "The first table presents data on pathway size by gene, with headers for Pathway size by gene, Pathway overlapping, and Gene mapping to pathway, subdivided into Range, Proportion, and corresponding values. For the row labeled \"> = 10, < 20\", the values are 36%, 0, 84%, and 26.20%. The row \"> = 20, < 100\" displays 55%, > 0, < 0.01, 2.10%, and 58.50%. Next, the row \"> = 100, < 200\" includes values of 7.70%, > 0.01, < 0.1, 11.30%, and 15.10%. The row \"> = 200, < 300\" shows 1.30%, > 0.1, < 0.5, 2.50%, and 0.20%. Finally, the row labeled \"—\" contains dashes for the first two columns, 0.10% for the third column, and dashes for the last column. The second table details tracts with headers for FA, mean (SD), AD, mean (SD), and RD, mean (SD) across Patient and Control groups. For SLF, the values are 0.29 (0.05)a, 0.37 (0.04), 1.05 (0.15), 1.09 (0.08), 0.68 (0.11), and 0.60 (0.04). For AF, the values are 0.33 (0.06)a, 0.47 (0.03), 1.08 (0.16), 1.21 (0.05), 0.64 (0.10), and 0.56 (0.04). The IFOF row provides 0.32 (0.07)a, 0.48 (0.03), 1.19 (0.13)a, 1.35 (0.04), 0.72 (0.08)a, and 0.60 (0.05). The UF row presents 0.34 (0.07)a, 0.43 (0.03), 1.16 (0.13), 1.27 (0.06), 0.67 (0.03), and 0.62 (0.04). Lastly, the ILF row shows 0.36 (0.03)a, 0.42 (0.02), 1.27 (0.07), 1.29 (0.05), 0.71 (0.05)a, and 0.65 (0.03).",
+      "lines": [
+        {
+          "text": "The first table presents data on pathway size by gene, with headers for Pathway size by gene, Pathway overlapping, and Gene",
+          "bbox": [
+            15,
+            391,
+            580,
+            403
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                391,
+                32,
+                403
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                35,
+                391,
+                53,
+                403
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                57,
+                391,
+                78,
+                403
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                81,
+                391,
+                117,
+                403
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                121,
+                391,
+                139,
+                403
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                142,
+                391,
+                153,
+                403
+              ]
+            },
+            {
+              "text": "pathway",
+              "bbox": [
+                157,
+                391,
+                194,
+                403
+              ]
+            },
+            {
+              "text": "size",
+              "bbox": [
+                197,
+                391,
+                214,
+                403
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                218,
+                391,
+                229,
+                403
+              ]
+            },
+            {
+              "text": "gene,",
+              "bbox": [
+                232,
+                391,
+                256,
+                403
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                259,
+                391,
+                278,
+                403
+              ]
+            },
+            {
+              "text": "headers",
+              "bbox": [
+                282,
+                391,
+                315,
+                403
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                319,
+                391,
+                332,
+                403
+              ]
+            },
+            {
+              "text": "Pathway",
+              "bbox": [
+                335,
+                391,
+                373,
+                403
+              ]
+            },
+            {
+              "text": "size",
+              "bbox": [
+                376,
+                391,
+                393,
+                403
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                397,
+                391,
+                408,
+                403
+              ]
+            },
+            {
+              "text": "gene,",
+              "bbox": [
+                411,
+                391,
+                434,
+                403
+              ]
+            },
+            {
+              "text": "Pathway",
+              "bbox": [
+                438,
+                391,
+                476,
+                403
+              ]
+            },
+            {
+              "text": "overlapping,",
+              "bbox": [
+                479,
+                391,
+                534,
+                403
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                538,
+                391,
+                553,
+                403
+              ]
+            },
+            {
+              "text": "Gene",
+              "bbox": [
+                557,
+                391,
+                580,
+                403
+              ]
+            }
+          ]
+        },
+        {
+          "text": "mapping to pathway, subdivided into Range, Proportion, and corresponding values. For the row labeled \"> = 10, < 20\", the",
+          "bbox": [
+            15,
+            406,
+            580,
+            418
+          ],
+          "words": [
+            {
+              "text": "mapping",
+              "bbox": [
+                15,
+                406,
+                54,
+                418
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                58,
+                406,
+                66,
+                418
+              ]
+            },
+            {
+              "text": "pathway,",
+              "bbox": [
+                70,
+                406,
+                109,
+                418
+              ]
+            },
+            {
+              "text": "subdivided",
+              "bbox": [
+                113,
+                406,
+                162,
+                418
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                166,
+                406,
+                183,
+                418
+              ]
+            },
+            {
+              "text": "Range,",
+              "bbox": [
+                187,
+                406,
+                218,
+                418
+              ]
+            },
+            {
+              "text": "Proportion,",
+              "bbox": [
+                222,
+                406,
+                272,
+                418
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                276,
+                406,
+                292,
+                418
+              ]
+            },
+            {
+              "text": "corresponding",
+              "bbox": [
+                296,
+                406,
+                359,
+                418
+              ]
+            },
+            {
+              "text": "values.",
+              "bbox": [
+                363,
+                406,
+                393,
+                418
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                397,
+                406,
+                413,
+                418
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                417,
+                406,
+                430,
+                418
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                434,
+                406,
+                451,
+                418
+              ]
+            },
+            {
+              "text": "labeled",
+              "bbox": [
+                455,
+                406,
+                487,
+                418
+              ]
+            },
+            {
+              "text": "\">",
+              "bbox": [
+                491,
+                406,
+                502,
+                418
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                506,
+                406,
+                512,
+                418
+              ]
+            },
+            {
+              "text": "10,",
+              "bbox": [
+                516,
+                406,
+                530,
+                418
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                534,
+                406,
+                540,
+                418
+              ]
+            },
+            {
+              "text": "20\",",
+              "bbox": [
+                544,
+                406,
+                563,
+                418
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                406,
+                580,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "text": "values are 36%, 0, 84%, and 26.20%. The row \"> = 20, < 100\" displays 55%, > 0, < 0.01, 2.10%, and 58.50%. Next, the row \">",
+          "bbox": [
+            15,
+            422,
+            580,
+            434
+          ],
+          "words": [
+            {
+              "text": "values",
+              "bbox": [
+                15,
+                422,
+                43,
+                434
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                46,
+                422,
+                59,
+                434
+              ]
+            },
+            {
+              "text": "36%,",
+              "bbox": [
+                62,
+                422,
+                85,
+                434
+              ]
+            },
+            {
+              "text": "0,",
+              "bbox": [
+                88,
+                422,
+                96,
+                434
+              ]
+            },
+            {
+              "text": "84%,",
+              "bbox": [
+                99,
+                422,
+                122,
+                434
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                125,
+                422,
+                141,
+                434
+              ]
+            },
+            {
+              "text": "26.20%.",
+              "bbox": [
+                144,
+                422,
+                180,
+                434
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                183,
+                422,
+                200,
+                434
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                203,
+                422,
+                220,
+                434
+              ]
+            },
+            {
+              "text": "\">",
+              "bbox": [
+                223,
+                422,
+                234,
+                434
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                236,
+                422,
+                243,
+                434
+              ]
+            },
+            {
+              "text": "20,",
+              "bbox": [
+                245,
+                422,
+                259,
+                434
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                262,
+                422,
+                268,
+                434
+              ]
+            },
+            {
+              "text": "100\"",
+              "bbox": [
+                271,
+                422,
+                292,
+                434
+              ]
+            },
+            {
+              "text": "displays",
+              "bbox": [
+                295,
+                422,
+                331,
+                434
+              ]
+            },
+            {
+              "text": "55%,",
+              "bbox": [
+                334,
+                422,
+                357,
+                434
+              ]
+            },
+            {
+              "text": ">",
+              "bbox": [
+                360,
+                422,
+                366,
+                434
+              ]
+            },
+            {
+              "text": "0,",
+              "bbox": [
+                369,
+                422,
+                377,
+                434
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                380,
+                422,
+                386,
+                434
+              ]
+            },
+            {
+              "text": "0.01,",
+              "bbox": [
+                389,
+                422,
+                411,
+                434
+              ]
+            },
+            {
+              "text": "2.10%,",
+              "bbox": [
+                414,
+                422,
+                445,
+                434
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                448,
+                422,
+                464,
+                434
+              ]
+            },
+            {
+              "text": "58.50%.",
+              "bbox": [
+                467,
+                422,
+                503,
+                434
+              ]
+            },
+            {
+              "text": "Next,",
+              "bbox": [
+                506,
+                422,
+                530,
+                434
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                533,
+                422,
+                546,
+                434
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                549,
+                422,
+                566,
+                434
+              ]
+            },
+            {
+              "text": "\">",
+              "bbox": [
+                569,
+                422,
+                580,
+                434
+              ]
+            }
+          ]
+        },
+        {
+          "text": "= 100, < 200\" includes values of 7.70%, > 0.01, < 0.1, 11.30%, and 15.10%. The row \"> = 200, < 300\" shows 1.30%, > 0.1, <",
+          "bbox": [
+            15,
+            437,
+            580,
+            449
+          ],
+          "words": [
+            {
+              "text": "=",
+              "bbox": [
+                15,
+                437,
+                21,
+                449
+              ]
+            },
+            {
+              "text": "100,",
+              "bbox": [
+                24,
+                437,
+                44,
+                449
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                47,
+                437,
+                53,
+                449
+              ]
+            },
+            {
+              "text": "200\"",
+              "bbox": [
+                56,
+                437,
+                77,
+                449
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                80,
+                437,
+                117,
+                449
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                120,
+                437,
+                148,
+                449
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                151,
+                437,
+                161,
+                449
+              ]
+            },
+            {
+              "text": "7.70%,",
+              "bbox": [
+                164,
+                437,
+                195,
+                449
+              ]
+            },
+            {
+              "text": ">",
+              "bbox": [
+                198,
+                437,
+                204,
+                449
+              ]
+            },
+            {
+              "text": "0.01,",
+              "bbox": [
+                208,
+                437,
+                230,
+                449
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                233,
+                437,
+                239,
+                449
+              ]
+            },
+            {
+              "text": "0.1,",
+              "bbox": [
+                242,
+                437,
+                259,
+                449
+              ]
+            },
+            {
+              "text": "11.30%,",
+              "bbox": [
+                262,
+                437,
+                298,
+                449
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                301,
+                437,
+                317,
+                449
+              ]
+            },
+            {
+              "text": "15.10%.",
+              "bbox": [
+                320,
+                437,
+                357,
+                449
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                360,
+                437,
+                377,
+                449
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                380,
+                437,
+                397,
+                449
+              ]
+            },
+            {
+              "text": "\">",
+              "bbox": [
+                400,
+                437,
+                411,
+                449
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                414,
+                437,
+                421,
+                449
+              ]
+            },
+            {
+              "text": "200,",
+              "bbox": [
+                424,
+                437,
+                443,
+                449
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                446,
+                437,
+                452,
+                449
+              ]
+            },
+            {
+              "text": "300\"",
+              "bbox": [
+                456,
+                437,
+                477,
+                449
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                480,
+                437,
+                507,
+                449
+              ]
+            },
+            {
+              "text": "1.30%,",
+              "bbox": [
+                510,
+                437,
+                542,
+                449
+              ]
+            },
+            {
+              "text": ">",
+              "bbox": [
+                545,
+                437,
+                551,
+                449
+              ]
+            },
+            {
+              "text": "0.1,",
+              "bbox": [
+                554,
+                437,
+                571,
+                449
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                574,
+                437,
+                580,
+                449
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.5, 2.50%, and 0.20%. Finally, the row labeled \"—\" contains dashes for the first two columns, 0.10% for the third column, and",
+          "bbox": [
+            15,
+            453,
+            580,
+            465
+          ],
+          "words": [
+            {
+              "text": "0.5,",
+              "bbox": [
+                15,
+                453,
+                32,
+                465
+              ]
+            },
+            {
+              "text": "2.50%,",
+              "bbox": [
+                34,
+                453,
+                66,
+                465
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                68,
+                453,
+                84,
+                465
+              ]
+            },
+            {
+              "text": "0.20%.",
+              "bbox": [
+                87,
+                453,
+                118,
+                465
+              ]
+            },
+            {
+              "text": "Finally,",
+              "bbox": [
+                121,
+                453,
+                155,
+                465
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                157,
+                453,
+                171,
+                465
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                174,
+                453,
+                191,
+                465
+              ]
+            },
+            {
+              "text": "labeled",
+              "bbox": [
+                194,
+                453,
+                226,
+                465
+              ]
+            },
+            {
+              "text": "\"—\"",
+              "bbox": [
+                229,
+                453,
+                249,
+                465
+              ]
+            },
+            {
+              "text": "contains",
+              "bbox": [
+                251,
+                453,
+                288,
+                465
+              ]
+            },
+            {
+              "text": "dashes",
+              "bbox": [
+                291,
+                453,
+                320,
+                465
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                323,
+                453,
+                336,
+                465
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                339,
+                453,
+                352,
+                465
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                355,
+                453,
+                373,
+                465
+              ]
+            },
+            {
+              "text": "two",
+              "bbox": [
+                376,
+                453,
+                392,
+                465
+              ]
+            },
+            {
+              "text": "columns,",
+              "bbox": [
+                395,
+                453,
+                435,
+                465
+              ]
+            },
+            {
+              "text": "0.10%",
+              "bbox": [
+                438,
+                453,
+                467,
+                465
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                470,
+                453,
+                483,
+                465
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                485,
+                453,
+                499,
+                465
+              ]
+            },
+            {
+              "text": "third",
+              "bbox": [
+                502,
+                453,
+                523,
+                465
+              ]
+            },
+            {
+              "text": "column,",
+              "bbox": [
+                525,
+                453,
+                561,
+                465
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                453,
+                580,
+                465
+              ]
+            }
+          ]
+        },
+        {
+          "text": "dashes for the last column. The second table details tracts with headers for FA, mean (SD), AD, mean (SD), and RD, mean (SD)",
+          "bbox": [
+            15,
+            468,
+            580,
+            480
+          ],
+          "words": [
+            {
+              "text": "dashes",
+              "bbox": [
+                15,
+                468,
+                44,
+                480
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                47,
+                468,
+                60,
+                480
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                63,
+                468,
+                76,
+                480
+              ]
+            },
+            {
+              "text": "last",
+              "bbox": [
+                79,
+                468,
+                94,
+                480
+              ]
+            },
+            {
+              "text": "column.",
+              "bbox": [
+                97,
+                468,
+                133,
+                480
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                135,
+                468,
+                153,
+                480
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                155,
+                468,
+                186,
+                480
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                189,
+                468,
+                210,
+                480
+              ]
+            },
+            {
+              "text": "details",
+              "bbox": [
+                213,
+                468,
+                242,
+                480
+              ]
+            },
+            {
+              "text": "tracts",
+              "bbox": [
+                245,
+                468,
+                268,
+                480
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                271,
+                468,
+                291,
+                480
+              ]
+            },
+            {
+              "text": "headers",
+              "bbox": [
+                294,
+                468,
+                327,
+                480
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                330,
+                468,
+                343,
+                480
+              ]
+            },
+            {
+              "text": "FA,",
+              "bbox": [
+                346,
+                468,
+                362,
+                480
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                364,
+                468,
+                388,
+                480
+              ]
+            },
+            {
+              "text": "(SD),",
+              "bbox": [
+                391,
+                468,
+                415,
+                480
+              ]
+            },
+            {
+              "text": "AD,",
+              "bbox": [
+                417,
+                468,
+                436,
+                480
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                439,
+                468,
+                463,
+                480
+              ]
+            },
+            {
+              "text": "(SD),",
+              "bbox": [
+                465,
+                468,
+                490,
+                480
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                492,
+                468,
+                508,
+                480
+              ]
+            },
+            {
+              "text": "RD,",
+              "bbox": [
+                511,
+                468,
+                529,
+                480
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                532,
+                468,
+                556,
+                480
+              ]
+            },
+            {
+              "text": "(SD)",
+              "bbox": [
+                559,
+                468,
+                580,
+                480
+              ]
+            }
+          ]
+        },
+        {
+          "text": "across Patient and Control groups. For SLF, the values are 0.29 (0.05)a, 0.37 (0.04), 1.05 (0.15), 1.09 (0.08), 0.68 (0.11), and",
+          "bbox": [
+            15,
+            483,
+            580,
+            495
+          ],
+          "words": [
+            {
+              "text": "across",
+              "bbox": [
+                15,
+                483,
+                43,
+                495
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                46,
+                483,
+                77,
+                495
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                80,
+                483,
+                96,
+                495
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                99,
+                483,
+                133,
+                495
+              ]
+            },
+            {
+              "text": "groups.",
+              "bbox": [
+                137,
+                483,
+                169,
+                495
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                173,
+                483,
+                188,
+                495
+              ]
+            },
+            {
+              "text": "SLF,",
+              "bbox": [
+                192,
+                483,
+                212,
+                495
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                216,
+                483,
+                229,
+                495
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                233,
+                483,
+                261,
+                495
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                265,
+                483,
+                278,
+                495
+              ]
+            },
+            {
+              "text": "0.29",
+              "bbox": [
+                282,
+                483,
+                301,
+                495
+              ]
+            },
+            {
+              "text": "(0.05)a,",
+              "bbox": [
+                304,
+                483,
+                339,
+                495
+              ]
+            },
+            {
+              "text": "0.37",
+              "bbox": [
+                342,
+                483,
+                361,
+                495
+              ]
+            },
+            {
+              "text": "(0.04),",
+              "bbox": [
+                365,
+                483,
+                394,
+                495
+              ]
+            },
+            {
+              "text": "1.05",
+              "bbox": [
+                398,
+                483,
+                417,
+                495
+              ]
+            },
+            {
+              "text": "(0.15),",
+              "bbox": [
+                420,
+                483,
+                450,
+                495
+              ]
+            },
+            {
+              "text": "1.09",
+              "bbox": [
+                453,
+                483,
+                473,
+                495
+              ]
+            },
+            {
+              "text": "(0.08),",
+              "bbox": [
+                476,
+                483,
+                505,
+                495
+              ]
+            },
+            {
+              "text": "0.68",
+              "bbox": [
+                509,
+                483,
+                528,
+                495
+              ]
+            },
+            {
+              "text": "(0.11),",
+              "bbox": [
+                532,
+                483,
+                561,
+                495
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                483,
+                580,
+                495
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.60 (0.04). For AF, the values are 0.33 (0.06)a, 0.47 (0.03), 1.08 (0.16), 1.21 (0.05), 0.64 (0.10), and 0.56 (0.04). The IFOF row",
+          "bbox": [
+            15,
+            499,
+            580,
+            511
+          ],
+          "words": [
+            {
+              "text": "0.60",
+              "bbox": [
+                15,
+                499,
+                34,
+                511
+              ]
+            },
+            {
+              "text": "(0.04).",
+              "bbox": [
+                37,
+                499,
+                66,
+                511
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                69,
+                499,
+                84,
+                511
+              ]
+            },
+            {
+              "text": "AF,",
+              "bbox": [
+                87,
+                499,
+                102,
+                511
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                105,
+                499,
+                119,
+                511
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                121,
+                499,
+                150,
+                511
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                152,
+                499,
+                166,
+                511
+              ]
+            },
+            {
+              "text": "0.33",
+              "bbox": [
+                168,
+                499,
+                188,
+                511
+              ]
+            },
+            {
+              "text": "(0.06)a,",
+              "bbox": [
+                190,
+                499,
+                225,
+                511
+              ]
+            },
+            {
+              "text": "0.47",
+              "bbox": [
+                227,
+                499,
+                247,
+                511
+              ]
+            },
+            {
+              "text": "(0.03),",
+              "bbox": [
+                249,
+                499,
+                279,
+                511
+              ]
+            },
+            {
+              "text": "1.08",
+              "bbox": [
+                282,
+                499,
+                301,
+                511
+              ]
+            },
+            {
+              "text": "(0.16),",
+              "bbox": [
+                304,
+                499,
+                333,
+                511
+              ]
+            },
+            {
+              "text": "1.21",
+              "bbox": [
+                336,
+                499,
+                355,
+                511
+              ]
+            },
+            {
+              "text": "(0.05),",
+              "bbox": [
+                358,
+                499,
+                387,
+                511
+              ]
+            },
+            {
+              "text": "0.64",
+              "bbox": [
+                390,
+                499,
+                409,
+                511
+              ]
+            },
+            {
+              "text": "(0.10),",
+              "bbox": [
+                412,
+                499,
+                441,
+                511
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                444,
+                499,
+                460,
+                511
+              ]
+            },
+            {
+              "text": "0.56",
+              "bbox": [
+                463,
+                499,
+                482,
+                511
+              ]
+            },
+            {
+              "text": "(0.04).",
+              "bbox": [
+                485,
+                499,
+                514,
+                511
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                516,
+                499,
+                534,
+                511
+              ]
+            },
+            {
+              "text": "IFOF",
+              "bbox": [
+                536,
+                499,
+                560,
+                511
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                563,
+                499,
+                580,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "text": "provides 0.32 (0.07)a, 0.48 (0.03), 1.19 (0.13)a, 1.35 (0.04), 0.72 (0.08)a, and 0.60 (0.05). The UF row presents 0.34 (0.07)a,",
+          "bbox": [
+            15,
+            514,
+            580,
+            526
+          ],
+          "words": [
+            {
+              "text": "provides",
+              "bbox": [
+                15,
+                514,
+                53,
+                526
+              ]
+            },
+            {
+              "text": "0.32",
+              "bbox": [
+                56,
+                514,
+                76,
+                526
+              ]
+            },
+            {
+              "text": "(0.07)a,",
+              "bbox": [
+                79,
+                514,
+                113,
+                526
+              ]
+            },
+            {
+              "text": "0.48",
+              "bbox": [
+                117,
+                514,
+                136,
+                526
+              ]
+            },
+            {
+              "text": "(0.03),",
+              "bbox": [
+                140,
+                514,
+                169,
+                526
+              ]
+            },
+            {
+              "text": "1.19",
+              "bbox": [
+                173,
+                514,
+                192,
+                526
+              ]
+            },
+            {
+              "text": "(0.13)a,",
+              "bbox": [
+                195,
+                514,
+                230,
+                526
+              ]
+            },
+            {
+              "text": "1.35",
+              "bbox": [
+                233,
+                514,
+                253,
+                526
+              ]
+            },
+            {
+              "text": "(0.04),",
+              "bbox": [
+                256,
+                514,
+                285,
+                526
+              ]
+            },
+            {
+              "text": "0.72",
+              "bbox": [
+                289,
+                514,
+                308,
+                526
+              ]
+            },
+            {
+              "text": "(0.08)a,",
+              "bbox": [
+                312,
+                514,
+                346,
+                526
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                350,
+                514,
+                365,
+                526
+              ]
+            },
+            {
+              "text": "0.60",
+              "bbox": [
+                369,
+                514,
+                388,
+                526
+              ]
+            },
+            {
+              "text": "(0.05).",
+              "bbox": [
+                392,
+                514,
+                421,
+                526
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                424,
+                514,
+                442,
+                526
+              ]
+            },
+            {
+              "text": "UF",
+              "bbox": [
+                445,
+                514,
+                459,
+                526
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                463,
+                514,
+                480,
+                526
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                483,
+                514,
+                519,
+                526
+              ]
+            },
+            {
+              "text": "0.34",
+              "bbox": [
+                523,
+                514,
+                542,
+                526
+              ]
+            },
+            {
+              "text": "(0.07)a,",
+              "bbox": [
+                546,
+                514,
+                580,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.43 (0.03), 1.16 (0.13), 1.27 (0.06), 0.67 (0.03), and 0.62 (0.04). Lastly, the ILF row shows 0.36 (0.03)a, 0.42 (0.02), 1.27",
+          "bbox": [
+            15,
+            530,
+            580,
+            542
+          ],
+          "words": [
+            {
+              "text": "0.43",
+              "bbox": [
+                15,
+                530,
+                34,
+                542
+              ]
+            },
+            {
+              "text": "(0.03),",
+              "bbox": [
+                38,
+                530,
+                68,
+                542
+              ]
+            },
+            {
+              "text": "1.16",
+              "bbox": [
+                72,
+                530,
+                91,
+                542
+              ]
+            },
+            {
+              "text": "(0.13),",
+              "bbox": [
+                95,
+                530,
+                124,
+                542
+              ]
+            },
+            {
+              "text": "1.27",
+              "bbox": [
+                128,
+                530,
+                148,
+                542
+              ]
+            },
+            {
+              "text": "(0.06),",
+              "bbox": [
+                152,
+                530,
+                181,
+                542
+              ]
+            },
+            {
+              "text": "0.67",
+              "bbox": [
+                185,
+                530,
+                204,
+                542
+              ]
+            },
+            {
+              "text": "(0.03),",
+              "bbox": [
+                208,
+                530,
+                238,
+                542
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                242,
+                530,
+                258,
+                542
+              ]
+            },
+            {
+              "text": "0.62",
+              "bbox": [
+                262,
+                530,
+                281,
+                542
+              ]
+            },
+            {
+              "text": "(0.04).",
+              "bbox": [
+                285,
+                530,
+                314,
+                542
+              ]
+            },
+            {
+              "text": "Lastly,",
+              "bbox": [
+                318,
+                530,
+                348,
+                542
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                352,
+                530,
+                365,
+                542
+              ]
+            },
+            {
+              "text": "ILF",
+              "bbox": [
+                369,
+                530,
+                386,
+                542
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                390,
+                530,
+                407,
+                542
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                411,
+                530,
+                439,
+                542
+              ]
+            },
+            {
+              "text": "0.36",
+              "bbox": [
+                443,
+                530,
+                462,
+                542
+              ]
+            },
+            {
+              "text": "(0.03)a,",
+              "bbox": [
+                466,
+                530,
+                500,
+                542
+              ]
+            },
+            {
+              "text": "0.42",
+              "bbox": [
+                504,
+                530,
+                523,
+                542
+              ]
+            },
+            {
+              "text": "(0.02),",
+              "bbox": [
+                527,
+                530,
+                557,
+                542
+              ]
+            },
+            {
+              "text": "1.27",
+              "bbox": [
+                561,
+                530,
+                580,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(0.07), 1.29 (0.05), 0.71 (0.05)a, and 0.65 (0.03).",
+          "bbox": [
+            15,
+            545,
+            230,
+            557
+          ],
+          "words": [
+            {
+              "text": "(0.07),",
+              "bbox": [
+                15,
+                545,
+                44,
+                557
+              ]
+            },
+            {
+              "text": "1.29",
+              "bbox": [
+                47,
+                545,
+                66,
+                557
+              ]
+            },
+            {
+              "text": "(0.05),",
+              "bbox": [
+                69,
+                545,
+                98,
+                557
+              ]
+            },
+            {
+              "text": "0.71",
+              "bbox": [
+                101,
+                545,
+                120,
+                557
+              ]
+            },
+            {
+              "text": "(0.05)a,",
+              "bbox": [
+                123,
+                545,
+                157,
+                557
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                160,
+                545,
+                176,
+                557
+              ]
+            },
+            {
+              "text": "0.65",
+              "bbox": [
+                179,
+                545,
+                198,
+                557
+              ]
+            },
+            {
+              "text": "(0.03).",
+              "bbox": [
+                201,
+                545,
+                230,
+                557
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

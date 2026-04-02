@@ -1,0 +1,3041 @@
+{
+  "image_id": "img_028508",
+  "subset": "S1",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        50,
+        580,
+        142
+      ],
+      "content": "The following data table presents a comparative analysis of various visual odometry systems, with a focus on their performance metrics under different conditions. The systems evaluated include GVORB, GV-NoLC, ORB-SLAM, and ORB-NoLC, each representing distinct methodologies in the realm of visual localization and mapping. The table specifically highlights the sequences tested and their corresponding metrics, such as the accuracy rates measured in terms of mean absolute error and computational efficiency. \n\nFor instance, the GVORB system recorded a notable accuracy score of 0.64, reflecting its robustness in handling complex environments.",
+      "lines": [
+        {
+          "text": "The following data table presents a comparative analysis of various visual odometry systems, with a focus on their performance",
+          "bbox": [
+            15,
+            51,
+            580,
+            63
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                51,
+                32,
+                63
+              ]
+            },
+            {
+              "text": "following",
+              "bbox": [
+                35,
+                51,
+                78,
+                63
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                81,
+                51,
+                99,
+                63
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                102,
+                51,
+                123,
+                63
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                126,
+                51,
+                162,
+                63
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                165,
+                51,
+                170,
+                63
+              ]
+            },
+            {
+              "text": "comparative",
+              "bbox": [
+                173,
+                51,
+                227,
+                63
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                230,
+                51,
+                266,
+                63
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                268,
+                51,
+                278,
+                63
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                281,
+                51,
+                313,
+                63
+              ]
+            },
+            {
+              "text": "visual",
+              "bbox": [
+                316,
+                51,
+                342,
+                63
+              ]
+            },
+            {
+              "text": "odometry",
+              "bbox": [
+                345,
+                51,
+                387,
+                63
+              ]
+            },
+            {
+              "text": "systems,",
+              "bbox": [
+                390,
+                51,
+                428,
+                63
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                431,
+                51,
+                450,
+                63
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                453,
+                51,
+                458,
+                63
+              ]
+            },
+            {
+              "text": "focus",
+              "bbox": [
+                461,
+                51,
+                485,
+                63
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                487,
+                51,
+                498,
+                63
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                501,
+                51,
+                522,
+                63
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                524,
+                51,
+                580,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "text": "metrics under different conditions. The systems evaluated include GVORB, GV-NoLC, ORB-SLAM, and ORB-NoLC, each",
+          "bbox": [
+            15,
+            66,
+            580,
+            78
+          ],
+          "words": [
+            {
+              "text": "metrics",
+              "bbox": [
+                15,
+                66,
+                47,
+                78
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                51,
+                66,
+                77,
+                78
+              ]
+            },
+            {
+              "text": "different",
+              "bbox": [
+                81,
+                66,
+                118,
+                78
+              ]
+            },
+            {
+              "text": "conditions.",
+              "bbox": [
+                122,
+                66,
+                171,
+                78
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                175,
+                66,
+                192,
+                78
+              ]
+            },
+            {
+              "text": "systems",
+              "bbox": [
+                196,
+                66,
+                231,
+                78
+              ]
+            },
+            {
+              "text": "evaluated",
+              "bbox": [
+                235,
+                66,
+                277,
+                78
+              ]
+            },
+            {
+              "text": "include",
+              "bbox": [
+                281,
+                66,
+                313,
+                78
+              ]
+            },
+            {
+              "text": "GVORB,",
+              "bbox": [
+                317,
+                66,
+                359,
+                78
+              ]
+            },
+            {
+              "text": "GV-NoLC,",
+              "bbox": [
+                363,
+                66,
+                412,
+                78
+              ]
+            },
+            {
+              "text": "ORB-SLAM,",
+              "bbox": [
+                416,
+                66,
+                475,
+                78
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                479,
+                66,
+                495,
+                78
+              ]
+            },
+            {
+              "text": "ORB-NoLC,",
+              "bbox": [
+                499,
+                66,
+                556,
+                78
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                560,
+                66,
+                580,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "text": "representing distinct methodologies in the realm of visual localization and mapping. The table specifically highlights the",
+          "bbox": [
+            15,
+            82,
+            580,
+            94
+          ],
+          "words": [
+            {
+              "text": "representing",
+              "bbox": [
+                15,
+                82,
+                69,
+                94
+              ]
+            },
+            {
+              "text": "distinct",
+              "bbox": [
+                74,
+                82,
+                107,
+                94
+              ]
+            },
+            {
+              "text": "methodologies",
+              "bbox": [
+                112,
+                82,
+                177,
+                94
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                182,
+                82,
+                190,
+                94
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                195,
+                82,
+                209,
+                94
+              ]
+            },
+            {
+              "text": "realm",
+              "bbox": [
+                214,
+                82,
+                239,
+                94
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                244,
+                82,
+                253,
+                94
+              ]
+            },
+            {
+              "text": "visual",
+              "bbox": [
+                258,
+                82,
+                285,
+                94
+              ]
+            },
+            {
+              "text": "localization",
+              "bbox": [
+                290,
+                82,
+                341,
+                94
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                346,
+                82,
+                362,
+                94
+              ]
+            },
+            {
+              "text": "mapping.",
+              "bbox": [
+                367,
+                82,
+                408,
+                94
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                413,
+                82,
+                430,
+                94
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                435,
+                82,
+                457,
+                94
+              ]
+            },
+            {
+              "text": "specifically",
+              "bbox": [
+                462,
+                82,
+                512,
+                94
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                517,
+                82,
+                561,
+                94
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                82,
+                580,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "text": "sequences tested and their corresponding metrics, such as the accuracy rates measured in terms of mean absolute error and",
+          "bbox": [
+            15,
+            97,
+            580,
+            109
+          ],
+          "words": [
+            {
+              "text": "sequences",
+              "bbox": [
+                15,
+                97,
+                60,
+                109
+              ]
+            },
+            {
+              "text": "tested",
+              "bbox": [
+                64,
+                97,
+                89,
+                109
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                94,
+                97,
+                110,
+                109
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                114,
+                97,
+                134,
+                109
+              ]
+            },
+            {
+              "text": "corresponding",
+              "bbox": [
+                138,
+                97,
+                201,
+                109
+              ]
+            },
+            {
+              "text": "metrics,",
+              "bbox": [
+                205,
+                97,
+                240,
+                109
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                245,
+                97,
+                265,
+                109
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                269,
+                97,
+                278,
+                109
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                282,
+                97,
+                296,
+                109
+              ]
+            },
+            {
+              "text": "accuracy",
+              "bbox": [
+                300,
+                97,
+                339,
+                109
+              ]
+            },
+            {
+              "text": "rates",
+              "bbox": [
+                343,
+                97,
+                364,
+                109
+              ]
+            },
+            {
+              "text": "measured",
+              "bbox": [
+                368,
+                97,
+                411,
+                109
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                415,
+                97,
+                423,
+                109
+              ]
+            },
+            {
+              "text": "terms",
+              "bbox": [
+                428,
+                97,
+                452,
+                109
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                456,
+                97,
+                465,
+                109
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                470,
+                97,
+                493,
+                109
+              ]
+            },
+            {
+              "text": "absolute",
+              "bbox": [
+                498,
+                97,
+                534,
+                109
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                539,
+                97,
+                560,
+                109
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                97,
+                580,
+                109
+              ]
+            }
+          ]
+        },
+        {
+          "text": "computational efficiency. \n\nFor instance, the GVORB system recorded a notable accuracy score of 0.64, reflecting its robustness",
+          "bbox": [
+            15,
+            113,
+            580,
+            125
+          ],
+          "words": [
+            {
+              "text": "computational",
+              "bbox": [
+                15,
+                113,
+                78,
+                125
+              ]
+            },
+            {
+              "text": "efficiency.",
+              "bbox": [
+                81,
+                113,
+                127,
+                125
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                130,
+                113,
+                145,
+                125
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                149,
+                113,
+                187,
+                125
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                191,
+                113,
+                204,
+                125
+              ]
+            },
+            {
+              "text": "GVORB",
+              "bbox": [
+                207,
+                113,
+                246,
+                125
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                249,
+                113,
+                280,
+                125
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                283,
+                113,
+                321,
+                125
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                325,
+                113,
+                329,
+                125
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                333,
+                113,
+                365,
+                125
+              ]
+            },
+            {
+              "text": "accuracy",
+              "bbox": [
+                368,
+                113,
+                407,
+                125
+              ]
+            },
+            {
+              "text": "score",
+              "bbox": [
+                411,
+                113,
+                434,
+                125
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                437,
+                113,
+                446,
+                125
+              ]
+            },
+            {
+              "text": "0.64,",
+              "bbox": [
+                449,
+                113,
+                471,
+                125
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                475,
+                113,
+                517,
+                125
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                520,
+                113,
+                530,
+                125
+              ]
+            },
+            {
+              "text": "robustness",
+              "bbox": [
+                534,
+                113,
+                580,
+                125
+              ]
+            }
+          ]
+        },
+        {
+          "text": "in handling complex environments.",
+          "bbox": [
+            15,
+            128,
+            171,
+            140
+          ],
+          "words": [
+            {
+              "text": "in",
+              "bbox": [
+                15,
+                128,
+                24,
+                140
+              ]
+            },
+            {
+              "text": "handling",
+              "bbox": [
+                26,
+                128,
+                65,
+                140
+              ]
+            },
+            {
+              "text": "complex",
+              "bbox": [
+                68,
+                128,
+                105,
+                140
+              ]
+            },
+            {
+              "text": "environments.",
+              "bbox": [
+                108,
+                128,
+                171,
+                140
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_028508_t0",
+      "bbox": [
+        15,
+        157,
+        580,
+        389
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            158,
+            580,
+            179
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            179,
+            580,
+            200
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            200,
+            580,
+            221
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            221,
+            580,
+            242
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            242,
+            580,
+            263
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            263,
+            580,
+            284
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            284,
+            580,
+            305
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            16,
+            305,
+            580,
+            326
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            16,
+            326,
+            580,
+            347
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 9,
+          "bbox": [
+            16,
+            347,
+            580,
+            368
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 10,
+          "bbox": [
+            16,
+            368,
+            580,
+            389
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Sequence</td><td>GVORB</td><td>GV-NoLC</td><td>ORB-SLAM</td><td>ORB-NoLC</td></tr></thead><tbody><tr><td>00</td><td>0.64</td><td>0.94</td><td>5.45</td><td>45.00</td></tr><tr><td>02</td><td>1.02</td><td>0.97</td><td>17.29</td><td>24.12</td></tr><tr><td>03</td><td colspan=\"2\">0.64</td><td colspan=\"2\">0.62</td></tr><tr><td>04</td><td colspan=\"2\">0.63</td><td colspan=\"2\">0.68</td></tr><tr><td>05</td><td>0.71</td><td>0.65</td><td>3.11</td><td>26.24</td></tr><tr><td>06</td><td>1.13</td><td>0.88</td><td>6.85</td><td>31.62</td></tr><tr><td>07</td><td>0.66</td><td>0.66</td><td>1.17</td><td>11.01</td></tr><tr><td>08</td><td colspan=\"2\">1.26</td><td colspan=\"2\">28.20</td></tr><tr><td>09</td><td colspan=\"2\">0.74</td><td colspan=\"2\">31.46</td></tr><tr><td>10</td><td colspan=\"2\">0.69</td><td colspan=\"2\">3.92</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Sequence",
+          "bbox": [
+            16,
+            158,
+            118,
+            179
+          ],
+          "words": [
+            {
+              "text": "Sequence",
+              "bbox": [
+                21,
+                162,
+                61,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "GVORB",
+          "bbox": [
+            118,
+            158,
+            214,
+            179
+          ],
+          "words": [
+            {
+              "text": "GVORB",
+              "bbox": [
+                124,
+                162,
+                160,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "GV-NoLC",
+          "bbox": [
+            214,
+            158,
+            324,
+            179
+          ],
+          "words": [
+            {
+              "text": "GV-NoLC",
+              "bbox": [
+                275,
+                162,
+                318,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "ORB-SLAM",
+          "bbox": [
+            324,
+            158,
+            454,
+            179
+          ],
+          "words": [
+            {
+              "text": "ORB-SLAM",
+              "bbox": [
+                395,
+                162,
+                449,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ORB-NoLC",
+          "bbox": [
+            454,
+            158,
+            580,
+            179
+          ],
+          "words": [
+            {
+              "text": "ORB-NoLC",
+              "bbox": [
+                523,
+                162,
+                574,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "00",
+          "bbox": [
+            16,
+            179,
+            118,
+            200
+          ],
+          "words": [
+            {
+              "text": "00",
+              "bbox": [
+                21,
+                183,
+                31,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.64",
+          "bbox": [
+            118,
+            179,
+            214,
+            200
+          ],
+          "words": [
+            {
+              "text": "0.64",
+              "bbox": [
+                124,
+                183,
+                141,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.94",
+          "bbox": [
+            214,
+            179,
+            324,
+            200
+          ],
+          "words": [
+            {
+              "text": "0.94",
+              "bbox": [
+                301,
+                183,
+                318,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.45",
+          "bbox": [
+            324,
+            179,
+            454,
+            200
+          ],
+          "words": [
+            {
+              "text": "5.45",
+              "bbox": [
+                431,
+                183,
+                449,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "45.00",
+          "bbox": [
+            454,
+            179,
+            580,
+            200
+          ],
+          "words": [
+            {
+              "text": "45.00",
+              "bbox": [
+                552,
+                183,
+                574,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "02",
+          "bbox": [
+            16,
+            200,
+            118,
+            221
+          ],
+          "words": [
+            {
+              "text": "02",
+              "bbox": [
+                21,
+                204,
+                31,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.02",
+          "bbox": [
+            118,
+            200,
+            214,
+            221
+          ],
+          "words": [
+            {
+              "text": "1.02",
+              "bbox": [
+                124,
+                204,
+                141,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.97",
+          "bbox": [
+            214,
+            200,
+            324,
+            221
+          ],
+          "words": [
+            {
+              "text": "0.97",
+              "bbox": [
+                301,
+                204,
+                318,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "17.29",
+          "bbox": [
+            324,
+            200,
+            454,
+            221
+          ],
+          "words": [
+            {
+              "text": "17.29",
+              "bbox": [
+                426,
+                204,
+                449,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "24.12",
+          "bbox": [
+            454,
+            200,
+            580,
+            221
+          ],
+          "words": [
+            {
+              "text": "24.12",
+              "bbox": [
+                552,
+                204,
+                574,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "03",
+          "bbox": [
+            16,
+            221,
+            118,
+            242
+          ],
+          "words": [
+            {
+              "text": "03",
+              "bbox": [
+                21,
+                225,
+                31,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.64",
+          "bbox": [
+            118,
+            221,
+            324,
+            242
+          ],
+          "words": [
+            {
+              "text": "0.64",
+              "bbox": [
+                124,
+                225,
+                141,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.62",
+          "bbox": [
+            324,
+            221,
+            580,
+            242
+          ],
+          "words": [
+            {
+              "text": "0.62",
+              "bbox": [
+                557,
+                225,
+                574,
+                236
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "04",
+          "bbox": [
+            16,
+            242,
+            118,
+            263
+          ],
+          "words": [
+            {
+              "text": "04",
+              "bbox": [
+                21,
+                246,
+                31,
+                257
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.63",
+          "bbox": [
+            118,
+            242,
+            324,
+            263
+          ],
+          "words": [
+            {
+              "text": "0.63",
+              "bbox": [
+                124,
+                246,
+                141,
+                257
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.68",
+          "bbox": [
+            324,
+            242,
+            580,
+            263
+          ],
+          "words": [
+            {
+              "text": "0.68",
+              "bbox": [
+                557,
+                246,
+                574,
+                257
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "05",
+          "bbox": [
+            16,
+            263,
+            118,
+            284
+          ],
+          "words": [
+            {
+              "text": "05",
+              "bbox": [
+                21,
+                267,
+                31,
+                278
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.71",
+          "bbox": [
+            118,
+            263,
+            214,
+            284
+          ],
+          "words": [
+            {
+              "text": "0.71",
+              "bbox": [
+                124,
+                267,
+                141,
+                278
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.65",
+          "bbox": [
+            214,
+            263,
+            324,
+            284
+          ],
+          "words": [
+            {
+              "text": "0.65",
+              "bbox": [
+                301,
+                267,
+                318,
+                278
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3.11",
+          "bbox": [
+            324,
+            263,
+            454,
+            284
+          ],
+          "words": [
+            {
+              "text": "3.11",
+              "bbox": [
+                432,
+                267,
+                449,
+                278
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "26.24",
+          "bbox": [
+            454,
+            263,
+            580,
+            284
+          ],
+          "words": [
+            {
+              "text": "26.24",
+              "bbox": [
+                552,
+                267,
+                574,
+                278
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "06",
+          "bbox": [
+            16,
+            284,
+            118,
+            305
+          ],
+          "words": [
+            {
+              "text": "06",
+              "bbox": [
+                21,
+                288,
+                31,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.13",
+          "bbox": [
+            118,
+            284,
+            214,
+            305
+          ],
+          "words": [
+            {
+              "text": "1.13",
+              "bbox": [
+                124,
+                288,
+                141,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.88",
+          "bbox": [
+            214,
+            284,
+            324,
+            305
+          ],
+          "words": [
+            {
+              "text": "0.88",
+              "bbox": [
+                301,
+                288,
+                318,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6.85",
+          "bbox": [
+            324,
+            284,
+            454,
+            305
+          ],
+          "words": [
+            {
+              "text": "6.85",
+              "bbox": [
+                431,
+                288,
+                449,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "31.62",
+          "bbox": [
+            454,
+            284,
+            580,
+            305
+          ],
+          "words": [
+            {
+              "text": "31.62",
+              "bbox": [
+                552,
+                288,
+                574,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "07",
+          "bbox": [
+            16,
+            305,
+            118,
+            326
+          ],
+          "words": [
+            {
+              "text": "07",
+              "bbox": [
+                21,
+                309,
+                31,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.66",
+          "bbox": [
+            118,
+            305,
+            214,
+            326
+          ],
+          "words": [
+            {
+              "text": "0.66",
+              "bbox": [
+                124,
+                309,
+                141,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.66",
+          "bbox": [
+            214,
+            305,
+            324,
+            326
+          ],
+          "words": [
+            {
+              "text": "0.66",
+              "bbox": [
+                301,
+                309,
+                318,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.17",
+          "bbox": [
+            324,
+            305,
+            454,
+            326
+          ],
+          "words": [
+            {
+              "text": "1.17",
+              "bbox": [
+                431,
+                309,
+                449,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "11.01",
+          "bbox": [
+            454,
+            305,
+            580,
+            326
+          ],
+          "words": [
+            {
+              "text": "11.01",
+              "bbox": [
+                552,
+                309,
+                574,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "08",
+          "bbox": [
+            16,
+            326,
+            118,
+            347
+          ],
+          "words": [
+            {
+              "text": "08",
+              "bbox": [
+                21,
+                330,
+                31,
+                341
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.26",
+          "bbox": [
+            118,
+            326,
+            324,
+            347
+          ],
+          "words": [
+            {
+              "text": "1.26",
+              "bbox": [
+                124,
+                330,
+                141,
+                341
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "28.20",
+          "bbox": [
+            324,
+            326,
+            580,
+            347
+          ],
+          "words": [
+            {
+              "text": "28.20",
+              "bbox": [
+                552,
+                330,
+                574,
+                341
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "09",
+          "bbox": [
+            16,
+            347,
+            118,
+            368
+          ],
+          "words": [
+            {
+              "text": "09",
+              "bbox": [
+                21,
+                351,
+                31,
+                362
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.74",
+          "bbox": [
+            118,
+            347,
+            324,
+            368
+          ],
+          "words": [
+            {
+              "text": "0.74",
+              "bbox": [
+                124,
+                351,
+                141,
+                362
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "31.46",
+          "bbox": [
+            324,
+            347,
+            580,
+            368
+          ],
+          "words": [
+            {
+              "text": "31.46",
+              "bbox": [
+                552,
+                351,
+                574,
+                362
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            16,
+            368,
+            118,
+            389
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                21,
+                372,
+                31,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.69",
+          "bbox": [
+            118,
+            368,
+            324,
+            389
+          ],
+          "words": [
+            {
+              "text": "0.69",
+              "bbox": [
+                124,
+                372,
+                141,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.92",
+          "bbox": [
+            324,
+            368,
+            580,
+            389
+          ],
+          "words": [
+            {
+              "text": "3.92",
+              "bbox": [
+                557,
+                372,
+                574,
+                383
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        404,
+        580,
+        481
+      ],
+      "content": "In contrast, the ORB-SLAM system, which operates without loop closure (ORB-NoLC), demonstrated a higher accuracy of 0.94, suggesting its effectiveness in maintaining consistency during prolonged navigation. These metrics are crucial for understanding the strengths and limitations of each approach, particularly in real-time applications where efficiency and precision are paramount. Overall, the data provides valuable insights that can guide future developments in visual odometry technologies, emphasizing the need for continued innovation to enhance performance across various scenarios.",
+      "lines": [
+        {
+          "text": "In contrast, the ORB-SLAM system, which operates without loop closure (ORB-NoLC), demonstrated a higher accuracy of",
+          "bbox": [
+            15,
+            405,
+            580,
+            417
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                405,
+                24,
+                417
+              ]
+            },
+            {
+              "text": "contrast,",
+              "bbox": [
+                28,
+                405,
+                66,
+                417
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                70,
+                405,
+                83,
+                417
+              ]
+            },
+            {
+              "text": "ORB-SLAM",
+              "bbox": [
+                88,
+                405,
+                144,
+                417
+              ]
+            },
+            {
+              "text": "system,",
+              "bbox": [
+                149,
+                405,
+                182,
+                417
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                186,
+                405,
+                213,
+                417
+              ]
+            },
+            {
+              "text": "operates",
+              "bbox": [
+                217,
+                405,
+                254,
+                417
+              ]
+            },
+            {
+              "text": "without",
+              "bbox": [
+                258,
+                405,
+                291,
+                417
+              ]
+            },
+            {
+              "text": "loop",
+              "bbox": [
+                295,
+                405,
+                315,
+                417
+              ]
+            },
+            {
+              "text": "closure",
+              "bbox": [
+                319,
+                405,
+                351,
+                417
+              ]
+            },
+            {
+              "text": "(ORB-NoLC),",
+              "bbox": [
+                355,
+                405,
+                419,
+                417
+              ]
+            },
+            {
+              "text": "demonstrated",
+              "bbox": [
+                423,
+                405,
+                482,
+                417
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                486,
+                405,
+                491,
+                417
+              ]
+            },
+            {
+              "text": "higher",
+              "bbox": [
+                495,
+                405,
+                524,
+                417
+              ]
+            },
+            {
+              "text": "accuracy",
+              "bbox": [
+                528,
+                405,
+                567,
+                417
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                405,
+                580,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.94, suggesting its effectiveness in maintaining consistency during prolonged navigation. These metrics are crucial for",
+          "bbox": [
+            15,
+            421,
+            580,
+            433
+          ],
+          "words": [
+            {
+              "text": "0.94,",
+              "bbox": [
+                15,
+                421,
+                37,
+                433
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                43,
+                421,
+                90,
+                433
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                95,
+                421,
+                106,
+                433
+              ]
+            },
+            {
+              "text": "effectiveness",
+              "bbox": [
+                111,
+                421,
+                169,
+                433
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                174,
+                421,
+                183,
+                433
+              ]
+            },
+            {
+              "text": "maintaining",
+              "bbox": [
+                188,
+                421,
+                241,
+                433
+              ]
+            },
+            {
+              "text": "consistency",
+              "bbox": [
+                247,
+                421,
+                298,
+                433
+              ]
+            },
+            {
+              "text": "during",
+              "bbox": [
+                303,
+                421,
+                332,
+                433
+              ]
+            },
+            {
+              "text": "prolonged",
+              "bbox": [
+                338,
+                421,
+                382,
+                433
+              ]
+            },
+            {
+              "text": "navigation.",
+              "bbox": [
+                388,
+                421,
+                437,
+                433
+              ]
+            },
+            {
+              "text": "These",
+              "bbox": [
+                443,
+                421,
+                469,
+                433
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                475,
+                421,
+                507,
+                433
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                513,
+                421,
+                526,
+                433
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                532,
+                421,
+                562,
+                433
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                421,
+                580,
+                433
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding the strengths and limitations of each approach, particularly in real-time applications where efficiency and",
+          "bbox": [
+            15,
+            436,
+            580,
+            448
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                436,
+                77,
+                448
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                83,
+                436,
+                96,
+                448
+              ]
+            },
+            {
+              "text": "strengths",
+              "bbox": [
+                102,
+                436,
+                141,
+                448
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                147,
+                436,
+                163,
+                448
+              ]
+            },
+            {
+              "text": "limitations",
+              "bbox": [
+                168,
+                436,
+                215,
+                448
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                220,
+                436,
+                230,
+                448
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                235,
+                436,
+                255,
+                448
+              ]
+            },
+            {
+              "text": "approach,",
+              "bbox": [
+                261,
+                436,
+                304,
+                448
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                309,
+                436,
+                360,
+                448
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                365,
+                436,
+                374,
+                448
+              ]
+            },
+            {
+              "text": "real-time",
+              "bbox": [
+                379,
+                436,
+                419,
+                448
+              ]
+            },
+            {
+              "text": "applications",
+              "bbox": [
+                424,
+                436,
+                477,
+                448
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                483,
+                436,
+                510,
+                448
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                515,
+                436,
+                559,
+                448
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                436,
+                580,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "text": "precision are paramount. Overall, the data provides valuable insights that can guide future developments in visual odometry",
+          "bbox": [
+            15,
+            452,
+            580,
+            464
+          ],
+          "words": [
+            {
+              "text": "precision",
+              "bbox": [
+                15,
+                452,
+                55,
+                464
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                59,
+                452,
+                73,
+                464
+              ]
+            },
+            {
+              "text": "paramount.",
+              "bbox": [
+                77,
+                452,
+                127,
+                464
+              ]
+            },
+            {
+              "text": "Overall,",
+              "bbox": [
+                131,
+                452,
+                166,
+                464
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                170,
+                452,
+                184,
+                464
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                188,
+                452,
+                206,
+                464
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                210,
+                452,
+                248,
+                464
+              ]
+            },
+            {
+              "text": "valuable",
+              "bbox": [
+                252,
+                452,
+                289,
+                464
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                293,
+                452,
+                327,
+                464
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                331,
+                452,
+                348,
+                464
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                352,
+                452,
+                367,
+                464
+              ]
+            },
+            {
+              "text": "guide",
+              "bbox": [
+                371,
+                452,
+                396,
+                464
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                400,
+                452,
+                426,
+                464
+              ]
+            },
+            {
+              "text": "developments",
+              "bbox": [
+                430,
+                452,
+                491,
+                464
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                495,
+                452,
+                504,
+                464
+              ]
+            },
+            {
+              "text": "visual",
+              "bbox": [
+                508,
+                452,
+                534,
+                464
+              ]
+            },
+            {
+              "text": "odometry",
+              "bbox": [
+                538,
+                452,
+                580,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "text": "technologies, emphasizing the need for continued innovation to enhance performance across various scenarios.",
+          "bbox": [
+            15,
+            467,
+            503,
+            479
+          ],
+          "words": [
+            {
+              "text": "technologies,",
+              "bbox": [
+                15,
+                467,
+                73,
+                479
+              ]
+            },
+            {
+              "text": "emphasizing",
+              "bbox": [
+                76,
+                467,
+                132,
+                479
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                134,
+                467,
+                148,
+                479
+              ]
+            },
+            {
+              "text": "need",
+              "bbox": [
+                151,
+                467,
+                171,
+                479
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                174,
+                467,
+                187,
+                479
+              ]
+            },
+            {
+              "text": "continued",
+              "bbox": [
+                190,
+                467,
+                233,
+                479
+              ]
+            },
+            {
+              "text": "innovation",
+              "bbox": [
+                236,
+                467,
+                283,
+                479
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                286,
+                467,
+                294,
+                479
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                297,
+                467,
+                333,
+                479
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                336,
+                467,
+                391,
+                479
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                394,
+                467,
+                422,
+                479
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                424,
+                467,
+                457,
+                479
+              ]
+            },
+            {
+              "text": "scenarios.",
+              "bbox": [
+                459,
+                467,
+                503,
+                479
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

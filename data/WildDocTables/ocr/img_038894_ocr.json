@@ -1,0 +1,225 @@
+{
+  "image_id": "img_038894",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In Table 1, the metrics for Cross-validation indicate that with no post-processing, the precision is 68.0%, recall is 76.5%, and F-",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "measure stands at 72.0%. Conversely, with post-processing, these values improve to a precision of 82.0%, recall of 81.1%, and",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "F-measure of 81.6%. The Official Test results show that without post-processing, the precision is 68.0%, recall is 77.2%, and F-",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "measure is 72.3%.",
+      "bbox": [
+        15,
+        97,
+        96,
+        109
+      ]
+    },
+    {
+      "text": "Label  Precision  Recall  F-measure",
+      "bbox": [
+        15,
+        127,
+        580,
+        148
+      ]
+    },
+    {
+      "text": "Cross-validation  No post-processing  68.0%  76.5%  72.0%",
+      "bbox": [
+        15,
+        148,
+        580,
+        169
+      ]
+    },
+    {
+      "text": "With post-processing  82.0%  81.1%  81.6%",
+      "bbox": [
+        15,
+        169,
+        580,
+        189
+      ]
+    },
+    {
+      "text": "Official Test  No post-processing  68.0%  77.2%  72.3%",
+      "bbox": [
+        15,
+        189,
+        580,
+        209
+      ]
+    },
+    {
+      "text": "With post-processing  80.3%  80.5%  80.4%",
+      "bbox": [
+        15,
+        209,
+        580,
+        229
+      ]
+    },
+    {
+      "text": "With post-processing, dictionary  80.1%  81.8%  80.9%",
+      "bbox": [
+        15,
+        229,
+        580,
+        249
+      ]
+    },
+    {
+      "text": "Tooth  N  Overall (138)  CLL (6)  CLP (39)  CLPL (59)  CLPR (34)  p value*",
+      "bbox": [
+        16,
+        265,
+        580,
+        286
+      ]
+    },
+    {
+      "text": "%  N  %  N  %  N  %  N  %",
+      "bbox": [
+        16,
+        286,
+        580,
+        307
+      ]
+    },
+    {
+      "text": "11  4  2.9  0  0.0  2  5.1  0  0.0  2  5.9  0.232",
+      "bbox": [
+        16,
+        307,
+        580,
+        328
+      ]
+    },
+    {
+      "text": "12  13  9.4  0  0.0  5  12.8  2  3.4  6  17.7  0.091",
+      "bbox": [
+        16,
+        328,
+        580,
+        349
+      ]
+    },
+    {
+      "text": "21  4  2.9  1  16.7  1  2.6  1  1.7  1  2.9  0.296",
+      "bbox": [
+        16,
+        349,
+        580,
+        370
+      ]
+    },
+    {
+      "text": "22  15  10.9  0  0.0  4  10.3  11  18.6  0  0.0  0.028",
+      "bbox": [
+        16,
+        370,
+        580,
+        391
+      ]
+    },
+    {
+      "text": "However, with post-processing, these metrics are slightly lower at a precision of 80.3%, recall of 80.5%, and F-measure of",
+      "bbox": [
+        15,
+        408,
+        580,
+        420
+      ]
+    },
+    {
+      "text": "80.4%. An additional variant with post-processing and a dictionary yields a precision of 80.1%, recall of 81.8%, and F-measure",
+      "bbox": [
+        15,
+        423,
+        580,
+        435
+      ]
+    },
+    {
+      "text": "of 80.9%. In Table 2, under the Tooth header, for Tooth 11, N is 4 with overall percentage 2.9%, CLL is 0% with N 0, CLP is",
+      "bbox": [
+        15,
+        438,
+        580,
+        450
+      ]
+    },
+    {
+      "text": "5.1% with N 2, CLPL is 0% with N 0, and CLPR is 5.9% with N 2 and p value* is 0.232. Tooth 12 has N 13, overall percentage",
+      "bbox": [
+        15,
+        454,
+        580,
+        466
+      ]
+    },
+    {
+      "text": "9.4%, CLL 0%, CLP 12.8% with N 5, CLPL 3.4% with N 2, CLPR 17.7% with N 6, and p value* is 0.091. Tooth 21 has N 4,",
+      "bbox": [
+        15,
+        469,
+        580,
+        481
+      ]
+    },
+    {
+      "text": "overall percentage 2.9%, CLL 16.7% with N 1, CLP 2.6% with N 1, CLPL 1.7% with N 1, CLPR 2.9% with N 1, and p value*",
+      "bbox": [
+        15,
+        485,
+        580,
+        497
+      ]
+    },
+    {
+      "text": "is 0.296. Tooth 22 has N 15, overall percentage 10.9%, CLL 0%, CLP 10.3% with N 4, CLPL 18.6% with N 11, CLPR 0% with",
+      "bbox": [
+        15,
+        500,
+        580,
+        512
+      ]
+    },
+    {
+      "text": "N 0, and p value* is 0.028.",
+      "bbox": [
+        15,
+        515,
+        133,
+        527
+      ]
+    }
+  ]
+}

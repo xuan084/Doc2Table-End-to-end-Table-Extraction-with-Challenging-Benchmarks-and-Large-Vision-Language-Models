@@ -1,0 +1,5157 @@
+{
+  "image_id": "img_035032",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_035032_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        312
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            66,
+            580,
+            101
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            101,
+            580,
+            121
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            121,
+            580,
+            155
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            155,
+            580,
+            175
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            175,
+            580,
+            209
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            209,
+            580,
+            243
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            243,
+            580,
+            277
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            277,
+            580,
+            312
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Type</td><td>Number</td><td>Placement Criteria</td><td>Total Consumption (mA)</td><td>Comments</td></tr></thead><tbody><tr><td>Opening sensor</td><td>8</td><td>1/window 1/airflow door</td><td>-</td><td>It requires KNX interface</td></tr><tr><td>Presence detector</td><td>7</td><td>1/room</td><td>56</td><td>Installation height = 2.20 m</td></tr><tr><td>Motion detector</td><td>4</td><td>1/passing area</td><td>16</td><td>It includes bus coupler and connection terminal</td></tr><tr><td>Temperature sensor</td><td>6</td><td>1/room</td><td>-</td><td></td></tr><tr><td>Luminaires actuator</td><td>12</td><td>It depends on the luminaires number</td><td>75</td><td>Binary input to dry contacts connection or conventional push button</td></tr><tr><td>Heating electrovalve</td><td>6</td><td>1/room</td><td>5.2</td><td></td></tr><tr><td>Split control interface</td><td>4</td><td>1/split</td><td>-</td><td>Bidirectional KNX gateway—Air conditioners</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Type",
+          "bbox": [
+            15,
+            66,
+            95,
+            101
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                20,
+                70,
+                41,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Number",
+          "bbox": [
+            95,
+            66,
+            134,
+            101
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                100,
+                70,
+                127,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Placement Criteria",
+          "bbox": [
+            134,
+            66,
+            260,
+            101
+          ],
+          "words": [
+            {
+              "text": "Placement",
+              "bbox": [
+                174,
+                70,
+                218,
+                81
+              ]
+            },
+            {
+              "text": "Criteria",
+              "bbox": [
+                221,
+                70,
+                255,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Total Consumption (mA)",
+          "bbox": [
+            260,
+            66,
+            355,
+            101
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                268,
+                70,
+                290,
+                81
+              ]
+            },
+            {
+              "text": "Consumption",
+              "bbox": [
+                293,
+                70,
+                350,
+                81
+              ]
+            },
+            {
+              "text": "(mA)",
+              "bbox": [
+                328,
+                84,
+                350,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Comments",
+          "bbox": [
+            355,
+            66,
+            580,
+            101
+          ],
+          "words": [
+            {
+              "text": "Comments",
+              "bbox": [
+                529,
+                70,
+                575,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Opening sensor",
+          "bbox": [
+            15,
+            101,
+            95,
+            121
+          ],
+          "words": [
+            {
+              "text": "Opening",
+              "bbox": [
+                20,
+                105,
+                54,
+                116
+              ]
+            },
+            {
+              "text": "sensor",
+              "bbox": [
+                57,
+                105,
+                83,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "8",
+          "bbox": [
+            95,
+            101,
+            134,
+            121
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                100,
+                105,
+                105,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1/window 1/airflow door",
+          "bbox": [
+            134,
+            101,
+            260,
+            121
+          ],
+          "words": [
+            {
+              "text": "1/window",
+              "bbox": [
+                155,
+                105,
+                195,
+                116
+              ]
+            },
+            {
+              "text": "1/airflow",
+              "bbox": [
+                198,
+                105,
+                234,
+                116
+              ]
+            },
+            {
+              "text": "door",
+              "bbox": [
+                237,
+                105,
+                255,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            260,
+            101,
+            355,
+            121
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                347,
+                105,
+                350,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "It requires KNX interface",
+          "bbox": [
+            355,
+            101,
+            580,
+            121
+          ],
+          "words": [
+            {
+              "text": "It",
+              "bbox": [
+                473,
+                105,
+                479,
+                116
+              ]
+            },
+            {
+              "text": "requires",
+              "bbox": [
+                481,
+                105,
+                513,
+                116
+              ]
+            },
+            {
+              "text": "KNX",
+              "bbox": [
+                516,
+                105,
+                538,
+                116
+              ]
+            },
+            {
+              "text": "interface",
+              "bbox": [
+                540,
+                105,
+                575,
+                116
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Presence detector",
+          "bbox": [
+            15,
+            121,
+            95,
+            155
+          ],
+          "words": [
+            {
+              "text": "Presence",
+              "bbox": [
+                20,
+                125,
+                56,
+                136
+              ]
+            },
+            {
+              "text": "detector",
+              "bbox": [
+                20,
+                139,
+                52,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "7",
+          "bbox": [
+            95,
+            121,
+            134,
+            155
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                100,
+                125,
+                105,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1/room",
+          "bbox": [
+            134,
+            121,
+            260,
+            155
+          ],
+          "words": [
+            {
+              "text": "1/room",
+              "bbox": [
+                226,
+                125,
+                255,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "56",
+          "bbox": [
+            260,
+            121,
+            355,
+            155
+          ],
+          "words": [
+            {
+              "text": "56",
+              "bbox": [
+                340,
+                125,
+                350,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Installation height = 2.20 m",
+          "bbox": [
+            355,
+            121,
+            580,
+            155
+          ],
+          "words": [
+            {
+              "text": "Installation",
+              "bbox": [
+                464,
+                125,
+                509,
+                136
+              ]
+            },
+            {
+              "text": "height",
+              "bbox": [
+                512,
+                125,
+                537,
+                136
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                539,
+                125,
+                545,
+                136
+              ]
+            },
+            {
+              "text": "2.20",
+              "bbox": [
+                547,
+                125,
+                565,
+                136
+              ]
+            },
+            {
+              "text": "m",
+              "bbox": [
+                567,
+                125,
+                575,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Motion detector",
+          "bbox": [
+            15,
+            155,
+            95,
+            175
+          ],
+          "words": [
+            {
+              "text": "Motion",
+              "bbox": [
+                20,
+                159,
+                49,
+                170
+              ]
+            },
+            {
+              "text": "detector",
+              "bbox": [
+                52,
+                159,
+                84,
+                170
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            95,
+            155,
+            134,
+            175
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                100,
+                159,
+                105,
+                170
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1/passing area",
+          "bbox": [
+            134,
+            155,
+            260,
+            175
+          ],
+          "words": [
+            {
+              "text": "1/passing",
+              "bbox": [
+                198,
+                159,
+                236,
+                170
+              ]
+            },
+            {
+              "text": "area",
+              "bbox": [
+                239,
+                159,
+                255,
+                170
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "16",
+          "bbox": [
+            260,
+            155,
+            355,
+            175
+          ],
+          "words": [
+            {
+              "text": "16",
+              "bbox": [
+                340,
+                159,
+                350,
+                170
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "It includes bus coupler and connection terminal",
+          "bbox": [
+            355,
+            155,
+            580,
+            175
+          ],
+          "words": [
+            {
+              "text": "It",
+              "bbox": [
+                385,
+                159,
+                391,
+                170
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                394,
+                159,
+                427,
+                170
+              ]
+            },
+            {
+              "text": "bus",
+              "bbox": [
+                429,
+                159,
+                443,
+                170
+              ]
+            },
+            {
+              "text": "coupler",
+              "bbox": [
+                446,
+                159,
+                476,
+                170
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                478,
+                159,
+                493,
+                170
+              ]
+            },
+            {
+              "text": "connection",
+              "bbox": [
+                495,
+                159,
+                539,
+                170
+              ]
+            },
+            {
+              "text": "terminal",
+              "bbox": [
+                542,
+                159,
+                575,
+                170
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Temperature sensor",
+          "bbox": [
+            15,
+            175,
+            95,
+            209
+          ],
+          "words": [
+            {
+              "text": "Temperature",
+              "bbox": [
+                20,
+                179,
+                70,
+                190
+              ]
+            },
+            {
+              "text": "sensor",
+              "bbox": [
+                20,
+                193,
+                46,
+                204
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            95,
+            175,
+            134,
+            209
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                100,
+                179,
+                105,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1/room",
+          "bbox": [
+            134,
+            175,
+            260,
+            209
+          ],
+          "words": [
+            {
+              "text": "1/room",
+              "bbox": [
+                226,
+                179,
+                255,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            260,
+            175,
+            355,
+            209
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                347,
+                179,
+                350,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            355,
+            175,
+            580,
+            209
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Luminaires actuator",
+          "bbox": [
+            15,
+            209,
+            95,
+            243
+          ],
+          "words": [
+            {
+              "text": "Luminaires",
+              "bbox": [
+                20,
+                213,
+                66,
+                224
+              ]
+            },
+            {
+              "text": "actuator",
+              "bbox": [
+                20,
+                227,
+                52,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "12",
+          "bbox": [
+            95,
+            209,
+            134,
+            243
+          ],
+          "words": [
+            {
+              "text": "12",
+              "bbox": [
+                100,
+                213,
+                110,
+                224
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "It depends on the luminaires number",
+          "bbox": [
+            134,
+            209,
+            260,
+            243
+          ],
+          "words": [
+            {
+              "text": "It",
+              "bbox": [
+                142,
+                213,
+                148,
+                224
+              ]
+            },
+            {
+              "text": "depends",
+              "bbox": [
+                151,
+                213,
+                183,
+                224
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                186,
+                213,
+                196,
+                224
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                198,
+                213,
+                211,
+                224
+              ]
+            },
+            {
+              "text": "luminaires",
+              "bbox": [
+                213,
+                213,
+                255,
+                224
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                225,
+                227,
+                255,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "75",
+          "bbox": [
+            260,
+            209,
+            355,
+            243
+          ],
+          "words": [
+            {
+              "text": "75",
+              "bbox": [
+                340,
+                213,
+                350,
+                224
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Binary input to dry contacts connection or conventional push button",
+          "bbox": [
+            355,
+            209,
+            580,
+            243
+          ],
+          "words": [
+            {
+              "text": "Binary",
+              "bbox": [
+                406,
+                213,
+                433,
+                224
+              ]
+            },
+            {
+              "text": "input",
+              "bbox": [
+                436,
+                213,
+                456,
+                224
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                459,
+                213,
+                467,
+                224
+              ]
+            },
+            {
+              "text": "dry",
+              "bbox": [
+                469,
+                213,
+                483,
+                224
+              ]
+            },
+            {
+              "text": "contacts",
+              "bbox": [
+                485,
+                213,
+                518,
+                224
+              ]
+            },
+            {
+              "text": "connection",
+              "bbox": [
+                520,
+                213,
+                564,
+                224
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                567,
+                213,
+                575,
+                224
+              ]
+            },
+            {
+              "text": "conventional",
+              "bbox": [
+                474,
+                227,
+                526,
+                238
+              ]
+            },
+            {
+              "text": "push",
+              "bbox": [
+                528,
+                227,
+                547,
+                238
+              ]
+            },
+            {
+              "text": "button",
+              "bbox": [
+                549,
+                227,
+                575,
+                238
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Heating electrovalve",
+          "bbox": [
+            15,
+            243,
+            95,
+            277
+          ],
+          "words": [
+            {
+              "text": "Heating",
+              "bbox": [
+                20,
+                247,
+                52,
+                258
+              ]
+            },
+            {
+              "text": "electrovalve",
+              "bbox": [
+                20,
+                261,
+                69,
+                272
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            95,
+            243,
+            134,
+            277
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                100,
+                247,
+                105,
+                258
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1/room",
+          "bbox": [
+            134,
+            243,
+            260,
+            277
+          ],
+          "words": [
+            {
+              "text": "1/room",
+              "bbox": [
+                226,
+                247,
+                255,
+                258
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.2",
+          "bbox": [
+            260,
+            243,
+            355,
+            277
+          ],
+          "words": [
+            {
+              "text": "5.2",
+              "bbox": [
+                338,
+                247,
+                350,
+                258
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            355,
+            243,
+            580,
+            277
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Split control interface",
+          "bbox": [
+            15,
+            277,
+            95,
+            312
+          ],
+          "words": [
+            {
+              "text": "Split",
+              "bbox": [
+                20,
+                281,
+                39,
+                292
+              ]
+            },
+            {
+              "text": "control",
+              "bbox": [
+                41,
+                281,
+                70,
+                292
+              ]
+            },
+            {
+              "text": "interface",
+              "bbox": [
+                20,
+                295,
+                55,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            95,
+            277,
+            134,
+            312
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                100,
+                281,
+                105,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1/split",
+          "bbox": [
+            134,
+            277,
+            260,
+            312
+          ],
+          "words": [
+            {
+              "text": "1/split",
+              "bbox": [
+                230,
+                281,
+                255,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "-",
+          "bbox": [
+            260,
+            277,
+            355,
+            312
+          ],
+          "words": [
+            {
+              "text": "-",
+              "bbox": [
+                347,
+                281,
+                350,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Bidirectional KNX gateway—Air conditioners",
+          "bbox": [
+            355,
+            277,
+            580,
+            312
+          ],
+          "words": [
+            {
+              "text": "Bidirectional",
+              "bbox": [
+                388,
+                281,
+                440,
+                292
+              ]
+            },
+            {
+              "text": "KNX",
+              "bbox": [
+                442,
+                281,
+                464,
+                292
+              ]
+            },
+            {
+              "text": "gateway—Air",
+              "bbox": [
+                466,
+                281,
+                523,
+                292
+              ]
+            },
+            {
+              "text": "conditioners",
+              "bbox": [
+                526,
+                281,
+                575,
+                292
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_035032_t1",
+      "bbox": [
+        15,
+        327,
+        580,
+        475
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            328,
+            580,
+            349
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            349,
+            580,
+            370
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            370,
+            580,
+            391
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            391,
+            580,
+            412
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            412,
+            580,
+            433
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            433,
+            580,
+            454
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            454,
+            580,
+            475
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>BP index</td><td>Time period for blood pressure assessment</td><td>RR (95% CI)</td><td>Pvalue</td></tr></thead><tbody><tr><td rowspan=\"2\">Diastolic BP (per 10 mmHg)</td><td>Baseline</td><td>1.07 (0.94–1.21)</td><td>0.30</td></tr><tr><td>Mean follow-up</td><td>1.20 (0.97–1.49)</td><td>0.09</td></tr><tr><td rowspan=\"2\">Systolic BP (per 10 mmHg)</td><td>Baseline</td><td>1.09 (1.01–1.17)</td><td>0.02</td></tr><tr><td>Mean follow-up</td><td>1.30 (1.15–1.48)</td><td>&lt;0.01</td></tr><tr><td rowspan=\"2\">Pulse pressure(per 10 mmHg)</td><td>Baseline</td><td>1.12 (1.02–1.23)</td><td>0.02</td></tr><tr><td>Mean follow-up</td><td>1.28 (1.11–1.47)</td><td>&lt;0.01</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "BP index",
+          "bbox": [
+            16,
+            328,
+            183,
+            349
+          ],
+          "words": [
+            {
+              "text": "BP",
+              "bbox": [
+                21,
+                332,
+                33,
+                343
+              ]
+            },
+            {
+              "text": "index",
+              "bbox": [
+                36,
+                332,
+                59,
+                343
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Time period for blood pressure assessment",
+          "bbox": [
+            183,
+            328,
+            429,
+            349
+          ],
+          "words": [
+            {
+              "text": "Time",
+              "bbox": [
+                188,
+                332,
+                210,
+                343
+              ]
+            },
+            {
+              "text": "period",
+              "bbox": [
+                213,
+                332,
+                240,
+                343
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                243,
+                332,
+                256,
+                343
+              ]
+            },
+            {
+              "text": "blood",
+              "bbox": [
+                258,
+                332,
+                282,
+                343
+              ]
+            },
+            {
+              "text": "pressure",
+              "bbox": [
+                284,
+                332,
+                321,
+                343
+              ]
+            },
+            {
+              "text": "assessment",
+              "bbox": [
+                323,
+                332,
+                370,
+                343
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "RR (95% CI)",
+          "bbox": [
+            429,
+            328,
+            528,
+            349
+          ],
+          "words": [
+            {
+              "text": "RR",
+              "bbox": [
+                466,
+                332,
+                480,
+                343
+              ]
+            },
+            {
+              "text": "(95%",
+              "bbox": [
+                483,
+                332,
+                506,
+                343
+              ]
+            },
+            {
+              "text": "CI)",
+              "bbox": [
+                509,
+                332,
+                523,
+                343
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Pvalue",
+          "bbox": [
+            528,
+            328,
+            580,
+            349
+          ],
+          "words": [
+            {
+              "text": "Pvalue",
+              "bbox": [
+                545,
+                332,
+                574,
+                343
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1,
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Diastolic BP (per 10 mmHg)",
+          "bbox": [
+            16,
+            349,
+            183,
+            370
+          ],
+          "words": [
+            {
+              "text": "Diastolic",
+              "bbox": [
+                21,
+                353,
+                57,
+                364
+              ]
+            },
+            {
+              "text": "BP",
+              "bbox": [
+                60,
+                353,
+                71,
+                364
+              ]
+            },
+            {
+              "text": "(per",
+              "bbox": [
+                74,
+                353,
+                90,
+                364
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                93,
+                353,
+                103,
+                364
+              ]
+            },
+            {
+              "text": "mmHg)",
+              "bbox": [
+                105,
+                353,
+                136,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Baseline",
+          "bbox": [
+            183,
+            349,
+            429,
+            370
+          ],
+          "words": [
+            {
+              "text": "Baseline",
+              "bbox": [
+                188,
+                353,
+                223,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.07 (0.94–1.21)",
+          "bbox": [
+            429,
+            349,
+            528,
+            370
+          ],
+          "words": [
+            {
+              "text": "1.07",
+              "bbox": [
+                456,
+                353,
+                474,
+                364
+              ]
+            },
+            {
+              "text": "(0.94–1.21)",
+              "bbox": [
+                476,
+                353,
+                523,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.30",
+          "bbox": [
+            528,
+            349,
+            580,
+            370
+          ],
+          "words": [
+            {
+              "text": "0.30",
+              "bbox": [
+                557,
+                353,
+                574,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Mean follow-up",
+          "bbox": [
+            16,
+            370,
+            183,
+            391
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                21,
+                374,
+                44,
+                385
+              ]
+            },
+            {
+              "text": "follow-up",
+              "bbox": [
+                46,
+                374,
+                86,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.20 (0.97–1.49)",
+          "bbox": [
+            183,
+            370,
+            429,
+            391
+          ],
+          "words": [
+            {
+              "text": "1.20",
+              "bbox": [
+                188,
+                374,
+                206,
+                385
+              ]
+            },
+            {
+              "text": "(0.97–1.49)",
+              "bbox": [
+                208,
+                374,
+                255,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.09",
+          "bbox": [
+            429,
+            370,
+            528,
+            391
+          ],
+          "words": [
+            {
+              "text": "0.09",
+              "bbox": [
+                505,
+                374,
+                523,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3,
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Systolic BP (per 10 mmHg)",
+          "bbox": [
+            16,
+            391,
+            183,
+            412
+          ],
+          "words": [
+            {
+              "text": "Systolic",
+              "bbox": [
+                21,
+                395,
+                53,
+                406
+              ]
+            },
+            {
+              "text": "BP",
+              "bbox": [
+                56,
+                395,
+                68,
+                406
+              ]
+            },
+            {
+              "text": "(per",
+              "bbox": [
+                70,
+                395,
+                86,
+                406
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                89,
+                395,
+                99,
+                406
+              ]
+            },
+            {
+              "text": "mmHg)",
+              "bbox": [
+                101,
+                395,
+                132,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Baseline",
+          "bbox": [
+            183,
+            391,
+            429,
+            412
+          ],
+          "words": [
+            {
+              "text": "Baseline",
+              "bbox": [
+                188,
+                395,
+                223,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.09 (1.01–1.17)",
+          "bbox": [
+            429,
+            391,
+            528,
+            412
+          ],
+          "words": [
+            {
+              "text": "1.09",
+              "bbox": [
+                456,
+                395,
+                474,
+                406
+              ]
+            },
+            {
+              "text": "(1.01–1.17)",
+              "bbox": [
+                476,
+                395,
+                523,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.02",
+          "bbox": [
+            528,
+            391,
+            580,
+            412
+          ],
+          "words": [
+            {
+              "text": "0.02",
+              "bbox": [
+                557,
+                395,
+                574,
+                406
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Mean follow-up",
+          "bbox": [
+            16,
+            412,
+            183,
+            433
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                21,
+                416,
+                44,
+                427
+              ]
+            },
+            {
+              "text": "follow-up",
+              "bbox": [
+                46,
+                416,
+                86,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.30 (1.15–1.48)",
+          "bbox": [
+            183,
+            412,
+            429,
+            433
+          ],
+          "words": [
+            {
+              "text": "1.30",
+              "bbox": [
+                188,
+                416,
+                206,
+                427
+              ]
+            },
+            {
+              "text": "(1.15–1.48)",
+              "bbox": [
+                208,
+                416,
+                255,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "<0.01",
+          "bbox": [
+            429,
+            412,
+            528,
+            433
+          ],
+          "words": [
+            {
+              "text": "<0.01",
+              "bbox": [
+                500,
+                416,
+                523,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5,
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Pulse pressure(per 10 mmHg)",
+          "bbox": [
+            16,
+            433,
+            183,
+            454
+          ],
+          "words": [
+            {
+              "text": "Pulse",
+              "bbox": [
+                21,
+                437,
+                43,
+                448
+              ]
+            },
+            {
+              "text": "pressure(per",
+              "bbox": [
+                45,
+                437,
+                95,
+                448
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                97,
+                437,
+                107,
+                448
+              ]
+            },
+            {
+              "text": "mmHg)",
+              "bbox": [
+                110,
+                437,
+                141,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Baseline",
+          "bbox": [
+            183,
+            433,
+            429,
+            454
+          ],
+          "words": [
+            {
+              "text": "Baseline",
+              "bbox": [
+                188,
+                437,
+                223,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.12 (1.02–1.23)",
+          "bbox": [
+            429,
+            433,
+            528,
+            454
+          ],
+          "words": [
+            {
+              "text": "1.12",
+              "bbox": [
+                456,
+                437,
+                474,
+                448
+              ]
+            },
+            {
+              "text": "(1.02–1.23)",
+              "bbox": [
+                476,
+                437,
+                523,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.02",
+          "bbox": [
+            528,
+            433,
+            580,
+            454
+          ],
+          "words": [
+            {
+              "text": "0.02",
+              "bbox": [
+                557,
+                437,
+                574,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Mean follow-up",
+          "bbox": [
+            16,
+            454,
+            183,
+            475
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                21,
+                458,
+                44,
+                469
+              ]
+            },
+            {
+              "text": "follow-up",
+              "bbox": [
+                46,
+                458,
+                86,
+                469
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.28 (1.11–1.47)",
+          "bbox": [
+            183,
+            454,
+            429,
+            475
+          ],
+          "words": [
+            {
+              "text": "1.28",
+              "bbox": [
+                188,
+                458,
+                206,
+                469
+              ]
+            },
+            {
+              "text": "(1.11–1.47)",
+              "bbox": [
+                208,
+                458,
+                254,
+                469
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "<0.01",
+          "bbox": [
+            429,
+            454,
+            528,
+            475
+          ],
+          "words": [
+            {
+              "text": "<0.01",
+              "bbox": [
+                500,
+                458,
+                523,
+                469
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        490,
+        580,
+        690
+      ],
+      "content": "The first table outlines various types of sensors and devices with their respective number, placement criteria, total consumption (mA), and comments: the opening sensor has 8 units, with a placement of 1/window 1/airflow door, requiring a KNX interface; the presence detector consists of 7 units, placed 1/room, with a total consumption of 56 mA and an installation height of 2.20 m; the motion detector includes 4 units, for 1/passing area, consuming 16 mA and featuring a bus coupler and connection terminal; the temperature sensor has 6 units, placed 1/room, with no specified consumption; the luminaires actuator comprises 12 units, depending on the luminaires number, with a total consumption of 75 mA and a binary input for dry contacts connection or conventional push button; the heating electrovalve has 6 units, placed 1/room, consuming 5.2 mA; and the split control interface features 4 units, placed 1/split, with no specified consumption and serving as a bidirectional KNX gateway for air conditioners. The second table presents blood pressure assessment data, indicating the diastolic BP (per 10 mmHg) has a baseline RR of 1.07 (0.94–1.21) and a Pvalue of 0.30, with a mean follow-up RR of 1.20 (0.97–1.49) and a Pvalue of 0.09. The systolic BP (per 10 mmHg) shows a baseline RR of 1.09 (1.01–1.17) with a Pvalue of 0.02 and a mean follow-up RR of 1.30 (1.15–1.48) with a Pvalue of <0.01. Finally, the pulse pressure (per 10 mmHg) has a baseline RR of 1.12 (1.02–1.23) and a Pvalue of 0.02, with a mean follow-up RR of 1.28 (1.11–1.47) and a Pvalue of <0.01.",
+      "lines": [
+        {
+          "text": "The first table outlines various types of sensors and devices with their respective number, placement criteria, total consumption",
+          "bbox": [
+            15,
+            491,
+            580,
+            503
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                491,
+                32,
+                503
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                35,
+                491,
+                53,
+                503
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                56,
+                491,
+                77,
+                503
+              ]
+            },
+            {
+              "text": "outlines",
+              "bbox": [
+                80,
+                491,
+                115,
+                503
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                118,
+                491,
+                151,
+                503
+              ]
+            },
+            {
+              "text": "types",
+              "bbox": [
+                154,
+                491,
+                177,
+                503
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                180,
+                491,
+                189,
+                503
+              ]
+            },
+            {
+              "text": "sensors",
+              "bbox": [
+                192,
+                491,
+                225,
+                503
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                228,
+                491,
+                244,
+                503
+              ]
+            },
+            {
+              "text": "devices",
+              "bbox": [
+                247,
+                491,
+                280,
+                503
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                283,
+                491,
+                302,
+                503
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                305,
+                491,
+                326,
+                503
+              ]
+            },
+            {
+              "text": "respective",
+              "bbox": [
+                329,
+                491,
+                373,
+                503
+              ]
+            },
+            {
+              "text": "number,",
+              "bbox": [
+                376,
+                491,
+                412,
+                503
+              ]
+            },
+            {
+              "text": "placement",
+              "bbox": [
+                415,
+                491,
+                461,
+                503
+              ]
+            },
+            {
+              "text": "criteria,",
+              "bbox": [
+                464,
+                491,
+                497,
+                503
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                501,
+                491,
+                520,
+                503
+              ]
+            },
+            {
+              "text": "consumption",
+              "bbox": [
+                523,
+                491,
+                580,
+                503
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(mA), and comments: the opening sensor has 8 units, with a placement of 1/window 1/airflow door, requiring a KNX interface;",
+          "bbox": [
+            15,
+            506,
+            580,
+            518
+          ],
+          "words": [
+            {
+              "text": "(mA),",
+              "bbox": [
+                15,
+                506,
+                42,
+                518
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                45,
+                506,
+                60,
+                518
+              ]
+            },
+            {
+              "text": "comments:",
+              "bbox": [
+                63,
+                506,
+                112,
+                518
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                115,
+                506,
+                128,
+                518
+              ]
+            },
+            {
+              "text": "opening",
+              "bbox": [
+                131,
+                506,
+                167,
+                518
+              ]
+            },
+            {
+              "text": "sensor",
+              "bbox": [
+                170,
+                506,
+                198,
+                518
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                201,
+                506,
+                215,
+                518
+              ]
+            },
+            {
+              "text": "8",
+              "bbox": [
+                218,
+                506,
+                224,
+                518
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                227,
+                506,
+                251,
+                518
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                254,
+                506,
+                274,
+                518
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                276,
+                506,
+                281,
+                518
+              ]
+            },
+            {
+              "text": "placement",
+              "bbox": [
+                284,
+                506,
+                330,
+                518
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                333,
+                506,
+                342,
+                518
+              ]
+            },
+            {
+              "text": "1/window",
+              "bbox": [
+                345,
+                506,
+                389,
+                518
+              ]
+            },
+            {
+              "text": "1/airflow",
+              "bbox": [
+                392,
+                506,
+                432,
+                518
+              ]
+            },
+            {
+              "text": "door,",
+              "bbox": [
+                435,
+                506,
+                457,
+                518
+              ]
+            },
+            {
+              "text": "requiring",
+              "bbox": [
+                460,
+                506,
+                501,
+                518
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                504,
+                506,
+                509,
+                518
+              ]
+            },
+            {
+              "text": "KNX",
+              "bbox": [
+                512,
+                506,
+                535,
+                518
+              ]
+            },
+            {
+              "text": "interface;",
+              "bbox": [
+                538,
+                506,
+                580,
+                518
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the presence detector consists of 7 units, placed 1/room, with a total consumption of 56 mA and an installation height of 2.20 m;",
+          "bbox": [
+            15,
+            522,
+            580,
+            534
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                522,
+                28,
+                534
+              ]
+            },
+            {
+              "text": "presence",
+              "bbox": [
+                31,
+                522,
+                70,
+                534
+              ]
+            },
+            {
+              "text": "detector",
+              "bbox": [
+                72,
+                522,
+                108,
+                534
+              ]
+            },
+            {
+              "text": "consists",
+              "bbox": [
+                111,
+                522,
+                146,
+                534
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                148,
+                522,
+                157,
+                534
+              ]
+            },
+            {
+              "text": "7",
+              "bbox": [
+                160,
+                522,
+                166,
+                534
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                169,
+                522,
+                193,
+                534
+              ]
+            },
+            {
+              "text": "placed",
+              "bbox": [
+                195,
+                522,
+                224,
+                534
+              ]
+            },
+            {
+              "text": "1/room,",
+              "bbox": [
+                227,
+                522,
+                261,
+                534
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                264,
+                522,
+                284,
+                534
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                287,
+                522,
+                292,
+                534
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                294,
+                522,
+                314,
+                534
+              ]
+            },
+            {
+              "text": "consumption",
+              "bbox": [
+                317,
+                522,
+                373,
+                534
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                376,
+                522,
+                385,
+                534
+              ]
+            },
+            {
+              "text": "56",
+              "bbox": [
+                388,
+                522,
+                399,
+                534
+              ]
+            },
+            {
+              "text": "mA",
+              "bbox": [
+                402,
+                522,
+                418,
+                534
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                421,
+                522,
+                437,
+                534
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                439,
+                522,
+                450,
+                534
+              ]
+            },
+            {
+              "text": "installation",
+              "bbox": [
+                452,
+                522,
+                501,
+                534
+              ]
+            },
+            {
+              "text": "height",
+              "bbox": [
+                504,
+                522,
+                532,
+                534
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                534,
+                522,
+                544,
+                534
+              ]
+            },
+            {
+              "text": "2.20",
+              "bbox": [
+                546,
+                522,
+                566,
+                534
+              ]
+            },
+            {
+              "text": "m;",
+              "bbox": [
+                568,
+                522,
+                580,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the motion detector includes 4 units, for 1/passing area, consuming 16 mA and featuring a bus coupler and connection terminal;",
+          "bbox": [
+            15,
+            537,
+            580,
+            549
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                537,
+                28,
+                549
+              ]
+            },
+            {
+              "text": "motion",
+              "bbox": [
+                31,
+                537,
+                63,
+                549
+              ]
+            },
+            {
+              "text": "detector",
+              "bbox": [
+                65,
+                537,
+                101,
+                549
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                104,
+                537,
+                140,
+                549
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                143,
+                537,
+                149,
+                549
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                152,
+                537,
+                176,
+                549
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                179,
+                537,
+                192,
+                549
+              ]
+            },
+            {
+              "text": "1/passing",
+              "bbox": [
+                195,
+                537,
+                236,
+                549
+              ]
+            },
+            {
+              "text": "area,",
+              "bbox": [
+                239,
+                537,
+                260,
+                549
+              ]
+            },
+            {
+              "text": "consuming",
+              "bbox": [
+                263,
+                537,
+                311,
+                549
+              ]
+            },
+            {
+              "text": "16",
+              "bbox": [
+                314,
+                537,
+                325,
+                549
+              ]
+            },
+            {
+              "text": "mA",
+              "bbox": [
+                328,
+                537,
+                344,
+                549
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                347,
+                537,
+                363,
+                549
+              ]
+            },
+            {
+              "text": "featuring",
+              "bbox": [
+                366,
+                537,
+                405,
+                549
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                408,
+                537,
+                413,
+                549
+              ]
+            },
+            {
+              "text": "bus",
+              "bbox": [
+                416,
+                537,
+                431,
+                549
+              ]
+            },
+            {
+              "text": "coupler",
+              "bbox": [
+                434,
+                537,
+                467,
+                549
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                470,
+                537,
+                486,
+                549
+              ]
+            },
+            {
+              "text": "connection",
+              "bbox": [
+                489,
+                537,
+                537,
+                549
+              ]
+            },
+            {
+              "text": "terminal;",
+              "bbox": [
+                540,
+                537,
+                580,
+                549
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the temperature sensor has 6 units, placed 1/room, with no specified consumption; the luminaires actuator comprises 12 units,",
+          "bbox": [
+            15,
+            553,
+            580,
+            565
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                553,
+                28,
+                565
+              ]
+            },
+            {
+              "text": "temperature",
+              "bbox": [
+                32,
+                553,
+                84,
+                565
+              ]
+            },
+            {
+              "text": "sensor",
+              "bbox": [
+                88,
+                553,
+                116,
+                565
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                119,
+                553,
+                134,
+                565
+              ]
+            },
+            {
+              "text": "6",
+              "bbox": [
+                137,
+                553,
+                143,
+                565
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                146,
+                553,
+                171,
+                565
+              ]
+            },
+            {
+              "text": "placed",
+              "bbox": [
+                174,
+                553,
+                203,
+                565
+              ]
+            },
+            {
+              "text": "1/room,",
+              "bbox": [
+                206,
+                553,
+                241,
+                565
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                244,
+                553,
+                264,
+                565
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                267,
+                553,
+                278,
+                565
+              ]
+            },
+            {
+              "text": "specified",
+              "bbox": [
+                281,
+                553,
+                321,
+                565
+              ]
+            },
+            {
+              "text": "consumption;",
+              "bbox": [
+                325,
+                553,
+                384,
+                565
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                388,
+                553,
+                401,
+                565
+              ]
+            },
+            {
+              "text": "luminaires",
+              "bbox": [
+                405,
+                553,
+                451,
+                565
+              ]
+            },
+            {
+              "text": "actuator",
+              "bbox": [
+                455,
+                553,
+                490,
+                565
+              ]
+            },
+            {
+              "text": "comprises",
+              "bbox": [
+                493,
+                553,
+                538,
+                565
+              ]
+            },
+            {
+              "text": "12",
+              "bbox": [
+                541,
+                553,
+                552,
+                565
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                556,
+                553,
+                580,
+                565
+              ]
+            }
+          ]
+        },
+        {
+          "text": "depending on the luminaires number, with a total consumption of 75 mA and a binary input for dry contacts connection or",
+          "bbox": [
+            15,
+            568,
+            580,
+            580
+          ],
+          "words": [
+            {
+              "text": "depending",
+              "bbox": [
+                15,
+                568,
+                61,
+                580
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                65,
+                568,
+                76,
+                580
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                80,
+                568,
+                94,
+                580
+              ]
+            },
+            {
+              "text": "luminaires",
+              "bbox": [
+                98,
+                568,
+                144,
+                580
+              ]
+            },
+            {
+              "text": "number,",
+              "bbox": [
+                148,
+                568,
+                184,
+                580
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                188,
+                568,
+                208,
+                580
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                212,
+                568,
+                217,
+                580
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                221,
+                568,
+                241,
+                580
+              ]
+            },
+            {
+              "text": "consumption",
+              "bbox": [
+                245,
+                568,
+                302,
+                580
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                306,
+                568,
+                315,
+                580
+              ]
+            },
+            {
+              "text": "75",
+              "bbox": [
+                319,
+                568,
+                330,
+                580
+              ]
+            },
+            {
+              "text": "mA",
+              "bbox": [
+                334,
+                568,
+                350,
+                580
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                354,
+                568,
+                370,
+                580
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                374,
+                568,
+                379,
+                580
+              ]
+            },
+            {
+              "text": "binary",
+              "bbox": [
+                383,
+                568,
+                412,
+                580
+              ]
+            },
+            {
+              "text": "input",
+              "bbox": [
+                416,
+                568,
+                438,
+                580
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                442,
+                568,
+                455,
+                580
+              ]
+            },
+            {
+              "text": "dry",
+              "bbox": [
+                459,
+                568,
+                474,
+                580
+              ]
+            },
+            {
+              "text": "contacts",
+              "bbox": [
+                478,
+                568,
+                514,
+                580
+              ]
+            },
+            {
+              "text": "connection",
+              "bbox": [
+                518,
+                568,
+                567,
+                580
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                571,
+                568,
+                580,
+                580
+              ]
+            }
+          ]
+        },
+        {
+          "text": "conventional push button; the heating electrovalve has 6 units, placed 1/room, consuming 5.2 mA; and the split control interface",
+          "bbox": [
+            15,
+            583,
+            580,
+            595
+          ],
+          "words": [
+            {
+              "text": "conventional",
+              "bbox": [
+                15,
+                583,
+                72,
+                595
+              ]
+            },
+            {
+              "text": "push",
+              "bbox": [
+                75,
+                583,
+                95,
+                595
+              ]
+            },
+            {
+              "text": "button;",
+              "bbox": [
+                98,
+                583,
+                129,
+                595
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                132,
+                583,
+                145,
+                595
+              ]
+            },
+            {
+              "text": "heating",
+              "bbox": [
+                148,
+                583,
+                181,
+                595
+              ]
+            },
+            {
+              "text": "electrovalve",
+              "bbox": [
+                183,
+                583,
+                237,
+                595
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                240,
+                583,
+                255,
+                595
+              ]
+            },
+            {
+              "text": "6",
+              "bbox": [
+                257,
+                583,
+                263,
+                595
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                266,
+                583,
+                290,
+                595
+              ]
+            },
+            {
+              "text": "placed",
+              "bbox": [
+                292,
+                583,
+                321,
+                595
+              ]
+            },
+            {
+              "text": "1/room,",
+              "bbox": [
+                324,
+                583,
+                358,
+                595
+              ]
+            },
+            {
+              "text": "consuming",
+              "bbox": [
+                361,
+                583,
+                409,
+                595
+              ]
+            },
+            {
+              "text": "5.2",
+              "bbox": [
+                412,
+                583,
+                426,
+                595
+              ]
+            },
+            {
+              "text": "mA;",
+              "bbox": [
+                429,
+                583,
+                448,
+                595
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                451,
+                583,
+                467,
+                595
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                470,
+                583,
+                483,
+                595
+              ]
+            },
+            {
+              "text": "split",
+              "bbox": [
+                486,
+                583,
+                505,
+                595
+              ]
+            },
+            {
+              "text": "control",
+              "bbox": [
+                508,
+                583,
+                539,
+                595
+              ]
+            },
+            {
+              "text": "interface",
+              "bbox": [
+                542,
+                583,
+                580,
+                595
+              ]
+            }
+          ]
+        },
+        {
+          "text": "features 4 units, placed 1/split, with no specified consumption and serving as a bidirectional KNX gateway for air conditioners.",
+          "bbox": [
+            15,
+            599,
+            580,
+            611
+          ],
+          "words": [
+            {
+              "text": "features",
+              "bbox": [
+                15,
+                599,
+                50,
+                611
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                53,
+                599,
+                58,
+                611
+              ]
+            },
+            {
+              "text": "units,",
+              "bbox": [
+                61,
+                599,
+                86,
+                611
+              ]
+            },
+            {
+              "text": "placed",
+              "bbox": [
+                89,
+                599,
+                117,
+                611
+              ]
+            },
+            {
+              "text": "1/split,",
+              "bbox": [
+                120,
+                599,
+                151,
+                611
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                154,
+                599,
+                173,
+                611
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                176,
+                599,
+                187,
+                611
+              ]
+            },
+            {
+              "text": "specified",
+              "bbox": [
+                190,
+                599,
+                230,
+                611
+              ]
+            },
+            {
+              "text": "consumption",
+              "bbox": [
+                233,
+                599,
+                290,
+                611
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                293,
+                599,
+                309,
+                611
+              ]
+            },
+            {
+              "text": "serving",
+              "bbox": [
+                312,
+                599,
+                344,
+                611
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                347,
+                599,
+                356,
+                611
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                359,
+                599,
+                364,
+                611
+              ]
+            },
+            {
+              "text": "bidirectional",
+              "bbox": [
+                367,
+                599,
+                423,
+                611
+              ]
+            },
+            {
+              "text": "KNX",
+              "bbox": [
+                426,
+                599,
+                450,
+                611
+              ]
+            },
+            {
+              "text": "gateway",
+              "bbox": [
+                453,
+                599,
+                489,
+                611
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                492,
+                599,
+                505,
+                611
+              ]
+            },
+            {
+              "text": "air",
+              "bbox": [
+                508,
+                599,
+                520,
+                611
+              ]
+            },
+            {
+              "text": "conditioners.",
+              "bbox": [
+                523,
+                599,
+                580,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The second table presents blood pressure assessment data, indicating the diastolic BP (per 10 mmHg) has a baseline RR of 1.07",
+          "bbox": [
+            15,
+            614,
+            580,
+            626
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                614,
+                32,
+                626
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                35,
+                614,
+                66,
+                626
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                69,
+                614,
+                90,
+                626
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                93,
+                614,
+                129,
+                626
+              ]
+            },
+            {
+              "text": "blood",
+              "bbox": [
+                132,
+                614,
+                157,
+                626
+              ]
+            },
+            {
+              "text": "pressure",
+              "bbox": [
+                160,
+                614,
+                197,
+                626
+              ]
+            },
+            {
+              "text": "assessment",
+              "bbox": [
+                199,
+                614,
+                248,
+                626
+              ]
+            },
+            {
+              "text": "data,",
+              "bbox": [
+                251,
+                614,
+                272,
+                626
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                275,
+                614,
+                319,
+                626
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                322,
+                614,
+                336,
+                626
+              ]
+            },
+            {
+              "text": "diastolic",
+              "bbox": [
+                339,
+                614,
+                376,
+                626
+              ]
+            },
+            {
+              "text": "BP",
+              "bbox": [
+                379,
+                614,
+                392,
+                626
+              ]
+            },
+            {
+              "text": "(per",
+              "bbox": [
+                395,
+                614,
+                413,
+                626
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                415,
+                614,
+                426,
+                626
+              ]
+            },
+            {
+              "text": "mmHg)",
+              "bbox": [
+                429,
+                614,
+                464,
+                626
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                467,
+                614,
+                481,
+                626
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                484,
+                614,
+                489,
+                626
+              ]
+            },
+            {
+              "text": "baseline",
+              "bbox": [
+                492,
+                614,
+                528,
+                626
+              ]
+            },
+            {
+              "text": "RR",
+              "bbox": [
+                531,
+                614,
+                546,
+                626
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                549,
+                614,
+                558,
+                626
+              ]
+            },
+            {
+              "text": "1.07",
+              "bbox": [
+                561,
+                614,
+                580,
+                626
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(0.94–1.21) and a Pvalue of 0.30, with a mean follow-up RR of 1.20 (0.97–1.49) and a Pvalue of 0.09. The systolic BP (per 10",
+          "bbox": [
+            15,
+            630,
+            580,
+            642
+          ],
+          "words": [
+            {
+              "text": "(0.94–1.21)",
+              "bbox": [
+                15,
+                630,
+                66,
+                642
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                69,
+                630,
+                85,
+                642
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                88,
+                630,
+                93,
+                642
+              ]
+            },
+            {
+              "text": "Pvalue",
+              "bbox": [
+                96,
+                630,
+                126,
+                642
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                129,
+                630,
+                139,
+                642
+              ]
+            },
+            {
+              "text": "0.30,",
+              "bbox": [
+                142,
+                630,
+                164,
+                642
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                167,
+                630,
+                186,
+                642
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                190,
+                630,
+                194,
+                642
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                198,
+                630,
+                221,
+                642
+              ]
+            },
+            {
+              "text": "follow-up",
+              "bbox": [
+                224,
+                630,
+                268,
+                642
+              ]
+            },
+            {
+              "text": "RR",
+              "bbox": [
+                271,
+                630,
+                286,
+                642
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                289,
+                630,
+                298,
+                642
+              ]
+            },
+            {
+              "text": "1.20",
+              "bbox": [
+                301,
+                630,
+                320,
+                642
+              ]
+            },
+            {
+              "text": "(0.97–1.49)",
+              "bbox": [
+                323,
+                630,
+                375,
+                642
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                378,
+                630,
+                394,
+                642
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                397,
+                630,
+                402,
+                642
+              ]
+            },
+            {
+              "text": "Pvalue",
+              "bbox": [
+                405,
+                630,
+                435,
+                642
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                438,
+                630,
+                447,
+                642
+              ]
+            },
+            {
+              "text": "0.09.",
+              "bbox": [
+                450,
+                630,
+                472,
+                642
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                475,
+                630,
+                492,
+                642
+              ]
+            },
+            {
+              "text": "systolic",
+              "bbox": [
+                495,
+                630,
+                529,
+                642
+              ]
+            },
+            {
+              "text": "BP",
+              "bbox": [
+                532,
+                630,
+                545,
+                642
+              ]
+            },
+            {
+              "text": "(per",
+              "bbox": [
+                548,
+                630,
+                566,
+                642
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                569,
+                630,
+                580,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "text": "mmHg) shows a baseline RR of 1.09 (1.01–1.17) with a Pvalue of 0.02 and a mean follow-up RR of 1.30 (1.15–1.48) with a",
+          "bbox": [
+            15,
+            645,
+            580,
+            657
+          ],
+          "words": [
+            {
+              "text": "mmHg)",
+              "bbox": [
+                15,
+                645,
+                49,
+                657
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                53,
+                645,
+                80,
+                657
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                84,
+                645,
+                89,
+                657
+              ]
+            },
+            {
+              "text": "baseline",
+              "bbox": [
+                92,
+                645,
+                128,
+                657
+              ]
+            },
+            {
+              "text": "RR",
+              "bbox": [
+                132,
+                645,
+                147,
+                657
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                150,
+                645,
+                159,
+                657
+              ]
+            },
+            {
+              "text": "1.09",
+              "bbox": [
+                163,
+                645,
+                182,
+                657
+              ]
+            },
+            {
+              "text": "(1.01–1.17)",
+              "bbox": [
+                186,
+                645,
+                237,
+                657
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                241,
+                645,
+                260,
+                657
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                264,
+                645,
+                269,
+                657
+              ]
+            },
+            {
+              "text": "Pvalue",
+              "bbox": [
+                272,
+                645,
+                302,
+                657
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                306,
+                645,
+                315,
+                657
+              ]
+            },
+            {
+              "text": "0.02",
+              "bbox": [
+                318,
+                645,
+                338,
+                657
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                341,
+                645,
+                357,
+                657
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                361,
+                645,
+                365,
+                657
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                369,
+                645,
+                393,
+                657
+              ]
+            },
+            {
+              "text": "follow-up",
+              "bbox": [
+                396,
+                645,
+                440,
+                657
+              ]
+            },
+            {
+              "text": "RR",
+              "bbox": [
+                443,
+                645,
+                458,
+                657
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                462,
+                645,
+                471,
+                657
+              ]
+            },
+            {
+              "text": "1.30",
+              "bbox": [
+                474,
+                645,
+                494,
+                657
+              ]
+            },
+            {
+              "text": "(1.15–1.48)",
+              "bbox": [
+                497,
+                645,
+                548,
+                657
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                552,
+                645,
+                572,
+                657
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                645,
+                580,
+                657
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pvalue of <0.01. Finally, the pulse pressure (per 10 mmHg) has a baseline RR of 1.12 (1.02–1.23) and a Pvalue of 0.02, with a",
+          "bbox": [
+            15,
+            660,
+            580,
+            672
+          ],
+          "words": [
+            {
+              "text": "Pvalue",
+              "bbox": [
+                15,
+                660,
+                45,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                48,
+                660,
+                57,
+                672
+              ]
+            },
+            {
+              "text": "<0.01.",
+              "bbox": [
+                60,
+                660,
+                89,
+                672
+              ]
+            },
+            {
+              "text": "Finally,",
+              "bbox": [
+                92,
+                660,
+                125,
+                672
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                128,
+                660,
+                141,
+                672
+              ]
+            },
+            {
+              "text": "pulse",
+              "bbox": [
+                145,
+                660,
+                168,
+                672
+              ]
+            },
+            {
+              "text": "pressure",
+              "bbox": [
+                171,
+                660,
+                208,
+                672
+              ]
+            },
+            {
+              "text": "(per",
+              "bbox": [
+                211,
+                660,
+                228,
+                672
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                232,
+                660,
+                243,
+                672
+              ]
+            },
+            {
+              "text": "mmHg)",
+              "bbox": [
+                246,
+                660,
+                280,
+                672
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                283,
+                660,
+                298,
+                672
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                301,
+                660,
+                306,
+                672
+              ]
+            },
+            {
+              "text": "baseline",
+              "bbox": [
+                309,
+                660,
+                345,
+                672
+              ]
+            },
+            {
+              "text": "RR",
+              "bbox": [
+                348,
+                660,
+                363,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                366,
+                660,
+                375,
+                672
+              ]
+            },
+            {
+              "text": "1.12",
+              "bbox": [
+                378,
+                660,
+                397,
+                672
+              ]
+            },
+            {
+              "text": "(1.02–1.23)",
+              "bbox": [
+                400,
+                660,
+                452,
+                672
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                455,
+                660,
+                471,
+                672
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                474,
+                660,
+                479,
+                672
+              ]
+            },
+            {
+              "text": "Pvalue",
+              "bbox": [
+                482,
+                660,
+                512,
+                672
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                515,
+                660,
+                524,
+                672
+              ]
+            },
+            {
+              "text": "0.02,",
+              "bbox": [
+                527,
+                660,
+                549,
+                672
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                552,
+                660,
+                572,
+                672
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                660,
+                580,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "text": "mean follow-up RR of 1.28 (1.11–1.47) and a Pvalue of <0.01.",
+          "bbox": [
+            15,
+            676,
+            292,
+            688
+          ],
+          "words": [
+            {
+              "text": "mean",
+              "bbox": [
+                15,
+                676,
+                39,
+                688
+              ]
+            },
+            {
+              "text": "follow-up",
+              "bbox": [
+                42,
+                676,
+                85,
+                688
+              ]
+            },
+            {
+              "text": "RR",
+              "bbox": [
+                88,
+                676,
+                102,
+                688
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                105,
+                676,
+                114,
+                688
+              ]
+            },
+            {
+              "text": "1.28",
+              "bbox": [
+                117,
+                676,
+                136,
+                688
+              ]
+            },
+            {
+              "text": "(1.11–1.47)",
+              "bbox": [
+                139,
+                676,
+                190,
+                688
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                193,
+                676,
+                209,
+                688
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                211,
+                676,
+                216,
+                688
+              ]
+            },
+            {
+              "text": "Pvalue",
+              "bbox": [
+                219,
+                676,
+                249,
+                688
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                252,
+                676,
+                261,
+                688
+              ]
+            },
+            {
+              "text": "<0.01.",
+              "bbox": [
+                264,
+                676,
+                292,
+                688
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5835 @@
+{
+  "image_id": "img_177332",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        59,
+        580,
+        90
+      ],
+      "content": "The analysis of underwriting profit margins and catastrophe loss reserves is critical for understanding the financial health of insurance operations within Allianz SE.",
+      "lines": [
+        {
+          "text": "The analysis of underwriting profit margins and catastrophe loss reserves is critical for understanding the financial health of",
+          "bbox": [
+            15,
+            60,
+            580,
+            72
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                60,
+                32,
+                72
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                36,
+                60,
+                71,
+                72
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                75,
+                60,
+                85,
+                72
+              ]
+            },
+            {
+              "text": "underwriting",
+              "bbox": [
+                88,
+                60,
+                145,
+                72
+              ]
+            },
+            {
+              "text": "profit",
+              "bbox": [
+                149,
+                60,
+                174,
+                72
+              ]
+            },
+            {
+              "text": "margins",
+              "bbox": [
+                178,
+                60,
+                213,
+                72
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                217,
+                60,
+                233,
+                72
+              ]
+            },
+            {
+              "text": "catastrophe",
+              "bbox": [
+                237,
+                60,
+                287,
+                72
+              ]
+            },
+            {
+              "text": "loss",
+              "bbox": [
+                291,
+                60,
+                308,
+                72
+              ]
+            },
+            {
+              "text": "reserves",
+              "bbox": [
+                312,
+                60,
+                348,
+                72
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                352,
+                60,
+                359,
+                72
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                363,
+                60,
+                393,
+                72
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                397,
+                60,
+                410,
+                72
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                414,
+                60,
+                476,
+                72
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                480,
+                60,
+                494,
+                72
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                498,
+                60,
+                536,
+                72
+              ]
+            },
+            {
+              "text": "health",
+              "bbox": [
+                540,
+                60,
+                567,
+                72
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                60,
+                580,
+                72
+              ]
+            }
+          ]
+        },
+        {
+          "text": "insurance operations within Allianz SE.",
+          "bbox": [
+            15,
+            75,
+            189,
+            87
+          ],
+          "words": [
+            {
+              "text": "insurance",
+              "bbox": [
+                15,
+                75,
+                57,
+                87
+              ]
+            },
+            {
+              "text": "operations",
+              "bbox": [
+                60,
+                75,
+                106,
+                87
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                108,
+                75,
+                137,
+                87
+              ]
+            },
+            {
+              "text": "Allianz",
+              "bbox": [
+                139,
+                75,
+                171,
+                87
+              ]
+            },
+            {
+              "text": "SE.",
+              "bbox": [
+                174,
+                75,
+                189,
+                87
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_177332_t0",
+      "bbox": [
+        15,
+        110,
+        580,
+        328
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "Stain",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            110,
+            580,
+            145
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            145,
+            580,
+            180
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            180,
+            580,
+            215
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            215,
+            580,
+            236
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            236,
+            580,
+            271
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            271,
+            580,
+            306
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            306,
+            580,
+            327
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>InsuranceSegment</td><td>Premiums(€M)</td><td colspan=\"2\">Claims(€M)</td><td colspan=\"2\">Expenses(€M)</td></tr><tr><td>UnderwritingProfit(€M)</td><td colspan=\"2\">LossRatio(%)</td><td>ExpenseRatio(%)</td><td>CombinedRatio(%)</td><td colspan=\"2\">ReinsuranceSegment</td><td>Premiums(€M)</td></tr><tr><td>Claims(€M)</td><td>Expenses(€M)</td><td>UnderwritingProfit(€M)</td><td>LossRatio(%)</td><td>ExpenseRatio(%)</td><td>CombinedRatio(%)</td><td>InvestmentIncome(€M)</td><td>NetIncome(€M)</td></tr></thead><tbody><tr><td>LifeInsurance</td><td>700M</td><td>400M</td><td>150M</td><td>150M</td><td>57.1%</td><td>21.4%</td><td>78.5%</td></tr><tr><td>PropertyInsurance</td><td>500M</td><td>300M</td><td>100M</td><td>100M</td><td>60.0%</td><td>20.0%</td><td>80.0%</td></tr><tr><td>CasualtyInsurance</td><td>600M</td><td>350M</td><td>120M</td><td>130M</td><td>58.3%</td><td>20.0%</td><td>78.3%</td></tr><tr><td>OverallTotal</td><td>1800M</td><td>1050M</td><td>370M</td><td>380M</td><td>58.3%</td><td>20.6%</td><td>78.9%</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "InsuranceSegment",
+          "bbox": [
+            16,
+            110,
+            85,
+            145
+          ],
+          "words": [
+            {
+              "text": "InsuranceSegment",
+              "bbox": [
+                21,
+                115,
+                79,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Premiums(€M)",
+          "bbox": [
+            85,
+            110,
+            155,
+            145
+          ],
+          "words": [
+            {
+              "text": "Premiums(€M)",
+              "bbox": [
+                91,
+                115,
+                143,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Claims(€M)",
+          "bbox": [
+            155,
+            110,
+            295,
+            145
+          ],
+          "words": [
+            {
+              "text": "Claims(€M)",
+              "bbox": [
+                161,
+                115,
+                212,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Expenses(€M)",
+          "bbox": [
+            295,
+            110,
+            437,
+            145
+          ],
+          "words": [
+            {
+              "text": "Expenses(€M)",
+              "bbox": [
+                371,
+                115,
+                431,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "UnderwritingProfit(€M)",
+          "bbox": [
+            16,
+            145,
+            85,
+            180
+          ],
+          "words": [
+            {
+              "text": "UnderwritingProfit(€M)",
+              "bbox": [
+                21,
+                150,
+                79,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "LossRatio(%)",
+          "bbox": [
+            85,
+            145,
+            225,
+            180
+          ],
+          "words": [
+            {
+              "text": "LossRatio(%)",
+              "bbox": [
+                91,
+                150,
+                150,
+                161
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "ExpenseRatio(%)",
+          "bbox": [
+            225,
+            145,
+            295,
+            180
+          ],
+          "words": [
+            {
+              "text": "ExpenseRatio(%)",
+              "bbox": [
+                231,
+                150,
+                290,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "CombinedRatio(%)",
+          "bbox": [
+            295,
+            145,
+            365,
+            180
+          ],
+          "words": [
+            {
+              "text": "CombinedRatio(%)",
+              "bbox": [
+                303,
+                150,
+                360,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "ReinsuranceSegment",
+          "bbox": [
+            365,
+            145,
+            508,
+            180
+          ],
+          "words": [
+            {
+              "text": "ReinsuranceSegment",
+              "bbox": [
+                371,
+                150,
+                461,
+                161
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Premiums(€M)",
+          "bbox": [
+            508,
+            145,
+            580,
+            180
+          ],
+          "words": [
+            {
+              "text": "Premiums(€M)",
+              "bbox": [
+                522,
+                150,
+                574,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Claims(€M)",
+          "bbox": [
+            16,
+            180,
+            85,
+            215
+          ],
+          "words": [
+            {
+              "text": "Claims(€M)",
+              "bbox": [
+                21,
+                185,
+                72,
+                196
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Expenses(€M)",
+          "bbox": [
+            85,
+            180,
+            155,
+            215
+          ],
+          "words": [
+            {
+              "text": "Expenses(€M)",
+              "bbox": [
+                91,
+                185,
+                148,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "UnderwritingProfit(€M)",
+          "bbox": [
+            155,
+            180,
+            225,
+            215
+          ],
+          "words": [
+            {
+              "text": "UnderwritingProfit(€M)",
+              "bbox": [
+                161,
+                185,
+                219,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "LossRatio(%)",
+          "bbox": [
+            225,
+            180,
+            295,
+            215
+          ],
+          "words": [
+            {
+              "text": "LossRatio(%)",
+              "bbox": [
+                231,
+                185,
+                287,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ExpenseRatio(%)",
+          "bbox": [
+            295,
+            180,
+            365,
+            215
+          ],
+          "words": [
+            {
+              "text": "ExpenseRatio(%)",
+              "bbox": [
+                301,
+                185,
+                360,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "CombinedRatio(%)",
+          "bbox": [
+            365,
+            180,
+            437,
+            215
+          ],
+          "words": [
+            {
+              "text": "CombinedRatio(%)",
+              "bbox": [
+                371,
+                185,
+                431,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "InvestmentIncome(€M)",
+          "bbox": [
+            437,
+            180,
+            508,
+            215
+          ],
+          "words": [
+            {
+              "text": "InvestmentIncome(€M)",
+              "bbox": [
+                446,
+                185,
+                503,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome(€M)",
+          "bbox": [
+            508,
+            180,
+            580,
+            215
+          ],
+          "words": [
+            {
+              "text": "NetIncome(€M)",
+              "bbox": [
+                519,
+                185,
+                574,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "LifeInsurance",
+          "bbox": [
+            16,
+            215,
+            85,
+            236
+          ],
+          "words": [
+            {
+              "text": "LifeInsurance",
+              "bbox": [
+                21,
+                220,
+                77,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "700M",
+          "bbox": [
+            85,
+            215,
+            155,
+            236
+          ],
+          "words": [
+            {
+              "text": "700M",
+              "bbox": [
+                91,
+                220,
+                115,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "400M",
+          "bbox": [
+            155,
+            215,
+            225,
+            236
+          ],
+          "words": [
+            {
+              "text": "400M",
+              "bbox": [
+                161,
+                220,
+                185,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "150M",
+          "bbox": [
+            225,
+            215,
+            295,
+            236
+          ],
+          "words": [
+            {
+              "text": "150M",
+              "bbox": [
+                231,
+                220,
+                255,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "150M",
+          "bbox": [
+            295,
+            215,
+            365,
+            236
+          ],
+          "words": [
+            {
+              "text": "150M",
+              "bbox": [
+                336,
+                220,
+                360,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "57.1%",
+          "bbox": [
+            365,
+            215,
+            437,
+            236
+          ],
+          "words": [
+            {
+              "text": "57.1%",
+              "bbox": [
+                371,
+                220,
+                396,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "21.4%",
+          "bbox": [
+            437,
+            215,
+            508,
+            236
+          ],
+          "words": [
+            {
+              "text": "21.4%",
+              "bbox": [
+                477,
+                220,
+                503,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "78.5%",
+          "bbox": [
+            508,
+            215,
+            580,
+            236
+          ],
+          "words": [
+            {
+              "text": "78.5%",
+              "bbox": [
+                548,
+                220,
+                574,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PropertyInsurance",
+          "bbox": [
+            16,
+            236,
+            85,
+            271
+          ],
+          "words": [
+            {
+              "text": "PropertyInsurance",
+              "bbox": [
+                21,
+                241,
+                76,
+                266
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "500M",
+          "bbox": [
+            85,
+            236,
+            155,
+            271
+          ],
+          "words": [
+            {
+              "text": "500M",
+              "bbox": [
+                91,
+                241,
+                115,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "300M",
+          "bbox": [
+            155,
+            236,
+            225,
+            271
+          ],
+          "words": [
+            {
+              "text": "300M",
+              "bbox": [
+                161,
+                241,
+                185,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "100M",
+          "bbox": [
+            225,
+            236,
+            295,
+            271
+          ],
+          "words": [
+            {
+              "text": "100M",
+              "bbox": [
+                231,
+                241,
+                255,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "100M",
+          "bbox": [
+            295,
+            236,
+            365,
+            271
+          ],
+          "words": [
+            {
+              "text": "100M",
+              "bbox": [
+                336,
+                241,
+                360,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "60.0%",
+          "bbox": [
+            365,
+            236,
+            437,
+            271
+          ],
+          "words": [
+            {
+              "text": "60.0%",
+              "bbox": [
+                371,
+                241,
+                396,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0%",
+          "bbox": [
+            437,
+            236,
+            508,
+            271
+          ],
+          "words": [
+            {
+              "text": "20.0%",
+              "bbox": [
+                477,
+                241,
+                503,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "80.0%",
+          "bbox": [
+            508,
+            236,
+            580,
+            271
+          ],
+          "words": [
+            {
+              "text": "80.0%",
+              "bbox": [
+                548,
+                241,
+                574,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CasualtyInsurance",
+          "bbox": [
+            16,
+            271,
+            85,
+            306
+          ],
+          "words": [
+            {
+              "text": "CasualtyInsurance",
+              "bbox": [
+                21,
+                276,
+                77,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "600M",
+          "bbox": [
+            85,
+            271,
+            155,
+            306
+          ],
+          "words": [
+            {
+              "text": "600M",
+              "bbox": [
+                91,
+                276,
+                115,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "350M",
+          "bbox": [
+            155,
+            271,
+            225,
+            306
+          ],
+          "words": [
+            {
+              "text": "350M",
+              "bbox": [
+                161,
+                276,
+                185,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "120M",
+          "bbox": [
+            225,
+            271,
+            295,
+            306
+          ],
+          "words": [
+            {
+              "text": "120M",
+              "bbox": [
+                231,
+                276,
+                255,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "130M",
+          "bbox": [
+            295,
+            271,
+            365,
+            306
+          ],
+          "words": [
+            {
+              "text": "130M",
+              "bbox": [
+                336,
+                276,
+                360,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "58.3%",
+          "bbox": [
+            365,
+            271,
+            437,
+            306
+          ],
+          "words": [
+            {
+              "text": "58.3%",
+              "bbox": [
+                371,
+                276,
+                396,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0%",
+          "bbox": [
+            437,
+            271,
+            508,
+            306
+          ],
+          "words": [
+            {
+              "text": "20.0%",
+              "bbox": [
+                477,
+                276,
+                503,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "78.3%",
+          "bbox": [
+            508,
+            271,
+            580,
+            306
+          ],
+          "words": [
+            {
+              "text": "78.3%",
+              "bbox": [
+                548,
+                276,
+                574,
+                287
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "OverallTotal",
+          "bbox": [
+            16,
+            306,
+            85,
+            327
+          ],
+          "words": [
+            {
+              "text": "OverallTotal",
+              "bbox": [
+                21,
+                311,
+                71,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1800M",
+          "bbox": [
+            85,
+            306,
+            155,
+            327
+          ],
+          "words": [
+            {
+              "text": "1800M",
+              "bbox": [
+                91,
+                311,
+                120,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1050M",
+          "bbox": [
+            155,
+            306,
+            225,
+            327
+          ],
+          "words": [
+            {
+              "text": "1050M",
+              "bbox": [
+                161,
+                311,
+                190,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "370M",
+          "bbox": [
+            225,
+            306,
+            295,
+            327
+          ],
+          "words": [
+            {
+              "text": "370M",
+              "bbox": [
+                231,
+                311,
+                255,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "380M",
+          "bbox": [
+            295,
+            306,
+            365,
+            327
+          ],
+          "words": [
+            {
+              "text": "380M",
+              "bbox": [
+                336,
+                311,
+                360,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "58.3%",
+          "bbox": [
+            365,
+            306,
+            437,
+            327
+          ],
+          "words": [
+            {
+              "text": "58.3%",
+              "bbox": [
+                371,
+                311,
+                396,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "20.6%",
+          "bbox": [
+            437,
+            306,
+            508,
+            327
+          ],
+          "words": [
+            {
+              "text": "20.6%",
+              "bbox": [
+                477,
+                311,
+                503,
+                322
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "78.9%",
+          "bbox": [
+            508,
+            306,
+            580,
+            327
+          ],
+          "words": [
+            {
+              "text": "78.9%",
+              "bbox": [
+                548,
+                311,
+                574,
+                322
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        343,
+        580,
+        466
+      ],
+      "content": "The table provides a comprehensive overview of key metrics, including the Loss Ratio (%) and Combined Ratio (%), which are essential for assessing the efficiency of underwriting practices. Notably, the Life Insurance segment reported a Loss Ratio of 150M, indicating the proportion of claims relative to premiums earned, while the Casualty Insurance segment achieved a Combined Ratio of 58.3%, reflecting a positive performance in balancing claims and expenses against earned premiums. Furthermore, in the context of catastrophic events, the data reveals that the Property Insurance segment faced Claims(€M) totaling PropertyInsurance, underscoring the significant financial impact of natural disasters on the underwriting results. Specifically, the table highlights major peril events, such as hurricanes, where the Earthquake metric for Hurricane stands at 12.0, and the Tornado column indicates a metric of 40.5.",
+      "lines": [
+        {
+          "text": "The table provides a comprehensive overview of key metrics, including the Loss Ratio (%) and Combined Ratio (%), which are",
+          "bbox": [
+            15,
+            344,
+            580,
+            356
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                344,
+                32,
+                356
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                35,
+                344,
+                56,
+                356
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                59,
+                344,
+                97,
+                356
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                100,
+                344,
+                105,
+                356
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                108,
+                344,
+                174,
+                356
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                177,
+                344,
+                218,
+                356
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                221,
+                344,
+                230,
+                356
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                233,
+                344,
+                249,
+                356
+              ]
+            },
+            {
+              "text": "metrics,",
+              "bbox": [
+                252,
+                344,
+                287,
+                356
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                290,
+                344,
+                331,
+                356
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                334,
+                344,
+                348,
+                356
+              ]
+            },
+            {
+              "text": "Loss",
+              "bbox": [
+                351,
+                344,
+                371,
+                356
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                374,
+                344,
+                398,
+                356
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                401,
+                344,
+                418,
+                356
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                420,
+                344,
+                436,
+                356
+              ]
+            },
+            {
+              "text": "Combined",
+              "bbox": [
+                439,
+                344,
+                485,
+                356
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                488,
+                344,
+                512,
+                356
+              ]
+            },
+            {
+              "text": "(%),",
+              "bbox": [
+                515,
+                344,
+                534,
+                356
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                537,
+                344,
+                564,
+                356
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                567,
+                344,
+                580,
+                356
+              ]
+            }
+          ]
+        },
+        {
+          "text": "essential for assessing the efficiency of underwriting practices. Notably, the Life Insurance segment reported a Loss Ratio of",
+          "bbox": [
+            15,
+            359,
+            580,
+            371
+          ],
+          "words": [
+            {
+              "text": "essential",
+              "bbox": [
+                15,
+                359,
+                53,
+                371
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                57,
+                359,
+                70,
+                371
+              ]
+            },
+            {
+              "text": "assessing",
+              "bbox": [
+                73,
+                359,
+                114,
+                371
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                118,
+                359,
+                131,
+                371
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                135,
+                359,
+                179,
+                371
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                183,
+                359,
+                192,
+                371
+              ]
+            },
+            {
+              "text": "underwriting",
+              "bbox": [
+                196,
+                359,
+                253,
+                371
+              ]
+            },
+            {
+              "text": "practices.",
+              "bbox": [
+                256,
+                359,
+                298,
+                371
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                302,
+                359,
+                339,
+                371
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                343,
+                359,
+                357,
+                371
+              ]
+            },
+            {
+              "text": "Life",
+              "bbox": [
+                360,
+                359,
+                379,
+                371
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                383,
+                359,
+                425,
+                371
+              ]
+            },
+            {
+              "text": "segment",
+              "bbox": [
+                429,
+                359,
+                466,
+                371
+              ]
+            },
+            {
+              "text": "reported",
+              "bbox": [
+                470,
+                359,
+                506,
+                371
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                510,
+                359,
+                515,
+                371
+              ]
+            },
+            {
+              "text": "Loss",
+              "bbox": [
+                519,
+                359,
+                539,
+                371
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                543,
+                359,
+                567,
+                371
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                359,
+                580,
+                371
+              ]
+            }
+          ]
+        },
+        {
+          "text": "150M, indicating the proportion of claims relative to premiums earned, while the Casualty Insurance segment achieved a",
+          "bbox": [
+            15,
+            375,
+            580,
+            387
+          ],
+          "words": [
+            {
+              "text": "150M,",
+              "bbox": [
+                15,
+                375,
+                44,
+                387
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                49,
+                375,
+                93,
+                387
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                98,
+                375,
+                111,
+                387
+              ]
+            },
+            {
+              "text": "proportion",
+              "bbox": [
+                116,
+                375,
+                162,
+                387
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                167,
+                375,
+                176,
+                387
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                181,
+                375,
+                210,
+                387
+              ]
+            },
+            {
+              "text": "relative",
+              "bbox": [
+                215,
+                375,
+                248,
+                387
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                252,
+                375,
+                261,
+                387
+              ]
+            },
+            {
+              "text": "premiums",
+              "bbox": [
+                266,
+                375,
+                310,
+                387
+              ]
+            },
+            {
+              "text": "earned,",
+              "bbox": [
+                315,
+                375,
+                347,
+                387
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                351,
+                375,
+                376,
+                387
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                381,
+                375,
+                394,
+                387
+              ]
+            },
+            {
+              "text": "Casualty",
+              "bbox": [
+                399,
+                375,
+                437,
+                387
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                442,
+                375,
+                485,
+                387
+              ]
+            },
+            {
+              "text": "segment",
+              "bbox": [
+                490,
+                375,
+                526,
+                387
+              ]
+            },
+            {
+              "text": "achieved",
+              "bbox": [
+                531,
+                375,
+                570,
+                387
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                375,
+                580,
+                387
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Combined Ratio of 58.3%, reflecting a positive performance in balancing claims and expenses against earned premiums.",
+          "bbox": [
+            15,
+            390,
+            580,
+            402
+          ],
+          "words": [
+            {
+              "text": "Combined",
+              "bbox": [
+                15,
+                390,
+                61,
+                402
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                66,
+                390,
+                90,
+                402
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                95,
+                390,
+                104,
+                402
+              ]
+            },
+            {
+              "text": "58.3%,",
+              "bbox": [
+                109,
+                390,
+                140,
+                402
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                145,
+                390,
+                187,
+                402
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                192,
+                390,
+                197,
+                402
+              ]
+            },
+            {
+              "text": "positive",
+              "bbox": [
+                202,
+                390,
+                237,
+                402
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                242,
+                390,
+                297,
+                402
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                302,
+                390,
+                311,
+                402
+              ]
+            },
+            {
+              "text": "balancing",
+              "bbox": [
+                316,
+                390,
+                359,
+                402
+              ]
+            },
+            {
+              "text": "claims",
+              "bbox": [
+                364,
+                390,
+                392,
+                402
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                397,
+                390,
+                413,
+                402
+              ]
+            },
+            {
+              "text": "expenses",
+              "bbox": [
+                418,
+                390,
+                458,
+                402
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                463,
+                390,
+                494,
+                402
+              ]
+            },
+            {
+              "text": "earned",
+              "bbox": [
+                499,
+                390,
+                528,
+                402
+              ]
+            },
+            {
+              "text": "premiums.",
+              "bbox": [
+                533,
+                390,
+                580,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Furthermore, in the context of catastrophic events, the data reveals that the Property Insurance segment faced Claims(€M)",
+          "bbox": [
+            15,
+            405,
+            580,
+            417
+          ],
+          "words": [
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                15,
+                405,
+                73,
+                417
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                77,
+                405,
+                86,
+                417
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                90,
+                405,
+                104,
+                417
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                108,
+                405,
+                141,
+                417
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                145,
+                405,
+                154,
+                417
+              ]
+            },
+            {
+              "text": "catastrophic",
+              "bbox": [
+                159,
+                405,
+                212,
+                417
+              ]
+            },
+            {
+              "text": "events,",
+              "bbox": [
+                216,
+                405,
+                247,
+                417
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                252,
+                405,
+                265,
+                417
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                270,
+                405,
+                288,
+                417
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                293,
+                405,
+                324,
+                417
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                328,
+                405,
+                345,
+                417
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                349,
+                405,
+                363,
+                417
+              ]
+            },
+            {
+              "text": "Property",
+              "bbox": [
+                367,
+                405,
+                405,
+                417
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                409,
+                405,
+                452,
+                417
+              ]
+            },
+            {
+              "text": "segment",
+              "bbox": [
+                457,
+                405,
+                493,
+                417
+              ]
+            },
+            {
+              "text": "faced",
+              "bbox": [
+                498,
+                405,
+                522,
+                417
+              ]
+            },
+            {
+              "text": "Claims(€M)",
+              "bbox": [
+                526,
+                405,
+                580,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "text": "totaling PropertyInsurance, underscoring the significant financial impact of natural disasters on the underwriting results.",
+          "bbox": [
+            15,
+            421,
+            580,
+            433
+          ],
+          "words": [
+            {
+              "text": "totaling",
+              "bbox": [
+                15,
+                421,
+                49,
+                433
+              ]
+            },
+            {
+              "text": "PropertyInsurance,",
+              "bbox": [
+                54,
+                421,
+                138,
+                433
+              ]
+            },
+            {
+              "text": "underscoring",
+              "bbox": [
+                143,
+                421,
+                201,
+                433
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                206,
+                421,
+                219,
+                433
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                225,
+                421,
+                271,
+                433
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                277,
+                421,
+                315,
+                433
+              ]
+            },
+            {
+              "text": "impact",
+              "bbox": [
+                321,
+                421,
+                351,
+                433
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                356,
+                421,
+                366,
+                433
+              ]
+            },
+            {
+              "text": "natural",
+              "bbox": [
+                371,
+                421,
+                402,
+                433
+              ]
+            },
+            {
+              "text": "disasters",
+              "bbox": [
+                407,
+                421,
+                445,
+                433
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                451,
+                421,
+                462,
+                433
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                467,
+                421,
+                481,
+                433
+              ]
+            },
+            {
+              "text": "underwriting",
+              "bbox": [
+                486,
+                421,
+                543,
+                433
+              ]
+            },
+            {
+              "text": "results.",
+              "bbox": [
+                549,
+                421,
+                580,
+                433
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Specifically, the table highlights major peril events, such as hurricanes, where the Earthquake metric for Hurricane stands at",
+          "bbox": [
+            15,
+            436,
+            580,
+            448
+          ],
+          "words": [
+            {
+              "text": "Specifically,",
+              "bbox": [
+                15,
+                436,
+                70,
+                448
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                73,
+                436,
+                87,
+                448
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                91,
+                436,
+                112,
+                448
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                116,
+                436,
+                160,
+                448
+              ]
+            },
+            {
+              "text": "major",
+              "bbox": [
+                164,
+                436,
+                190,
+                448
+              ]
+            },
+            {
+              "text": "peril",
+              "bbox": [
+                194,
+                436,
+                214,
+                448
+              ]
+            },
+            {
+              "text": "events,",
+              "bbox": [
+                218,
+                436,
+                248,
+                448
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                252,
+                436,
+                273,
+                448
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                276,
+                436,
+                286,
+                448
+              ]
+            },
+            {
+              "text": "hurricanes,",
+              "bbox": [
+                289,
+                436,
+                338,
+                448
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                342,
+                436,
+                369,
+                448
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                373,
+                436,
+                386,
+                448
+              ]
+            },
+            {
+              "text": "Earthquake",
+              "bbox": [
+                390,
+                436,
+                440,
+                448
+              ]
+            },
+            {
+              "text": "metric",
+              "bbox": [
+                444,
+                436,
+                472,
+                448
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                476,
+                436,
+                489,
+                448
+              ]
+            },
+            {
+              "text": "Hurricane",
+              "bbox": [
+                493,
+                436,
+                537,
+                448
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                541,
+                436,
+                568,
+                448
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                572,
+                436,
+                580,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "text": "12.0, and the Tornado column indicates a metric of 40.5.",
+          "bbox": [
+            15,
+            452,
+            264,
+            464
+          ],
+          "words": [
+            {
+              "text": "12.0,",
+              "bbox": [
+                15,
+                452,
+                37,
+                464
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                40,
+                452,
+                56,
+                464
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                58,
+                452,
+                72,
+                464
+              ]
+            },
+            {
+              "text": "Tornado",
+              "bbox": [
+                74,
+                452,
+                111,
+                464
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                114,
+                452,
+                147,
+                464
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                149,
+                452,
+                188,
+                464
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                191,
+                452,
+                196,
+                464
+              ]
+            },
+            {
+              "text": "metric",
+              "bbox": [
+                199,
+                452,
+                227,
+                464
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                230,
+                452,
+                239,
+                464
+              ]
+            },
+            {
+              "text": "40.5.",
+              "bbox": [
+                242,
+                452,
+                264,
+                464
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_177332_t1",
+      "bbox": [
+        15,
+        486,
+        580,
+        711
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "Stain",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            486,
+            580,
+            534
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            534,
+            580,
+            582
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            582,
+            580,
+            603
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            603,
+            580,
+            637
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            637,
+            580,
+            657
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            657,
+            580,
+            677
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            677,
+            580,
+            711
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Category</td><td>ClaimAmount(€M)</td><td>ReserveAmount(€M)</td><td>PaidClaims(€M)</td><td>OutstandingClaims(€M)</td><td>LossRatio(%)</td><td>ReinsuranceRecovery(€M)</td><td colspan=\"3\">CatastropheEvents</td><td>Total(€M)</td></tr><tr><td>NaturalDisasters</td><td>Flood</td><td>Earthquake</td><td>Storm</td><td>Wildfire</td><td>Tornado</td><td>Hurricane</td><td>Man-MadeEvents</td><td>Terrorism</td><td>CivilUnrest</td><td>Total(€M)</td></tr></thead><tbody><tr><td>2023</td><td>75.5</td><td>30.0</td><td>25.0</td><td>45.5</td><td>40.5</td><td>10.0</td><td>Flood</td><td>12.5</td><td>5.0</td><td>7.5</td></tr><tr><td>Earthquake</td><td>20.0</td><td>15.0</td><td>5.0</td><td>25.0</td><td>22.0</td><td>3.0</td><td>Storm</td><td>30.0</td><td>20.0</td><td>10.0</td></tr><tr><td>Wildfire</td><td>8.0</td><td>2.0</td><td>6.0</td><td>9.0</td><td>8.5</td><td>0.5</td><td>Tornado</td><td>2.5</td><td>1.0</td><td>1.5</td></tr><tr><td>Hurricane</td><td>18.0</td><td>12.0</td><td>6.0</td><td>15.0</td><td>14.0</td><td>1.0</td><td>Terrorism</td><td>5.0</td><td>2.0</td><td>3.0</td></tr><tr><td>CivilUnrest</td><td>3.0</td><td>1.5</td><td>1.5</td><td>3.5</td><td>3.0</td><td>0.5</td><td>TotalClaims(€M)</td><td>150.0</td><td>100.0</td><td>50.0</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Category",
+          "bbox": [
+            15,
+            486,
+            68,
+            534
+          ],
+          "words": [
+            {
+              "text": "Category",
+              "bbox": [
+                20,
+                490,
+                59,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ClaimAmount(€M)",
+          "bbox": [
+            68,
+            486,
+            120,
+            534
+          ],
+          "words": [
+            {
+              "text": "ClaimAmount(€M)",
+              "bbox": [
+                73,
+                490,
+                114,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ReserveAmount(€M)",
+          "bbox": [
+            120,
+            486,
+            173,
+            534
+          ],
+          "words": [
+            {
+              "text": "ReserveAmount(€M)",
+              "bbox": [
+                125,
+                490,
+                166,
+                529
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "PaidClaims(€M)",
+          "bbox": [
+            173,
+            486,
+            225,
+            534
+          ],
+          "words": [
+            {
+              "text": "PaidClaims(€M)",
+              "bbox": [
+                183,
+                490,
+                220,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "OutstandingClaims(€M)",
+          "bbox": [
+            225,
+            486,
+            276,
+            534
+          ],
+          "words": [
+            {
+              "text": "OutstandingClaims(€M)",
+              "bbox": [
+                230,
+                490,
+                270,
+                529
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "LossRatio(%)",
+          "bbox": [
+            276,
+            486,
+            327,
+            534
+          ],
+          "words": [
+            {
+              "text": "LossRatio(%)",
+              "bbox": [
+                284,
+                490,
+                322,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "ReinsuranceRecovery(€M)",
+          "bbox": [
+            327,
+            486,
+            378,
+            534
+          ],
+          "words": [
+            {
+              "text": "ReinsuranceRecovery(€M)",
+              "bbox": [
+                332,
+                490,
+                373,
+                529
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7,
+            8,
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "CatastropheEvents",
+          "bbox": [
+            378,
+            486,
+            530,
+            534
+          ],
+          "words": [
+            {
+              "text": "CatastropheEvents",
+              "bbox": [
+                444,
+                490,
+                525,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "Total(€M)",
+          "bbox": [
+            530,
+            486,
+            580,
+            534
+          ],
+          "words": [
+            {
+              "text": "Total(€M)",
+              "bbox": [
+                535,
+                490,
+                575,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "NaturalDisasters",
+          "bbox": [
+            15,
+            534,
+            68,
+            582
+          ],
+          "words": [
+            {
+              "text": "NaturalDisasters",
+              "bbox": [
+                20,
+                538,
+                61,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Flood",
+          "bbox": [
+            68,
+            534,
+            120,
+            582
+          ],
+          "words": [
+            {
+              "text": "Flood",
+              "bbox": [
+                73,
+                538,
+                97,
+                549
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Earthquake",
+          "bbox": [
+            120,
+            534,
+            173,
+            582
+          ],
+          "words": [
+            {
+              "text": "Earthquake",
+              "bbox": [
+                125,
+                538,
+                166,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Storm",
+          "bbox": [
+            173,
+            534,
+            225,
+            582
+          ],
+          "words": [
+            {
+              "text": "Storm",
+              "bbox": [
+                193,
+                538,
+                220,
+                549
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Wildfire",
+          "bbox": [
+            225,
+            534,
+            276,
+            582
+          ],
+          "words": [
+            {
+              "text": "Wildfire",
+              "bbox": [
+                230,
+                538,
+                266,
+                549
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Tornado",
+          "bbox": [
+            276,
+            534,
+            327,
+            582
+          ],
+          "words": [
+            {
+              "text": "Tornado",
+              "bbox": [
+                285,
+                538,
+                322,
+                549
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Hurricane",
+          "bbox": [
+            327,
+            534,
+            378,
+            582
+          ],
+          "words": [
+            {
+              "text": "Hurricane",
+              "bbox": [
+                333,
+                538,
+                373,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Man-MadeEvents",
+          "bbox": [
+            378,
+            534,
+            429,
+            582
+          ],
+          "words": [
+            {
+              "text": "Man-MadeEvents",
+              "bbox": [
+                383,
+                538,
+                424,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Terrorism",
+          "bbox": [
+            429,
+            534,
+            479,
+            582
+          ],
+          "words": [
+            {
+              "text": "Terrorism",
+              "bbox": [
+                439,
+                538,
+                474,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "CivilUnrest",
+          "bbox": [
+            479,
+            534,
+            530,
+            582
+          ],
+          "words": [
+            {
+              "text": "CivilUnrest",
+              "bbox": [
+                487,
+                538,
+                525,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "Total(€M)",
+          "bbox": [
+            530,
+            534,
+            580,
+            582
+          ],
+          "words": [
+            {
+              "text": "Total(€M)",
+              "bbox": [
+                535,
+                538,
+                575,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2023",
+          "bbox": [
+            15,
+            582,
+            68,
+            603
+          ],
+          "words": [
+            {
+              "text": "2023",
+              "bbox": [
+                20,
+                587,
+                40,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "75.5",
+          "bbox": [
+            68,
+            582,
+            120,
+            603
+          ],
+          "words": [
+            {
+              "text": "75.5",
+              "bbox": [
+                73,
+                587,
+                90,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            120,
+            582,
+            173,
+            603
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                125,
+                587,
+                143,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            173,
+            582,
+            225,
+            603
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                203,
+                587,
+                220,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "45.5",
+          "bbox": [
+            225,
+            582,
+            276,
+            603
+          ],
+          "words": [
+            {
+              "text": "45.5",
+              "bbox": [
+                230,
+                587,
+                248,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "40.5",
+          "bbox": [
+            276,
+            582,
+            327,
+            603
+          ],
+          "words": [
+            {
+              "text": "40.5",
+              "bbox": [
+                304,
+                587,
+                322,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            327,
+            582,
+            378,
+            603
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                355,
+                587,
+                373,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "Flood",
+          "bbox": [
+            378,
+            582,
+            429,
+            603
+          ],
+          "words": [
+            {
+              "text": "Flood",
+              "bbox": [
+                400,
+                587,
+                424,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5",
+          "bbox": [
+            429,
+            582,
+            479,
+            603
+          ],
+          "words": [
+            {
+              "text": "12.5",
+              "bbox": [
+                457,
+                587,
+                474,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            479,
+            582,
+            530,
+            603
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                513,
+                587,
+                525,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "7.5",
+          "bbox": [
+            530,
+            582,
+            580,
+            603
+          ],
+          "words": [
+            {
+              "text": "7.5",
+              "bbox": [
+                563,
+                587,
+                575,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Earthquake",
+          "bbox": [
+            15,
+            603,
+            68,
+            637
+          ],
+          "words": [
+            {
+              "text": "Earthquake",
+              "bbox": [
+                20,
+                607,
+                61,
+                632
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            68,
+            603,
+            120,
+            637
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                73,
+                607,
+                90,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            120,
+            603,
+            173,
+            637
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                125,
+                607,
+                143,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            173,
+            603,
+            225,
+            637
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                208,
+                607,
+                220,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            225,
+            603,
+            276,
+            637
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                230,
+                607,
+                248,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "22.0",
+          "bbox": [
+            276,
+            603,
+            327,
+            637
+          ],
+          "words": [
+            {
+              "text": "22.0",
+              "bbox": [
+                304,
+                607,
+                322,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0",
+          "bbox": [
+            327,
+            603,
+            378,
+            637
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                360,
+                607,
+                373,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "Storm",
+          "bbox": [
+            378,
+            603,
+            429,
+            637
+          ],
+          "words": [
+            {
+              "text": "Storm",
+              "bbox": [
+                399,
+                607,
+                424,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            429,
+            603,
+            479,
+            637
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                457,
+                607,
+                474,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            479,
+            603,
+            530,
+            637
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                508,
+                607,
+                525,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            530,
+            603,
+            580,
+            637
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                558,
+                607,
+                575,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Wildfire",
+          "bbox": [
+            15,
+            637,
+            68,
+            657
+          ],
+          "words": [
+            {
+              "text": "Wildfire",
+              "bbox": [
+                20,
+                641,
+                53,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "8.0",
+          "bbox": [
+            68,
+            637,
+            120,
+            657
+          ],
+          "words": [
+            {
+              "text": "8.0",
+              "bbox": [
+                73,
+                641,
+                85,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            120,
+            637,
+            173,
+            657
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                125,
+                641,
+                138,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6.0",
+          "bbox": [
+            173,
+            637,
+            225,
+            657
+          ],
+          "words": [
+            {
+              "text": "6.0",
+              "bbox": [
+                208,
+                641,
+                220,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "9.0",
+          "bbox": [
+            225,
+            637,
+            276,
+            657
+          ],
+          "words": [
+            {
+              "text": "9.0",
+              "bbox": [
+                230,
+                641,
+                243,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "8.5",
+          "bbox": [
+            276,
+            637,
+            327,
+            657
+          ],
+          "words": [
+            {
+              "text": "8.5",
+              "bbox": [
+                309,
+                641,
+                322,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.5",
+          "bbox": [
+            327,
+            637,
+            378,
+            657
+          ],
+          "words": [
+            {
+              "text": "0.5",
+              "bbox": [
+                360,
+                641,
+                373,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "Tornado",
+          "bbox": [
+            378,
+            637,
+            429,
+            657
+          ],
+          "words": [
+            {
+              "text": "Tornado",
+              "bbox": [
+                390,
+                641,
+                424,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "2.5",
+          "bbox": [
+            429,
+            637,
+            479,
+            657
+          ],
+          "words": [
+            {
+              "text": "2.5",
+              "bbox": [
+                462,
+                641,
+                474,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "1.0",
+          "bbox": [
+            479,
+            637,
+            530,
+            657
+          ],
+          "words": [
+            {
+              "text": "1.0",
+              "bbox": [
+                513,
+                641,
+                525,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            530,
+            637,
+            580,
+            657
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                563,
+                641,
+                575,
+                652
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Hurricane",
+          "bbox": [
+            15,
+            657,
+            68,
+            677
+          ],
+          "words": [
+            {
+              "text": "Hurricane",
+              "bbox": [
+                20,
+                661,
+                60,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "18.0",
+          "bbox": [
+            68,
+            657,
+            120,
+            677
+          ],
+          "words": [
+            {
+              "text": "18.0",
+              "bbox": [
+                73,
+                661,
+                90,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "12.0",
+          "bbox": [
+            120,
+            657,
+            173,
+            677
+          ],
+          "words": [
+            {
+              "text": "12.0",
+              "bbox": [
+                125,
+                661,
+                143,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6.0",
+          "bbox": [
+            173,
+            657,
+            225,
+            677
+          ],
+          "words": [
+            {
+              "text": "6.0",
+              "bbox": [
+                208,
+                661,
+                220,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            225,
+            657,
+            276,
+            677
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                230,
+                661,
+                248,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "14.0",
+          "bbox": [
+            276,
+            657,
+            327,
+            677
+          ],
+          "words": [
+            {
+              "text": "14.0",
+              "bbox": [
+                304,
+                661,
+                322,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.0",
+          "bbox": [
+            327,
+            657,
+            378,
+            677
+          ],
+          "words": [
+            {
+              "text": "1.0",
+              "bbox": [
+                360,
+                661,
+                373,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "Terrorism",
+          "bbox": [
+            378,
+            657,
+            429,
+            677
+          ],
+          "words": [
+            {
+              "text": "Terrorism",
+              "bbox": [
+                384,
+                661,
+                424,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            429,
+            657,
+            479,
+            677
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                462,
+                661,
+                474,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            479,
+            657,
+            530,
+            677
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                513,
+                661,
+                525,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0",
+          "bbox": [
+            530,
+            657,
+            580,
+            677
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                563,
+                661,
+                575,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CivilUnrest",
+          "bbox": [
+            15,
+            677,
+            68,
+            711
+          ],
+          "words": [
+            {
+              "text": "CivilUnrest",
+              "bbox": [
+                20,
+                681,
+                60,
+                706
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0",
+          "bbox": [
+            68,
+            677,
+            120,
+            711
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                73,
+                681,
+                85,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            120,
+            677,
+            173,
+            711
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                125,
+                681,
+                138,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            173,
+            677,
+            225,
+            711
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                208,
+                681,
+                220,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.5",
+          "bbox": [
+            225,
+            677,
+            276,
+            711
+          ],
+          "words": [
+            {
+              "text": "3.5",
+              "bbox": [
+                230,
+                681,
+                243,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0",
+          "bbox": [
+            276,
+            677,
+            327,
+            711
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                309,
+                681,
+                322,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.5",
+          "bbox": [
+            327,
+            677,
+            378,
+            711
+          ],
+          "words": [
+            {
+              "text": "0.5",
+              "bbox": [
+                360,
+                681,
+                373,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 71,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalClaims(€M)",
+          "bbox": [
+            378,
+            677,
+            429,
+            711
+          ],
+          "words": [
+            {
+              "text": "TotalClaims(€M)",
+              "bbox": [
+                386,
+                681,
+                424,
+                706
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 72,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "150.0",
+          "bbox": [
+            429,
+            677,
+            479,
+            711
+          ],
+          "words": [
+            {
+              "text": "150.0",
+              "bbox": [
+                452,
+                681,
+                474,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 73,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "100.0",
+          "bbox": [
+            479,
+            677,
+            530,
+            711
+          ],
+          "words": [
+            {
+              "text": "100.0",
+              "bbox": [
+                503,
+                681,
+                525,
+                692
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 74,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "50.0",
+          "bbox": [
+            530,
+            677,
+            580,
+            711
+          ],
+          "words": [
+            {
+              "text": "50.0",
+              "bbox": [
+                558,
+                681,
+                575,
+                692
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        726,
+        580,
+        772
+      ],
+      "content": "Additionally, the Civil Unrest category shows a Hurricane value of 0.5, emphasizing the diverse range of risks that insurers must manage. Overall, these insights provide a nuanced understanding of how Allianz SE navigates the complexities of the insurance landscape amid increasing exposure to natural disasters and evolving market conditions.",
+      "lines": [
+        {
+          "text": "Additionally, the Civil Unrest category shows a Hurricane value of 0.5, emphasizing the diverse range of risks that insurers",
+          "bbox": [
+            15,
+            727,
+            580,
+            739
+          ],
+          "words": [
+            {
+              "text": "Additionally,",
+              "bbox": [
+                15,
+                727,
+                73,
+                739
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                77,
+                727,
+                90,
+                739
+              ]
+            },
+            {
+              "text": "Civil",
+              "bbox": [
+                94,
+                727,
+                116,
+                739
+              ]
+            },
+            {
+              "text": "Unrest",
+              "bbox": [
+                120,
+                727,
+                149,
+                739
+              ]
+            },
+            {
+              "text": "category",
+              "bbox": [
+                153,
+                727,
+                191,
+                739
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                195,
+                727,
+                223,
+                739
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                227,
+                727,
+                232,
+                739
+              ]
+            },
+            {
+              "text": "Hurricane",
+              "bbox": [
+                236,
+                727,
+                280,
+                739
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                284,
+                727,
+                308,
+                739
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                312,
+                727,
+                321,
+                739
+              ]
+            },
+            {
+              "text": "0.5,",
+              "bbox": [
+                325,
+                727,
+                341,
+                739
+              ]
+            },
+            {
+              "text": "emphasizing",
+              "bbox": [
+                345,
+                727,
+                401,
+                739
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                405,
+                727,
+                418,
+                739
+              ]
+            },
+            {
+              "text": "diverse",
+              "bbox": [
+                422,
+                727,
+                454,
+                739
+              ]
+            },
+            {
+              "text": "range",
+              "bbox": [
+                458,
+                727,
+                483,
+                739
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                487,
+                727,
+                496,
+                739
+              ]
+            },
+            {
+              "text": "risks",
+              "bbox": [
+                500,
+                727,
+                521,
+                739
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                525,
+                727,
+                541,
+                739
+              ]
+            },
+            {
+              "text": "insurers",
+              "bbox": [
+                545,
+                727,
+                580,
+                739
+              ]
+            }
+          ]
+        },
+        {
+          "text": "must manage. Overall, these insights provide a nuanced understanding of how Allianz SE navigates the complexities of the",
+          "bbox": [
+            15,
+            742,
+            580,
+            754
+          ],
+          "words": [
+            {
+              "text": "must",
+              "bbox": [
+                15,
+                742,
+                36,
+                754
+              ]
+            },
+            {
+              "text": "manage.",
+              "bbox": [
+                41,
+                742,
+                77,
+                754
+              ]
+            },
+            {
+              "text": "Overall,",
+              "bbox": [
+                82,
+                742,
+                117,
+                754
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                121,
+                742,
+                144,
+                754
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                148,
+                742,
+                182,
+                754
+              ]
+            },
+            {
+              "text": "provide",
+              "bbox": [
+                187,
+                742,
+                220,
+                754
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                224,
+                742,
+                229,
+                754
+              ]
+            },
+            {
+              "text": "nuanced",
+              "bbox": [
+                233,
+                742,
+                270,
+                754
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                274,
+                742,
+                336,
+                754
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                340,
+                742,
+                350,
+                754
+              ]
+            },
+            {
+              "text": "how",
+              "bbox": [
+                354,
+                742,
+                373,
+                754
+              ]
+            },
+            {
+              "text": "Allianz",
+              "bbox": [
+                376,
+                742,
+                409,
+                754
+              ]
+            },
+            {
+              "text": "SE",
+              "bbox": [
+                413,
+                742,
+                426,
+                754
+              ]
+            },
+            {
+              "text": "navigates",
+              "bbox": [
+                430,
+                742,
+                471,
+                754
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                475,
+                742,
+                489,
+                754
+              ]
+            },
+            {
+              "text": "complexities",
+              "bbox": [
+                493,
+                742,
+                549,
+                754
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                553,
+                742,
+                562,
+                754
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                742,
+                580,
+                754
+              ]
+            }
+          ]
+        },
+        {
+          "text": "insurance landscape amid increasing exposure to natural disasters and evolving market conditions.",
+          "bbox": [
+            15,
+            758,
+            448,
+            770
+          ],
+          "words": [
+            {
+              "text": "insurance",
+              "bbox": [
+                15,
+                758,
+                57,
+                770
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                60,
+                758,
+                103,
+                770
+              ]
+            },
+            {
+              "text": "amid",
+              "bbox": [
+                106,
+                758,
+                128,
+                770
+              ]
+            },
+            {
+              "text": "increasing",
+              "bbox": [
+                131,
+                758,
+                176,
+                770
+              ]
+            },
+            {
+              "text": "exposure",
+              "bbox": [
+                179,
+                758,
+                218,
+                770
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                221,
+                758,
+                230,
+                770
+              ]
+            },
+            {
+              "text": "natural",
+              "bbox": [
+                232,
+                758,
+                263,
+                770
+              ]
+            },
+            {
+              "text": "disasters",
+              "bbox": [
+                266,
+                758,
+                304,
+                770
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                306,
+                758,
+                322,
+                770
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                325,
+                758,
+                364,
+                770
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                366,
+                758,
+                397,
+                770
+              ]
+            },
+            {
+              "text": "conditions.",
+              "bbox": [
+                400,
+                758,
+                448,
+                770
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "degradation": {
+    "type": "Stain",
+    "affected_cells": [
+      {
+        "table_id": "img_177332_t0",
+        "cell_indices": [
+          21,
+          26,
+          39
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 21,
+            "text": "150M",
+            "header": "LossRatio(%)",
+            "row_label": "LifeInsurance",
+            "bbox": [
+              225,
+              215,
+              295,
+              236
+            ]
+          },
+          {
+            "cell_idx": 26,
+            "text": "PropertyInsurance",
+            "header": "Claims(€M)",
+            "row_label": "PropertyInsurance",
+            "bbox": [
+              16,
+              236,
+              85,
+              271
+            ]
+          },
+          {
+            "cell_idx": 39,
+            "text": "58.3%",
+            "header": "CombinedRatio(%)",
+            "row_label": "CasualtyInsurance",
+            "bbox": [
+              365,
+              271,
+              437,
+              306
+            ]
+          }
+        ]
+      },
+      {
+        "table_id": "img_177332_t1",
+        "cell_indices": [
+          55,
+          70,
+          53,
+          25
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 55,
+            "text": "12.0",
+            "header": "Earthquake",
+            "row_label": "Hurricane",
+            "bbox": [
+              120,
+              657,
+              173,
+              677
+            ]
+          },
+          {
+            "cell_idx": 70,
+            "text": "0.5",
+            "header": "Hurricane",
+            "row_label": "CivilUnrest",
+            "bbox": [
+              327,
+              677,
+              378,
+              711
+            ]
+          },
+          {
+            "cell_idx": 53,
+            "text": "Hurricane",
+            "header": "NaturalDisasters",
+            "row_label": "Hurricane",
+            "bbox": [
+              15,
+              657,
+              68,
+              677
+            ]
+          },
+          {
+            "cell_idx": 25,
+            "text": "40.5",
+            "header": "Tornado",
+            "row_label": "",
+            "bbox": [
+              276,
+              582,
+              327,
+              603
+            ]
+          }
+        ]
+      }
+    ],
+    "released_cells": [
+      {
+        "table_idx": 0,
+        "cell_idx": 49,
+        "text": "78.9%",
+        "header": "NetIncome(€M)",
+        "row_label": "OverallTotal"
+      },
+      {
+        "table_idx": 0,
+        "cell_idx": 32,
+        "text": "20.0%",
+        "header": "InvestmentIncome(€M)",
+        "row_label": "PropertyInsurance"
+      },
+      {
+        "table_idx": 1,
+        "cell_idx": 42,
+        "text": "Wildfire",
+        "header": "NaturalDisasters",
+        "row_label": "Wildfire"
+      },
+      {
+        "table_idx": 1,
+        "cell_idx": 39,
+        "text": "30.0",
+        "header": "Terrorism",
+        "row_label": "Earthquake"
+      }
+    ]
+  }
+}

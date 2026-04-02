@@ -1,0 +1,216 @@
+{
+  "image_id": "img_033604",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In the evaluation of predictive accuracy across various models, the table presents a comprehensive comparison of three distinct",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "modeling approaches: Model 1, Model 2, and Model 3. Each model is assessed based on critical metrics, including the Mean",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "Absolute Percentage Error of the sum (MAPSEsum) and the Cumulative Average Monthly Mean Forecasting Score",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "(CAMMFS).",
+      "bbox": [
+        15,
+        97,
+        72,
+        109
+      ]
+    },
+    {
+      "text": "Parameters and statistics  Model 1  Model 2  Model 3",
+      "bbox": [
+        15,
+        127,
+        580,
+        148
+      ]
+    },
+    {
+      "text": "Predictor  MAPSEsum  CAMMFS  LWFS",
+      "bbox": [
+        15,
+        148,
+        580,
+        169
+      ]
+    },
+    {
+      "text": "Intercept (bo)  -0.618 ± 1.315  0.212 ± 1.124  -0.737 ± 0.999",
+      "bbox": [
+        15,
+        169,
+        580,
+        189
+      ]
+    },
+    {
+      "text": "(P = 0.640)  (P = 0.851)  (P = 0.822)",
+      "bbox": [
+        15,
+        189,
+        580,
+        209
+      ]
+    },
+    {
+      "text": "Slope (b1)  0.628 ± 0.056  1.052 ± 0.084  1.180 ± 0.078",
+      "bbox": [
+        15,
+        209,
+        580,
+        229
+      ]
+    },
+    {
+      "text": "(P < 0.001)  (P < 0.001)  (P < 0.001)",
+      "bbox": [
+        15,
+        229,
+        580,
+        249
+      ]
+    },
+    {
+      "text": "R2  0.7266  0.7665  0.8257",
+      "bbox": [
+        15,
+        249,
+        580,
+        269
+      ]
+    },
+    {
+      "text": "MSE (dispersion)  9.34  7.98  5.95",
+      "bbox": [
+        15,
+        269,
+        580,
+        289
+      ]
+    },
+    {
+      "text": "GoF test* (P value)",
+      "bbox": [
+        15,
+        289,
+        580,
+        309
+      ]
+    },
+    {
+      "text": "Δdeviance (χ2 test)  <0.001  <0.001  <0.001",
+      "bbox": [
+        15,
+        309,
+        580,
+        329
+      ]
+    },
+    {
+      "text": "HL test  >0.99  >0.99  >0.99",
+      "bbox": [
+        15,
+        329,
+        580,
+        349
+      ]
+    },
+    {
+      "text": "The MAPSEsum serves as a crucial indicator of the models' overall performance, highlighting the percentage deviation of",
+      "bbox": [
+        15,
+        366,
+        580,
+        378
+      ]
+    },
+    {
+      "text": "predicted values from actual observations, thereby allowing for a straightforward interpretation of forecasting accuracy.",
+      "bbox": [
+        15,
+        381,
+        580,
+        393
+      ]
+    },
+    {
+      "text": "Conversely, the CAMMFS provides insights into the models' effectiveness over time, evaluating their ability to consistently",
+      "bbox": [
+        15,
+        396,
+        580,
+        408
+      ]
+    },
+    {
+      "text": "deliver reliable forecasts on a monthly basis. By analyzing these metrics, stakeholders can discern the relative strengths and",
+      "bbox": [
+        15,
+        412,
+        580,
+        424
+      ]
+    },
+    {
+      "text": "weaknesses of each model, facilitating informed decisions regarding their application in real-world scenarios. Furthermore, the",
+      "bbox": [
+        15,
+        427,
+        580,
+        439
+      ]
+    },
+    {
+      "text": "inclusion of additional parameters, such as the Last Week Forecast Score (LWFS), enhances the robustness of this comparative",
+      "bbox": [
+        15,
+        443,
+        580,
+        455
+      ]
+    },
+    {
+      "text": "analysis, offering a multidimensional view of predictive capabilities. This data-driven approach underscores the importance of",
+      "bbox": [
+        15,
+        458,
+        580,
+        470
+      ]
+    },
+    {
+      "text": "tailored modeling strategies in achieving optimal forecasting outcomes in complex environments.",
+      "bbox": [
+        15,
+        473,
+        444,
+        485
+      ]
+    }
+  ]
+}

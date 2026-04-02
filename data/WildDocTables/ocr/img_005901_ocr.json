@@ -1,0 +1,288 @@
+{
+  "image_id": "img_005901",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In the ongoing assessment of predictive modeling techniques for classification tasks, the efficacy of various methods is critical",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "to achieving optimal outcomes. The data presented in Table 1 illustrates several key performance metrics, including the Area",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "Under the Curve (AUC) and True Positive Rate (TPR) at different thresholds, which are essential for evaluating model",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "performance. The AUC value serves as a comprehensive measure of a model's ability to discriminate between positive and",
+      "bbox": [
+        15,
+        97,
+        580,
+        109
+      ]
+    },
+    {
+      "text": "negative classes across various decision thresholds.",
+      "bbox": [
+        15,
+        113,
+        241,
+        125
+      ]
+    },
+    {
+      "text": "Seq. Similarity  Pos/Neg(% Pos)  Method  AUC  TPR-0  TPR-1%  TPR-5%",
+      "bbox": [
+        15,
+        142,
+        580,
+        163
+      ]
+    },
+    {
+      "text": "P  0.82  9.77  24.71  40.23",
+      "bbox": [
+        15,
+        163,
+        580,
+        184
+      ]
+    },
+    {
+      "text": "PS  0.89  25.86  54.02  66.67",
+      "bbox": [
+        15,
+        184,
+        580,
+        204
+      ]
+    },
+    {
+      "text": "50%  174/1656 (10%)  PF  0.80  9.77  17.82  35.63",
+      "bbox": [
+        15,
+        204,
+        580,
+        224
+      ]
+    },
+    {
+      "text": "BLAST  0.88  15.52  64.37  73.56",
+      "bbox": [
+        15,
+        224,
+        580,
+        244
+      ]
+    },
+    {
+      "text": "PH  0.83  5.75  17.82  47.70",
+      "bbox": [
+        15,
+        244,
+        580,
+        264
+      ]
+    },
+    {
+      "text": "PSH  0.89  1.72  25.29  64.94",
+      "bbox": [
+        15,
+        264,
+        580,
+        284
+      ]
+    },
+    {
+      "text": "P  0.92  16.92  55.64  71.05",
+      "bbox": [
+        15,
+        284,
+        580,
+        304
+      ]
+    },
+    {
+      "text": "PS  0.94  27.44  69.92  77.82",
+      "bbox": [
+        15,
+        304,
+        580,
+        324
+      ]
+    },
+    {
+      "text": "90%  266/4379 (6%)  PF  0.90  27.44  46.62  67.29",
+      "bbox": [
+        15,
+        324,
+        580,
+        344
+      ]
+    },
+    {
+      "text": "BLAST  0.92  13.53  76.69  83.08",
+      "bbox": [
+        15,
+        344,
+        580,
+        364
+      ]
+    },
+    {
+      "text": "PH  0.89  0.38  19.92  40.23",
+      "bbox": [
+        15,
+        364,
+        580,
+        384
+      ]
+    },
+    {
+      "text": "PSH  0.93  7.14  34.59  67.67",
+      "bbox": [
+        15,
+        384,
+        580,
+        404
+      ]
+    },
+    {
+      "text": "P  0.94  26.65  63.19  75.82",
+      "bbox": [
+        15,
+        404,
+        580,
+        424
+      ]
+    },
+    {
+      "text": "PS  0.94  34.62  73.90  83.24",
+      "bbox": [
+        15,
+        424,
+        580,
+        444
+      ]
+    },
+    {
+      "text": "0%  364/6983 (5%)  PF  0.91  26.65  58.24  69.51",
+      "bbox": [
+        15,
+        444,
+        580,
+        464
+      ]
+    },
+    {
+      "text": "BLAST  0.93  0.00  78.30  86.81",
+      "bbox": [
+        15,
+        464,
+        580,
+        484
+      ]
+    },
+    {
+      "text": "PH  0.87  2.47  10.71  29.12",
+      "bbox": [
+        15,
+        484,
+        580,
+        504
+      ]
+    },
+    {
+      "text": "PSH  0.93  2.75  29.12  60.71",
+      "bbox": [
+        15,
+        504,
+        580,
+        524
+      ]
+    },
+    {
+      "text": "In the context of this analysis, a higher AUC indicates superior predictive capability.\n\nAdditionally, the True Positive Rate",
+      "bbox": [
+        15,
+        541,
+        580,
+        553
+      ]
+    },
+    {
+      "text": "metrics, specifically TPR-0, TPR-1%, and TPR-5%, provide insight into the model's sensitivity at varying levels of",
+      "bbox": [
+        15,
+        556,
+        580,
+        568
+      ]
+    },
+    {
+      "text": "classification confidence. For instance, TPR-1% reflects the model's ability to correctly identify positive instances when the",
+      "bbox": [
+        15,
+        572,
+        580,
+        584
+      ]
+    },
+    {
+      "text": "threshold is set to yield a 1% false positive rate. Understanding these metrics enables practitioners to make informed decisions",
+      "bbox": [
+        15,
+        587,
+        580,
+        599
+      ]
+    },
+    {
+      "text": "regarding the selection of algorithms and their configurations based on the trade-offs between precision and recall. Overall, the",
+      "bbox": [
+        15,
+        603,
+        580,
+        615
+      ]
+    },
+    {
+      "text": "insights garnered from this table are instrumental in guiding the development of robust predictive models that meet specific",
+      "bbox": [
+        15,
+        618,
+        580,
+        630
+      ]
+    },
+    {
+      "text": "operational requirements.",
+      "bbox": [
+        15,
+        633,
+        127,
+        645
+      ]
+    }
+  ]
+}

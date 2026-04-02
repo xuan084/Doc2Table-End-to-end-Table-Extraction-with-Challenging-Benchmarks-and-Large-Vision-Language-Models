@@ -1,0 +1,4445 @@
+{
+  "image_id": "img_163266",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_163266_t0",
+      "bbox": [
+        15,
+        110,
+        580,
+        267
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            111,
+            580,
+            145
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            145,
+            580,
+            165
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            165,
+            580,
+            186
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            186,
+            580,
+            206
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            206,
+            580,
+            226
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            226,
+            580,
+            246
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            246,
+            580,
+            267
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Region</td><td>Revenue(CHF)</td><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td colspan=\"2\">WesternEurope</td><td>500M</td><td>5.0</td><td>25.0</td></tr><tr><td>Germany</td><td>200M</td><td>3.0</td><td>10.0</td><td>France</td></tr></thead><tbody><tr><td>150M</td><td>7.5</td><td>7.5</td><td>Italy</td><td>100M</td></tr><tr><td>2.0</td><td>5.0</td><td>Spain</td><td>50M</td><td>0.0</td></tr><tr><td>EasternEurope</td><td>300M</td><td>4.0</td><td>15.0</td><td>Poland</td></tr><tr><td>100M</td><td>3.5</td><td>5.0</td><td>CzechRepublic</td><td>50M</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Region",
+          "bbox": [
+            15,
+            111,
+            179,
+            145
+          ],
+          "words": [
+            {
+              "text": "Region",
+              "bbox": [
+                20,
+                115,
+                50,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(CHF)",
+          "bbox": [
+            179,
+            111,
+            342,
+            145
+          ],
+          "words": [
+            {
+              "text": "Revenue(CHF)",
+              "bbox": [
+                273,
+                115,
+                337,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            342,
+            111,
+            421,
+            145
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                347,
+                115,
+                415,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            421,
+            111,
+            501,
+            145
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                435,
+                115,
+                496,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "WesternEurope",
+          "bbox": [
+            15,
+            145,
+            342,
+            165
+          ],
+          "words": [
+            {
+              "text": "WesternEurope",
+              "bbox": [
+                20,
+                149,
+                87,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "500M",
+          "bbox": [
+            342,
+            145,
+            421,
+            165
+          ],
+          "words": [
+            {
+              "text": "500M",
+              "bbox": [
+                347,
+                149,
+                372,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "5.0",
+          "bbox": [
+            421,
+            145,
+            501,
+            165
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                483,
+                149,
+                496,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "25.0",
+          "bbox": [
+            501,
+            145,
+            580,
+            165
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                558,
+                149,
+                575,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Germany",
+          "bbox": [
+            15,
+            165,
+            179,
+            186
+          ],
+          "words": [
+            {
+              "text": "Germany",
+              "bbox": [
+                20,
+                169,
+                61,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "200M",
+          "bbox": [
+            179,
+            165,
+            342,
+            186
+          ],
+          "words": [
+            {
+              "text": "200M",
+              "bbox": [
+                313,
+                169,
+                337,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "3.0",
+          "bbox": [
+            342,
+            165,
+            421,
+            186
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                347,
+                169,
+                360,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "10.0",
+          "bbox": [
+            421,
+            165,
+            501,
+            186
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                478,
+                169,
+                496,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "France",
+          "bbox": [
+            501,
+            165,
+            580,
+            186
+          ],
+          "words": [
+            {
+              "text": "France",
+              "bbox": [
+                545,
+                169,
+                575,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "150M",
+          "bbox": [
+            15,
+            186,
+            179,
+            206
+          ],
+          "words": [
+            {
+              "text": "150M",
+              "bbox": [
+                20,
+                190,
+                44,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "7.5",
+          "bbox": [
+            179,
+            186,
+            342,
+            206
+          ],
+          "words": [
+            {
+              "text": "7.5",
+              "bbox": [
+                325,
+                190,
+                337,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "7.5",
+          "bbox": [
+            342,
+            186,
+            421,
+            206
+          ],
+          "words": [
+            {
+              "text": "7.5",
+              "bbox": [
+                347,
+                190,
+                360,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Italy",
+          "bbox": [
+            421,
+            186,
+            501,
+            206
+          ],
+          "words": [
+            {
+              "text": "Italy",
+              "bbox": [
+                477,
+                190,
+                496,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "100M",
+          "bbox": [
+            501,
+            186,
+            580,
+            206
+          ],
+          "words": [
+            {
+              "text": "100M",
+              "bbox": [
+                551,
+                190,
+                575,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            15,
+            206,
+            179,
+            226
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                20,
+                210,
+                33,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            179,
+            206,
+            342,
+            226
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                325,
+                210,
+                337,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Spain",
+          "bbox": [
+            342,
+            206,
+            421,
+            226
+          ],
+          "words": [
+            {
+              "text": "Spain",
+              "bbox": [
+                347,
+                210,
+                370,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "50M",
+          "bbox": [
+            421,
+            206,
+            501,
+            226
+          ],
+          "words": [
+            {
+              "text": "50M",
+              "bbox": [
+                477,
+                210,
+                496,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.0",
+          "bbox": [
+            501,
+            206,
+            580,
+            226
+          ],
+          "words": [
+            {
+              "text": "0.0",
+              "bbox": [
+                563,
+                210,
+                575,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "EasternEurope",
+          "bbox": [
+            15,
+            226,
+            179,
+            246
+          ],
+          "words": [
+            {
+              "text": "EasternEurope",
+              "bbox": [
+                20,
+                230,
+                79,
+                241
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "300M",
+          "bbox": [
+            179,
+            226,
+            342,
+            246
+          ],
+          "words": [
+            {
+              "text": "300M",
+              "bbox": [
+                313,
+                230,
+                337,
+                241
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4.0",
+          "bbox": [
+            342,
+            226,
+            421,
+            246
+          ],
+          "words": [
+            {
+              "text": "4.0",
+              "bbox": [
+                347,
+                230,
+                360,
+                241
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0",
+          "bbox": [
+            421,
+            226,
+            501,
+            246
+          ],
+          "words": [
+            {
+              "text": "15.0",
+              "bbox": [
+                478,
+                230,
+                496,
+                241
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Poland",
+          "bbox": [
+            501,
+            226,
+            580,
+            246
+          ],
+          "words": [
+            {
+              "text": "Poland",
+              "bbox": [
+                547,
+                230,
+                575,
+                241
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "100M",
+          "bbox": [
+            15,
+            246,
+            179,
+            267
+          ],
+          "words": [
+            {
+              "text": "100M",
+              "bbox": [
+                20,
+                250,
+                44,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.5",
+          "bbox": [
+            179,
+            246,
+            342,
+            267
+          ],
+          "words": [
+            {
+              "text": "3.5",
+              "bbox": [
+                325,
+                250,
+                337,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            342,
+            246,
+            421,
+            267
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                347,
+                250,
+                360,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "CzechRepublic",
+          "bbox": [
+            421,
+            246,
+            501,
+            267
+          ],
+          "words": [
+            {
+              "text": "CzechRepublic",
+              "bbox": [
+                435,
+                250,
+                496,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "50M",
+          "bbox": [
+            501,
+            246,
+            580,
+            267
+          ],
+          "words": [
+            {
+              "text": "50M",
+              "bbox": [
+                556,
+                250,
+                575,
+                261
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        296,
+        580,
+        404
+      ],
+      "content": "In the 3rd Quarter 2023 report for Samsung Electronics within the Semiconductors & Electronics sector, the Geographic revenue mix reveals key insights. The total revenue from Western Europe amounts to $500M, reflecting a YoY change of 5.0% and a market share of 25.0%. Within this region, Germany contributes $200M with a YoY change of 3.0% and a market share of 10.0%. France generates $150M, showing a 7.5% YoY increase and a market share of 7.5%. Italy's revenue is $100M with a 2.0% YoY change and a 5.0% market share, while Spain, contributing $50M, maintains a 0.0% change. Eastern Europe reports a total revenue of $300M, with a 4.0% YoY increase and a market share of 15.0%. Poland contributes $100M, reflecting a 3.5% YoY change and a 5.0% market share, and the Czech Republic adds $50M with a 0.0% change.",
+      "lines": [
+        {
+          "text": "In the 3rd Quarter 2023 report for Samsung Electronics within the Semiconductors & Electronics sector, the Geographic",
+          "bbox": [
+            15,
+            297,
+            580,
+            309
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                297,
+                24,
+                309
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                29,
+                297,
+                43,
+                309
+              ]
+            },
+            {
+              "text": "3rd",
+              "bbox": [
+                48,
+                297,
+                62,
+                309
+              ]
+            },
+            {
+              "text": "Quarter",
+              "bbox": [
+                67,
+                297,
+                101,
+                309
+              ]
+            },
+            {
+              "text": "2023",
+              "bbox": [
+                106,
+                297,
+                128,
+                309
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                133,
+                297,
+                159,
+                309
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                164,
+                297,
+                177,
+                309
+              ]
+            },
+            {
+              "text": "Samsung",
+              "bbox": [
+                182,
+                297,
+                222,
+                309
+              ]
+            },
+            {
+              "text": "Electronics",
+              "bbox": [
+                227,
+                297,
+                277,
+                309
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                281,
+                297,
+                310,
+                309
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                315,
+                297,
+                328,
+                309
+              ]
+            },
+            {
+              "text": "Semiconductors",
+              "bbox": [
+                333,
+                297,
+                404,
+                309
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                409,
+                297,
+                417,
+                309
+              ]
+            },
+            {
+              "text": "Electronics",
+              "bbox": [
+                422,
+                297,
+                472,
+                309
+              ]
+            },
+            {
+              "text": "sector,",
+              "bbox": [
+                477,
+                297,
+                505,
+                309
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                510,
+                297,
+                524,
+                309
+              ]
+            },
+            {
+              "text": "Geographic",
+              "bbox": [
+                529,
+                297,
+                580,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "text": "revenue mix reveals key insights. The total revenue from Western Europe amounts to $500M, reflecting a YoY change of 5.0%",
+          "bbox": [
+            15,
+            312,
+            580,
+            324
+          ],
+          "words": [
+            {
+              "text": "revenue",
+              "bbox": [
+                15,
+                312,
+                50,
+                324
+              ]
+            },
+            {
+              "text": "mix",
+              "bbox": [
+                53,
+                312,
+                70,
+                324
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                73,
+                312,
+                104,
+                324
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                107,
+                312,
+                123,
+                324
+              ]
+            },
+            {
+              "text": "insights.",
+              "bbox": [
+                126,
+                312,
+                163,
+                324
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                166,
+                312,
+                183,
+                324
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                186,
+                312,
+                206,
+                324
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                209,
+                312,
+                244,
+                324
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                247,
+                312,
+                268,
+                324
+              ]
+            },
+            {
+              "text": "Western",
+              "bbox": [
+                271,
+                312,
+                307,
+                324
+              ]
+            },
+            {
+              "text": "Europe",
+              "bbox": [
+                310,
+                312,
+                342,
+                324
+              ]
+            },
+            {
+              "text": "amounts",
+              "bbox": [
+                345,
+                312,
+                382,
+                324
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                385,
+                312,
+                394,
+                324
+              ]
+            },
+            {
+              "text": "$500M,",
+              "bbox": [
+                397,
+                312,
+                432,
+                324
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                435,
+                312,
+                477,
+                324
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                480,
+                312,
+                485,
+                324
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                488,
+                312,
+                507,
+                324
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                511,
+                312,
+                542,
+                324
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                545,
+                312,
+                554,
+                324
+              ]
+            },
+            {
+              "text": "5.0%",
+              "bbox": [
+                557,
+                312,
+                580,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and a market share of 25.0%. Within this region, Germany contributes $200M with a YoY change of 3.0% and a market share of",
+          "bbox": [
+            15,
+            328,
+            580,
+            340
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                328,
+                31,
+                340
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                34,
+                328,
+                39,
+                340
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                41,
+                328,
+                72,
+                340
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                75,
+                328,
+                98,
+                340
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                101,
+                328,
+                110,
+                340
+              ]
+            },
+            {
+              "text": "25.0%.",
+              "bbox": [
+                113,
+                328,
+                144,
+                340
+              ]
+            },
+            {
+              "text": "Within",
+              "bbox": [
+                146,
+                328,
+                176,
+                340
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                179,
+                328,
+                195,
+                340
+              ]
+            },
+            {
+              "text": "region,",
+              "bbox": [
+                198,
+                328,
+                229,
+                340
+              ]
+            },
+            {
+              "text": "Germany",
+              "bbox": [
+                231,
+                328,
+                272,
+                340
+              ]
+            },
+            {
+              "text": "contributes",
+              "bbox": [
+                275,
+                328,
+                324,
+                340
+              ]
+            },
+            {
+              "text": "$200M",
+              "bbox": [
+                327,
+                328,
+                359,
+                340
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                361,
+                328,
+                381,
+                340
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                384,
+                328,
+                389,
+                340
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                391,
+                328,
+                411,
+                340
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                414,
+                328,
+                445,
+                340
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                448,
+                328,
+                457,
+                340
+              ]
+            },
+            {
+              "text": "3.0%",
+              "bbox": [
+                460,
+                328,
+                482,
+                340
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                485,
+                328,
+                501,
+                340
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                504,
+                328,
+                509,
+                340
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                512,
+                328,
+                542,
+                340
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                545,
+                328,
+                568,
+                340
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                328,
+                580,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "text": "10.0%. France generates $150M, showing a 7.5% YoY increase and a market share of 7.5%. Italy's revenue is $100M with a",
+          "bbox": [
+            15,
+            343,
+            580,
+            355
+          ],
+          "words": [
+            {
+              "text": "10.0%.",
+              "bbox": [
+                15,
+                343,
+                46,
+                355
+              ]
+            },
+            {
+              "text": "France",
+              "bbox": [
+                50,
+                343,
+                80,
+                355
+              ]
+            },
+            {
+              "text": "generates",
+              "bbox": [
+                83,
+                343,
+                125,
+                355
+              ]
+            },
+            {
+              "text": "$150M,",
+              "bbox": [
+                129,
+                343,
+                163,
+                355
+              ]
+            },
+            {
+              "text": "showing",
+              "bbox": [
+                167,
+                343,
+                204,
+                355
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                208,
+                343,
+                213,
+                355
+              ]
+            },
+            {
+              "text": "7.5%",
+              "bbox": [
+                216,
+                343,
+                239,
+                355
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                242,
+                343,
+                262,
+                355
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                266,
+                343,
+                302,
+                355
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                306,
+                343,
+                322,
+                355
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                325,
+                343,
+                330,
+                355
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                334,
+                343,
+                364,
+                355
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                368,
+                343,
+                391,
+                355
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                395,
+                343,
+                404,
+                355
+              ]
+            },
+            {
+              "text": "7.5%.",
+              "bbox": [
+                408,
+                343,
+                433,
+                355
+              ]
+            },
+            {
+              "text": "Italy's",
+              "bbox": [
+                437,
+                343,
+                463,
+                355
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                467,
+                343,
+                502,
+                355
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                505,
+                343,
+                513,
+                355
+              ]
+            },
+            {
+              "text": "$100M",
+              "bbox": [
+                516,
+                343,
+                548,
+                355
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                552,
+                343,
+                571,
+                355
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                343,
+                580,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "text": "2.0% YoY change and a 5.0% market share, while Spain, contributing $50M, maintains a 0.0% change. Eastern Europe reports",
+          "bbox": [
+            15,
+            359,
+            580,
+            371
+          ],
+          "words": [
+            {
+              "text": "2.0%",
+              "bbox": [
+                15,
+                359,
+                38,
+                371
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                41,
+                359,
+                61,
+                371
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                64,
+                359,
+                95,
+                371
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                98,
+                359,
+                114,
+                371
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                117,
+                359,
+                122,
+                371
+              ]
+            },
+            {
+              "text": "5.0%",
+              "bbox": [
+                125,
+                359,
+                148,
+                371
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                151,
+                359,
+                182,
+                371
+              ]
+            },
+            {
+              "text": "share,",
+              "bbox": [
+                185,
+                359,
+                211,
+                371
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                214,
+                359,
+                238,
+                371
+              ]
+            },
+            {
+              "text": "Spain,",
+              "bbox": [
+                241,
+                359,
+                269,
+                371
+              ]
+            },
+            {
+              "text": "contributing",
+              "bbox": [
+                272,
+                359,
+                326,
+                371
+              ]
+            },
+            {
+              "text": "$50M,",
+              "bbox": [
+                329,
+                359,
+                358,
+                371
+              ]
+            },
+            {
+              "text": "maintains",
+              "bbox": [
+                361,
+                359,
+                404,
+                371
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                407,
+                359,
+                412,
+                371
+              ]
+            },
+            {
+              "text": "0.0%",
+              "bbox": [
+                415,
+                359,
+                438,
+                371
+              ]
+            },
+            {
+              "text": "change.",
+              "bbox": [
+                441,
+                359,
+                475,
+                371
+              ]
+            },
+            {
+              "text": "Eastern",
+              "bbox": [
+                478,
+                359,
+                511,
+                371
+              ]
+            },
+            {
+              "text": "Europe",
+              "bbox": [
+                515,
+                359,
+                546,
+                371
+              ]
+            },
+            {
+              "text": "reports",
+              "bbox": [
+                549,
+                359,
+                580,
+                371
+              ]
+            }
+          ]
+        },
+        {
+          "text": "a total revenue of $300M, with a 4.0% YoY increase and a market share of 15.0%. Poland contributes $100M, reflecting a 3.5%",
+          "bbox": [
+            15,
+            374,
+            580,
+            386
+          ],
+          "words": [
+            {
+              "text": "a",
+              "bbox": [
+                15,
+                374,
+                20,
+                386
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                23,
+                374,
+                42,
+                386
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                45,
+                374,
+                80,
+                386
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                83,
+                374,
+                92,
+                386
+              ]
+            },
+            {
+              "text": "$300M,",
+              "bbox": [
+                95,
+                374,
+                129,
+                386
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                132,
+                374,
+                152,
+                386
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                155,
+                374,
+                160,
+                386
+              ]
+            },
+            {
+              "text": "4.0%",
+              "bbox": [
+                163,
+                374,
+                185,
+                386
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                188,
+                374,
+                208,
+                386
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                211,
+                374,
+                247,
+                386
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                250,
+                374,
+                265,
+                386
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                268,
+                374,
+                273,
+                386
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                276,
+                374,
+                307,
+                386
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                310,
+                374,
+                333,
+                386
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                336,
+                374,
+                345,
+                386
+              ]
+            },
+            {
+              "text": "15.0%.",
+              "bbox": [
+                348,
+                374,
+                379,
+                386
+              ]
+            },
+            {
+              "text": "Poland",
+              "bbox": [
+                382,
+                374,
+                412,
+                386
+              ]
+            },
+            {
+              "text": "contributes",
+              "bbox": [
+                415,
+                374,
+                464,
+                386
+              ]
+            },
+            {
+              "text": "$100M,",
+              "bbox": [
+                467,
+                374,
+                501,
+                386
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                504,
+                374,
+                546,
+                386
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                549,
+                374,
+                554,
+                386
+              ]
+            },
+            {
+              "text": "3.5%",
+              "bbox": [
+                557,
+                374,
+                580,
+                386
+              ]
+            }
+          ]
+        },
+        {
+          "text": "YoY change and a 5.0% market share, and the Czech Republic adds $50M with a 0.0% change.",
+          "bbox": [
+            15,
+            389,
+            434,
+            401
+          ],
+          "words": [
+            {
+              "text": "YoY",
+              "bbox": [
+                15,
+                389,
+                35,
+                401
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                38,
+                389,
+                69,
+                401
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                72,
+                389,
+                87,
+                401
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                90,
+                389,
+                95,
+                401
+              ]
+            },
+            {
+              "text": "5.0%",
+              "bbox": [
+                98,
+                389,
+                121,
+                401
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                123,
+                389,
+                154,
+                401
+              ]
+            },
+            {
+              "text": "share,",
+              "bbox": [
+                157,
+                389,
+                183,
+                401
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                185,
+                389,
+                201,
+                401
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                204,
+                389,
+                218,
+                401
+              ]
+            },
+            {
+              "text": "Czech",
+              "bbox": [
+                220,
+                389,
+                248,
+                401
+              ]
+            },
+            {
+              "text": "Republic",
+              "bbox": [
+                251,
+                389,
+                290,
+                401
+              ]
+            },
+            {
+              "text": "adds",
+              "bbox": [
+                293,
+                389,
+                313,
+                401
+              ]
+            },
+            {
+              "text": "$50M",
+              "bbox": [
+                316,
+                389,
+                342,
+                401
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                345,
+                389,
+                364,
+                401
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                367,
+                389,
+                372,
+                401
+              ]
+            },
+            {
+              "text": "0.0%",
+              "bbox": [
+                375,
+                389,
+                398,
+                401
+              ]
+            },
+            {
+              "text": "change.",
+              "bbox": [
+                401,
+                389,
+                434,
+                401
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_163266_t1",
+      "bbox": [
+        15,
+        451,
+        580,
+        648
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 4,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            451,
+            580,
+            472
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            472,
+            580,
+            492
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            492,
+            580,
+            526
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            526,
+            580,
+            546
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            546,
+            580,
+            567
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            567,
+            580,
+            587
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            587,
+            580,
+            607
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            607,
+            580,
+            627
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            15,
+            627,
+            580,
+            647
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>FoundryCapacity</td><td>UtilizationRate</td></tr><tr><td colspan=\"2\">QuarterlyPerformance</td><td>Q32023Overview</td></tr><tr><td>TotalUnitsProduced</td><td colspan=\"3\">SiliconWafers</td><td colspan=\"2\">AdvancedNodes</td></tr><tr><td>100mmWafers</td><td>200mmWafers</td><td>300mmWafers</td><td>Utilization(%)</td><td>Revenue(CHF)</td><td>Headcount</td></tr></thead><tbody><tr><td>15000</td><td>50000</td><td>30000</td><td>85.5</td><td>200M</td><td>12000</td></tr><tr><td>16000</td><td>55000</td><td>35000</td><td>87.0</td><td>210M</td><td>11500</td></tr><tr><td>17000</td><td>60000</td><td>37000</td><td>86.5</td><td>220M</td><td>11000</td></tr><tr><td>18000</td><td>65000</td><td>39000</td><td>88.0</td><td>230M</td><td>10500</td></tr><tr><td>19000</td><td>70000</td><td>41000</td><td>89.5</td><td>240M</td><td>Total</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "FoundryCapacity",
+          "bbox": [
+            15,
+            451,
+            110,
+            472
+          ],
+          "words": [
+            {
+              "text": "FoundryCapacity",
+              "bbox": [
+                20,
+                456,
+                96,
+                467
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "UtilizationRate",
+          "bbox": [
+            110,
+            451,
+            205,
+            472
+          ],
+          "words": [
+            {
+              "text": "UtilizationRate",
+              "bbox": [
+                115,
+                456,
+                180,
+                467
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "QuarterlyPerformance",
+          "bbox": [
+            15,
+            472,
+            205,
+            492
+          ],
+          "words": [
+            {
+              "text": "QuarterlyPerformance",
+              "bbox": [
+                20,
+                476,
+                118,
+                487
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Q32023Overview",
+          "bbox": [
+            205,
+            472,
+            300,
+            492
+          ],
+          "words": [
+            {
+              "text": "Q32023Overview",
+              "bbox": [
+                210,
+                476,
+                284,
+                487
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalUnitsProduced",
+          "bbox": [
+            15,
+            492,
+            110,
+            526
+          ],
+          "words": [
+            {
+              "text": "TotalUnitsProduced",
+              "bbox": [
+                20,
+                496,
+                100,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "SiliconWafers",
+          "bbox": [
+            110,
+            492,
+            395,
+            526
+          ],
+          "words": [
+            {
+              "text": "SiliconWafers",
+              "bbox": [
+                115,
+                496,
+                175,
+                507
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "AdvancedNodes",
+          "bbox": [
+            395,
+            492,
+            580,
+            526
+          ],
+          "words": [
+            {
+              "text": "AdvancedNodes",
+              "bbox": [
+                506,
+                496,
+                575,
+                507
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "100mmWafers",
+          "bbox": [
+            15,
+            526,
+            110,
+            546
+          ],
+          "words": [
+            {
+              "text": "100mmWafers",
+              "bbox": [
+                20,
+                530,
+                82,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "200mmWafers",
+          "bbox": [
+            110,
+            526,
+            205,
+            546
+          ],
+          "words": [
+            {
+              "text": "200mmWafers",
+              "bbox": [
+                115,
+                530,
+                177,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "300mmWafers",
+          "bbox": [
+            205,
+            526,
+            300,
+            546
+          ],
+          "words": [
+            {
+              "text": "300mmWafers",
+              "bbox": [
+                210,
+                530,
+                272,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Utilization(%)",
+          "bbox": [
+            300,
+            526,
+            395,
+            546
+          ],
+          "words": [
+            {
+              "text": "Utilization(%)",
+              "bbox": [
+                305,
+                530,
+                367,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(CHF)",
+          "bbox": [
+            395,
+            526,
+            488,
+            546
+          ],
+          "words": [
+            {
+              "text": "Revenue(CHF)",
+              "bbox": [
+                418,
+                530,
+                483,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Headcount",
+          "bbox": [
+            488,
+            526,
+            580,
+            546
+          ],
+          "words": [
+            {
+              "text": "Headcount",
+              "bbox": [
+                528,
+                530,
+                575,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "15000",
+          "bbox": [
+            15,
+            546,
+            110,
+            567
+          ],
+          "words": [
+            {
+              "text": "15000",
+              "bbox": [
+                20,
+                551,
+                45,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "50000",
+          "bbox": [
+            110,
+            546,
+            205,
+            567
+          ],
+          "words": [
+            {
+              "text": "50000",
+              "bbox": [
+                115,
+                551,
+                140,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "30000",
+          "bbox": [
+            205,
+            546,
+            300,
+            567
+          ],
+          "words": [
+            {
+              "text": "30000",
+              "bbox": [
+                210,
+                551,
+                235,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "85.5",
+          "bbox": [
+            300,
+            546,
+            395,
+            567
+          ],
+          "words": [
+            {
+              "text": "85.5",
+              "bbox": [
+                305,
+                551,
+                323,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "200M",
+          "bbox": [
+            395,
+            546,
+            488,
+            567
+          ],
+          "words": [
+            {
+              "text": "200M",
+              "bbox": [
+                459,
+                551,
+                483,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "12000",
+          "bbox": [
+            488,
+            546,
+            580,
+            567
+          ],
+          "words": [
+            {
+              "text": "12000",
+              "bbox": [
+                550,
+                551,
+                575,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "16000",
+          "bbox": [
+            15,
+            567,
+            110,
+            587
+          ],
+          "words": [
+            {
+              "text": "16000",
+              "bbox": [
+                20,
+                571,
+                45,
+                582
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "55000",
+          "bbox": [
+            110,
+            567,
+            205,
+            587
+          ],
+          "words": [
+            {
+              "text": "55000",
+              "bbox": [
+                115,
+                571,
+                140,
+                582
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "35000",
+          "bbox": [
+            205,
+            567,
+            300,
+            587
+          ],
+          "words": [
+            {
+              "text": "35000",
+              "bbox": [
+                210,
+                571,
+                235,
+                582
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "87.0",
+          "bbox": [
+            300,
+            567,
+            395,
+            587
+          ],
+          "words": [
+            {
+              "text": "87.0",
+              "bbox": [
+                305,
+                571,
+                323,
+                582
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "210M",
+          "bbox": [
+            395,
+            567,
+            488,
+            587
+          ],
+          "words": [
+            {
+              "text": "210M",
+              "bbox": [
+                459,
+                571,
+                483,
+                582
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "11500",
+          "bbox": [
+            488,
+            567,
+            580,
+            587
+          ],
+          "words": [
+            {
+              "text": "11500",
+              "bbox": [
+                550,
+                571,
+                575,
+                582
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "17000",
+          "bbox": [
+            15,
+            587,
+            110,
+            607
+          ],
+          "words": [
+            {
+              "text": "17000",
+              "bbox": [
+                20,
+                591,
+                45,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "60000",
+          "bbox": [
+            110,
+            587,
+            205,
+            607
+          ],
+          "words": [
+            {
+              "text": "60000",
+              "bbox": [
+                115,
+                591,
+                140,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "37000",
+          "bbox": [
+            205,
+            587,
+            300,
+            607
+          ],
+          "words": [
+            {
+              "text": "37000",
+              "bbox": [
+                210,
+                591,
+                235,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "86.5",
+          "bbox": [
+            300,
+            587,
+            395,
+            607
+          ],
+          "words": [
+            {
+              "text": "86.5",
+              "bbox": [
+                305,
+                591,
+                323,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "220M",
+          "bbox": [
+            395,
+            587,
+            488,
+            607
+          ],
+          "words": [
+            {
+              "text": "220M",
+              "bbox": [
+                459,
+                591,
+                483,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "11000",
+          "bbox": [
+            488,
+            587,
+            580,
+            607
+          ],
+          "words": [
+            {
+              "text": "11000",
+              "bbox": [
+                550,
+                591,
+                575,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "18000",
+          "bbox": [
+            15,
+            607,
+            110,
+            627
+          ],
+          "words": [
+            {
+              "text": "18000",
+              "bbox": [
+                20,
+                611,
+                45,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "65000",
+          "bbox": [
+            110,
+            607,
+            205,
+            627
+          ],
+          "words": [
+            {
+              "text": "65000",
+              "bbox": [
+                115,
+                611,
+                140,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "39000",
+          "bbox": [
+            205,
+            607,
+            300,
+            627
+          ],
+          "words": [
+            {
+              "text": "39000",
+              "bbox": [
+                210,
+                611,
+                235,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "88.0",
+          "bbox": [
+            300,
+            607,
+            395,
+            627
+          ],
+          "words": [
+            {
+              "text": "88.0",
+              "bbox": [
+                305,
+                611,
+                323,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "230M",
+          "bbox": [
+            395,
+            607,
+            488,
+            627
+          ],
+          "words": [
+            {
+              "text": "230M",
+              "bbox": [
+                459,
+                611,
+                483,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "10500",
+          "bbox": [
+            488,
+            607,
+            580,
+            627
+          ],
+          "words": [
+            {
+              "text": "10500",
+              "bbox": [
+                550,
+                611,
+                575,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "19000",
+          "bbox": [
+            15,
+            627,
+            110,
+            647
+          ],
+          "words": [
+            {
+              "text": "19000",
+              "bbox": [
+                20,
+                631,
+                45,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "70000",
+          "bbox": [
+            110,
+            627,
+            205,
+            647
+          ],
+          "words": [
+            {
+              "text": "70000",
+              "bbox": [
+                115,
+                631,
+                140,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "41000",
+          "bbox": [
+            205,
+            627,
+            300,
+            647
+          ],
+          "words": [
+            {
+              "text": "41000",
+              "bbox": [
+                210,
+                631,
+                235,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "89.5",
+          "bbox": [
+            300,
+            627,
+            395,
+            647
+          ],
+          "words": [
+            {
+              "text": "89.5",
+              "bbox": [
+                305,
+                631,
+                323,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "240M",
+          "bbox": [
+            395,
+            627,
+            488,
+            647
+          ],
+          "words": [
+            {
+              "text": "240M",
+              "bbox": [
+                459,
+                631,
+                483,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            488,
+            627,
+            580,
+            647
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                555,
+                631,
+                575,
+                642
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        673,
+        580,
+        750
+      ],
+      "content": "The Foundry Capacity Utilization section shows total units produced consisting of 15,000 100mm wafers, 50,000 200mm wafers, and 30,000 300mm wafers, achieving an overall utilization rate of 85.5%, generating revenue of $200M and a headcount of 12,000. Additional units include 16,000 100mm wafers, 55,000 200mm wafers, and 35,000 300mm wafers, with a utilization of 87.0% and revenue of $210M, decreasing to 11,500 headcount. Further production metrics continue similarly, concluding with totals of 19,000 units with 240M revenue.",
+      "lines": [
+        {
+          "text": "The Foundry Capacity Utilization section shows total units produced consisting of 15,000 100mm wafers, 50,000 200mm",
+          "bbox": [
+            15,
+            674,
+            580,
+            686
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                674,
+                32,
+                686
+              ]
+            },
+            {
+              "text": "Foundry",
+              "bbox": [
+                37,
+                674,
+                74,
+                686
+              ]
+            },
+            {
+              "text": "Capacity",
+              "bbox": [
+                79,
+                674,
+                118,
+                686
+              ]
+            },
+            {
+              "text": "Utilization",
+              "bbox": [
+                123,
+                674,
+                170,
+                686
+              ]
+            },
+            {
+              "text": "section",
+              "bbox": [
+                174,
+                674,
+                205,
+                686
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                210,
+                674,
+                238,
+                686
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                242,
+                674,
+                262,
+                686
+              ]
+            },
+            {
+              "text": "units",
+              "bbox": [
+                267,
+                674,
+                288,
+                686
+              ]
+            },
+            {
+              "text": "produced",
+              "bbox": [
+                293,
+                674,
+                334,
+                686
+              ]
+            },
+            {
+              "text": "consisting",
+              "bbox": [
+                338,
+                674,
+                383,
+                686
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                388,
+                674,
+                397,
+                686
+              ]
+            },
+            {
+              "text": "15,000",
+              "bbox": [
+                401,
+                674,
+                432,
+                686
+              ]
+            },
+            {
+              "text": "100mm",
+              "bbox": [
+                436,
+                674,
+                470,
+                686
+              ]
+            },
+            {
+              "text": "wafers,",
+              "bbox": [
+                475,
+                674,
+                507,
+                686
+              ]
+            },
+            {
+              "text": "50,000",
+              "bbox": [
+                511,
+                674,
+                542,
+                686
+              ]
+            },
+            {
+              "text": "200mm",
+              "bbox": [
+                546,
+                674,
+                580,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "wafers, and 30,000 300mm wafers, achieving an overall utilization rate of 85.5%, generating revenue of $200M and a",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "wafers,",
+              "bbox": [
+                15,
+                689,
+                47,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                53,
+                689,
+                68,
+                701
+              ]
+            },
+            {
+              "text": "30,000",
+              "bbox": [
+                74,
+                689,
+                104,
+                701
+              ]
+            },
+            {
+              "text": "300mm",
+              "bbox": [
+                110,
+                689,
+                143,
+                701
+              ]
+            },
+            {
+              "text": "wafers,",
+              "bbox": [
+                149,
+                689,
+                181,
+                701
+              ]
+            },
+            {
+              "text": "achieving",
+              "bbox": [
+                186,
+                689,
+                229,
+                701
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                234,
+                689,
+                245,
+                701
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                250,
+                689,
+                281,
+                701
+              ]
+            },
+            {
+              "text": "utilization",
+              "bbox": [
+                286,
+                689,
+                331,
+                701
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                336,
+                689,
+                353,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                358,
+                689,
+                368,
+                701
+              ]
+            },
+            {
+              "text": "85.5%,",
+              "bbox": [
+                373,
+                689,
+                404,
+                701
+              ]
+            },
+            {
+              "text": "generating",
+              "bbox": [
+                410,
+                689,
+                456,
+                701
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                462,
+                689,
+                496,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                502,
+                689,
+                511,
+                701
+              ]
+            },
+            {
+              "text": "$200M",
+              "bbox": [
+                516,
+                689,
+                548,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                554,
+                689,
+                570,
+                701
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "headcount of 12,000. Additional units include 16,000 100mm wafers, 55,000 200mm wafers, and 35,000 300mm wafers, with a",
+          "bbox": [
+            15,
+            705,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "headcount",
+              "bbox": [
+                15,
+                705,
+                60,
+                717
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                63,
+                705,
+                72,
+                717
+              ]
+            },
+            {
+              "text": "12,000.",
+              "bbox": [
+                75,
+                705,
+                108,
+                717
+              ]
+            },
+            {
+              "text": "Additional",
+              "bbox": [
+                110,
+                705,
+                158,
+                717
+              ]
+            },
+            {
+              "text": "units",
+              "bbox": [
+                160,
+                705,
+                182,
+                717
+              ]
+            },
+            {
+              "text": "include",
+              "bbox": [
+                185,
+                705,
+                217,
+                717
+              ]
+            },
+            {
+              "text": "16,000",
+              "bbox": [
+                220,
+                705,
+                250,
+                717
+              ]
+            },
+            {
+              "text": "100mm",
+              "bbox": [
+                253,
+                705,
+                287,
+                717
+              ]
+            },
+            {
+              "text": "wafers,",
+              "bbox": [
+                290,
+                705,
+                322,
+                717
+              ]
+            },
+            {
+              "text": "55,000",
+              "bbox": [
+                325,
+                705,
+                355,
+                717
+              ]
+            },
+            {
+              "text": "200mm",
+              "bbox": [
+                358,
+                705,
+                391,
+                717
+              ]
+            },
+            {
+              "text": "wafers,",
+              "bbox": [
+                394,
+                705,
+                426,
+                717
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                429,
+                705,
+                445,
+                717
+              ]
+            },
+            {
+              "text": "35,000",
+              "bbox": [
+                448,
+                705,
+                478,
+                717
+              ]
+            },
+            {
+              "text": "300mm",
+              "bbox": [
+                481,
+                705,
+                515,
+                717
+              ]
+            },
+            {
+              "text": "wafers,",
+              "bbox": [
+                518,
+                705,
+                550,
+                717
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                553,
+                705,
+                572,
+                717
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                705,
+                580,
+                717
+              ]
+            }
+          ]
+        },
+        {
+          "text": "utilization of 87.0% and revenue of $210M, decreasing to 11,500 headcount. Further production metrics continue similarly,",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "utilization",
+              "bbox": [
+                15,
+                720,
+                60,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                64,
+                720,
+                73,
+                732
+              ]
+            },
+            {
+              "text": "87.0%",
+              "bbox": [
+                77,
+                720,
+                106,
+                732
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                110,
+                720,
+                126,
+                732
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                130,
+                720,
+                165,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                169,
+                720,
+                178,
+                732
+              ]
+            },
+            {
+              "text": "$210M,",
+              "bbox": [
+                182,
+                720,
+                217,
+                732
+              ]
+            },
+            {
+              "text": "decreasing",
+              "bbox": [
+                221,
+                720,
+                268,
+                732
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                273,
+                720,
+                281,
+                732
+              ]
+            },
+            {
+              "text": "11,500",
+              "bbox": [
+                285,
+                720,
+                315,
+                732
+              ]
+            },
+            {
+              "text": "headcount.",
+              "bbox": [
+                319,
+                720,
+                367,
+                732
+              ]
+            },
+            {
+              "text": "Further",
+              "bbox": [
+                372,
+                720,
+                404,
+                732
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                408,
+                720,
+                456,
+                732
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                460,
+                720,
+                493,
+                732
+              ]
+            },
+            {
+              "text": "continue",
+              "bbox": [
+                497,
+                720,
+                535,
+                732
+              ]
+            },
+            {
+              "text": "similarly,",
+              "bbox": [
+                539,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "concluding with totals of 19,000 units with 240M revenue.",
+          "bbox": [
+            15,
+            735,
+            273,
+            747
+          ],
+          "words": [
+            {
+              "text": "concluding",
+              "bbox": [
+                15,
+                735,
+                64,
+                747
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                67,
+                735,
+                86,
+                747
+              ]
+            },
+            {
+              "text": "totals",
+              "bbox": [
+                89,
+                735,
+                113,
+                747
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                116,
+                735,
+                125,
+                747
+              ]
+            },
+            {
+              "text": "19,000",
+              "bbox": [
+                127,
+                735,
+                158,
+                747
+              ]
+            },
+            {
+              "text": "units",
+              "bbox": [
+                160,
+                735,
+                182,
+                747
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                185,
+                735,
+                204,
+                747
+              ]
+            },
+            {
+              "text": "240M",
+              "bbox": [
+                207,
+                735,
+                233,
+                747
+              ]
+            },
+            {
+              "text": "revenue.",
+              "bbox": [
+                236,
+                735,
+                273,
+                747
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

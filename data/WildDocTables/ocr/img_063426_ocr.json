@@ -1,0 +1,270 @@
+{
+  "image_id": "img_063426",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The following data table presents a comprehensive analysis of genetic variant rs11722228, specifically focusing on its impact",
+      "bbox": [
+        14,
+        49,
+        555,
+        60
+      ]
+    },
+    {
+      "text": "within the SLC2A9 gene. This analysis includes key metrics such as the Minor Allele Frequency (MAF) and Effect Size",
+      "bbox": [
+        14,
+        64,
+        555,
+        75
+      ]
+    },
+    {
+      "text": "(s.e.m.), which are critical for understanding the variant's potential influence on phenotypic traits. The MAF indicates the",
+      "bbox": [
+        14,
+        78,
+        555,
+        90
+      ]
+    },
+    {
+      "text": "frequency of the minor allele within the studied population, while the Effect Size quantifies the magnitude of the variant's",
+      "bbox": [
+        14,
+        93,
+        555,
+        104
+      ]
+    },
+    {
+      "text": "impact, adjusted for standard error of measurement. Additionally, the table illustrates various methodological approaches",
+      "bbox": [
+        14,
+        108,
+        555,
+        119
+      ]
+    },
+    {
+      "text": "employed in the analysis, including Filter Method, Wrapper Methods, and Hybrid Methods, which provide insight into the",
+      "bbox": [
+        14,
+        122,
+        555,
+        134
+      ]
+    },
+    {
+      "text": "robustness of the findings.",
+      "bbox": [
+        14,
+        137,
+        125,
+        149
+      ]
+    },
+    {
+      "text": "SNP  Chr  bp  Genes  Locus  Minor/major allele  GWAS(n = 3,451)  Validation(n = 8,830)  Combined(n = 12,281)",
+      "bbox": [
+        14,
+        165,
+        555,
+        198
+      ]
+    },
+    {
+      "text": "MAF  Effect size (s.e.m.)  P- valuea  MAF  Effect size (s.e.m.)  P-valuea  P- valuea",
+      "bbox": [
+        14,
+        198,
+        555,
+        244
+      ]
+    },
+    {
+      "text": "rs11722228  4  9524839  SLC2A9  intron  T/C  0.31  0.028 (0.006)  3.68 × 10-6  0.31  0.043 (0.004)  4.16 × 10-26  8.98 × 10-31",
+      "bbox": [
+        14,
+        244,
+        555,
+        277
+      ]
+    },
+    {
+      "text": "rs4148152  4  89279933  ABCG2  intron  C/T  0.35  −0.029 (0.006)  1.22 × 10-7  0.33  −0.029 (0.004)  4.49 × 10-13  2.95 × 10-18",
+      "bbox": [
+        14,
+        277,
+        555,
+        310
+      ]
+    },
+    {
+      "text": "rs3114018  4  89283605  ABCG2  intron  T/G  0.38  −0.034 (0.006)  2.75 × 10-9  0.38  −0.029 (0.004)  1.02 × 10-12  4.49 × 10-20",
+      "bbox": [
+        14,
+        310,
+        555,
+        342
+      ]
+    },
+    {
+      "text": "rs2231142  4  89271346  ABCG2  exon  T/G  0.29  0.046 (0.006)  1.19 × 10-14  0.31  0.045 (0.004)  1.01 × 10-25  3.34 × 10-42",
+      "bbox": [
+        14,
+        342,
+        555,
+        375
+      ]
+    },
+    {
+      "text": "Filter Method  Wrapper Methods  Hybrid Methods",
+      "bbox": [
+        14,
+        390,
+        555,
+        423
+      ]
+    },
+    {
+      "text": "Criterion  Fisher's Ratio  RFE-LNW-GD  RFE-SVM  RFE-LSSVM  RFE-RR  RFE-FLDA  RFE-LNW1  RFE-LNW2  RFE-FSVs-7DK",
+      "bbox": [
+        14,
+        423,
+        555,
+        456
+      ]
+    },
+    {
+      "text": "Accuracy  0.91  0.94  0.94  0.85  0.82  0.82  0.94  0.94  0.94",
+      "bbox": [
+        14,
+        456,
+        555,
+        475
+      ]
+    },
+    {
+      "text": "Sensitivity, Specificity  0.79, 1.00  0.86, 1.00  0.86, 1.00  0.79, 0.90  0.57, 1.00  0.57, 1.00  0.93, 0.95  0.86, 1.00  0.86, 1.00",
+      "bbox": [
+        14,
+        475,
+        555,
+        508
+      ]
+    },
+    {
+      "text": "Q-Statistic quality measure  230.76  210.8  185.38  16.42  140.00  243.06  241.99  254.67  217.23",
+      "bbox": [
+        14,
+        508,
+        555,
+        540
+      ]
+    },
+    {
+      "text": "Number of genes selected  6  17  4  33  7  2  2  70  12",
+      "bbox": [
+        14,
+        540,
+        555,
+        573
+      ]
+    },
+    {
+      "text": "Architecture Options  Execution Time  Estimated Required Resources",
+      "bbox": [
+        15,
+        589,
+        554,
+        609
+      ]
+    },
+    {
+      "text": "(# of Clocks)  DSPs  Block RAMs  LUTs",
+      "bbox": [
+        15,
+        609,
+        554,
+        629
+      ]
+    },
+    {
+      "text": "Pipelined Streaming Input/Output (I/O)  6285  50  25  –",
+      "bbox": [
+        15,
+        629,
+        554,
+        649
+      ]
+    },
+    {
+      "text": "Radix-4 Burst I/O  7297  36  18  –",
+      "bbox": [
+        15,
+        649,
+        554,
+        669
+      ]
+    },
+    {
+      "text": "Radix-2 Burst I/O  15,549  12  12  –",
+      "bbox": [
+        15,
+        669,
+        554,
+        689
+      ]
+    },
+    {
+      "text": "Radix-2 Lite Burst I/O  26,661  6  12  –",
+      "bbox": [
+        15,
+        689,
+        554,
+        709
+      ]
+    },
+    {
+      "text": "Notably, the P-values associated with these analyses serve as indicators of statistical significance, allowing researchers to assess",
+      "bbox": [
+        14,
+        725,
+        555,
+        736
+      ]
+    },
+    {
+      "text": "the likelihood that the observed associations are due to chance. By integrating these diverse metrics, the table offers a nuanced",
+      "bbox": [
+        14,
+        740,
+        555,
+        751
+      ]
+    },
+    {
+      "text": "view of the genetic landscape surrounding rs11722228, facilitating further exploration into its biological implications and",
+      "bbox": [
+        14,
+        754,
+        555,
+        766
+      ]
+    },
+    {
+      "text": "potential therapeutic targets.",
+      "bbox": [
+        14,
+        769,
+        134,
+        781
+      ]
+    }
+  ]
+}

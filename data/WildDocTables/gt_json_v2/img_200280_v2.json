@@ -1,0 +1,6653 @@
+{
+  "image_id": "img_200280",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_200280_t0",
+      "bbox": [
+        10,
+        45,
+        403,
+        437
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            10,
+            46,
+            403,
+            108
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            10,
+            108,
+            403,
+            161
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            10,
+            161,
+            403,
+            214
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            10,
+            214,
+            403,
+            268
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            10,
+            268,
+            403,
+            321
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            10,
+            321,
+            403,
+            383
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            10,
+            383,
+            403,
+            436
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Category</td><td>ProjectedRevenue</td><td>ProjectedExpenditure</td><td>BudgetDeficit</td><td>DebttoGDP</td><td>FiscalBalance</td><td>Currency</td><td>Year</td><td>Notes</td></tr><tr><td>TaxRevenue</td><td>CHF500M</td><td>CHF600M</td><td>CHF-100M</td><td>50%</td><td>Balanced</td><td>CHF</td><td>2024</td><td>Projectedfigures</td></tr><tr><td>Non-TaxRevenue</td><td>CHF200M</td><td>CHF250M</td><td>CHF-50M</td><td>25%</td><td>Deficitexpected</td><td>CHF</td><td>2024</td><td>Includesfees</td></tr><tr><td>TotalRevenue</td><td>CHF700M</td><td>CHF850M</td><td>CHF-150M</td><td>75%</td><td>Negativeoutlook</td><td>CHF</td><td>2024</td><td>Overallbudget</td></tr><tr><td>SocialSecurity</td><td>CHF300M</td><td>CHF350M</td><td>CHF-50M</td><td>30%</td><td>Slightlyincreasing</td><td>CHF</td><td>2024</td><td>Pensionsupport</td></tr><tr><td>PublicServices</td><td>CHF150M</td><td>CHF200M</td><td>CHF-50M</td><td>20%</td><td>Stablefunding</td><td>CHF</td><td>2024</td><td>Serviceimprovements</td></tr><tr><td>InvestmentProjects</td><td>CHF100M</td><td>CHF150M</td><td>CHF-50M</td><td>15%</td><td>Underreview</td><td>CHF</td><td>2024</td><td>Infrastructurefocus</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Category",
+          "bbox": [
+            10,
+            46,
+            249,
+            108
+          ],
+          "words": [
+            {
+              "text": "Category",
+              "bbox": [
+                218,
+                49,
+                245,
+                56
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectedRevenue",
+          "bbox": [
+            249,
+            46,
+            268,
+            108
+          ],
+          "words": [
+            {
+              "text": "ProjectedRevenue",
+              "bbox": [
+                252,
+                49,
+                264,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectedExpenditure",
+          "bbox": [
+            268,
+            46,
+            287,
+            108
+          ],
+          "words": [
+            {
+              "text": "ProjectedExpenditure",
+              "bbox": [
+                272,
+                49,
+                284,
+                105
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "BudgetDeficit",
+          "bbox": [
+            287,
+            46,
+            307,
+            108
+          ],
+          "words": [
+            {
+              "text": "BudgetDeficit",
+              "bbox": [
+                292,
+                49,
+                303,
+                86
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "DebttoGDP",
+          "bbox": [
+            307,
+            46,
+            326,
+            108
+          ],
+          "words": [
+            {
+              "text": "DebttoGDP",
+              "bbox": [
+                311,
+                49,
+                323,
+                86
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "FiscalBalance",
+          "bbox": [
+            326,
+            46,
+            345,
+            108
+          ],
+          "words": [
+            {
+              "text": "FiscalBalance",
+              "bbox": [
+                330,
+                49,
+                342,
+                86
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Currency",
+          "bbox": [
+            345,
+            46,
+            365,
+            108
+          ],
+          "words": [
+            {
+              "text": "Currency",
+              "bbox": [
+                349,
+                49,
+                361,
+                76
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Year",
+          "bbox": [
+            365,
+            46,
+            384,
+            108
+          ],
+          "words": [
+            {
+              "text": "Year",
+              "bbox": [
+                370,
+                49,
+                380,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Notes",
+          "bbox": [
+            384,
+            46,
+            403,
+            108
+          ],
+          "words": [
+            {
+              "text": "Notes",
+              "bbox": [
+                389,
+                49,
+                400,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TaxRevenue",
+          "bbox": [
+            10,
+            108,
+            249,
+            161
+          ],
+          "words": [
+            {
+              "text": "TaxRevenue",
+              "bbox": [
+                209,
+                111,
+                245,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF500M",
+          "bbox": [
+            249,
+            108,
+            268,
+            161
+          ],
+          "words": [
+            {
+              "text": "CHF500M",
+              "bbox": [
+                252,
+                111,
+                264,
+                138
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF600M",
+          "bbox": [
+            268,
+            108,
+            287,
+            161
+          ],
+          "words": [
+            {
+              "text": "CHF600M",
+              "bbox": [
+                273,
+                111,
+                284,
+                138
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF-100M",
+          "bbox": [
+            287,
+            108,
+            307,
+            161
+          ],
+          "words": [
+            {
+              "text": "CHF-100M",
+              "bbox": [
+                293,
+                111,
+                303,
+                148
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "50%",
+          "bbox": [
+            307,
+            108,
+            326,
+            161
+          ],
+          "words": [
+            {
+              "text": "50%",
+              "bbox": [
+                316,
+                111,
+                323,
+                129
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Balanced",
+          "bbox": [
+            326,
+            108,
+            345,
+            161
+          ],
+          "words": [
+            {
+              "text": "Balanced",
+              "bbox": [
+                331,
+                111,
+                342,
+                138
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF",
+          "bbox": [
+            345,
+            108,
+            365,
+            161
+          ],
+          "words": [
+            {
+              "text": "CHF",
+              "bbox": [
+                351,
+                111,
+                361,
+                129
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "2024",
+          "bbox": [
+            365,
+            108,
+            384,
+            161
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                370,
+                111,
+                380,
+                129
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Projectedfigures",
+          "bbox": [
+            384,
+            108,
+            403,
+            161
+          ],
+          "words": [
+            {
+              "text": "Projectedfigures",
+              "bbox": [
+                389,
+                111,
+                400,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Non-TaxRevenue",
+          "bbox": [
+            10,
+            161,
+            249,
+            214
+          ],
+          "words": [
+            {
+              "text": "Non-TaxRevenue",
+              "bbox": [
+                194,
+                164,
+                245,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF200M",
+          "bbox": [
+            249,
+            161,
+            268,
+            214
+          ],
+          "words": [
+            {
+              "text": "CHF200M",
+              "bbox": [
+                252,
+                164,
+                264,
+                191
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF250M",
+          "bbox": [
+            268,
+            161,
+            287,
+            214
+          ],
+          "words": [
+            {
+              "text": "CHF250M",
+              "bbox": [
+                273,
+                164,
+                284,
+                191
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF-50M",
+          "bbox": [
+            287,
+            161,
+            307,
+            214
+          ],
+          "words": [
+            {
+              "text": "CHF-50M",
+              "bbox": [
+                293,
+                164,
+                303,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "25%",
+          "bbox": [
+            307,
+            161,
+            326,
+            214
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                316,
+                164,
+                323,
+                181
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Deficitexpected",
+          "bbox": [
+            326,
+            161,
+            345,
+            214
+          ],
+          "words": [
+            {
+              "text": "Deficitexpected",
+              "bbox": [
+                330,
+                164,
+                342,
+                211
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF",
+          "bbox": [
+            345,
+            161,
+            365,
+            214
+          ],
+          "words": [
+            {
+              "text": "CHF",
+              "bbox": [
+                351,
+                164,
+                361,
+                181
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "2024",
+          "bbox": [
+            365,
+            161,
+            384,
+            214
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                370,
+                164,
+                380,
+                181
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Includesfees",
+          "bbox": [
+            384,
+            161,
+            403,
+            214
+          ],
+          "words": [
+            {
+              "text": "Includesfees",
+              "bbox": [
+                388,
+                164,
+                400,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            10,
+            214,
+            249,
+            268
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                207,
+                218,
+                245,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF700M",
+          "bbox": [
+            249,
+            214,
+            268,
+            268
+          ],
+          "words": [
+            {
+              "text": "CHF700M",
+              "bbox": [
+                252,
+                218,
+                263,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF850M",
+          "bbox": [
+            268,
+            214,
+            287,
+            268
+          ],
+          "words": [
+            {
+              "text": "CHF850M",
+              "bbox": [
+                273,
+                218,
+                284,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF-150M",
+          "bbox": [
+            287,
+            214,
+            307,
+            268
+          ],
+          "words": [
+            {
+              "text": "CHF-150M",
+              "bbox": [
+                293,
+                218,
+                303,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            307,
+            214,
+            326,
+            268
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                316,
+                218,
+                323,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Negativeoutlook",
+          "bbox": [
+            326,
+            214,
+            345,
+            268
+          ],
+          "words": [
+            {
+              "text": "Negativeoutlook",
+              "bbox": [
+                330,
+                218,
+                342,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF",
+          "bbox": [
+            345,
+            214,
+            365,
+            268
+          ],
+          "words": [
+            {
+              "text": "CHF",
+              "bbox": [
+                351,
+                218,
+                361,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "2024",
+          "bbox": [
+            365,
+            214,
+            384,
+            268
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                370,
+                218,
+                380,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Overallbudget",
+          "bbox": [
+            384,
+            214,
+            403,
+            268
+          ],
+          "words": [
+            {
+              "text": "Overallbudget",
+              "bbox": [
+                388,
+                218,
+                400,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SocialSecurity",
+          "bbox": [
+            10,
+            268,
+            249,
+            321
+          ],
+          "words": [
+            {
+              "text": "SocialSecurity",
+              "bbox": [
+                205,
+                270,
+                245,
+                278
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF300M",
+          "bbox": [
+            249,
+            268,
+            268,
+            321
+          ],
+          "words": [
+            {
+              "text": "CHF300M",
+              "bbox": [
+                252,
+                270,
+                263,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF350M",
+          "bbox": [
+            268,
+            268,
+            287,
+            321
+          ],
+          "words": [
+            {
+              "text": "CHF350M",
+              "bbox": [
+                273,
+                270,
+                284,
+                298
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF-50M",
+          "bbox": [
+            287,
+            268,
+            307,
+            321
+          ],
+          "words": [
+            {
+              "text": "CHF-50M",
+              "bbox": [
+                294,
+                270,
+                303,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "30%",
+          "bbox": [
+            307,
+            268,
+            326,
+            321
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                316,
+                270,
+                323,
+                288
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Slightlyincreasing",
+          "bbox": [
+            326,
+            268,
+            345,
+            321
+          ],
+          "words": [
+            {
+              "text": "Slightlyincreasing",
+              "bbox": [
+                331,
+                270,
+                342,
+                317
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF",
+          "bbox": [
+            345,
+            268,
+            365,
+            321
+          ],
+          "words": [
+            {
+              "text": "CHF",
+              "bbox": [
+                351,
+                270,
+                361,
+                288
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "2024",
+          "bbox": [
+            365,
+            268,
+            384,
+            321
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                370,
+                270,
+                380,
+                288
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Pensionsupport",
+          "bbox": [
+            384,
+            268,
+            403,
+            321
+          ],
+          "words": [
+            {
+              "text": "Pensionsupport",
+              "bbox": [
+                388,
+                270,
+                400,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PublicServices",
+          "bbox": [
+            10,
+            321,
+            249,
+            383
+          ],
+          "words": [
+            {
+              "text": "PublicServices",
+              "bbox": [
+                204,
+                323,
+                245,
+                331
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF150M",
+          "bbox": [
+            249,
+            321,
+            268,
+            383
+          ],
+          "words": [
+            {
+              "text": "CHF150M",
+              "bbox": [
+                252,
+                323,
+                263,
+                350
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF200M",
+          "bbox": [
+            268,
+            321,
+            287,
+            383
+          ],
+          "words": [
+            {
+              "text": "CHF200M",
+              "bbox": [
+                273,
+                323,
+                284,
+                350
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF-50M",
+          "bbox": [
+            287,
+            321,
+            307,
+            383
+          ],
+          "words": [
+            {
+              "text": "CHF-50M",
+              "bbox": [
+                294,
+                323,
+                303,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            307,
+            321,
+            326,
+            383
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                316,
+                323,
+                323,
+                341
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Stablefunding",
+          "bbox": [
+            326,
+            321,
+            345,
+            383
+          ],
+          "words": [
+            {
+              "text": "Stablefunding",
+              "bbox": [
+                331,
+                323,
+                342,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF",
+          "bbox": [
+            345,
+            321,
+            365,
+            383
+          ],
+          "words": [
+            {
+              "text": "CHF",
+              "bbox": [
+                351,
+                323,
+                361,
+                341
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "2024",
+          "bbox": [
+            365,
+            321,
+            384,
+            383
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                370,
+                323,
+                380,
+                341
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Serviceimprovements",
+          "bbox": [
+            384,
+            321,
+            403,
+            383
+          ],
+          "words": [
+            {
+              "text": "Serviceimprovements",
+              "bbox": [
+                387,
+                323,
+                400,
+                380
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "InvestmentProjects",
+          "bbox": [
+            10,
+            383,
+            249,
+            436
+          ],
+          "words": [
+            {
+              "text": "InvestmentProjects",
+              "bbox": [
+                192,
+                386,
+                245,
+                394
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF100M",
+          "bbox": [
+            249,
+            383,
+            268,
+            436
+          ],
+          "words": [
+            {
+              "text": "CHF100M",
+              "bbox": [
+                252,
+                386,
+                263,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF150M",
+          "bbox": [
+            268,
+            383,
+            287,
+            436
+          ],
+          "words": [
+            {
+              "text": "CHF150M",
+              "bbox": [
+                273,
+                386,
+                284,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF-50M",
+          "bbox": [
+            287,
+            383,
+            307,
+            436
+          ],
+          "words": [
+            {
+              "text": "CHF-50M",
+              "bbox": [
+                294,
+                386,
+                303,
+                423
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            307,
+            383,
+            326,
+            436
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                316,
+                386,
+                323,
+                403
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Underreview",
+          "bbox": [
+            326,
+            383,
+            345,
+            436
+          ],
+          "words": [
+            {
+              "text": "Underreview",
+              "bbox": [
+                330,
+                386,
+                342,
+                423
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "CHF",
+          "bbox": [
+            345,
+            383,
+            365,
+            436
+          ],
+          "words": [
+            {
+              "text": "CHF",
+              "bbox": [
+                351,
+                386,
+                361,
+                403
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "2024",
+          "bbox": [
+            365,
+            383,
+            384,
+            436
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                370,
+                386,
+                380,
+                403
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Infrastructurefocus",
+          "bbox": [
+            384,
+            383,
+            403,
+            436
+          ],
+          "words": [
+            {
+              "text": "Infrastructurefocus",
+              "bbox": [
+                388,
+                386,
+                400,
+                432
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        10,
+        447,
+        403,
+        565
+      ],
+      "content": "In the Fiscal Year 2024 report from the Ministry of Finance Japan, the Budget Deficit projections reveal that under the header TaxRevenue, projected revenue is CHF500M while projected expenditure is CHF600M, resulting in a budget deficit of CHF-100M, a debt to GDP ratio of 50%, and a fiscal balance described as Balanced; the currency is CHF. The Non-TaxRevenue category indicates projected revenue of CHF200M against projected expenditure of CHF250M, leading to a budget deficit of CHF-50M, with a debt to GDP ratio of 25% and a fiscal balance labeled as Deficit expected, including fees. The TotalRevenue row shows total projected revenue of CHF700M and total projected expenditure of CHF850M, resulting in a budget deficit of CHF-150M, a debt to GDP ratio of 75%, and a fiscal balance characterized as Negative outlook, covering the overall budget. In terms of SocialSecurity, projected revenue is CHF300M against expenditure of CHF350M, yielding a budget deficit of CHF-50M, a debt to GDP ratio of 30%, and a fiscal balance that is Slightly increasing, reflecting pensions support. For PublicServices, revenue is CHF150M with expenditures at CHF200M, resulting in a budget deficit of CHF-50M and a debt to GDP ratio of 20%, marked by Stable funding and service improvements.",
+      "lines": [
+        {
+          "text": "In the Fiscal Year 2024 report from the Ministry of Finance Japan, the Budget Deficit projections reveal that under the header",
+          "bbox": [
+            10,
+            448,
+            403,
+            456
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                10,
+                448,
+                17,
+                456
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                19,
+                448,
+                29,
+                456
+              ]
+            },
+            {
+              "text": "Fiscal",
+              "bbox": [
+                31,
+                448,
+                49,
+                456
+              ]
+            },
+            {
+              "text": "Year",
+              "bbox": [
+                51,
+                448,
+                65,
+                456
+              ]
+            },
+            {
+              "text": "2024",
+              "bbox": [
+                68,
+                448,
+                83,
+                456
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                85,
+                448,
+                104,
+                456
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                106,
+                448,
+                121,
+                456
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                123,
+                448,
+                132,
+                456
+              ]
+            },
+            {
+              "text": "Ministry",
+              "bbox": [
+                135,
+                448,
+                161,
+                456
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                164,
+                448,
+                170,
+                456
+              ]
+            },
+            {
+              "text": "Finance",
+              "bbox": [
+                172,
+                448,
+                196,
+                456
+              ]
+            },
+            {
+              "text": "Japan,",
+              "bbox": [
+                199,
+                448,
+                218,
+                456
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                220,
+                448,
+                230,
+                456
+              ]
+            },
+            {
+              "text": "Budget",
+              "bbox": [
+                232,
+                448,
+                254,
+                456
+              ]
+            },
+            {
+              "text": "Deficit",
+              "bbox": [
+                257,
+                448,
+                278,
+                456
+              ]
+            },
+            {
+              "text": "projections",
+              "bbox": [
+                280,
+                448,
+                314,
+                456
+              ]
+            },
+            {
+              "text": "reveal",
+              "bbox": [
+                317,
+                448,
+                335,
+                456
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                338,
+                448,
+                349,
+                456
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                351,
+                448,
+                369,
+                456
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                371,
+                448,
+                381,
+                456
+              ]
+            },
+            {
+              "text": "header",
+              "bbox": [
+                383,
+                448,
+                403,
+                456
+              ]
+            }
+          ]
+        },
+        {
+          "text": "TaxRevenue, projected revenue is CHF500M while projected expenditure is CHF600M, resulting in a budget deficit of CHF-",
+          "bbox": [
+            10,
+            458,
+            403,
+            467
+          ],
+          "words": [
+            {
+              "text": "TaxRevenue,",
+              "bbox": [
+                10,
+                458,
+                50,
+                467
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                53,
+                458,
+                81,
+                467
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                84,
+                458,
+                108,
+                467
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                111,
+                458,
+                116,
+                467
+              ]
+            },
+            {
+              "text": "CHF500M",
+              "bbox": [
+                118,
+                458,
+                151,
+                467
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                154,
+                458,
+                171,
+                467
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                173,
+                458,
+                202,
+                467
+              ]
+            },
+            {
+              "text": "expenditure",
+              "bbox": [
+                204,
+                458,
+                240,
+                467
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                243,
+                458,
+                248,
+                467
+              ]
+            },
+            {
+              "text": "CHF600M,",
+              "bbox": [
+                250,
+                458,
+                286,
+                467
+              ]
+            },
+            {
+              "text": "resulting",
+              "bbox": [
+                288,
+                458,
+                315,
+                467
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                317,
+                458,
+                323,
+                467
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                326,
+                458,
+                329,
+                467
+              ]
+            },
+            {
+              "text": "budget",
+              "bbox": [
+                332,
+                458,
+                352,
+                467
+              ]
+            },
+            {
+              "text": "deficit",
+              "bbox": [
+                355,
+                458,
+                374,
+                467
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                377,
+                458,
+                383,
+                467
+              ]
+            },
+            {
+              "text": "CHF-",
+              "bbox": [
+                386,
+                458,
+                403,
+                467
+              ]
+            }
+          ]
+        },
+        {
+          "text": "100M, a debt to GDP ratio of 50%, and a fiscal balance described as Balanced; the currency is CHF. The Non-TaxRevenue",
+          "bbox": [
+            10,
+            469,
+            403,
+            478
+          ],
+          "words": [
+            {
+              "text": "100M,",
+              "bbox": [
+                10,
+                469,
+                31,
+                478
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                33,
+                469,
+                37,
+                478
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                40,
+                469,
+                53,
+                478
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                55,
+                469,
+                61,
+                478
+              ]
+            },
+            {
+              "text": "GDP",
+              "bbox": [
+                64,
+                469,
+                79,
+                478
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                82,
+                469,
+                96,
+                478
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                99,
+                469,
+                105,
+                478
+              ]
+            },
+            {
+              "text": "50%,",
+              "bbox": [
+                108,
+                469,
+                124,
+                478
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                127,
+                469,
+                138,
+                478
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                140,
+                469,
+                144,
+                478
+              ]
+            },
+            {
+              "text": "fiscal",
+              "bbox": [
+                147,
+                469,
+                163,
+                478
+              ]
+            },
+            {
+              "text": "balance",
+              "bbox": [
+                166,
+                469,
+                189,
+                478
+              ]
+            },
+            {
+              "text": "described",
+              "bbox": [
+                192,
+                469,
+                221,
+                478
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                224,
+                469,
+                230,
+                478
+              ]
+            },
+            {
+              "text": "Balanced;",
+              "bbox": [
+                233,
+                469,
+                264,
+                478
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                266,
+                469,
+                276,
+                478
+              ]
+            },
+            {
+              "text": "currency",
+              "bbox": [
+                279,
+                469,
+                305,
+                478
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                308,
+                469,
+                313,
+                478
+              ]
+            },
+            {
+              "text": "CHF.",
+              "bbox": [
+                316,
+                469,
+                332,
+                478
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                335,
+                469,
+                347,
+                478
+              ]
+            },
+            {
+              "text": "Non-TaxRevenue",
+              "bbox": [
+                349,
+                469,
+                403,
+                478
+              ]
+            }
+          ]
+        },
+        {
+          "text": "category indicates projected revenue of CHF200M against projected expenditure of CHF250M, leading to a budget deficit of",
+          "bbox": [
+            10,
+            480,
+            403,
+            488
+          ],
+          "words": [
+            {
+              "text": "category",
+              "bbox": [
+                10,
+                480,
+                37,
+                488
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                39,
+                480,
+                66,
+                488
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                69,
+                480,
+                98,
+                488
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                100,
+                480,
+                124,
+                488
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                127,
+                480,
+                133,
+                488
+              ]
+            },
+            {
+              "text": "CHF200M",
+              "bbox": [
+                136,
+                480,
+                169,
+                488
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                171,
+                480,
+                193,
+                488
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                196,
+                480,
+                224,
+                488
+              ]
+            },
+            {
+              "text": "expenditure",
+              "bbox": [
+                227,
+                480,
+                263,
+                488
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                265,
+                480,
+                272,
+                488
+              ]
+            },
+            {
+              "text": "CHF250M,",
+              "bbox": [
+                274,
+                480,
+                309,
+                488
+              ]
+            },
+            {
+              "text": "leading",
+              "bbox": [
+                312,
+                480,
+                334,
+                488
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                337,
+                480,
+                343,
+                488
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                345,
+                480,
+                349,
+                488
+              ]
+            },
+            {
+              "text": "budget",
+              "bbox": [
+                351,
+                480,
+                372,
+                488
+              ]
+            },
+            {
+              "text": "deficit",
+              "bbox": [
+                375,
+                480,
+                394,
+                488
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                397,
+                480,
+                403,
+                488
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CHF-50M, with a debt to GDP ratio of 25% and a fiscal balance labeled as Deficit expected, including fees. The TotalRevenue",
+          "bbox": [
+            10,
+            491,
+            403,
+            499
+          ],
+          "words": [
+            {
+              "text": "CHF-50M,",
+              "bbox": [
+                10,
+                491,
+                44,
+                499
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                46,
+                491,
+                60,
+                499
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                62,
+                491,
+                66,
+                499
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                68,
+                491,
+                81,
+                499
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                83,
+                491,
+                89,
+                499
+              ]
+            },
+            {
+              "text": "GDP",
+              "bbox": [
+                91,
+                491,
+                106,
+                499
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                108,
+                491,
+                122,
+                499
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                125,
+                491,
+                131,
+                499
+              ]
+            },
+            {
+              "text": "25%",
+              "bbox": [
+                133,
+                491,
+                147,
+                499
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                149,
+                491,
+                160,
+                499
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                162,
+                491,
+                166,
+                499
+              ]
+            },
+            {
+              "text": "fiscal",
+              "bbox": [
+                168,
+                491,
+                185,
+                499
+              ]
+            },
+            {
+              "text": "balance",
+              "bbox": [
+                187,
+                491,
+                210,
+                499
+              ]
+            },
+            {
+              "text": "labeled",
+              "bbox": [
+                212,
+                491,
+                234,
+                499
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                236,
+                491,
+                243,
+                499
+              ]
+            },
+            {
+              "text": "Deficit",
+              "bbox": [
+                245,
+                491,
+                266,
+                499
+              ]
+            },
+            {
+              "text": "expected,",
+              "bbox": [
+                268,
+                491,
+                298,
+                499
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                300,
+                491,
+                329,
+                499
+              ]
+            },
+            {
+              "text": "fees.",
+              "bbox": [
+                331,
+                491,
+                345,
+                499
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                347,
+                491,
+                359,
+                499
+              ]
+            },
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                361,
+                491,
+                403,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "text": "row shows total projected revenue of CHF700M and total projected expenditure of CHF850M, resulting in a budget deficit of",
+          "bbox": [
+            10,
+            501,
+            403,
+            510
+          ],
+          "words": [
+            {
+              "text": "row",
+              "bbox": [
+                10,
+                501,
+                22,
+                510
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                25,
+                501,
+                44,
+                510
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                46,
+                501,
+                60,
+                510
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                62,
+                501,
+                91,
+                510
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                93,
+                501,
+                117,
+                510
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                120,
+                501,
+                126,
+                510
+              ]
+            },
+            {
+              "text": "CHF700M",
+              "bbox": [
+                128,
+                501,
+                161,
+                510
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                164,
+                501,
+                175,
+                510
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                177,
+                501,
+                191,
+                510
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                193,
+                501,
+                222,
+                510
+              ]
+            },
+            {
+              "text": "expenditure",
+              "bbox": [
+                224,
+                501,
+                260,
+                510
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                262,
+                501,
+                269,
+                510
+              ]
+            },
+            {
+              "text": "CHF850M,",
+              "bbox": [
+                271,
+                501,
+                306,
+                510
+              ]
+            },
+            {
+              "text": "resulting",
+              "bbox": [
+                309,
+                501,
+                335,
+                510
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                338,
+                501,
+                344,
+                510
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                346,
+                501,
+                349,
+                510
+              ]
+            },
+            {
+              "text": "budget",
+              "bbox": [
+                352,
+                501,
+                373,
+                510
+              ]
+            },
+            {
+              "text": "deficit",
+              "bbox": [
+                375,
+                501,
+                395,
+                510
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                397,
+                501,
+                403,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CHF-150M, a debt to GDP ratio of 75%, and a fiscal balance characterized as Negative outlook, covering the overall budget. In",
+          "bbox": [
+            10,
+            512,
+            403,
+            520
+          ],
+          "words": [
+            {
+              "text": "CHF-150M,",
+              "bbox": [
+                10,
+                512,
+                48,
+                520
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                50,
+                512,
+                53,
+                520
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                55,
+                512,
+                69,
+                520
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                71,
+                512,
+                77,
+                520
+              ]
+            },
+            {
+              "text": "GDP",
+              "bbox": [
+                79,
+                512,
+                94,
+                520
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                96,
+                512,
+                110,
+                520
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                112,
+                512,
+                118,
+                520
+              ]
+            },
+            {
+              "text": "75%,",
+              "bbox": [
+                120,
+                512,
+                136,
+                520
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                138,
+                512,
+                149,
+                520
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                151,
+                512,
+                155,
+                520
+              ]
+            },
+            {
+              "text": "fiscal",
+              "bbox": [
+                157,
+                512,
+                173,
+                520
+              ]
+            },
+            {
+              "text": "balance",
+              "bbox": [
+                175,
+                512,
+                199,
+                520
+              ]
+            },
+            {
+              "text": "characterized",
+              "bbox": [
+                201,
+                512,
+                241,
+                520
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                243,
+                512,
+                250,
+                520
+              ]
+            },
+            {
+              "text": "Negative",
+              "bbox": [
+                252,
+                512,
+                279,
+                520
+              ]
+            },
+            {
+              "text": "outlook,",
+              "bbox": [
+                281,
+                512,
+                307,
+                520
+              ]
+            },
+            {
+              "text": "covering",
+              "bbox": [
+                309,
+                512,
+                335,
+                520
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                337,
+                512,
+                347,
+                520
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                349,
+                512,
+                370,
+                520
+              ]
+            },
+            {
+              "text": "budget.",
+              "bbox": [
+                372,
+                512,
+                395,
+                520
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                397,
+                512,
+                403,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "text": "terms of SocialSecurity, projected revenue is CHF300M against expenditure of CHF350M, yielding a budget deficit of CHF-",
+          "bbox": [
+            10,
+            523,
+            403,
+            531
+          ],
+          "words": [
+            {
+              "text": "terms",
+              "bbox": [
+                10,
+                523,
+                27,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                30,
+                523,
+                36,
+                531
+              ]
+            },
+            {
+              "text": "SocialSecurity,",
+              "bbox": [
+                39,
+                523,
+                85,
+                531
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                87,
+                523,
+                116,
+                531
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                118,
+                523,
+                143,
+                531
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                145,
+                523,
+                150,
+                531
+              ]
+            },
+            {
+              "text": "CHF300M",
+              "bbox": [
+                153,
+                523,
+                186,
+                531
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                189,
+                523,
+                210,
+                531
+              ]
+            },
+            {
+              "text": "expenditure",
+              "bbox": [
+                213,
+                523,
+                249,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                251,
+                523,
+                258,
+                531
+              ]
+            },
+            {
+              "text": "CHF350M,",
+              "bbox": [
+                260,
+                523,
+                295,
+                531
+              ]
+            },
+            {
+              "text": "yielding",
+              "bbox": [
+                298,
+                523,
+                323,
+                531
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                326,
+                523,
+                329,
+                531
+              ]
+            },
+            {
+              "text": "budget",
+              "bbox": [
+                331,
+                523,
+                352,
+                531
+              ]
+            },
+            {
+              "text": "deficit",
+              "bbox": [
+                355,
+                523,
+                374,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                377,
+                523,
+                383,
+                531
+              ]
+            },
+            {
+              "text": "CHF-",
+              "bbox": [
+                386,
+                523,
+                403,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "text": "50M, a debt to GDP ratio of 30%, and a fiscal balance that is Slightly increasing, reflecting pensions support. For",
+          "bbox": [
+            10,
+            533,
+            403,
+            542
+          ],
+          "words": [
+            {
+              "text": "50M,",
+              "bbox": [
+                10,
+                533,
+                27,
+                542
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                31,
+                533,
+                35,
+                542
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                39,
+                533,
+                52,
+                542
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                56,
+                533,
+                62,
+                542
+              ]
+            },
+            {
+              "text": "GDP",
+              "bbox": [
+                67,
+                533,
+                82,
+                542
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                86,
+                533,
+                100,
+                542
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                104,
+                533,
+                111,
+                542
+              ]
+            },
+            {
+              "text": "30%,",
+              "bbox": [
+                115,
+                533,
+                131,
+                542
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                135,
+                533,
+                146,
+                542
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                151,
+                533,
+                154,
+                542
+              ]
+            },
+            {
+              "text": "fiscal",
+              "bbox": [
+                159,
+                533,
+                175,
+                542
+              ]
+            },
+            {
+              "text": "balance",
+              "bbox": [
+                179,
+                533,
+                203,
+                542
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                207,
+                533,
+                219,
+                542
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                223,
+                533,
+                228,
+                542
+              ]
+            },
+            {
+              "text": "Slightly",
+              "bbox": [
+                232,
+                533,
+                257,
+                542
+              ]
+            },
+            {
+              "text": "increasing,",
+              "bbox": [
+                261,
+                533,
+                294,
+                542
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                299,
+                533,
+                328,
+                542
+              ]
+            },
+            {
+              "text": "pensions",
+              "bbox": [
+                332,
+                533,
+                359,
+                542
+              ]
+            },
+            {
+              "text": "support.",
+              "bbox": [
+                363,
+                533,
+                388,
+                542
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                393,
+                533,
+                403,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "text": "PublicServices, revenue is CHF150M with expenditures at CHF200M, resulting in a budget deficit of CHF-50M and a debt to",
+          "bbox": [
+            10,
+            544,
+            403,
+            552
+          ],
+          "words": [
+            {
+              "text": "PublicServices,",
+              "bbox": [
+                10,
+                544,
+                58,
+                552
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                60,
+                544,
+                84,
+                552
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                87,
+                544,
+                92,
+                552
+              ]
+            },
+            {
+              "text": "CHF150M",
+              "bbox": [
+                94,
+                544,
+                127,
+                552
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                129,
+                544,
+                143,
+                552
+              ]
+            },
+            {
+              "text": "expenditures",
+              "bbox": [
+                145,
+                544,
+                184,
+                552
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                187,
+                544,
+                192,
+                552
+              ]
+            },
+            {
+              "text": "CHF200M,",
+              "bbox": [
+                195,
+                544,
+                230,
+                552
+              ]
+            },
+            {
+              "text": "resulting",
+              "bbox": [
+                232,
+                544,
+                259,
+                552
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                261,
+                544,
+                267,
+                552
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                269,
+                544,
+                273,
+                552
+              ]
+            },
+            {
+              "text": "budget",
+              "bbox": [
+                275,
+                544,
+                296,
+                552
+              ]
+            },
+            {
+              "text": "deficit",
+              "bbox": [
+                298,
+                544,
+                318,
+                552
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                320,
+                544,
+                326,
+                552
+              ]
+            },
+            {
+              "text": "CHF-50M",
+              "bbox": [
+                329,
+                544,
+                360,
+                552
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                363,
+                544,
+                374,
+                552
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                376,
+                544,
+                380,
+                552
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                382,
+                544,
+                395,
+                552
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                397,
+                544,
+                403,
+                552
+              ]
+            }
+          ]
+        },
+        {
+          "text": "GDP ratio of 20%, marked by Stable funding and service improvements.",
+          "bbox": [
+            10,
+            555,
+            233,
+            563
+          ],
+          "words": [
+            {
+              "text": "GDP",
+              "bbox": [
+                10,
+                555,
+                25,
+                563
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                27,
+                555,
+                41,
+                563
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                43,
+                555,
+                50,
+                563
+              ]
+            },
+            {
+              "text": "20%,",
+              "bbox": [
+                52,
+                555,
+                68,
+                563
+              ]
+            },
+            {
+              "text": "marked",
+              "bbox": [
+                69,
+                555,
+                92,
+                563
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                94,
+                555,
+                102,
+                563
+              ]
+            },
+            {
+              "text": "Stable",
+              "bbox": [
+                104,
+                555,
+                123,
+                563
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                125,
+                555,
+                149,
+                563
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                151,
+                555,
+                162,
+                563
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                164,
+                555,
+                185,
+                563
+              ]
+            },
+            {
+              "text": "improvements.",
+              "bbox": [
+                187,
+                555,
+                233,
+                563
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_200280_t1",
+      "bbox": [
+        10,
+        575,
+        403,
+        703
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "None",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            11,
+            576,
+            403,
+            590
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            11,
+            590,
+            403,
+            605
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            11,
+            605,
+            403,
+            619
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            11,
+            619,
+            403,
+            634
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            11,
+            634,
+            403,
+            648
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            11,
+            648,
+            403,
+            661
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            11,
+            661,
+            403,
+            675
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            11,
+            675,
+            403,
+            689
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            11,
+            689,
+            403,
+            703
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Municipality</td><td>DebtServiceRatio</td><td>TotalDebt</td></tr><tr><td colspan=\"3\">FiscalYear2024</td><td>Currency</td><td>CHF</td></tr><tr><td>Tokyo</td><td>12.5%</td><td>150M</td><td>High</td><td>Stable</td></tr><tr><td>Osaka</td><td>10.2%</td><td>100M</td><td>Medium</td><td>Improving</td></tr><tr><td>Kyoto</td><td>8.9%</td><td>75M</td><td>Low</td><td>Stable</td></tr><tr><td>Yokohama</td><td>14.8%</td><td>200M</td><td>High</td><td>Declining</td></tr><tr><td>Nagoya</td><td>9.5%</td><td>90M</td><td>Medium</td><td>Stable</td></tr><tr><td>Sapporo</td><td>7.4%</td><td>50M</td><td>Low</td><td>Improving</td></tr><tr><td>Fukuoka</td><td>11.0%</td><td>120M</td><td>Medium</td><td>Stable</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Municipality",
+          "bbox": [
+            11,
+            576,
+            113,
+            590
+          ],
+          "words": [
+            {
+              "text": "Municipality",
+              "bbox": [
+                15,
+                579,
+                53,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "DebtServiceRatio",
+          "bbox": [
+            113,
+            576,
+            215,
+            590
+          ],
+          "words": [
+            {
+              "text": "DebtServiceRatio",
+              "bbox": [
+                117,
+                579,
+                169,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalDebt",
+          "bbox": [
+            215,
+            576,
+            317,
+            590
+          ],
+          "words": [
+            {
+              "text": "TotalDebt",
+              "bbox": [
+                283,
+                579,
+                313,
+                586
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "FiscalYear2024",
+          "bbox": [
+            11,
+            590,
+            317,
+            605
+          ],
+          "words": [
+            {
+              "text": "FiscalYear2024",
+              "bbox": [
+                15,
+                593,
+                60,
+                601
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Currency",
+          "bbox": [
+            317,
+            590,
+            360,
+            605
+          ],
+          "words": [
+            {
+              "text": "Currency",
+              "bbox": [
+                320,
+                593,
+                349,
+                601
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "CHF",
+          "bbox": [
+            360,
+            590,
+            403,
+            605
+          ],
+          "words": [
+            {
+              "text": "CHF",
+              "bbox": [
+                384,
+                593,
+                399,
+                601
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Tokyo",
+          "bbox": [
+            11,
+            605,
+            113,
+            619
+          ],
+          "words": [
+            {
+              "text": "Tokyo",
+              "bbox": [
+                15,
+                608,
+                33,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "12.5%",
+          "bbox": [
+            113,
+            605,
+            215,
+            619
+          ],
+          "words": [
+            {
+              "text": "12.5%",
+              "bbox": [
+                117,
+                608,
+                136,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "150M",
+          "bbox": [
+            215,
+            605,
+            317,
+            619
+          ],
+          "words": [
+            {
+              "text": "150M",
+              "bbox": [
+                296,
+                608,
+                313,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "High",
+          "bbox": [
+            317,
+            605,
+            360,
+            619
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                320,
+                608,
+                335,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Stable",
+          "bbox": [
+            360,
+            605,
+            403,
+            619
+          ],
+          "words": [
+            {
+              "text": "Stable",
+              "bbox": [
+                381,
+                608,
+                399,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Osaka",
+          "bbox": [
+            11,
+            619,
+            113,
+            634
+          ],
+          "words": [
+            {
+              "text": "Osaka",
+              "bbox": [
+                14,
+                622,
+                32,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10.2%",
+          "bbox": [
+            113,
+            619,
+            215,
+            634
+          ],
+          "words": [
+            {
+              "text": "10.2%",
+              "bbox": [
+                116,
+                622,
+                134,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "100M",
+          "bbox": [
+            215,
+            619,
+            317,
+            634
+          ],
+          "words": [
+            {
+              "text": "100M",
+              "bbox": [
+                297,
+                622,
+                313,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            317,
+            619,
+            360,
+            634
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                320,
+                622,
+                344,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Improving",
+          "bbox": [
+            360,
+            619,
+            403,
+            634
+          ],
+          "words": [
+            {
+              "text": "Improving",
+              "bbox": [
+                370,
+                622,
+                399,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Kyoto",
+          "bbox": [
+            11,
+            634,
+            113,
+            648
+          ],
+          "words": [
+            {
+              "text": "Kyoto",
+              "bbox": [
+                14,
+                636,
+                32,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "8.9%",
+          "bbox": [
+            113,
+            634,
+            215,
+            648
+          ],
+          "words": [
+            {
+              "text": "8.9%",
+              "bbox": [
+                116,
+                636,
+                131,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "75M",
+          "bbox": [
+            215,
+            634,
+            317,
+            648
+          ],
+          "words": [
+            {
+              "text": "75M",
+              "bbox": [
+                300,
+                636,
+                313,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Low",
+          "bbox": [
+            317,
+            634,
+            360,
+            648
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                320,
+                636,
+                333,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Stable",
+          "bbox": [
+            360,
+            634,
+            403,
+            648
+          ],
+          "words": [
+            {
+              "text": "Stable",
+              "bbox": [
+                382,
+                636,
+                399,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Yokohama",
+          "bbox": [
+            11,
+            648,
+            113,
+            661
+          ],
+          "words": [
+            {
+              "text": "Yokohama",
+              "bbox": [
+                14,
+                650,
+                44,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "14.8%",
+          "bbox": [
+            113,
+            648,
+            215,
+            661
+          ],
+          "words": [
+            {
+              "text": "14.8%",
+              "bbox": [
+                116,
+                650,
+                134,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "200M",
+          "bbox": [
+            215,
+            648,
+            317,
+            661
+          ],
+          "words": [
+            {
+              "text": "200M",
+              "bbox": [
+                297,
+                650,
+                313,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            317,
+            648,
+            360,
+            661
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                320,
+                650,
+                334,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Declining",
+          "bbox": [
+            360,
+            648,
+            403,
+            661
+          ],
+          "words": [
+            {
+              "text": "Declining",
+              "bbox": [
+                372,
+                650,
+                399,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Nagoya",
+          "bbox": [
+            11,
+            661,
+            113,
+            675
+          ],
+          "words": [
+            {
+              "text": "Nagoya",
+              "bbox": [
+                14,
+                664,
+                36,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "9.5%",
+          "bbox": [
+            113,
+            661,
+            215,
+            675
+          ],
+          "words": [
+            {
+              "text": "9.5%",
+              "bbox": [
+                116,
+                664,
+                131,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "90M",
+          "bbox": [
+            215,
+            661,
+            317,
+            675
+          ],
+          "words": [
+            {
+              "text": "90M",
+              "bbox": [
+                300,
+                664,
+                313,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            317,
+            661,
+            360,
+            675
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                320,
+                664,
+                344,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Stable",
+          "bbox": [
+            360,
+            661,
+            403,
+            675
+          ],
+          "words": [
+            {
+              "text": "Stable",
+              "bbox": [
+                382,
+                664,
+                399,
+                672
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Sapporo",
+          "bbox": [
+            11,
+            675,
+            113,
+            689
+          ],
+          "words": [
+            {
+              "text": "Sapporo",
+              "bbox": [
+                14,
+                678,
+                37,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "7.4%",
+          "bbox": [
+            113,
+            675,
+            215,
+            689
+          ],
+          "words": [
+            {
+              "text": "7.4%",
+              "bbox": [
+                116,
+                678,
+                131,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "50M",
+          "bbox": [
+            215,
+            675,
+            317,
+            689
+          ],
+          "words": [
+            {
+              "text": "50M",
+              "bbox": [
+                300,
+                678,
+                313,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Low",
+          "bbox": [
+            317,
+            675,
+            360,
+            689
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                320,
+                678,
+                333,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Improving",
+          "bbox": [
+            360,
+            675,
+            403,
+            689
+          ],
+          "words": [
+            {
+              "text": "Improving",
+              "bbox": [
+                370,
+                678,
+                399,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Fukuoka",
+          "bbox": [
+            11,
+            689,
+            113,
+            703
+          ],
+          "words": [
+            {
+              "text": "Fukuoka",
+              "bbox": [
+                14,
+                692,
+                39,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "11.0%",
+          "bbox": [
+            113,
+            689,
+            215,
+            703
+          ],
+          "words": [
+            {
+              "text": "11.0%",
+              "bbox": [
+                116,
+                692,
+                134,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "120M",
+          "bbox": [
+            215,
+            689,
+            317,
+            703
+          ],
+          "words": [
+            {
+              "text": "120M",
+              "bbox": [
+                297,
+                692,
+                313,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            317,
+            689,
+            360,
+            703
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                320,
+                692,
+                344,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Stable",
+          "bbox": [
+            360,
+            689,
+            403,
+            703
+          ],
+          "words": [
+            {
+              "text": "Stable",
+              "bbox": [
+                382,
+                692,
+                399,
+                700
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        10,
+        714,
+        403,
+        799
+      ],
+      "content": "InvestmentProjects reflect projected revenue of CHF100M and expenditure of CHF150M, leading to a budget deficit of CHF-50M, a debt to GDP ratio of 15%, and a fiscal balance Under review, focused on infrastructure. In the Municipality table, Tokyo has a debt service ratio of 12.5% and total debt of 150M, classified as High and Stable; Osaka shows a debt service ratio of 10.2% and total debt of 100M, rated Medium and Improving; Kyoto has a debt service ratio of 8.9% with total debt of 75M, designated Low and Stable; Yokohama presents a debt service ratio of 14.8% and total debt of 200M, classified as High and Declining; Nagoya has a debt service ratio of 9.5% with total debt of 90M, noted as Medium and Stable; Sapporo shows a debt service ratio of 7.4% and total debt of 50M, rated Low and Improving; and Fukuoka has a debt service ratio of 11.0% with total debt of 120M, classified as Medium and Stable.",
+      "lines": [
+        {
+          "text": "InvestmentProjects reflect projected revenue of CHF100M and expenditure of CHF150M, leading to a budget deficit of CHF-",
+          "bbox": [
+            10,
+            714,
+            403,
+            723
+          ],
+          "words": [
+            {
+              "text": "InvestmentProjects",
+              "bbox": [
+                10,
+                714,
+                69,
+                723
+              ]
+            },
+            {
+              "text": "reflect",
+              "bbox": [
+                71,
+                714,
+                91,
+                723
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                93,
+                714,
+                122,
+                723
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                124,
+                714,
+                148,
+                723
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                151,
+                714,
+                157,
+                723
+              ]
+            },
+            {
+              "text": "CHF100M",
+              "bbox": [
+                159,
+                714,
+                193,
+                723
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                195,
+                714,
+                206,
+                723
+              ]
+            },
+            {
+              "text": "expenditure",
+              "bbox": [
+                208,
+                714,
+                245,
+                723
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                247,
+                714,
+                253,
+                723
+              ]
+            },
+            {
+              "text": "CHF150M,",
+              "bbox": [
+                256,
+                714,
+                291,
+                723
+              ]
+            },
+            {
+              "text": "leading",
+              "bbox": [
+                293,
+                714,
+                316,
+                723
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                318,
+                714,
+                324,
+                723
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                326,
+                714,
+                330,
+                723
+              ]
+            },
+            {
+              "text": "budget",
+              "bbox": [
+                332,
+                714,
+                353,
+                723
+              ]
+            },
+            {
+              "text": "deficit",
+              "bbox": [
+                355,
+                714,
+                375,
+                723
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                377,
+                714,
+                383,
+                723
+              ]
+            },
+            {
+              "text": "CHF-",
+              "bbox": [
+                386,
+                714,
+                403,
+                723
+              ]
+            }
+          ]
+        },
+        {
+          "text": "50M, a debt to GDP ratio of 15%, and a fiscal balance Under review, focused on infrastructure. In the Municipality table, Tokyo",
+          "bbox": [
+            10,
+            725,
+            403,
+            733
+          ],
+          "words": [
+            {
+              "text": "50M,",
+              "bbox": [
+                10,
+                725,
+                27,
+                733
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                29,
+                725,
+                32,
+                733
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                34,
+                725,
+                47,
+                733
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                49,
+                725,
+                55,
+                733
+              ]
+            },
+            {
+              "text": "GDP",
+              "bbox": [
+                57,
+                725,
+                72,
+                733
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                74,
+                725,
+                88,
+                733
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                90,
+                725,
+                96,
+                733
+              ]
+            },
+            {
+              "text": "15%,",
+              "bbox": [
+                98,
+                725,
+                114,
+                733
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                116,
+                725,
+                127,
+                733
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                129,
+                725,
+                133,
+                733
+              ]
+            },
+            {
+              "text": "fiscal",
+              "bbox": [
+                135,
+                725,
+                151,
+                733
+              ]
+            },
+            {
+              "text": "balance",
+              "bbox": [
+                153,
+                725,
+                177,
+                733
+              ]
+            },
+            {
+              "text": "Under",
+              "bbox": [
+                178,
+                725,
+                198,
+                733
+              ]
+            },
+            {
+              "text": "review,",
+              "bbox": [
+                200,
+                725,
+                222,
+                733
+              ]
+            },
+            {
+              "text": "focused",
+              "bbox": [
+                224,
+                725,
+                248,
+                733
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                249,
+                725,
+                257,
+                733
+              ]
+            },
+            {
+              "text": "infrastructure.",
+              "bbox": [
+                259,
+                725,
+                302,
+                733
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                304,
+                725,
+                311,
+                733
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                312,
+                725,
+                322,
+                733
+              ]
+            },
+            {
+              "text": "Municipality",
+              "bbox": [
+                324,
+                725,
+                363,
+                733
+              ]
+            },
+            {
+              "text": "table,",
+              "bbox": [
+                365,
+                725,
+                382,
+                733
+              ]
+            },
+            {
+              "text": "Tokyo",
+              "bbox": [
+                384,
+                725,
+                403,
+                733
+              ]
+            }
+          ]
+        },
+        {
+          "text": "has a debt service ratio of 12.5% and total debt of 150M, classified as High and Stable; Osaka shows a debt service ratio of",
+          "bbox": [
+            10,
+            736,
+            403,
+            744
+          ],
+          "words": [
+            {
+              "text": "has",
+              "bbox": [
+                10,
+                736,
+                21,
+                744
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                23,
+                736,
+                27,
+                744
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                29,
+                736,
+                42,
+                744
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                45,
+                736,
+                67,
+                744
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                69,
+                736,
+                83,
+                744
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                86,
+                736,
+                92,
+                744
+              ]
+            },
+            {
+              "text": "12.5%",
+              "bbox": [
+                95,
+                736,
+                115,
+                744
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                117,
+                736,
+                128,
+                744
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                131,
+                736,
+                145,
+                744
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                147,
+                736,
+                160,
+                744
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                163,
+                736,
+                169,
+                744
+              ]
+            },
+            {
+              "text": "150M,",
+              "bbox": [
+                172,
+                736,
+                192,
+                744
+              ]
+            },
+            {
+              "text": "classified",
+              "bbox": [
+                195,
+                736,
+                224,
+                744
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                226,
+                736,
+                233,
+                744
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                235,
+                736,
+                251,
+                744
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                253,
+                736,
+                264,
+                744
+              ]
+            },
+            {
+              "text": "Stable;",
+              "bbox": [
+                267,
+                736,
+                288,
+                744
+              ]
+            },
+            {
+              "text": "Osaka",
+              "bbox": [
+                291,
+                736,
+                310,
+                744
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                312,
+                736,
+                332,
+                744
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                334,
+                736,
+                338,
+                744
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                340,
+                736,
+                353,
+                744
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                356,
+                736,
+                378,
+                744
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                380,
+                736,
+                394,
+                744
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                397,
+                736,
+                403,
+                744
+              ]
+            }
+          ]
+        },
+        {
+          "text": "10.2% and total debt of 100M, rated Medium and Improving; Kyoto has a debt service ratio of 8.9% with total debt of 75M,",
+          "bbox": [
+            10,
+            746,
+            403,
+            755
+          ],
+          "words": [
+            {
+              "text": "10.2%",
+              "bbox": [
+                10,
+                746,
+                30,
+                755
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                33,
+                746,
+                44,
+                755
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                46,
+                746,
+                60,
+                755
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                62,
+                746,
+                76,
+                755
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                78,
+                746,
+                84,
+                755
+              ]
+            },
+            {
+              "text": "100M,",
+              "bbox": [
+                87,
+                746,
+                107,
+                755
+              ]
+            },
+            {
+              "text": "rated",
+              "bbox": [
+                110,
+                746,
+                125,
+                755
+              ]
+            },
+            {
+              "text": "Medium",
+              "bbox": [
+                127,
+                746,
+                153,
+                755
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                156,
+                746,
+                167,
+                755
+              ]
+            },
+            {
+              "text": "Improving;",
+              "bbox": [
+                169,
+                746,
+                204,
+                755
+              ]
+            },
+            {
+              "text": "Kyoto",
+              "bbox": [
+                206,
+                746,
+                225,
+                755
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                228,
+                746,
+                238,
+                755
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                241,
+                746,
+                244,
+                755
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                246,
+                746,
+                260,
+                755
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                262,
+                746,
+                284,
+                755
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                286,
+                746,
+                300,
+                755
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                303,
+                746,
+                309,
+                755
+              ]
+            },
+            {
+              "text": "8.9%",
+              "bbox": [
+                312,
+                746,
+                328,
+                755
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                330,
+                746,
+                344,
+                755
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                346,
+                746,
+                360,
+                755
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                362,
+                746,
+                376,
+                755
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                378,
+                746,
+                384,
+                755
+              ]
+            },
+            {
+              "text": "75M,",
+              "bbox": [
+                387,
+                746,
+                403,
+                755
+              ]
+            }
+          ]
+        },
+        {
+          "text": "designated Low and Stable; Yokohama presents a debt service ratio of 14.8% and total debt of 200M, classified as High and",
+          "bbox": [
+            10,
+            757,
+            403,
+            765
+          ],
+          "words": [
+            {
+              "text": "designated",
+              "bbox": [
+                10,
+                757,
+                43,
+                765
+              ]
+            },
+            {
+              "text": "Low",
+              "bbox": [
+                46,
+                757,
+                60,
+                765
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                62,
+                757,
+                73,
+                765
+              ]
+            },
+            {
+              "text": "Stable;",
+              "bbox": [
+                76,
+                757,
+                97,
+                765
+              ]
+            },
+            {
+              "text": "Yokohama",
+              "bbox": [
+                100,
+                757,
+                132,
+                765
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                135,
+                757,
+                160,
+                765
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                163,
+                757,
+                166,
+                765
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                169,
+                757,
+                182,
+                765
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                184,
+                757,
+                206,
+                765
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                209,
+                757,
+                223,
+                765
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                225,
+                757,
+                232,
+                765
+              ]
+            },
+            {
+              "text": "14.8%",
+              "bbox": [
+                234,
+                757,
+                254,
+                765
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                257,
+                757,
+                268,
+                765
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                270,
+                757,
+                284,
+                765
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                286,
+                757,
+                300,
+                765
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                302,
+                757,
+                309,
+                765
+              ]
+            },
+            {
+              "text": "200M,",
+              "bbox": [
+                311,
+                757,
+                331,
+                765
+              ]
+            },
+            {
+              "text": "classified",
+              "bbox": [
+                334,
+                757,
+                363,
+                765
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                365,
+                757,
+                372,
+                765
+              ]
+            },
+            {
+              "text": "High",
+              "bbox": [
+                374,
+                757,
+                390,
+                765
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                392,
+                757,
+                403,
+                765
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Declining; Nagoya has a debt service ratio of 9.5% with total debt of 90M, noted as Medium and Stable; Sapporo shows a debt",
+          "bbox": [
+            10,
+            768,
+            403,
+            776
+          ],
+          "words": [
+            {
+              "text": "Declining;",
+              "bbox": [
+                10,
+                768,
+                43,
+                776
+              ]
+            },
+            {
+              "text": "Nagoya",
+              "bbox": [
+                45,
+                768,
+                69,
+                776
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                71,
+                768,
+                81,
+                776
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                83,
+                768,
+                86,
+                776
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                88,
+                768,
+                102,
+                776
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                104,
+                768,
+                125,
+                776
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                128,
+                768,
+                142,
+                776
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                144,
+                768,
+                150,
+                776
+              ]
+            },
+            {
+              "text": "9.5%",
+              "bbox": [
+                152,
+                768,
+                168,
+                776
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                170,
+                768,
+                184,
+                776
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                186,
+                768,
+                199,
+                776
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                202,
+                768,
+                215,
+                776
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                217,
+                768,
+                223,
+                776
+              ]
+            },
+            {
+              "text": "90M,",
+              "bbox": [
+                225,
+                768,
+                242,
+                776
+              ]
+            },
+            {
+              "text": "noted",
+              "bbox": [
+                244,
+                768,
+                261,
+                776
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                263,
+                768,
+                269,
+                776
+              ]
+            },
+            {
+              "text": "Medium",
+              "bbox": [
+                271,
+                768,
+                297,
+                776
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                299,
+                768,
+                310,
+                776
+              ]
+            },
+            {
+              "text": "Stable;",
+              "bbox": [
+                312,
+                768,
+                334,
+                776
+              ]
+            },
+            {
+              "text": "Sapporo",
+              "bbox": [
+                336,
+                768,
+                361,
+                776
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                363,
+                768,
+                383,
+                776
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                385,
+                768,
+                388,
+                776
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                390,
+                768,
+                403,
+                776
+              ]
+            }
+          ]
+        },
+        {
+          "text": "service ratio of 7.4% and total debt of 50M, rated Low and Improving; and Fukuoka has a debt service ratio of 11.0% with total",
+          "bbox": [
+            10,
+            778,
+            403,
+            787
+          ],
+          "words": [
+            {
+              "text": "service",
+              "bbox": [
+                10,
+                778,
+                32,
+                787
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                34,
+                778,
+                48,
+                787
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                50,
+                778,
+                57,
+                787
+              ]
+            },
+            {
+              "text": "7.4%",
+              "bbox": [
+                59,
+                778,
+                74,
+                787
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                76,
+                778,
+                87,
+                787
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                90,
+                778,
+                103,
+                787
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                105,
+                778,
+                118,
+                787
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                120,
+                778,
+                127,
+                787
+              ]
+            },
+            {
+              "text": "50M,",
+              "bbox": [
+                129,
+                778,
+                145,
+                787
+              ]
+            },
+            {
+              "text": "rated",
+              "bbox": [
+                147,
+                778,
+                162,
+                787
+              ]
+            },
+            {
+              "text": "Low",
+              "bbox": [
+                164,
+                778,
+                178,
+                787
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                180,
+                778,
+                191,
+                787
+              ]
+            },
+            {
+              "text": "Improving;",
+              "bbox": [
+                193,
+                778,
+                228,
+                787
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                230,
+                778,
+                241,
+                787
+              ]
+            },
+            {
+              "text": "Fukuoka",
+              "bbox": [
+                243,
+                778,
+                270,
+                787
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                272,
+                778,
+                282,
+                787
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                284,
+                778,
+                287,
+                787
+              ]
+            },
+            {
+              "text": "debt",
+              "bbox": [
+                289,
+                778,
+                302,
+                787
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                304,
+                778,
+                326,
+                787
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                328,
+                778,
+                342,
+                787
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                344,
+                778,
+                351,
+                787
+              ]
+            },
+            {
+              "text": "11.0%",
+              "bbox": [
+                353,
+                778,
+                372,
+                787
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                374,
+                778,
+                388,
+                787
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                390,
+                778,
+                403,
+                787
+              ]
+            }
+          ]
+        },
+        {
+          "text": "debt of 120M, classified as Medium and Stable.",
+          "bbox": [
+            10,
+            789,
+            157,
+            798
+          ],
+          "words": [
+            {
+              "text": "debt",
+              "bbox": [
+                10,
+                789,
+                24,
+                798
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                26,
+                789,
+                32,
+                798
+              ]
+            },
+            {
+              "text": "120M,",
+              "bbox": [
+                34,
+                789,
+                54,
+                798
+              ]
+            },
+            {
+              "text": "classified",
+              "bbox": [
+                56,
+                789,
+                85,
+                798
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                87,
+                789,
+                93,
+                798
+              ]
+            },
+            {
+              "text": "Medium",
+              "bbox": [
+                95,
+                789,
+                121,
+                798
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                123,
+                789,
+                134,
+                798
+              ]
+            },
+            {
+              "text": "Stable.",
+              "bbox": [
+                136,
+                789,
+                157,
+                798
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5077 @@
+{
+  "image_id": "img_166958",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        43,
+        503,
+        70
+      ],
+      "content": "The following analysis examines the implications of recent patent expirations on Merck & Co.'s rare disease franchise revenue and clinical trial enrollment rates.",
+      "lines": [
+        {
+          "text": "The following analysis examines the implications of recent patent expirations on Merck & Co.'s rare disease franchise revenue",
+          "bbox": [
+            13,
+            44,
+            503,
+            55
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                13,
+                44,
+                28,
+                55
+              ]
+            },
+            {
+              "text": "following",
+              "bbox": [
+                31,
+                44,
+                68,
+                55
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                71,
+                44,
+                101,
+                55
+              ]
+            },
+            {
+              "text": "examines",
+              "bbox": [
+                104,
+                44,
+                140,
+                55
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                143,
+                44,
+                155,
+                55
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                157,
+                44,
+                205,
+                55
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                207,
+                44,
+                215,
+                55
+              ]
+            },
+            {
+              "text": "recent",
+              "bbox": [
+                218,
+                44,
+                241,
+                55
+              ]
+            },
+            {
+              "text": "patent",
+              "bbox": [
+                244,
+                44,
+                268,
+                55
+              ]
+            },
+            {
+              "text": "expirations",
+              "bbox": [
+                270,
+                44,
+                313,
+                55
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                316,
+                44,
+                325,
+                55
+              ]
+            },
+            {
+              "text": "Merck",
+              "bbox": [
+                328,
+                44,
+                353,
+                55
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                356,
+                44,
+                363,
+                55
+              ]
+            },
+            {
+              "text": "Co.'s",
+              "bbox": [
+                366,
+                44,
+                385,
+                55
+              ]
+            },
+            {
+              "text": "rare",
+              "bbox": [
+                387,
+                44,
+                402,
+                55
+              ]
+            },
+            {
+              "text": "disease",
+              "bbox": [
+                405,
+                44,
+                433,
+                55
+              ]
+            },
+            {
+              "text": "franchise",
+              "bbox": [
+                435,
+                44,
+                470,
+                55
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                473,
+                44,
+                503,
+                55
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and clinical trial enrollment rates.",
+          "bbox": [
+            13,
+            58,
+            142,
+            68
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                13,
+                58,
+                27,
+                68
+              ]
+            },
+            {
+              "text": "clinical",
+              "bbox": [
+                29,
+                58,
+                57,
+                68
+              ]
+            },
+            {
+              "text": "trial",
+              "bbox": [
+                60,
+                58,
+                75,
+                68
+              ]
+            },
+            {
+              "text": "enrollment",
+              "bbox": [
+                77,
+                58,
+                119,
+                68
+              ]
+            },
+            {
+              "text": "rates.",
+              "bbox": [
+                121,
+                58,
+                142,
+                68
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_166958_t0",
+      "bbox": [
+        13,
+        83,
+        503,
+        313
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 4,
+        "T3": "None",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            84,
+            503,
+            114
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            114,
+            503,
+            144
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            144,
+            503,
+            187
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            187,
+            503,
+            229
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            229,
+            503,
+            272
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            272,
+            503,
+            313
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">PatentExpiryAnalysis</td><td>Amount($M)</td></tr><tr><td colspan=\"3\">SalesImpactOverview</td><td colspan=\"2\">YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td>Product</td><td>2023Sales</td><td colspan=\"3\">2024ProjectedSales</td><td colspan=\"2\">2024YoYChange</td><td colspan=\"2\">2024MarketShare</td><td colspan=\"2\">2024PatentStatus</td></tr><tr><td>DrugA</td><td>$500M</td><td>$450M</td><td>-10.0%</td><td>15.0%</td><td>Expired</td><td>DrugB</td><td>$300M</td><td>$290M</td><td>-3.3%</td><td>10.0%</td></tr><tr><td>Expired</td><td>DrugC</td><td>$200M</td><td>$180M</td><td>-10.0%</td><td>5.0%</td><td>Expired</td><td>DrugD</td><td>$150M</td><td>$200M</td><td>33.3%</td></tr><tr><td>7.0%</td><td>ActivePatent</td><td>DrugE</td><td>$100M</td><td>$95M</td><td>-5.0%</td><td>3.0%</td><td>ActivePatent</td><td>DrugF</td><td>$50M</td><td>$40M</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "PatentExpiryAnalysis",
+          "bbox": [
+            13,
+            84,
+            114,
+            114
+          ],
+          "words": [
+            {
+              "text": "PatentExpiryAnalysis",
+              "bbox": [
+                18,
+                87,
+                99,
+                97
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Amount($M)",
+          "bbox": [
+            114,
+            84,
+            164,
+            114
+          ],
+          "words": [
+            {
+              "text": "Amount($M)",
+              "bbox": [
+                119,
+                87,
+                156,
+                109
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "SalesImpactOverview",
+          "bbox": [
+            13,
+            114,
+            164,
+            144
+          ],
+          "words": [
+            {
+              "text": "SalesImpactOverview",
+              "bbox": [
+                18,
+                118,
+                99,
+                127
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            164,
+            114,
+            265,
+            144
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                169,
+                118,
+                228,
+                127
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            265,
+            114,
+            315,
+            144
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                270,
+                118,
+                307,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Product",
+          "bbox": [
+            13,
+            144,
+            64,
+            187
+          ],
+          "words": [
+            {
+              "text": "Product",
+              "bbox": [
+                18,
+                148,
+                48,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "2023Sales",
+          "bbox": [
+            64,
+            144,
+            114,
+            187
+          ],
+          "words": [
+            {
+              "text": "2023Sales",
+              "bbox": [
+                69,
+                148,
+                105,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "2024ProjectedSales",
+          "bbox": [
+            114,
+            144,
+            265,
+            187
+          ],
+          "words": [
+            {
+              "text": "2024ProjectedSales",
+              "bbox": [
+                119,
+                148,
+                191,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "2024YoYChange",
+          "bbox": [
+            265,
+            144,
+            366,
+            187
+          ],
+          "words": [
+            {
+              "text": "2024YoYChange",
+              "bbox": [
+                270,
+                148,
+                331,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "2024MarketShare",
+          "bbox": [
+            366,
+            144,
+            466,
+            187
+          ],
+          "words": [
+            {
+              "text": "2024MarketShare",
+              "bbox": [
+                370,
+                148,
+                437,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9,
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "2024PatentStatus",
+          "bbox": [
+            466,
+            144,
+            503,
+            187
+          ],
+          "words": [
+            {
+              "text": "2024PatentStatus",
+              "bbox": [
+                471,
+                148,
+                498,
+                182
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "DrugA",
+          "bbox": [
+            13,
+            187,
+            64,
+            229
+          ],
+          "words": [
+            {
+              "text": "DrugA",
+              "bbox": [
+                18,
+                191,
+                44,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "$500M",
+          "bbox": [
+            64,
+            187,
+            114,
+            229
+          ],
+          "words": [
+            {
+              "text": "$500M",
+              "bbox": [
+                69,
+                191,
+                94,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "$450M",
+          "bbox": [
+            114,
+            187,
+            164,
+            229
+          ],
+          "words": [
+            {
+              "text": "$450M",
+              "bbox": [
+                119,
+                191,
+                144,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "-10.0%",
+          "bbox": [
+            164,
+            187,
+            215,
+            229
+          ],
+          "words": [
+            {
+              "text": "-10.0%",
+              "bbox": [
+                169,
+                191,
+                196,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "15.0%",
+          "bbox": [
+            215,
+            187,
+            265,
+            229
+          ],
+          "words": [
+            {
+              "text": "15.0%",
+              "bbox": [
+                219,
+                191,
+                243,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Expired",
+          "bbox": [
+            265,
+            187,
+            315,
+            229
+          ],
+          "words": [
+            {
+              "text": "Expired",
+              "bbox": [
+                270,
+                191,
+                300,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "DrugB",
+          "bbox": [
+            315,
+            187,
+            366,
+            229
+          ],
+          "words": [
+            {
+              "text": "DrugB",
+              "bbox": [
+                320,
+                191,
+                345,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "$300M",
+          "bbox": [
+            366,
+            187,
+            416,
+            229
+          ],
+          "words": [
+            {
+              "text": "$300M",
+              "bbox": [
+                370,
+                191,
+                396,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "$290M",
+          "bbox": [
+            416,
+            187,
+            466,
+            229
+          ],
+          "words": [
+            {
+              "text": "$290M",
+              "bbox": [
+                421,
+                191,
+                446,
+                200
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "-3.3%",
+          "bbox": [
+            466,
+            187,
+            485,
+            229
+          ],
+          "words": [
+            {
+              "text": "-3.3%",
+              "bbox": [
+                471,
+                191,
+                480,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "10.0%",
+          "bbox": [
+            485,
+            187,
+            503,
+            229
+          ],
+          "words": [
+            {
+              "text": "10.0%",
+              "bbox": [
+                490,
+                191,
+                498,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Expired",
+          "bbox": [
+            13,
+            229,
+            64,
+            272
+          ],
+          "words": [
+            {
+              "text": "Expired",
+              "bbox": [
+                18,
+                233,
+                45,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "DrugC",
+          "bbox": [
+            64,
+            229,
+            114,
+            272
+          ],
+          "words": [
+            {
+              "text": "DrugC",
+              "bbox": [
+                68,
+                233,
+                92,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$200M",
+          "bbox": [
+            114,
+            229,
+            164,
+            272
+          ],
+          "words": [
+            {
+              "text": "$200M",
+              "bbox": [
+                118,
+                233,
+                143,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$180M",
+          "bbox": [
+            164,
+            229,
+            215,
+            272
+          ],
+          "words": [
+            {
+              "text": "$180M",
+              "bbox": [
+                169,
+                233,
+                194,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "-10.0%",
+          "bbox": [
+            215,
+            229,
+            265,
+            272
+          ],
+          "words": [
+            {
+              "text": "-10.0%",
+              "bbox": [
+                219,
+                233,
+                244,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0%",
+          "bbox": [
+            265,
+            229,
+            315,
+            272
+          ],
+          "words": [
+            {
+              "text": "5.0%",
+              "bbox": [
+                269,
+                233,
+                287,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Expired",
+          "bbox": [
+            315,
+            229,
+            366,
+            272
+          ],
+          "words": [
+            {
+              "text": "Expired",
+              "bbox": [
+                320,
+                233,
+                347,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "DrugD",
+          "bbox": [
+            366,
+            229,
+            416,
+            272
+          ],
+          "words": [
+            {
+              "text": "DrugD",
+              "bbox": [
+                370,
+                233,
+                394,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "$150M",
+          "bbox": [
+            416,
+            229,
+            466,
+            272
+          ],
+          "words": [
+            {
+              "text": "$150M",
+              "bbox": [
+                420,
+                233,
+                445,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "$200M",
+          "bbox": [
+            466,
+            229,
+            485,
+            272
+          ],
+          "words": [
+            {
+              "text": "$200M",
+              "bbox": [
+                472,
+                233,
+                480,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "33.3%",
+          "bbox": [
+            485,
+            229,
+            503,
+            272
+          ],
+          "words": [
+            {
+              "text": "33.3%",
+              "bbox": [
+                490,
+                233,
+                499,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "7.0%",
+          "bbox": [
+            13,
+            272,
+            64,
+            313
+          ],
+          "words": [
+            {
+              "text": "7.0%",
+              "bbox": [
+                18,
+                275,
+                36,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "ActivePatent",
+          "bbox": [
+            64,
+            272,
+            114,
+            313
+          ],
+          "words": [
+            {
+              "text": "ActivePatent",
+              "bbox": [
+                68,
+                275,
+                106,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "DrugE",
+          "bbox": [
+            114,
+            272,
+            164,
+            313
+          ],
+          "words": [
+            {
+              "text": "DrugE",
+              "bbox": [
+                118,
+                275,
+                142,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$100M",
+          "bbox": [
+            164,
+            272,
+            215,
+            313
+          ],
+          "words": [
+            {
+              "text": "$100M",
+              "bbox": [
+                169,
+                275,
+                194,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$95M",
+          "bbox": [
+            215,
+            272,
+            265,
+            313
+          ],
+          "words": [
+            {
+              "text": "$95M",
+              "bbox": [
+                219,
+                275,
+                240,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "-5.0%",
+          "bbox": [
+            265,
+            272,
+            315,
+            313
+          ],
+          "words": [
+            {
+              "text": "-5.0%",
+              "bbox": [
+                269,
+                275,
+                290,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0%",
+          "bbox": [
+            315,
+            272,
+            366,
+            313
+          ],
+          "words": [
+            {
+              "text": "3.0%",
+              "bbox": [
+                320,
+                275,
+                338,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "ActivePatent",
+          "bbox": [
+            366,
+            272,
+            416,
+            313
+          ],
+          "words": [
+            {
+              "text": "ActivePatent",
+              "bbox": [
+                370,
+                275,
+                408,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "DrugF",
+          "bbox": [
+            416,
+            272,
+            466,
+            313
+          ],
+          "words": [
+            {
+              "text": "DrugF",
+              "bbox": [
+                420,
+                275,
+                443,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "$50M",
+          "bbox": [
+            466,
+            272,
+            485,
+            313
+          ],
+          "words": [
+            {
+              "text": "$50M",
+              "bbox": [
+                472,
+                275,
+                480,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "$40M",
+          "bbox": [
+            485,
+            272,
+            503,
+            313
+          ],
+          "words": [
+            {
+              "text": "$40M",
+              "bbox": [
+                490,
+                275,
+                499,
+                309
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        326,
+        503,
+        380
+      ],
+      "content": "As the pharmaceutical industry faces increasing pressure from generic competition, the loss of exclusivity for key products, such as DrugA and DrugB, has significantly affected revenue streams. The data presented in the accompanying table highlights that DrugA, which previously generated $500M in revenue, experienced a notable decline of 10.0% following its patent expiry, resulting in current revenues of $450M.",
+      "lines": [
+        {
+          "text": "As the pharmaceutical industry faces increasing pressure from generic competition, the loss of exclusivity for key products,",
+          "bbox": [
+            13,
+            327,
+            503,
+            337
+          ],
+          "words": [
+            {
+              "text": "As",
+              "bbox": [
+                13,
+                327,
+                24,
+                337
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                27,
+                327,
+                39,
+                337
+              ]
+            },
+            {
+              "text": "pharmaceutical",
+              "bbox": [
+                42,
+                327,
+                101,
+                337
+              ]
+            },
+            {
+              "text": "industry",
+              "bbox": [
+                104,
+                327,
+                136,
+                337
+              ]
+            },
+            {
+              "text": "faces",
+              "bbox": [
+                139,
+                327,
+                159,
+                337
+              ]
+            },
+            {
+              "text": "increasing",
+              "bbox": [
+                162,
+                327,
+                201,
+                337
+              ]
+            },
+            {
+              "text": "pressure",
+              "bbox": [
+                205,
+                327,
+                237,
+                337
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                240,
+                327,
+                259,
+                337
+              ]
+            },
+            {
+              "text": "generic",
+              "bbox": [
+                262,
+                327,
+                291,
+                337
+              ]
+            },
+            {
+              "text": "competition,",
+              "bbox": [
+                294,
+                327,
+                342,
+                337
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                346,
+                327,
+                357,
+                337
+              ]
+            },
+            {
+              "text": "loss",
+              "bbox": [
+                361,
+                327,
+                376,
+                337
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                379,
+                327,
+                387,
+                337
+              ]
+            },
+            {
+              "text": "exclusivity",
+              "bbox": [
+                391,
+                327,
+                433,
+                337
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                436,
+                327,
+                447,
+                337
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                451,
+                327,
+                465,
+                337
+              ]
+            },
+            {
+              "text": "products,",
+              "bbox": [
+                468,
+                327,
+                503,
+                337
+              ]
+            }
+          ]
+        },
+        {
+          "text": "such as DrugA and DrugB, has significantly affected revenue streams. The data presented in the accompanying table highlights",
+          "bbox": [
+            13,
+            340,
+            503,
+            351
+          ],
+          "words": [
+            {
+              "text": "such",
+              "bbox": [
+                13,
+                340,
+                31,
+                351
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                33,
+                340,
+                41,
+                351
+              ]
+            },
+            {
+              "text": "DrugA",
+              "bbox": [
+                44,
+                340,
+                70,
+                351
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                72,
+                340,
+                86,
+                351
+              ]
+            },
+            {
+              "text": "DrugB,",
+              "bbox": [
+                89,
+                340,
+                117,
+                351
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                120,
+                340,
+                133,
+                351
+              ]
+            },
+            {
+              "text": "significantly",
+              "bbox": [
+                135,
+                340,
+                183,
+                351
+              ]
+            },
+            {
+              "text": "affected",
+              "bbox": [
+                186,
+                340,
+                216,
+                351
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                219,
+                340,
+                249,
+                351
+              ]
+            },
+            {
+              "text": "streams.",
+              "bbox": [
+                252,
+                340,
+                283,
+                351
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                286,
+                340,
+                301,
+                351
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                303,
+                340,
+                319,
+                351
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                322,
+                340,
+                359,
+                351
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                361,
+                340,
+                369,
+                351
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                371,
+                340,
+                383,
+                351
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                386,
+                340,
+                441,
+                351
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                444,
+                340,
+                463,
+                351
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                465,
+                340,
+                503,
+                351
+              ]
+            }
+          ]
+        },
+        {
+          "text": "that DrugA, which previously generated $500M in revenue, experienced a notable decline of 10.0% following its patent expiry,",
+          "bbox": [
+            13,
+            354,
+            503,
+            364
+          ],
+          "words": [
+            {
+              "text": "that",
+              "bbox": [
+                13,
+                354,
+                27,
+                364
+              ]
+            },
+            {
+              "text": "DrugA,",
+              "bbox": [
+                30,
+                354,
+                59,
+                364
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                61,
+                354,
+                85,
+                364
+              ]
+            },
+            {
+              "text": "previously",
+              "bbox": [
+                87,
+                354,
+                128,
+                364
+              ]
+            },
+            {
+              "text": "generated",
+              "bbox": [
+                130,
+                354,
+                167,
+                364
+              ]
+            },
+            {
+              "text": "$500M",
+              "bbox": [
+                170,
+                354,
+                198,
+                364
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                200,
+                354,
+                208,
+                364
+              ]
+            },
+            {
+              "text": "revenue,",
+              "bbox": [
+                210,
+                354,
+                243,
+                364
+              ]
+            },
+            {
+              "text": "experienced",
+              "bbox": [
+                246,
+                354,
+                292,
+                364
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                294,
+                354,
+                299,
+                364
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                301,
+                354,
+                329,
+                364
+              ]
+            },
+            {
+              "text": "decline",
+              "bbox": [
+                332,
+                354,
+                359,
+                364
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                362,
+                354,
+                370,
+                364
+              ]
+            },
+            {
+              "text": "10.0%",
+              "bbox": [
+                373,
+                354,
+                397,
+                364
+              ]
+            },
+            {
+              "text": "following",
+              "bbox": [
+                400,
+                354,
+                437,
+                364
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                440,
+                354,
+                449,
+                364
+              ]
+            },
+            {
+              "text": "patent",
+              "bbox": [
+                451,
+                354,
+                475,
+                364
+              ]
+            },
+            {
+              "text": "expiry,",
+              "bbox": [
+                477,
+                354,
+                503,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "text": "resulting in current revenues of $450M.",
+          "bbox": [
+            13,
+            367,
+            165,
+            378
+          ],
+          "words": [
+            {
+              "text": "resulting",
+              "bbox": [
+                13,
+                367,
+                46,
+                378
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                49,
+                367,
+                56,
+                378
+              ]
+            },
+            {
+              "text": "current",
+              "bbox": [
+                59,
+                367,
+                86,
+                378
+              ]
+            },
+            {
+              "text": "revenues",
+              "bbox": [
+                88,
+                367,
+                122,
+                378
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                124,
+                367,
+                132,
+                378
+              ]
+            },
+            {
+              "text": "$450M.",
+              "bbox": [
+                135,
+                367,
+                165,
+                378
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_166958_t1",
+      "bbox": [
+        13,
+        393,
+        503,
+        564
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 3,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            393,
+            503,
+            411
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            411,
+            503,
+            430
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            430,
+            503,
+            460
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            460,
+            503,
+            490
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            490,
+            503,
+            533
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            533,
+            503,
+            563
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>DrugName</td><td>Revenue</td><td>GrowthRate</td><td>MarketShare</td><td>Status</td></tr><tr><td>RareDisease</td><td>CurrentQuarter</td><td>YoYChange</td><td>Forecast</td><td colspan=\"2\">TotalRevenue</td></tr><tr><td>DrugA</td><td>$45M</td><td>15%</td><td>10%</td><td>Marketed</td><td>Projected</td></tr><tr><td>DrugB</td><td>$30M</td><td>10%</td><td>5%</td><td>Marketed</td><td>Projected</td></tr><tr><td>DrugC</td><td>$25M</td><td>8%</td><td>4%</td><td>InDevelopment</td><td>Projected</td></tr><tr><td>DrugD</td><td>$15M</td><td>12%</td><td>3%</td><td>Marketed</td><td>Total</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "DrugName",
+          "bbox": [
+            13,
+            393,
+            118,
+            411
+          ],
+          "words": [
+            {
+              "text": "DrugName",
+              "bbox": [
+                18,
+                397,
+                59,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue",
+          "bbox": [
+            118,
+            393,
+            222,
+            411
+          ],
+          "words": [
+            {
+              "text": "Revenue",
+              "bbox": [
+                123,
+                397,
+                154,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate",
+          "bbox": [
+            222,
+            393,
+            326,
+            411
+          ],
+          "words": [
+            {
+              "text": "GrowthRate",
+              "bbox": [
+                227,
+                397,
+                273,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare",
+          "bbox": [
+            326,
+            393,
+            431,
+            411
+          ],
+          "words": [
+            {
+              "text": "MarketShare",
+              "bbox": [
+                331,
+                397,
+                381,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Status",
+          "bbox": [
+            431,
+            393,
+            467,
+            411
+          ],
+          "words": [
+            {
+              "text": "Status",
+              "bbox": [
+                439,
+                397,
+                462,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "RareDisease",
+          "bbox": [
+            13,
+            411,
+            118,
+            430
+          ],
+          "words": [
+            {
+              "text": "RareDisease",
+              "bbox": [
+                18,
+                415,
+                64,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CurrentQuarter",
+          "bbox": [
+            118,
+            411,
+            222,
+            430
+          ],
+          "words": [
+            {
+              "text": "CurrentQuarter",
+              "bbox": [
+                123,
+                415,
+                183,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange",
+          "bbox": [
+            222,
+            411,
+            326,
+            430
+          ],
+          "words": [
+            {
+              "text": "YoYChange",
+              "bbox": [
+                227,
+                415,
+                271,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Forecast",
+          "bbox": [
+            326,
+            411,
+            431,
+            430
+          ],
+          "words": [
+            {
+              "text": "Forecast",
+              "bbox": [
+                331,
+                415,
+                363,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            431,
+            411,
+            503,
+            430
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                447,
+                415,
+                498,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "DrugA",
+          "bbox": [
+            13,
+            430,
+            118,
+            460
+          ],
+          "words": [
+            {
+              "text": "DrugA",
+              "bbox": [
+                18,
+                433,
+                44,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "$45M",
+          "bbox": [
+            118,
+            430,
+            222,
+            460
+          ],
+          "words": [
+            {
+              "text": "$45M",
+              "bbox": [
+                123,
+                433,
+                144,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "15%",
+          "bbox": [
+            222,
+            430,
+            326,
+            460
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                227,
+                433,
+                244,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "10%",
+          "bbox": [
+            326,
+            430,
+            431,
+            460
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                331,
+                433,
+                348,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Marketed",
+          "bbox": [
+            431,
+            430,
+            467,
+            460
+          ],
+          "words": [
+            {
+              "text": "Marketed",
+              "bbox": [
+                437,
+                433,
+                462,
+                455
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Projected",
+          "bbox": [
+            467,
+            430,
+            503,
+            460
+          ],
+          "words": [
+            {
+              "text": "Projected",
+              "bbox": [
+                474,
+                433,
+                498,
+                455
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "DrugB",
+          "bbox": [
+            13,
+            460,
+            118,
+            490
+          ],
+          "words": [
+            {
+              "text": "DrugB",
+              "bbox": [
+                18,
+                464,
+                42,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$30M",
+          "bbox": [
+            118,
+            460,
+            222,
+            490
+          ],
+          "words": [
+            {
+              "text": "$30M",
+              "bbox": [
+                123,
+                464,
+                143,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            222,
+            460,
+            326,
+            490
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                227,
+                464,
+                243,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            326,
+            460,
+            431,
+            490
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                331,
+                464,
+                343,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Marketed",
+          "bbox": [
+            431,
+            460,
+            467,
+            490
+          ],
+          "words": [
+            {
+              "text": "Marketed",
+              "bbox": [
+                437,
+                464,
+                462,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Projected",
+          "bbox": [
+            467,
+            460,
+            503,
+            490
+          ],
+          "words": [
+            {
+              "text": "Projected",
+              "bbox": [
+                474,
+                464,
+                498,
+                486
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "DrugC",
+          "bbox": [
+            13,
+            490,
+            118,
+            533
+          ],
+          "words": [
+            {
+              "text": "DrugC",
+              "bbox": [
+                18,
+                494,
+                42,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$25M",
+          "bbox": [
+            118,
+            490,
+            222,
+            533
+          ],
+          "words": [
+            {
+              "text": "$25M",
+              "bbox": [
+                123,
+                494,
+                143,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "8%",
+          "bbox": [
+            222,
+            490,
+            326,
+            533
+          ],
+          "words": [
+            {
+              "text": "8%",
+              "bbox": [
+                227,
+                494,
+                238,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4%",
+          "bbox": [
+            326,
+            490,
+            431,
+            533
+          ],
+          "words": [
+            {
+              "text": "4%",
+              "bbox": [
+                331,
+                494,
+                343,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "InDevelopment",
+          "bbox": [
+            431,
+            490,
+            467,
+            533
+          ],
+          "words": [
+            {
+              "text": "InDevelopment",
+              "bbox": [
+                436,
+                494,
+                462,
+                528
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Projected",
+          "bbox": [
+            467,
+            490,
+            503,
+            533
+          ],
+          "words": [
+            {
+              "text": "Projected",
+              "bbox": [
+                474,
+                494,
+                498,
+                516
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "DrugD",
+          "bbox": [
+            13,
+            533,
+            118,
+            563
+          ],
+          "words": [
+            {
+              "text": "DrugD",
+              "bbox": [
+                18,
+                537,
+                42,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$15M",
+          "bbox": [
+            118,
+            533,
+            222,
+            563
+          ],
+          "words": [
+            {
+              "text": "$15M",
+              "bbox": [
+                123,
+                537,
+                143,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "12%",
+          "bbox": [
+            222,
+            533,
+            326,
+            563
+          ],
+          "words": [
+            {
+              "text": "12%",
+              "bbox": [
+                227,
+                537,
+                243,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3%",
+          "bbox": [
+            326,
+            533,
+            431,
+            563
+          ],
+          "words": [
+            {
+              "text": "3%",
+              "bbox": [
+                331,
+                537,
+                343,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Marketed",
+          "bbox": [
+            431,
+            533,
+            467,
+            563
+          ],
+          "words": [
+            {
+              "text": "Marketed",
+              "bbox": [
+                437,
+                537,
+                462,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            467,
+            533,
+            503,
+            563
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                481,
+                537,
+                498,
+                546
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        577,
+        503,
+        617
+      ],
+      "content": "In contrast, DrugB displayed a more modest revenue decrease of 3.3%, with current figures at $290M. Additionally, the analysis considers clinical trial enrollment rates, with DrugA achieving a 15.0% enrollment rate, indicative of the ongoing interest in developing therapies for rare diseases despite the revenue pressures from patent expirations.",
+      "lines": [
+        {
+          "text": "In contrast, DrugB displayed a more modest revenue decrease of 3.3%, with current figures at $290M. Additionally, the analysis",
+          "bbox": [
+            13,
+            578,
+            503,
+            588
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                13,
+                578,
+                21,
+                588
+              ]
+            },
+            {
+              "text": "contrast,",
+              "bbox": [
+                23,
+                578,
+                56,
+                588
+              ]
+            },
+            {
+              "text": "DrugB",
+              "bbox": [
+                58,
+                578,
+                84,
+                588
+              ]
+            },
+            {
+              "text": "displayed",
+              "bbox": [
+                87,
+                578,
+                123,
+                588
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                126,
+                578,
+                130,
+                588
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                132,
+                578,
+                152,
+                588
+              ]
+            },
+            {
+              "text": "modest",
+              "bbox": [
+                154,
+                578,
+                182,
+                588
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                184,
+                578,
+                215,
+                588
+              ]
+            },
+            {
+              "text": "decrease",
+              "bbox": [
+                217,
+                578,
+                250,
+                588
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                252,
+                578,
+                260,
+                588
+              ]
+            },
+            {
+              "text": "3.3%,",
+              "bbox": [
+                263,
+                578,
+                285,
+                588
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                287,
+                578,
+                304,
+                588
+              ]
+            },
+            {
+              "text": "current",
+              "bbox": [
+                307,
+                578,
+                334,
+                588
+              ]
+            },
+            {
+              "text": "figures",
+              "bbox": [
+                336,
+                578,
+                363,
+                588
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                365,
+                578,
+                372,
+                588
+              ]
+            },
+            {
+              "text": "$290M.",
+              "bbox": [
+                374,
+                578,
+                404,
+                588
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                406,
+                578,
+                456,
+                588
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                459,
+                578,
+                470,
+                588
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                473,
+                578,
+                503,
+                588
+              ]
+            }
+          ]
+        },
+        {
+          "text": "considers clinical trial enrollment rates, with DrugA achieving a 15.0% enrollment rate, indicative of the ongoing interest in",
+          "bbox": [
+            13,
+            591,
+            503,
+            601
+          ],
+          "words": [
+            {
+              "text": "considers",
+              "bbox": [
+                13,
+                591,
+                49,
+                601
+              ]
+            },
+            {
+              "text": "clinical",
+              "bbox": [
+                52,
+                591,
+                81,
+                601
+              ]
+            },
+            {
+              "text": "trial",
+              "bbox": [
+                84,
+                591,
+                99,
+                601
+              ]
+            },
+            {
+              "text": "enrollment",
+              "bbox": [
+                103,
+                591,
+                144,
+                601
+              ]
+            },
+            {
+              "text": "rates,",
+              "bbox": [
+                148,
+                591,
+                168,
+                601
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                171,
+                591,
+                188,
+                601
+              ]
+            },
+            {
+              "text": "DrugA",
+              "bbox": [
+                192,
+                591,
+                218,
+                601
+              ]
+            },
+            {
+              "text": "achieving",
+              "bbox": [
+                221,
+                591,
+                258,
+                601
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                262,
+                591,
+                266,
+                601
+              ]
+            },
+            {
+              "text": "15.0%",
+              "bbox": [
+                269,
+                591,
+                294,
+                601
+              ]
+            },
+            {
+              "text": "enrollment",
+              "bbox": [
+                297,
+                591,
+                339,
+                601
+              ]
+            },
+            {
+              "text": "rate,",
+              "bbox": [
+                342,
+                591,
+                359,
+                601
+              ]
+            },
+            {
+              "text": "indicative",
+              "bbox": [
+                362,
+                591,
+                400,
+                601
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                403,
+                591,
+                411,
+                601
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                415,
+                591,
+                426,
+                601
+              ]
+            },
+            {
+              "text": "ongoing",
+              "bbox": [
+                430,
+                591,
+                461,
+                601
+              ]
+            },
+            {
+              "text": "interest",
+              "bbox": [
+                465,
+                591,
+                493,
+                601
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                496,
+                591,
+                503,
+                601
+              ]
+            }
+          ]
+        },
+        {
+          "text": "developing therapies for rare diseases despite the revenue pressures from patent expirations.",
+          "bbox": [
+            13,
+            604,
+            365,
+            615
+          ],
+          "words": [
+            {
+              "text": "developing",
+              "bbox": [
+                13,
+                604,
+                55,
+                615
+              ]
+            },
+            {
+              "text": "therapies",
+              "bbox": [
+                58,
+                604,
+                92,
+                615
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                95,
+                604,
+                106,
+                615
+              ]
+            },
+            {
+              "text": "rare",
+              "bbox": [
+                108,
+                604,
+                123,
+                615
+              ]
+            },
+            {
+              "text": "diseases",
+              "bbox": [
+                125,
+                604,
+                157,
+                615
+              ]
+            },
+            {
+              "text": "despite",
+              "bbox": [
+                159,
+                604,
+                186,
+                615
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                189,
+                604,
+                200,
+                615
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                203,
+                604,
+                233,
+                615
+              ]
+            },
+            {
+              "text": "pressures",
+              "bbox": [
+                235,
+                604,
+                271,
+                615
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                273,
+                604,
+                292,
+                615
+              ]
+            },
+            {
+              "text": "patent",
+              "bbox": [
+                294,
+                604,
+                317,
+                615
+              ]
+            },
+            {
+              "text": "expirations.",
+              "bbox": [
+                320,
+                604,
+                365,
+                615
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_166958_t2",
+      "bbox": [
+        13,
+        630,
+        503,
+        749
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 3,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            630,
+            503,
+            648
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            648,
+            503,
+            665
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            665,
+            503,
+            683
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            683,
+            503,
+            701
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            701,
+            503,
+            718
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            718,
+            503,
+            748
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>TrialPhase</td><td>EnrollmentRate</td><td colspan=\"3\">Demographics</td></tr><tr><td>PhaseI</td><td>PhaseII</td><td colspan=\"2\">AgeGroup</td><td>PhaseIII</td><td colspan=\"2\">TotalEnrollment</td></tr><tr><td>Age18-30</td><td>25%</td><td>40%</td><td>20%</td><td>35%</td><td>Age31-45</td><td>30%</td></tr><tr><td>Age46-60</td><td>20%</td><td>$500K</td><td>60%</td><td>$1.2M</td><td>70%</td><td>$800K</td></tr><tr><td>Age61+</td><td>15%</td><td>$300K</td><td>50%</td><td>$600K</td><td>65%</td><td>$1.0M</td></tr><tr><td>Total</td><td>100%</td><td>$2.6M</td><td>AverageRate</td><td>55%</td><td>TotalTrials</td><td>5</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TrialPhase",
+          "bbox": [
+            13,
+            630,
+            141,
+            648
+          ],
+          "words": [
+            {
+              "text": "TrialPhase",
+              "bbox": [
+                17,
+                634,
+                57,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "EnrollmentRate",
+          "bbox": [
+            141,
+            630,
+            268,
+            648
+          ],
+          "words": [
+            {
+              "text": "EnrollmentRate",
+              "bbox": [
+                145,
+                634,
+                205,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Demographics",
+          "bbox": [
+            268,
+            630,
+            409,
+            648
+          ],
+          "words": [
+            {
+              "text": "Demographics",
+              "bbox": [
+                351,
+                634,
+                405,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "PhaseI",
+          "bbox": [
+            13,
+            648,
+            141,
+            665
+          ],
+          "words": [
+            {
+              "text": "PhaseI",
+              "bbox": [
+                17,
+                651,
+                42,
+                661
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "PhaseII",
+          "bbox": [
+            141,
+            648,
+            268,
+            665
+          ],
+          "words": [
+            {
+              "text": "PhaseII",
+              "bbox": [
+                145,
+                651,
+                173,
+                661
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AgeGroup",
+          "bbox": [
+            268,
+            648,
+            362,
+            665
+          ],
+          "words": [
+            {
+              "text": "AgeGroup",
+              "bbox": [
+                319,
+                651,
+                358,
+                661
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "PhaseIII",
+          "bbox": [
+            362,
+            648,
+            409,
+            665
+          ],
+          "words": [
+            {
+              "text": "PhaseIII",
+              "bbox": [
+                373,
+                651,
+                405,
+                661
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalEnrollment",
+          "bbox": [
+            409,
+            648,
+            503,
+            665
+          ],
+          "words": [
+            {
+              "text": "TotalEnrollment",
+              "bbox": [
+                438,
+                651,
+                499,
+                661
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Age18-30",
+          "bbox": [
+            13,
+            665,
+            141,
+            683
+          ],
+          "words": [
+            {
+              "text": "Age18-30",
+              "bbox": [
+                17,
+                669,
+                52,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "25%",
+          "bbox": [
+            141,
+            665,
+            268,
+            683
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                145,
+                669,
+                162,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "40%",
+          "bbox": [
+            268,
+            665,
+            315,
+            683
+          ],
+          "words": [
+            {
+              "text": "40%",
+              "bbox": [
+                293,
+                669,
+                311,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "20%",
+          "bbox": [
+            315,
+            665,
+            362,
+            683
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                340,
+                669,
+                358,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "35%",
+          "bbox": [
+            362,
+            665,
+            409,
+            683
+          ],
+          "words": [
+            {
+              "text": "35%",
+              "bbox": [
+                388,
+                669,
+                405,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Age31-45",
+          "bbox": [
+            409,
+            665,
+            456,
+            683
+          ],
+          "words": [
+            {
+              "text": "Age31-45",
+              "bbox": [
+                417,
+                669,
+                452,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "30%",
+          "bbox": [
+            456,
+            665,
+            503,
+            683
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                482,
+                669,
+                499,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Age46-60",
+          "bbox": [
+            13,
+            683,
+            141,
+            701
+          ],
+          "words": [
+            {
+              "text": "Age46-60",
+              "bbox": [
+                17,
+                687,
+                52,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            141,
+            683,
+            268,
+            701
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                145,
+                687,
+                161,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$500K",
+          "bbox": [
+            268,
+            683,
+            315,
+            701
+          ],
+          "words": [
+            {
+              "text": "$500K",
+              "bbox": [
+                287,
+                687,
+                311,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "60%",
+          "bbox": [
+            315,
+            683,
+            362,
+            701
+          ],
+          "words": [
+            {
+              "text": "60%",
+              "bbox": [
+                342,
+                687,
+                358,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$1.2M",
+          "bbox": [
+            362,
+            683,
+            409,
+            701
+          ],
+          "words": [
+            {
+              "text": "$1.2M",
+              "bbox": [
+                382,
+                687,
+                405,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "70%",
+          "bbox": [
+            409,
+            683,
+            456,
+            701
+          ],
+          "words": [
+            {
+              "text": "70%",
+              "bbox": [
+                436,
+                687,
+                452,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$800K",
+          "bbox": [
+            456,
+            683,
+            503,
+            701
+          ],
+          "words": [
+            {
+              "text": "$800K",
+              "bbox": [
+                475,
+                687,
+                499,
+                697
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Age61+",
+          "bbox": [
+            13,
+            701,
+            141,
+            718
+          ],
+          "words": [
+            {
+              "text": "Age61+",
+              "bbox": [
+                17,
+                704,
+                45,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            141,
+            701,
+            268,
+            718
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                145,
+                704,
+                161,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$300K",
+          "bbox": [
+            268,
+            701,
+            315,
+            718
+          ],
+          "words": [
+            {
+              "text": "$300K",
+              "bbox": [
+                287,
+                704,
+                311,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "50%",
+          "bbox": [
+            315,
+            701,
+            362,
+            718
+          ],
+          "words": [
+            {
+              "text": "50%",
+              "bbox": [
+                342,
+                704,
+                358,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$600K",
+          "bbox": [
+            362,
+            701,
+            409,
+            718
+          ],
+          "words": [
+            {
+              "text": "$600K",
+              "bbox": [
+                381,
+                704,
+                405,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "65%",
+          "bbox": [
+            409,
+            701,
+            456,
+            718
+          ],
+          "words": [
+            {
+              "text": "65%",
+              "bbox": [
+                436,
+                704,
+                452,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$1.0M",
+          "bbox": [
+            456,
+            701,
+            503,
+            718
+          ],
+          "words": [
+            {
+              "text": "$1.0M",
+              "bbox": [
+                476,
+                704,
+                499,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            13,
+            718,
+            141,
+            748
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                17,
+                722,
+                35,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "100%",
+          "bbox": [
+            141,
+            718,
+            268,
+            748
+          ],
+          "words": [
+            {
+              "text": "100%",
+              "bbox": [
+                145,
+                722,
+                165,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$2.6M",
+          "bbox": [
+            268,
+            718,
+            315,
+            748
+          ],
+          "words": [
+            {
+              "text": "$2.6M",
+              "bbox": [
+                288,
+                722,
+                311,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "AverageRate",
+          "bbox": [
+            315,
+            718,
+            362,
+            748
+          ],
+          "words": [
+            {
+              "text": "AverageRate",
+              "bbox": [
+                319,
+                722,
+                358,
+                743
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "55%",
+          "bbox": [
+            362,
+            718,
+            409,
+            748
+          ],
+          "words": [
+            {
+              "text": "55%",
+              "bbox": [
+                389,
+                722,
+                405,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalTrials",
+          "bbox": [
+            409,
+            718,
+            456,
+            748
+          ],
+          "words": [
+            {
+              "text": "TotalTrials",
+              "bbox": [
+                414,
+                722,
+                452,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            456,
+            718,
+            503,
+            748
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                495,
+                722,
+                499,
+                731
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        762,
+        503,
+        788
+      ],
+      "content": "This multifaceted examination underscores the critical need for strategic adaptations in clinical development and market positioning as Merck navigates the challenging landscape of rare disease treatments in a post-patent environment.",
+      "lines": [
+        {
+          "text": "This multifaceted examination underscores the critical need for strategic adaptations in clinical development and market",
+          "bbox": [
+            13,
+            763,
+            503,
+            773
+          ],
+          "words": [
+            {
+              "text": "This",
+              "bbox": [
+                13,
+                763,
+                30,
+                773
+              ]
+            },
+            {
+              "text": "multifaceted",
+              "bbox": [
+                35,
+                763,
+                82,
+                773
+              ]
+            },
+            {
+              "text": "examination",
+              "bbox": [
+                87,
+                763,
+                134,
+                773
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                139,
+                763,
+                184,
+                773
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                189,
+                763,
+                201,
+                773
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                205,
+                763,
+                232,
+                773
+              ]
+            },
+            {
+              "text": "need",
+              "bbox": [
+                236,
+                763,
+                254,
+                773
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                259,
+                763,
+                270,
+                773
+              ]
+            },
+            {
+              "text": "strategic",
+              "bbox": [
+                275,
+                763,
+                307,
+                773
+              ]
+            },
+            {
+              "text": "adaptations",
+              "bbox": [
+                312,
+                763,
+                355,
+                773
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                360,
+                763,
+                367,
+                773
+              ]
+            },
+            {
+              "text": "clinical",
+              "bbox": [
+                372,
+                763,
+                400,
+                773
+              ]
+            },
+            {
+              "text": "development",
+              "bbox": [
+                405,
+                763,
+                454,
+                773
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                459,
+                763,
+                472,
+                773
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                477,
+                763,
+                503,
+                773
+              ]
+            }
+          ]
+        },
+        {
+          "text": "positioning as Merck navigates the challenging landscape of rare disease treatments in a post-patent environment.",
+          "bbox": [
+            13,
+            776,
+            447,
+            786
+          ],
+          "words": [
+            {
+              "text": "positioning",
+              "bbox": [
+                13,
+                776,
+                56,
+                786
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                58,
+                776,
+                66,
+                786
+              ]
+            },
+            {
+              "text": "Merck",
+              "bbox": [
+                69,
+                776,
+                94,
+                786
+              ]
+            },
+            {
+              "text": "navigates",
+              "bbox": [
+                96,
+                776,
+                132,
+                786
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                134,
+                776,
+                146,
+                786
+              ]
+            },
+            {
+              "text": "challenging",
+              "bbox": [
+                149,
+                776,
+                193,
+                786
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                195,
+                776,
+                233,
+                786
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                235,
+                776,
+                243,
+                786
+              ]
+            },
+            {
+              "text": "rare",
+              "bbox": [
+                246,
+                776,
+                261,
+                786
+              ]
+            },
+            {
+              "text": "disease",
+              "bbox": [
+                263,
+                776,
+                291,
+                786
+              ]
+            },
+            {
+              "text": "treatments",
+              "bbox": [
+                293,
+                776,
+                333,
+                786
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                335,
+                776,
+                343,
+                786
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                345,
+                776,
+                349,
+                786
+              ]
+            },
+            {
+              "text": "post-patent",
+              "bbox": [
+                352,
+                776,
+                394,
+                786
+              ]
+            },
+            {
+              "text": "environment.",
+              "bbox": [
+                396,
+                776,
+                447,
+                786
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "image_id": "img_042501",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The assessment of hypocalcemia detection in patients is critical for optimizing treatment strategies and improving patient",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "outcomes. The accompanying data table presents an analysis of various detection methods, highlighting key metrics such as the",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "number of patients (N) and the corresponding detection percentages (%). Notably, the table indicates that out of 121 patients,",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "43.2% were accurately identified as having hypocalcemia, underscoring the efficacy of the employed detection methodologies.",
+      "bbox": [
+        15,
+        97,
+        580,
+        109
+      ]
+    },
+    {
+      "text": "The incremental yield metrics also provide valuable insights; specifically, the incremental yield over the baseline detection",
+      "bbox": [
+        15,
+        113,
+        580,
+        125
+      ]
+    },
+    {
+      "text": "method (D) reveals a significant improvement in detection rates, with analysis showing an increase in the number of cases",
+      "bbox": [
+        15,
+        128,
+        580,
+        140
+      ]
+    },
+    {
+      "text": "detected. Furthermore, the rule description column illustrates that the medication entity is accurately detected, with both class",
+      "bbox": [
+        15,
+        143,
+        580,
+        155
+      ]
+    },
+    {
+      "text": "and boundary divisions correctly applied. This comprehensive evaluation not only emphasizes the importance of precise",
+      "bbox": [
+        15,
+        159,
+        580,
+        171
+      ]
+    },
+    {
+      "text": "diagnostic tools but also sets the stage for further research aimed at enhancing detection rates and ensuring timely interventions",
+      "bbox": [
+        15,
+        174,
+        580,
+        186
+      ]
+    },
+    {
+      "text": "for patients suffering from hypocalcemia.",
+      "bbox": [
+        15,
+        190,
+        198,
+        202
+      ]
+    },
+    {
+      "text": "Electroyte imbalance  Cases",
+      "bbox": [
+        16,
+        219,
+        580,
+        240
+      ]
+    },
+    {
+      "text": "N  Percent (%)",
+      "bbox": [
+        16,
+        240,
+        580,
+        261
+      ]
+    },
+    {
+      "text": "Hypocalcemia  47  23.38",
+      "bbox": [
+        16,
+        261,
+        580,
+        282
+      ]
+    },
+    {
+      "text": "Hypomagnesemia  28  13.93",
+      "bbox": [
+        16,
+        282,
+        580,
+        303
+      ]
+    },
+    {
+      "text": "Hypokalemia  18  8.96",
+      "bbox": [
+        16,
+        303,
+        580,
+        324
+      ]
+    },
+    {
+      "text": "Hyperkalemia  0  0",
+      "bbox": [
+        16,
+        324,
+        580,
+        345
+      ]
+    },
+    {
+      "text": "Score  Rule description",
+      "bbox": [
+        15,
+        361,
+        580,
+        382
+      ]
+    },
+    {
+      "text": "1  Medication entity is accurately detected, and divisions of class and boundary are both correct",
+      "bbox": [
+        15,
+        382,
+        580,
+        403
+      ]
+    },
+    {
+      "text": "0.8  Only one error is detected at the start position of the ME boundary",
+      "bbox": [
+        15,
+        403,
+        580,
+        423
+      ]
+    },
+    {
+      "text": "0.6  Only one error is detected at the end position of the ME boundary",
+      "bbox": [
+        15,
+        423,
+        580,
+        443
+      ]
+    },
+    {
+      "text": "0.4  Two errors are detected at the start and end positions of ME boundaries, respectively",
+      "bbox": [
+        15,
+        443,
+        580,
+        463
+      ]
+    },
+    {
+      "text": "0  ME is not detected, or the detected phrase is not a drug name entity annotated in the gold standard",
+      "bbox": [
+        15,
+        463,
+        580,
+        483
+      ]
+    },
+    {
+      "text": "Case definition of one smear  Case definition of two smears",
+      "bbox": [
+        16,
+        499,
+        580,
+        520
+      ]
+    },
+    {
+      "text": "N detected (% of all patients)  Incremental yield over D alone: N (%; 95% CI)  N detected (% of all patients)  Incremental yield over D alone: N (%; 95% CI)",
+      "bbox": [
+        16,
+        520,
+        580,
+        555
+      ]
+    },
+    {
+      "text": "D  121 (43.2%)*  -  118 (42.1%)  -",
+      "bbox": [
+        16,
+        555,
+        580,
+        576
+      ]
+    },
+    {
+      "text": "D+SCA  122 (43.6%)  1 (0.8%; 0-4.5)  118 (42.1%)  0",
+      "bbox": [
+        16,
+        576,
+        580,
+        611
+      ]
+    },
+    {
+      "text": "B  134 (47.9%)†  14 (11.6%; 6.5-18.6)  123 (43.9%)  5 (4.2%; 1.4-9.6)",
+      "bbox": [
+        16,
+        611,
+        580,
+        632
+      ]
+    },
+    {
+      "text": "B+SCA  135 (48.6%)‡  15(12.4%; 7.1-19.6)  125 (44.6%)  7 (5.9%; 2.4-11.8)",
+      "bbox": [
+        16,
+        632,
+        580,
+        667
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4473 @@
+{
+  "image_id": "img_066957",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_066957_t0",
+      "bbox": [
+        15,
+        96,
+        580,
+        260
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            97,
+            580,
+            132
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            132,
+            580,
+            152
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            152,
+            580,
+            172
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            172,
+            580,
+            206
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            206,
+            580,
+            240
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            240,
+            580,
+            260
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">Type of VSD</td><td>No. of cases</td><td>TGA + VSD</td><td>TGA + VSD + Ao obstruction</td><td>TGA + VSD + Po stenosis</td></tr><tr><td colspan=\"2\">Perimembranous</td><td>32 (48%)</td><td>22 (51%)</td><td>6</td><td>3 (60%)</td></tr><tr><td colspan=\"2\">Muscular</td><td>27 (41%)</td><td>17</td><td>10 (55%)</td><td>1</td></tr><tr><td rowspan=\"2\">Multiple</td><td>Perimembranous + muscular</td><td>4</td><td>2</td><td>2</td><td>–</td></tr><tr><td>Multiple muscular</td><td>3</td><td>2</td><td>–</td><td>1</td></tr><tr><td colspan=\"2\">Total</td><td>66</td><td>43</td><td>18</td><td>5</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Type of VSD",
+          "bbox": [
+            16,
+            97,
+            215,
+            132
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                21,
+                101,
+                42,
+                112
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                44,
+                101,
+                53,
+                112
+              ]
+            },
+            {
+              "text": "VSD",
+              "bbox": [
+                55,
+                101,
+                75,
+                112
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "No. of cases",
+          "bbox": [
+            215,
+            97,
+            274,
+            132
+          ],
+          "words": [
+            {
+              "text": "No.",
+              "bbox": [
+                243,
+                101,
+                258,
+                112
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                260,
+                101,
+                269,
+                112
+              ]
+            },
+            {
+              "text": "cases",
+              "bbox": [
+                247,
+                115,
+                269,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "TGA + VSD",
+          "bbox": [
+            274,
+            97,
+            334,
+            132
+          ],
+          "words": [
+            {
+              "text": "TGA",
+              "bbox": [
+                300,
+                101,
+                321,
+                112
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                323,
+                101,
+                329,
+                112
+              ]
+            },
+            {
+              "text": "VSD",
+              "bbox": [
+                309,
+                115,
+                329,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "TGA + VSD + Ao obstruction",
+          "bbox": [
+            334,
+            97,
+            465,
+            132
+          ],
+          "words": [
+            {
+              "text": "TGA",
+              "bbox": [
+                385,
+                101,
+                406,
+                112
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                409,
+                101,
+                415,
+                112
+              ]
+            },
+            {
+              "text": "VSD",
+              "bbox": [
+                417,
+                101,
+                437,
+                112
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                439,
+                101,
+                445,
+                112
+              ]
+            },
+            {
+              "text": "Ao",
+              "bbox": [
+                447,
+                101,
+                459,
+                112
+              ]
+            },
+            {
+              "text": "obstruction",
+              "bbox": [
+                410,
+                115,
+                459,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "TGA + VSD + Po stenosis",
+          "bbox": [
+            465,
+            97,
+            580,
+            132
+          ],
+          "words": [
+            {
+              "text": "TGA",
+              "bbox": [
+                470,
+                101,
+                491,
+                112
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                494,
+                101,
+                500,
+                112
+              ]
+            },
+            {
+              "text": "VSD",
+              "bbox": [
+                502,
+                101,
+                522,
+                112
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                524,
+                101,
+                530,
+                112
+              ]
+            },
+            {
+              "text": "Po",
+              "bbox": [
+                533,
+                101,
+                544,
+                112
+              ]
+            },
+            {
+              "text": "stenosis",
+              "bbox": [
+                470,
+                115,
+                503,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Perimembranous",
+          "bbox": [
+            16,
+            132,
+            215,
+            152
+          ],
+          "words": [
+            {
+              "text": "Perimembranous",
+              "bbox": [
+                21,
+                136,
+                88,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "32 (48%)",
+          "bbox": [
+            215,
+            132,
+            274,
+            152
+          ],
+          "words": [
+            {
+              "text": "32",
+              "bbox": [
+                232,
+                136,
+                242,
+                147
+              ]
+            },
+            {
+              "text": "(48%)",
+              "bbox": [
+                244,
+                136,
+                269,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "22 (51%)",
+          "bbox": [
+            274,
+            132,
+            334,
+            152
+          ],
+          "words": [
+            {
+              "text": "22",
+              "bbox": [
+                292,
+                136,
+                302,
+                147
+              ]
+            },
+            {
+              "text": "(51%)",
+              "bbox": [
+                304,
+                136,
+                329,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            334,
+            132,
+            465,
+            152
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                455,
+                136,
+                460,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3 (60%)",
+          "bbox": [
+            465,
+            132,
+            580,
+            152
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                470,
+                136,
+                475,
+                147
+              ]
+            },
+            {
+              "text": "(60%)",
+              "bbox": [
+                477,
+                136,
+                502,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Muscular",
+          "bbox": [
+            16,
+            152,
+            215,
+            172
+          ],
+          "words": [
+            {
+              "text": "Muscular",
+              "bbox": [
+                21,
+                156,
+                58,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "27 (41%)",
+          "bbox": [
+            215,
+            152,
+            274,
+            172
+          ],
+          "words": [
+            {
+              "text": "27",
+              "bbox": [
+                232,
+                156,
+                242,
+                167
+              ]
+            },
+            {
+              "text": "(41%)",
+              "bbox": [
+                244,
+                156,
+                269,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "17",
+          "bbox": [
+            274,
+            152,
+            334,
+            172
+          ],
+          "words": [
+            {
+              "text": "17",
+              "bbox": [
+                319,
+                156,
+                329,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10 (55%)",
+          "bbox": [
+            334,
+            152,
+            465,
+            172
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                422,
+                156,
+                432,
+                167
+              ]
+            },
+            {
+              "text": "(55%)",
+              "bbox": [
+                435,
+                156,
+                460,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            465,
+            152,
+            580,
+            172
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                470,
+                156,
+                475,
+                167
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3,
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Multiple",
+          "bbox": [
+            16,
+            172,
+            96,
+            206
+          ],
+          "words": [
+            {
+              "text": "Multiple",
+              "bbox": [
+                21,
+                176,
+                55,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Perimembranous + muscular",
+          "bbox": [
+            96,
+            172,
+            215,
+            206
+          ],
+          "words": [
+            {
+              "text": "Perimembranous",
+              "bbox": [
+                101,
+                176,
+                169,
+                187
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                171,
+                176,
+                177,
+                187
+              ]
+            },
+            {
+              "text": "muscular",
+              "bbox": [
+                101,
+                190,
+                137,
+                201
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            215,
+            172,
+            274,
+            206
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                264,
+                176,
+                269,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            274,
+            172,
+            334,
+            206
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                324,
+                176,
+                329,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            334,
+            172,
+            465,
+            206
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                455,
+                176,
+                460,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "–",
+          "bbox": [
+            465,
+            172,
+            580,
+            206
+          ],
+          "words": [
+            {
+              "text": "–",
+              "bbox": [
+                470,
+                176,
+                475,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Multiple muscular",
+          "bbox": [
+            16,
+            206,
+            96,
+            240
+          ],
+          "words": [
+            {
+              "text": "Multiple",
+              "bbox": [
+                21,
+                210,
+                55,
+                221
+              ]
+            },
+            {
+              "text": "muscular",
+              "bbox": [
+                21,
+                224,
+                57,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "3",
+          "bbox": [
+            96,
+            206,
+            215,
+            240
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                101,
+                210,
+                106,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            215,
+            206,
+            274,
+            240
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                264,
+                210,
+                269,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "–",
+          "bbox": [
+            274,
+            206,
+            334,
+            240
+          ],
+          "words": [
+            {
+              "text": "–",
+              "bbox": [
+                324,
+                210,
+                329,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            334,
+            206,
+            465,
+            240
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                455,
+                210,
+                460,
+                221
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            16,
+            240,
+            215,
+            260
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                21,
+                244,
+                41,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "66",
+          "bbox": [
+            215,
+            240,
+            274,
+            260
+          ],
+          "words": [
+            {
+              "text": "66",
+              "bbox": [
+                259,
+                244,
+                269,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "43",
+          "bbox": [
+            274,
+            240,
+            334,
+            260
+          ],
+          "words": [
+            {
+              "text": "43",
+              "bbox": [
+                319,
+                244,
+                329,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "18",
+          "bbox": [
+            334,
+            240,
+            465,
+            260
+          ],
+          "words": [
+            {
+              "text": "18",
+              "bbox": [
+                450,
+                244,
+                460,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            465,
+            240,
+            580,
+            260
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                470,
+                244,
+                475,
+                255
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_066957_t1",
+      "bbox": [
+        15,
+        297,
+        580,
+        424
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            298,
+            580,
+            319
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            319,
+            580,
+            340
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            340,
+            580,
+            361
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            361,
+            580,
+            382
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            382,
+            580,
+            403
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            403,
+            580,
+            424
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td rowspan=\"2\">Code</td><td rowspan=\"2\">Size (cm)</td><td colspan=\"2\">Maximum</td></tr><tr><td>Area (cm2)</td><td>Number of sheets</td></tr><tr><td>32024</td><td>7.5 × 10.0</td><td>774</td><td>10</td></tr><tr><td>32025</td><td>7.5 × 12.5</td><td>774</td><td>8</td></tr><tr><td>32029</td><td>10.0 × 10.0</td><td>774</td><td>7</td></tr><tr><td>32031</td><td>12.5 × 15.0</td><td>774</td><td>4</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Code",
+          "bbox": [
+            16,
+            298,
+            182,
+            319
+          ],
+          "words": [
+            {
+              "text": "Code",
+              "bbox": [
+                21,
+                302,
+                43,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Size (cm)",
+          "bbox": [
+            182,
+            298,
+            423,
+            319
+          ],
+          "words": [
+            {
+              "text": "Size",
+              "bbox": [
+                187,
+                302,
+                205,
+                313
+              ]
+            },
+            {
+              "text": "(cm)",
+              "bbox": [
+                207,
+                302,
+                226,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Maximum",
+          "bbox": [
+            423,
+            298,
+            580,
+            319
+          ],
+          "words": [
+            {
+              "text": "Maximum",
+              "bbox": [
+                530,
+                302,
+                574,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Area (cm2)",
+          "bbox": [
+            16,
+            319,
+            182,
+            340
+          ],
+          "words": [
+            {
+              "text": "Area",
+              "bbox": [
+                21,
+                323,
+                42,
+                334
+              ]
+            },
+            {
+              "text": "(cm2)",
+              "bbox": [
+                44,
+                323,
+                69,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of sheets",
+          "bbox": [
+            182,
+            319,
+            423,
+            340
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                187,
+                323,
+                223,
+                334
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                225,
+                323,
+                234,
+                334
+              ]
+            },
+            {
+              "text": "sheets",
+              "bbox": [
+                236,
+                323,
+                262,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "32024",
+          "bbox": [
+            16,
+            340,
+            182,
+            361
+          ],
+          "words": [
+            {
+              "text": "32024",
+              "bbox": [
+                21,
+                344,
+                46,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "7.5 × 10.0",
+          "bbox": [
+            182,
+            340,
+            423,
+            361
+          ],
+          "words": [
+            {
+              "text": "7.5",
+              "bbox": [
+                187,
+                344,
+                200,
+                355
+              ]
+            },
+            {
+              "text": "×",
+              "bbox": [
+                202,
+                344,
+                208,
+                355
+              ]
+            },
+            {
+              "text": "10.0",
+              "bbox": [
+                210,
+                344,
+                228,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "774",
+          "bbox": [
+            423,
+            340,
+            509,
+            361
+          ],
+          "words": [
+            {
+              "text": "774",
+              "bbox": [
+                489,
+                344,
+                504,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            509,
+            340,
+            580,
+            361
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                564,
+                344,
+                574,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "32025",
+          "bbox": [
+            16,
+            361,
+            182,
+            382
+          ],
+          "words": [
+            {
+              "text": "32025",
+              "bbox": [
+                21,
+                365,
+                46,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "7.5 × 12.5",
+          "bbox": [
+            182,
+            361,
+            423,
+            382
+          ],
+          "words": [
+            {
+              "text": "7.5",
+              "bbox": [
+                187,
+                365,
+                200,
+                376
+              ]
+            },
+            {
+              "text": "×",
+              "bbox": [
+                202,
+                365,
+                208,
+                376
+              ]
+            },
+            {
+              "text": "12.5",
+              "bbox": [
+                210,
+                365,
+                228,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "774",
+          "bbox": [
+            423,
+            361,
+            509,
+            382
+          ],
+          "words": [
+            {
+              "text": "774",
+              "bbox": [
+                489,
+                365,
+                504,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "8",
+          "bbox": [
+            509,
+            361,
+            580,
+            382
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                569,
+                365,
+                574,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "32029",
+          "bbox": [
+            16,
+            382,
+            182,
+            403
+          ],
+          "words": [
+            {
+              "text": "32029",
+              "bbox": [
+                21,
+                386,
+                46,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0 × 10.0",
+          "bbox": [
+            182,
+            382,
+            423,
+            403
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                187,
+                386,
+                205,
+                397
+              ]
+            },
+            {
+              "text": "×",
+              "bbox": [
+                207,
+                386,
+                213,
+                397
+              ]
+            },
+            {
+              "text": "10.0",
+              "bbox": [
+                215,
+                386,
+                233,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "774",
+          "bbox": [
+            423,
+            382,
+            509,
+            403
+          ],
+          "words": [
+            {
+              "text": "774",
+              "bbox": [
+                489,
+                386,
+                504,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "7",
+          "bbox": [
+            509,
+            382,
+            580,
+            403
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                569,
+                386,
+                574,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "32031",
+          "bbox": [
+            16,
+            403,
+            182,
+            424
+          ],
+          "words": [
+            {
+              "text": "32031",
+              "bbox": [
+                21,
+                407,
+                46,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5 × 15.0",
+          "bbox": [
+            182,
+            403,
+            423,
+            424
+          ],
+          "words": [
+            {
+              "text": "12.5",
+              "bbox": [
+                187,
+                407,
+                205,
+                418
+              ]
+            },
+            {
+              "text": "×",
+              "bbox": [
+                207,
+                407,
+                213,
+                418
+              ]
+            },
+            {
+              "text": "15.0",
+              "bbox": [
+                215,
+                407,
+                233,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "774",
+          "bbox": [
+            423,
+            403,
+            509,
+            424
+          ],
+          "words": [
+            {
+              "text": "774",
+              "bbox": [
+                489,
+                407,
+                504,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            509,
+            403,
+            580,
+            424
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                569,
+                407,
+                574,
+                418
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_066957_t2",
+      "bbox": [
+        15,
+        463,
+        580,
+        590
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            464,
+            580,
+            485
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            485,
+            580,
+            506
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            506,
+            580,
+            527
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            527,
+            580,
+            548
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            548,
+            580,
+            569
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            569,
+            580,
+            590
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Age group (years)</td><td>Females</td><td>Males</td><td>Total</td></tr><tr><td>0–20</td><td>12 (3.44%)</td><td>0</td><td>12</td></tr><tr><td>21–40</td><td>109 (31.23%)</td><td>13 (3.72%)</td><td>122</td></tr><tr><td>41–60</td><td>171 (48.99%)</td><td>15 (4.29%)</td><td>186</td></tr><tr><td>61 and above</td><td>18 (5.16%)</td><td>3 (0.86%)</td><td>21</td></tr><tr><td>Not known</td><td>8 (2.29%)</td><td>0</td><td>8</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Age group (years)",
+          "bbox": [
+            16,
+            464,
+            219,
+            485
+          ],
+          "words": [
+            {
+              "text": "Age",
+              "bbox": [
+                21,
+                468,
+                38,
+                479
+              ]
+            },
+            {
+              "text": "group",
+              "bbox": [
+                40,
+                468,
+                66,
+                479
+              ]
+            },
+            {
+              "text": "(years)",
+              "bbox": [
+                68,
+                468,
+                97,
+                479
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Females",
+          "bbox": [
+            219,
+            464,
+            373,
+            485
+          ],
+          "words": [
+            {
+              "text": "Females",
+              "bbox": [
+                225,
+                468,
+                260,
+                479
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Males",
+          "bbox": [
+            373,
+            464,
+            503,
+            485
+          ],
+          "words": [
+            {
+              "text": "Males",
+              "bbox": [
+                472,
+                468,
+                497,
+                479
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Total",
+          "bbox": [
+            503,
+            464,
+            580,
+            485
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                552,
+                468,
+                574,
+                479
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0–20",
+          "bbox": [
+            16,
+            485,
+            219,
+            506
+          ],
+          "words": [
+            {
+              "text": "0–20",
+              "bbox": [
+                21,
+                489,
+                41,
+                500
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "12 (3.44%)",
+          "bbox": [
+            219,
+            485,
+            373,
+            506
+          ],
+          "words": [
+            {
+              "text": "12",
+              "bbox": [
+                225,
+                489,
+                235,
+                500
+              ]
+            },
+            {
+              "text": "(3.44%)",
+              "bbox": [
+                237,
+                489,
+                270,
+                500
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            373,
+            485,
+            503,
+            506
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                492,
+                489,
+                497,
+                500
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "12",
+          "bbox": [
+            503,
+            485,
+            580,
+            506
+          ],
+          "words": [
+            {
+              "text": "12",
+              "bbox": [
+                564,
+                489,
+                574,
+                500
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "21–40",
+          "bbox": [
+            16,
+            506,
+            219,
+            527
+          ],
+          "words": [
+            {
+              "text": "21–40",
+              "bbox": [
+                21,
+                510,
+                46,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "109 (31.23%)",
+          "bbox": [
+            219,
+            506,
+            373,
+            527
+          ],
+          "words": [
+            {
+              "text": "109",
+              "bbox": [
+                225,
+                510,
+                240,
+                521
+              ]
+            },
+            {
+              "text": "(31.23%)",
+              "bbox": [
+                242,
+                510,
+                280,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "13 (3.72%)",
+          "bbox": [
+            373,
+            506,
+            503,
+            527
+          ],
+          "words": [
+            {
+              "text": "13",
+              "bbox": [
+                452,
+                510,
+                462,
+                521
+              ]
+            },
+            {
+              "text": "(3.72%)",
+              "bbox": [
+                465,
+                510,
+                497,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "122",
+          "bbox": [
+            503,
+            506,
+            580,
+            527
+          ],
+          "words": [
+            {
+              "text": "122",
+              "bbox": [
+                559,
+                510,
+                574,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "41–60",
+          "bbox": [
+            16,
+            527,
+            219,
+            548
+          ],
+          "words": [
+            {
+              "text": "41–60",
+              "bbox": [
+                21,
+                531,
+                46,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "171 (48.99%)",
+          "bbox": [
+            219,
+            527,
+            373,
+            548
+          ],
+          "words": [
+            {
+              "text": "171",
+              "bbox": [
+                225,
+                531,
+                240,
+                542
+              ]
+            },
+            {
+              "text": "(48.99%)",
+              "bbox": [
+                242,
+                531,
+                280,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15 (4.29%)",
+          "bbox": [
+            373,
+            527,
+            503,
+            548
+          ],
+          "words": [
+            {
+              "text": "15",
+              "bbox": [
+                452,
+                531,
+                462,
+                542
+              ]
+            },
+            {
+              "text": "(4.29%)",
+              "bbox": [
+                465,
+                531,
+                497,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "186",
+          "bbox": [
+            503,
+            527,
+            580,
+            548
+          ],
+          "words": [
+            {
+              "text": "186",
+              "bbox": [
+                559,
+                531,
+                574,
+                542
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "61 and above",
+          "bbox": [
+            16,
+            548,
+            219,
+            569
+          ],
+          "words": [
+            {
+              "text": "61",
+              "bbox": [
+                21,
+                552,
+                31,
+                563
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                34,
+                552,
+                48,
+                563
+              ]
+            },
+            {
+              "text": "above",
+              "bbox": [
+                50,
+                552,
+                74,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "18 (5.16%)",
+          "bbox": [
+            219,
+            548,
+            373,
+            569
+          ],
+          "words": [
+            {
+              "text": "18",
+              "bbox": [
+                225,
+                552,
+                235,
+                563
+              ]
+            },
+            {
+              "text": "(5.16%)",
+              "bbox": [
+                237,
+                552,
+                270,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "3 (0.86%)",
+          "bbox": [
+            373,
+            548,
+            503,
+            569
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                457,
+                552,
+                462,
+                563
+              ]
+            },
+            {
+              "text": "(0.86%)",
+              "bbox": [
+                465,
+                552,
+                497,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "21",
+          "bbox": [
+            503,
+            548,
+            580,
+            569
+          ],
+          "words": [
+            {
+              "text": "21",
+              "bbox": [
+                564,
+                552,
+                574,
+                563
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Not known",
+          "bbox": [
+            16,
+            569,
+            219,
+            590
+          ],
+          "words": [
+            {
+              "text": "Not",
+              "bbox": [
+                21,
+                573,
+                36,
+                584
+              ]
+            },
+            {
+              "text": "known",
+              "bbox": [
+                39,
+                573,
+                66,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "8 (2.29%)",
+          "bbox": [
+            219,
+            569,
+            373,
+            590
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                225,
+                573,
+                230,
+                584
+              ]
+            },
+            {
+              "text": "(2.29%)",
+              "bbox": [
+                232,
+                573,
+                265,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            373,
+            569,
+            503,
+            590
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                492,
+                573,
+                497,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "8",
+          "bbox": [
+            503,
+            569,
+            580,
+            590
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                569,
+                573,
+                574,
+                584
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        611,
+        580,
+        765
+      ],
+      "content": "The data table presents a comprehensive overview of various types of ventricular septal defects (VSDs) observed in a specified cohort, highlighting the interplay between these defects and associated conditions such as transposition of the great arteries (TGA). Notably, the table categorizes cases based on the type of VSD and delineates the frequency of occurrences within specific age groups and gender distributions. For instance, the 'No. of cases' column reveals a significant predominance of perimembranous VSDs, accounting for 32 cases or 48% of the total. Furthermore, the table illustrates the correlation between TGA and VSD by enumerating cases that also present with additional complications, such as TGA combined with VSD and aortic obstruction, as well as those with pulmonary stenosis. The detailed metrics, including area measurements in square centimeters and the number of sheets, provide critical insights into the anatomical considerations relevant to these defects. This structured data serves as a valuable resource for clinicians and researchers aiming to understand the complexities associated with VSDs and their broader clinical implications.",
+      "lines": [
+        {
+          "text": "The data table presents a comprehensive overview of various types of ventricular septal defects (VSDs) observed in a specified",
+          "bbox": [
+            15,
+            612,
+            580,
+            624
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                612,
+                32,
+                624
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                35,
+                612,
+                53,
+                624
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                57,
+                612,
+                78,
+                624
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                81,
+                612,
+                117,
+                624
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                120,
+                612,
+                125,
+                624
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                128,
+                612,
+                195,
+                624
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                198,
+                612,
+                239,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                242,
+                612,
+                251,
+                624
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                254,
+                612,
+                286,
+                624
+              ]
+            },
+            {
+              "text": "types",
+              "bbox": [
+                289,
+                612,
+                312,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                316,
+                612,
+                325,
+                624
+              ]
+            },
+            {
+              "text": "ventricular",
+              "bbox": [
+                328,
+                612,
+                375,
+                624
+              ]
+            },
+            {
+              "text": "septal",
+              "bbox": [
+                378,
+                612,
+                404,
+                624
+              ]
+            },
+            {
+              "text": "defects",
+              "bbox": [
+                407,
+                612,
+                438,
+                624
+              ]
+            },
+            {
+              "text": "(VSDs)",
+              "bbox": [
+                441,
+                612,
+                475,
+                624
+              ]
+            },
+            {
+              "text": "observed",
+              "bbox": [
+                478,
+                612,
+                518,
+                624
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                521,
+                612,
+                529,
+                624
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                532,
+                612,
+                537,
+                624
+              ]
+            },
+            {
+              "text": "specified",
+              "bbox": [
+                540,
+                612,
+                580,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "text": "cohort, highlighting the interplay between these defects and associated conditions such as transposition of the great arteries",
+          "bbox": [
+            15,
+            627,
+            580,
+            639
+          ],
+          "words": [
+            {
+              "text": "cohort,",
+              "bbox": [
+                15,
+                627,
+                46,
+                639
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                50,
+                627,
+                104,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                108,
+                627,
+                122,
+                639
+              ]
+            },
+            {
+              "text": "interplay",
+              "bbox": [
+                126,
+                627,
+                165,
+                639
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                169,
+                627,
+                206,
+                639
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                210,
+                627,
+                232,
+                639
+              ]
+            },
+            {
+              "text": "defects",
+              "bbox": [
+                237,
+                627,
+                268,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                272,
+                627,
+                288,
+                639
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                292,
+                627,
+                337,
+                639
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                342,
+                627,
+                387,
+                639
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                392,
+                627,
+                412,
+                639
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                416,
+                627,
+                425,
+                639
+              ]
+            },
+            {
+              "text": "transposition",
+              "bbox": [
+                429,
+                627,
+                486,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                490,
+                627,
+                500,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                504,
+                627,
+                517,
+                639
+              ]
+            },
+            {
+              "text": "great",
+              "bbox": [
+                521,
+                627,
+                543,
+                639
+              ]
+            },
+            {
+              "text": "arteries",
+              "bbox": [
+                548,
+                627,
+                580,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(TGA). Notably, the table categorizes cases based on the type of VSD and delineates the frequency of occurrences within",
+          "bbox": [
+            15,
+            643,
+            580,
+            655
+          ],
+          "words": [
+            {
+              "text": "(TGA).",
+              "bbox": [
+                15,
+                643,
+                48,
+                655
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                52,
+                643,
+                90,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                94,
+                643,
+                108,
+                655
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                112,
+                643,
+                133,
+                655
+              ]
+            },
+            {
+              "text": "categorizes",
+              "bbox": [
+                138,
+                643,
+                187,
+                655
+              ]
+            },
+            {
+              "text": "cases",
+              "bbox": [
+                192,
+                643,
+                215,
+                655
+              ]
+            },
+            {
+              "text": "based",
+              "bbox": [
+                220,
+                643,
+                245,
+                655
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                249,
+                643,
+                260,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                265,
+                643,
+                278,
+                655
+              ]
+            },
+            {
+              "text": "type",
+              "bbox": [
+                283,
+                643,
+                302,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                306,
+                643,
+                315,
+                655
+              ]
+            },
+            {
+              "text": "VSD",
+              "bbox": [
+                319,
+                643,
+                341,
+                655
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                346,
+                643,
+                362,
+                655
+              ]
+            },
+            {
+              "text": "delineates",
+              "bbox": [
+                366,
+                643,
+                410,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                415,
+                643,
+                428,
+                655
+              ]
+            },
+            {
+              "text": "frequency",
+              "bbox": [
+                433,
+                643,
+                477,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                481,
+                643,
+                490,
+                655
+              ]
+            },
+            {
+              "text": "occurrences",
+              "bbox": [
+                495,
+                643,
+                547,
+                655
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                552,
+                643,
+                580,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "specific age groups and gender distributions. For instance, the 'No. of cases' column reveals a significant predominance of",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "specific",
+              "bbox": [
+                15,
+                658,
+                49,
+                670
+              ]
+            },
+            {
+              "text": "age",
+              "bbox": [
+                54,
+                658,
+                69,
+                670
+              ]
+            },
+            {
+              "text": "groups",
+              "bbox": [
+                73,
+                658,
+                103,
+                670
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                108,
+                658,
+                124,
+                670
+              ]
+            },
+            {
+              "text": "gender",
+              "bbox": [
+                128,
+                658,
+                158,
+                670
+              ]
+            },
+            {
+              "text": "distributions.",
+              "bbox": [
+                162,
+                658,
+                220,
+                670
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                224,
+                658,
+                240,
+                670
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                244,
+                658,
+                283,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                287,
+                658,
+                301,
+                670
+              ]
+            },
+            {
+              "text": "'No.",
+              "bbox": [
+                305,
+                658,
+                323,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                328,
+                658,
+                337,
+                670
+              ]
+            },
+            {
+              "text": "cases'",
+              "bbox": [
+                341,
+                658,
+                367,
+                670
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                371,
+                658,
+                404,
+                670
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                408,
+                658,
+                440,
+                670
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                444,
+                658,
+                449,
+                670
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                453,
+                658,
+                500,
+                670
+              ]
+            },
+            {
+              "text": "predominance",
+              "bbox": [
+                504,
+                658,
+                566,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "perimembranous VSDs, accounting for 32 cases or 48% of the total. Furthermore, the table illustrates the correlation between",
+          "bbox": [
+            15,
+            674,
+            580,
+            686
+          ],
+          "words": [
+            {
+              "text": "perimembranous",
+              "bbox": [
+                15,
+                674,
+                89,
+                686
+              ]
+            },
+            {
+              "text": "VSDs,",
+              "bbox": [
+                92,
+                674,
+                121,
+                686
+              ]
+            },
+            {
+              "text": "accounting",
+              "bbox": [
+                125,
+                674,
+                173,
+                686
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                177,
+                674,
+                189,
+                686
+              ]
+            },
+            {
+              "text": "32",
+              "bbox": [
+                193,
+                674,
+                204,
+                686
+              ]
+            },
+            {
+              "text": "cases",
+              "bbox": [
+                207,
+                674,
+                231,
+                686
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                234,
+                674,
+                243,
+                686
+              ]
+            },
+            {
+              "text": "48%",
+              "bbox": [
+                247,
+                674,
+                267,
+                686
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                270,
+                674,
+                280,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                283,
+                674,
+                297,
+                686
+              ]
+            },
+            {
+              "text": "total.",
+              "bbox": [
+                300,
+                674,
+                322,
+                686
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                326,
+                674,
+                384,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                387,
+                674,
+                401,
+                686
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                404,
+                674,
+                425,
+                686
+              ]
+            },
+            {
+              "text": "illustrates",
+              "bbox": [
+                429,
+                674,
+                472,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                475,
+                674,
+                489,
+                686
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                492,
+                674,
+                540,
+                686
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                543,
+                674,
+                580,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "TGA and VSD by enumerating cases that also present with additional complications, such as TGA combined with VSD and",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "TGA",
+              "bbox": [
+                15,
+                689,
+                37,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                41,
+                689,
+                57,
+                701
+              ]
+            },
+            {
+              "text": "VSD",
+              "bbox": [
+                61,
+                689,
+                83,
+                701
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                86,
+                689,
+                97,
+                701
+              ]
+            },
+            {
+              "text": "enumerating",
+              "bbox": [
+                101,
+                689,
+                156,
+                701
+              ]
+            },
+            {
+              "text": "cases",
+              "bbox": [
+                160,
+                689,
+                183,
+                701
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                187,
+                689,
+                204,
+                701
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                208,
+                689,
+                225,
+                701
+              ]
+            },
+            {
+              "text": "present",
+              "bbox": [
+                229,
+                689,
+                261,
+                701
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                265,
+                689,
+                285,
+                701
+              ]
+            },
+            {
+              "text": "additional",
+              "bbox": [
+                289,
+                689,
+                333,
+                701
+              ]
+            },
+            {
+              "text": "complications,",
+              "bbox": [
+                336,
+                689,
+                401,
+                701
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                405,
+                689,
+                425,
+                701
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                429,
+                689,
+                438,
+                701
+              ]
+            },
+            {
+              "text": "TGA",
+              "bbox": [
+                442,
+                689,
+                464,
+                701
+              ]
+            },
+            {
+              "text": "combined",
+              "bbox": [
+                468,
+                689,
+                511,
+                701
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                515,
+                689,
+                535,
+                701
+              ]
+            },
+            {
+              "text": "VSD",
+              "bbox": [
+                538,
+                689,
+                560,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "aortic obstruction, as well as those with pulmonary stenosis. The detailed metrics, including area measurements in square",
+          "bbox": [
+            15,
+            704,
+            580,
+            716
+          ],
+          "words": [
+            {
+              "text": "aortic",
+              "bbox": [
+                15,
+                704,
+                40,
+                716
+              ]
+            },
+            {
+              "text": "obstruction,",
+              "bbox": [
+                45,
+                704,
+                97,
+                716
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                102,
+                704,
+                111,
+                716
+              ]
+            },
+            {
+              "text": "well",
+              "bbox": [
+                116,
+                704,
+                135,
+                716
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                139,
+                704,
+                148,
+                716
+              ]
+            },
+            {
+              "text": "those",
+              "bbox": [
+                153,
+                704,
+                176,
+                716
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                181,
+                704,
+                201,
+                716
+              ]
+            },
+            {
+              "text": "pulmonary",
+              "bbox": [
+                205,
+                704,
+                253,
+                716
+              ]
+            },
+            {
+              "text": "stenosis.",
+              "bbox": [
+                258,
+                704,
+                295,
+                716
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                300,
+                704,
+                317,
+                716
+              ]
+            },
+            {
+              "text": "detailed",
+              "bbox": [
+                322,
+                704,
+                357,
+                716
+              ]
+            },
+            {
+              "text": "metrics,",
+              "bbox": [
+                361,
+                704,
+                396,
+                716
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                401,
+                704,
+                443,
+                716
+              ]
+            },
+            {
+              "text": "area",
+              "bbox": [
+                447,
+                704,
+                466,
+                716
+              ]
+            },
+            {
+              "text": "measurements",
+              "bbox": [
+                470,
+                704,
+                533,
+                716
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                538,
+                704,
+                547,
+                716
+              ]
+            },
+            {
+              "text": "square",
+              "bbox": [
+                551,
+                704,
+                580,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "text": "centimeters and the number of sheets, provide critical insights into the anatomical considerations relevant to these defects. This",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "centimeters",
+              "bbox": [
+                15,
+                720,
+                66,
+                732
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                69,
+                720,
+                85,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                88,
+                720,
+                101,
+                732
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                104,
+                720,
+                138,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                141,
+                720,
+                150,
+                732
+              ]
+            },
+            {
+              "text": "sheets,",
+              "bbox": [
+                153,
+                720,
+                183,
+                732
+              ]
+            },
+            {
+              "text": "provide",
+              "bbox": [
+                186,
+                720,
+                219,
+                732
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                222,
+                720,
+                253,
+                732
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                256,
+                720,
+                290,
+                732
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                293,
+                720,
+                310,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                314,
+                720,
+                327,
+                732
+              ]
+            },
+            {
+              "text": "anatomical",
+              "bbox": [
+                330,
+                720,
+                378,
+                732
+              ]
+            },
+            {
+              "text": "considerations",
+              "bbox": [
+                381,
+                720,
+                445,
+                732
+              ]
+            },
+            {
+              "text": "relevant",
+              "bbox": [
+                448,
+                720,
+                483,
+                732
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                486,
+                720,
+                495,
+                732
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                498,
+                720,
+                521,
+                732
+              ]
+            },
+            {
+              "text": "defects.",
+              "bbox": [
+                524,
+                720,
+                558,
+                732
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                560,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "structured data serves as a valuable resource for clinicians and researchers aiming to understand the complexities associated",
+          "bbox": [
+            15,
+            735,
+            580,
+            747
+          ],
+          "words": [
+            {
+              "text": "structured",
+              "bbox": [
+                15,
+                735,
+                59,
+                747
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                63,
+                735,
+                81,
+                747
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                85,
+                735,
+                113,
+                747
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                117,
+                735,
+                126,
+                747
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                130,
+                735,
+                135,
+                747
+              ]
+            },
+            {
+              "text": "valuable",
+              "bbox": [
+                139,
+                735,
+                176,
+                747
+              ]
+            },
+            {
+              "text": "resource",
+              "bbox": [
+                180,
+                735,
+                217,
+                747
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                221,
+                735,
+                234,
+                747
+              ]
+            },
+            {
+              "text": "clinicians",
+              "bbox": [
+                238,
+                735,
+                280,
+                747
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                284,
+                735,
+                300,
+                747
+              ]
+            },
+            {
+              "text": "researchers",
+              "bbox": [
+                304,
+                735,
+                354,
+                747
+              ]
+            },
+            {
+              "text": "aiming",
+              "bbox": [
+                358,
+                735,
+                388,
+                747
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                392,
+                735,
+                401,
+                747
+              ]
+            },
+            {
+              "text": "understand",
+              "bbox": [
+                405,
+                735,
+                453,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                457,
+                735,
+                471,
+                747
+              ]
+            },
+            {
+              "text": "complexities",
+              "bbox": [
+                475,
+                735,
+                531,
+                747
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                535,
+                735,
+                580,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "with VSDs and their broader clinical implications.",
+          "bbox": [
+            15,
+            751,
+            236,
+            763
+          ],
+          "words": [
+            {
+              "text": "with",
+              "bbox": [
+                15,
+                751,
+                35,
+                763
+              ]
+            },
+            {
+              "text": "VSDs",
+              "bbox": [
+                37,
+                751,
+                63,
+                763
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                66,
+                751,
+                82,
+                763
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                85,
+                751,
+                105,
+                763
+              ]
+            },
+            {
+              "text": "broader",
+              "bbox": [
+                108,
+                751,
+                141,
+                763
+              ]
+            },
+            {
+              "text": "clinical",
+              "bbox": [
+                144,
+                751,
+                176,
+                763
+              ]
+            },
+            {
+              "text": "implications.",
+              "bbox": [
+                179,
+                751,
+                236,
+                763
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

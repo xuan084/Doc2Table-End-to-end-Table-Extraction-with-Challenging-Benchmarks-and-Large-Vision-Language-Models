@@ -1,0 +1,5779 @@
+{
+  "image_id": "img_042368",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_042368_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        219
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            66,
+            580,
+            101
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            101,
+            580,
+            136
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            136,
+            580,
+            157
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            157,
+            580,
+            178
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            178,
+            580,
+            199
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            199,
+            580,
+            219
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Number of RM</td><td colspan=\"2\">1</td><td colspan=\"2\">2</td><td colspan=\"2\">3</td><td colspan=\"2\">4</td><td colspan=\"2\">5</td></tr><tr><td></td><td>Before RM</td><td>After RM</td><td>Before RM</td><td>After RM</td><td>Before RM</td><td>After RM</td><td>Before RM</td><td>After RM</td><td>Before RM</td><td>After RM</td></tr><tr><td rowspan=\"2\">Group H</td><td>85</td><td>64∗#</td><td>84</td><td>72∗#</td><td>81</td><td>68#</td><td>87</td><td>72∗#</td><td>89</td><td>75∗#</td></tr><tr><td>(12)</td><td>(9)</td><td>(12)</td><td>(8)</td><td>(9)</td><td>(7)</td><td>(11)</td><td>(12)</td><td>(14)</td><td>(9)</td></tr><tr><td rowspan=\"2\">Group M</td><td>87</td><td>80#</td><td>78</td><td>72</td><td>88</td><td>85#</td><td>78</td><td>74</td><td>76</td><td>71</td></tr><tr><td>(13)</td><td>(11)</td><td>(9)</td><td>(13)</td><td>(14)</td><td>(8)</td><td>(11)</td><td>(10)</td><td>(12)</td><td>(8)</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of RM",
+          "bbox": [
+            16,
+            66,
+            83,
+            101
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                21,
+                70,
+                56,
+                81
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                59,
+                70,
+                67,
+                81
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                21,
+                84,
+                38,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "1",
+          "bbox": [
+            83,
+            66,
+            182,
+            101
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                88,
+                70,
+                93,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "2",
+          "bbox": [
+            182,
+            66,
+            281,
+            101
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                187,
+                70,
+                192,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "3",
+          "bbox": [
+            281,
+            66,
+            381,
+            101
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                370,
+                70,
+                375,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "4",
+          "bbox": [
+            381,
+            66,
+            480,
+            101
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                470,
+                70,
+                475,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            9,
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "5",
+          "bbox": [
+            480,
+            66,
+            580,
+            101
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                569,
+                70,
+                574,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            101,
+            83,
+            136
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Before RM",
+          "bbox": [
+            83,
+            101,
+            135,
+            136
+          ],
+          "words": [
+            {
+              "text": "Before",
+              "bbox": [
+                88,
+                105,
+                116,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                88,
+                119,
+                105,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "After RM",
+          "bbox": [
+            135,
+            101,
+            182,
+            136
+          ],
+          "words": [
+            {
+              "text": "After",
+              "bbox": [
+                140,
+                105,
+                163,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                140,
+                119,
+                157,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Before RM",
+          "bbox": [
+            182,
+            101,
+            234,
+            136
+          ],
+          "words": [
+            {
+              "text": "Before",
+              "bbox": [
+                187,
+                105,
+                216,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                187,
+                119,
+                204,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "After RM",
+          "bbox": [
+            234,
+            101,
+            281,
+            136
+          ],
+          "words": [
+            {
+              "text": "After",
+              "bbox": [
+                239,
+                105,
+                262,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                239,
+                119,
+                256,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Before RM",
+          "bbox": [
+            281,
+            101,
+            333,
+            136
+          ],
+          "words": [
+            {
+              "text": "Before",
+              "bbox": [
+                300,
+                105,
+                328,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                311,
+                119,
+                328,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "After RM",
+          "bbox": [
+            333,
+            101,
+            381,
+            136
+          ],
+          "words": [
+            {
+              "text": "After",
+              "bbox": [
+                352,
+                105,
+                375,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                359,
+                119,
+                375,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Before RM",
+          "bbox": [
+            381,
+            101,
+            433,
+            136
+          ],
+          "words": [
+            {
+              "text": "Before",
+              "bbox": [
+                399,
+                105,
+                427,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                411,
+                119,
+                427,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "After RM",
+          "bbox": [
+            433,
+            101,
+            480,
+            136
+          ],
+          "words": [
+            {
+              "text": "After",
+              "bbox": [
+                452,
+                105,
+                475,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                458,
+                119,
+                475,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "Before RM",
+          "bbox": [
+            480,
+            101,
+            532,
+            136
+          ],
+          "words": [
+            {
+              "text": "Before",
+              "bbox": [
+                498,
+                105,
+                527,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                510,
+                119,
+                527,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "After RM",
+          "bbox": [
+            532,
+            101,
+            580,
+            136
+          ],
+          "words": [
+            {
+              "text": "After",
+              "bbox": [
+                551,
+                105,
+                574,
+                116
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                557,
+                119,
+                574,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2,
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Group H",
+          "bbox": [
+            16,
+            136,
+            83,
+            157
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                21,
+                140,
+                46,
+                151
+              ]
+            },
+            {
+              "text": "H",
+              "bbox": [
+                49,
+                140,
+                56,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "85",
+          "bbox": [
+            83,
+            136,
+            135,
+            157
+          ],
+          "words": [
+            {
+              "text": "85",
+              "bbox": [
+                88,
+                140,
+                98,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "64∗#",
+          "bbox": [
+            135,
+            136,
+            182,
+            157
+          ],
+          "words": [
+            {
+              "text": "64∗#",
+              "bbox": [
+                140,
+                140,
+                159,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "84",
+          "bbox": [
+            182,
+            136,
+            234,
+            157
+          ],
+          "words": [
+            {
+              "text": "84",
+              "bbox": [
+                187,
+                140,
+                197,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "72∗#",
+          "bbox": [
+            234,
+            136,
+            281,
+            157
+          ],
+          "words": [
+            {
+              "text": "72∗#",
+              "bbox": [
+                239,
+                140,
+                259,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "81",
+          "bbox": [
+            281,
+            136,
+            333,
+            157
+          ],
+          "words": [
+            {
+              "text": "81",
+              "bbox": [
+                318,
+                140,
+                328,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "68#",
+          "bbox": [
+            333,
+            136,
+            381,
+            157
+          ],
+          "words": [
+            {
+              "text": "68#",
+              "bbox": [
+                361,
+                140,
+                376,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "87",
+          "bbox": [
+            381,
+            136,
+            433,
+            157
+          ],
+          "words": [
+            {
+              "text": "87",
+              "bbox": [
+                418,
+                140,
+                428,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "72∗#",
+          "bbox": [
+            433,
+            136,
+            480,
+            157
+          ],
+          "words": [
+            {
+              "text": "72∗#",
+              "bbox": [
+                455,
+                140,
+                475,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "89",
+          "bbox": [
+            480,
+            136,
+            532,
+            157
+          ],
+          "words": [
+            {
+              "text": "89",
+              "bbox": [
+                517,
+                140,
+                527,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "75∗#",
+          "bbox": [
+            532,
+            136,
+            580,
+            157
+          ],
+          "words": [
+            {
+              "text": "75∗#",
+              "bbox": [
+                555,
+                140,
+                575,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "(12)",
+          "bbox": [
+            16,
+            157,
+            83,
+            178
+          ],
+          "words": [
+            {
+              "text": "(12)",
+              "bbox": [
+                21,
+                161,
+                37,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "(9)",
+          "bbox": [
+            83,
+            157,
+            135,
+            178
+          ],
+          "words": [
+            {
+              "text": "(9)",
+              "bbox": [
+                88,
+                161,
+                99,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "(12)",
+          "bbox": [
+            135,
+            157,
+            182,
+            178
+          ],
+          "words": [
+            {
+              "text": "(12)",
+              "bbox": [
+                140,
+                161,
+                156,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "(8)",
+          "bbox": [
+            182,
+            157,
+            234,
+            178
+          ],
+          "words": [
+            {
+              "text": "(8)",
+              "bbox": [
+                187,
+                161,
+                199,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "(9)",
+          "bbox": [
+            234,
+            157,
+            281,
+            178
+          ],
+          "words": [
+            {
+              "text": "(9)",
+              "bbox": [
+                239,
+                161,
+                251,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "(7)",
+          "bbox": [
+            281,
+            157,
+            333,
+            178
+          ],
+          "words": [
+            {
+              "text": "(7)",
+              "bbox": [
+                317,
+                161,
+                328,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "(11)",
+          "bbox": [
+            333,
+            157,
+            381,
+            178
+          ],
+          "words": [
+            {
+              "text": "(11)",
+              "bbox": [
+                359,
+                161,
+                376,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "(12)",
+          "bbox": [
+            381,
+            157,
+            433,
+            178
+          ],
+          "words": [
+            {
+              "text": "(12)",
+              "bbox": [
+                411,
+                161,
+                428,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "(14)",
+          "bbox": [
+            433,
+            157,
+            480,
+            178
+          ],
+          "words": [
+            {
+              "text": "(14)",
+              "bbox": [
+                458,
+                161,
+                475,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "(9)",
+          "bbox": [
+            480,
+            157,
+            532,
+            178
+          ],
+          "words": [
+            {
+              "text": "(9)",
+              "bbox": [
+                515,
+                161,
+                527,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4,
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Group M",
+          "bbox": [
+            16,
+            178,
+            83,
+            199
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                21,
+                182,
+                46,
+                193
+              ]
+            },
+            {
+              "text": "M",
+              "bbox": [
+                49,
+                182,
+                57,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "87",
+          "bbox": [
+            83,
+            178,
+            135,
+            199
+          ],
+          "words": [
+            {
+              "text": "87",
+              "bbox": [
+                88,
+                182,
+                98,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "80#",
+          "bbox": [
+            135,
+            178,
+            182,
+            199
+          ],
+          "words": [
+            {
+              "text": "80#",
+              "bbox": [
+                140,
+                182,
+                155,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "78",
+          "bbox": [
+            182,
+            178,
+            234,
+            199
+          ],
+          "words": [
+            {
+              "text": "78",
+              "bbox": [
+                187,
+                182,
+                197,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "72",
+          "bbox": [
+            234,
+            178,
+            281,
+            199
+          ],
+          "words": [
+            {
+              "text": "72",
+              "bbox": [
+                239,
+                182,
+                249,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "88",
+          "bbox": [
+            281,
+            178,
+            333,
+            199
+          ],
+          "words": [
+            {
+              "text": "88",
+              "bbox": [
+                318,
+                182,
+                328,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "85#",
+          "bbox": [
+            333,
+            178,
+            381,
+            199
+          ],
+          "words": [
+            {
+              "text": "85#",
+              "bbox": [
+                361,
+                182,
+                376,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "78",
+          "bbox": [
+            381,
+            178,
+            433,
+            199
+          ],
+          "words": [
+            {
+              "text": "78",
+              "bbox": [
+                418,
+                182,
+                428,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "74",
+          "bbox": [
+            433,
+            178,
+            480,
+            199
+          ],
+          "words": [
+            {
+              "text": "74",
+              "bbox": [
+                465,
+                182,
+                475,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "76",
+          "bbox": [
+            480,
+            178,
+            532,
+            199
+          ],
+          "words": [
+            {
+              "text": "76",
+              "bbox": [
+                517,
+                182,
+                527,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "71",
+          "bbox": [
+            532,
+            178,
+            580,
+            199
+          ],
+          "words": [
+            {
+              "text": "71",
+              "bbox": [
+                565,
+                182,
+                575,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "(13)",
+          "bbox": [
+            16,
+            199,
+            83,
+            219
+          ],
+          "words": [
+            {
+              "text": "(13)",
+              "bbox": [
+                21,
+                203,
+                37,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "(11)",
+          "bbox": [
+            83,
+            199,
+            135,
+            219
+          ],
+          "words": [
+            {
+              "text": "(11)",
+              "bbox": [
+                88,
+                203,
+                104,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "(9)",
+          "bbox": [
+            135,
+            199,
+            182,
+            219
+          ],
+          "words": [
+            {
+              "text": "(9)",
+              "bbox": [
+                140,
+                203,
+                151,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "(13)",
+          "bbox": [
+            182,
+            199,
+            234,
+            219
+          ],
+          "words": [
+            {
+              "text": "(13)",
+              "bbox": [
+                187,
+                203,
+                204,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "(14)",
+          "bbox": [
+            234,
+            199,
+            281,
+            219
+          ],
+          "words": [
+            {
+              "text": "(14)",
+              "bbox": [
+                239,
+                203,
+                256,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "(8)",
+          "bbox": [
+            281,
+            199,
+            333,
+            219
+          ],
+          "words": [
+            {
+              "text": "(8)",
+              "bbox": [
+                317,
+                203,
+                328,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "(11)",
+          "bbox": [
+            333,
+            199,
+            381,
+            219
+          ],
+          "words": [
+            {
+              "text": "(11)",
+              "bbox": [
+                359,
+                203,
+                376,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "(10)",
+          "bbox": [
+            381,
+            199,
+            433,
+            219
+          ],
+          "words": [
+            {
+              "text": "(10)",
+              "bbox": [
+                411,
+                203,
+                428,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "(12)",
+          "bbox": [
+            433,
+            199,
+            480,
+            219
+          ],
+          "words": [
+            {
+              "text": "(12)",
+              "bbox": [
+                458,
+                203,
+                475,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "(8)",
+          "bbox": [
+            480,
+            199,
+            532,
+            219
+          ],
+          "words": [
+            {
+              "text": "(8)",
+              "bbox": [
+                515,
+                203,
+                527,
+                214
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_042368_t1",
+      "bbox": [
+        15,
+        234,
+        580,
+        493
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            235,
+            580,
+            270
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            270,
+            580,
+            319
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            319,
+            580,
+            340
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            340,
+            580,
+            361
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            361,
+            580,
+            382
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            382,
+            580,
+            403
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            403,
+            580,
+            424
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            16,
+            424,
+            580,
+            445
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            16,
+            445,
+            580,
+            493
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Subject</td><td colspan=\"3\">Utterance duration</td><td colspan=\"3\">F0</td></tr><tr><td></td><td>Median utterance duration (interviewer) (s)</td><td>Median utterance duration (subject) (s)</td><td>Interviewer vs. subject comparison p</td><td>Median F0 (interviewer) (Hz)</td><td>Median F0 (subject) (Hz)</td><td>Interviewer vs. subject comparison p</td></tr><tr><td>R288</td><td>1.934</td><td>1.457</td><td>0.205</td><td>127.7</td><td>142.9</td><td>0.305</td></tr><tr><td>L292</td><td>1.738</td><td>1.464</td><td>0.271</td><td>155.0</td><td>204.4</td><td>&lt;0.001</td></tr><tr><td>R294</td><td>1.441</td><td>1.435</td><td>0.918</td><td>137.9</td><td>141.4</td><td>0.593</td></tr><tr><td>L307</td><td>1.709</td><td>1.440</td><td>0.815</td><td>131.2</td><td>120.7</td><td>&lt;0.001</td></tr><tr><td>R316</td><td>1.622</td><td>1.139</td><td>0.142</td><td>139.8</td><td>205.2</td><td>&lt;0.001</td></tr><tr><td>R320</td><td>1.309</td><td>1.168</td><td>0.477</td><td>163.7</td><td>181.2</td><td>0.711</td></tr><tr><td>All subjects</td><td>1.519</td><td>1.441</td><td></td><td></td><td></td><td></td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Subject",
+          "bbox": [
+            16,
+            235,
+            52,
+            270
+          ],
+          "words": [
+            {
+              "text": "Subject",
+              "bbox": [
+                21,
+                239,
+                45,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Utterance duration",
+          "bbox": [
+            52,
+            235,
+            345,
+            270
+          ],
+          "words": [
+            {
+              "text": "Utterance",
+              "bbox": [
+                58,
+                239,
+                100,
+                250
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                102,
+                239,
+                139,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "F0",
+          "bbox": [
+            345,
+            235,
+            580,
+            270
+          ],
+          "words": [
+            {
+              "text": "F0",
+              "bbox": [
+                563,
+                239,
+                574,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            270,
+            52,
+            319
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Median utterance duration (interviewer) (s)",
+          "bbox": [
+            52,
+            270,
+            157,
+            319
+          ],
+          "words": [
+            {
+              "text": "Median",
+              "bbox": [
+                58,
+                274,
+                90,
+                285
+              ]
+            },
+            {
+              "text": "utterance",
+              "bbox": [
+                93,
+                274,
+                133,
+                285
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                58,
+                288,
+                95,
+                299
+              ]
+            },
+            {
+              "text": "(interviewer)",
+              "bbox": [
+                58,
+                302,
+                113,
+                313
+              ]
+            },
+            {
+              "text": "(s)",
+              "bbox": [
+                116,
+                302,
+                126,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Median utterance duration (subject) (s)",
+          "bbox": [
+            157,
+            270,
+            254,
+            319
+          ],
+          "words": [
+            {
+              "text": "Median",
+              "bbox": [
+                163,
+                274,
+                196,
+                285
+              ]
+            },
+            {
+              "text": "utterance",
+              "bbox": [
+                198,
+                274,
+                239,
+                285
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                163,
+                288,
+                200,
+                299
+              ]
+            },
+            {
+              "text": "(subject)",
+              "bbox": [
+                203,
+                288,
+                240,
+                299
+              ]
+            },
+            {
+              "text": "(s)",
+              "bbox": [
+                163,
+                302,
+                174,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Interviewer vs. subject comparison p",
+          "bbox": [
+            254,
+            270,
+            345,
+            319
+          ],
+          "words": [
+            {
+              "text": "Interviewer",
+              "bbox": [
+                276,
+                274,
+                326,
+                285
+              ]
+            },
+            {
+              "text": "vs.",
+              "bbox": [
+                328,
+                274,
+                339,
+                285
+              ]
+            },
+            {
+              "text": "subject",
+              "bbox": [
+                309,
+                288,
+                339,
+                299
+              ]
+            },
+            {
+              "text": "comparison",
+              "bbox": [
+                281,
+                302,
+                331,
+                313
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                334,
+                302,
+                339,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Median F0 (interviewer) (Hz)",
+          "bbox": [
+            345,
+            270,
+            421,
+            319
+          ],
+          "words": [
+            {
+              "text": "Median",
+              "bbox": [
+                369,
+                274,
+                402,
+                285
+              ]
+            },
+            {
+              "text": "F0",
+              "bbox": [
+                405,
+                274,
+                416,
+                285
+              ]
+            },
+            {
+              "text": "(interviewer)",
+              "bbox": [
+                360,
+                288,
+                416,
+                299
+              ]
+            },
+            {
+              "text": "(Hz)",
+              "bbox": [
+                397,
+                302,
+                416,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Median F0 (subject) (Hz)",
+          "bbox": [
+            421,
+            270,
+            489,
+            319
+          ],
+          "words": [
+            {
+              "text": "Median",
+              "bbox": [
+                437,
+                274,
+                470,
+                285
+              ]
+            },
+            {
+              "text": "F0",
+              "bbox": [
+                472,
+                274,
+                483,
+                285
+              ]
+            },
+            {
+              "text": "(subject)",
+              "bbox": [
+                446,
+                288,
+                483,
+                299
+              ]
+            },
+            {
+              "text": "(Hz)",
+              "bbox": [
+                464,
+                302,
+                483,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Interviewer vs. subject comparison p",
+          "bbox": [
+            489,
+            270,
+            580,
+            319
+          ],
+          "words": [
+            {
+              "text": "Interviewer",
+              "bbox": [
+                510,
+                274,
+                560,
+                285
+              ]
+            },
+            {
+              "text": "vs.",
+              "bbox": [
+                563,
+                274,
+                574,
+                285
+              ]
+            },
+            {
+              "text": "subject",
+              "bbox": [
+                543,
+                288,
+                574,
+                299
+              ]
+            },
+            {
+              "text": "comparison",
+              "bbox": [
+                516,
+                302,
+                566,
+                313
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                568,
+                302,
+                574,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "R288",
+          "bbox": [
+            16,
+            319,
+            52,
+            340
+          ],
+          "words": [
+            {
+              "text": "R288",
+              "bbox": [
+                21,
+                323,
+                42,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.934",
+          "bbox": [
+            52,
+            319,
+            157,
+            340
+          ],
+          "words": [
+            {
+              "text": "1.934",
+              "bbox": [
+                57,
+                323,
+                80,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.457",
+          "bbox": [
+            157,
+            319,
+            254,
+            340
+          ],
+          "words": [
+            {
+              "text": "1.457",
+              "bbox": [
+                162,
+                323,
+                185,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.205",
+          "bbox": [
+            254,
+            319,
+            345,
+            340
+          ],
+          "words": [
+            {
+              "text": "0.205",
+              "bbox": [
+                317,
+                323,
+                340,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "127.7",
+          "bbox": [
+            345,
+            319,
+            421,
+            340
+          ],
+          "words": [
+            {
+              "text": "127.7",
+              "bbox": [
+                394,
+                323,
+                416,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "142.9",
+          "bbox": [
+            421,
+            319,
+            489,
+            340
+          ],
+          "words": [
+            {
+              "text": "142.9",
+              "bbox": [
+                461,
+                323,
+                484,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.305",
+          "bbox": [
+            489,
+            319,
+            580,
+            340
+          ],
+          "words": [
+            {
+              "text": "0.305",
+              "bbox": [
+                552,
+                323,
+                575,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "L292",
+          "bbox": [
+            16,
+            340,
+            52,
+            361
+          ],
+          "words": [
+            {
+              "text": "L292",
+              "bbox": [
+                21,
+                344,
+                42,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.738",
+          "bbox": [
+            52,
+            340,
+            157,
+            361
+          ],
+          "words": [
+            {
+              "text": "1.738",
+              "bbox": [
+                57,
+                344,
+                80,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.464",
+          "bbox": [
+            157,
+            340,
+            254,
+            361
+          ],
+          "words": [
+            {
+              "text": "1.464",
+              "bbox": [
+                162,
+                344,
+                185,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.271",
+          "bbox": [
+            254,
+            340,
+            345,
+            361
+          ],
+          "words": [
+            {
+              "text": "0.271",
+              "bbox": [
+                317,
+                344,
+                340,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "155.0",
+          "bbox": [
+            345,
+            340,
+            421,
+            361
+          ],
+          "words": [
+            {
+              "text": "155.0",
+              "bbox": [
+                394,
+                344,
+                416,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "204.4",
+          "bbox": [
+            421,
+            340,
+            489,
+            361
+          ],
+          "words": [
+            {
+              "text": "204.4",
+              "bbox": [
+                461,
+                344,
+                484,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "<0.001",
+          "bbox": [
+            489,
+            340,
+            580,
+            361
+          ],
+          "words": [
+            {
+              "text": "<0.001",
+              "bbox": [
+                546,
+                344,
+                575,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "R294",
+          "bbox": [
+            16,
+            361,
+            52,
+            382
+          ],
+          "words": [
+            {
+              "text": "R294",
+              "bbox": [
+                21,
+                365,
+                42,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.441",
+          "bbox": [
+            52,
+            361,
+            157,
+            382
+          ],
+          "words": [
+            {
+              "text": "1.441",
+              "bbox": [
+                57,
+                365,
+                80,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.435",
+          "bbox": [
+            157,
+            361,
+            254,
+            382
+          ],
+          "words": [
+            {
+              "text": "1.435",
+              "bbox": [
+                162,
+                365,
+                185,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.918",
+          "bbox": [
+            254,
+            361,
+            345,
+            382
+          ],
+          "words": [
+            {
+              "text": "0.918",
+              "bbox": [
+                317,
+                365,
+                340,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "137.9",
+          "bbox": [
+            345,
+            361,
+            421,
+            382
+          ],
+          "words": [
+            {
+              "text": "137.9",
+              "bbox": [
+                394,
+                365,
+                416,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "141.4",
+          "bbox": [
+            421,
+            361,
+            489,
+            382
+          ],
+          "words": [
+            {
+              "text": "141.4",
+              "bbox": [
+                461,
+                365,
+                484,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.593",
+          "bbox": [
+            489,
+            361,
+            580,
+            382
+          ],
+          "words": [
+            {
+              "text": "0.593",
+              "bbox": [
+                552,
+                365,
+                575,
+                376
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "L307",
+          "bbox": [
+            16,
+            382,
+            52,
+            403
+          ],
+          "words": [
+            {
+              "text": "L307",
+              "bbox": [
+                21,
+                386,
+                42,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.709",
+          "bbox": [
+            52,
+            382,
+            157,
+            403
+          ],
+          "words": [
+            {
+              "text": "1.709",
+              "bbox": [
+                57,
+                386,
+                80,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.440",
+          "bbox": [
+            157,
+            382,
+            254,
+            403
+          ],
+          "words": [
+            {
+              "text": "1.440",
+              "bbox": [
+                162,
+                386,
+                185,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.815",
+          "bbox": [
+            254,
+            382,
+            345,
+            403
+          ],
+          "words": [
+            {
+              "text": "0.815",
+              "bbox": [
+                317,
+                386,
+                340,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "131.2",
+          "bbox": [
+            345,
+            382,
+            421,
+            403
+          ],
+          "words": [
+            {
+              "text": "131.2",
+              "bbox": [
+                394,
+                386,
+                416,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "120.7",
+          "bbox": [
+            421,
+            382,
+            489,
+            403
+          ],
+          "words": [
+            {
+              "text": "120.7",
+              "bbox": [
+                461,
+                386,
+                484,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "<0.001",
+          "bbox": [
+            489,
+            382,
+            580,
+            403
+          ],
+          "words": [
+            {
+              "text": "<0.001",
+              "bbox": [
+                546,
+                386,
+                575,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "R316",
+          "bbox": [
+            16,
+            403,
+            52,
+            424
+          ],
+          "words": [
+            {
+              "text": "R316",
+              "bbox": [
+                21,
+                407,
+                42,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.622",
+          "bbox": [
+            52,
+            403,
+            157,
+            424
+          ],
+          "words": [
+            {
+              "text": "1.622",
+              "bbox": [
+                57,
+                407,
+                80,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.139",
+          "bbox": [
+            157,
+            403,
+            254,
+            424
+          ],
+          "words": [
+            {
+              "text": "1.139",
+              "bbox": [
+                162,
+                407,
+                185,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.142",
+          "bbox": [
+            254,
+            403,
+            345,
+            424
+          ],
+          "words": [
+            {
+              "text": "0.142",
+              "bbox": [
+                317,
+                407,
+                340,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "139.8",
+          "bbox": [
+            345,
+            403,
+            421,
+            424
+          ],
+          "words": [
+            {
+              "text": "139.8",
+              "bbox": [
+                394,
+                407,
+                416,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "205.2",
+          "bbox": [
+            421,
+            403,
+            489,
+            424
+          ],
+          "words": [
+            {
+              "text": "205.2",
+              "bbox": [
+                461,
+                407,
+                484,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "<0.001",
+          "bbox": [
+            489,
+            403,
+            580,
+            424
+          ],
+          "words": [
+            {
+              "text": "<0.001",
+              "bbox": [
+                546,
+                407,
+                575,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "R320",
+          "bbox": [
+            16,
+            424,
+            52,
+            445
+          ],
+          "words": [
+            {
+              "text": "R320",
+              "bbox": [
+                21,
+                428,
+                42,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.309",
+          "bbox": [
+            52,
+            424,
+            157,
+            445
+          ],
+          "words": [
+            {
+              "text": "1.309",
+              "bbox": [
+                57,
+                428,
+                80,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.168",
+          "bbox": [
+            157,
+            424,
+            254,
+            445
+          ],
+          "words": [
+            {
+              "text": "1.168",
+              "bbox": [
+                162,
+                428,
+                185,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.477",
+          "bbox": [
+            254,
+            424,
+            345,
+            445
+          ],
+          "words": [
+            {
+              "text": "0.477",
+              "bbox": [
+                317,
+                428,
+                340,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "163.7",
+          "bbox": [
+            345,
+            424,
+            421,
+            445
+          ],
+          "words": [
+            {
+              "text": "163.7",
+              "bbox": [
+                394,
+                428,
+                416,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "181.2",
+          "bbox": [
+            421,
+            424,
+            489,
+            445
+          ],
+          "words": [
+            {
+              "text": "181.2",
+              "bbox": [
+                461,
+                428,
+                484,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.711",
+          "bbox": [
+            489,
+            424,
+            580,
+            445
+          ],
+          "words": [
+            {
+              "text": "0.711",
+              "bbox": [
+                552,
+                428,
+                575,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "All subjects",
+          "bbox": [
+            16,
+            445,
+            52,
+            493
+          ],
+          "words": [
+            {
+              "text": "All",
+              "bbox": [
+                21,
+                449,
+                33,
+                460
+              ]
+            },
+            {
+              "text": "subjects",
+              "bbox": [
+                21,
+                463,
+                46,
+                488
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.519",
+          "bbox": [
+            52,
+            445,
+            157,
+            493
+          ],
+          "words": [
+            {
+              "text": "1.519",
+              "bbox": [
+                57,
+                449,
+                80,
+                460
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1.441",
+          "bbox": [
+            157,
+            445,
+            254,
+            493
+          ],
+          "words": [
+            {
+              "text": "1.441",
+              "bbox": [
+                162,
+                449,
+                185,
+                460
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            254,
+            445,
+            345,
+            493
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            345,
+            445,
+            421,
+            493
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            421,
+            445,
+            489,
+            493
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            489,
+            445,
+            580,
+            493
+          ],
+          "words": []
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        508,
+        580,
+        693
+      ],
+      "content": "This report presents a comprehensive analysis of vocal metrics observed in Group H, with a focus on the median utterance durations and fundamental frequencies of both the interviewer and subject before and after the implementation of a new rapport management (RM) technique. The data, summarized in the accompanying table, illustrate notable changes in these vocal characteristics. Specifically, the median utterance duration for the interviewer decreased from 85 seconds before RM to 64 seconds after RM, indicating a significant reduction in speech duration that may reflect a more efficient communication style post-intervention. Similarly, the subject’s median utterance duration exhibited a decrease from 84 seconds before RM to 72 seconds after RM, reinforcing the notion that the RM technique fostered a more streamlined dialogue.\n\nAdditionally, the median fundamental frequency (F0) measurements reveal shifts in vocal modulation, with the interviewer’s F0 recorded at 288 Hz before RM, suggesting a potential adjustment in vocal pitch following the intervention. The associated p-values for the interviewer versus subject comparison, such as 1.934 for utterance duration and 1.457 for F0, further underscore the statistical significance of these changes. These findings collectively highlight the impact of RM techniques on conversational dynamics within this group, suggesting avenues for further exploration in communication efficacy.",
+      "lines": [
+        {
+          "text": "This report presents a comprehensive analysis of vocal metrics observed in Group H, with a focus on the median utterance",
+          "bbox": [
+            15,
+            509,
+            580,
+            521
+          ],
+          "words": [
+            {
+              "text": "This",
+              "bbox": [
+                15,
+                509,
+                35,
+                521
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                39,
+                509,
+                65,
+                521
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                69,
+                509,
+                105,
+                521
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                109,
+                509,
+                114,
+                521
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                118,
+                509,
+                185,
+                521
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                189,
+                509,
+                224,
+                521
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                229,
+                509,
+                238,
+                521
+              ]
+            },
+            {
+              "text": "vocal",
+              "bbox": [
+                242,
+                509,
+                266,
+                521
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                270,
+                509,
+                302,
+                521
+              ]
+            },
+            {
+              "text": "observed",
+              "bbox": [
+                306,
+                509,
+                346,
+                521
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                350,
+                509,
+                359,
+                521
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                363,
+                509,
+                391,
+                521
+              ]
+            },
+            {
+              "text": "H,",
+              "bbox": [
+                395,
+                509,
+                406,
+                521
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                410,
+                509,
+                429,
+                521
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                434,
+                509,
+                438,
+                521
+              ]
+            },
+            {
+              "text": "focus",
+              "bbox": [
+                443,
+                509,
+                466,
+                521
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                470,
+                509,
+                482,
+                521
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                486,
+                509,
+                499,
+                521
+              ]
+            },
+            {
+              "text": "median",
+              "bbox": [
+                503,
+                509,
+                536,
+                521
+              ]
+            },
+            {
+              "text": "utterance",
+              "bbox": [
+                540,
+                509,
+                580,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "text": "durations and fundamental frequencies of both the interviewer and subject before and after the implementation of a new rapport",
+          "bbox": [
+            15,
+            524,
+            580,
+            536
+          ],
+          "words": [
+            {
+              "text": "durations",
+              "bbox": [
+                15,
+                524,
+                56,
+                536
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                59,
+                524,
+                75,
+                536
+              ]
+            },
+            {
+              "text": "fundamental",
+              "bbox": [
+                78,
+                524,
+                133,
+                536
+              ]
+            },
+            {
+              "text": "frequencies",
+              "bbox": [
+                136,
+                524,
+                186,
+                536
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                189,
+                524,
+                198,
+                536
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                201,
+                524,
+                221,
+                536
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                224,
+                524,
+                237,
+                536
+              ]
+            },
+            {
+              "text": "interviewer",
+              "bbox": [
+                240,
+                524,
+                290,
+                536
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                293,
+                524,
+                309,
+                536
+              ]
+            },
+            {
+              "text": "subject",
+              "bbox": [
+                312,
+                524,
+                343,
+                536
+              ]
+            },
+            {
+              "text": "before",
+              "bbox": [
+                346,
+                524,
+                374,
+                536
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                377,
+                524,
+                393,
+                536
+              ]
+            },
+            {
+              "text": "after",
+              "bbox": [
+                396,
+                524,
+                416,
+                536
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                419,
+                524,
+                432,
+                536
+              ]
+            },
+            {
+              "text": "implementation",
+              "bbox": [
+                435,
+                524,
+                504,
+                536
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                507,
+                524,
+                516,
+                536
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                519,
+                524,
+                524,
+                536
+              ]
+            },
+            {
+              "text": "new",
+              "bbox": [
+                527,
+                524,
+                545,
+                536
+              ]
+            },
+            {
+              "text": "rapport",
+              "bbox": [
+                548,
+                524,
+                580,
+                536
+              ]
+            }
+          ]
+        },
+        {
+          "text": "management (RM) technique. The data, summarized in the accompanying table, illustrate notable changes in these vocal",
+          "bbox": [
+            15,
+            540,
+            580,
+            552
+          ],
+          "words": [
+            {
+              "text": "management",
+              "bbox": [
+                15,
+                540,
+                71,
+                552
+              ]
+            },
+            {
+              "text": "(RM)",
+              "bbox": [
+                76,
+                540,
+                101,
+                552
+              ]
+            },
+            {
+              "text": "technique.",
+              "bbox": [
+                106,
+                540,
+                151,
+                552
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                156,
+                540,
+                173,
+                552
+              ]
+            },
+            {
+              "text": "data,",
+              "bbox": [
+                178,
+                540,
+                199,
+                552
+              ]
+            },
+            {
+              "text": "summarized",
+              "bbox": [
+                204,
+                540,
+                258,
+                552
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                263,
+                540,
+                272,
+                552
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                277,
+                540,
+                290,
+                552
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                295,
+                540,
+                359,
+                552
+              ]
+            },
+            {
+              "text": "table,",
+              "bbox": [
+                364,
+                540,
+                389,
+                552
+              ]
+            },
+            {
+              "text": "illustrate",
+              "bbox": [
+                394,
+                540,
+                432,
+                552
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                437,
+                540,
+                469,
+                552
+              ]
+            },
+            {
+              "text": "changes",
+              "bbox": [
+                474,
+                540,
+                510,
+                552
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                515,
+                540,
+                524,
+                552
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                529,
+                540,
+                551,
+                552
+              ]
+            },
+            {
+              "text": "vocal",
+              "bbox": [
+                556,
+                540,
+                580,
+                552
+              ]
+            }
+          ]
+        },
+        {
+          "text": "characteristics. Specifically, the median utterance duration for the interviewer decreased from 85 seconds before RM to 64",
+          "bbox": [
+            15,
+            555,
+            580,
+            567
+          ],
+          "words": [
+            {
+              "text": "characteristics.",
+              "bbox": [
+                15,
+                555,
+                81,
+                567
+              ]
+            },
+            {
+              "text": "Specifically,",
+              "bbox": [
+                85,
+                555,
+                140,
+                567
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                144,
+                555,
+                157,
+                567
+              ]
+            },
+            {
+              "text": "median",
+              "bbox": [
+                162,
+                555,
+                194,
+                567
+              ]
+            },
+            {
+              "text": "utterance",
+              "bbox": [
+                199,
+                555,
+                239,
+                567
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                243,
+                555,
+                280,
+                567
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                284,
+                555,
+                297,
+                567
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                302,
+                555,
+                315,
+                567
+              ]
+            },
+            {
+              "text": "interviewer",
+              "bbox": [
+                319,
+                555,
+                370,
+                567
+              ]
+            },
+            {
+              "text": "decreased",
+              "bbox": [
+                374,
+                555,
+                417,
+                567
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                422,
+                555,
+                443,
+                567
+              ]
+            },
+            {
+              "text": "85",
+              "bbox": [
+                447,
+                555,
+                458,
+                567
+              ]
+            },
+            {
+              "text": "seconds",
+              "bbox": [
+                463,
+                555,
+                498,
+                567
+              ]
+            },
+            {
+              "text": "before",
+              "bbox": [
+                502,
+                555,
+                530,
+                567
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                535,
+                555,
+                552,
+                567
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                556,
+                555,
+                565,
+                567
+              ]
+            },
+            {
+              "text": "64",
+              "bbox": [
+                569,
+                555,
+                580,
+                567
+              ]
+            }
+          ]
+        },
+        {
+          "text": "seconds after RM, indicating a significant reduction in speech duration that may reflect a more efficient communication style",
+          "bbox": [
+            15,
+            571,
+            580,
+            583
+          ],
+          "words": [
+            {
+              "text": "seconds",
+              "bbox": [
+                15,
+                571,
+                50,
+                583
+              ]
+            },
+            {
+              "text": "after",
+              "bbox": [
+                53,
+                571,
+                74,
+                583
+              ]
+            },
+            {
+              "text": "RM,",
+              "bbox": [
+                77,
+                571,
+                97,
+                583
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                101,
+                571,
+                145,
+                583
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                148,
+                571,
+                153,
+                583
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                157,
+                571,
+                203,
+                583
+              ]
+            },
+            {
+              "text": "reduction",
+              "bbox": [
+                207,
+                571,
+                248,
+                583
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                252,
+                571,
+                261,
+                583
+              ]
+            },
+            {
+              "text": "speech",
+              "bbox": [
+                264,
+                571,
+                294,
+                583
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                298,
+                571,
+                334,
+                583
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                338,
+                571,
+                355,
+                583
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                358,
+                571,
+                377,
+                583
+              ]
+            },
+            {
+              "text": "reflect",
+              "bbox": [
+                381,
+                571,
+                409,
+                583
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                412,
+                571,
+                417,
+                583
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                421,
+                571,
+                444,
+                583
+              ]
+            },
+            {
+              "text": "efficient",
+              "bbox": [
+                447,
+                571,
+                484,
+                583
+              ]
+            },
+            {
+              "text": "communication",
+              "bbox": [
+                487,
+                571,
+                556,
+                583
+              ]
+            },
+            {
+              "text": "style",
+              "bbox": [
+                559,
+                571,
+                580,
+                583
+              ]
+            }
+          ]
+        },
+        {
+          "text": "post-intervention. Similarly, the subject’s median utterance duration exhibited a decrease from 84 seconds before RM to 72",
+          "bbox": [
+            15,
+            586,
+            580,
+            598
+          ],
+          "words": [
+            {
+              "text": "post-intervention.",
+              "bbox": [
+                15,
+                586,
+                93,
+                598
+              ]
+            },
+            {
+              "text": "Similarly,",
+              "bbox": [
+                97,
+                586,
+                140,
+                598
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                144,
+                586,
+                158,
+                598
+              ]
+            },
+            {
+              "text": "subject’s",
+              "bbox": [
+                162,
+                586,
+                200,
+                598
+              ]
+            },
+            {
+              "text": "median",
+              "bbox": [
+                205,
+                586,
+                237,
+                598
+              ]
+            },
+            {
+              "text": "utterance",
+              "bbox": [
+                241,
+                586,
+                282,
+                598
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                286,
+                586,
+                322,
+                598
+              ]
+            },
+            {
+              "text": "exhibited",
+              "bbox": [
+                327,
+                586,
+                367,
+                598
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                372,
+                586,
+                377,
+                598
+              ]
+            },
+            {
+              "text": "decrease",
+              "bbox": [
+                381,
+                586,
+                419,
+                598
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                423,
+                586,
+                444,
+                598
+              ]
+            },
+            {
+              "text": "84",
+              "bbox": [
+                448,
+                586,
+                459,
+                598
+              ]
+            },
+            {
+              "text": "seconds",
+              "bbox": [
+                464,
+                586,
+                498,
+                598
+              ]
+            },
+            {
+              "text": "before",
+              "bbox": [
+                503,
+                586,
+                531,
+                598
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                535,
+                586,
+                552,
+                598
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                556,
+                586,
+                565,
+                598
+              ]
+            },
+            {
+              "text": "72",
+              "bbox": [
+                569,
+                586,
+                580,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "text": "seconds after RM, reinforcing the notion that the RM technique fostered a more streamlined dialogue.\n\nAdditionally, the median",
+          "bbox": [
+            15,
+            601,
+            580,
+            613
+          ],
+          "words": [
+            {
+              "text": "seconds",
+              "bbox": [
+                15,
+                601,
+                50,
+                613
+              ]
+            },
+            {
+              "text": "after",
+              "bbox": [
+                53,
+                601,
+                73,
+                613
+              ]
+            },
+            {
+              "text": "RM,",
+              "bbox": [
+                76,
+                601,
+                96,
+                613
+              ]
+            },
+            {
+              "text": "reinforcing",
+              "bbox": [
+                99,
+                601,
+                148,
+                613
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                151,
+                601,
+                164,
+                613
+              ]
+            },
+            {
+              "text": "notion",
+              "bbox": [
+                168,
+                601,
+                196,
+                613
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                199,
+                601,
+                215,
+                613
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                218,
+                601,
+                232,
+                613
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                235,
+                601,
+                252,
+                613
+              ]
+            },
+            {
+              "text": "technique",
+              "bbox": [
+                255,
+                601,
+                298,
+                613
+              ]
+            },
+            {
+              "text": "fostered",
+              "bbox": [
+                301,
+                601,
+                336,
+                613
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                339,
+                601,
+                344,
+                613
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                347,
+                601,
+                370,
+                613
+              ]
+            },
+            {
+              "text": "streamlined",
+              "bbox": [
+                373,
+                601,
+                424,
+                613
+              ]
+            },
+            {
+              "text": "dialogue.",
+              "bbox": [
+                427,
+                601,
+                468,
+                613
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                470,
+                601,
+                528,
+                613
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                531,
+                601,
+                545,
+                613
+              ]
+            },
+            {
+              "text": "median",
+              "bbox": [
+                548,
+                601,
+                580,
+                613
+              ]
+            }
+          ]
+        },
+        {
+          "text": "fundamental frequency (F0) measurements reveal shifts in vocal modulation, with the interviewer’s F0 recorded at 288 Hz",
+          "bbox": [
+            15,
+            617,
+            580,
+            629
+          ],
+          "words": [
+            {
+              "text": "fundamental",
+              "bbox": [
+                15,
+                617,
+                70,
+                629
+              ]
+            },
+            {
+              "text": "frequency",
+              "bbox": [
+                74,
+                617,
+                118,
+                629
+              ]
+            },
+            {
+              "text": "(F0)",
+              "bbox": [
+                123,
+                617,
+                142,
+                629
+              ]
+            },
+            {
+              "text": "measurements",
+              "bbox": [
+                146,
+                617,
+                209,
+                629
+              ]
+            },
+            {
+              "text": "reveal",
+              "bbox": [
+                213,
+                617,
+                240,
+                629
+              ]
+            },
+            {
+              "text": "shifts",
+              "bbox": [
+                245,
+                617,
+                268,
+                629
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                273,
+                617,
+                281,
+                629
+              ]
+            },
+            {
+              "text": "vocal",
+              "bbox": [
+                286,
+                617,
+                310,
+                629
+              ]
+            },
+            {
+              "text": "modulation,",
+              "bbox": [
+                314,
+                617,
+                367,
+                629
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                371,
+                617,
+                391,
+                629
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                395,
+                617,
+                409,
+                629
+              ]
+            },
+            {
+              "text": "interviewer’s",
+              "bbox": [
+                413,
+                617,
+                471,
+                629
+              ]
+            },
+            {
+              "text": "F0",
+              "bbox": [
+                475,
+                617,
+                487,
+                629
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                491,
+                617,
+                530,
+                629
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                534,
+                617,
+                542,
+                629
+              ]
+            },
+            {
+              "text": "288",
+              "bbox": [
+                546,
+                617,
+                563,
+                629
+              ]
+            },
+            {
+              "text": "Hz",
+              "bbox": [
+                567,
+                617,
+                580,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "text": "before RM, suggesting a potential adjustment in vocal pitch following the intervention. The associated p-values for the",
+          "bbox": [
+            15,
+            632,
+            580,
+            644
+          ],
+          "words": [
+            {
+              "text": "before",
+              "bbox": [
+                15,
+                632,
+                43,
+                644
+              ]
+            },
+            {
+              "text": "RM,",
+              "bbox": [
+                48,
+                632,
+                68,
+                644
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                74,
+                632,
+                121,
+                644
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                126,
+                632,
+                131,
+                644
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                136,
+                632,
+                175,
+                644
+              ]
+            },
+            {
+              "text": "adjustment",
+              "bbox": [
+                180,
+                632,
+                229,
+                644
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                234,
+                632,
+                243,
+                644
+              ]
+            },
+            {
+              "text": "vocal",
+              "bbox": [
+                248,
+                632,
+                272,
+                644
+              ]
+            },
+            {
+              "text": "pitch",
+              "bbox": [
+                277,
+                632,
+                299,
+                644
+              ]
+            },
+            {
+              "text": "following",
+              "bbox": [
+                305,
+                632,
+                347,
+                644
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                353,
+                632,
+                366,
+                644
+              ]
+            },
+            {
+              "text": "intervention.",
+              "bbox": [
+                372,
+                632,
+                427,
+                644
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                433,
+                632,
+                450,
+                644
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                455,
+                632,
+                500,
+                644
+              ]
+            },
+            {
+              "text": "p-values",
+              "bbox": [
+                506,
+                632,
+                543,
+                644
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                548,
+                632,
+                561,
+                644
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                632,
+                580,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "text": "interviewer versus subject comparison, such as 1.934 for utterance duration and 1.457 for F0, further underscore the statistical",
+          "bbox": [
+            15,
+            648,
+            580,
+            660
+          ],
+          "words": [
+            {
+              "text": "interviewer",
+              "bbox": [
+                15,
+                648,
+                65,
+                660
+              ]
+            },
+            {
+              "text": "versus",
+              "bbox": [
+                68,
+                648,
+                97,
+                660
+              ]
+            },
+            {
+              "text": "subject",
+              "bbox": [
+                100,
+                648,
+                131,
+                660
+              ]
+            },
+            {
+              "text": "comparison,",
+              "bbox": [
+                134,
+                648,
+                188,
+                660
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                192,
+                648,
+                212,
+                660
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                215,
+                648,
+                224,
+                660
+              ]
+            },
+            {
+              "text": "1.934",
+              "bbox": [
+                228,
+                648,
+                253,
+                660
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                256,
+                648,
+                269,
+                660
+              ]
+            },
+            {
+              "text": "utterance",
+              "bbox": [
+                272,
+                648,
+                312,
+                660
+              ]
+            },
+            {
+              "text": "duration",
+              "bbox": [
+                316,
+                648,
+                352,
+                660
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                356,
+                648,
+                372,
+                660
+              ]
+            },
+            {
+              "text": "1.457",
+              "bbox": [
+                375,
+                648,
+                400,
+                660
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                403,
+                648,
+                416,
+                660
+              ]
+            },
+            {
+              "text": "F0,",
+              "bbox": [
+                419,
+                648,
+                434,
+                660
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                437,
+                648,
+                467,
+                660
+              ]
+            },
+            {
+              "text": "underscore",
+              "bbox": [
+                470,
+                648,
+                518,
+                660
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                522,
+                648,
+                535,
+                660
+              ]
+            },
+            {
+              "text": "statistical",
+              "bbox": [
+                538,
+                648,
+                580,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "text": "significance of these changes. These findings collectively highlight the impact of RM techniques on conversational dynamics",
+          "bbox": [
+            15,
+            663,
+            580,
+            675
+          ],
+          "words": [
+            {
+              "text": "significance",
+              "bbox": [
+                15,
+                663,
+                68,
+                675
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                72,
+                663,
+                81,
+                675
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                85,
+                663,
+                107,
+                675
+              ]
+            },
+            {
+              "text": "changes.",
+              "bbox": [
+                111,
+                663,
+                149,
+                675
+              ]
+            },
+            {
+              "text": "These",
+              "bbox": [
+                152,
+                663,
+                179,
+                675
+              ]
+            },
+            {
+              "text": "findings",
+              "bbox": [
+                182,
+                663,
+                218,
+                675
+              ]
+            },
+            {
+              "text": "collectively",
+              "bbox": [
+                222,
+                663,
+                273,
+                675
+              ]
+            },
+            {
+              "text": "highlight",
+              "bbox": [
+                277,
+                663,
+                317,
+                675
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                320,
+                663,
+                334,
+                675
+              ]
+            },
+            {
+              "text": "impact",
+              "bbox": [
+                338,
+                663,
+                367,
+                675
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                371,
+                663,
+                380,
+                675
+              ]
+            },
+            {
+              "text": "RM",
+              "bbox": [
+                384,
+                663,
+                401,
+                675
+              ]
+            },
+            {
+              "text": "techniques",
+              "bbox": [
+                405,
+                663,
+                452,
+                675
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                455,
+                663,
+                466,
+                675
+              ]
+            },
+            {
+              "text": "conversational",
+              "bbox": [
+                470,
+                663,
+                534,
+                675
+              ]
+            },
+            {
+              "text": "dynamics",
+              "bbox": [
+                538,
+                663,
+                580,
+                675
+              ]
+            }
+          ]
+        },
+        {
+          "text": "within this group, suggesting avenues for further exploration in communication efficacy.",
+          "bbox": [
+            15,
+            678,
+            405,
+            690
+          ],
+          "words": [
+            {
+              "text": "within",
+              "bbox": [
+                15,
+                678,
+                43,
+                690
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                46,
+                678,
+                62,
+                690
+              ]
+            },
+            {
+              "text": "group,",
+              "bbox": [
+                65,
+                678,
+                93,
+                690
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                96,
+                678,
+                143,
+                690
+              ]
+            },
+            {
+              "text": "avenues",
+              "bbox": [
+                145,
+                678,
+                181,
+                690
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                184,
+                678,
+                196,
+                690
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                199,
+                678,
+                229,
+                690
+              ]
+            },
+            {
+              "text": "exploration",
+              "bbox": [
+                232,
+                678,
+                282,
+                690
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                285,
+                678,
+                293,
+                690
+              ]
+            },
+            {
+              "text": "communication",
+              "bbox": [
+                296,
+                678,
+                365,
+                690
+              ]
+            },
+            {
+              "text": "efficacy.",
+              "bbox": [
+                367,
+                678,
+                405,
+                690
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

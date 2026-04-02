@@ -1,0 +1,5183 @@
+{
+  "image_id": "img_191541",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_191541_t0",
+      "bbox": [
+        13,
+        57,
+        507,
+        214
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 3,
+        "T3": "None",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            14,
+            57,
+            507,
+            76
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            14,
+            76,
+            507,
+            118
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            14,
+            118,
+            507,
+            137
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            14,
+            137,
+            507,
+            155
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            14,
+            155,
+            507,
+            184
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            14,
+            184,
+            507,
+            214
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Year</td><td>2020</td><td>2021</td><td>2022</td><td colspan=\"3\">PharmacyBenefitCosts</td><td colspan=\"2\">CostComponents</td></tr><tr><td>TotalCosts</td><td>UnitsSold</td><td>Headcount</td><td>NumberofBranches</td><td colspan=\"3\">PrescriptionMedications</td><td colspan=\"2\">Over-the-Counter</td><td>OtherCosts</td></tr><tr><td>£1.2B</td><td>500K</td><td>1500</td><td>£1.3B</td><td>550K</td><td>1600</td><td>£1.5B</td><td>600K</td><td>1700</td><td>GrowthRate</td></tr></thead><tbody><tr><td>10%</td><td>12%</td><td>15%</td><td>4%</td><td>10%</td><td>8%</td><td>6%</td><td>20%</td><td>25%</td><td>30%</td></tr><tr><td>CostperUnit</td><td>£2.4</td><td>£2.5</td><td>£2.6</td><td>£1.8</td><td>£1.9</td><td>£2.0</td><td>£1.5</td><td>£1.6</td><td>£1.7</td></tr><tr><td>TotalSavings</td><td>£100M</td><td>£120M</td><td>£150M</td><td>SavingsRate</td><td>8%</td><td>9%</td><td>10%</td><td>InvestmentinR&amp;D</td><td>£50M</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Year",
+          "bbox": [
+            14,
+            57,
+            59,
+            76
+          ],
+          "words": [
+            {
+              "text": "Year",
+              "bbox": [
+                18,
+                61,
+                36,
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "2020",
+          "bbox": [
+            59,
+            57,
+            105,
+            76
+          ],
+          "words": [
+            {
+              "text": "2020",
+              "bbox": [
+                64,
+                61,
+                82,
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "2021",
+          "bbox": [
+            105,
+            57,
+            151,
+            76
+          ],
+          "words": [
+            {
+              "text": "2021",
+              "bbox": [
+                110,
+                61,
+                128,
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "2022",
+          "bbox": [
+            151,
+            57,
+            197,
+            76
+          ],
+          "words": [
+            {
+              "text": "2022",
+              "bbox": [
+                156,
+                61,
+                174,
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "PharmacyBenefitCosts",
+          "bbox": [
+            197,
+            57,
+            335,
+            76
+          ],
+          "words": [
+            {
+              "text": "PharmacyBenefitCosts",
+              "bbox": [
+                202,
+                61,
+                287,
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "CostComponents",
+          "bbox": [
+            335,
+            57,
+            449,
+            76
+          ],
+          "words": [
+            {
+              "text": "CostComponents",
+              "bbox": [
+                380,
+                61,
+                445,
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalCosts",
+          "bbox": [
+            14,
+            76,
+            59,
+            118
+          ],
+          "words": [
+            {
+              "text": "TotalCosts",
+              "bbox": [
+                18,
+                80,
+                54,
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "UnitsSold",
+          "bbox": [
+            59,
+            76,
+            105,
+            118
+          ],
+          "words": [
+            {
+              "text": "UnitsSold",
+              "bbox": [
+                64,
+                80,
+                96,
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Headcount",
+          "bbox": [
+            105,
+            76,
+            151,
+            118
+          ],
+          "words": [
+            {
+              "text": "Headcount",
+              "bbox": [
+                110,
+                80,
+                143,
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "NumberofBranches",
+          "bbox": [
+            151,
+            76,
+            197,
+            118
+          ],
+          "words": [
+            {
+              "text": "NumberofBranches",
+              "bbox": [
+                156,
+                80,
+                191,
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "PrescriptionMedications",
+          "bbox": [
+            197,
+            76,
+            335,
+            118
+          ],
+          "words": [
+            {
+              "text": "PrescriptionMedications",
+              "bbox": [
+                202,
+                80,
+                294,
+                89
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Over-the-Counter",
+          "bbox": [
+            335,
+            76,
+            449,
+            118
+          ],
+          "words": [
+            {
+              "text": "Over-the-Counter",
+              "bbox": [
+                377,
+                80,
+                445,
+                89
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "OtherCosts",
+          "bbox": [
+            449,
+            76,
+            507,
+            118
+          ],
+          "words": [
+            {
+              "text": "OtherCosts",
+              "bbox": [
+                459,
+                80,
+                502,
+                89
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "£1.2B",
+          "bbox": [
+            14,
+            118,
+            59,
+            137
+          ],
+          "words": [
+            {
+              "text": "£1.2B",
+              "bbox": [
+                18,
+                122,
+                39,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "500K",
+          "bbox": [
+            59,
+            118,
+            105,
+            137
+          ],
+          "words": [
+            {
+              "text": "500K",
+              "bbox": [
+                64,
+                122,
+                84,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "1500",
+          "bbox": [
+            105,
+            118,
+            151,
+            137
+          ],
+          "words": [
+            {
+              "text": "1500",
+              "bbox": [
+                110,
+                122,
+                128,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "£1.3B",
+          "bbox": [
+            151,
+            118,
+            197,
+            137
+          ],
+          "words": [
+            {
+              "text": "£1.3B",
+              "bbox": [
+                156,
+                122,
+                177,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "550K",
+          "bbox": [
+            197,
+            118,
+            243,
+            137
+          ],
+          "words": [
+            {
+              "text": "550K",
+              "bbox": [
+                202,
+                122,
+                222,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "1600",
+          "bbox": [
+            243,
+            118,
+            289,
+            137
+          ],
+          "words": [
+            {
+              "text": "1600",
+              "bbox": [
+                248,
+                122,
+                265,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "£1.5B",
+          "bbox": [
+            289,
+            118,
+            335,
+            137
+          ],
+          "words": [
+            {
+              "text": "£1.5B",
+              "bbox": [
+                294,
+                122,
+                315,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "600K",
+          "bbox": [
+            335,
+            118,
+            392,
+            137
+          ],
+          "words": [
+            {
+              "text": "600K",
+              "bbox": [
+                367,
+                122,
+                387,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "1700",
+          "bbox": [
+            392,
+            118,
+            449,
+            137
+          ],
+          "words": [
+            {
+              "text": "1700",
+              "bbox": [
+                427,
+                122,
+                445,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate",
+          "bbox": [
+            449,
+            118,
+            507,
+            137
+          ],
+          "words": [
+            {
+              "text": "GrowthRate",
+              "bbox": [
+                455,
+                122,
+                502,
+                132
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            14,
+            137,
+            59,
+            155
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                18,
+                141,
+                34,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "12%",
+          "bbox": [
+            59,
+            137,
+            105,
+            155
+          ],
+          "words": [
+            {
+              "text": "12%",
+              "bbox": [
+                64,
+                141,
+                80,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            105,
+            137,
+            151,
+            155
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                110,
+                141,
+                126,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4%",
+          "bbox": [
+            151,
+            137,
+            197,
+            155
+          ],
+          "words": [
+            {
+              "text": "4%",
+              "bbox": [
+                156,
+                141,
+                167,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            197,
+            137,
+            243,
+            155
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                202,
+                141,
+                218,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "8%",
+          "bbox": [
+            243,
+            137,
+            289,
+            155
+          ],
+          "words": [
+            {
+              "text": "8%",
+              "bbox": [
+                247,
+                141,
+                259,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "6%",
+          "bbox": [
+            289,
+            137,
+            335,
+            155
+          ],
+          "words": [
+            {
+              "text": "6%",
+              "bbox": [
+                293,
+                141,
+                305,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            335,
+            137,
+            392,
+            155
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                372,
+                141,
+                388,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "25%",
+          "bbox": [
+            392,
+            137,
+            449,
+            155
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                429,
+                141,
+                445,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "30%",
+          "bbox": [
+            449,
+            137,
+            507,
+            155
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                486,
+                141,
+                502,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CostperUnit",
+          "bbox": [
+            14,
+            155,
+            59,
+            184
+          ],
+          "words": [
+            {
+              "text": "CostperUnit",
+              "bbox": [
+                18,
+                158,
+                51,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£2.4",
+          "bbox": [
+            59,
+            155,
+            105,
+            184
+          ],
+          "words": [
+            {
+              "text": "£2.4",
+              "bbox": [
+                64,
+                158,
+                79,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£2.5",
+          "bbox": [
+            105,
+            155,
+            151,
+            184
+          ],
+          "words": [
+            {
+              "text": "£2.5",
+              "bbox": [
+                110,
+                158,
+                125,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£2.6",
+          "bbox": [
+            151,
+            155,
+            197,
+            184
+          ],
+          "words": [
+            {
+              "text": "£2.6",
+              "bbox": [
+                156,
+                158,
+                171,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£1.8",
+          "bbox": [
+            197,
+            155,
+            243,
+            184
+          ],
+          "words": [
+            {
+              "text": "£1.8",
+              "bbox": [
+                202,
+                158,
+                217,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "£1.9",
+          "bbox": [
+            243,
+            155,
+            289,
+            184
+          ],
+          "words": [
+            {
+              "text": "£1.9",
+              "bbox": [
+                247,
+                158,
+                263,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "£2.0",
+          "bbox": [
+            289,
+            155,
+            335,
+            184
+          ],
+          "words": [
+            {
+              "text": "£2.0",
+              "bbox": [
+                293,
+                158,
+                309,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "£1.5",
+          "bbox": [
+            335,
+            155,
+            392,
+            184
+          ],
+          "words": [
+            {
+              "text": "£1.5",
+              "bbox": [
+                372,
+                158,
+                388,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "£1.6",
+          "bbox": [
+            392,
+            155,
+            449,
+            184
+          ],
+          "words": [
+            {
+              "text": "£1.6",
+              "bbox": [
+                430,
+                158,
+                445,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "£1.7",
+          "bbox": [
+            449,
+            155,
+            507,
+            184
+          ],
+          "words": [
+            {
+              "text": "£1.7",
+              "bbox": [
+                487,
+                158,
+                502,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalSavings",
+          "bbox": [
+            14,
+            184,
+            59,
+            214
+          ],
+          "words": [
+            {
+              "text": "TotalSavings",
+              "bbox": [
+                18,
+                188,
+                51,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£100M",
+          "bbox": [
+            59,
+            184,
+            105,
+            214
+          ],
+          "words": [
+            {
+              "text": "£100M",
+              "bbox": [
+                64,
+                188,
+                89,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£120M",
+          "bbox": [
+            105,
+            184,
+            151,
+            214
+          ],
+          "words": [
+            {
+              "text": "£120M",
+              "bbox": [
+                110,
+                188,
+                135,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "£150M",
+          "bbox": [
+            151,
+            184,
+            197,
+            214
+          ],
+          "words": [
+            {
+              "text": "£150M",
+              "bbox": [
+                156,
+                188,
+                181,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "SavingsRate",
+          "bbox": [
+            197,
+            184,
+            243,
+            214
+          ],
+          "words": [
+            {
+              "text": "SavingsRate",
+              "bbox": [
+                202,
+                188,
+                235,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "8%",
+          "bbox": [
+            243,
+            184,
+            289,
+            214
+          ],
+          "words": [
+            {
+              "text": "8%",
+              "bbox": [
+                247,
+                188,
+                259,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "9%",
+          "bbox": [
+            289,
+            184,
+            335,
+            214
+          ],
+          "words": [
+            {
+              "text": "9%",
+              "bbox": [
+                293,
+                188,
+                305,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            335,
+            184,
+            392,
+            214
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                372,
+                188,
+                388,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "InvestmentinR&D",
+          "bbox": [
+            392,
+            184,
+            449,
+            214
+          ],
+          "words": [
+            {
+              "text": "InvestmentinR&D",
+              "bbox": [
+                399,
+                188,
+                445,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "£50M",
+          "bbox": [
+            449,
+            184,
+            507,
+            214
+          ],
+          "words": [
+            {
+              "text": "£50M",
+              "bbox": [
+                481,
+                188,
+                502,
+                198
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        227,
+        507,
+        268
+      ],
+      "content": "In the rapidly evolving landscape of healthcare, the interplay between pharmacy benefit costs, patient satisfaction, and medical device revenue has become increasingly critical for stakeholders. The accompanying table delineates the financial performance of Philips Healthcare across various segments, with a focus on pharmacy benefit costs and associated patient satisfaction scores.",
+      "lines": [
+        {
+          "text": "In the rapidly evolving landscape of healthcare, the interplay between pharmacy benefit costs, patient satisfaction, and medical",
+          "bbox": [
+            13,
+            228,
+            507,
+            239
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                13,
+                228,
+                21,
+                239
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                24,
+                228,
+                36,
+                239
+              ]
+            },
+            {
+              "text": "rapidly",
+              "bbox": [
+                38,
+                228,
+                66,
+                239
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                68,
+                228,
+                102,
+                239
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                105,
+                228,
+                143,
+                239
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                146,
+                228,
+                154,
+                239
+              ]
+            },
+            {
+              "text": "healthcare,",
+              "bbox": [
+                156,
+                228,
+                198,
+                239
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                201,
+                228,
+                213,
+                239
+              ]
+            },
+            {
+              "text": "interplay",
+              "bbox": [
+                216,
+                228,
+                250,
+                239
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                253,
+                228,
+                285,
+                239
+              ]
+            },
+            {
+              "text": "pharmacy",
+              "bbox": [
+                287,
+                228,
+                325,
+                239
+              ]
+            },
+            {
+              "text": "benefit",
+              "bbox": [
+                328,
+                228,
+                355,
+                239
+              ]
+            },
+            {
+              "text": "costs,",
+              "bbox": [
+                358,
+                228,
+                379,
+                239
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                382,
+                228,
+                408,
+                239
+              ]
+            },
+            {
+              "text": "satisfaction,",
+              "bbox": [
+                411,
+                228,
+                457,
+                239
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                460,
+                228,
+                474,
+                239
+              ]
+            },
+            {
+              "text": "medical",
+              "bbox": [
+                477,
+                228,
+                507,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "text": "device revenue has become increasingly critical for stakeholders. The accompanying table delineates the financial performance",
+          "bbox": [
+            13,
+            242,
+            507,
+            252
+          ],
+          "words": [
+            {
+              "text": "device",
+              "bbox": [
+                13,
+                242,
+                38,
+                252
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                41,
+                242,
+                71,
+                252
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                74,
+                242,
+                87,
+                252
+              ]
+            },
+            {
+              "text": "become",
+              "bbox": [
+                90,
+                242,
+                120,
+                252
+              ]
+            },
+            {
+              "text": "increasingly",
+              "bbox": [
+                122,
+                242,
+                169,
+                252
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                172,
+                242,
+                199,
+                252
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                202,
+                242,
+                213,
+                252
+              ]
+            },
+            {
+              "text": "stakeholders.",
+              "bbox": [
+                215,
+                242,
+                266,
+                252
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                269,
+                242,
+                283,
+                252
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                286,
+                242,
+                342,
+                252
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                345,
+                242,
+                364,
+                252
+              ]
+            },
+            {
+              "text": "delineates",
+              "bbox": [
+                366,
+                242,
+                405,
+                252
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                408,
+                242,
+                419,
+                252
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                422,
+                242,
+                456,
+                252
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                459,
+                242,
+                507,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of Philips Healthcare across various segments, with a focus on pharmacy benefit costs and associated patient satisfaction scores.",
+          "bbox": [
+            13,
+            255,
+            506,
+            266
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                13,
+                255,
+                21,
+                266
+              ]
+            },
+            {
+              "text": "Philips",
+              "bbox": [
+                24,
+                255,
+                50,
+                266
+              ]
+            },
+            {
+              "text": "Healthcare",
+              "bbox": [
+                53,
+                255,
+                94,
+                266
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                97,
+                255,
+                121,
+                266
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                123,
+                255,
+                151,
+                266
+              ]
+            },
+            {
+              "text": "segments,",
+              "bbox": [
+                154,
+                255,
+                192,
+                266
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                194,
+                255,
+                212,
+                266
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                214,
+                255,
+                218,
+                266
+              ]
+            },
+            {
+              "text": "focus",
+              "bbox": [
+                221,
+                255,
+                241,
+                266
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                244,
+                255,
+                254,
+                266
+              ]
+            },
+            {
+              "text": "pharmacy",
+              "bbox": [
+                256,
+                255,
+                294,
+                266
+              ]
+            },
+            {
+              "text": "benefit",
+              "bbox": [
+                296,
+                255,
+                323,
+                266
+              ]
+            },
+            {
+              "text": "costs",
+              "bbox": [
+                325,
+                255,
+                345,
+                266
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                347,
+                255,
+                361,
+                266
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                363,
+                255,
+                403,
+                266
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                405,
+                255,
+                431,
+                266
+              ]
+            },
+            {
+              "text": "satisfaction",
+              "bbox": [
+                434,
+                255,
+                478,
+                266
+              ]
+            },
+            {
+              "text": "scores.",
+              "bbox": [
+                480,
+                255,
+                506,
+                266
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_191541_t1",
+      "bbox": [
+        13,
+        281,
+        507,
+        472
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            281,
+            507,
+            298
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            298,
+            507,
+            328
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            328,
+            507,
+            346
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            346,
+            507,
+            388
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            388,
+            507,
+            430
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            430,
+            507,
+            472
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\">PatientSatisfactionScores</td><td>2020</td><td>2021</td><td>2022</td></tr><tr><td>OverallScore</td><td>85.4%</td><td>88.1%</td><td>90.2%</td><td>Change(%)</td></tr></thead><tbody><tr><td>NetPromoterScore</td><td>45</td><td>50</td><td>55</td><td>Change</td></tr><tr><td>TopIssues</td><td>LongWaitTimes</td><td>StaffAvailability</td><td>ServiceQuality</td><td>OverallExperience</td></tr><tr><td>PatientComments</td><td>PositiveFeedback</td><td>ConstructiveCriticism</td><td>ServiceImprovements</td><td>SurveyResponses</td></tr><tr><td>TotalResponses</td><td>15000</td><td>16000</td><td>17000</td><td>ResponseRate(%)</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "PatientSatisfactionScores",
+          "bbox": [
+            13,
+            281,
+            293,
+            298
+          ],
+          "words": [
+            {
+              "text": "PatientSatisfactionScores",
+              "bbox": [
+                17,
+                284,
+                112,
+                294
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "2020",
+          "bbox": [
+            293,
+            281,
+            433,
+            298
+          ],
+          "words": [
+            {
+              "text": "2020",
+              "bbox": [
+                411,
+                284,
+                429,
+                294
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "2021",
+          "bbox": [
+            433,
+            281,
+            470,
+            298
+          ],
+          "words": [
+            {
+              "text": "2021",
+              "bbox": [
+                437,
+                284,
+                455,
+                294
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "2022",
+          "bbox": [
+            470,
+            281,
+            507,
+            298
+          ],
+          "words": [
+            {
+              "text": "2022",
+              "bbox": [
+                485,
+                284,
+                503,
+                294
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "OverallScore",
+          "bbox": [
+            13,
+            298,
+            153,
+            328
+          ],
+          "words": [
+            {
+              "text": "OverallScore",
+              "bbox": [
+                17,
+                302,
+                66,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "85.4%",
+          "bbox": [
+            153,
+            298,
+            293,
+            328
+          ],
+          "words": [
+            {
+              "text": "85.4%",
+              "bbox": [
+                157,
+                302,
+                181,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "88.1%",
+          "bbox": [
+            293,
+            298,
+            433,
+            328
+          ],
+          "words": [
+            {
+              "text": "88.1%",
+              "bbox": [
+                405,
+                302,
+                429,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "90.2%",
+          "bbox": [
+            433,
+            298,
+            470,
+            328
+          ],
+          "words": [
+            {
+              "text": "90.2%",
+              "bbox": [
+                437,
+                302,
+                461,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Change(%)",
+          "bbox": [
+            470,
+            298,
+            507,
+            328
+          ],
+          "words": [
+            {
+              "text": "Change(%)",
+              "bbox": [
+                478,
+                302,
+                503,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "NetPromoterScore",
+          "bbox": [
+            13,
+            328,
+            153,
+            346
+          ],
+          "words": [
+            {
+              "text": "NetPromoterScore",
+              "bbox": [
+                17,
+                332,
+                83,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "45",
+          "bbox": [
+            153,
+            328,
+            293,
+            346
+          ],
+          "words": [
+            {
+              "text": "45",
+              "bbox": [
+                157,
+                332,
+                166,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "50",
+          "bbox": [
+            293,
+            328,
+            433,
+            346
+          ],
+          "words": [
+            {
+              "text": "50",
+              "bbox": [
+                420,
+                332,
+                429,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "55",
+          "bbox": [
+            433,
+            328,
+            470,
+            346
+          ],
+          "words": [
+            {
+              "text": "55",
+              "bbox": [
+                437,
+                332,
+                446,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Change",
+          "bbox": [
+            470,
+            328,
+            507,
+            346
+          ],
+          "words": [
+            {
+              "text": "Change",
+              "bbox": [
+                476,
+                332,
+                503,
+                342
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TopIssues",
+          "bbox": [
+            13,
+            346,
+            153,
+            388
+          ],
+          "words": [
+            {
+              "text": "TopIssues",
+              "bbox": [
+                17,
+                350,
+                52,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "LongWaitTimes",
+          "bbox": [
+            153,
+            346,
+            293,
+            388
+          ],
+          "words": [
+            {
+              "text": "LongWaitTimes",
+              "bbox": [
+                157,
+                350,
+                214,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "StaffAvailability",
+          "bbox": [
+            293,
+            346,
+            433,
+            388
+          ],
+          "words": [
+            {
+              "text": "StaffAvailability",
+              "bbox": [
+                371,
+                350,
+                429,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "ServiceQuality",
+          "bbox": [
+            433,
+            346,
+            470,
+            388
+          ],
+          "words": [
+            {
+              "text": "ServiceQuality",
+              "bbox": [
+                437,
+                350,
+                464,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "OverallExperience",
+          "bbox": [
+            470,
+            346,
+            507,
+            388
+          ],
+          "words": [
+            {
+              "text": "OverallExperience",
+              "bbox": [
+                476,
+                350,
+                503,
+                384
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PatientComments",
+          "bbox": [
+            13,
+            388,
+            153,
+            430
+          ],
+          "words": [
+            {
+              "text": "PatientComments",
+              "bbox": [
+                17,
+                392,
+                80,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "PositiveFeedback",
+          "bbox": [
+            153,
+            388,
+            293,
+            430
+          ],
+          "words": [
+            {
+              "text": "PositiveFeedback",
+              "bbox": [
+                157,
+                392,
+                219,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "ConstructiveCriticism",
+          "bbox": [
+            293,
+            388,
+            433,
+            430
+          ],
+          "words": [
+            {
+              "text": "ConstructiveCriticism",
+              "bbox": [
+                351,
+                392,
+                429,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "ServiceImprovements",
+          "bbox": [
+            433,
+            388,
+            470,
+            430
+          ],
+          "words": [
+            {
+              "text": "ServiceImprovements",
+              "bbox": [
+                437,
+                392,
+                464,
+                426
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "SurveyResponses",
+          "bbox": [
+            470,
+            388,
+            507,
+            430
+          ],
+          "words": [
+            {
+              "text": "SurveyResponses",
+              "bbox": [
+                477,
+                392,
+                503,
+                426
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalResponses",
+          "bbox": [
+            13,
+            430,
+            153,
+            472
+          ],
+          "words": [
+            {
+              "text": "TotalResponses",
+              "bbox": [
+                17,
+                434,
+                72,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "15000",
+          "bbox": [
+            153,
+            430,
+            293,
+            472
+          ],
+          "words": [
+            {
+              "text": "15000",
+              "bbox": [
+                157,
+                434,
+                179,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "16000",
+          "bbox": [
+            293,
+            430,
+            433,
+            472
+          ],
+          "words": [
+            {
+              "text": "16000",
+              "bbox": [
+                407,
+                434,
+                429,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "17000",
+          "bbox": [
+            433,
+            430,
+            470,
+            472
+          ],
+          "words": [
+            {
+              "text": "17000",
+              "bbox": [
+                437,
+                434,
+                459,
+                443
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "ResponseRate(%)",
+          "bbox": [
+            470,
+            430,
+            507,
+            472
+          ],
+          "words": [
+            {
+              "text": "ResponseRate(%)",
+              "bbox": [
+                477,
+                434,
+                503,
+                468
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        485,
+        507,
+        512
+      ],
+      "content": "As evidenced by the reported patient satisfaction scores, which have shown a steady increase from 85.4% to 90.2%, there is a clear correlation between improved healthcare delivery and enhanced patient experiences.",
+      "lines": [
+        {
+          "text": "As evidenced by the reported patient satisfaction scores, which have shown a steady increase from 85.4% to 90.2%, there is a",
+          "bbox": [
+            13,
+            486,
+            507,
+            497
+          ],
+          "words": [
+            {
+              "text": "As",
+              "bbox": [
+                13,
+                486,
+                24,
+                497
+              ]
+            },
+            {
+              "text": "evidenced",
+              "bbox": [
+                27,
+                486,
+                66,
+                497
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                69,
+                486,
+                78,
+                497
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                81,
+                486,
+                93,
+                497
+              ]
+            },
+            {
+              "text": "reported",
+              "bbox": [
+                96,
+                486,
+                128,
+                497
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                131,
+                486,
+                157,
+                497
+              ]
+            },
+            {
+              "text": "satisfaction",
+              "bbox": [
+                160,
+                486,
+                204,
+                497
+              ]
+            },
+            {
+              "text": "scores,",
+              "bbox": [
+                207,
+                486,
+                233,
+                497
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                236,
+                486,
+                260,
+                497
+              ]
+            },
+            {
+              "text": "have",
+              "bbox": [
+                263,
+                486,
+                281,
+                497
+              ]
+            },
+            {
+              "text": "shown",
+              "bbox": [
+                284,
+                486,
+                309,
+                497
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                312,
+                486,
+                316,
+                497
+              ]
+            },
+            {
+              "text": "steady",
+              "bbox": [
+                319,
+                486,
+                344,
+                497
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                347,
+                486,
+                378,
+                497
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                381,
+                486,
+                400,
+                497
+              ]
+            },
+            {
+              "text": "85.4%",
+              "bbox": [
+                403,
+                486,
+                428,
+                497
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                431,
+                486,
+                438,
+                497
+              ]
+            },
+            {
+              "text": "90.2%,",
+              "bbox": [
+                441,
+                486,
+                468,
+                497
+              ]
+            },
+            {
+              "text": "there",
+              "bbox": [
+                471,
+                486,
+                491,
+                497
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                493,
+                486,
+                500,
+                497
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                503,
+                486,
+                507,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "text": "clear correlation between improved healthcare delivery and enhanced patient experiences.",
+          "bbox": [
+            13,
+            500,
+            359,
+            510
+          ],
+          "words": [
+            {
+              "text": "clear",
+              "bbox": [
+                13,
+                500,
+                32,
+                510
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                34,
+                500,
+                76,
+                510
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                78,
+                500,
+                110,
+                510
+              ]
+            },
+            {
+              "text": "improved",
+              "bbox": [
+                113,
+                500,
+                150,
+                510
+              ]
+            },
+            {
+              "text": "healthcare",
+              "bbox": [
+                152,
+                500,
+                191,
+                510
+              ]
+            },
+            {
+              "text": "delivery",
+              "bbox": [
+                194,
+                500,
+                225,
+                510
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                228,
+                500,
+                242,
+                510
+              ]
+            },
+            {
+              "text": "enhanced",
+              "bbox": [
+                244,
+                500,
+                280,
+                510
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                283,
+                500,
+                309,
+                510
+              ]
+            },
+            {
+              "text": "experiences.",
+              "bbox": [
+                311,
+                500,
+                359,
+                510
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_191541_t2",
+      "bbox": [
+        13,
+        525,
+        507,
+        694
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            526,
+            507,
+            544
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            544,
+            507,
+            561
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            561,
+            507,
+            603
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            603,
+            507,
+            633
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            633,
+            507,
+            664
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            664,
+            507,
+            694
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Segment</td><td colspan=\"2\">2020</td></tr><tr><td colspan=\"3\">MedicalDeviceRevenue</td><td colspan=\"2\">2021</td></tr><tr><td colspan=\"3\">GrowthRate</td><td>2022</td><td>MarketShare</td><td colspan=\"2\">Change</td><td>2020-2022</td></tr><tr><td>Imaging</td><td>£250M</td><td>£275M</td><td>10.0%</td><td>£300M</td><td>12.5%</td><td>45%</td><td>15%</td></tr></thead><tbody><tr><td>Monitoring</td><td>£150M</td><td>£160M</td><td>6.7%</td><td>£180M</td><td>12.5%</td><td>30%</td><td>10%</td></tr><tr><td>Therapeutic</td><td>£100M</td><td>£120M</td><td>20.0%</td><td>£130M</td><td>8.3%</td><td>25%</td><td>5%</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Segment",
+          "bbox": [
+            13,
+            526,
+            96,
+            544
+          ],
+          "words": [
+            {
+              "text": "Segment",
+              "bbox": [
+                17,
+                530,
+                50,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "2020",
+          "bbox": [
+            96,
+            526,
+            262,
+            544
+          ],
+          "words": [
+            {
+              "text": "2020",
+              "bbox": [
+                101,
+                530,
+                118,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "MedicalDeviceRevenue",
+          "bbox": [
+            13,
+            544,
+            262,
+            561
+          ],
+          "words": [
+            {
+              "text": "MedicalDeviceRevenue",
+              "bbox": [
+                17,
+                547,
+                104,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "2021",
+          "bbox": [
+            262,
+            544,
+            429,
+            561
+          ],
+          "words": [
+            {
+              "text": "2021",
+              "bbox": [
+                267,
+                547,
+                284,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate",
+          "bbox": [
+            13,
+            561,
+            262,
+            603
+          ],
+          "words": [
+            {
+              "text": "GrowthRate",
+              "bbox": [
+                17,
+                565,
+                64,
+                574
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "2022",
+          "bbox": [
+            262,
+            561,
+            345,
+            603
+          ],
+          "words": [
+            {
+              "text": "2022",
+              "bbox": [
+                267,
+                565,
+                284,
+                574
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare",
+          "bbox": [
+            345,
+            561,
+            429,
+            603
+          ],
+          "words": [
+            {
+              "text": "MarketShare",
+              "bbox": [
+                374,
+                565,
+                424,
+                574
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Change",
+          "bbox": [
+            429,
+            561,
+            481,
+            603
+          ],
+          "words": [
+            {
+              "text": "Change",
+              "bbox": [
+                433,
+                565,
+                462,
+                574
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "2020-2022",
+          "bbox": [
+            481,
+            561,
+            507,
+            603
+          ],
+          "words": [
+            {
+              "text": "2020-2022",
+              "bbox": [
+                485,
+                565,
+                503,
+                599
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Imaging",
+          "bbox": [
+            13,
+            603,
+            96,
+            633
+          ],
+          "words": [
+            {
+              "text": "Imaging",
+              "bbox": [
+                17,
+                607,
+                49,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "£250M",
+          "bbox": [
+            96,
+            603,
+            179,
+            633
+          ],
+          "words": [
+            {
+              "text": "£250M",
+              "bbox": [
+                101,
+                607,
+                126,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "£275M",
+          "bbox": [
+            179,
+            603,
+            262,
+            633
+          ],
+          "words": [
+            {
+              "text": "£275M",
+              "bbox": [
+                184,
+                607,
+                209,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "10.0%",
+          "bbox": [
+            262,
+            603,
+            345,
+            633
+          ],
+          "words": [
+            {
+              "text": "10.0%",
+              "bbox": [
+                267,
+                607,
+                291,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "£300M",
+          "bbox": [
+            345,
+            603,
+            429,
+            633
+          ],
+          "words": [
+            {
+              "text": "£300M",
+              "bbox": [
+                398,
+                607,
+                424,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "12.5%",
+          "bbox": [
+            429,
+            603,
+            455,
+            633
+          ],
+          "words": [
+            {
+              "text": "12.5%",
+              "bbox": [
+                433,
+                607,
+                448,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "45%",
+          "bbox": [
+            455,
+            603,
+            481,
+            633
+          ],
+          "words": [
+            {
+              "text": "45%",
+              "bbox": [
+                468,
+                607,
+                477,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "15%",
+          "bbox": [
+            481,
+            603,
+            507,
+            633
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                485,
+                607,
+                503,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Monitoring",
+          "bbox": [
+            13,
+            633,
+            96,
+            664
+          ],
+          "words": [
+            {
+              "text": "Monitoring",
+              "bbox": [
+                17,
+                637,
+                57,
+                647
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£150M",
+          "bbox": [
+            96,
+            633,
+            179,
+            664
+          ],
+          "words": [
+            {
+              "text": "£150M",
+              "bbox": [
+                101,
+                637,
+                126,
+                647
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£160M",
+          "bbox": [
+            179,
+            633,
+            262,
+            664
+          ],
+          "words": [
+            {
+              "text": "£160M",
+              "bbox": [
+                184,
+                637,
+                209,
+                647
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6.7%",
+          "bbox": [
+            262,
+            633,
+            345,
+            664
+          ],
+          "words": [
+            {
+              "text": "6.7%",
+              "bbox": [
+                267,
+                637,
+                285,
+                647
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£180M",
+          "bbox": [
+            345,
+            633,
+            429,
+            664
+          ],
+          "words": [
+            {
+              "text": "£180M",
+              "bbox": [
+                399,
+                637,
+                424,
+                647
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5%",
+          "bbox": [
+            429,
+            633,
+            455,
+            664
+          ],
+          "words": [
+            {
+              "text": "12.5%",
+              "bbox": [
+                433,
+                637,
+                448,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "30%",
+          "bbox": [
+            455,
+            633,
+            481,
+            664
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                460,
+                637,
+                477,
+                647
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            481,
+            633,
+            507,
+            664
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                487,
+                637,
+                503,
+                647
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Therapeutic",
+          "bbox": [
+            13,
+            664,
+            96,
+            694
+          ],
+          "words": [
+            {
+              "text": "Therapeutic",
+              "bbox": [
+                17,
+                667,
+                59,
+                677
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£100M",
+          "bbox": [
+            96,
+            664,
+            179,
+            694
+          ],
+          "words": [
+            {
+              "text": "£100M",
+              "bbox": [
+                101,
+                667,
+                126,
+                677
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£120M",
+          "bbox": [
+            179,
+            664,
+            262,
+            694
+          ],
+          "words": [
+            {
+              "text": "£120M",
+              "bbox": [
+                184,
+                667,
+                209,
+                677
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0%",
+          "bbox": [
+            262,
+            664,
+            345,
+            694
+          ],
+          "words": [
+            {
+              "text": "20.0%",
+              "bbox": [
+                267,
+                667,
+                289,
+                677
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£130M",
+          "bbox": [
+            345,
+            664,
+            429,
+            694
+          ],
+          "words": [
+            {
+              "text": "£130M",
+              "bbox": [
+                399,
+                667,
+                424,
+                677
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "8.3%",
+          "bbox": [
+            429,
+            664,
+            455,
+            694
+          ],
+          "words": [
+            {
+              "text": "8.3%",
+              "bbox": [
+                433,
+                667,
+                444,
+                689
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "25%",
+          "bbox": [
+            455,
+            664,
+            481,
+            694
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                460,
+                667,
+                477,
+                677
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            481,
+            664,
+            507,
+            694
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                491,
+                667,
+                503,
+                677
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        707,
+        507,
+        788
+      ],
+      "content": "This trajectory not only reflects Philips' commitment to quality but also underscores the importance of integrating patient feedback into service design. Furthermore, the medical device revenue, reported at £1.5 billion for the latest period, highlights a robust growth rate across segments, indicating strong market demand and effective product positioning. The data underscores the necessity for ongoing investment in both innovative technology and patient-centered care strategies to maintain competitive advantage in the healthcare sector. As we move forward, the synthesis of these metrics will be pivotal in shaping Philips' strategic initiatives.",
+      "lines": [
+        {
+          "text": "This trajectory not only reflects Philips' commitment to quality but also underscores the importance of integrating patient",
+          "bbox": [
+            13,
+            708,
+            507,
+            719
+          ],
+          "words": [
+            {
+              "text": "This",
+              "bbox": [
+                13,
+                708,
+                30,
+                719
+              ]
+            },
+            {
+              "text": "trajectory",
+              "bbox": [
+                34,
+                708,
+                71,
+                719
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                75,
+                708,
+                88,
+                719
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                92,
+                708,
+                109,
+                719
+              ]
+            },
+            {
+              "text": "reflects",
+              "bbox": [
+                113,
+                708,
+                141,
+                719
+              ]
+            },
+            {
+              "text": "Philips'",
+              "bbox": [
+                146,
+                708,
+                174,
+                719
+              ]
+            },
+            {
+              "text": "commitment",
+              "bbox": [
+                178,
+                708,
+                227,
+                719
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                231,
+                708,
+                238,
+                719
+              ]
+            },
+            {
+              "text": "quality",
+              "bbox": [
+                243,
+                708,
+                269,
+                719
+              ]
+            },
+            {
+              "text": "but",
+              "bbox": [
+                273,
+                708,
+                286,
+                719
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                290,
+                708,
+                305,
+                719
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                310,
+                708,
+                355,
+                719
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                360,
+                708,
+                371,
+                719
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                376,
+                708,
+                419,
+                719
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                423,
+                708,
+                431,
+                719
+              ]
+            },
+            {
+              "text": "integrating",
+              "bbox": [
+                435,
+                708,
+                477,
+                719
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                481,
+                708,
+                507,
+                719
+              ]
+            }
+          ]
+        },
+        {
+          "text": "feedback into service design. Furthermore, the medical device revenue, reported at £1.5 billion for the latest period, highlights a",
+          "bbox": [
+            13,
+            722,
+            507,
+            732
+          ],
+          "words": [
+            {
+              "text": "feedback",
+              "bbox": [
+                13,
+                722,
+                48,
+                732
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                50,
+                722,
+                65,
+                732
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                68,
+                722,
+                95,
+                732
+              ]
+            },
+            {
+              "text": "design.",
+              "bbox": [
+                98,
+                722,
+                125,
+                732
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                128,
+                722,
+                178,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                181,
+                722,
+                192,
+                732
+              ]
+            },
+            {
+              "text": "medical",
+              "bbox": [
+                195,
+                722,
+                225,
+                732
+              ]
+            },
+            {
+              "text": "device",
+              "bbox": [
+                228,
+                722,
+                253,
+                732
+              ]
+            },
+            {
+              "text": "revenue,",
+              "bbox": [
+                255,
+                722,
+                288,
+                732
+              ]
+            },
+            {
+              "text": "reported",
+              "bbox": [
+                291,
+                722,
+                323,
+                732
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                325,
+                722,
+                332,
+                732
+              ]
+            },
+            {
+              "text": "£1.5",
+              "bbox": [
+                335,
+                722,
+                352,
+                732
+              ]
+            },
+            {
+              "text": "billion",
+              "bbox": [
+                354,
+                722,
+                379,
+                732
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                382,
+                722,
+                393,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                395,
+                722,
+                407,
+                732
+              ]
+            },
+            {
+              "text": "latest",
+              "bbox": [
+                410,
+                722,
+                430,
+                732
+              ]
+            },
+            {
+              "text": "period,",
+              "bbox": [
+                432,
+                722,
+                459,
+                732
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                462,
+                722,
+                500,
+                732
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                503,
+                722,
+                507,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "robust growth rate across segments, indicating strong market demand and effective product positioning. The data underscores",
+          "bbox": [
+            13,
+            735,
+            507,
+            746
+          ],
+          "words": [
+            {
+              "text": "robust",
+              "bbox": [
+                13,
+                735,
+                37,
+                746
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                40,
+                735,
+                68,
+                746
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                71,
+                735,
+                85,
+                746
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                88,
+                735,
+                112,
+                746
+              ]
+            },
+            {
+              "text": "segments,",
+              "bbox": [
+                115,
+                735,
+                154,
+                746
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                157,
+                735,
+                195,
+                746
+              ]
+            },
+            {
+              "text": "strong",
+              "bbox": [
+                198,
+                735,
+                222,
+                746
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                226,
+                735,
+                252,
+                746
+              ]
+            },
+            {
+              "text": "demand",
+              "bbox": [
+                255,
+                735,
+                286,
+                746
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                289,
+                735,
+                303,
+                746
+              ]
+            },
+            {
+              "text": "effective",
+              "bbox": [
+                306,
+                735,
+                340,
+                746
+              ]
+            },
+            {
+              "text": "product",
+              "bbox": [
+                343,
+                735,
+                372,
+                746
+              ]
+            },
+            {
+              "text": "positioning.",
+              "bbox": [
+                375,
+                735,
+                421,
+                746
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                424,
+                735,
+                439,
+                746
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                442,
+                735,
+                458,
+                746
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                461,
+                735,
+                507,
+                746
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the necessity for ongoing investment in both innovative technology and patient-centered care strategies to maintain competitive",
+          "bbox": [
+            13,
+            749,
+            507,
+            759
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                13,
+                749,
+                25,
+                759
+              ]
+            },
+            {
+              "text": "necessity",
+              "bbox": [
+                27,
+                749,
+                63,
+                759
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                65,
+                749,
+                77,
+                759
+              ]
+            },
+            {
+              "text": "ongoing",
+              "bbox": [
+                79,
+                749,
+                111,
+                759
+              ]
+            },
+            {
+              "text": "investment",
+              "bbox": [
+                113,
+                749,
+                156,
+                759
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                158,
+                749,
+                166,
+                759
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                168,
+                749,
+                185,
+                759
+              ]
+            },
+            {
+              "text": "innovative",
+              "bbox": [
+                188,
+                749,
+                229,
+                759
+              ]
+            },
+            {
+              "text": "technology",
+              "bbox": [
+                231,
+                749,
+                274,
+                759
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                277,
+                749,
+                291,
+                759
+              ]
+            },
+            {
+              "text": "patient-centered",
+              "bbox": [
+                293,
+                749,
+                355,
+                759
+              ]
+            },
+            {
+              "text": "care",
+              "bbox": [
+                358,
+                749,
+                374,
+                759
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                376,
+                749,
+                413,
+                759
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                415,
+                749,
+                423,
+                759
+              ]
+            },
+            {
+              "text": "maintain",
+              "bbox": [
+                425,
+                749,
+                459,
+                759
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                462,
+                749,
+                507,
+                759
+              ]
+            }
+          ]
+        },
+        {
+          "text": "advantage in the healthcare sector. As we move forward, the synthesis of these metrics will be pivotal in shaping Philips'",
+          "bbox": [
+            13,
+            762,
+            507,
+            773
+          ],
+          "words": [
+            {
+              "text": "advantage",
+              "bbox": [
+                13,
+                762,
+                52,
+                773
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                56,
+                762,
+                64,
+                773
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                68,
+                762,
+                79,
+                773
+              ]
+            },
+            {
+              "text": "healthcare",
+              "bbox": [
+                83,
+                762,
+                123,
+                773
+              ]
+            },
+            {
+              "text": "sector.",
+              "bbox": [
+                127,
+                762,
+                152,
+                773
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                155,
+                762,
+                166,
+                773
+              ]
+            },
+            {
+              "text": "we",
+              "bbox": [
+                170,
+                762,
+                181,
+                773
+              ]
+            },
+            {
+              "text": "move",
+              "bbox": [
+                185,
+                762,
+                206,
+                773
+              ]
+            },
+            {
+              "text": "forward,",
+              "bbox": [
+                210,
+                762,
+                243,
+                773
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                247,
+                762,
+                259,
+                773
+              ]
+            },
+            {
+              "text": "synthesis",
+              "bbox": [
+                263,
+                762,
+                298,
+                773
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                302,
+                762,
+                310,
+                773
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                314,
+                762,
+                334,
+                773
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                338,
+                762,
+                366,
+                773
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                370,
+                762,
+                385,
+                773
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                389,
+                762,
+                399,
+                773
+              ]
+            },
+            {
+              "text": "pivotal",
+              "bbox": [
+                403,
+                762,
+                429,
+                773
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                433,
+                762,
+                441,
+                773
+              ]
+            },
+            {
+              "text": "shaping",
+              "bbox": [
+                445,
+                762,
+                475,
+                773
+              ]
+            },
+            {
+              "text": "Philips'",
+              "bbox": [
+                479,
+                762,
+                507,
+                773
+              ]
+            }
+          ]
+        },
+        {
+          "text": "strategic initiatives.",
+          "bbox": [
+            13,
+            775,
+            88,
+            786
+          ],
+          "words": [
+            {
+              "text": "strategic",
+              "bbox": [
+                13,
+                775,
+                46,
+                786
+              ]
+            },
+            {
+              "text": "initiatives.",
+              "bbox": [
+                48,
+                775,
+                88,
+                786
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

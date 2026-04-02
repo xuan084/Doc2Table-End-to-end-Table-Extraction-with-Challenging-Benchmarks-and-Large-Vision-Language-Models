@@ -1,0 +1,234 @@
+{
+  "image_id": "img_057435",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In the context of evaluating the efficacy of feature selection techniques in predictive modeling, particularly within the",
+      "bbox": [
+        15,
+        104,
+        580,
+        116
+      ]
+    },
+    {
+      "text": "framework of the C5.0 algorithm, the accompanying data table presents a comparative analysis of the model's performance",
+      "bbox": [
+        15,
+        119,
+        580,
+        131
+      ]
+    },
+    {
+      "text": "under varying conditions. The table delineates scenarios with and without feature selection, allowing for a nuanced",
+      "bbox": [
+        15,
+        135,
+        580,
+        147
+      ]
+    },
+    {
+      "text": "understanding of how these techniques influence key metrics such as Absorbance and Prevention of lysis (%). Notably, the C5.0",
+      "bbox": [
+        15,
+        150,
+        580,
+        162
+      ]
+    },
+    {
+      "text": "model achieved an impressive accuracy rate of 99.31% in both conditions, indicating a robust predictive capability.",
+      "bbox": [
+        15,
+        166,
+        522,
+        178
+      ]
+    },
+    {
+      "text": "Different decision tree models  % Correctness  % Wrongness  Performance evaluation (T)  Performance evaluation (F)  The most important feature (protein attribute) in build the decision tree",
+      "bbox": [
+        15,
+        219,
+        580,
+        282
+      ]
+    },
+    {
+      "text": "Without feature selection  With feature selection  Without feature selection  With feature selection  Without feature selection  With feature selection  Without feature selection  With feature selection",
+      "bbox": [
+        15,
+        282,
+        580,
+        330
+      ]
+    },
+    {
+      "text": "C5.0  99.31  99.31  0.69  0.69  0.053  0.053  2.833  2.833  Count of hydrogen",
+      "bbox": [
+        15,
+        330,
+        580,
+        351
+      ]
+    },
+    {
+      "text": "C5.0 (10-fold val.)  99.31  99.31  0.69  0.69  -  0.053  -  2.833  Count of hydrogen",
+      "bbox": [
+        15,
+        351,
+        580,
+        385
+      ]
+    },
+    {
+      "text": "CR&T  99.31  98.97  0.61  1.03  -  0.057  -  2.725  Count of hydrogen",
+      "bbox": [
+        15,
+        385,
+        580,
+        405
+      ]
+    },
+    {
+      "text": "QUEST  98.97  99.31  1.03  0.69  -  0.053  -  2.833  Frequency of Leu - Leu",
+      "bbox": [
+        15,
+        405,
+        580,
+        425
+      ]
+    },
+    {
+      "text": "CHAID  99.66  99.31  0.34  0.69  -  0.053  -  2.833  Frequency of oxygen",
+      "bbox": [
+        15,
+        425,
+        580,
+        445
+      ]
+    },
+    {
+      "text": "Exhaustive CHAID  99.66  99.31  0.34  0.69  -  0.053  -  2.833  Frequency of oxygen",
+      "bbox": [
+        15,
+        445,
+        580,
+        479
+      ]
+    },
+    {
+      "text": "Concentration (μg/mL)  Absorbance  Prevention of lysis (%)",
+      "bbox": [
+        16,
+        516,
+        580,
+        537
+      ]
+    },
+    {
+      "text": "300  0.162  33",
+      "bbox": [
+        16,
+        537,
+        580,
+        558
+      ]
+    },
+    {
+      "text": "200  0.175  27.68",
+      "bbox": [
+        16,
+        558,
+        580,
+        579
+      ]
+    },
+    {
+      "text": "100  0.183  24.38",
+      "bbox": [
+        16,
+        579,
+        580,
+        600
+      ]
+    },
+    {
+      "text": "Aspirin  0.148  38.84",
+      "bbox": [
+        16,
+        600,
+        580,
+        621
+      ]
+    },
+    {
+      "text": "Negative control  0.242  0",
+      "bbox": [
+        16,
+        621,
+        580,
+        642
+      ]
+    },
+    {
+      "text": "However, examining the Absorbance values reveals a significant differentiation in the data, with the feature selection approach",
+      "bbox": [
+        15,
+        674,
+        580,
+        686
+      ]
+    },
+    {
+      "text": "yielding a lower Absorbance reading of 0.162 at a concentration of 300 μg/mL, as opposed to higher values recorded without",
+      "bbox": [
+        15,
+        689,
+        580,
+        701
+      ]
+    },
+    {
+      "text": "feature selection. This discrepancy underscores the potential impact of feature selection on model interpretability and outcome",
+      "bbox": [
+        15,
+        705,
+        580,
+        717
+      ]
+    },
+    {
+      "text": "reliability. Furthermore, the Prevention of lysis, which is critical for assessing the overall effectiveness of the treatment, also",
+      "bbox": [
+        15,
+        720,
+        580,
+        732
+      ]
+    },
+    {
+      "text": "merits attention as it provides insight into the biological relevance of the results. The implications of these findings highlight the",
+      "bbox": [
+        15,
+        736,
+        580,
+        748
+      ]
+    },
+    {
+      "text": "importance of feature selection in enhancing model performance and data clarity within the scope of biochemical analysis.",
+      "bbox": [
+        15,
+        751,
+        554,
+        763
+      ]
+    }
+  ]
+}

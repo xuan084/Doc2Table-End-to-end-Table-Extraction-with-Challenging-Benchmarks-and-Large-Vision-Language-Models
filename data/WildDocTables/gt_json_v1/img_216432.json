@@ -1,0 +1,4529 @@
+{
+  "image_id": "img_216432",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        55,
+        580,
+        86
+      ],
+      "content": "In the evolving landscape of transportation and logistics, understanding fleet performance and operational efficiency is critical for optimizing resources and enhancing service delivery.",
+      "lines": [
+        {
+          "text": "In the evolving landscape of transportation and logistics, understanding fleet performance and operational efficiency is critical",
+          "bbox": [
+            15,
+            56,
+            580,
+            68
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                56,
+                24,
+                68
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                56,
+                41,
+                68
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                44,
+                56,
+                83,
+                68
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                86,
+                56,
+                130,
+                68
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                133,
+                56,
+                142,
+                68
+              ]
+            },
+            {
+              "text": "transportation",
+              "bbox": [
+                145,
+                56,
+                207,
+                68
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                210,
+                56,
+                226,
+                68
+              ]
+            },
+            {
+              "text": "logistics,",
+              "bbox": [
+                229,
+                56,
+                269,
+                68
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                272,
+                56,
+                334,
+                68
+              ]
+            },
+            {
+              "text": "fleet",
+              "bbox": [
+                338,
+                56,
+                357,
+                68
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                361,
+                56,
+                416,
+                68
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                420,
+                56,
+                435,
+                68
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                439,
+                56,
+                488,
+                68
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                492,
+                56,
+                535,
+                68
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                539,
+                56,
+                546,
+                68
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                549,
+                56,
+                580,
+                68
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for optimizing resources and enhancing service delivery.",
+          "bbox": [
+            15,
+            71,
+            264,
+            83
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                15,
+                71,
+                28,
+                83
+              ]
+            },
+            {
+              "text": "optimizing",
+              "bbox": [
+                31,
+                71,
+                78,
+                83
+              ]
+            },
+            {
+              "text": "resources",
+              "bbox": [
+                81,
+                71,
+                123,
+                83
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                125,
+                71,
+                141,
+                83
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                144,
+                71,
+                189,
+                83
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                192,
+                71,
+                223,
+                83
+              ]
+            },
+            {
+              "text": "delivery.",
+              "bbox": [
+                226,
+                71,
+                264,
+                83
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_216432_t0",
+      "bbox": [
+        15,
+        104,
+        580,
+        252
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            104,
+            580,
+            138
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            138,
+            580,
+            158
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            158,
+            580,
+            178
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            178,
+            580,
+            198
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            198,
+            580,
+            218
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            218,
+            580,
+            252
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>VehicleType</td><td>FuelConsumption</td><td colspan=\"3\">PerformanceMetrics</td><td>OverallRating</td></tr><tr><td>Truck</td><td>12.3L/100km</td><td>85%</td><td>Good</td><td>Van</td><td>10.5L/100km</td></tr></thead><tbody><tr><td>75%</td><td>Fair</td><td>Motorcycle</td><td>4.5L/100km</td><td>90%</td><td>Excellent</td></tr><tr><td>ElectricTruck</td><td>0L/100km</td><td>95%</td><td>Excellent</td><td>HybridVan</td><td>7.8L/100km</td></tr><tr><td>80%</td><td>Good</td><td>TotalFleet</td><td>8.2L/100km</td><td>80%</td><td>Good</td></tr><tr><td>AverageCost</td><td>$1.20/L</td><td>FuelSavings</td><td>$50,000</td><td>EfficiencyRating</td><td>OverallGood</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "VehicleType",
+          "bbox": [
+            15,
+            104,
+            193,
+            138
+          ],
+          "words": [
+            {
+              "text": "VehicleType",
+              "bbox": [
+                136,
+                108,
+                187,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "FuelConsumption",
+          "bbox": [
+            193,
+            104,
+            270,
+            138
+          ],
+          "words": [
+            {
+              "text": "FuelConsumption",
+              "bbox": [
+                198,
+                108,
+                265,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "PerformanceMetrics",
+          "bbox": [
+            270,
+            104,
+            503,
+            138
+          ],
+          "words": [
+            {
+              "text": "PerformanceMetrics",
+              "bbox": [
+                409,
+                108,
+                497,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "OverallRating",
+          "bbox": [
+            503,
+            104,
+            580,
+            138
+          ],
+          "words": [
+            {
+              "text": "OverallRating",
+              "bbox": [
+                514,
+                108,
+                575,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Truck",
+          "bbox": [
+            15,
+            138,
+            193,
+            158
+          ],
+          "words": [
+            {
+              "text": "Truck",
+              "bbox": [
+                162,
+                142,
+                187,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "12.3L/100km",
+          "bbox": [
+            193,
+            138,
+            270,
+            158
+          ],
+          "words": [
+            {
+              "text": "12.3L/100km",
+              "bbox": [
+                198,
+                142,
+                254,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "85%",
+          "bbox": [
+            270,
+            138,
+            348,
+            158
+          ],
+          "words": [
+            {
+              "text": "85%",
+              "bbox": [
+                322,
+                142,
+                342,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Good",
+          "bbox": [
+            348,
+            138,
+            425,
+            158
+          ],
+          "words": [
+            {
+              "text": "Good",
+              "bbox": [
+                396,
+                142,
+                420,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Van",
+          "bbox": [
+            425,
+            138,
+            503,
+            158
+          ],
+          "words": [
+            {
+              "text": "Van",
+              "bbox": [
+                480,
+                142,
+                497,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "10.5L/100km",
+          "bbox": [
+            503,
+            138,
+            580,
+            158
+          ],
+          "words": [
+            {
+              "text": "10.5L/100km",
+              "bbox": [
+                519,
+                142,
+                575,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            15,
+            158,
+            193,
+            178
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                169,
+                162,
+                187,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Fair",
+          "bbox": [
+            193,
+            158,
+            270,
+            178
+          ],
+          "words": [
+            {
+              "text": "Fair",
+              "bbox": [
+                198,
+                162,
+                215,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Motorcycle",
+          "bbox": [
+            270,
+            158,
+            348,
+            178
+          ],
+          "words": [
+            {
+              "text": "Motorcycle",
+              "bbox": [
+                296,
+                162,
+                342,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4.5L/100km",
+          "bbox": [
+            348,
+            158,
+            425,
+            178
+          ],
+          "words": [
+            {
+              "text": "4.5L/100km",
+              "bbox": [
+                370,
+                162,
+                420,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "90%",
+          "bbox": [
+            425,
+            158,
+            503,
+            178
+          ],
+          "words": [
+            {
+              "text": "90%",
+              "bbox": [
+                479,
+                162,
+                497,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Excellent",
+          "bbox": [
+            503,
+            158,
+            580,
+            178
+          ],
+          "words": [
+            {
+              "text": "Excellent",
+              "bbox": [
+                537,
+                162,
+                575,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ElectricTruck",
+          "bbox": [
+            15,
+            178,
+            193,
+            198
+          ],
+          "words": [
+            {
+              "text": "ElectricTruck",
+              "bbox": [
+                133,
+                182,
+                187,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0L/100km",
+          "bbox": [
+            193,
+            178,
+            270,
+            198
+          ],
+          "words": [
+            {
+              "text": "0L/100km",
+              "bbox": [
+                198,
+                182,
+                240,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "95%",
+          "bbox": [
+            270,
+            178,
+            348,
+            198
+          ],
+          "words": [
+            {
+              "text": "95%",
+              "bbox": [
+                324,
+                182,
+                342,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Excellent",
+          "bbox": [
+            348,
+            178,
+            425,
+            198
+          ],
+          "words": [
+            {
+              "text": "Excellent",
+              "bbox": [
+                382,
+                182,
+                420,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "HybridVan",
+          "bbox": [
+            425,
+            178,
+            503,
+            198
+          ],
+          "words": [
+            {
+              "text": "HybridVan",
+              "bbox": [
+                453,
+                182,
+                497,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "7.8L/100km",
+          "bbox": [
+            503,
+            178,
+            580,
+            198
+          ],
+          "words": [
+            {
+              "text": "7.8L/100km",
+              "bbox": [
+                526,
+                182,
+                575,
+                193
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            15,
+            198,
+            193,
+            218
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                169,
+                202,
+                187,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Good",
+          "bbox": [
+            193,
+            198,
+            270,
+            218
+          ],
+          "words": [
+            {
+              "text": "Good",
+              "bbox": [
+                198,
+                202,
+                221,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalFleet",
+          "bbox": [
+            270,
+            198,
+            348,
+            218
+          ],
+          "words": [
+            {
+              "text": "TotalFleet",
+              "bbox": [
+                302,
+                202,
+                342,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "8.2L/100km",
+          "bbox": [
+            348,
+            198,
+            425,
+            218
+          ],
+          "words": [
+            {
+              "text": "8.2L/100km",
+              "bbox": [
+                370,
+                202,
+                420,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            425,
+            198,
+            503,
+            218
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                479,
+                202,
+                497,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Good",
+          "bbox": [
+            503,
+            198,
+            580,
+            218
+          ],
+          "words": [
+            {
+              "text": "Good",
+              "bbox": [
+                553,
+                202,
+                575,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "AverageCost",
+          "bbox": [
+            15,
+            218,
+            193,
+            252
+          ],
+          "words": [
+            {
+              "text": "AverageCost",
+              "bbox": [
+                136,
+                222,
+                187,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$1.20/L",
+          "bbox": [
+            193,
+            218,
+            270,
+            252
+          ],
+          "words": [
+            {
+              "text": "$1.20/L",
+              "bbox": [
+                198,
+                222,
+                230,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "FuelSavings",
+          "bbox": [
+            270,
+            218,
+            348,
+            252
+          ],
+          "words": [
+            {
+              "text": "FuelSavings",
+              "bbox": [
+                293,
+                222,
+                342,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$50,000",
+          "bbox": [
+            348,
+            218,
+            425,
+            252
+          ],
+          "words": [
+            {
+              "text": "$50,000",
+              "bbox": [
+                387,
+                222,
+                420,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "EfficiencyRating",
+          "bbox": [
+            425,
+            218,
+            503,
+            252
+          ],
+          "words": [
+            {
+              "text": "EfficiencyRating",
+              "bbox": [
+                434,
+                222,
+                497,
+                247
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "OverallGood",
+          "bbox": [
+            503,
+            218,
+            580,
+            252
+          ],
+          "words": [
+            {
+              "text": "OverallGood",
+              "bbox": [
+                523,
+                222,
+                575,
+                233
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        267,
+        580,
+        359
+      ],
+      "content": "The accompanying table provides a comprehensive analysis of key metrics related to fleet fuel efficiency, cross-border trade lane utilization, and rail network performance for SF Express. Specifically, the fuel consumption metric for trucks, recorded at 12.3L/100km, underscores the importance of maintaining operational efficiency amid rising fuel costs. Additionally, the analysis of cross-border routes, highlighted by the operational throughput of Route A, which accounts for 4,500,000 kilometers traveled, illustrates the significant volume of goods transported across critical trade lanes. Furthermore, the Punctuality Index serves as an essential measure of reliability, reflecting our commitment to timely deliveries.",
+      "lines": [
+        {
+          "text": "The accompanying table provides a comprehensive analysis of key metrics related to fleet fuel efficiency, cross-border trade",
+          "bbox": [
+            15,
+            268,
+            580,
+            280
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                268,
+                32,
+                280
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                36,
+                268,
+                100,
+                280
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                104,
+                268,
+                125,
+                280
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                129,
+                268,
+                167,
+                280
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                171,
+                268,
+                176,
+                280
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                180,
+                268,
+                246,
+                280
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                250,
+                268,
+                286,
+                280
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                290,
+                268,
+                299,
+                280
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                303,
+                268,
+                319,
+                280
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                322,
+                268,
+                355,
+                280
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                359,
+                268,
+                389,
+                280
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                393,
+                268,
+                401,
+                280
+              ]
+            },
+            {
+              "text": "fleet",
+              "bbox": [
+                405,
+                268,
+                425,
+                280
+              ]
+            },
+            {
+              "text": "fuel",
+              "bbox": [
+                428,
+                268,
+                446,
+                280
+              ]
+            },
+            {
+              "text": "efficiency,",
+              "bbox": [
+                449,
+                268,
+                495,
+                280
+              ]
+            },
+            {
+              "text": "cross-border",
+              "bbox": [
+                499,
+                268,
+                554,
+                280
+              ]
+            },
+            {
+              "text": "trade",
+              "bbox": [
+                558,
+                268,
+                580,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "text": "lane utilization, and rail network performance for SF Express. Specifically, the fuel consumption metric for trucks, recorded at",
+          "bbox": [
+            15,
+            283,
+            580,
+            295
+          ],
+          "words": [
+            {
+              "text": "lane",
+              "bbox": [
+                15,
+                283,
+                33,
+                295
+              ]
+            },
+            {
+              "text": "utilization,",
+              "bbox": [
+                37,
+                283,
+                84,
+                295
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                87,
+                283,
+                103,
+                295
+              ]
+            },
+            {
+              "text": "rail",
+              "bbox": [
+                106,
+                283,
+                121,
+                295
+              ]
+            },
+            {
+              "text": "network",
+              "bbox": [
+                124,
+                283,
+                160,
+                295
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                164,
+                283,
+                219,
+                295
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                222,
+                283,
+                235,
+                295
+              ]
+            },
+            {
+              "text": "SF",
+              "bbox": [
+                239,
+                283,
+                251,
+                295
+              ]
+            },
+            {
+              "text": "Express.",
+              "bbox": [
+                254,
+                283,
+                292,
+                295
+              ]
+            },
+            {
+              "text": "Specifically,",
+              "bbox": [
+                295,
+                283,
+                349,
+                295
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                353,
+                283,
+                366,
+                295
+              ]
+            },
+            {
+              "text": "fuel",
+              "bbox": [
+                369,
+                283,
+                387,
+                295
+              ]
+            },
+            {
+              "text": "consumption",
+              "bbox": [
+                390,
+                283,
+                447,
+                295
+              ]
+            },
+            {
+              "text": "metric",
+              "bbox": [
+                450,
+                283,
+                478,
+                295
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                481,
+                283,
+                494,
+                295
+              ]
+            },
+            {
+              "text": "trucks,",
+              "bbox": [
+                497,
+                283,
+                527,
+                295
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                530,
+                283,
+                569,
+                295
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                572,
+                283,
+                580,
+                295
+              ]
+            }
+          ]
+        },
+        {
+          "text": "12.3L/100km, underscores the importance of maintaining operational efficiency amid rising fuel costs. Additionally, the",
+          "bbox": [
+            15,
+            299,
+            580,
+            311
+          ],
+          "words": [
+            {
+              "text": "12.3L/100km,",
+              "bbox": [
+                15,
+                299,
+                77,
+                311
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                83,
+                299,
+                135,
+                311
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                141,
+                299,
+                155,
+                311
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                160,
+                299,
+                210,
+                311
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                215,
+                299,
+                224,
+                311
+              ]
+            },
+            {
+              "text": "maintaining",
+              "bbox": [
+                230,
+                299,
+                283,
+                311
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                288,
+                299,
+                338,
+                311
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                343,
+                299,
+                387,
+                311
+              ]
+            },
+            {
+              "text": "amid",
+              "bbox": [
+                393,
+                299,
+                415,
+                311
+              ]
+            },
+            {
+              "text": "rising",
+              "bbox": [
+                420,
+                299,
+                445,
+                311
+              ]
+            },
+            {
+              "text": "fuel",
+              "bbox": [
+                451,
+                299,
+                468,
+                311
+              ]
+            },
+            {
+              "text": "costs.",
+              "bbox": [
+                474,
+                299,
+                498,
+                311
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                503,
+                299,
+                561,
+                311
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                299,
+                580,
+                311
+              ]
+            }
+          ]
+        },
+        {
+          "text": "analysis of cross-border routes, highlighted by the operational throughput of Route A, which accounts for 4,500,000 kilometers",
+          "bbox": [
+            15,
+            314,
+            580,
+            326
+          ],
+          "words": [
+            {
+              "text": "analysis",
+              "bbox": [
+                15,
+                314,
+                50,
+                326
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                54,
+                314,
+                63,
+                326
+              ]
+            },
+            {
+              "text": "cross-border",
+              "bbox": [
+                66,
+                314,
+                121,
+                326
+              ]
+            },
+            {
+              "text": "routes,",
+              "bbox": [
+                124,
+                314,
+                153,
+                326
+              ]
+            },
+            {
+              "text": "highlighted",
+              "bbox": [
+                157,
+                314,
+                207,
+                326
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                210,
+                314,
+                221,
+                326
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                224,
+                314,
+                237,
+                326
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                240,
+                314,
+                290,
+                326
+              ]
+            },
+            {
+              "text": "throughput",
+              "bbox": [
+                293,
+                314,
+                341,
+                326
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                344,
+                314,
+                353,
+                326
+              ]
+            },
+            {
+              "text": "Route",
+              "bbox": [
+                357,
+                314,
+                383,
+                326
+              ]
+            },
+            {
+              "text": "A,",
+              "bbox": [
+                385,
+                314,
+                396,
+                326
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                399,
+                314,
+                426,
+                326
+              ]
+            },
+            {
+              "text": "accounts",
+              "bbox": [
+                429,
+                314,
+                467,
+                326
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                471,
+                314,
+                483,
+                326
+              ]
+            },
+            {
+              "text": "4,500,000",
+              "bbox": [
+                486,
+                314,
+                530,
+                326
+              ]
+            },
+            {
+              "text": "kilometers",
+              "bbox": [
+                534,
+                314,
+                580,
+                326
+              ]
+            }
+          ]
+        },
+        {
+          "text": "traveled, illustrates the significant volume of goods transported across critical trade lanes. Furthermore, the Punctuality Index",
+          "bbox": [
+            15,
+            329,
+            580,
+            341
+          ],
+          "words": [
+            {
+              "text": "traveled,",
+              "bbox": [
+                15,
+                329,
+                53,
+                341
+              ]
+            },
+            {
+              "text": "illustrates",
+              "bbox": [
+                57,
+                329,
+                100,
+                341
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                103,
+                329,
+                117,
+                341
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                120,
+                329,
+                167,
+                341
+              ]
+            },
+            {
+              "text": "volume",
+              "bbox": [
+                170,
+                329,
+                203,
+                341
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                207,
+                329,
+                216,
+                341
+              ]
+            },
+            {
+              "text": "goods",
+              "bbox": [
+                220,
+                329,
+                246,
+                341
+              ]
+            },
+            {
+              "text": "transported",
+              "bbox": [
+                250,
+                329,
+                299,
+                341
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                303,
+                329,
+                330,
+                341
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                334,
+                329,
+                365,
+                341
+              ]
+            },
+            {
+              "text": "trade",
+              "bbox": [
+                368,
+                329,
+                390,
+                341
+              ]
+            },
+            {
+              "text": "lanes.",
+              "bbox": [
+                394,
+                329,
+                419,
+                341
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                423,
+                329,
+                481,
+                341
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                484,
+                329,
+                498,
+                341
+              ]
+            },
+            {
+              "text": "Punctuality",
+              "bbox": [
+                501,
+                329,
+                551,
+                341
+              ]
+            },
+            {
+              "text": "Index",
+              "bbox": [
+                555,
+                329,
+                580,
+                341
+              ]
+            }
+          ]
+        },
+        {
+          "text": "serves as an essential measure of reliability, reflecting our commitment to timely deliveries.",
+          "bbox": [
+            15,
+            345,
+            418,
+            357
+          ],
+          "words": [
+            {
+              "text": "serves",
+              "bbox": [
+                15,
+                345,
+                43,
+                357
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                45,
+                345,
+                54,
+                357
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                57,
+                345,
+                68,
+                357
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                70,
+                345,
+                108,
+                357
+              ]
+            },
+            {
+              "text": "measure",
+              "bbox": [
+                111,
+                345,
+                148,
+                357
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                150,
+                345,
+                159,
+                357
+              ]
+            },
+            {
+              "text": "reliability,",
+              "bbox": [
+                162,
+                345,
+                207,
+                357
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                210,
+                345,
+                252,
+                357
+              ]
+            },
+            {
+              "text": "our",
+              "bbox": [
+                255,
+                345,
+                269,
+                357
+              ]
+            },
+            {
+              "text": "commitment",
+              "bbox": [
+                272,
+                345,
+                328,
+                357
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                330,
+                345,
+                339,
+                357
+              ]
+            },
+            {
+              "text": "timely",
+              "bbox": [
+                342,
+                345,
+                370,
+                357
+              ]
+            },
+            {
+              "text": "deliveries.",
+              "bbox": [
+                373,
+                345,
+                418,
+                357
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_216432_t1",
+      "bbox": [
+        15,
+        376,
+        580,
+        539
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 3,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            376,
+            580,
+            410
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            410,
+            580,
+            458
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            458,
+            580,
+            479
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            479,
+            580,
+            499
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            499,
+            580,
+            519
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            519,
+            580,
+            539
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>TradeLane</td><td>Volume(Units)</td><td>Revenue(CAD)</td><td>Cost(CAD)</td><td colspan=\"2\">OperationalMetrics</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>On-timeDelivery(%)</td><td colspan=\"2\">CustomerSatisfaction(%)</td><td>AverageTransitTime(Days)</td></tr><tr><td>RouteA</td><td>15000</td><td>4500000</td><td>3000000</td><td>15.2</td><td>1.5</td><td>0.4</td></tr></thead><tbody><tr><td>95</td><td>88</td><td>5.2</td><td>RouteB</td><td>12000</td><td>3600000</td><td>2500000</td></tr><tr><td>14.8</td><td>1.6</td><td>0.5</td><td>97</td><td>85</td><td>4.8</td><td>RouteC</td></tr><tr><td>18000</td><td>5400000</td><td>4000000</td><td>16.0</td><td>1.4</td><td>0.6</td><td>92</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TradeLane",
+          "bbox": [
+            15,
+            376,
+            162,
+            410
+          ],
+          "words": [
+            {
+              "text": "TradeLane",
+              "bbox": [
+                20,
+                380,
+                67,
+                391
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Volume(Units)",
+          "bbox": [
+            162,
+            376,
+            309,
+            410
+          ],
+          "words": [
+            {
+              "text": "Volume(Units)",
+              "bbox": [
+                167,
+                380,
+                229,
+                391
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(CAD)",
+          "bbox": [
+            309,
+            376,
+            363,
+            410
+          ],
+          "words": [
+            {
+              "text": "Revenue(CAD)",
+              "bbox": [
+                318,
+                380,
+                358,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Cost(CAD)",
+          "bbox": [
+            363,
+            376,
+            417,
+            410
+          ],
+          "words": [
+            {
+              "text": "Cost(CAD)",
+              "bbox": [
+                375,
+                380,
+                412,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "OperationalMetrics",
+          "bbox": [
+            417,
+            376,
+            526,
+            410
+          ],
+          "words": [
+            {
+              "text": "OperationalMetrics",
+              "bbox": [
+                436,
+                380,
+                521,
+                391
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "P/ERatio",
+          "bbox": [
+            15,
+            410,
+            162,
+            458
+          ],
+          "words": [
+            {
+              "text": "P/ERatio",
+              "bbox": [
+                20,
+                414,
+                59,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CurrentRatio",
+          "bbox": [
+            162,
+            410,
+            309,
+            458
+          ],
+          "words": [
+            {
+              "text": "CurrentRatio",
+              "bbox": [
+                167,
+                414,
+                225,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Debt/Equity",
+          "bbox": [
+            309,
+            410,
+            363,
+            458
+          ],
+          "words": [
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                314,
+                414,
+                358,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "On-timeDelivery(%)",
+          "bbox": [
+            363,
+            410,
+            417,
+            458
+          ],
+          "words": [
+            {
+              "text": "On-timeDelivery(%)",
+              "bbox": [
+                371,
+                414,
+                412,
+                453
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "CustomerSatisfaction(%)",
+          "bbox": [
+            417,
+            410,
+            526,
+            458
+          ],
+          "words": [
+            {
+              "text": "CustomerSatisfaction(%)",
+              "bbox": [
+                425,
+                414,
+                521,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageTransitTime(Days)",
+          "bbox": [
+            526,
+            410,
+            580,
+            458
+          ],
+          "words": [
+            {
+              "text": "AverageTransitTime(Days)",
+              "bbox": [
+                532,
+                414,
+                575,
+                453
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "RouteA",
+          "bbox": [
+            15,
+            458,
+            162,
+            479
+          ],
+          "words": [
+            {
+              "text": "RouteA",
+              "bbox": [
+                20,
+                462,
+                53,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "15000",
+          "bbox": [
+            162,
+            458,
+            309,
+            479
+          ],
+          "words": [
+            {
+              "text": "15000",
+              "bbox": [
+                167,
+                462,
+                192,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "4500000",
+          "bbox": [
+            309,
+            458,
+            363,
+            479
+          ],
+          "words": [
+            {
+              "text": "4500000",
+              "bbox": [
+                323,
+                462,
+                358,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "3000000",
+          "bbox": [
+            363,
+            458,
+            417,
+            479
+          ],
+          "words": [
+            {
+              "text": "3000000",
+              "bbox": [
+                377,
+                462,
+                412,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "15.2",
+          "bbox": [
+            417,
+            458,
+            471,
+            479
+          ],
+          "words": [
+            {
+              "text": "15.2",
+              "bbox": [
+                449,
+                462,
+                466,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "1.5",
+          "bbox": [
+            471,
+            458,
+            526,
+            479
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                508,
+                462,
+                521,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "0.4",
+          "bbox": [
+            526,
+            458,
+            580,
+            479
+          ],
+          "words": [
+            {
+              "text": "0.4",
+              "bbox": [
+                563,
+                462,
+                575,
+                473
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "95",
+          "bbox": [
+            15,
+            479,
+            162,
+            499
+          ],
+          "words": [
+            {
+              "text": "95",
+              "bbox": [
+                20,
+                483,
+                30,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "88",
+          "bbox": [
+            162,
+            479,
+            309,
+            499
+          ],
+          "words": [
+            {
+              "text": "88",
+              "bbox": [
+                167,
+                483,
+                177,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "5.2",
+          "bbox": [
+            309,
+            479,
+            363,
+            499
+          ],
+          "words": [
+            {
+              "text": "5.2",
+              "bbox": [
+                346,
+                483,
+                358,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "RouteB",
+          "bbox": [
+            363,
+            479,
+            417,
+            499
+          ],
+          "words": [
+            {
+              "text": "RouteB",
+              "bbox": [
+                382,
+                483,
+                412,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "12000",
+          "bbox": [
+            417,
+            479,
+            471,
+            499
+          ],
+          "words": [
+            {
+              "text": "12000",
+              "bbox": [
+                441,
+                483,
+                466,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3600000",
+          "bbox": [
+            471,
+            479,
+            526,
+            499
+          ],
+          "words": [
+            {
+              "text": "3600000",
+              "bbox": [
+                486,
+                483,
+                521,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2500000",
+          "bbox": [
+            526,
+            479,
+            580,
+            499
+          ],
+          "words": [
+            {
+              "text": "2500000",
+              "bbox": [
+                540,
+                483,
+                575,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "14.8",
+          "bbox": [
+            15,
+            499,
+            162,
+            519
+          ],
+          "words": [
+            {
+              "text": "14.8",
+              "bbox": [
+                20,
+                503,
+                38,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.6",
+          "bbox": [
+            162,
+            499,
+            309,
+            519
+          ],
+          "words": [
+            {
+              "text": "1.6",
+              "bbox": [
+                167,
+                503,
+                179,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.5",
+          "bbox": [
+            309,
+            499,
+            363,
+            519
+          ],
+          "words": [
+            {
+              "text": "0.5",
+              "bbox": [
+                346,
+                503,
+                358,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "97",
+          "bbox": [
+            363,
+            499,
+            417,
+            519
+          ],
+          "words": [
+            {
+              "text": "97",
+              "bbox": [
+                402,
+                503,
+                412,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "85",
+          "bbox": [
+            417,
+            499,
+            471,
+            519
+          ],
+          "words": [
+            {
+              "text": "85",
+              "bbox": [
+                456,
+                503,
+                466,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "4.8",
+          "bbox": [
+            471,
+            499,
+            526,
+            519
+          ],
+          "words": [
+            {
+              "text": "4.8",
+              "bbox": [
+                508,
+                503,
+                521,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "RouteC",
+          "bbox": [
+            526,
+            499,
+            580,
+            519
+          ],
+          "words": [
+            {
+              "text": "RouteC",
+              "bbox": [
+                544,
+                503,
+                575,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "18000",
+          "bbox": [
+            15,
+            519,
+            162,
+            539
+          ],
+          "words": [
+            {
+              "text": "18000",
+              "bbox": [
+                20,
+                523,
+                45,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5400000",
+          "bbox": [
+            162,
+            519,
+            309,
+            539
+          ],
+          "words": [
+            {
+              "text": "5400000",
+              "bbox": [
+                167,
+                523,
+                202,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4000000",
+          "bbox": [
+            309,
+            519,
+            363,
+            539
+          ],
+          "words": [
+            {
+              "text": "4000000",
+              "bbox": [
+                323,
+                523,
+                358,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "16.0",
+          "bbox": [
+            363,
+            519,
+            417,
+            539
+          ],
+          "words": [
+            {
+              "text": "16.0",
+              "bbox": [
+                395,
+                523,
+                412,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.4",
+          "bbox": [
+            417,
+            519,
+            471,
+            539
+          ],
+          "words": [
+            {
+              "text": "1.4",
+              "bbox": [
+                454,
+                523,
+                466,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.6",
+          "bbox": [
+            471,
+            519,
+            526,
+            539
+          ],
+          "words": [
+            {
+              "text": "0.6",
+              "bbox": [
+                508,
+                523,
+                521,
+                534
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "92",
+          "bbox": [
+            526,
+            519,
+            580,
+            539
+          ],
+          "words": [
+            {
+              "text": "92",
+              "bbox": [
+                565,
+                523,
+                575,
+                534
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        554,
+        580,
+        585
+      ],
+      "content": "These metrics are instrumental in identifying areas for improvement and strategic investment, ultimately driving operational excellence and ensuring that SF Express remains competitive in the North American logistics sector.",
+      "lines": [
+        {
+          "text": "These metrics are instrumental in identifying areas for improvement and strategic investment, ultimately driving operational",
+          "bbox": [
+            15,
+            555,
+            580,
+            567
+          ],
+          "words": [
+            {
+              "text": "These",
+              "bbox": [
+                15,
+                555,
+                41,
+                567
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                45,
+                555,
+                78,
+                567
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                82,
+                555,
+                95,
+                567
+              ]
+            },
+            {
+              "text": "instrumental",
+              "bbox": [
+                99,
+                555,
+                154,
+                567
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                158,
+                555,
+                167,
+                567
+              ]
+            },
+            {
+              "text": "identifying",
+              "bbox": [
+                171,
+                555,
+                219,
+                567
+              ]
+            },
+            {
+              "text": "areas",
+              "bbox": [
+                223,
+                555,
+                246,
+                567
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                250,
+                555,
+                263,
+                567
+              ]
+            },
+            {
+              "text": "improvement",
+              "bbox": [
+                267,
+                555,
+                326,
+                567
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                330,
+                555,
+                346,
+                567
+              ]
+            },
+            {
+              "text": "strategic",
+              "bbox": [
+                350,
+                555,
+                387,
+                567
+              ]
+            },
+            {
+              "text": "investment,",
+              "bbox": [
+                391,
+                555,
+                442,
+                567
+              ]
+            },
+            {
+              "text": "ultimately",
+              "bbox": [
+                446,
+                555,
+                491,
+                567
+              ]
+            },
+            {
+              "text": "driving",
+              "bbox": [
+                495,
+                555,
+                526,
+                567
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                531,
+                555,
+                580,
+                567
+              ]
+            }
+          ]
+        },
+        {
+          "text": "excellence and ensuring that SF Express remains competitive in the North American logistics sector.",
+          "bbox": [
+            15,
+            571,
+            457,
+            583
+          ],
+          "words": [
+            {
+              "text": "excellence",
+              "bbox": [
+                15,
+                571,
+                61,
+                583
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                64,
+                571,
+                80,
+                583
+              ]
+            },
+            {
+              "text": "ensuring",
+              "bbox": [
+                83,
+                571,
+                121,
+                583
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                123,
+                571,
+                140,
+                583
+              ]
+            },
+            {
+              "text": "SF",
+              "bbox": [
+                143,
+                571,
+                155,
+                583
+              ]
+            },
+            {
+              "text": "Express",
+              "bbox": [
+                158,
+                571,
+                192,
+                583
+              ]
+            },
+            {
+              "text": "remains",
+              "bbox": [
+                195,
+                571,
+                230,
+                583
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                233,
+                571,
+                285,
+                583
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                287,
+                571,
+                296,
+                583
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                299,
+                571,
+                312,
+                583
+              ]
+            },
+            {
+              "text": "North",
+              "bbox": [
+                315,
+                571,
+                341,
+                583
+              ]
+            },
+            {
+              "text": "American",
+              "bbox": [
+                343,
+                571,
+                386,
+                583
+              ]
+            },
+            {
+              "text": "logistics",
+              "bbox": [
+                389,
+                571,
+                426,
+                583
+              ]
+            },
+            {
+              "text": "sector.",
+              "bbox": [
+                428,
+                571,
+                457,
+                583
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_216432_t2",
+      "bbox": [
+        15,
+        603,
+        580,
+        726
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 3,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            603,
+            580,
+            624
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            624,
+            580,
+            644
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            644,
+            580,
+            664
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            664,
+            580,
+            685
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            685,
+            580,
+            705
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            705,
+            580,
+            725
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\">RailNetworkMetrics</td><td>UtilizationRate</td></tr><tr><td colspan=\"2\">CapacityAnalysis</td><td colspan=\"2\">CostEfficiency</td></tr><tr><td>PunctualityIndex</td><td>OperatingRatio</td><td>RevenuePerMile</td><td>FuelEfficiency</td></tr></thead><tbody><tr><td>85%</td><td>92%</td><td>CAD1,200</td><td>6.5L/Mile</td></tr><tr><td>78%</td><td>70%</td><td>CAD1,000</td><td>5.8L/Mile</td></tr><tr><td>90%</td><td>80%</td><td>CAD1,500</td><td>7.2L/Mile</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "RailNetworkMetrics",
+          "bbox": [
+            15,
+            603,
+            396,
+            624
+          ],
+          "words": [
+            {
+              "text": "RailNetworkMetrics",
+              "bbox": [
+                20,
+                608,
+                108,
+                619
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "UtilizationRate",
+          "bbox": [
+            396,
+            603,
+            488,
+            624
+          ],
+          "words": [
+            {
+              "text": "UtilizationRate",
+              "bbox": [
+                418,
+                608,
+                483,
+                619
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CapacityAnalysis",
+          "bbox": [
+            15,
+            624,
+            396,
+            644
+          ],
+          "words": [
+            {
+              "text": "CapacityAnalysis",
+              "bbox": [
+                20,
+                628,
+                94,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CostEfficiency",
+          "bbox": [
+            396,
+            624,
+            580,
+            644
+          ],
+          "words": [
+            {
+              "text": "CostEfficiency",
+              "bbox": [
+                513,
+                628,
+                575,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "PunctualityIndex",
+          "bbox": [
+            15,
+            644,
+            205,
+            664
+          ],
+          "words": [
+            {
+              "text": "PunctualityIndex",
+              "bbox": [
+                20,
+                648,
+                94,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "OperatingRatio",
+          "bbox": [
+            205,
+            644,
+            396,
+            664
+          ],
+          "words": [
+            {
+              "text": "OperatingRatio",
+              "bbox": [
+                210,
+                648,
+                278,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "RevenuePerMile",
+          "bbox": [
+            396,
+            644,
+            488,
+            664
+          ],
+          "words": [
+            {
+              "text": "RevenuePerMile",
+              "bbox": [
+                412,
+                648,
+                483,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "FuelEfficiency",
+          "bbox": [
+            488,
+            644,
+            580,
+            664
+          ],
+          "words": [
+            {
+              "text": "FuelEfficiency",
+              "bbox": [
+                513,
+                648,
+                575,
+                659
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "85%",
+          "bbox": [
+            15,
+            664,
+            205,
+            685
+          ],
+          "words": [
+            {
+              "text": "85%",
+              "bbox": [
+                20,
+                669,
+                38,
+                680
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "92%",
+          "bbox": [
+            205,
+            664,
+            396,
+            685
+          ],
+          "words": [
+            {
+              "text": "92%",
+              "bbox": [
+                210,
+                669,
+                229,
+                680
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CAD1,200",
+          "bbox": [
+            396,
+            664,
+            488,
+            685
+          ],
+          "words": [
+            {
+              "text": "CAD1,200",
+              "bbox": [
+                439,
+                669,
+                483,
+                680
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6.5L/Mile",
+          "bbox": [
+            488,
+            664,
+            580,
+            685
+          ],
+          "words": [
+            {
+              "text": "6.5L/Mile",
+              "bbox": [
+                535,
+                669,
+                575,
+                680
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "78%",
+          "bbox": [
+            15,
+            685,
+            205,
+            705
+          ],
+          "words": [
+            {
+              "text": "78%",
+              "bbox": [
+                20,
+                689,
+                38,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "70%",
+          "bbox": [
+            205,
+            685,
+            396,
+            705
+          ],
+          "words": [
+            {
+              "text": "70%",
+              "bbox": [
+                210,
+                689,
+                229,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CAD1,000",
+          "bbox": [
+            396,
+            685,
+            488,
+            705
+          ],
+          "words": [
+            {
+              "text": "CAD1,000",
+              "bbox": [
+                439,
+                689,
+                483,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.8L/Mile",
+          "bbox": [
+            488,
+            685,
+            580,
+            705
+          ],
+          "words": [
+            {
+              "text": "5.8L/Mile",
+              "bbox": [
+                535,
+                689,
+                575,
+                700
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "90%",
+          "bbox": [
+            15,
+            705,
+            205,
+            725
+          ],
+          "words": [
+            {
+              "text": "90%",
+              "bbox": [
+                20,
+                709,
+                38,
+                720
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            205,
+            705,
+            396,
+            725
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                210,
+                709,
+                229,
+                720
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CAD1,500",
+          "bbox": [
+            396,
+            705,
+            488,
+            725
+          ],
+          "words": [
+            {
+              "text": "CAD1,500",
+              "bbox": [
+                439,
+                709,
+                483,
+                720
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "7.2L/Mile",
+          "bbox": [
+            488,
+            705,
+            580,
+            725
+          ],
+          "words": [
+            {
+              "text": "7.2L/Mile",
+              "bbox": [
+                535,
+                709,
+                575,
+                720
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        741,
+        580,
+        772
+      ],
+      "content": "The data presented herein will support informed decision-making for future enhancements in fleet management and cross-border operations.",
+      "lines": [
+        {
+          "text": "The data presented herein will support informed decision-making for future enhancements in fleet management and cross-",
+          "bbox": [
+            15,
+            742,
+            580,
+            754
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                742,
+                32,
+                754
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                37,
+                742,
+                55,
+                754
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                60,
+                742,
+                102,
+                754
+              ]
+            },
+            {
+              "text": "herein",
+              "bbox": [
+                106,
+                742,
+                134,
+                754
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                138,
+                742,
+                155,
+                754
+              ]
+            },
+            {
+              "text": "support",
+              "bbox": [
+                160,
+                742,
+                193,
+                754
+              ]
+            },
+            {
+              "text": "informed",
+              "bbox": [
+                198,
+                742,
+                238,
+                754
+              ]
+            },
+            {
+              "text": "decision-making",
+              "bbox": [
+                242,
+                742,
+                316,
+                754
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                320,
+                742,
+                333,
+                754
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                338,
+                742,
+                364,
+                754
+              ]
+            },
+            {
+              "text": "enhancements",
+              "bbox": [
+                368,
+                742,
+                431,
+                754
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                435,
+                742,
+                444,
+                754
+              ]
+            },
+            {
+              "text": "fleet",
+              "bbox": [
+                448,
+                742,
+                468,
+                754
+              ]
+            },
+            {
+              "text": "management",
+              "bbox": [
+                473,
+                742,
+                529,
+                754
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                533,
+                742,
+                549,
+                754
+              ]
+            },
+            {
+              "text": "cross-",
+              "bbox": [
+                554,
+                742,
+                580,
+                754
+              ]
+            }
+          ]
+        },
+        {
+          "text": "border operations.",
+          "bbox": [
+            15,
+            757,
+            95,
+            769
+          ],
+          "words": [
+            {
+              "text": "border",
+              "bbox": [
+                15,
+                757,
+                44,
+                769
+              ]
+            },
+            {
+              "text": "operations.",
+              "bbox": [
+                46,
+                757,
+                95,
+                769
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

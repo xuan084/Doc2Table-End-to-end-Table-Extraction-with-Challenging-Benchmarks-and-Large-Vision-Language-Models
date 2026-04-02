@@ -1,0 +1,252 @@
+{
+  "image_id": "img_069212",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In the ongoing pursuit of understanding the differential impact of biomarkers in neuromyelitis optica spectrum disorder",
+      "bbox": [
+        15,
+        124,
+        580,
+        136
+      ]
+    },
+    {
+      "text": "(NMOSD), the data presented in Table 1 provides a comprehensive overview of various modeling approaches employed to",
+      "bbox": [
+        15,
+        139,
+        580,
+        151
+      ]
+    },
+    {
+      "text": "assess the significance of specific predictors among patient cohorts. The table delineates the outcomes of conventional",
+      "bbox": [
+        15,
+        155,
+        580,
+        167
+      ]
+    },
+    {
+      "text": "regression analyses, focusing on the variable of serum analysis as a predictor.",
+      "bbox": [
+        15,
+        170,
+        356,
+        182
+      ]
+    },
+    {
+      "text": "Method  Predictor of the model  Basis type  Type of model",
+      "bbox": [
+        16,
+        233,
+        580,
+        254
+      ]
+    },
+    {
+      "text": "M1  X  None  Conventional regression",
+      "bbox": [
+        16,
+        254,
+        580,
+        275
+      ]
+    },
+    {
+      "text": "M2  W  B-splines  Functional regression (Eq. 8)",
+      "bbox": [
+        16,
+        275,
+        580,
+        296
+      ]
+    },
+    {
+      "text": "M3  W  Fourier  Functional regression (Eq. 8)",
+      "bbox": [
+        16,
+        296,
+        580,
+        317
+      ]
+    },
+    {
+      "text": "M4  X*  B-splines  Alternative 1 for Functional regression (Eq. 9)",
+      "bbox": [
+        16,
+        317,
+        580,
+        338
+      ]
+    },
+    {
+      "text": "M5  X*  Fourier  Alternative 1 for Functional regression (Eq. 9)",
+      "bbox": [
+        16,
+        338,
+        580,
+        359
+      ]
+    },
+    {
+      "text": "M6  X**  B-splines  Alternative 2 for Functional regression (Eq. 10)",
+      "bbox": [
+        16,
+        359,
+        580,
+        380
+      ]
+    },
+    {
+      "text": "M7  X**  Fourier  Alternative 2 for Functional regression (Eq. 10)",
+      "bbox": [
+        16,
+        380,
+        580,
+        401
+      ]
+    },
+    {
+      "text": "Variable  AQP4(−) patients (n=16)  AQP4(+) patients (n=53)  P values",
+      "bbox": [
+        15,
+        456,
+        580,
+        477
+      ]
+    },
+    {
+      "text": "Serum analysis",
+      "bbox": [
+        15,
+        477,
+        580,
+        498
+      ]
+    },
+    {
+      "text": "CRP (mg/l)  1.81 ± 0.65  8.78 ± 3.30  0.253",
+      "bbox": [
+        15,
+        498,
+        580,
+        518
+      ]
+    },
+    {
+      "text": "ESR (mm/H)  17.19 ± 8.86  20.91 ± 20.91  0.493",
+      "bbox": [
+        15,
+        518,
+        580,
+        538
+      ]
+    },
+    {
+      "text": "C3 (g/l)  1.16 ± 0.20  1.24 ± 0.40  0.437",
+      "bbox": [
+        15,
+        538,
+        580,
+        558
+      ]
+    },
+    {
+      "text": "C4 (g/l)  0.29 ± 0.16  0.26 ± 0.18  0.326",
+      "bbox": [
+        15,
+        558,
+        580,
+        578
+      ]
+    },
+    {
+      "text": "CH50 (U/ml)  49.50 ± 10.30  46.13 ± 11.45  0.296",
+      "bbox": [
+        15,
+        578,
+        580,
+        598
+      ]
+    },
+    {
+      "text": "Notably, the patient groups are categorized based on the presence of aquaporin-4 (AQP4) antibodies, with AQP4(−) patients",
+      "bbox": [
+        15,
+        643,
+        580,
+        655
+      ]
+    },
+    {
+      "text": "comprising 16 individuals and AQP4(+) patients encompassing 53 individuals. The findings underscore the distinct biochemical",
+      "bbox": [
+        15,
+        658,
+        580,
+        670
+      ]
+    },
+    {
+      "text": "profiles that may contribute to differing clinical manifestations and disease progression in these subgroups. Moreover, the",
+      "bbox": [
+        15,
+        673,
+        580,
+        685
+      ]
+    },
+    {
+      "text": "column detailing P values serves to highlight the statistical significance of the relationships observed, offering crucial insights",
+      "bbox": [
+        15,
+        689,
+        580,
+        701
+      ]
+    },
+    {
+      "text": "into the predictive validity of the models employed. This analysis not only enhances our understanding of NMOSD",
+      "bbox": [
+        15,
+        704,
+        580,
+        716
+      ]
+    },
+    {
+      "text": "pathophysiology but also underscores the importance of tailored therapeutic strategies that consider the underlying",
+      "bbox": [
+        15,
+        720,
+        580,
+        732
+      ]
+    },
+    {
+      "text": "immunological differences between AQP4(−) and AQP4(+) patients. Such insights are imperative for advancing personalized",
+      "bbox": [
+        15,
+        735,
+        580,
+        747
+      ]
+    },
+    {
+      "text": "medicine approaches in the management of this complex neurological disorder.",
+      "bbox": [
+        15,
+        750,
+        364,
+        762
+      ]
+    }
+  ]
+}

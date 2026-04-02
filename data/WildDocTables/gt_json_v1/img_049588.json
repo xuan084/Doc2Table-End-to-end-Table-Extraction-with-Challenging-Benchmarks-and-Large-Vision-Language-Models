@@ -1,0 +1,5518 @@
+{
+  "image_id": "img_049588",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        50,
+        580,
+        235
+      ],
+      "content": "In Table 1, the dataset includes the following columns: Patient, Chromosome location, Marker, Location start, Location stop, Patient, Mother, Father, and Associated OMIM disease (gene). The first row details Patient 1 with Chromosome location 15q23q24.1, Marker D15S204, Location start 72300758, Location stop 72300879, and values of 123/123 for Patient, 123/125 for Mother, 123/125 for Father, associated with MIM #209900, Bardet-Biedl Syndrome (BBS4). The second row, with no Patient, Chromosome location, or Marker, shows D15S124, Location start 73092468, Location stop 73092572, and values of 104/106 for Patient, 106/106 for Mother, 104/106 for Father, with no associated disease. The third row details Patient 17 with Chromosome location 6q16.3, Marker D6S468, Location start 101630330, Location stop 101630479, and values of 155/159 for Patient, 159/159 for Mother, 155/155 for Father, associated with MIM #611092, Mental retardation (GRIK2). The last rows include various markers with respective values and no associated diseases. In Table 2, the columns are Samples, Men, %, Women, and %. Cervix has 0 Men and 77 Women, Pharynx has 22 Men and 11 Women, Anus has 88 Men and 10 Women, Urethra has 437 Men and 27 Women, Conjunctiva has 1 Man and 0 Women, totaling 548 Men and 125 Women, with percentages indicating their respective distributions.",
+      "lines": [
+        {
+          "text": "In Table 1, the dataset includes the following columns: Patient, Chromosome location, Marker, Location start, Location stop,",
+          "bbox": [
+            15,
+            51,
+            580,
+            63
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                51,
+                24,
+                63
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                28,
+                51,
+                52,
+                63
+              ]
+            },
+            {
+              "text": "1,",
+              "bbox": [
+                56,
+                51,
+                64,
+                63
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                68,
+                51,
+                81,
+                63
+              ]
+            },
+            {
+              "text": "dataset",
+              "bbox": [
+                85,
+                51,
+                115,
+                63
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                119,
+                51,
+                156,
+                63
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                160,
+                51,
+                173,
+                63
+              ]
+            },
+            {
+              "text": "following",
+              "bbox": [
+                177,
+                51,
+                220,
+                63
+              ]
+            },
+            {
+              "text": "columns:",
+              "bbox": [
+                223,
+                51,
+                264,
+                63
+              ]
+            },
+            {
+              "text": "Patient,",
+              "bbox": [
+                267,
+                51,
+                301,
+                63
+              ]
+            },
+            {
+              "text": "Chromosome",
+              "bbox": [
+                304,
+                51,
+                364,
+                63
+              ]
+            },
+            {
+              "text": "location,",
+              "bbox": [
+                367,
+                51,
+                406,
+                63
+              ]
+            },
+            {
+              "text": "Marker,",
+              "bbox": [
+                409,
+                51,
+                444,
+                63
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                448,
+                51,
+                487,
+                63
+              ]
+            },
+            {
+              "text": "start,",
+              "bbox": [
+                491,
+                51,
+                512,
+                63
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                516,
+                51,
+                555,
+                63
+              ]
+            },
+            {
+              "text": "stop,",
+              "bbox": [
+                559,
+                51,
+                580,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Patient, Mother, Father, and Associated OMIM disease (gene). The first row details Patient 1 with Chromosome location",
+          "bbox": [
+            15,
+            66,
+            580,
+            78
+          ],
+          "words": [
+            {
+              "text": "Patient,",
+              "bbox": [
+                15,
+                66,
+                48,
+                78
+              ]
+            },
+            {
+              "text": "Mother,",
+              "bbox": [
+                53,
+                66,
+                88,
+                78
+              ]
+            },
+            {
+              "text": "Father,",
+              "bbox": [
+                93,
+                66,
+                123,
+                78
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                128,
+                66,
+                144,
+                78
+              ]
+            },
+            {
+              "text": "Associated",
+              "bbox": [
+                148,
+                66,
+                197,
+                78
+              ]
+            },
+            {
+              "text": "OMIM",
+              "bbox": [
+                201,
+                66,
+                233,
+                78
+              ]
+            },
+            {
+              "text": "disease",
+              "bbox": [
+                238,
+                66,
+                269,
+                78
+              ]
+            },
+            {
+              "text": "(gene).",
+              "bbox": [
+                274,
+                66,
+                305,
+                78
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                310,
+                66,
+                327,
+                78
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                332,
+                66,
+                350,
+                78
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                354,
+                66,
+                372,
+                78
+              ]
+            },
+            {
+              "text": "details",
+              "bbox": [
+                376,
+                66,
+                405,
+                78
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                410,
+                66,
+                441,
+                78
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                446,
+                66,
+                451,
+                78
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                456,
+                66,
+                475,
+                78
+              ]
+            },
+            {
+              "text": "Chromosome",
+              "bbox": [
+                480,
+                66,
+                540,
+                78
+              ]
+            },
+            {
+              "text": "location",
+              "bbox": [
+                545,
+                66,
+                580,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "text": "15q23q24.1, Marker D15S204, Location start 72300758, Location stop 72300879, and values of 123/123 for Patient, 123/125",
+          "bbox": [
+            15,
+            82,
+            580,
+            94
+          ],
+          "words": [
+            {
+              "text": "15q23q24.1,",
+              "bbox": [
+                15,
+                82,
+                70,
+                94
+              ]
+            },
+            {
+              "text": "Marker",
+              "bbox": [
+                74,
+                82,
+                106,
+                94
+              ]
+            },
+            {
+              "text": "D15S204,",
+              "bbox": [
+                109,
+                82,
+                154,
+                94
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                157,
+                82,
+                196,
+                94
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                200,
+                82,
+                219,
+                94
+              ]
+            },
+            {
+              "text": "72300758,",
+              "bbox": [
+                222,
+                82,
+                269,
+                94
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                273,
+                82,
+                312,
+                94
+              ]
+            },
+            {
+              "text": "stop",
+              "bbox": [
+                315,
+                82,
+                334,
+                94
+              ]
+            },
+            {
+              "text": "72300879,",
+              "bbox": [
+                337,
+                82,
+                384,
+                94
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                387,
+                82,
+                403,
+                94
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                407,
+                82,
+                435,
+                94
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                438,
+                82,
+                448,
+                94
+              ]
+            },
+            {
+              "text": "123/123",
+              "bbox": [
+                451,
+                82,
+                487,
+                94
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                491,
+                82,
+                504,
+                94
+              ]
+            },
+            {
+              "text": "Patient,",
+              "bbox": [
+                507,
+                82,
+                540,
+                94
+              ]
+            },
+            {
+              "text": "123/125",
+              "bbox": [
+                544,
+                82,
+                580,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for Mother, 123/125 for Father, associated with MIM #209900, Bardet-Biedl Syndrome (BBS4). The second row, with no",
+          "bbox": [
+            15,
+            97,
+            580,
+            109
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                15,
+                97,
+                28,
+                109
+              ]
+            },
+            {
+              "text": "Mother,",
+              "bbox": [
+                32,
+                97,
+                67,
+                109
+              ]
+            },
+            {
+              "text": "123/125",
+              "bbox": [
+                72,
+                97,
+                108,
+                109
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                112,
+                97,
+                125,
+                109
+              ]
+            },
+            {
+              "text": "Father,",
+              "bbox": [
+                130,
+                97,
+                160,
+                109
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                165,
+                97,
+                210,
+                109
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                215,
+                97,
+                234,
+                109
+              ]
+            },
+            {
+              "text": "MIM",
+              "bbox": [
+                239,
+                97,
+                262,
+                109
+              ]
+            },
+            {
+              "text": "#209900,",
+              "bbox": [
+                266,
+                97,
+                308,
+                109
+              ]
+            },
+            {
+              "text": "Bardet-Biedl",
+              "bbox": [
+                312,
+                97,
+                369,
+                109
+              ]
+            },
+            {
+              "text": "Syndrome",
+              "bbox": [
+                374,
+                97,
+                419,
+                109
+              ]
+            },
+            {
+              "text": "(BBS4).",
+              "bbox": [
+                424,
+                97,
+                460,
+                109
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                464,
+                97,
+                481,
+                109
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                486,
+                97,
+                517,
+                109
+              ]
+            },
+            {
+              "text": "row,",
+              "bbox": [
+                521,
+                97,
+                540,
+                109
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                545,
+                97,
+                564,
+                109
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                569,
+                97,
+                580,
+                109
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Patient, Chromosome location, or Marker, shows D15S124, Location start 73092468, Location stop 73092572, and values of",
+          "bbox": [
+            15,
+            113,
+            580,
+            125
+          ],
+          "words": [
+            {
+              "text": "Patient,",
+              "bbox": [
+                15,
+                113,
+                48,
+                125
+              ]
+            },
+            {
+              "text": "Chromosome",
+              "bbox": [
+                52,
+                113,
+                111,
+                125
+              ]
+            },
+            {
+              "text": "location,",
+              "bbox": [
+                115,
+                113,
+                153,
+                125
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                157,
+                113,
+                166,
+                125
+              ]
+            },
+            {
+              "text": "Marker,",
+              "bbox": [
+                170,
+                113,
+                205,
+                125
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                208,
+                113,
+                236,
+                125
+              ]
+            },
+            {
+              "text": "D15S124,",
+              "bbox": [
+                240,
+                113,
+                284,
+                125
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                288,
+                113,
+                327,
+                125
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                331,
+                113,
+                350,
+                125
+              ]
+            },
+            {
+              "text": "73092468,",
+              "bbox": [
+                353,
+                113,
+                400,
+                125
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                404,
+                113,
+                443,
+                125
+              ]
+            },
+            {
+              "text": "stop",
+              "bbox": [
+                447,
+                113,
+                465,
+                125
+              ]
+            },
+            {
+              "text": "73092572,",
+              "bbox": [
+                469,
+                113,
+                516,
+                125
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                519,
+                113,
+                535,
+                125
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                539,
+                113,
+                567,
+                125
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                113,
+                580,
+                125
+              ]
+            }
+          ]
+        },
+        {
+          "text": "104/106 for Patient, 106/106 for Mother, 104/106 for Father, with no associated disease. The third row details Patient 17 with",
+          "bbox": [
+            15,
+            128,
+            580,
+            140
+          ],
+          "words": [
+            {
+              "text": "104/106",
+              "bbox": [
+                15,
+                128,
+                51,
+                140
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                54,
+                128,
+                67,
+                140
+              ]
+            },
+            {
+              "text": "Patient,",
+              "bbox": [
+                71,
+                128,
+                104,
+                140
+              ]
+            },
+            {
+              "text": "106/106",
+              "bbox": [
+                107,
+                128,
+                144,
+                140
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                147,
+                128,
+                160,
+                140
+              ]
+            },
+            {
+              "text": "Mother,",
+              "bbox": [
+                163,
+                128,
+                198,
+                140
+              ]
+            },
+            {
+              "text": "104/106",
+              "bbox": [
+                201,
+                128,
+                237,
+                140
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                241,
+                128,
+                254,
+                140
+              ]
+            },
+            {
+              "text": "Father,",
+              "bbox": [
+                257,
+                128,
+                287,
+                140
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                291,
+                128,
+                310,
+                140
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                314,
+                128,
+                325,
+                140
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                328,
+                128,
+                373,
+                140
+              ]
+            },
+            {
+              "text": "disease.",
+              "bbox": [
+                377,
+                128,
+                411,
+                140
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                415,
+                128,
+                432,
+                140
+              ]
+            },
+            {
+              "text": "third",
+              "bbox": [
+                435,
+                128,
+                456,
+                140
+              ]
+            },
+            {
+              "text": "row",
+              "bbox": [
+                459,
+                128,
+                476,
+                140
+              ]
+            },
+            {
+              "text": "details",
+              "bbox": [
+                480,
+                128,
+                509,
+                140
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                512,
+                128,
+                543,
+                140
+              ]
+            },
+            {
+              "text": "17",
+              "bbox": [
+                546,
+                128,
+                557,
+                140
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                560,
+                128,
+                580,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Chromosome location 6q16.3, Marker D6S468, Location start 101630330, Location stop 101630479, and values of 155/159 for",
+          "bbox": [
+            15,
+            143,
+            580,
+            155
+          ],
+          "words": [
+            {
+              "text": "Chromosome",
+              "bbox": [
+                15,
+                143,
+                74,
+                155
+              ]
+            },
+            {
+              "text": "location",
+              "bbox": [
+                77,
+                143,
+                113,
+                155
+              ]
+            },
+            {
+              "text": "6q16.3,",
+              "bbox": [
+                116,
+                143,
+                149,
+                155
+              ]
+            },
+            {
+              "text": "Marker",
+              "bbox": [
+                152,
+                143,
+                184,
+                155
+              ]
+            },
+            {
+              "text": "D6S468,",
+              "bbox": [
+                187,
+                143,
+                226,
+                155
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                229,
+                143,
+                268,
+                155
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                271,
+                143,
+                290,
+                155
+              ]
+            },
+            {
+              "text": "101630330,",
+              "bbox": [
+                293,
+                143,
+                345,
+                155
+              ]
+            },
+            {
+              "text": "Location",
+              "bbox": [
+                348,
+                143,
+                387,
+                155
+              ]
+            },
+            {
+              "text": "stop",
+              "bbox": [
+                390,
+                143,
+                408,
+                155
+              ]
+            },
+            {
+              "text": "101630479,",
+              "bbox": [
+                411,
+                143,
+                463,
+                155
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                466,
+                143,
+                482,
+                155
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                485,
+                143,
+                513,
+                155
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                516,
+                143,
+                525,
+                155
+              ]
+            },
+            {
+              "text": "155/159",
+              "bbox": [
+                528,
+                143,
+                564,
+                155
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                143,
+                580,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Patient, 159/159 for Mother, 155/155 for Father, associated with MIM #611092, Mental retardation (GRIK2). The last rows",
+          "bbox": [
+            15,
+            159,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "Patient,",
+              "bbox": [
+                15,
+                159,
+                48,
+                171
+              ]
+            },
+            {
+              "text": "159/159",
+              "bbox": [
+                52,
+                159,
+                88,
+                171
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                93,
+                159,
+                105,
+                171
+              ]
+            },
+            {
+              "text": "Mother,",
+              "bbox": [
+                109,
+                159,
+                144,
+                171
+              ]
+            },
+            {
+              "text": "155/155",
+              "bbox": [
+                148,
+                159,
+                184,
+                171
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                188,
+                159,
+                201,
+                171
+              ]
+            },
+            {
+              "text": "Father,",
+              "bbox": [
+                205,
+                159,
+                236,
+                171
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                240,
+                159,
+                285,
+                171
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                289,
+                159,
+                309,
+                171
+              ]
+            },
+            {
+              "text": "MIM",
+              "bbox": [
+                313,
+                159,
+                336,
+                171
+              ]
+            },
+            {
+              "text": "#611092,",
+              "bbox": [
+                340,
+                159,
+                381,
+                171
+              ]
+            },
+            {
+              "text": "Mental",
+              "bbox": [
+                385,
+                159,
+                416,
+                171
+              ]
+            },
+            {
+              "text": "retardation",
+              "bbox": [
+                420,
+                159,
+                468,
+                171
+              ]
+            },
+            {
+              "text": "(GRIK2).",
+              "bbox": [
+                472,
+                159,
+                514,
+                171
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                518,
+                159,
+                535,
+                171
+              ]
+            },
+            {
+              "text": "last",
+              "bbox": [
+                539,
+                159,
+                555,
+                171
+              ]
+            },
+            {
+              "text": "rows",
+              "bbox": [
+                559,
+                159,
+                580,
+                171
+              ]
+            }
+          ]
+        },
+        {
+          "text": "include various markers with respective values and no associated diseases. In Table 2, the columns are Samples, Men, %,",
+          "bbox": [
+            15,
+            174,
+            580,
+            186
+          ],
+          "words": [
+            {
+              "text": "include",
+              "bbox": [
+                15,
+                174,
+                47,
+                186
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                52,
+                174,
+                84,
+                186
+              ]
+            },
+            {
+              "text": "markers",
+              "bbox": [
+                89,
+                174,
+                124,
+                186
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                129,
+                174,
+                148,
+                186
+              ]
+            },
+            {
+              "text": "respective",
+              "bbox": [
+                153,
+                174,
+                197,
+                186
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                202,
+                174,
+                230,
+                186
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                234,
+                174,
+                250,
+                186
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                255,
+                174,
+                266,
+                186
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                270,
+                174,
+                316,
+                186
+              ]
+            },
+            {
+              "text": "diseases.",
+              "bbox": [
+                320,
+                174,
+                359,
+                186
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                363,
+                174,
+                373,
+                186
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                377,
+                174,
+                401,
+                186
+              ]
+            },
+            {
+              "text": "2,",
+              "bbox": [
+                406,
+                174,
+                414,
+                186
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                418,
+                174,
+                432,
+                186
+              ]
+            },
+            {
+              "text": "columns",
+              "bbox": [
+                436,
+                174,
+                474,
+                186
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                478,
+                174,
+                492,
+                186
+              ]
+            },
+            {
+              "text": "Samples,",
+              "bbox": [
+                496,
+                174,
+                536,
+                186
+              ]
+            },
+            {
+              "text": "Men,",
+              "bbox": [
+                541,
+                174,
+                564,
+                186
+              ]
+            },
+            {
+              "text": "%,",
+              "bbox": [
+                568,
+                174,
+                580,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Women, and %. Cervix has 0 Men and 77 Women, Pharynx has 22 Men and 11 Women, Anus has 88 Men and 10 Women,",
+          "bbox": [
+            15,
+            190,
+            580,
+            202
+          ],
+          "words": [
+            {
+              "text": "Women,",
+              "bbox": [
+                15,
+                190,
+                52,
+                202
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                56,
+                190,
+                71,
+                202
+              ]
+            },
+            {
+              "text": "%.",
+              "bbox": [
+                75,
+                190,
+                87,
+                202
+              ]
+            },
+            {
+              "text": "Cervix",
+              "bbox": [
+                91,
+                190,
+                121,
+                202
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                125,
+                190,
+                140,
+                202
+              ]
+            },
+            {
+              "text": "0",
+              "bbox": [
+                144,
+                190,
+                149,
+                202
+              ]
+            },
+            {
+              "text": "Men",
+              "bbox": [
+                153,
+                190,
+                173,
+                202
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                177,
+                190,
+                193,
+                202
+              ]
+            },
+            {
+              "text": "77",
+              "bbox": [
+                197,
+                190,
+                208,
+                202
+              ]
+            },
+            {
+              "text": "Women,",
+              "bbox": [
+                211,
+                190,
+                248,
+                202
+              ]
+            },
+            {
+              "text": "Pharynx",
+              "bbox": [
+                252,
+                190,
+                289,
+                202
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                293,
+                190,
+                307,
+                202
+              ]
+            },
+            {
+              "text": "22",
+              "bbox": [
+                311,
+                190,
+                322,
+                202
+              ]
+            },
+            {
+              "text": "Men",
+              "bbox": [
+                326,
+                190,
+                346,
+                202
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                350,
+                190,
+                366,
+                202
+              ]
+            },
+            {
+              "text": "11",
+              "bbox": [
+                370,
+                190,
+                381,
+                202
+              ]
+            },
+            {
+              "text": "Women,",
+              "bbox": [
+                384,
+                190,
+                421,
+                202
+              ]
+            },
+            {
+              "text": "Anus",
+              "bbox": [
+                424,
+                190,
+                447,
+                202
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                451,
+                190,
+                466,
+                202
+              ]
+            },
+            {
+              "text": "88",
+              "bbox": [
+                470,
+                190,
+                481,
+                202
+              ]
+            },
+            {
+              "text": "Men",
+              "bbox": [
+                485,
+                190,
+                505,
+                202
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                509,
+                190,
+                525,
+                202
+              ]
+            },
+            {
+              "text": "10",
+              "bbox": [
+                529,
+                190,
+                540,
+                202
+              ]
+            },
+            {
+              "text": "Women,",
+              "bbox": [
+                543,
+                190,
+                580,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Urethra has 437 Men and 27 Women, Conjunctiva has 1 Man and 0 Women, totaling 548 Men and 125 Women, with",
+          "bbox": [
+            15,
+            205,
+            580,
+            217
+          ],
+          "words": [
+            {
+              "text": "Urethra",
+              "bbox": [
+                15,
+                205,
+                49,
+                217
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                54,
+                205,
+                69,
+                217
+              ]
+            },
+            {
+              "text": "437",
+              "bbox": [
+                74,
+                205,
+                90,
+                217
+              ]
+            },
+            {
+              "text": "Men",
+              "bbox": [
+                96,
+                205,
+                116,
+                217
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                121,
+                205,
+                137,
+                217
+              ]
+            },
+            {
+              "text": "27",
+              "bbox": [
+                142,
+                205,
+                153,
+                217
+              ]
+            },
+            {
+              "text": "Women,",
+              "bbox": [
+                158,
+                205,
+                195,
+                217
+              ]
+            },
+            {
+              "text": "Conjunctiva",
+              "bbox": [
+                200,
+                205,
+                254,
+                217
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                259,
+                205,
+                274,
+                217
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                279,
+                205,
+                285,
+                217
+              ]
+            },
+            {
+              "text": "Man",
+              "bbox": [
+                290,
+                205,
+                310,
+                217
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                316,
+                205,
+                332,
+                217
+              ]
+            },
+            {
+              "text": "0",
+              "bbox": [
+                337,
+                205,
+                342,
+                217
+              ]
+            },
+            {
+              "text": "Women,",
+              "bbox": [
+                347,
+                205,
+                384,
+                217
+              ]
+            },
+            {
+              "text": "totaling",
+              "bbox": [
+                389,
+                205,
+                423,
+                217
+              ]
+            },
+            {
+              "text": "548",
+              "bbox": [
+                428,
+                205,
+                445,
+                217
+              ]
+            },
+            {
+              "text": "Men",
+              "bbox": [
+                450,
+                205,
+                470,
+                217
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                476,
+                205,
+                492,
+                217
+              ]
+            },
+            {
+              "text": "125",
+              "bbox": [
+                497,
+                205,
+                513,
+                217
+              ]
+            },
+            {
+              "text": "Women,",
+              "bbox": [
+                518,
+                205,
+                555,
+                217
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                560,
+                205,
+                580,
+                217
+              ]
+            }
+          ]
+        },
+        {
+          "text": "percentages indicating their respective distributions.",
+          "bbox": [
+            15,
+            220,
+            244,
+            232
+          ],
+          "words": [
+            {
+              "text": "percentages",
+              "bbox": [
+                15,
+                220,
+                67,
+                232
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                70,
+                220,
+                114,
+                232
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                116,
+                220,
+                137,
+                232
+              ]
+            },
+            {
+              "text": "respective",
+              "bbox": [
+                139,
+                220,
+                184,
+                232
+              ]
+            },
+            {
+              "text": "distributions.",
+              "bbox": [
+                187,
+                220,
+                244,
+                232
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_049588_t0",
+      "bbox": [
+        15,
+        250,
+        580,
+        559
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            250,
+            580,
+            285
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            285,
+            580,
+            320
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            320,
+            580,
+            354
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            354,
+            580,
+            388
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            388,
+            580,
+            422
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            422,
+            580,
+            456
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            456,
+            580,
+            490
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            490,
+            580,
+            524
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            15,
+            524,
+            580,
+            558
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Patient</td><td>Chromosome location</td><td>Marker</td><td>Location start</td><td>Location stop</td><td>Patient</td><td>Mother</td><td>Father</td><td>Associated OMIMdisease(gene)</td></tr></thead><tbody><tr><td>1</td><td>15q23q24.1</td><td>D15S204</td><td>72300758</td><td>72300879</td><td>123/123</td><td>123/125</td><td>123/125</td><td>MIM #209900, Bardet-Biedl Syndrome (BBS4)</td></tr><tr><td></td><td></td><td>D15S124</td><td>73092468</td><td>73092572</td><td>104/106</td><td>106/106</td><td>104/106</td><td></td></tr><tr><td>17</td><td>6q16.3</td><td>D6S468</td><td>101630330</td><td>101630479</td><td>155/159</td><td>159/159</td><td>155/155</td><td>MIM #611092, Mental retardation (GRIK2)</td></tr><tr><td></td><td></td><td>D6S2418</td><td>101352425</td><td>101352639</td><td>222/230</td><td>222/248</td><td>230/238</td><td></td></tr><tr><td>32</td><td>11q13.4</td><td>DS11S4140</td><td>71945684</td><td>71945874</td><td>195/195</td><td>195/197</td><td>195/197</td><td>MIM #270400, Smith-Lemli-Opitz syndrome (DHCR7)</td></tr><tr><td>28</td><td>17p13.2p13.1</td><td>D17S578</td><td>6824007</td><td>6824153</td><td>173/173</td><td>173/173</td><td>155/173</td><td>MIM #201475, AcylCoA dehydrogenase deficiency (ACADVL)</td></tr><tr><td></td><td></td><td>D17S1832</td><td>5972677</td><td>5972867</td><td>173/185</td><td>173/185</td><td>171/173/185/193</td><td></td></tr><tr><td></td><td></td><td>D17S1828</td><td>3810467</td><td>3810673</td><td>220/220</td><td>214/220</td><td>214/220</td><td></td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Patient",
+          "bbox": [
+            15,
+            250,
+            47,
+            285
+          ],
+          "words": [
+            {
+              "text": "Patient",
+              "bbox": [
+                20,
+                255,
+                42,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Chromosome location",
+          "bbox": [
+            47,
+            250,
+            122,
+            285
+          ],
+          "words": [
+            {
+              "text": "Chromosome",
+              "bbox": [
+                52,
+                255,
+                109,
+                266
+              ]
+            },
+            {
+              "text": "location",
+              "bbox": [
+                52,
+                269,
+                86,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Marker",
+          "bbox": [
+            122,
+            250,
+            167,
+            285
+          ],
+          "words": [
+            {
+              "text": "Marker",
+              "bbox": [
+                127,
+                255,
+                160,
+                266
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Location start",
+          "bbox": [
+            167,
+            250,
+            219,
+            285
+          ],
+          "words": [
+            {
+              "text": "Location",
+              "bbox": [
+                172,
+                255,
+                210,
+                266
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                172,
+                269,
+                192,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Location stop",
+          "bbox": [
+            219,
+            250,
+            270,
+            285
+          ],
+          "words": [
+            {
+              "text": "Location",
+              "bbox": [
+                227,
+                255,
+                265,
+                266
+              ]
+            },
+            {
+              "text": "stop",
+              "bbox": [
+                247,
+                269,
+                265,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Patient",
+          "bbox": [
+            270,
+            250,
+            304,
+            285
+          ],
+          "words": [
+            {
+              "text": "Patient",
+              "bbox": [
+                277,
+                255,
+                299,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Mother",
+          "bbox": [
+            304,
+            250,
+            338,
+            285
+          ],
+          "words": [
+            {
+              "text": "Mother",
+              "bbox": [
+                310,
+                255,
+                333,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Father",
+          "bbox": [
+            338,
+            250,
+            396,
+            285
+          ],
+          "words": [
+            {
+              "text": "Father",
+              "bbox": [
+                362,
+                255,
+                391,
+                266
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Associated OMIMdisease(gene)",
+          "bbox": [
+            396,
+            250,
+            580,
+            285
+          ],
+          "words": [
+            {
+              "text": "Associated",
+              "bbox": [
+                440,
+                255,
+                486,
+                266
+              ]
+            },
+            {
+              "text": "OMIMdisease(gene)",
+              "bbox": [
+                488,
+                255,
+                575,
+                266
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            15,
+            285,
+            47,
+            320
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                20,
+                290,
+                25,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "15q23q24.1",
+          "bbox": [
+            47,
+            285,
+            122,
+            320
+          ],
+          "words": [
+            {
+              "text": "15q23q24.1",
+              "bbox": [
+                52,
+                290,
+                100,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "D15S204",
+          "bbox": [
+            122,
+            285,
+            167,
+            320
+          ],
+          "words": [
+            {
+              "text": "D15S204",
+              "bbox": [
+                127,
+                290,
+                160,
+                315
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "72300758",
+          "bbox": [
+            167,
+            285,
+            219,
+            320
+          ],
+          "words": [
+            {
+              "text": "72300758",
+              "bbox": [
+                172,
+                290,
+                212,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "72300879",
+          "bbox": [
+            219,
+            285,
+            270,
+            320
+          ],
+          "words": [
+            {
+              "text": "72300879",
+              "bbox": [
+                225,
+                290,
+                265,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "123/123",
+          "bbox": [
+            270,
+            285,
+            304,
+            320
+          ],
+          "words": [
+            {
+              "text": "123/123",
+              "bbox": [
+                276,
+                290,
+                299,
+                315
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "123/125",
+          "bbox": [
+            304,
+            285,
+            338,
+            320
+          ],
+          "words": [
+            {
+              "text": "123/125",
+              "bbox": [
+                311,
+                290,
+                333,
+                315
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "123/125",
+          "bbox": [
+            338,
+            285,
+            396,
+            320
+          ],
+          "words": [
+            {
+              "text": "123/125",
+              "bbox": [
+                358,
+                290,
+                391,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "MIM #209900, Bardet-Biedl Syndrome (BBS4)",
+          "bbox": [
+            396,
+            285,
+            580,
+            320
+          ],
+          "words": [
+            {
+              "text": "MIM",
+              "bbox": [
+                416,
+                290,
+                437,
+                301
+              ]
+            },
+            {
+              "text": "#209900,",
+              "bbox": [
+                440,
+                290,
+                477,
+                301
+              ]
+            },
+            {
+              "text": "Bardet-Biedl",
+              "bbox": [
+                480,
+                290,
+                531,
+                301
+              ]
+            },
+            {
+              "text": "Syndrome",
+              "bbox": [
+                534,
+                290,
+                575,
+                301
+              ]
+            },
+            {
+              "text": "(BBS4)",
+              "bbox": [
+                544,
+                304,
+                575,
+                315
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            320,
+            47,
+            354
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            47,
+            320,
+            122,
+            354
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "D15S124",
+          "bbox": [
+            122,
+            320,
+            167,
+            354
+          ],
+          "words": [
+            {
+              "text": "D15S124",
+              "bbox": [
+                127,
+                324,
+                160,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "73092468",
+          "bbox": [
+            167,
+            320,
+            219,
+            354
+          ],
+          "words": [
+            {
+              "text": "73092468",
+              "bbox": [
+                172,
+                324,
+                212,
+                335
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "73092572",
+          "bbox": [
+            219,
+            320,
+            270,
+            354
+          ],
+          "words": [
+            {
+              "text": "73092572",
+              "bbox": [
+                225,
+                324,
+                265,
+                335
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "104/106",
+          "bbox": [
+            270,
+            320,
+            304,
+            354
+          ],
+          "words": [
+            {
+              "text": "104/106",
+              "bbox": [
+                276,
+                324,
+                299,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "106/106",
+          "bbox": [
+            304,
+            320,
+            338,
+            354
+          ],
+          "words": [
+            {
+              "text": "106/106",
+              "bbox": [
+                311,
+                324,
+                333,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "104/106",
+          "bbox": [
+            338,
+            320,
+            396,
+            354
+          ],
+          "words": [
+            {
+              "text": "104/106",
+              "bbox": [
+                358,
+                324,
+                391,
+                335
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            396,
+            320,
+            580,
+            354
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "17",
+          "bbox": [
+            15,
+            354,
+            47,
+            388
+          ],
+          "words": [
+            {
+              "text": "17",
+              "bbox": [
+                20,
+                358,
+                30,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6q16.3",
+          "bbox": [
+            47,
+            354,
+            122,
+            388
+          ],
+          "words": [
+            {
+              "text": "6q16.3",
+              "bbox": [
+                52,
+                358,
+                80,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "D6S468",
+          "bbox": [
+            122,
+            354,
+            167,
+            388
+          ],
+          "words": [
+            {
+              "text": "D6S468",
+              "bbox": [
+                127,
+                358,
+                160,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "101630330",
+          "bbox": [
+            167,
+            354,
+            219,
+            388
+          ],
+          "words": [
+            {
+              "text": "101630330",
+              "bbox": [
+                172,
+                358,
+                212,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "101630479",
+          "bbox": [
+            219,
+            354,
+            270,
+            388
+          ],
+          "words": [
+            {
+              "text": "101630479",
+              "bbox": [
+                225,
+                358,
+                265,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "155/159",
+          "bbox": [
+            270,
+            354,
+            304,
+            388
+          ],
+          "words": [
+            {
+              "text": "155/159",
+              "bbox": [
+                276,
+                358,
+                299,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "159/159",
+          "bbox": [
+            304,
+            354,
+            338,
+            388
+          ],
+          "words": [
+            {
+              "text": "159/159",
+              "bbox": [
+                311,
+                358,
+                333,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "155/155",
+          "bbox": [
+            338,
+            354,
+            396,
+            388
+          ],
+          "words": [
+            {
+              "text": "155/155",
+              "bbox": [
+                358,
+                358,
+                391,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "MIM #611092, Mental retardation (GRIK2)",
+          "bbox": [
+            396,
+            354,
+            580,
+            388
+          ],
+          "words": [
+            {
+              "text": "MIM",
+              "bbox": [
+                438,
+                358,
+                459,
+                369
+              ]
+            },
+            {
+              "text": "#611092,",
+              "bbox": [
+                461,
+                358,
+                498,
+                369
+              ]
+            },
+            {
+              "text": "Mental",
+              "bbox": [
+                501,
+                358,
+                529,
+                369
+              ]
+            },
+            {
+              "text": "retardation",
+              "bbox": [
+                532,
+                358,
+                575,
+                369
+              ]
+            },
+            {
+              "text": "(GRIK2)",
+              "bbox": [
+                539,
+                372,
+                575,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            388,
+            47,
+            422
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            47,
+            388,
+            122,
+            422
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "D6S2418",
+          "bbox": [
+            122,
+            388,
+            167,
+            422
+          ],
+          "words": [
+            {
+              "text": "D6S2418",
+              "bbox": [
+                127,
+                392,
+                160,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "101352425",
+          "bbox": [
+            167,
+            388,
+            219,
+            422
+          ],
+          "words": [
+            {
+              "text": "101352425",
+              "bbox": [
+                172,
+                392,
+                212,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "101352639",
+          "bbox": [
+            219,
+            388,
+            270,
+            422
+          ],
+          "words": [
+            {
+              "text": "101352639",
+              "bbox": [
+                225,
+                392,
+                265,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "222/230",
+          "bbox": [
+            270,
+            388,
+            304,
+            422
+          ],
+          "words": [
+            {
+              "text": "222/230",
+              "bbox": [
+                276,
+                392,
+                299,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "222/248",
+          "bbox": [
+            304,
+            388,
+            338,
+            422
+          ],
+          "words": [
+            {
+              "text": "222/248",
+              "bbox": [
+                311,
+                392,
+                333,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "230/238",
+          "bbox": [
+            338,
+            388,
+            396,
+            422
+          ],
+          "words": [
+            {
+              "text": "230/238",
+              "bbox": [
+                358,
+                392,
+                391,
+                403
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            396,
+            388,
+            580,
+            422
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "32",
+          "bbox": [
+            15,
+            422,
+            47,
+            456
+          ],
+          "words": [
+            {
+              "text": "32",
+              "bbox": [
+                20,
+                426,
+                30,
+                437
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "11q13.4",
+          "bbox": [
+            47,
+            422,
+            122,
+            456
+          ],
+          "words": [
+            {
+              "text": "11q13.4",
+              "bbox": [
+                52,
+                426,
+                84,
+                437
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "DS11S4140",
+          "bbox": [
+            122,
+            422,
+            167,
+            456
+          ],
+          "words": [
+            {
+              "text": "DS11S4140",
+              "bbox": [
+                127,
+                426,
+                160,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "71945684",
+          "bbox": [
+            167,
+            422,
+            219,
+            456
+          ],
+          "words": [
+            {
+              "text": "71945684",
+              "bbox": [
+                172,
+                426,
+                212,
+                437
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "71945874",
+          "bbox": [
+            219,
+            422,
+            270,
+            456
+          ],
+          "words": [
+            {
+              "text": "71945874",
+              "bbox": [
+                225,
+                426,
+                265,
+                437
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "195/195",
+          "bbox": [
+            270,
+            422,
+            304,
+            456
+          ],
+          "words": [
+            {
+              "text": "195/195",
+              "bbox": [
+                276,
+                426,
+                299,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "195/197",
+          "bbox": [
+            304,
+            422,
+            338,
+            456
+          ],
+          "words": [
+            {
+              "text": "195/197",
+              "bbox": [
+                311,
+                426,
+                333,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "195/197",
+          "bbox": [
+            338,
+            422,
+            396,
+            456
+          ],
+          "words": [
+            {
+              "text": "195/197",
+              "bbox": [
+                358,
+                426,
+                391,
+                437
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "MIM #270400, Smith-Lemli-Opitz syndrome (DHCR7)",
+          "bbox": [
+            396,
+            422,
+            580,
+            456
+          ],
+          "words": [
+            {
+              "text": "MIM",
+              "bbox": [
+                435,
+                426,
+                456,
+                437
+              ]
+            },
+            {
+              "text": "#270400,",
+              "bbox": [
+                458,
+                426,
+                496,
+                437
+              ]
+            },
+            {
+              "text": "Smith-Lemli-Opitz",
+              "bbox": [
+                498,
+                426,
+                575,
+                437
+              ]
+            },
+            {
+              "text": "syndrome",
+              "bbox": [
+                494,
+                440,
+                533,
+                451
+              ]
+            },
+            {
+              "text": "(DHCR7)",
+              "bbox": [
+                536,
+                440,
+                575,
+                451
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "28",
+          "bbox": [
+            15,
+            456,
+            47,
+            490
+          ],
+          "words": [
+            {
+              "text": "28",
+              "bbox": [
+                20,
+                460,
+                30,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "17p13.2p13.1",
+          "bbox": [
+            47,
+            456,
+            122,
+            490
+          ],
+          "words": [
+            {
+              "text": "17p13.2p13.1",
+              "bbox": [
+                52,
+                460,
+                107,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "D17S578",
+          "bbox": [
+            122,
+            456,
+            167,
+            490
+          ],
+          "words": [
+            {
+              "text": "D17S578",
+              "bbox": [
+                127,
+                460,
+                160,
+                485
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6824007",
+          "bbox": [
+            167,
+            456,
+            219,
+            490
+          ],
+          "words": [
+            {
+              "text": "6824007",
+              "bbox": [
+                172,
+                460,
+                207,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "6824153",
+          "bbox": [
+            219,
+            456,
+            270,
+            490
+          ],
+          "words": [
+            {
+              "text": "6824153",
+              "bbox": [
+                230,
+                460,
+                265,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "173/173",
+          "bbox": [
+            270,
+            456,
+            304,
+            490
+          ],
+          "words": [
+            {
+              "text": "173/173",
+              "bbox": [
+                276,
+                460,
+                299,
+                485
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "173/173",
+          "bbox": [
+            304,
+            456,
+            338,
+            490
+          ],
+          "words": [
+            {
+              "text": "173/173",
+              "bbox": [
+                311,
+                460,
+                333,
+                485
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "155/173",
+          "bbox": [
+            338,
+            456,
+            396,
+            490
+          ],
+          "words": [
+            {
+              "text": "155/173",
+              "bbox": [
+                358,
+                460,
+                391,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "MIM #201475, AcylCoA dehydrogenase deficiency (ACADVL)",
+          "bbox": [
+            396,
+            456,
+            580,
+            490
+          ],
+          "words": [
+            {
+              "text": "MIM",
+              "bbox": [
+                412,
+                460,
+                433,
+                471
+              ]
+            },
+            {
+              "text": "#201475,",
+              "bbox": [
+                435,
+                460,
+                473,
+                471
+              ]
+            },
+            {
+              "text": "AcylCoA",
+              "bbox": [
+                475,
+                460,
+                513,
+                471
+              ]
+            },
+            {
+              "text": "dehydrogenase",
+              "bbox": [
+                515,
+                460,
+                575,
+                471
+              ]
+            },
+            {
+              "text": "deficiency",
+              "bbox": [
+                483,
+                474,
+                524,
+                485
+              ]
+            },
+            {
+              "text": "(ACADVL)",
+              "bbox": [
+                527,
+                474,
+                575,
+                485
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            490,
+            47,
+            524
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            47,
+            490,
+            122,
+            524
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "D17S1832",
+          "bbox": [
+            122,
+            490,
+            167,
+            524
+          ],
+          "words": [
+            {
+              "text": "D17S1832",
+              "bbox": [
+                127,
+                494,
+                160,
+                519
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5972677",
+          "bbox": [
+            167,
+            490,
+            219,
+            524
+          ],
+          "words": [
+            {
+              "text": "5972677",
+              "bbox": [
+                172,
+                494,
+                207,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5972867",
+          "bbox": [
+            219,
+            490,
+            270,
+            524
+          ],
+          "words": [
+            {
+              "text": "5972867",
+              "bbox": [
+                230,
+                494,
+                265,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "173/185",
+          "bbox": [
+            270,
+            490,
+            304,
+            524
+          ],
+          "words": [
+            {
+              "text": "173/185",
+              "bbox": [
+                276,
+                494,
+                299,
+                519
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "173/185",
+          "bbox": [
+            304,
+            490,
+            338,
+            524
+          ],
+          "words": [
+            {
+              "text": "173/185",
+              "bbox": [
+                311,
+                494,
+                333,
+                519
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "171/173/185/193",
+          "bbox": [
+            338,
+            490,
+            396,
+            524
+          ],
+          "words": [
+            {
+              "text": "171/173/185/193",
+              "bbox": [
+                345,
+                494,
+                391,
+                519
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 71,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            396,
+            490,
+            580,
+            524
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 72,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            524,
+            47,
+            558
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 73,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            47,
+            524,
+            122,
+            558
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 74,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "D17S1828",
+          "bbox": [
+            122,
+            524,
+            167,
+            558
+          ],
+          "words": [
+            {
+              "text": "D17S1828",
+              "bbox": [
+                127,
+                528,
+                160,
+                553
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 75,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3810467",
+          "bbox": [
+            167,
+            524,
+            219,
+            558
+          ],
+          "words": [
+            {
+              "text": "3810467",
+              "bbox": [
+                172,
+                528,
+                207,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 76,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3810673",
+          "bbox": [
+            219,
+            524,
+            270,
+            558
+          ],
+          "words": [
+            {
+              "text": "3810673",
+              "bbox": [
+                230,
+                528,
+                265,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 77,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "220/220",
+          "bbox": [
+            270,
+            524,
+            304,
+            558
+          ],
+          "words": [
+            {
+              "text": "220/220",
+              "bbox": [
+                276,
+                528,
+                299,
+                553
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 78,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "214/220",
+          "bbox": [
+            304,
+            524,
+            338,
+            558
+          ],
+          "words": [
+            {
+              "text": "214/220",
+              "bbox": [
+                311,
+                528,
+                333,
+                553
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 79,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "214/220",
+          "bbox": [
+            338,
+            524,
+            396,
+            558
+          ],
+          "words": [
+            {
+              "text": "214/220",
+              "bbox": [
+                358,
+                528,
+                391,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 80,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            396,
+            524,
+            580,
+            558
+          ],
+          "words": []
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_049588_t1",
+      "bbox": [
+        15,
+        574,
+        580,
+        721
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            574,
+            580,
+            595
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            595,
+            580,
+            616
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            616,
+            580,
+            637
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            637,
+            580,
+            658
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            658,
+            580,
+            679
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            679,
+            580,
+            700
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            700,
+            580,
+            721
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Samples</td><td>Men</td><td>%</td><td>Women</td><td>%</td></tr></thead><tbody><tr><td>Cervix</td><td>0</td><td>0</td><td>77</td><td>61.6</td></tr><tr><td>Pharynx</td><td>22</td><td>4.0</td><td>11</td><td>8.8</td></tr><tr><td>Anus</td><td>88</td><td>16.1</td><td>10</td><td>8.0</td></tr><tr><td>Urethra</td><td>437</td><td>79.7</td><td>27</td><td>21.6</td></tr><tr><td>Conjunctiva</td><td>1</td><td>0.2</td><td>0</td><td>0</td></tr><tr><td>Total</td><td>548</td><td>100</td><td>125</td><td>100</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Samples",
+          "bbox": [
+            16,
+            574,
+            192,
+            595
+          ],
+          "words": [
+            {
+              "text": "Samples",
+              "bbox": [
+                21,
+                579,
+                57,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Men",
+          "bbox": [
+            192,
+            574,
+            283,
+            595
+          ],
+          "words": [
+            {
+              "text": "Men",
+              "bbox": [
+                198,
+                579,
+                217,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "%",
+          "bbox": [
+            283,
+            574,
+            366,
+            595
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                350,
+                579,
+                360,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Women",
+          "bbox": [
+            366,
+            574,
+            497,
+            595
+          ],
+          "words": [
+            {
+              "text": "Women",
+              "bbox": [
+                459,
+                579,
+                492,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "%",
+          "bbox": [
+            497,
+            574,
+            580,
+            595
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                564,
+                579,
+                574,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Cervix",
+          "bbox": [
+            16,
+            595,
+            192,
+            616
+          ],
+          "words": [
+            {
+              "text": "Cervix",
+              "bbox": [
+                21,
+                600,
+                48,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            192,
+            595,
+            283,
+            616
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                197,
+                600,
+                202,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            283,
+            595,
+            366,
+            616
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                356,
+                600,
+                361,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "77",
+          "bbox": [
+            366,
+            595,
+            497,
+            616
+          ],
+          "words": [
+            {
+              "text": "77",
+              "bbox": [
+                482,
+                600,
+                492,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "61.6",
+          "bbox": [
+            497,
+            595,
+            580,
+            616
+          ],
+          "words": [
+            {
+              "text": "61.6",
+              "bbox": [
+                557,
+                600,
+                575,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Pharynx",
+          "bbox": [
+            16,
+            616,
+            192,
+            637
+          ],
+          "words": [
+            {
+              "text": "Pharynx",
+              "bbox": [
+                21,
+                621,
+                54,
+                632
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "22",
+          "bbox": [
+            192,
+            616,
+            283,
+            637
+          ],
+          "words": [
+            {
+              "text": "22",
+              "bbox": [
+                197,
+                621,
+                207,
+                632
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4.0",
+          "bbox": [
+            283,
+            616,
+            366,
+            637
+          ],
+          "words": [
+            {
+              "text": "4.0",
+              "bbox": [
+                348,
+                621,
+                361,
+                632
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "11",
+          "bbox": [
+            366,
+            616,
+            497,
+            637
+          ],
+          "words": [
+            {
+              "text": "11",
+              "bbox": [
+                482,
+                621,
+                492,
+                632
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "8.8",
+          "bbox": [
+            497,
+            616,
+            580,
+            637
+          ],
+          "words": [
+            {
+              "text": "8.8",
+              "bbox": [
+                562,
+                621,
+                575,
+                632
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Anus",
+          "bbox": [
+            16,
+            637,
+            192,
+            658
+          ],
+          "words": [
+            {
+              "text": "Anus",
+              "bbox": [
+                21,
+                642,
+                42,
+                653
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "88",
+          "bbox": [
+            192,
+            637,
+            283,
+            658
+          ],
+          "words": [
+            {
+              "text": "88",
+              "bbox": [
+                197,
+                642,
+                207,
+                653
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "16.1",
+          "bbox": [
+            283,
+            637,
+            366,
+            658
+          ],
+          "words": [
+            {
+              "text": "16.1",
+              "bbox": [
+                343,
+                642,
+                361,
+                653
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            366,
+            637,
+            497,
+            658
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                482,
+                642,
+                492,
+                653
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "8.0",
+          "bbox": [
+            497,
+            637,
+            580,
+            658
+          ],
+          "words": [
+            {
+              "text": "8.0",
+              "bbox": [
+                562,
+                642,
+                575,
+                653
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Urethra",
+          "bbox": [
+            16,
+            658,
+            192,
+            679
+          ],
+          "words": [
+            {
+              "text": "Urethra",
+              "bbox": [
+                21,
+                663,
+                51,
+                674
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "437",
+          "bbox": [
+            192,
+            658,
+            283,
+            679
+          ],
+          "words": [
+            {
+              "text": "437",
+              "bbox": [
+                197,
+                663,
+                212,
+                674
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "79.7",
+          "bbox": [
+            283,
+            658,
+            366,
+            679
+          ],
+          "words": [
+            {
+              "text": "79.7",
+              "bbox": [
+                343,
+                663,
+                361,
+                674
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "27",
+          "bbox": [
+            366,
+            658,
+            497,
+            679
+          ],
+          "words": [
+            {
+              "text": "27",
+              "bbox": [
+                482,
+                663,
+                492,
+                674
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "21.6",
+          "bbox": [
+            497,
+            658,
+            580,
+            679
+          ],
+          "words": [
+            {
+              "text": "21.6",
+              "bbox": [
+                557,
+                663,
+                575,
+                674
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Conjunctiva",
+          "bbox": [
+            16,
+            679,
+            192,
+            700
+          ],
+          "words": [
+            {
+              "text": "Conjunctiva",
+              "bbox": [
+                21,
+                684,
+                69,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            192,
+            679,
+            283,
+            700
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                197,
+                684,
+                202,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.2",
+          "bbox": [
+            283,
+            679,
+            366,
+            700
+          ],
+          "words": [
+            {
+              "text": "0.2",
+              "bbox": [
+                348,
+                684,
+                361,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            366,
+            679,
+            497,
+            700
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                487,
+                684,
+                492,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0",
+          "bbox": [
+            497,
+            679,
+            580,
+            700
+          ],
+          "words": [
+            {
+              "text": "0",
+              "bbox": [
+                570,
+                684,
+                575,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            16,
+            700,
+            192,
+            721
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                21,
+                705,
+                41,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "548",
+          "bbox": [
+            192,
+            700,
+            283,
+            721
+          ],
+          "words": [
+            {
+              "text": "548",
+              "bbox": [
+                197,
+                705,
+                212,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "100",
+          "bbox": [
+            283,
+            700,
+            366,
+            721
+          ],
+          "words": [
+            {
+              "text": "100",
+              "bbox": [
+                346,
+                705,
+                361,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "125",
+          "bbox": [
+            366,
+            700,
+            497,
+            721
+          ],
+          "words": [
+            {
+              "text": "125",
+              "bbox": [
+                477,
+                705,
+                492,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "100",
+          "bbox": [
+            497,
+            700,
+            580,
+            721
+          ],
+          "words": [
+            {
+              "text": "100",
+              "bbox": [
+                560,
+                705,
+                575,
+                716
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6539 @@
+{
+  "image_id": "img_190720",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_190720_t0",
+      "bbox": [
+        13,
+        55,
+        494,
+        281
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            55,
+            494,
+            72
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            72,
+            494,
+            89
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            89,
+            494,
+            130
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            130,
+            494,
+            160
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            160,
+            494,
+            189
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            189,
+            494,
+            218
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            13,
+            218,
+            494,
+            235
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            13,
+            235,
+            494,
+            264
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            13,
+            264,
+            494,
+            281
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>EducationSpending</td><td>FiscalYear2024</td></tr><tr><td colspan=\"2\">PublicFunding</td><td colspan=\"2\">PrivateFunding</td></tr><tr><td>Amount($M)</td><td colspan=\"3\">YoYChange(%)</td><td>MarketShare(%)</td><td colspan=\"2\">GrowthRate(%)</td></tr><tr><td>PrimaryEducation</td><td>$450M</td><td>5.0</td><td>60.0</td><td>$270M</td><td>4.5</td><td>40.0</td></tr><tr><td>SecondaryEducation</td><td>$300M</td><td>3.5</td><td>50.0</td><td>$200M</td><td>2.0</td><td>30.0</td></tr><tr><td>HigherEducation</td><td>$600M</td><td>6.0</td><td>70.0</td><td>$250M</td><td>5.5</td><td>30.0</td></tr><tr><td>VocationalTraining</td><td>$150M</td><td>4.0</td><td>25.0</td><td>$50M</td><td>3.0</td><td>10.0</td></tr><tr><td>TotalFunding</td><td>$1,500M</td><td>4.5</td><td>100.0</td><td>$770M</td><td>4.0</td><td>50.0</td></tr><tr><td>ProjectedGrowth</td><td>2025</td><td>7.0</td><td>8.0</td><td>3.0</td><td>4.5</td><td>5.0</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "EducationSpending",
+          "bbox": [
+            13,
+            55,
+            110,
+            72
+          ],
+          "words": [
+            {
+              "text": "EducationSpending",
+              "bbox": [
+                17,
+                59,
+                88,
+                68
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "FiscalYear2024",
+          "bbox": [
+            110,
+            55,
+            207,
+            72
+          ],
+          "words": [
+            {
+              "text": "FiscalYear2024",
+              "bbox": [
+                114,
+                59,
+                170,
+                68
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "PublicFunding",
+          "bbox": [
+            13,
+            72,
+            207,
+            89
+          ],
+          "words": [
+            {
+              "text": "PublicFunding",
+              "bbox": [
+                17,
+                76,
+                71,
+                85
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "PrivateFunding",
+          "bbox": [
+            207,
+            72,
+            401,
+            89
+          ],
+          "words": [
+            {
+              "text": "PrivateFunding",
+              "bbox": [
+                211,
+                76,
+                269,
+                85
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Amount($M)",
+          "bbox": [
+            13,
+            89,
+            110,
+            130
+          ],
+          "words": [
+            {
+              "text": "Amount($M)",
+              "bbox": [
+                17,
+                93,
+                65,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            110,
+            89,
+            401,
+            130
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                114,
+                93,
+                172,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            401,
+            89,
+            432,
+            130
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                406,
+                93,
+                427,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate(%)",
+          "bbox": [
+            432,
+            89,
+            494,
+            130
+          ],
+          "words": [
+            {
+              "text": "GrowthRate(%)",
+              "bbox": [
+                441,
+                93,
+                490,
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "PrimaryEducation",
+          "bbox": [
+            13,
+            130,
+            110,
+            160
+          ],
+          "words": [
+            {
+              "text": "PrimaryEducation",
+              "bbox": [
+                17,
+                134,
+                85,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "$450M",
+          "bbox": [
+            110,
+            130,
+            207,
+            160
+          ],
+          "words": [
+            {
+              "text": "$450M",
+              "bbox": [
+                114,
+                134,
+                139,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "5.0",
+          "bbox": [
+            207,
+            130,
+            304,
+            160
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                211,
+                134,
+                222,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "60.0",
+          "bbox": [
+            304,
+            130,
+            401,
+            160
+          ],
+          "words": [
+            {
+              "text": "60.0",
+              "bbox": [
+                382,
+                134,
+                397,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "$270M",
+          "bbox": [
+            401,
+            130,
+            432,
+            160
+          ],
+          "words": [
+            {
+              "text": "$270M",
+              "bbox": [
+                406,
+                134,
+                423,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "4.5",
+          "bbox": [
+            432,
+            130,
+            463,
+            160
+          ],
+          "words": [
+            {
+              "text": "4.5",
+              "bbox": [
+                448,
+                134,
+                459,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "40.0",
+          "bbox": [
+            463,
+            130,
+            494,
+            160
+          ],
+          "words": [
+            {
+              "text": "40.0",
+              "bbox": [
+                475,
+                134,
+                490,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SecondaryEducation",
+          "bbox": [
+            13,
+            160,
+            110,
+            189
+          ],
+          "words": [
+            {
+              "text": "SecondaryEducation",
+              "bbox": [
+                17,
+                163,
+                87,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$300M",
+          "bbox": [
+            110,
+            160,
+            207,
+            189
+          ],
+          "words": [
+            {
+              "text": "$300M",
+              "bbox": [
+                114,
+                163,
+                139,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "3.5",
+          "bbox": [
+            207,
+            160,
+            304,
+            189
+          ],
+          "words": [
+            {
+              "text": "3.5",
+              "bbox": [
+                211,
+                163,
+                222,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "50.0",
+          "bbox": [
+            304,
+            160,
+            401,
+            189
+          ],
+          "words": [
+            {
+              "text": "50.0",
+              "bbox": [
+                382,
+                163,
+                397,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$200M",
+          "bbox": [
+            401,
+            160,
+            432,
+            189
+          ],
+          "words": [
+            {
+              "text": "$200M",
+              "bbox": [
+                406,
+                163,
+                423,
+                185
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            432,
+            160,
+            463,
+            189
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                448,
+                163,
+                459,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            463,
+            160,
+            494,
+            189
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                475,
+                163,
+                490,
+                173
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HigherEducation",
+          "bbox": [
+            13,
+            189,
+            110,
+            218
+          ],
+          "words": [
+            {
+              "text": "HigherEducation",
+              "bbox": [
+                17,
+                192,
+                75,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$600M",
+          "bbox": [
+            110,
+            189,
+            207,
+            218
+          ],
+          "words": [
+            {
+              "text": "$600M",
+              "bbox": [
+                114,
+                192,
+                139,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "6.0",
+          "bbox": [
+            207,
+            189,
+            304,
+            218
+          ],
+          "words": [
+            {
+              "text": "6.0",
+              "bbox": [
+                211,
+                192,
+                222,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "70.0",
+          "bbox": [
+            304,
+            189,
+            401,
+            218
+          ],
+          "words": [
+            {
+              "text": "70.0",
+              "bbox": [
+                382,
+                192,
+                397,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$250M",
+          "bbox": [
+            401,
+            189,
+            432,
+            218
+          ],
+          "words": [
+            {
+              "text": "$250M",
+              "bbox": [
+                406,
+                192,
+                423,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5.5",
+          "bbox": [
+            432,
+            189,
+            463,
+            218
+          ],
+          "words": [
+            {
+              "text": "5.5",
+              "bbox": [
+                448,
+                192,
+                459,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "30.0",
+          "bbox": [
+            463,
+            189,
+            494,
+            218
+          ],
+          "words": [
+            {
+              "text": "30.0",
+              "bbox": [
+                475,
+                192,
+                490,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "VocationalTraining",
+          "bbox": [
+            13,
+            218,
+            110,
+            235
+          ],
+          "words": [
+            {
+              "text": "VocationalTraining",
+              "bbox": [
+                17,
+                221,
+                82,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$150M",
+          "bbox": [
+            110,
+            218,
+            207,
+            235
+          ],
+          "words": [
+            {
+              "text": "$150M",
+              "bbox": [
+                114,
+                221,
+                139,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4.0",
+          "bbox": [
+            207,
+            218,
+            304,
+            235
+          ],
+          "words": [
+            {
+              "text": "4.0",
+              "bbox": [
+                211,
+                221,
+                222,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            304,
+            218,
+            401,
+            235
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                382,
+                221,
+                397,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$50M",
+          "bbox": [
+            401,
+            218,
+            432,
+            235
+          ],
+          "words": [
+            {
+              "text": "$50M",
+              "bbox": [
+                406,
+                221,
+                426,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0",
+          "bbox": [
+            432,
+            218,
+            463,
+            235
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                448,
+                221,
+                459,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            463,
+            218,
+            494,
+            235
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                475,
+                221,
+                490,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalFunding",
+          "bbox": [
+            13,
+            235,
+            110,
+            264
+          ],
+          "words": [
+            {
+              "text": "TotalFunding",
+              "bbox": [
+                17,
+                238,
+                63,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$1,500M",
+          "bbox": [
+            110,
+            235,
+            207,
+            264
+          ],
+          "words": [
+            {
+              "text": "$1,500M",
+              "bbox": [
+                114,
+                238,
+                145,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4.5",
+          "bbox": [
+            207,
+            235,
+            304,
+            264
+          ],
+          "words": [
+            {
+              "text": "4.5",
+              "bbox": [
+                211,
+                238,
+                222,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "100.0",
+          "bbox": [
+            304,
+            235,
+            401,
+            264
+          ],
+          "words": [
+            {
+              "text": "100.0",
+              "bbox": [
+                378,
+                238,
+                397,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$770M",
+          "bbox": [
+            401,
+            235,
+            432,
+            264
+          ],
+          "words": [
+            {
+              "text": "$770M",
+              "bbox": [
+                406,
+                238,
+                423,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "4.0",
+          "bbox": [
+            432,
+            235,
+            463,
+            264
+          ],
+          "words": [
+            {
+              "text": "4.0",
+              "bbox": [
+                448,
+                238,
+                459,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "50.0",
+          "bbox": [
+            463,
+            235,
+            494,
+            264
+          ],
+          "words": [
+            {
+              "text": "50.0",
+              "bbox": [
+                475,
+                238,
+                490,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProjectedGrowth",
+          "bbox": [
+            13,
+            264,
+            110,
+            281
+          ],
+          "words": [
+            {
+              "text": "ProjectedGrowth",
+              "bbox": [
+                17,
+                267,
+                75,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2025",
+          "bbox": [
+            110,
+            264,
+            207,
+            281
+          ],
+          "words": [
+            {
+              "text": "2025",
+              "bbox": [
+                114,
+                267,
+                131,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "7.0",
+          "bbox": [
+            207,
+            264,
+            304,
+            281
+          ],
+          "words": [
+            {
+              "text": "7.0",
+              "bbox": [
+                211,
+                267,
+                222,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "8.0",
+          "bbox": [
+            304,
+            264,
+            401,
+            281
+          ],
+          "words": [
+            {
+              "text": "8.0",
+              "bbox": [
+                387,
+                267,
+                397,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.0",
+          "bbox": [
+            401,
+            264,
+            432,
+            281
+          ],
+          "words": [
+            {
+              "text": "3.0",
+              "bbox": [
+                406,
+                267,
+                416,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "4.5",
+          "bbox": [
+            432,
+            264,
+            463,
+            281
+          ],
+          "words": [
+            {
+              "text": "4.5",
+              "bbox": [
+                448,
+                267,
+                459,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            463,
+            264,
+            494,
+            281
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                479,
+                267,
+                490,
+                277
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        294,
+        494,
+        412
+      ],
+      "content": "In the Fiscal Year 2024, the Education Spending table reveals that Primary Education receives $450M in public funding with a 5.0% YoY change and a 60.0% market share, while private funding amounts to $270M, reflecting a 4.5% YoY change and a 40.0% market share. Secondary Education allocates $300M publicly with a 3.5% increase and 50.0% market share, alongside $200M in private funding, exhibiting a 2.0% change and 30.0% market share. Higher Education sees $600M in public funding growing by 6.0% and capturing a 70.0% market share, with private contributions of $250M, showing a 5.5% increase and 30.0% market share. Vocational Training receives $150M publicly, with a 4.0% change and 25.0% market share, while private funding totals $50M, reflecting a 3.0% change and 10.0% market share. The total funding stands at $1,500M, with a 4.5% YoY change and 100.0% market share, consisting of $770M public and $730M private funding, and a projected growth of 7.0% in 2025.",
+      "lines": [
+        {
+          "text": "In the Fiscal Year 2024, the Education Spending table reveals that Primary Education receives $450M in public funding with a",
+          "bbox": [
+            13,
+            295,
+            494,
+            305
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                13,
+                295,
+                21,
+                305
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                23,
+                295,
+                35,
+                305
+              ]
+            },
+            {
+              "text": "Fiscal",
+              "bbox": [
+                37,
+                295,
+                60,
+                305
+              ]
+            },
+            {
+              "text": "Year",
+              "bbox": [
+                62,
+                295,
+                79,
+                305
+              ]
+            },
+            {
+              "text": "2024,",
+              "bbox": [
+                82,
+                295,
+                103,
+                305
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                106,
+                295,
+                117,
+                305
+              ]
+            },
+            {
+              "text": "Education",
+              "bbox": [
+                120,
+                295,
+                158,
+                305
+              ]
+            },
+            {
+              "text": "Spending",
+              "bbox": [
+                161,
+                295,
+                196,
+                305
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                199,
+                295,
+                217,
+                305
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                220,
+                295,
+                246,
+                305
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                249,
+                295,
+                263,
+                305
+              ]
+            },
+            {
+              "text": "Primary",
+              "bbox": [
+                266,
+                295,
+                296,
+                305
+              ]
+            },
+            {
+              "text": "Education",
+              "bbox": [
+                299,
+                295,
+                337,
+                305
+              ]
+            },
+            {
+              "text": "receives",
+              "bbox": [
+                339,
+                295,
+                370,
+                305
+              ]
+            },
+            {
+              "text": "$450M",
+              "bbox": [
+                373,
+                295,
+                400,
+                305
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                402,
+                295,
+                410,
+                305
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                412,
+                295,
+                436,
+                305
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                438,
+                295,
+                468,
+                305
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                470,
+                295,
+                487,
+                305
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                490,
+                295,
+                494,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "text": "5.0% YoY change and a 60.0% market share, while private funding amounts to $270M, reflecting a 4.5% YoY change and a",
+          "bbox": [
+            13,
+            308,
+            494,
+            318
+          ],
+          "words": [
+            {
+              "text": "5.0%",
+              "bbox": [
+                13,
+                308,
+                32,
+                318
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                35,
+                308,
+                52,
+                318
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                55,
+                308,
+                82,
+                318
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                85,
+                308,
+                98,
+                318
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                102,
+                308,
+                106,
+                318
+              ]
+            },
+            {
+              "text": "60.0%",
+              "bbox": [
+                109,
+                308,
+                133,
+                318
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                136,
+                308,
+                162,
+                318
+              ]
+            },
+            {
+              "text": "share,",
+              "bbox": [
+                166,
+                308,
+                188,
+                318
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                191,
+                308,
+                212,
+                318
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                215,
+                308,
+                241,
+                318
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                244,
+                308,
+                273,
+                318
+              ]
+            },
+            {
+              "text": "amounts",
+              "bbox": [
+                276,
+                308,
+                308,
+                318
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                311,
+                308,
+                319,
+                318
+              ]
+            },
+            {
+              "text": "$270M,",
+              "bbox": [
+                322,
+                308,
+                351,
+                318
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                354,
+                308,
+                390,
+                318
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                393,
+                308,
+                398,
+                318
+              ]
+            },
+            {
+              "text": "4.5%",
+              "bbox": [
+                401,
+                308,
+                420,
+                318
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                423,
+                308,
+                440,
+                318
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                443,
+                308,
+                470,
+                318
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                473,
+                308,
+                486,
+                318
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                490,
+                308,
+                494,
+                318
+              ]
+            }
+          ]
+        },
+        {
+          "text": "40.0% market share. Secondary Education allocates $300M publicly with a 3.5% increase and 50.0% market share, alongside",
+          "bbox": [
+            13,
+            321,
+            494,
+            331
+          ],
+          "words": [
+            {
+              "text": "40.0%",
+              "bbox": [
+                13,
+                321,
+                37,
+                331
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                40,
+                321,
+                66,
+                331
+              ]
+            },
+            {
+              "text": "share.",
+              "bbox": [
+                69,
+                321,
+                91,
+                331
+              ]
+            },
+            {
+              "text": "Secondary",
+              "bbox": [
+                94,
+                321,
+                134,
+                331
+              ]
+            },
+            {
+              "text": "Education",
+              "bbox": [
+                137,
+                321,
+                175,
+                331
+              ]
+            },
+            {
+              "text": "allocates",
+              "bbox": [
+                178,
+                321,
+                210,
+                331
+              ]
+            },
+            {
+              "text": "$300M",
+              "bbox": [
+                213,
+                321,
+                240,
+                331
+              ]
+            },
+            {
+              "text": "publicly",
+              "bbox": [
+                243,
+                321,
+                274,
+                331
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                277,
+                321,
+                294,
+                331
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                297,
+                321,
+                301,
+                331
+              ]
+            },
+            {
+              "text": "3.5%",
+              "bbox": [
+                304,
+                321,
+                323,
+                331
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                326,
+                321,
+                357,
+                331
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                360,
+                321,
+                374,
+                331
+              ]
+            },
+            {
+              "text": "50.0%",
+              "bbox": [
+                377,
+                321,
+                401,
+                331
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                404,
+                321,
+                430,
+                331
+              ]
+            },
+            {
+              "text": "share,",
+              "bbox": [
+                433,
+                321,
+                455,
+                331
+              ]
+            },
+            {
+              "text": "alongside",
+              "bbox": [
+                458,
+                321,
+                494,
+                331
+              ]
+            }
+          ]
+        },
+        {
+          "text": "$200M in private funding, exhibiting a 2.0% change and 30.0% market share. Higher Education sees $600M in public funding",
+          "bbox": [
+            13,
+            334,
+            494,
+            344
+          ],
+          "words": [
+            {
+              "text": "$200M",
+              "bbox": [
+                13,
+                334,
+                40,
+                344
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                43,
+                334,
+                50,
+                344
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                53,
+                334,
+                79,
+                344
+              ]
+            },
+            {
+              "text": "funding,",
+              "bbox": [
+                81,
+                334,
+                113,
+                344
+              ]
+            },
+            {
+              "text": "exhibiting",
+              "bbox": [
+                115,
+                334,
+                153,
+                344
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                156,
+                334,
+                160,
+                344
+              ]
+            },
+            {
+              "text": "2.0%",
+              "bbox": [
+                163,
+                334,
+                182,
+                344
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                185,
+                334,
+                212,
+                344
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                214,
+                334,
+                228,
+                344
+              ]
+            },
+            {
+              "text": "30.0%",
+              "bbox": [
+                231,
+                334,
+                255,
+                344
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                258,
+                334,
+                284,
+                344
+              ]
+            },
+            {
+              "text": "share.",
+              "bbox": [
+                286,
+                334,
+                308,
+                344
+              ]
+            },
+            {
+              "text": "Higher",
+              "bbox": [
+                311,
+                334,
+                337,
+                344
+              ]
+            },
+            {
+              "text": "Education",
+              "bbox": [
+                340,
+                334,
+                378,
+                344
+              ]
+            },
+            {
+              "text": "sees",
+              "bbox": [
+                380,
+                334,
+                396,
+                344
+              ]
+            },
+            {
+              "text": "$600M",
+              "bbox": [
+                399,
+                334,
+                426,
+                344
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                429,
+                334,
+                436,
+                344
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                439,
+                334,
+                462,
+                344
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                465,
+                334,
+                494,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "text": "growing by 6.0% and capturing a 70.0% market share, with private contributions of $250M, showing a 5.5% increase and",
+          "bbox": [
+            13,
+            347,
+            494,
+            357
+          ],
+          "words": [
+            {
+              "text": "growing",
+              "bbox": [
+                13,
+                347,
+                44,
+                357
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                48,
+                347,
+                57,
+                357
+              ]
+            },
+            {
+              "text": "6.0%",
+              "bbox": [
+                61,
+                347,
+                80,
+                357
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                84,
+                347,
+                98,
+                357
+              ]
+            },
+            {
+              "text": "capturing",
+              "bbox": [
+                101,
+                347,
+                137,
+                357
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                140,
+                347,
+                144,
+                357
+              ]
+            },
+            {
+              "text": "70.0%",
+              "bbox": [
+                148,
+                347,
+                172,
+                357
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                176,
+                347,
+                202,
+                357
+              ]
+            },
+            {
+              "text": "share,",
+              "bbox": [
+                206,
+                347,
+                228,
+                357
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                232,
+                347,
+                248,
+                357
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                252,
+                347,
+                278,
+                357
+              ]
+            },
+            {
+              "text": "contributions",
+              "bbox": [
+                282,
+                347,
+                331,
+                357
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                335,
+                347,
+                343,
+                357
+              ]
+            },
+            {
+              "text": "$250M,",
+              "bbox": [
+                346,
+                347,
+                376,
+                357
+              ]
+            },
+            {
+              "text": "showing",
+              "bbox": [
+                379,
+                347,
+                411,
+                357
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                415,
+                347,
+                419,
+                357
+              ]
+            },
+            {
+              "text": "5.5%",
+              "bbox": [
+                423,
+                347,
+                442,
+                357
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                446,
+                347,
+                477,
+                357
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                480,
+                347,
+                494,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "text": "30.0% market share. Vocational Training receives $150M publicly, with a 4.0% change and 25.0% market share, while private",
+          "bbox": [
+            13,
+            360,
+            494,
+            370
+          ],
+          "words": [
+            {
+              "text": "30.0%",
+              "bbox": [
+                13,
+                360,
+                37,
+                370
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                40,
+                360,
+                66,
+                370
+              ]
+            },
+            {
+              "text": "share.",
+              "bbox": [
+                69,
+                360,
+                91,
+                370
+              ]
+            },
+            {
+              "text": "Vocational",
+              "bbox": [
+                93,
+                360,
+                133,
+                370
+              ]
+            },
+            {
+              "text": "Training",
+              "bbox": [
+                136,
+                360,
+                168,
+                370
+              ]
+            },
+            {
+              "text": "receives",
+              "bbox": [
+                171,
+                360,
+                201,
+                370
+              ]
+            },
+            {
+              "text": "$150M",
+              "bbox": [
+                204,
+                360,
+                231,
+                370
+              ]
+            },
+            {
+              "text": "publicly,",
+              "bbox": [
+                234,
+                360,
+                266,
+                370
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                269,
+                360,
+                286,
+                370
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                289,
+                360,
+                293,
+                370
+              ]
+            },
+            {
+              "text": "4.0%",
+              "bbox": [
+                296,
+                360,
+                315,
+                370
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                318,
+                360,
+                344,
+                370
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                347,
+                360,
+                361,
+                370
+              ]
+            },
+            {
+              "text": "25.0%",
+              "bbox": [
+                363,
+                360,
+                388,
+                370
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                390,
+                360,
+                416,
+                370
+              ]
+            },
+            {
+              "text": "share,",
+              "bbox": [
+                419,
+                360,
+                441,
+                370
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                444,
+                360,
+                465,
+                370
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                468,
+                360,
+                494,
+                370
+              ]
+            }
+          ]
+        },
+        {
+          "text": "funding totals $50M, reflecting a 3.0% change and 10.0% market share. The total funding stands at $1,500M, with a 4.5% YoY",
+          "bbox": [
+            13,
+            373,
+            494,
+            383
+          ],
+          "words": [
+            {
+              "text": "funding",
+              "bbox": [
+                13,
+                373,
+                42,
+                383
+              ]
+            },
+            {
+              "text": "totals",
+              "bbox": [
+                44,
+                373,
+                65,
+                383
+              ]
+            },
+            {
+              "text": "$50M,",
+              "bbox": [
+                67,
+                373,
+                92,
+                383
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                95,
+                373,
+                130,
+                383
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                133,
+                373,
+                137,
+                383
+              ]
+            },
+            {
+              "text": "3.0%",
+              "bbox": [
+                140,
+                373,
+                159,
+                383
+              ]
+            },
+            {
+              "text": "change",
+              "bbox": [
+                162,
+                373,
+                188,
+                383
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                191,
+                373,
+                204,
+                383
+              ]
+            },
+            {
+              "text": "10.0%",
+              "bbox": [
+                207,
+                373,
+                231,
+                383
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                234,
+                373,
+                260,
+                383
+              ]
+            },
+            {
+              "text": "share.",
+              "bbox": [
+                262,
+                373,
+                284,
+                383
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                287,
+                373,
+                301,
+                383
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                304,
+                373,
+                320,
+                383
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                323,
+                373,
+                352,
+                383
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                355,
+                373,
+                378,
+                383
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                381,
+                373,
+                387,
+                383
+              ]
+            },
+            {
+              "text": "$1,500M,",
+              "bbox": [
+                390,
+                373,
+                426,
+                383
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                429,
+                373,
+                446,
+                383
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                448,
+                373,
+                452,
+                383
+              ]
+            },
+            {
+              "text": "4.5%",
+              "bbox": [
+                455,
+                373,
+                474,
+                383
+              ]
+            },
+            {
+              "text": "YoY",
+              "bbox": [
+                476,
+                373,
+                494,
+                383
+              ]
+            }
+          ]
+        },
+        {
+          "text": "change and 100.0% market share, consisting of $770M public and $730M private funding, and a projected growth of 7.0% in",
+          "bbox": [
+            13,
+            386,
+            494,
+            397
+          ],
+          "words": [
+            {
+              "text": "change",
+              "bbox": [
+                13,
+                386,
+                39,
+                397
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                42,
+                386,
+                56,
+                397
+              ]
+            },
+            {
+              "text": "100.0%",
+              "bbox": [
+                59,
+                386,
+                88,
+                397
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                91,
+                386,
+                117,
+                397
+              ]
+            },
+            {
+              "text": "share,",
+              "bbox": [
+                119,
+                386,
+                142,
+                397
+              ]
+            },
+            {
+              "text": "consisting",
+              "bbox": [
+                145,
+                386,
+                183,
+                397
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                185,
+                386,
+                193,
+                397
+              ]
+            },
+            {
+              "text": "$770M",
+              "bbox": [
+                196,
+                386,
+                223,
+                397
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                226,
+                386,
+                250,
+                397
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                253,
+                386,
+                266,
+                397
+              ]
+            },
+            {
+              "text": "$730M",
+              "bbox": [
+                269,
+                386,
+                296,
+                397
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                299,
+                386,
+                325,
+                397
+              ]
+            },
+            {
+              "text": "funding,",
+              "bbox": [
+                328,
+                386,
+                359,
+                397
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                362,
+                386,
+                376,
+                397
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                379,
+                386,
+                383,
+                397
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                386,
+                386,
+                421,
+                397
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                424,
+                386,
+                450,
+                397
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                453,
+                386,
+                461,
+                397
+              ]
+            },
+            {
+              "text": "7.0%",
+              "bbox": [
+                464,
+                386,
+                484,
+                397
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                486,
+                386,
+                494,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "text": "2025.",
+          "bbox": [
+            13,
+            399,
+            34,
+            410
+          ],
+          "words": [
+            {
+              "text": "2025.",
+              "bbox": [
+                13,
+                399,
+                34,
+                410
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_190720_t1",
+      "bbox": [
+        13,
+        424,
+        494,
+        646
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            425,
+            493,
+            455
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            455,
+            493,
+            496
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            496,
+            493,
+            526
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            526,
+            493,
+            556
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            556,
+            493,
+            586
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            586,
+            493,
+            616
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            13,
+            616,
+            493,
+            645
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">HealthcareFinancialMetrics</td><td colspan=\"2\">CostRatios&amp;Indices</td><td>GrowthRate</td><td colspan=\"4\">FundingSources</td></tr><tr><td>TotalCosts</td><td>OperatingMargin</td><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>Revenue</td><td>NetIncome</td><td>PatientVisits</td><td>MarketShare</td></tr><tr><td>PublicSector</td><td>AUD500M</td><td>12.5%</td><td>15.2</td><td>1.8</td><td>0.4</td><td>AUD600M</td><td>AUD60M</td><td>1,200,000</td></tr><tr><td>PrivateSector</td><td>AUD700M</td><td>10.8%</td><td>18.5</td><td>1.5</td><td>0.5</td><td>AUD800M</td><td>AUD70M</td><td>1,500,000</td></tr><tr><td>TotalHealthcare</td><td>AUD1.2B</td><td>11.6%</td><td>16.0</td><td>1.6</td><td>0.45</td><td>AUD1.4B</td><td>AUD130M</td><td>2,700,000</td></tr><tr><td>GovernmentFunding</td><td>AUD750M</td><td>13.0%</td><td>14.0</td><td>2.0</td><td>0.3</td><td>AUD850M</td><td>AUD90M</td><td>1,800,000</td></tr><tr><td>HealthInsurance</td><td>AUD300M</td><td>9.5%</td><td>20.0</td><td>1.4</td><td>0.6</td><td>AUD400M</td><td>AUD40M</td><td>1,000,000</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "HealthcareFinancialMetrics",
+          "bbox": [
+            13,
+            425,
+            170,
+            455
+          ],
+          "words": [
+            {
+              "text": "HealthcareFinancialMetrics",
+              "bbox": [
+                18,
+                429,
+                120,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CostRatios&Indices",
+          "bbox": [
+            170,
+            425,
+            326,
+            455
+          ],
+          "words": [
+            {
+              "text": "CostRatios&Indices",
+              "bbox": [
+                174,
+                429,
+                247,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate",
+          "bbox": [
+            326,
+            425,
+            360,
+            455
+          ],
+          "words": [
+            {
+              "text": "GrowthRate",
+              "bbox": [
+                331,
+                429,
+                354,
+                450
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "FundingSources",
+          "bbox": [
+            360,
+            425,
+            493,
+            455
+          ],
+          "words": [
+            {
+              "text": "FundingSources",
+              "bbox": [
+                430,
+                429,
+                489,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalCosts",
+          "bbox": [
+            13,
+            455,
+            91,
+            496
+          ],
+          "words": [
+            {
+              "text": "TotalCosts",
+              "bbox": [
+                18,
+                458,
+                56,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "OperatingMargin",
+          "bbox": [
+            91,
+            455,
+            170,
+            496
+          ],
+          "words": [
+            {
+              "text": "OperatingMargin",
+              "bbox": [
+                96,
+                458,
+                161,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "P/ERatio",
+          "bbox": [
+            170,
+            455,
+            248,
+            496
+          ],
+          "words": [
+            {
+              "text": "P/ERatio",
+              "bbox": [
+                174,
+                458,
+                208,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CurrentRatio",
+          "bbox": [
+            248,
+            455,
+            326,
+            496
+          ],
+          "words": [
+            {
+              "text": "CurrentRatio",
+              "bbox": [
+                272,
+                458,
+                322,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Debt/Equity",
+          "bbox": [
+            326,
+            455,
+            360,
+            496
+          ],
+          "words": [
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                331,
+                458,
+                351,
+                492
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue",
+          "bbox": [
+            360,
+            455,
+            393,
+            496
+          ],
+          "words": [
+            {
+              "text": "Revenue",
+              "bbox": [
+                366,
+                458,
+                389,
+                480
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome",
+          "bbox": [
+            393,
+            455,
+            427,
+            496
+          ],
+          "words": [
+            {
+              "text": "NetIncome",
+              "bbox": [
+                402,
+                458,
+                422,
+                480
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "PatientVisits",
+          "bbox": [
+            427,
+            455,
+            461,
+            496
+          ],
+          "words": [
+            {
+              "text": "PatientVisits",
+              "bbox": [
+                433,
+                458,
+                456,
+                480
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare",
+          "bbox": [
+            461,
+            455,
+            493,
+            496
+          ],
+          "words": [
+            {
+              "text": "MarketShare",
+              "bbox": [
+                468,
+                458,
+                489,
+                492
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PublicSector",
+          "bbox": [
+            13,
+            496,
+            91,
+            526
+          ],
+          "words": [
+            {
+              "text": "PublicSector",
+              "bbox": [
+                18,
+                500,
+                61,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD500M",
+          "bbox": [
+            91,
+            496,
+            170,
+            526
+          ],
+          "words": [
+            {
+              "text": "AUD500M",
+              "bbox": [
+                96,
+                500,
+                135,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5%",
+          "bbox": [
+            170,
+            496,
+            248,
+            526
+          ],
+          "words": [
+            {
+              "text": "12.5%",
+              "bbox": [
+                174,
+                500,
+                196,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15.2",
+          "bbox": [
+            248,
+            496,
+            326,
+            526
+          ],
+          "words": [
+            {
+              "text": "15.2",
+              "bbox": [
+                307,
+                500,
+                322,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.8",
+          "bbox": [
+            326,
+            496,
+            360,
+            526
+          ],
+          "words": [
+            {
+              "text": "1.8",
+              "bbox": [
+                331,
+                500,
+                342,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.4",
+          "bbox": [
+            360,
+            496,
+            393,
+            526
+          ],
+          "words": [
+            {
+              "text": "0.4",
+              "bbox": [
+                378,
+                500,
+                389,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD600M",
+          "bbox": [
+            393,
+            496,
+            427,
+            526
+          ],
+          "words": [
+            {
+              "text": "AUD600M",
+              "bbox": [
+                400,
+                500,
+                422,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD60M",
+          "bbox": [
+            427,
+            496,
+            461,
+            526
+          ],
+          "words": [
+            {
+              "text": "AUD60M",
+              "bbox": [
+                433,
+                500,
+                456,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1,200,000",
+          "bbox": [
+            461,
+            496,
+            493,
+            526
+          ],
+          "words": [
+            {
+              "text": "1,200,000",
+              "bbox": [
+                467,
+                500,
+                489,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PrivateSector",
+          "bbox": [
+            13,
+            526,
+            91,
+            556
+          ],
+          "words": [
+            {
+              "text": "PrivateSector",
+              "bbox": [
+                18,
+                530,
+                64,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD700M",
+          "bbox": [
+            91,
+            526,
+            170,
+            556
+          ],
+          "words": [
+            {
+              "text": "AUD700M",
+              "bbox": [
+                96,
+                530,
+                135,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10.8%",
+          "bbox": [
+            170,
+            526,
+            248,
+            556
+          ],
+          "words": [
+            {
+              "text": "10.8%",
+              "bbox": [
+                174,
+                530,
+                196,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "18.5",
+          "bbox": [
+            248,
+            526,
+            326,
+            556
+          ],
+          "words": [
+            {
+              "text": "18.5",
+              "bbox": [
+                307,
+                530,
+                322,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            326,
+            526,
+            360,
+            556
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                331,
+                530,
+                342,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.5",
+          "bbox": [
+            360,
+            526,
+            393,
+            556
+          ],
+          "words": [
+            {
+              "text": "0.5",
+              "bbox": [
+                378,
+                530,
+                389,
+                539
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD800M",
+          "bbox": [
+            393,
+            526,
+            427,
+            556
+          ],
+          "words": [
+            {
+              "text": "AUD800M",
+              "bbox": [
+                400,
+                530,
+                422,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD70M",
+          "bbox": [
+            427,
+            526,
+            461,
+            556
+          ],
+          "words": [
+            {
+              "text": "AUD70M",
+              "bbox": [
+                433,
+                530,
+                456,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1,500,000",
+          "bbox": [
+            461,
+            526,
+            493,
+            556
+          ],
+          "words": [
+            {
+              "text": "1,500,000",
+              "bbox": [
+                467,
+                530,
+                489,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalHealthcare",
+          "bbox": [
+            13,
+            556,
+            91,
+            586
+          ],
+          "words": [
+            {
+              "text": "TotalHealthcare",
+              "bbox": [
+                18,
+                560,
+                72,
+                569
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD1.2B",
+          "bbox": [
+            91,
+            556,
+            170,
+            586
+          ],
+          "words": [
+            {
+              "text": "AUD1.2B",
+              "bbox": [
+                96,
+                560,
+                131,
+                569
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "11.6%",
+          "bbox": [
+            170,
+            556,
+            248,
+            586
+          ],
+          "words": [
+            {
+              "text": "11.6%",
+              "bbox": [
+                174,
+                560,
+                196,
+                569
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "16.0",
+          "bbox": [
+            248,
+            556,
+            326,
+            586
+          ],
+          "words": [
+            {
+              "text": "16.0",
+              "bbox": [
+                307,
+                560,
+                322,
+                569
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.6",
+          "bbox": [
+            326,
+            556,
+            360,
+            586
+          ],
+          "words": [
+            {
+              "text": "1.6",
+              "bbox": [
+                331,
+                560,
+                342,
+                569
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.45",
+          "bbox": [
+            360,
+            556,
+            393,
+            586
+          ],
+          "words": [
+            {
+              "text": "0.45",
+              "bbox": [
+                374,
+                560,
+                389,
+                569
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD1.4B",
+          "bbox": [
+            393,
+            556,
+            427,
+            586
+          ],
+          "words": [
+            {
+              "text": "AUD1.4B",
+              "bbox": [
+                400,
+                560,
+                422,
+                581
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD130M",
+          "bbox": [
+            427,
+            556,
+            461,
+            586
+          ],
+          "words": [
+            {
+              "text": "AUD130M",
+              "bbox": [
+                433,
+                560,
+                456,
+                581
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "2,700,000",
+          "bbox": [
+            461,
+            556,
+            493,
+            586
+          ],
+          "words": [
+            {
+              "text": "2,700,000",
+              "bbox": [
+                467,
+                560,
+                489,
+                581
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "GovernmentFunding",
+          "bbox": [
+            13,
+            586,
+            91,
+            616
+          ],
+          "words": [
+            {
+              "text": "GovernmentFunding",
+              "bbox": [
+                18,
+                590,
+                85,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD750M",
+          "bbox": [
+            91,
+            586,
+            170,
+            616
+          ],
+          "words": [
+            {
+              "text": "AUD750M",
+              "bbox": [
+                96,
+                590,
+                135,
+                599
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "13.0%",
+          "bbox": [
+            170,
+            586,
+            248,
+            616
+          ],
+          "words": [
+            {
+              "text": "13.0%",
+              "bbox": [
+                174,
+                590,
+                196,
+                599
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "14.0",
+          "bbox": [
+            248,
+            586,
+            326,
+            616
+          ],
+          "words": [
+            {
+              "text": "14.0",
+              "bbox": [
+                307,
+                590,
+                322,
+                599
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            326,
+            586,
+            360,
+            616
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                331,
+                590,
+                342,
+                599
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.3",
+          "bbox": [
+            360,
+            586,
+            393,
+            616
+          ],
+          "words": [
+            {
+              "text": "0.3",
+              "bbox": [
+                378,
+                590,
+                389,
+                599
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD850M",
+          "bbox": [
+            393,
+            586,
+            427,
+            616
+          ],
+          "words": [
+            {
+              "text": "AUD850M",
+              "bbox": [
+                400,
+                590,
+                422,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD90M",
+          "bbox": [
+            427,
+            586,
+            461,
+            616
+          ],
+          "words": [
+            {
+              "text": "AUD90M",
+              "bbox": [
+                433,
+                590,
+                456,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1,800,000",
+          "bbox": [
+            461,
+            586,
+            493,
+            616
+          ],
+          "words": [
+            {
+              "text": "1,800,000",
+              "bbox": [
+                467,
+                590,
+                489,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HealthInsurance",
+          "bbox": [
+            13,
+            616,
+            91,
+            645
+          ],
+          "words": [
+            {
+              "text": "HealthInsurance",
+              "bbox": [
+                18,
+                619,
+                74,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD300M",
+          "bbox": [
+            91,
+            616,
+            170,
+            645
+          ],
+          "words": [
+            {
+              "text": "AUD300M",
+              "bbox": [
+                96,
+                619,
+                135,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "9.5%",
+          "bbox": [
+            170,
+            616,
+            248,
+            645
+          ],
+          "words": [
+            {
+              "text": "9.5%",
+              "bbox": [
+                174,
+                619,
+                192,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            248,
+            616,
+            326,
+            645
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                307,
+                619,
+                322,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.4",
+          "bbox": [
+            326,
+            616,
+            360,
+            645
+          ],
+          "words": [
+            {
+              "text": "1.4",
+              "bbox": [
+                331,
+                619,
+                342,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.6",
+          "bbox": [
+            360,
+            616,
+            393,
+            645
+          ],
+          "words": [
+            {
+              "text": "0.6",
+              "bbox": [
+                378,
+                619,
+                389,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD400M",
+          "bbox": [
+            393,
+            616,
+            427,
+            645
+          ],
+          "words": [
+            {
+              "text": "AUD400M",
+              "bbox": [
+                400,
+                619,
+                422,
+                641
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "AUD40M",
+          "bbox": [
+            427,
+            616,
+            461,
+            645
+          ],
+          "words": [
+            {
+              "text": "AUD40M",
+              "bbox": [
+                433,
+                619,
+                456,
+                641
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1,000,000",
+          "bbox": [
+            461,
+            616,
+            493,
+            645
+          ],
+          "words": [
+            {
+              "text": "1,000,000",
+              "bbox": [
+                467,
+                619,
+                489,
+                641
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        659,
+        494,
+        790
+      ],
+      "content": "The Healthcare Financial Metrics indicate that Total Costs for the Public Sector are AUD500M with a 12.5% Operating Margin, a P/E Ratio of 15.2, Current Ratio of 1.8, Debt/Equity of 0.4, Revenue at AUD600M, Net Income of AUD60M, and Patient Visits totaling 1,200,000. The Private Sector shows Total Costs of AUD700M, with a 10.8% Operating Margin, a P/E Ratio of 18.5, Current Ratio of 1.5, Debt/Equity of 0.5, Revenue of AUD800M, Net Income of AUD70M, and Patient Visits at 1,500,000. Total Healthcare costs reach AUD1.2B, with an 11.6% Operating Margin, a P/E Ratio of 16.0, Current Ratio of 1.6, Debt/Equity of 0.45, Revenue of AUD1.4B, Net Income of AUD130M, and Patient Visits amounting to 2,700,000. Government Funding totals AUD750M with a 13.0% Operating Margin, a P/E Ratio of 14.0, Current Ratio of 2.0, Debt/Equity of 0.3, Revenue of AUD850M, Net Income of AUD90M, and Patient Visits at 1,800,000. Health Insurance shows costs of AUD300M, an Operating Margin of 9.5%, a P/E Ratio of 20.0, a Current Ratio of 1.4, Debt/Equity of 0.6, Revenue of AUD400M, Net Income of AUD40M, and Patient Visits reaching 1,000,000.",
+      "lines": [
+        {
+          "text": "The Healthcare Financial Metrics indicate that Total Costs for the Public Sector are AUD500M with a 12.5% Operating Margin,",
+          "bbox": [
+            13,
+            659,
+            494,
+            670
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                13,
+                659,
+                27,
+                670
+              ]
+            },
+            {
+              "text": "Healthcare",
+              "bbox": [
+                30,
+                659,
+                70,
+                670
+              ]
+            },
+            {
+              "text": "Financial",
+              "bbox": [
+                73,
+                659,
+                108,
+                670
+              ]
+            },
+            {
+              "text": "Metrics",
+              "bbox": [
+                110,
+                659,
+                139,
+                670
+              ]
+            },
+            {
+              "text": "indicate",
+              "bbox": [
+                141,
+                659,
+                171,
+                670
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                173,
+                659,
+                187,
+                670
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                189,
+                659,
+                208,
+                670
+              ]
+            },
+            {
+              "text": "Costs",
+              "bbox": [
+                211,
+                659,
+                232,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                234,
+                659,
+                245,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                247,
+                659,
+                259,
+                670
+              ]
+            },
+            {
+              "text": "Public",
+              "bbox": [
+                261,
+                659,
+                285,
+                670
+              ]
+            },
+            {
+              "text": "Sector",
+              "bbox": [
+                287,
+                659,
+                311,
+                670
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                314,
+                659,
+                325,
+                670
+              ]
+            },
+            {
+              "text": "AUD500M",
+              "bbox": [
+                327,
+                659,
+                370,
+                670
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                372,
+                659,
+                389,
+                670
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                391,
+                659,
+                395,
+                670
+              ]
+            },
+            {
+              "text": "12.5%",
+              "bbox": [
+                398,
+                659,
+                422,
+                670
+              ]
+            },
+            {
+              "text": "Operating",
+              "bbox": [
+                424,
+                659,
+                462,
+                670
+              ]
+            },
+            {
+              "text": "Margin,",
+              "bbox": [
+                464,
+                659,
+                494,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "a P/E Ratio of 15.2, Current Ratio of 1.8, Debt/Equity of 0.4, Revenue at AUD600M, Net Income of AUD60M, and Patient",
+          "bbox": [
+            13,
+            672,
+            494,
+            683
+          ],
+          "words": [
+            {
+              "text": "a",
+              "bbox": [
+                13,
+                672,
+                17,
+                683
+              ]
+            },
+            {
+              "text": "P/E",
+              "bbox": [
+                20,
+                672,
+                34,
+                683
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                37,
+                672,
+                57,
+                683
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                61,
+                672,
+                68,
+                683
+              ]
+            },
+            {
+              "text": "15.2,",
+              "bbox": [
+                72,
+                672,
+                90,
+                683
+              ]
+            },
+            {
+              "text": "Current",
+              "bbox": [
+                94,
+                672,
+                122,
+                683
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                125,
+                672,
+                146,
+                683
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                149,
+                672,
+                157,
+                683
+              ]
+            },
+            {
+              "text": "1.8,",
+              "bbox": [
+                160,
+                672,
+                174,
+                683
+              ]
+            },
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                177,
+                672,
+                223,
+                683
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                226,
+                672,
+                234,
+                683
+              ]
+            },
+            {
+              "text": "0.4,",
+              "bbox": [
+                238,
+                672,
+                252,
+                683
+              ]
+            },
+            {
+              "text": "Revenue",
+              "bbox": [
+                255,
+                672,
+                288,
+                683
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                291,
+                672,
+                298,
+                683
+              ]
+            },
+            {
+              "text": "AUD600M,",
+              "bbox": [
+                300,
+                672,
+                345,
+                683
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                349,
+                672,
+                362,
+                683
+              ]
+            },
+            {
+              "text": "Income",
+              "bbox": [
+                365,
+                672,
+                394,
+                683
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                397,
+                672,
+                405,
+                683
+              ]
+            },
+            {
+              "text": "AUD60M,",
+              "bbox": [
+                407,
+                672,
+                448,
+                683
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                451,
+                672,
+                465,
+                683
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                468,
+                672,
+                494,
+                683
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Visits totaling 1,200,000. The Private Sector shows Total Costs of AUD700M, with a 10.8% Operating Margin, a P/E Ratio of",
+          "bbox": [
+            13,
+            686,
+            494,
+            696
+          ],
+          "words": [
+            {
+              "text": "Visits",
+              "bbox": [
+                13,
+                686,
+                34,
+                696
+              ]
+            },
+            {
+              "text": "totaling",
+              "bbox": [
+                37,
+                686,
+                65,
+                696
+              ]
+            },
+            {
+              "text": "1,200,000.",
+              "bbox": [
+                68,
+                686,
+                108,
+                696
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                111,
+                686,
+                125,
+                696
+              ]
+            },
+            {
+              "text": "Private",
+              "bbox": [
+                128,
+                686,
+                155,
+                696
+              ]
+            },
+            {
+              "text": "Sector",
+              "bbox": [
+                157,
+                686,
+                181,
+                696
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                184,
+                686,
+                207,
+                696
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                210,
+                686,
+                229,
+                696
+              ]
+            },
+            {
+              "text": "Costs",
+              "bbox": [
+                232,
+                686,
+                253,
+                696
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                256,
+                686,
+                263,
+                696
+              ]
+            },
+            {
+              "text": "AUD700M,",
+              "bbox": [
+                266,
+                686,
+                311,
+                696
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                313,
+                686,
+                330,
+                696
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                333,
+                686,
+                337,
+                696
+              ]
+            },
+            {
+              "text": "10.8%",
+              "bbox": [
+                340,
+                686,
+                364,
+                696
+              ]
+            },
+            {
+              "text": "Operating",
+              "bbox": [
+                367,
+                686,
+                404,
+                696
+              ]
+            },
+            {
+              "text": "Margin,",
+              "bbox": [
+                407,
+                686,
+                437,
+                696
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                440,
+                686,
+                444,
+                696
+              ]
+            },
+            {
+              "text": "P/E",
+              "bbox": [
+                447,
+                686,
+                460,
+                696
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                463,
+                686,
+                483,
+                696
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                486,
+                686,
+                494,
+                696
+              ]
+            }
+          ]
+        },
+        {
+          "text": "18.5, Current Ratio of 1.5, Debt/Equity of 0.5, Revenue of AUD800M, Net Income of AUD70M, and Patient Visits at",
+          "bbox": [
+            13,
+            699,
+            494,
+            709
+          ],
+          "words": [
+            {
+              "text": "18.5,",
+              "bbox": [
+                13,
+                699,
+                32,
+                709
+              ]
+            },
+            {
+              "text": "Current",
+              "bbox": [
+                36,
+                699,
+                65,
+                709
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                69,
+                699,
+                90,
+                709
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                94,
+                699,
+                102,
+                709
+              ]
+            },
+            {
+              "text": "1.5,",
+              "bbox": [
+                106,
+                699,
+                121,
+                709
+              ]
+            },
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                125,
+                699,
+                171,
+                709
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                175,
+                699,
+                183,
+                709
+              ]
+            },
+            {
+              "text": "0.5,",
+              "bbox": [
+                188,
+                699,
+                202,
+                709
+              ]
+            },
+            {
+              "text": "Revenue",
+              "bbox": [
+                206,
+                699,
+                239,
+                709
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                244,
+                699,
+                252,
+                709
+              ]
+            },
+            {
+              "text": "AUD800M,",
+              "bbox": [
+                256,
+                699,
+                301,
+                709
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                305,
+                699,
+                319,
+                709
+              ]
+            },
+            {
+              "text": "Income",
+              "bbox": [
+                323,
+                699,
+                351,
+                709
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                356,
+                699,
+                364,
+                709
+              ]
+            },
+            {
+              "text": "AUD70M,",
+              "bbox": [
+                368,
+                699,
+                408,
+                709
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                413,
+                699,
+                426,
+                709
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                431,
+                699,
+                457,
+                709
+              ]
+            },
+            {
+              "text": "Visits",
+              "bbox": [
+                461,
+                699,
+                482,
+                709
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                487,
+                699,
+                494,
+                709
+              ]
+            }
+          ]
+        },
+        {
+          "text": "1,500,000. Total Healthcare costs reach AUD1.2B, with an 11.6% Operating Margin, a P/E Ratio of 16.0, Current Ratio of 1.6,",
+          "bbox": [
+            13,
+            712,
+            494,
+            722
+          ],
+          "words": [
+            {
+              "text": "1,500,000.",
+              "bbox": [
+                13,
+                712,
+                53,
+                722
+              ]
+            },
+            {
+              "text": "Total",
+              "bbox": [
+                55,
+                712,
+                74,
+                722
+              ]
+            },
+            {
+              "text": "Healthcare",
+              "bbox": [
+                77,
+                712,
+                117,
+                722
+              ]
+            },
+            {
+              "text": "costs",
+              "bbox": [
+                120,
+                712,
+                139,
+                722
+              ]
+            },
+            {
+              "text": "reach",
+              "bbox": [
+                141,
+                712,
+                162,
+                722
+              ]
+            },
+            {
+              "text": "AUD1.2B,",
+              "bbox": [
+                164,
+                712,
+                205,
+                722
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                207,
+                712,
+                224,
+                722
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                227,
+                712,
+                235,
+                722
+              ]
+            },
+            {
+              "text": "11.6%",
+              "bbox": [
+                238,
+                712,
+                262,
+                722
+              ]
+            },
+            {
+              "text": "Operating",
+              "bbox": [
+                265,
+                712,
+                302,
+                722
+              ]
+            },
+            {
+              "text": "Margin,",
+              "bbox": [
+                305,
+                712,
+                334,
+                722
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                337,
+                712,
+                341,
+                722
+              ]
+            },
+            {
+              "text": "P/E",
+              "bbox": [
+                344,
+                712,
+                357,
+                722
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                360,
+                712,
+                380,
+                722
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                383,
+                712,
+                391,
+                722
+              ]
+            },
+            {
+              "text": "16.0,",
+              "bbox": [
+                394,
+                712,
+                412,
+                722
+              ]
+            },
+            {
+              "text": "Current",
+              "bbox": [
+                415,
+                712,
+                444,
+                722
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                446,
+                712,
+                467,
+                722
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                469,
+                712,
+                477,
+                722
+              ]
+            },
+            {
+              "text": "1.6,",
+              "bbox": [
+                480,
+                712,
+                494,
+                722
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Debt/Equity of 0.45, Revenue of AUD1.4B, Net Income of AUD130M, and Patient Visits amounting to 2,700,000. Government",
+          "bbox": [
+            13,
+            725,
+            494,
+            735
+          ],
+          "words": [
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                13,
+                725,
+                59,
+                735
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                61,
+                725,
+                69,
+                735
+              ]
+            },
+            {
+              "text": "0.45,",
+              "bbox": [
+                71,
+                725,
+                90,
+                735
+              ]
+            },
+            {
+              "text": "Revenue",
+              "bbox": [
+                92,
+                725,
+                125,
+                735
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                128,
+                725,
+                136,
+                735
+              ]
+            },
+            {
+              "text": "AUD1.4B,",
+              "bbox": [
+                137,
+                725,
+                178,
+                735
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                181,
+                725,
+                194,
+                735
+              ]
+            },
+            {
+              "text": "Income",
+              "bbox": [
+                197,
+                725,
+                225,
+                735
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                227,
+                725,
+                235,
+                735
+              ]
+            },
+            {
+              "text": "AUD130M,",
+              "bbox": [
+                237,
+                725,
+                282,
+                735
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                284,
+                725,
+                298,
+                735
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                300,
+                725,
+                326,
+                735
+              ]
+            },
+            {
+              "text": "Visits",
+              "bbox": [
+                329,
+                725,
+                350,
+                735
+              ]
+            },
+            {
+              "text": "amounting",
+              "bbox": [
+                352,
+                725,
+                392,
+                735
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                395,
+                725,
+                402,
+                735
+              ]
+            },
+            {
+              "text": "2,700,000.",
+              "bbox": [
+                405,
+                725,
+                445,
+                735
+              ]
+            },
+            {
+              "text": "Government",
+              "bbox": [
+                447,
+                725,
+                494,
+                735
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Funding totals AUD750M with a 13.0% Operating Margin, a P/E Ratio of 14.0, Current Ratio of 2.0, Debt/Equity of 0.3,",
+          "bbox": [
+            13,
+            738,
+            494,
+            748
+          ],
+          "words": [
+            {
+              "text": "Funding",
+              "bbox": [
+                13,
+                738,
+                44,
+                748
+              ]
+            },
+            {
+              "text": "totals",
+              "bbox": [
+                48,
+                738,
+                68,
+                748
+              ]
+            },
+            {
+              "text": "AUD750M",
+              "bbox": [
+                71,
+                738,
+                114,
+                748
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                118,
+                738,
+                135,
+                748
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                138,
+                738,
+                142,
+                748
+              ]
+            },
+            {
+              "text": "13.0%",
+              "bbox": [
+                146,
+                738,
+                170,
+                748
+              ]
+            },
+            {
+              "text": "Operating",
+              "bbox": [
+                174,
+                738,
+                212,
+                748
+              ]
+            },
+            {
+              "text": "Margin,",
+              "bbox": [
+                216,
+                738,
+                245,
+                748
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                249,
+                738,
+                253,
+                748
+              ]
+            },
+            {
+              "text": "P/E",
+              "bbox": [
+                257,
+                738,
+                271,
+                748
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                274,
+                738,
+                295,
+                748
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                298,
+                738,
+                306,
+                748
+              ]
+            },
+            {
+              "text": "14.0,",
+              "bbox": [
+                310,
+                738,
+                329,
+                748
+              ]
+            },
+            {
+              "text": "Current",
+              "bbox": [
+                333,
+                738,
+                361,
+                748
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                365,
+                738,
+                385,
+                748
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                389,
+                738,
+                397,
+                748
+              ]
+            },
+            {
+              "text": "2.0,",
+              "bbox": [
+                401,
+                738,
+                415,
+                748
+              ]
+            },
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                419,
+                738,
+                464,
+                748
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                468,
+                738,
+                476,
+                748
+              ]
+            },
+            {
+              "text": "0.3,",
+              "bbox": [
+                480,
+                738,
+                494,
+                748
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Revenue of AUD850M, Net Income of AUD90M, and Patient Visits at 1,800,000. Health Insurance shows costs of AUD300M,",
+          "bbox": [
+            13,
+            751,
+            494,
+            761
+          ],
+          "words": [
+            {
+              "text": "Revenue",
+              "bbox": [
+                13,
+                751,
+                46,
+                761
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                48,
+                751,
+                56,
+                761
+              ]
+            },
+            {
+              "text": "AUD850M,",
+              "bbox": [
+                58,
+                751,
+                103,
+                761
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                106,
+                751,
+                119,
+                761
+              ]
+            },
+            {
+              "text": "Income",
+              "bbox": [
+                122,
+                751,
+                150,
+                761
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                152,
+                751,
+                160,
+                761
+              ]
+            },
+            {
+              "text": "AUD90M,",
+              "bbox": [
+                162,
+                751,
+                202,
+                761
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                205,
+                751,
+                219,
+                761
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                221,
+                751,
+                247,
+                761
+              ]
+            },
+            {
+              "text": "Visits",
+              "bbox": [
+                250,
+                751,
+                271,
+                761
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                273,
+                751,
+                280,
+                761
+              ]
+            },
+            {
+              "text": "1,800,000.",
+              "bbox": [
+                283,
+                751,
+                323,
+                761
+              ]
+            },
+            {
+              "text": "Health",
+              "bbox": [
+                325,
+                751,
+                350,
+                761
+              ]
+            },
+            {
+              "text": "Insurance",
+              "bbox": [
+                353,
+                751,
+                389,
+                761
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                392,
+                751,
+                415,
+                761
+              ]
+            },
+            {
+              "text": "costs",
+              "bbox": [
+                418,
+                751,
+                436,
+                761
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                439,
+                751,
+                447,
+                761
+              ]
+            },
+            {
+              "text": "AUD300M,",
+              "bbox": [
+                449,
+                751,
+                494,
+                761
+              ]
+            }
+          ]
+        },
+        {
+          "text": "an Operating Margin of 9.5%, a P/E Ratio of 20.0, a Current Ratio of 1.4, Debt/Equity of 0.6, Revenue of AUD400M, Net",
+          "bbox": [
+            13,
+            764,
+            494,
+            774
+          ],
+          "words": [
+            {
+              "text": "an",
+              "bbox": [
+                13,
+                764,
+                22,
+                774
+              ]
+            },
+            {
+              "text": "Operating",
+              "bbox": [
+                25,
+                764,
+                62,
+                774
+              ]
+            },
+            {
+              "text": "Margin",
+              "bbox": [
+                66,
+                764,
+                93,
+                774
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                97,
+                764,
+                105,
+                774
+              ]
+            },
+            {
+              "text": "9.5%,",
+              "bbox": [
+                108,
+                764,
+                130,
+                774
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                133,
+                764,
+                137,
+                774
+              ]
+            },
+            {
+              "text": "P/E",
+              "bbox": [
+                141,
+                764,
+                154,
+                774
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                158,
+                764,
+                178,
+                774
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                182,
+                764,
+                189,
+                774
+              ]
+            },
+            {
+              "text": "20.0,",
+              "bbox": [
+                193,
+                764,
+                212,
+                774
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                215,
+                764,
+                219,
+                774
+              ]
+            },
+            {
+              "text": "Current",
+              "bbox": [
+                223,
+                764,
+                251,
+                774
+              ]
+            },
+            {
+              "text": "Ratio",
+              "bbox": [
+                255,
+                764,
+                275,
+                774
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                278,
+                764,
+                286,
+                774
+              ]
+            },
+            {
+              "text": "1.4,",
+              "bbox": [
+                290,
+                764,
+                304,
+                774
+              ]
+            },
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                307,
+                764,
+                353,
+                774
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                356,
+                764,
+                364,
+                774
+              ]
+            },
+            {
+              "text": "0.6,",
+              "bbox": [
+                367,
+                764,
+                381,
+                774
+              ]
+            },
+            {
+              "text": "Revenue",
+              "bbox": [
+                385,
+                764,
+                418,
+                774
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                421,
+                764,
+                429,
+                774
+              ]
+            },
+            {
+              "text": "AUD400M,",
+              "bbox": [
+                432,
+                764,
+                477,
+                774
+              ]
+            },
+            {
+              "text": "Net",
+              "bbox": [
+                480,
+                764,
+                494,
+                774
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Income of AUD40M, and Patient Visits reaching 1,000,000.",
+          "bbox": [
+            13,
+            777,
+            238,
+            788
+          ],
+          "words": [
+            {
+              "text": "Income",
+              "bbox": [
+                13,
+                777,
+                41,
+                788
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                43,
+                777,
+                51,
+                788
+              ]
+            },
+            {
+              "text": "AUD40M,",
+              "bbox": [
+                53,
+                777,
+                93,
+                788
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                95,
+                777,
+                109,
+                788
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                111,
+                777,
+                137,
+                788
+              ]
+            },
+            {
+              "text": "Visits",
+              "bbox": [
+                140,
+                777,
+                161,
+                788
+              ]
+            },
+            {
+              "text": "reaching",
+              "bbox": [
+                163,
+                777,
+                195,
+                788
+              ]
+            },
+            {
+              "text": "1,000,000.",
+              "bbox": [
+                198,
+                777,
+                238,
+                788
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

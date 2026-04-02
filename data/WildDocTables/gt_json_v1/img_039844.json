@@ -1,0 +1,3992 @@
+{
+  "image_id": "img_039844",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_039844_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        188
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            66,
+            580,
+            86
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            86,
+            580,
+            107
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            107,
+            580,
+            127
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            127,
+            580,
+            147
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            147,
+            580,
+            167
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            167,
+            580,
+            188
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\"></td><td colspan=\"2\">BMI (age and sex adjusted only)</td></tr><tr><td>CpG cluster</td><td>n</td><td>β</td><td>p value</td></tr></thead><tbody><tr><td>CpG 1–2</td><td>758</td><td>0.004</td><td>0.98</td></tr><tr><td>CpG3</td><td>723</td><td>− 0.004</td><td>0.060</td></tr><tr><td>CpG 4–8</td><td>740</td><td>− 0.004</td><td>0.008</td></tr><tr><td>CpG9</td><td>760</td><td>− 0.004</td><td>0.006</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            66,
+            224,
+            86
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "BMI (age and sex adjusted only)",
+          "bbox": [
+            224,
+            66,
+            580,
+            86
+          ],
+          "words": [
+            {
+              "text": "BMI",
+              "bbox": [
+                437,
+                70,
+                457,
+                81
+              ]
+            },
+            {
+              "text": "(age",
+              "bbox": [
+                459,
+                70,
+                477,
+                81
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                480,
+                70,
+                496,
+                81
+              ]
+            },
+            {
+              "text": "sex",
+              "bbox": [
+                498,
+                70,
+                512,
+                81
+              ]
+            },
+            {
+              "text": "adjusted",
+              "bbox": [
+                514,
+                70,
+                551,
+                81
+              ]
+            },
+            {
+              "text": "only)",
+              "bbox": [
+                553,
+                70,
+                575,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "CpG cluster",
+          "bbox": [
+            15,
+            86,
+            164,
+            107
+          ],
+          "words": [
+            {
+              "text": "CpG",
+              "bbox": [
+                20,
+                90,
+                41,
+                101
+              ]
+            },
+            {
+              "text": "cluster",
+              "bbox": [
+                43,
+                90,
+                72,
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "n",
+          "bbox": [
+            164,
+            86,
+            224,
+            107
+          ],
+          "words": [
+            {
+              "text": "n",
+              "bbox": [
+                169,
+                90,
+                174,
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "β",
+          "bbox": [
+            224,
+            86,
+            402,
+            107
+          ],
+          "words": [
+            {
+              "text": "β",
+              "bbox": [
+                391,
+                90,
+                397,
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "p value",
+          "bbox": [
+            402,
+            86,
+            580,
+            107
+          ],
+          "words": [
+            {
+              "text": "p",
+              "bbox": [
+                544,
+                90,
+                550,
+                101
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                552,
+                90,
+                575,
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CpG 1–2",
+          "bbox": [
+            15,
+            107,
+            164,
+            127
+          ],
+          "words": [
+            {
+              "text": "CpG",
+              "bbox": [
+                20,
+                111,
+                39,
+                122
+              ]
+            },
+            {
+              "text": "1–2",
+              "bbox": [
+                41,
+                111,
+                56,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "758",
+          "bbox": [
+            164,
+            107,
+            224,
+            127
+          ],
+          "words": [
+            {
+              "text": "758",
+              "bbox": [
+                169,
+                111,
+                184,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.004",
+          "bbox": [
+            224,
+            107,
+            402,
+            127
+          ],
+          "words": [
+            {
+              "text": "0.004",
+              "bbox": [
+                374,
+                111,
+                397,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.98",
+          "bbox": [
+            402,
+            107,
+            580,
+            127
+          ],
+          "words": [
+            {
+              "text": "0.98",
+              "bbox": [
+                558,
+                111,
+                575,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CpG3",
+          "bbox": [
+            15,
+            127,
+            164,
+            147
+          ],
+          "words": [
+            {
+              "text": "CpG3",
+              "bbox": [
+                20,
+                131,
+                44,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "723",
+          "bbox": [
+            164,
+            127,
+            224,
+            147
+          ],
+          "words": [
+            {
+              "text": "723",
+              "bbox": [
+                169,
+                131,
+                184,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.004",
+          "bbox": [
+            224,
+            127,
+            402,
+            147
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                366,
+                131,
+                372,
+                142
+              ]
+            },
+            {
+              "text": "0.004",
+              "bbox": [
+                374,
+                131,
+                397,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.060",
+          "bbox": [
+            402,
+            127,
+            580,
+            147
+          ],
+          "words": [
+            {
+              "text": "0.060",
+              "bbox": [
+                553,
+                131,
+                575,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CpG 4–8",
+          "bbox": [
+            15,
+            147,
+            164,
+            167
+          ],
+          "words": [
+            {
+              "text": "CpG",
+              "bbox": [
+                20,
+                151,
+                39,
+                162
+              ]
+            },
+            {
+              "text": "4–8",
+              "bbox": [
+                41,
+                151,
+                56,
+                162
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "740",
+          "bbox": [
+            164,
+            147,
+            224,
+            167
+          ],
+          "words": [
+            {
+              "text": "740",
+              "bbox": [
+                169,
+                151,
+                184,
+                162
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.004",
+          "bbox": [
+            224,
+            147,
+            402,
+            167
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                366,
+                151,
+                372,
+                162
+              ]
+            },
+            {
+              "text": "0.004",
+              "bbox": [
+                374,
+                151,
+                397,
+                162
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.008",
+          "bbox": [
+            402,
+            147,
+            580,
+            167
+          ],
+          "words": [
+            {
+              "text": "0.008",
+              "bbox": [
+                553,
+                151,
+                575,
+                162
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CpG9",
+          "bbox": [
+            15,
+            167,
+            164,
+            188
+          ],
+          "words": [
+            {
+              "text": "CpG9",
+              "bbox": [
+                20,
+                171,
+                44,
+                182
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "760",
+          "bbox": [
+            164,
+            167,
+            224,
+            188
+          ],
+          "words": [
+            {
+              "text": "760",
+              "bbox": [
+                169,
+                171,
+                184,
+                182
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.004",
+          "bbox": [
+            224,
+            167,
+            402,
+            188
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                366,
+                171,
+                372,
+                182
+              ]
+            },
+            {
+              "text": "0.004",
+              "bbox": [
+                374,
+                171,
+                397,
+                182
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.006",
+          "bbox": [
+            402,
+            167,
+            580,
+            188
+          ],
+          "words": [
+            {
+              "text": "0.006",
+              "bbox": [
+                553,
+                171,
+                575,
+                182
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_039844_t1",
+      "bbox": [
+        15,
+        203,
+        580,
+        326
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            204,
+            580,
+            225
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            225,
+            580,
+            245
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            245,
+            580,
+            265
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            265,
+            580,
+            285
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            285,
+            580,
+            305
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            305,
+            580,
+            326
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td></td><td>Report-driven outbreak investigations</td><td>PRA</td><td>Household survey</td></tr></thead><tbody><tr><td>No. of participantsa</td><td></td><td></td><td></td></tr><tr><td>Total</td><td>211 (100)</td><td>524</td><td>4,000 (100)</td></tr><tr><td>Male</td><td>154 (73)</td><td>b</td><td>2,518 (63)</td></tr><tr><td>Female</td><td>57 (27)</td><td>b</td><td>1,482 (37)</td></tr><tr><td>No. of villages</td><td>43</td><td>56</td><td>218</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            204,
+            148,
+            225
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Report-driven outbreak investigations",
+          "bbox": [
+            148,
+            204,
+            406,
+            225
+          ],
+          "words": [
+            {
+              "text": "Report-driven",
+              "bbox": [
+                153,
+                208,
+                214,
+                219
+              ]
+            },
+            {
+              "text": "outbreak",
+              "bbox": [
+                216,
+                208,
+                255,
+                219
+              ]
+            },
+            {
+              "text": "investigations",
+              "bbox": [
+                258,
+                208,
+                316,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "PRA",
+          "bbox": [
+            406,
+            204,
+            451,
+            225
+          ],
+          "words": [
+            {
+              "text": "PRA",
+              "bbox": [
+                426,
+                208,
+                446,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Household survey",
+          "bbox": [
+            451,
+            204,
+            580,
+            225
+          ],
+          "words": [
+            {
+              "text": "Household",
+              "bbox": [
+                499,
+                208,
+                544,
+                219
+              ]
+            },
+            {
+              "text": "survey",
+              "bbox": [
+                547,
+                208,
+                575,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "No. of participantsa",
+          "bbox": [
+            15,
+            225,
+            148,
+            245
+          ],
+          "words": [
+            {
+              "text": "No.",
+              "bbox": [
+                20,
+                229,
+                35,
+                240
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                37,
+                229,
+                46,
+                240
+              ]
+            },
+            {
+              "text": "participantsa",
+              "bbox": [
+                48,
+                229,
+                99,
+                240
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            148,
+            225,
+            406,
+            245
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            406,
+            225,
+            451,
+            245
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            451,
+            225,
+            580,
+            245
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            15,
+            245,
+            148,
+            265
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                20,
+                249,
+                40,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "211 (100)",
+          "bbox": [
+            148,
+            245,
+            406,
+            265
+          ],
+          "words": [
+            {
+              "text": "211",
+              "bbox": [
+                153,
+                249,
+                167,
+                260
+              ]
+            },
+            {
+              "text": "(100)",
+              "bbox": [
+                170,
+                249,
+                192,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "524",
+          "bbox": [
+            406,
+            245,
+            451,
+            265
+          ],
+          "words": [
+            {
+              "text": "524",
+              "bbox": [
+                431,
+                249,
+                446,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4,000 (100)",
+          "bbox": [
+            451,
+            245,
+            580,
+            265
+          ],
+          "words": [
+            {
+              "text": "4,000",
+              "bbox": [
+                528,
+                249,
+                551,
+                260
+              ]
+            },
+            {
+              "text": "(100)",
+              "bbox": [
+                553,
+                249,
+                575,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Male",
+          "bbox": [
+            15,
+            265,
+            148,
+            285
+          ],
+          "words": [
+            {
+              "text": "Male",
+              "bbox": [
+                20,
+                269,
+                41,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "154 (73)",
+          "bbox": [
+            148,
+            265,
+            406,
+            285
+          ],
+          "words": [
+            {
+              "text": "154",
+              "bbox": [
+                153,
+                269,
+                168,
+                280
+              ]
+            },
+            {
+              "text": "(73)",
+              "bbox": [
+                170,
+                269,
+                187,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "b",
+          "bbox": [
+            406,
+            265,
+            451,
+            285
+          ],
+          "words": [
+            {
+              "text": "b",
+              "bbox": [
+                441,
+                269,
+                446,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2,518 (63)",
+          "bbox": [
+            451,
+            265,
+            580,
+            285
+          ],
+          "words": [
+            {
+              "text": "2,518",
+              "bbox": [
+                533,
+                269,
+                556,
+                280
+              ]
+            },
+            {
+              "text": "(63)",
+              "bbox": [
+                558,
+                269,
+                575,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Female",
+          "bbox": [
+            15,
+            285,
+            148,
+            305
+          ],
+          "words": [
+            {
+              "text": "Female",
+              "bbox": [
+                20,
+                289,
+                49,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "57 (27)",
+          "bbox": [
+            148,
+            285,
+            406,
+            305
+          ],
+          "words": [
+            {
+              "text": "57",
+              "bbox": [
+                153,
+                289,
+                163,
+                300
+              ]
+            },
+            {
+              "text": "(27)",
+              "bbox": [
+                165,
+                289,
+                182,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "b",
+          "bbox": [
+            406,
+            285,
+            451,
+            305
+          ],
+          "words": [
+            {
+              "text": "b",
+              "bbox": [
+                441,
+                289,
+                446,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1,482 (37)",
+          "bbox": [
+            451,
+            285,
+            580,
+            305
+          ],
+          "words": [
+            {
+              "text": "1,482",
+              "bbox": [
+                533,
+                289,
+                556,
+                300
+              ]
+            },
+            {
+              "text": "(37)",
+              "bbox": [
+                558,
+                289,
+                575,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "No. of villages",
+          "bbox": [
+            15,
+            305,
+            148,
+            326
+          ],
+          "words": [
+            {
+              "text": "No.",
+              "bbox": [
+                20,
+                309,
+                35,
+                320
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                37,
+                309,
+                46,
+                320
+              ]
+            },
+            {
+              "text": "villages",
+              "bbox": [
+                48,
+                309,
+                79,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "43",
+          "bbox": [
+            148,
+            305,
+            406,
+            326
+          ],
+          "words": [
+            {
+              "text": "43",
+              "bbox": [
+                153,
+                309,
+                163,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "56",
+          "bbox": [
+            406,
+            305,
+            451,
+            326
+          ],
+          "words": [
+            {
+              "text": "56",
+              "bbox": [
+                436,
+                309,
+                446,
+                320
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "218",
+          "bbox": [
+            451,
+            305,
+            580,
+            326
+          ],
+          "words": [
+            {
+              "text": "218",
+              "bbox": [
+                560,
+                309,
+                575,
+                320
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_039844_t2",
+      "bbox": [
+        15,
+        341,
+        580,
+        447
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            342,
+            580,
+            363
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            363,
+            580,
+            384
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            384,
+            580,
+            405
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            405,
+            580,
+            426
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            426,
+            580,
+            447
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Virus</td><td>S-segment (%)N/NSs genes</td><td>M-segment (%)Polyprotein gene</td><td>L (%)Polymerase gene</td></tr></thead><tbody><tr><td>Inkoo Lövånger (mosquito)a</td><td>43.9/45.5</td><td>35.6</td><td>33.8</td></tr><tr><td>Inkoo virus SW AR 83–161b</td><td>43.8/45.2</td><td>35.5</td><td>ND</td></tr><tr><td>Inkoo Lövånger (larvae)c</td><td>43.2/45.2</td><td>35.6</td><td>ND</td></tr><tr><td>Inkoo KN3641d</td><td>42.5/44.8</td><td>35.6</td><td>33.6</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Virus",
+          "bbox": [
+            16,
+            342,
+            156,
+            363
+          ],
+          "words": [
+            {
+              "text": "Virus",
+              "bbox": [
+                21,
+                346,
+                45,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "S-segment (%)N/NSs genes",
+          "bbox": [
+            156,
+            342,
+            296,
+            363
+          ],
+          "words": [
+            {
+              "text": "S-segment",
+              "bbox": [
+                162,
+                346,
+                206,
+                357
+              ]
+            },
+            {
+              "text": "(%)N/NSs",
+              "bbox": [
+                208,
+                346,
+                251,
+                357
+              ]
+            },
+            {
+              "text": "genes",
+              "bbox": [
+                254,
+                346,
+                277,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "M-segment (%)Polyprotein gene",
+          "bbox": [
+            296,
+            342,
+            461,
+            363
+          ],
+          "words": [
+            {
+              "text": "M-segment",
+              "bbox": [
+                317,
+                346,
+                364,
+                357
+              ]
+            },
+            {
+              "text": "(%)Polyprotein",
+              "bbox": [
+                367,
+                346,
+                433,
+                357
+              ]
+            },
+            {
+              "text": "gene",
+              "bbox": [
+                436,
+                346,
+                455,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "L (%)Polymerase gene",
+          "bbox": [
+            461,
+            342,
+            580,
+            363
+          ],
+          "words": [
+            {
+              "text": "L",
+              "bbox": [
+                477,
+                346,
+                483,
+                357
+              ]
+            },
+            {
+              "text": "(%)Polymerase",
+              "bbox": [
+                486,
+                346,
+                552,
+                357
+              ]
+            },
+            {
+              "text": "gene",
+              "bbox": [
+                555,
+                346,
+                574,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Inkoo Lövånger (mosquito)a",
+          "bbox": [
+            16,
+            363,
+            156,
+            384
+          ],
+          "words": [
+            {
+              "text": "Inkoo",
+              "bbox": [
+                21,
+                367,
+                44,
+                378
+              ]
+            },
+            {
+              "text": "Lövånger",
+              "bbox": [
+                47,
+                367,
+                85,
+                378
+              ]
+            },
+            {
+              "text": "(mosquito)a",
+              "bbox": [
+                88,
+                367,
+                136,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "43.9/45.5",
+          "bbox": [
+            156,
+            363,
+            296,
+            384
+          ],
+          "words": [
+            {
+              "text": "43.9/45.5",
+              "bbox": [
+                162,
+                367,
+                199,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "35.6",
+          "bbox": [
+            296,
+            363,
+            461,
+            384
+          ],
+          "words": [
+            {
+              "text": "35.6",
+              "bbox": [
+                438,
+                367,
+                455,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "33.8",
+          "bbox": [
+            461,
+            363,
+            580,
+            384
+          ],
+          "words": [
+            {
+              "text": "33.8",
+              "bbox": [
+                557,
+                367,
+                574,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Inkoo virus SW AR 83–161b",
+          "bbox": [
+            16,
+            384,
+            156,
+            405
+          ],
+          "words": [
+            {
+              "text": "Inkoo",
+              "bbox": [
+                21,
+                388,
+                44,
+                399
+              ]
+            },
+            {
+              "text": "virus",
+              "bbox": [
+                47,
+                388,
+                67,
+                399
+              ]
+            },
+            {
+              "text": "SW",
+              "bbox": [
+                69,
+                388,
+                84,
+                399
+              ]
+            },
+            {
+              "text": "AR",
+              "bbox": [
+                86,
+                388,
+                100,
+                399
+              ]
+            },
+            {
+              "text": "83–161b",
+              "bbox": [
+                102,
+                388,
+                138,
+                399
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "43.8/45.2",
+          "bbox": [
+            156,
+            384,
+            296,
+            405
+          ],
+          "words": [
+            {
+              "text": "43.8/45.2",
+              "bbox": [
+                162,
+                388,
+                199,
+                399
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "35.5",
+          "bbox": [
+            296,
+            384,
+            461,
+            405
+          ],
+          "words": [
+            {
+              "text": "35.5",
+              "bbox": [
+                438,
+                388,
+                455,
+                399
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "ND",
+          "bbox": [
+            461,
+            384,
+            580,
+            405
+          ],
+          "words": [
+            {
+              "text": "ND",
+              "bbox": [
+                560,
+                388,
+                574,
+                399
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Inkoo Lövånger (larvae)c",
+          "bbox": [
+            16,
+            405,
+            156,
+            426
+          ],
+          "words": [
+            {
+              "text": "Inkoo",
+              "bbox": [
+                21,
+                409,
+                44,
+                420
+              ]
+            },
+            {
+              "text": "Lövånger",
+              "bbox": [
+                47,
+                409,
+                85,
+                420
+              ]
+            },
+            {
+              "text": "(larvae)c",
+              "bbox": [
+                88,
+                409,
+                123,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "43.2/45.2",
+          "bbox": [
+            156,
+            405,
+            296,
+            426
+          ],
+          "words": [
+            {
+              "text": "43.2/45.2",
+              "bbox": [
+                162,
+                409,
+                199,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "35.6",
+          "bbox": [
+            296,
+            405,
+            461,
+            426
+          ],
+          "words": [
+            {
+              "text": "35.6",
+              "bbox": [
+                438,
+                409,
+                455,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "ND",
+          "bbox": [
+            461,
+            405,
+            580,
+            426
+          ],
+          "words": [
+            {
+              "text": "ND",
+              "bbox": [
+                560,
+                409,
+                574,
+                420
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Inkoo KN3641d",
+          "bbox": [
+            16,
+            426,
+            156,
+            447
+          ],
+          "words": [
+            {
+              "text": "Inkoo",
+              "bbox": [
+                21,
+                430,
+                44,
+                441
+              ]
+            },
+            {
+              "text": "KN3641d",
+              "bbox": [
+                47,
+                430,
+                86,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "42.5/44.8",
+          "bbox": [
+            156,
+            426,
+            296,
+            447
+          ],
+          "words": [
+            {
+              "text": "42.5/44.8",
+              "bbox": [
+                162,
+                430,
+                199,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "35.6",
+          "bbox": [
+            296,
+            426,
+            461,
+            447
+          ],
+          "words": [
+            {
+              "text": "35.6",
+              "bbox": [
+                438,
+                430,
+                455,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "33.6",
+          "bbox": [
+            461,
+            426,
+            580,
+            447
+          ],
+          "words": [
+            {
+              "text": "33.6",
+              "bbox": [
+                557,
+                430,
+                574,
+                441
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        462,
+        580,
+        616
+      ],
+      "content": "The data presented in the following table offers a comprehensive overview of the associations between various CpG clusters and their corresponding metrics in relation to outbreak investigations. Specifically, the CpG cluster identified as 1–2 demonstrates a statistically significant β value of 0.004, indicating a notable correlation with the outcomes of report-driven outbreak investigations. The sample size, denoted by the column 'n,' includes a robust number of participants, which enhances the reliability of the findings. Furthermore, the p value of 0.98 suggests that while the correlation is present, the statistical significance may require further investigation to establish definitive conclusions. The interplay between the S-segment (%) of N/NSs genes and the M-segment (%) of the polyprotein gene is also worth noting, as these metrics may contribute to the understanding of viral behavior in response to different outbreak scenarios. Overall, this table serves as a crucial resource for researchers aiming to dissect the intricate dynamics of CpG clusters in viral epidemiology, thereby facilitating targeted intervention strategies.",
+      "lines": [
+        {
+          "text": "The data presented in the following table offers a comprehensive overview of the associations between various CpG clusters",
+          "bbox": [
+            15,
+            463,
+            580,
+            475
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                463,
+                32,
+                475
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                36,
+                463,
+                54,
+                475
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                58,
+                463,
+                100,
+                475
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                104,
+                463,
+                112,
+                475
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                116,
+                463,
+                130,
+                475
+              ]
+            },
+            {
+              "text": "following",
+              "bbox": [
+                133,
+                463,
+                176,
+                475
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                180,
+                463,
+                201,
+                475
+              ]
+            },
+            {
+              "text": "offers",
+              "bbox": [
+                205,
+                463,
+                231,
+                475
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                234,
+                463,
+                239,
+                475
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                243,
+                463,
+                310,
+                475
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                313,
+                463,
+                354,
+                475
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                358,
+                463,
+                367,
+                475
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                371,
+                463,
+                385,
+                475
+              ]
+            },
+            {
+              "text": "associations",
+              "bbox": [
+                388,
+                463,
+                441,
+                475
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                445,
+                463,
+                482,
+                475
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                486,
+                463,
+                518,
+                475
+              ]
+            },
+            {
+              "text": "CpG",
+              "bbox": [
+                522,
+                463,
+                543,
+                475
+              ]
+            },
+            {
+              "text": "clusters",
+              "bbox": [
+                546,
+                463,
+                580,
+                475
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and their corresponding metrics in relation to outbreak investigations. Specifically, the CpG cluster identified as 1–2",
+          "bbox": [
+            15,
+            478,
+            580,
+            490
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                478,
+                31,
+                490
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                37,
+                478,
+                57,
+                490
+              ]
+            },
+            {
+              "text": "corresponding",
+              "bbox": [
+                64,
+                478,
+                127,
+                490
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                133,
+                478,
+                165,
+                490
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                172,
+                478,
+                180,
+                490
+              ]
+            },
+            {
+              "text": "relation",
+              "bbox": [
+                186,
+                478,
+                220,
+                490
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                226,
+                478,
+                235,
+                490
+              ]
+            },
+            {
+              "text": "outbreak",
+              "bbox": [
+                241,
+                478,
+                280,
+                490
+              ]
+            },
+            {
+              "text": "investigations.",
+              "bbox": [
+                286,
+                478,
+                350,
+                490
+              ]
+            },
+            {
+              "text": "Specifically,",
+              "bbox": [
+                356,
+                478,
+                411,
+                490
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                417,
+                478,
+                431,
+                490
+              ]
+            },
+            {
+              "text": "CpG",
+              "bbox": [
+                437,
+                478,
+                458,
+                490
+              ]
+            },
+            {
+              "text": "cluster",
+              "bbox": [
+                464,
+                478,
+                493,
+                490
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                500,
+                478,
+                542,
+                490
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                548,
+                478,
+                557,
+                490
+              ]
+            },
+            {
+              "text": "1–2",
+              "bbox": [
+                563,
+                478,
+                580,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "text": "demonstrates a statistically significant β value of 0.004, indicating a notable correlation with the outcomes of report-driven",
+          "bbox": [
+            15,
+            494,
+            580,
+            506
+          ],
+          "words": [
+            {
+              "text": "demonstrates",
+              "bbox": [
+                15,
+                494,
+                73,
+                506
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                77,
+                494,
+                82,
+                506
+              ]
+            },
+            {
+              "text": "statistically",
+              "bbox": [
+                86,
+                494,
+                137,
+                506
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                141,
+                494,
+                187,
+                506
+              ]
+            },
+            {
+              "text": "β",
+              "bbox": [
+                192,
+                494,
+                197,
+                506
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                201,
+                494,
+                225,
+                506
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                229,
+                494,
+                239,
+                506
+              ]
+            },
+            {
+              "text": "0.004,",
+              "bbox": [
+                243,
+                494,
+                270,
+                506
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                275,
+                494,
+                319,
+                506
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                323,
+                494,
+                328,
+                506
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                332,
+                494,
+                364,
+                506
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                369,
+                494,
+                416,
+                506
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                421,
+                494,
+                440,
+                506
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                444,
+                494,
+                458,
+                506
+              ]
+            },
+            {
+              "text": "outcomes",
+              "bbox": [
+                462,
+                494,
+                504,
+                506
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                509,
+                494,
+                518,
+                506
+              ]
+            },
+            {
+              "text": "report-driven",
+              "bbox": [
+                522,
+                494,
+                580,
+                506
+              ]
+            }
+          ]
+        },
+        {
+          "text": "outbreak investigations. The sample size, denoted by the column 'n,' includes a robust number of participants, which enhances",
+          "bbox": [
+            15,
+            509,
+            580,
+            521
+          ],
+          "words": [
+            {
+              "text": "outbreak",
+              "bbox": [
+                15,
+                509,
+                53,
+                521
+              ]
+            },
+            {
+              "text": "investigations.",
+              "bbox": [
+                57,
+                509,
+                121,
+                521
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                124,
+                509,
+                141,
+                521
+              ]
+            },
+            {
+              "text": "sample",
+              "bbox": [
+                144,
+                509,
+                176,
+                521
+              ]
+            },
+            {
+              "text": "size,",
+              "bbox": [
+                179,
+                509,
+                199,
+                521
+              ]
+            },
+            {
+              "text": "denoted",
+              "bbox": [
+                202,
+                509,
+                237,
+                521
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                240,
+                509,
+                251,
+                521
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                255,
+                509,
+                268,
+                521
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                271,
+                509,
+                304,
+                521
+              ]
+            },
+            {
+              "text": "'n,'",
+              "bbox": [
+                308,
+                509,
+                320,
+                521
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                323,
+                509,
+                360,
+                521
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                363,
+                509,
+                368,
+                521
+              ]
+            },
+            {
+              "text": "robust",
+              "bbox": [
+                372,
+                509,
+                399,
+                521
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                403,
+                509,
+                436,
+                521
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                439,
+                509,
+                449,
+                521
+              ]
+            },
+            {
+              "text": "participants,",
+              "bbox": [
+                452,
+                509,
+                506,
+                521
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                509,
+                509,
+                536,
+                521
+              ]
+            },
+            {
+              "text": "enhances",
+              "bbox": [
+                540,
+                509,
+                580,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the reliability of the findings. Furthermore, the p value of 0.98 suggests that while the correlation is present, the statistical",
+          "bbox": [
+            15,
+            525,
+            580,
+            537
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                525,
+                28,
+                537
+              ]
+            },
+            {
+              "text": "reliability",
+              "bbox": [
+                33,
+                525,
+                76,
+                537
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                80,
+                525,
+                89,
+                537
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                93,
+                525,
+                107,
+                537
+              ]
+            },
+            {
+              "text": "findings.",
+              "bbox": [
+                111,
+                525,
+                150,
+                537
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                154,
+                525,
+                212,
+                537
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                216,
+                525,
+                230,
+                537
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                234,
+                525,
+                240,
+                537
+              ]
+            },
+            {
+              "text": "value",
+              "bbox": [
+                244,
+                525,
+                268,
+                537
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                272,
+                525,
+                281,
+                537
+              ]
+            },
+            {
+              "text": "0.98",
+              "bbox": [
+                286,
+                525,
+                305,
+                537
+              ]
+            },
+            {
+              "text": "suggests",
+              "bbox": [
+                309,
+                525,
+                346,
+                537
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                351,
+                525,
+                367,
+                537
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                372,
+                525,
+                396,
+                537
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                400,
+                525,
+                414,
+                537
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                418,
+                525,
+                466,
+                537
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                470,
+                525,
+                478,
+                537
+              ]
+            },
+            {
+              "text": "present,",
+              "bbox": [
+                482,
+                525,
+                516,
+                537
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                521,
+                525,
+                534,
+                537
+              ]
+            },
+            {
+              "text": "statistical",
+              "bbox": [
+                538,
+                525,
+                580,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "text": "significance may require further investigation to establish definitive conclusions. The interplay between the S-segment (%) of",
+          "bbox": [
+            15,
+            540,
+            580,
+            552
+          ],
+          "words": [
+            {
+              "text": "significance",
+              "bbox": [
+                15,
+                540,
+                68,
+                552
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                72,
+                540,
+                91,
+                552
+              ]
+            },
+            {
+              "text": "require",
+              "bbox": [
+                94,
+                540,
+                125,
+                552
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                129,
+                540,
+                159,
+                552
+              ]
+            },
+            {
+              "text": "investigation",
+              "bbox": [
+                162,
+                540,
+                219,
+                552
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                223,
+                540,
+                231,
+                552
+              ]
+            },
+            {
+              "text": "establish",
+              "bbox": [
+                235,
+                540,
+                273,
+                552
+              ]
+            },
+            {
+              "text": "definitive",
+              "bbox": [
+                277,
+                540,
+                319,
+                552
+              ]
+            },
+            {
+              "text": "conclusions.",
+              "bbox": [
+                322,
+                540,
+                377,
+                552
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                380,
+                540,
+                398,
+                552
+              ]
+            },
+            {
+              "text": "interplay",
+              "bbox": [
+                401,
+                540,
+                440,
+                552
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                444,
+                540,
+                480,
+                552
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                484,
+                540,
+                497,
+                552
+              ]
+            },
+            {
+              "text": "S-segment",
+              "bbox": [
+                501,
+                540,
+                547,
+                552
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                551,
+                540,
+                567,
+                552
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                540,
+                580,
+                552
+              ]
+            }
+          ]
+        },
+        {
+          "text": "N/NSs genes and the M-segment (%) of the polyprotein gene is also worth noting, as these metrics may contribute to the",
+          "bbox": [
+            15,
+            555,
+            580,
+            567
+          ],
+          "words": [
+            {
+              "text": "N/NSs",
+              "bbox": [
+                15,
+                555,
+                44,
+                567
+              ]
+            },
+            {
+              "text": "genes",
+              "bbox": [
+                49,
+                555,
+                74,
+                567
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                78,
+                555,
+                94,
+                567
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                99,
+                555,
+                112,
+                567
+              ]
+            },
+            {
+              "text": "M-segment",
+              "bbox": [
+                117,
+                555,
+                167,
+                567
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                171,
+                555,
+                188,
+                567
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                192,
+                555,
+                201,
+                567
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                206,
+                555,
+                219,
+                567
+              ]
+            },
+            {
+              "text": "polyprotein",
+              "bbox": [
+                224,
+                555,
+                274,
+                567
+              ]
+            },
+            {
+              "text": "gene",
+              "bbox": [
+                279,
+                555,
+                300,
+                567
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                304,
+                555,
+                311,
+                567
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                316,
+                555,
+                334,
+                567
+              ]
+            },
+            {
+              "text": "worth",
+              "bbox": [
+                338,
+                555,
+                364,
+                567
+              ]
+            },
+            {
+              "text": "noting,",
+              "bbox": [
+                368,
+                555,
+                399,
+                567
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                404,
+                555,
+                413,
+                567
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                417,
+                555,
+                440,
+                567
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                444,
+                555,
+                477,
+                567
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                481,
+                555,
+                500,
+                567
+              ]
+            },
+            {
+              "text": "contribute",
+              "bbox": [
+                504,
+                555,
+                549,
+                567
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                554,
+                555,
+                562,
+                567
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                555,
+                580,
+                567
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding of viral behavior in response to different outbreak scenarios. Overall, this table serves as a crucial resource for",
+          "bbox": [
+            15,
+            571,
+            580,
+            583
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                571,
+                77,
+                583
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                81,
+                571,
+                90,
+                583
+              ]
+            },
+            {
+              "text": "viral",
+              "bbox": [
+                94,
+                571,
+                114,
+                583
+              ]
+            },
+            {
+              "text": "behavior",
+              "bbox": [
+                117,
+                571,
+                156,
+                583
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                160,
+                571,
+                168,
+                583
+              ]
+            },
+            {
+              "text": "response",
+              "bbox": [
+                172,
+                571,
+                210,
+                583
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                214,
+                571,
+                222,
+                583
+              ]
+            },
+            {
+              "text": "different",
+              "bbox": [
+                226,
+                571,
+                264,
+                583
+              ]
+            },
+            {
+              "text": "outbreak",
+              "bbox": [
+                267,
+                571,
+                306,
+                583
+              ]
+            },
+            {
+              "text": "scenarios.",
+              "bbox": [
+                309,
+                571,
+                353,
+                583
+              ]
+            },
+            {
+              "text": "Overall,",
+              "bbox": [
+                357,
+                571,
+                392,
+                583
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                396,
+                571,
+                412,
+                583
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                415,
+                571,
+                437,
+                583
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                440,
+                571,
+                468,
+                583
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                472,
+                571,
+                481,
+                583
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                484,
+                571,
+                489,
+                583
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                493,
+                571,
+                523,
+                583
+              ]
+            },
+            {
+              "text": "resource",
+              "bbox": [
+                526,
+                571,
+                564,
+                583
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                571,
+                580,
+                583
+              ]
+            }
+          ]
+        },
+        {
+          "text": "researchers aiming to dissect the intricate dynamics of CpG clusters in viral epidemiology, thereby facilitating targeted",
+          "bbox": [
+            15,
+            586,
+            580,
+            598
+          ],
+          "words": [
+            {
+              "text": "researchers",
+              "bbox": [
+                15,
+                586,
+                64,
+                598
+              ]
+            },
+            {
+              "text": "aiming",
+              "bbox": [
+                70,
+                586,
+                101,
+                598
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                106,
+                586,
+                115,
+                598
+              ]
+            },
+            {
+              "text": "dissect",
+              "bbox": [
+                120,
+                586,
+                150,
+                598
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                156,
+                586,
+                169,
+                598
+              ]
+            },
+            {
+              "text": "intricate",
+              "bbox": [
+                175,
+                586,
+                211,
+                598
+              ]
+            },
+            {
+              "text": "dynamics",
+              "bbox": [
+                217,
+                586,
+                259,
+                598
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                264,
+                586,
+                274,
+                598
+              ]
+            },
+            {
+              "text": "CpG",
+              "bbox": [
+                279,
+                586,
+                300,
+                598
+              ]
+            },
+            {
+              "text": "clusters",
+              "bbox": [
+                306,
+                586,
+                339,
+                598
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                345,
+                586,
+                353,
+                598
+              ]
+            },
+            {
+              "text": "viral",
+              "bbox": [
+                359,
+                586,
+                379,
+                598
+              ]
+            },
+            {
+              "text": "epidemiology,",
+              "bbox": [
+                385,
+                586,
+                447,
+                598
+              ]
+            },
+            {
+              "text": "thereby",
+              "bbox": [
+                453,
+                586,
+                486,
+                598
+              ]
+            },
+            {
+              "text": "facilitating",
+              "bbox": [
+                492,
+                586,
+                539,
+                598
+              ]
+            },
+            {
+              "text": "targeted",
+              "bbox": [
+                545,
+                586,
+                580,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "text": "intervention strategies.",
+          "bbox": [
+            15,
+            602,
+            115,
+            614
+          ],
+          "words": [
+            {
+              "text": "intervention",
+              "bbox": [
+                15,
+                602,
+                68,
+                614
+              ]
+            },
+            {
+              "text": "strategies.",
+              "bbox": [
+                71,
+                602,
+                115,
+                614
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

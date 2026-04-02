@@ -1,0 +1,4510 @@
+{
+  "image_id": "img_158716",
+  "subset": "S3",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_158716_t0",
+      "bbox": [
+        15,
+        190,
+        580,
+        350
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            190,
+            580,
+            210
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            210,
+            580,
+            230
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            230,
+            580,
+            250
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            250,
+            580,
+            270
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            270,
+            580,
+            290
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            290,
+            580,
+            310
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            310,
+            580,
+            330
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            330,
+            580,
+            350
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Year</td><td>TotalProduction</td><td colspan=\"2\">ChangeAnalysis</td></tr><tr><td>2020</td><td>2021</td><td colspan=\"2\">2022</td></tr><tr><td>Volume(Mtons)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>AvgPrice(EUR)</td></tr><tr><td>15.5</td><td>n/a</td><td>30.2</td><td>75.00</td></tr><tr><td>16.0</td><td>3.2</td><td>31.0</td><td>78.00</td></tr><tr><td>16.5</td><td>3.1</td><td>32.5</td><td>80.00</td></tr><tr><td>Total</td><td>n/a</td><td>Change</td><td>5.0</td></tr><tr><td>MarketShare</td><td>n/a</td><td>Change</td><td>5.0</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Year",
+          "bbox": [
+            15,
+            190,
+            283,
+            210
+          ],
+          "words": [
+            {
+              "text": "Year",
+              "bbox": [
+                258,
+                194,
+                278,
+                205
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalProduction",
+          "bbox": [
+            283,
+            190,
+            382,
+            210
+          ],
+          "words": [
+            {
+              "text": "TotalProduction",
+              "bbox": [
+                289,
+                194,
+                358,
+                205
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "ChangeAnalysis",
+          "bbox": [
+            382,
+            190,
+            580,
+            210
+          ],
+          "words": [
+            {
+              "text": "ChangeAnalysis",
+              "bbox": [
+                506,
+                194,
+                575,
+                205
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "2020",
+          "bbox": [
+            15,
+            210,
+            283,
+            230
+          ],
+          "words": [
+            {
+              "text": "2020",
+              "bbox": [
+                258,
+                214,
+                278,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "2021",
+          "bbox": [
+            283,
+            210,
+            382,
+            230
+          ],
+          "words": [
+            {
+              "text": "2021",
+              "bbox": [
+                289,
+                214,
+                309,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "2022",
+          "bbox": [
+            382,
+            210,
+            580,
+            230
+          ],
+          "words": [
+            {
+              "text": "2022",
+              "bbox": [
+                555,
+                214,
+                575,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Volume(Mtons)",
+          "bbox": [
+            15,
+            230,
+            283,
+            250
+          ],
+          "words": [
+            {
+              "text": "Volume(Mtons)",
+              "bbox": [
+                211,
+                234,
+                278,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYChange(%)",
+          "bbox": [
+            283,
+            230,
+            382,
+            250
+          ],
+          "words": [
+            {
+              "text": "YoYChange(%)",
+              "bbox": [
+                289,
+                234,
+                356,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            382,
+            230,
+            481,
+            250
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                402,
+                234,
+                476,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AvgPrice(EUR)",
+          "bbox": [
+            481,
+            230,
+            580,
+            250
+          ],
+          "words": [
+            {
+              "text": "AvgPrice(EUR)",
+              "bbox": [
+                509,
+                234,
+                575,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "15.5",
+          "bbox": [
+            15,
+            250,
+            283,
+            270
+          ],
+          "words": [
+            {
+              "text": "15.5",
+              "bbox": [
+                260,
+                254,
+                278,
+                265
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "n/a",
+          "bbox": [
+            283,
+            250,
+            382,
+            270
+          ],
+          "words": [
+            {
+              "text": "n/a",
+              "bbox": [
+                289,
+                254,
+                301,
+                265
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "30.2",
+          "bbox": [
+            382,
+            250,
+            481,
+            270
+          ],
+          "words": [
+            {
+              "text": "30.2",
+              "bbox": [
+                458,
+                254,
+                476,
+                265
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "75.00",
+          "bbox": [
+            481,
+            250,
+            580,
+            270
+          ],
+          "words": [
+            {
+              "text": "75.00",
+              "bbox": [
+                553,
+                254,
+                575,
+                265
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "16.0",
+          "bbox": [
+            15,
+            270,
+            283,
+            290
+          ],
+          "words": [
+            {
+              "text": "16.0",
+              "bbox": [
+                260,
+                274,
+                278,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.2",
+          "bbox": [
+            283,
+            270,
+            382,
+            290
+          ],
+          "words": [
+            {
+              "text": "3.2",
+              "bbox": [
+                289,
+                274,
+                301,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "31.0",
+          "bbox": [
+            382,
+            270,
+            481,
+            290
+          ],
+          "words": [
+            {
+              "text": "31.0",
+              "bbox": [
+                458,
+                274,
+                476,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "78.00",
+          "bbox": [
+            481,
+            270,
+            580,
+            290
+          ],
+          "words": [
+            {
+              "text": "78.00",
+              "bbox": [
+                553,
+                274,
+                575,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "16.5",
+          "bbox": [
+            15,
+            290,
+            283,
+            310
+          ],
+          "words": [
+            {
+              "text": "16.5",
+              "bbox": [
+                260,
+                294,
+                278,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.1",
+          "bbox": [
+            283,
+            290,
+            382,
+            310
+          ],
+          "words": [
+            {
+              "text": "3.1",
+              "bbox": [
+                289,
+                294,
+                301,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "32.5",
+          "bbox": [
+            382,
+            290,
+            481,
+            310
+          ],
+          "words": [
+            {
+              "text": "32.5",
+              "bbox": [
+                458,
+                294,
+                476,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "80.00",
+          "bbox": [
+            481,
+            290,
+            580,
+            310
+          ],
+          "words": [
+            {
+              "text": "80.00",
+              "bbox": [
+                553,
+                294,
+                575,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            15,
+            310,
+            283,
+            330
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                257,
+                314,
+                278,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "n/a",
+          "bbox": [
+            283,
+            310,
+            382,
+            330
+          ],
+          "words": [
+            {
+              "text": "n/a",
+              "bbox": [
+                289,
+                314,
+                301,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Change",
+          "bbox": [
+            382,
+            310,
+            481,
+            330
+          ],
+          "words": [
+            {
+              "text": "Change",
+              "bbox": [
+                445,
+                314,
+                476,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            481,
+            310,
+            580,
+            330
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                563,
+                314,
+                575,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "MarketShare",
+          "bbox": [
+            15,
+            330,
+            283,
+            350
+          ],
+          "words": [
+            {
+              "text": "MarketShare",
+              "bbox": [
+                226,
+                334,
+                278,
+                345
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "n/a",
+          "bbox": [
+            283,
+            330,
+            382,
+            350
+          ],
+          "words": [
+            {
+              "text": "n/a",
+              "bbox": [
+                289,
+                334,
+                301,
+                345
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Change",
+          "bbox": [
+            382,
+            330,
+            481,
+            350
+          ],
+          "words": [
+            {
+              "text": "Change",
+              "bbox": [
+                445,
+                334,
+                476,
+                345
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            481,
+            330,
+            580,
+            350
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                563,
+                334,
+                575,
+                345
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        426,
+        580,
+        765
+      ],
+      "content": "In the context of the ongoing recovery of the European construction sector and the increasing demand for sustainable building materials, the analysis of cement production volumes has become pivotal for evaluating market dynamics and forecasting future trends. The table presented herein illustrates the cement production volumes for CRH plc over the recent fiscal year, highlighting key metrics such as Volume (Mtons) and Year-over-Year Change (YoY Change %). These metrics are essential for understanding the company's operational performance, particularly in light of evolving market conditions influenced by both regulatory frameworks and consumer preferences shifting toward greener alternatives.\n\nAs noted, the cement industry is experiencing a transformative period, with a notable emphasis on reducing carbon footprints and enhancing the overall sustainability of construction practices. In this regard, CRH plc has strategically positioned itself to capitalize on these trends, thereby influencing its market share percentage, as reflected in the data. The company's ability to adapt to these changes is critical, particularly in a competitive landscape where traditional production methods are being scrutinized for their environmental impact. Consequently, the data table provides insights not only into CRH's cement output but also into its relative performance against competitors in terms of market share and pricing strategies.\n\nMoreover, the Average Price (EUR) column reflects the financial implications of production decisions and market demand fluctuations. The interplay between volume output and pricing is a significant aspect of CRH’s overall profitability, as it navigates the challenges posed by rising raw material costs and regulatory pressures aimed at fostering sustainability. The Year-over-Year Change metric serves as a critical indicator of growth or contraction in production volumes, providing stakeholders with a clear understanding of the company's trajectory in the context of broader industry trends.\n\nIn summary, the cement production volumes table serves as a comprehensive overview of CRH plc's operational efficiency and market positioning within the European construction and building materials sector. It encapsulates essential data points that not only reflect past performance but also inform strategic decision-making as the company continues to innovate and adapt in a rapidly evolving market landscape. As we delve deeper into the analysis, it will become increasingly evident how these metrics correlate with CRH's long-term objectives in sustainability and market leadership.",
+      "lines": [
+        {
+          "text": "In the context of the ongoing recovery of the European construction sector and the increasing demand for sustainable building",
+          "bbox": [
+            15,
+            427,
+            580,
+            439
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                427,
+                24,
+                439
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                27,
+                427,
+                41,
+                439
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                44,
+                427,
+                77,
+                439
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                80,
+                427,
+                89,
+                439
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                92,
+                427,
+                106,
+                439
+              ]
+            },
+            {
+              "text": "ongoing",
+              "bbox": [
+                109,
+                427,
+                145,
+                439
+              ]
+            },
+            {
+              "text": "recovery",
+              "bbox": [
+                149,
+                427,
+                187,
+                439
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                190,
+                427,
+                200,
+                439
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                203,
+                427,
+                216,
+                439
+              ]
+            },
+            {
+              "text": "European",
+              "bbox": [
+                220,
+                427,
+                262,
+                439
+              ]
+            },
+            {
+              "text": "construction",
+              "bbox": [
+                265,
+                427,
+                319,
+                439
+              ]
+            },
+            {
+              "text": "sector",
+              "bbox": [
+                323,
+                427,
+                349,
+                439
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                352,
+                427,
+                368,
+                439
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                372,
+                427,
+                385,
+                439
+              ]
+            },
+            {
+              "text": "increasing",
+              "bbox": [
+                388,
+                427,
+                434,
+                439
+              ]
+            },
+            {
+              "text": "demand",
+              "bbox": [
+                437,
+                427,
+                472,
+                439
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                475,
+                427,
+                488,
+                439
+              ]
+            },
+            {
+              "text": "sustainable",
+              "bbox": [
+                491,
+                427,
+                540,
+                439
+              ]
+            },
+            {
+              "text": "building",
+              "bbox": [
+                543,
+                427,
+                580,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "text": "materials, the analysis of cement production volumes has become pivotal for evaluating market dynamics and forecasting future",
+          "bbox": [
+            15,
+            442,
+            580,
+            454
+          ],
+          "words": [
+            {
+              "text": "materials,",
+              "bbox": [
+                15,
+                442,
+                58,
+                454
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                61,
+                442,
+                74,
+                454
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                77,
+                442,
+                113,
+                454
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                115,
+                442,
+                125,
+                454
+              ]
+            },
+            {
+              "text": "cement",
+              "bbox": [
+                127,
+                442,
+                159,
+                454
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                162,
+                442,
+                210,
+                454
+              ]
+            },
+            {
+              "text": "volumes",
+              "bbox": [
+                213,
+                442,
+                250,
+                454
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                253,
+                442,
+                267,
+                454
+              ]
+            },
+            {
+              "text": "become",
+              "bbox": [
+                270,
+                442,
+                304,
+                454
+              ]
+            },
+            {
+              "text": "pivotal",
+              "bbox": [
+                307,
+                442,
+                338,
+                454
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                341,
+                442,
+                353,
+                454
+              ]
+            },
+            {
+              "text": "evaluating",
+              "bbox": [
+                356,
+                442,
+                402,
+                454
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                405,
+                442,
+                435,
+                454
+              ]
+            },
+            {
+              "text": "dynamics",
+              "bbox": [
+                438,
+                442,
+                480,
+                454
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                483,
+                442,
+                499,
+                454
+              ]
+            },
+            {
+              "text": "forecasting",
+              "bbox": [
+                502,
+                442,
+                551,
+                454
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                554,
+                442,
+                580,
+                454
+              ]
+            }
+          ]
+        },
+        {
+          "text": "trends. The table presented herein illustrates the cement production volumes for CRH plc over the recent fiscal year,",
+          "bbox": [
+            15,
+            458,
+            580,
+            470
+          ],
+          "words": [
+            {
+              "text": "trends.",
+              "bbox": [
+                15,
+                458,
+                45,
+                470
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                50,
+                458,
+                67,
+                470
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                73,
+                458,
+                95,
+                470
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                101,
+                458,
+                143,
+                470
+              ]
+            },
+            {
+              "text": "herein",
+              "bbox": [
+                149,
+                458,
+                176,
+                470
+              ]
+            },
+            {
+              "text": "illustrates",
+              "bbox": [
+                182,
+                458,
+                225,
+                470
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                231,
+                458,
+                244,
+                470
+              ]
+            },
+            {
+              "text": "cement",
+              "bbox": [
+                250,
+                458,
+                282,
+                470
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                288,
+                458,
+                336,
+                470
+              ]
+            },
+            {
+              "text": "volumes",
+              "bbox": [
+                342,
+                458,
+                379,
+                470
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                385,
+                458,
+                398,
+                470
+              ]
+            },
+            {
+              "text": "CRH",
+              "bbox": [
+                403,
+                458,
+                426,
+                470
+              ]
+            },
+            {
+              "text": "plc",
+              "bbox": [
+                432,
+                458,
+                445,
+                470
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                451,
+                458,
+                471,
+                470
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                477,
+                458,
+                490,
+                470
+              ]
+            },
+            {
+              "text": "recent",
+              "bbox": [
+                496,
+                458,
+                523,
+                470
+              ]
+            },
+            {
+              "text": "fiscal",
+              "bbox": [
+                529,
+                458,
+                553,
+                470
+              ]
+            },
+            {
+              "text": "year,",
+              "bbox": [
+                559,
+                458,
+                580,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "text": "highlighting key metrics such as Volume (Mtons) and Year-over-Year Change (YoY Change %). These metrics are essential for",
+          "bbox": [
+            15,
+            473,
+            580,
+            485
+          ],
+          "words": [
+            {
+              "text": "highlighting",
+              "bbox": [
+                15,
+                473,
+                69,
+                485
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                72,
+                473,
+                88,
+                485
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                91,
+                473,
+                123,
+                485
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                126,
+                473,
+                147,
+                485
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                150,
+                473,
+                159,
+                485
+              ]
+            },
+            {
+              "text": "Volume",
+              "bbox": [
+                162,
+                473,
+                196,
+                485
+              ]
+            },
+            {
+              "text": "(Mtons)",
+              "bbox": [
+                199,
+                473,
+                234,
+                485
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                237,
+                473,
+                253,
+                485
+              ]
+            },
+            {
+              "text": "Year-over-Year",
+              "bbox": [
+                256,
+                473,
+                323,
+                485
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                326,
+                473,
+                360,
+                485
+              ]
+            },
+            {
+              "text": "(YoY",
+              "bbox": [
+                363,
+                473,
+                386,
+                485
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                390,
+                473,
+                423,
+                485
+              ]
+            },
+            {
+              "text": "%).",
+              "bbox": [
+                426,
+                473,
+                442,
+                485
+              ]
+            },
+            {
+              "text": "These",
+              "bbox": [
+                445,
+                473,
+                471,
+                485
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                474,
+                473,
+                507,
+                485
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                510,
+                473,
+                523,
+                485
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                526,
+                473,
+                564,
+                485
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                473,
+                580,
+                485
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding the company's operational performance, particularly in light of evolving market conditions influenced by both",
+          "bbox": [
+            15,
+            489,
+            580,
+            501
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                489,
+                77,
+                501
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                81,
+                489,
+                95,
+                501
+              ]
+            },
+            {
+              "text": "company's",
+              "bbox": [
+                99,
+                489,
+                145,
+                501
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                149,
+                489,
+                198,
+                501
+              ]
+            },
+            {
+              "text": "performance,",
+              "bbox": [
+                202,
+                489,
+                261,
+                501
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                265,
+                489,
+                315,
+                501
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                319,
+                489,
+                328,
+                501
+              ]
+            },
+            {
+              "text": "light",
+              "bbox": [
+                332,
+                489,
+                352,
+                501
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                356,
+                489,
+                365,
+                501
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                369,
+                489,
+                407,
+                501
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                411,
+                489,
+                442,
+                501
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                446,
+                489,
+                491,
+                501
+              ]
+            },
+            {
+              "text": "influenced",
+              "bbox": [
+                495,
+                489,
+                542,
+                501
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                546,
+                489,
+                557,
+                501
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                560,
+                489,
+                580,
+                501
+              ]
+            }
+          ]
+        },
+        {
+          "text": "regulatory frameworks and consumer preferences shifting toward greener alternatives.\n\nAs noted, the cement industry is",
+          "bbox": [
+            15,
+            504,
+            580,
+            516
+          ],
+          "words": [
+            {
+              "text": "regulatory",
+              "bbox": [
+                15,
+                504,
+                60,
+                516
+              ]
+            },
+            {
+              "text": "frameworks",
+              "bbox": [
+                66,
+                504,
+                118,
+                516
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                124,
+                504,
+                140,
+                516
+              ]
+            },
+            {
+              "text": "consumer",
+              "bbox": [
+                146,
+                504,
+                189,
+                516
+              ]
+            },
+            {
+              "text": "preferences",
+              "bbox": [
+                194,
+                504,
+                245,
+                516
+              ]
+            },
+            {
+              "text": "shifting",
+              "bbox": [
+                251,
+                504,
+                284,
+                516
+              ]
+            },
+            {
+              "text": "toward",
+              "bbox": [
+                290,
+                504,
+                321,
+                516
+              ]
+            },
+            {
+              "text": "greener",
+              "bbox": [
+                326,
+                504,
+                359,
+                516
+              ]
+            },
+            {
+              "text": "alternatives.",
+              "bbox": [
+                365,
+                504,
+                418,
+                516
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                423,
+                504,
+                436,
+                516
+              ]
+            },
+            {
+              "text": "noted,",
+              "bbox": [
+                441,
+                504,
+                469,
+                516
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                474,
+                504,
+                488,
+                516
+              ]
+            },
+            {
+              "text": "cement",
+              "bbox": [
+                493,
+                504,
+                525,
+                516
+              ]
+            },
+            {
+              "text": "industry",
+              "bbox": [
+                531,
+                504,
+                567,
+                516
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                573,
+                504,
+                580,
+                516
+              ]
+            }
+          ]
+        },
+        {
+          "text": "experiencing a transformative period, with a notable emphasis on reducing carbon footprints and enhancing the overall",
+          "bbox": [
+            15,
+            519,
+            580,
+            531
+          ],
+          "words": [
+            {
+              "text": "experiencing",
+              "bbox": [
+                15,
+                519,
+                72,
+                531
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                77,
+                519,
+                82,
+                531
+              ]
+            },
+            {
+              "text": "transformative",
+              "bbox": [
+                88,
+                519,
+                152,
+                531
+              ]
+            },
+            {
+              "text": "period,",
+              "bbox": [
+                157,
+                519,
+                188,
+                531
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                194,
+                519,
+                213,
+                531
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                219,
+                519,
+                224,
+                531
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                229,
+                519,
+                262,
+                531
+              ]
+            },
+            {
+              "text": "emphasis",
+              "bbox": [
+                267,
+                519,
+                308,
+                531
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                314,
+                519,
+                325,
+                531
+              ]
+            },
+            {
+              "text": "reducing",
+              "bbox": [
+                330,
+                519,
+                369,
+                531
+              ]
+            },
+            {
+              "text": "carbon",
+              "bbox": [
+                374,
+                519,
+                404,
+                531
+              ]
+            },
+            {
+              "text": "footprints",
+              "bbox": [
+                410,
+                519,
+                453,
+                531
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                458,
+                519,
+                474,
+                531
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                480,
+                519,
+                525,
+                531
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                530,
+                519,
+                544,
+                531
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                549,
+                519,
+                580,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "text": "sustainability of construction practices. In this regard, CRH plc has strategically positioned itself to capitalize on these trends,",
+          "bbox": [
+            15,
+            535,
+            580,
+            547
+          ],
+          "words": [
+            {
+              "text": "sustainability",
+              "bbox": [
+                15,
+                535,
+                74,
+                547
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                77,
+                535,
+                86,
+                547
+              ]
+            },
+            {
+              "text": "construction",
+              "bbox": [
+                90,
+                535,
+                144,
+                547
+              ]
+            },
+            {
+              "text": "practices.",
+              "bbox": [
+                148,
+                535,
+                189,
+                547
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                193,
+                535,
+                202,
+                547
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                206,
+                535,
+                221,
+                547
+              ]
+            },
+            {
+              "text": "regard,",
+              "bbox": [
+                225,
+                535,
+                256,
+                547
+              ]
+            },
+            {
+              "text": "CRH",
+              "bbox": [
+                259,
+                535,
+                282,
+                547
+              ]
+            },
+            {
+              "text": "plc",
+              "bbox": [
+                285,
+                535,
+                299,
+                547
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                302,
+                535,
+                317,
+                547
+              ]
+            },
+            {
+              "text": "strategically",
+              "bbox": [
+                320,
+                535,
+                374,
+                547
+              ]
+            },
+            {
+              "text": "positioned",
+              "bbox": [
+                377,
+                535,
+                423,
+                547
+              ]
+            },
+            {
+              "text": "itself",
+              "bbox": [
+                427,
+                535,
+                449,
+                547
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                452,
+                535,
+                461,
+                547
+              ]
+            },
+            {
+              "text": "capitalize",
+              "bbox": [
+                464,
+                535,
+                506,
+                547
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                510,
+                535,
+                521,
+                547
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                524,
+                535,
+                547,
+                547
+              ]
+            },
+            {
+              "text": "trends,",
+              "bbox": [
+                550,
+                535,
+                580,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "text": "thereby influencing its market share percentage, as reflected in the data. The company's ability to adapt to these changes is",
+          "bbox": [
+            15,
+            550,
+            580,
+            562
+          ],
+          "words": [
+            {
+              "text": "thereby",
+              "bbox": [
+                15,
+                550,
+                48,
+                562
+              ]
+            },
+            {
+              "text": "influencing",
+              "bbox": [
+                52,
+                550,
+                102,
+                562
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                106,
+                550,
+                117,
+                562
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                121,
+                550,
+                151,
+                562
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                156,
+                550,
+                179,
+                562
+              ]
+            },
+            {
+              "text": "percentage,",
+              "bbox": [
+                183,
+                550,
+                233,
+                562
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                237,
+                550,
+                247,
+                562
+              ]
+            },
+            {
+              "text": "reflected",
+              "bbox": [
+                251,
+                550,
+                289,
+                562
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                293,
+                550,
+                302,
+                562
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                306,
+                550,
+                320,
+                562
+              ]
+            },
+            {
+              "text": "data.",
+              "bbox": [
+                324,
+                550,
+                345,
+                562
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                349,
+                550,
+                366,
+                562
+              ]
+            },
+            {
+              "text": "company's",
+              "bbox": [
+                370,
+                550,
+                417,
+                562
+              ]
+            },
+            {
+              "text": "ability",
+              "bbox": [
+                421,
+                550,
+                449,
+                562
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                453,
+                550,
+                462,
+                562
+              ]
+            },
+            {
+              "text": "adapt",
+              "bbox": [
+                466,
+                550,
+                489,
+                562
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                494,
+                550,
+                502,
+                562
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                506,
+                550,
+                529,
+                562
+              ]
+            },
+            {
+              "text": "changes",
+              "bbox": [
+                533,
+                550,
+                569,
+                562
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                573,
+                550,
+                580,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "text": "critical, particularly in a competitive landscape where traditional production methods are being scrutinized for their",
+          "bbox": [
+            15,
+            566,
+            580,
+            578
+          ],
+          "words": [
+            {
+              "text": "critical,",
+              "bbox": [
+                15,
+                566,
+                48,
+                578
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                55,
+                566,
+                106,
+                578
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                113,
+                566,
+                121,
+                578
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                128,
+                566,
+                133,
+                578
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                140,
+                566,
+                192,
+                578
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                199,
+                566,
+                242,
+                578
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                249,
+                566,
+                276,
+                578
+              ]
+            },
+            {
+              "text": "traditional",
+              "bbox": [
+                283,
+                566,
+                328,
+                578
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                335,
+                566,
+                382,
+                578
+              ]
+            },
+            {
+              "text": "methods",
+              "bbox": [
+                389,
+                566,
+                427,
+                578
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                433,
+                566,
+                447,
+                578
+              ]
+            },
+            {
+              "text": "being",
+              "bbox": [
+                454,
+                566,
+                478,
+                578
+              ]
+            },
+            {
+              "text": "scrutinized",
+              "bbox": [
+                485,
+                566,
+                533,
+                578
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                540,
+                566,
+                553,
+                578
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                560,
+                566,
+                580,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "text": "environmental impact. Consequently, the data table provides insights not only into CRH's cement output but also into its",
+          "bbox": [
+            15,
+            581,
+            580,
+            593
+          ],
+          "words": [
+            {
+              "text": "environmental",
+              "bbox": [
+                15,
+                581,
+                79,
+                593
+              ]
+            },
+            {
+              "text": "impact.",
+              "bbox": [
+                83,
+                581,
+                116,
+                593
+              ]
+            },
+            {
+              "text": "Consequently,",
+              "bbox": [
+                121,
+                581,
+                183,
+                593
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                188,
+                581,
+                202,
+                593
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                207,
+                581,
+                225,
+                593
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                230,
+                581,
+                251,
+                593
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                256,
+                581,
+                294,
+                593
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                299,
+                581,
+                333,
+                593
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                338,
+                581,
+                352,
+                593
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                357,
+                581,
+                376,
+                593
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                381,
+                581,
+                398,
+                593
+              ]
+            },
+            {
+              "text": "CRH's",
+              "bbox": [
+                403,
+                581,
+                432,
+                593
+              ]
+            },
+            {
+              "text": "cement",
+              "bbox": [
+                437,
+                581,
+                468,
+                593
+              ]
+            },
+            {
+              "text": "output",
+              "bbox": [
+                473,
+                581,
+                501,
+                593
+              ]
+            },
+            {
+              "text": "but",
+              "bbox": [
+                506,
+                581,
+                520,
+                593
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                525,
+                581,
+                543,
+                593
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                548,
+                581,
+                565,
+                593
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                570,
+                581,
+                580,
+                593
+              ]
+            }
+          ]
+        },
+        {
+          "text": "relative performance against competitors in terms of market share and pricing strategies.\n\nMoreover, the Average Price (EUR)",
+          "bbox": [
+            15,
+            596,
+            580,
+            608
+          ],
+          "words": [
+            {
+              "text": "relative",
+              "bbox": [
+                15,
+                596,
+                48,
+                608
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                52,
+                596,
+                107,
+                608
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                111,
+                596,
+                142,
+                608
+              ]
+            },
+            {
+              "text": "competitors",
+              "bbox": [
+                146,
+                596,
+                198,
+                608
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                201,
+                596,
+                210,
+                608
+              ]
+            },
+            {
+              "text": "terms",
+              "bbox": [
+                214,
+                596,
+                238,
+                608
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                242,
+                596,
+                251,
+                608
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                255,
+                596,
+                285,
+                608
+              ]
+            },
+            {
+              "text": "share",
+              "bbox": [
+                289,
+                596,
+                312,
+                608
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                316,
+                596,
+                332,
+                608
+              ]
+            },
+            {
+              "text": "pricing",
+              "bbox": [
+                335,
+                596,
+                367,
+                608
+              ]
+            },
+            {
+              "text": "strategies.",
+              "bbox": [
+                370,
+                596,
+                415,
+                608
+              ]
+            },
+            {
+              "text": "Moreover,",
+              "bbox": [
+                418,
+                596,
+                464,
+                608
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                468,
+                596,
+                481,
+                608
+              ]
+            },
+            {
+              "text": "Average",
+              "bbox": [
+                484,
+                596,
+                521,
+                608
+              ]
+            },
+            {
+              "text": "Price",
+              "bbox": [
+                524,
+                596,
+                547,
+                608
+              ]
+            },
+            {
+              "text": "(EUR)",
+              "bbox": [
+                551,
+                596,
+                580,
+                608
+              ]
+            }
+          ]
+        },
+        {
+          "text": "column reflects the financial implications of production decisions and market demand fluctuations. The interplay between",
+          "bbox": [
+            15,
+            612,
+            580,
+            624
+          ],
+          "words": [
+            {
+              "text": "column",
+              "bbox": [
+                15,
+                612,
+                48,
+                624
+              ]
+            },
+            {
+              "text": "reflects",
+              "bbox": [
+                53,
+                612,
+                85,
+                624
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                90,
+                612,
+                103,
+                624
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                108,
+                612,
+                147,
+                624
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                151,
+                612,
+                206,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                211,
+                612,
+                220,
+                624
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                225,
+                612,
+                272,
+                624
+              ]
+            },
+            {
+              "text": "decisions",
+              "bbox": [
+                277,
+                612,
+                318,
+                624
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                323,
+                612,
+                339,
+                624
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                343,
+                612,
+                374,
+                624
+              ]
+            },
+            {
+              "text": "demand",
+              "bbox": [
+                379,
+                612,
+                414,
+                624
+              ]
+            },
+            {
+              "text": "fluctuations.",
+              "bbox": [
+                418,
+                612,
+                473,
+                624
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                478,
+                612,
+                495,
+                624
+              ]
+            },
+            {
+              "text": "interplay",
+              "bbox": [
+                499,
+                612,
+                539,
+                624
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                543,
+                612,
+                580,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "text": "volume output and pricing is a significant aspect of CRH’s overall profitability, as it navigates the challenges posed by rising",
+          "bbox": [
+            15,
+            627,
+            580,
+            639
+          ],
+          "words": [
+            {
+              "text": "volume",
+              "bbox": [
+                15,
+                627,
+                48,
+                639
+              ]
+            },
+            {
+              "text": "output",
+              "bbox": [
+                52,
+                627,
+                80,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                83,
+                627,
+                99,
+                639
+              ]
+            },
+            {
+              "text": "pricing",
+              "bbox": [
+                103,
+                627,
+                134,
+                639
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                137,
+                627,
+                145,
+                639
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                148,
+                627,
+                153,
+                639
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                157,
+                627,
+                203,
+                639
+              ]
+            },
+            {
+              "text": "aspect",
+              "bbox": [
+                207,
+                627,
+                234,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                238,
+                627,
+                247,
+                639
+              ]
+            },
+            {
+              "text": "CRH’s",
+              "bbox": [
+                251,
+                627,
+                281,
+                639
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                284,
+                627,
+                315,
+                639
+              ]
+            },
+            {
+              "text": "profitability,",
+              "bbox": [
+                318,
+                627,
+                373,
+                639
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                377,
+                627,
+                386,
+                639
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                389,
+                627,
+                395,
+                639
+              ]
+            },
+            {
+              "text": "navigates",
+              "bbox": [
+                399,
+                627,
+                441,
+                639
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                444,
+                627,
+                458,
+                639
+              ]
+            },
+            {
+              "text": "challenges",
+              "bbox": [
+                461,
+                627,
+                508,
+                639
+              ]
+            },
+            {
+              "text": "posed",
+              "bbox": [
+                511,
+                627,
+                537,
+                639
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                540,
+                627,
+                551,
+                639
+              ]
+            },
+            {
+              "text": "rising",
+              "bbox": [
+                555,
+                627,
+                580,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "text": "raw material costs and regulatory pressures aimed at fostering sustainability. The Year-over-Year Change metric serves as a",
+          "bbox": [
+            15,
+            642,
+            580,
+            654
+          ],
+          "words": [
+            {
+              "text": "raw",
+              "bbox": [
+                15,
+                642,
+                32,
+                654
+              ]
+            },
+            {
+              "text": "material",
+              "bbox": [
+                36,
+                642,
+                72,
+                654
+              ]
+            },
+            {
+              "text": "costs",
+              "bbox": [
+                76,
+                642,
+                98,
+                654
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                102,
+                642,
+                118,
+                654
+              ]
+            },
+            {
+              "text": "regulatory",
+              "bbox": [
+                122,
+                642,
+                167,
+                654
+              ]
+            },
+            {
+              "text": "pressures",
+              "bbox": [
+                172,
+                642,
+                213,
+                654
+              ]
+            },
+            {
+              "text": "aimed",
+              "bbox": [
+                217,
+                642,
+                244,
+                654
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                248,
+                642,
+                256,
+                654
+              ]
+            },
+            {
+              "text": "fostering",
+              "bbox": [
+                260,
+                642,
+                299,
+                654
+              ]
+            },
+            {
+              "text": "sustainability.",
+              "bbox": [
+                303,
+                642,
+                364,
+                654
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                368,
+                642,
+                385,
+                654
+              ]
+            },
+            {
+              "text": "Year-over-Year",
+              "bbox": [
+                389,
+                642,
+                456,
+                654
+              ]
+            },
+            {
+              "text": "Change",
+              "bbox": [
+                460,
+                642,
+                494,
+                654
+              ]
+            },
+            {
+              "text": "metric",
+              "bbox": [
+                498,
+                642,
+                526,
+                654
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                530,
+                642,
+                558,
+                654
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                562,
+                642,
+                571,
+                654
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                642,
+                580,
+                654
+              ]
+            }
+          ]
+        },
+        {
+          "text": "critical indicator of growth or contraction in production volumes, providing stakeholders with a clear understanding of the",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "critical",
+              "bbox": [
+                15,
+                658,
+                46,
+                670
+              ]
+            },
+            {
+              "text": "indicator",
+              "bbox": [
+                50,
+                658,
+                89,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                94,
+                658,
+                103,
+                670
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                107,
+                658,
+                138,
+                670
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                143,
+                658,
+                152,
+                670
+              ]
+            },
+            {
+              "text": "contraction",
+              "bbox": [
+                157,
+                658,
+                206,
+                670
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                210,
+                658,
+                219,
+                670
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                224,
+                658,
+                271,
+                670
+              ]
+            },
+            {
+              "text": "volumes,",
+              "bbox": [
+                276,
+                658,
+                316,
+                670
+              ]
+            },
+            {
+              "text": "providing",
+              "bbox": [
+                320,
+                658,
+                363,
+                670
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                367,
+                658,
+                422,
+                670
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                427,
+                658,
+                446,
+                670
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                451,
+                658,
+                456,
+                670
+              ]
+            },
+            {
+              "text": "clear",
+              "bbox": [
+                460,
+                658,
+                482,
+                670
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                486,
+                658,
+                548,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                553,
+                658,
+                562,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "company's trajectory in the context of broader industry trends.\n\nIn summary, the cement production volumes table serves as a",
+          "bbox": [
+            15,
+            673,
+            580,
+            685
+          ],
+          "words": [
+            {
+              "text": "company's",
+              "bbox": [
+                15,
+                673,
+                62,
+                685
+              ]
+            },
+            {
+              "text": "trajectory",
+              "bbox": [
+                65,
+                673,
+                108,
+                685
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                111,
+                673,
+                120,
+                685
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                124,
+                673,
+                137,
+                685
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                141,
+                673,
+                173,
+                685
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                177,
+                673,
+                186,
+                685
+              ]
+            },
+            {
+              "text": "broader",
+              "bbox": [
+                190,
+                673,
+                224,
+                685
+              ]
+            },
+            {
+              "text": "industry",
+              "bbox": [
+                227,
+                673,
+                263,
+                685
+              ]
+            },
+            {
+              "text": "trends.",
+              "bbox": [
+                267,
+                673,
+                297,
+                685
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                301,
+                673,
+                310,
+                685
+              ]
+            },
+            {
+              "text": "summary,",
+              "bbox": [
+                314,
+                673,
+                357,
+                685
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                360,
+                673,
+                374,
+                685
+              ]
+            },
+            {
+              "text": "cement",
+              "bbox": [
+                378,
+                673,
+                409,
+                685
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                413,
+                673,
+                461,
+                685
+              ]
+            },
+            {
+              "text": "volumes",
+              "bbox": [
+                465,
+                673,
+                502,
+                685
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                506,
+                673,
+                527,
+                685
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                531,
+                673,
+                558,
+                685
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                562,
+                673,
+                571,
+                685
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                673,
+                580,
+                685
+              ]
+            }
+          ]
+        },
+        {
+          "text": "comprehensive overview of CRH plc's operational efficiency and market positioning within the European construction and",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "comprehensive",
+              "bbox": [
+                15,
+                689,
+                82,
+                701
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                86,
+                689,
+                127,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                131,
+                689,
+                141,
+                701
+              ]
+            },
+            {
+              "text": "CRH",
+              "bbox": [
+                145,
+                689,
+                168,
+                701
+              ]
+            },
+            {
+              "text": "plc's",
+              "bbox": [
+                172,
+                689,
+                192,
+                701
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                196,
+                689,
+                246,
+                701
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                250,
+                689,
+                294,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                299,
+                689,
+                315,
+                701
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                319,
+                689,
+                350,
+                701
+              ]
+            },
+            {
+              "text": "positioning",
+              "bbox": [
+                354,
+                689,
+                404,
+                701
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                408,
+                689,
+                436,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                441,
+                689,
+                454,
+                701
+              ]
+            },
+            {
+              "text": "European",
+              "bbox": [
+                459,
+                689,
+                501,
+                701
+              ]
+            },
+            {
+              "text": "construction",
+              "bbox": [
+                505,
+                689,
+                560,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "building materials sector. It encapsulates essential data points that not only reflect past performance but also inform strategic",
+          "bbox": [
+            15,
+            704,
+            580,
+            716
+          ],
+          "words": [
+            {
+              "text": "building",
+              "bbox": [
+                15,
+                704,
+                52,
+                716
+              ]
+            },
+            {
+              "text": "materials",
+              "bbox": [
+                55,
+                704,
+                96,
+                716
+              ]
+            },
+            {
+              "text": "sector.",
+              "bbox": [
+                99,
+                704,
+                128,
+                716
+              ]
+            },
+            {
+              "text": "It",
+              "bbox": [
+                132,
+                704,
+                138,
+                716
+              ]
+            },
+            {
+              "text": "encapsulates",
+              "bbox": [
+                142,
+                704,
+                198,
+                716
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                201,
+                704,
+                239,
+                716
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                243,
+                704,
+                261,
+                716
+              ]
+            },
+            {
+              "text": "points",
+              "bbox": [
+                265,
+                704,
+                292,
+                716
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                296,
+                704,
+                312,
+                716
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                316,
+                704,
+                330,
+                716
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                334,
+                704,
+                353,
+                716
+              ]
+            },
+            {
+              "text": "reflect",
+              "bbox": [
+                357,
+                704,
+                385,
+                716
+              ]
+            },
+            {
+              "text": "past",
+              "bbox": [
+                389,
+                704,
+                407,
+                716
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                410,
+                704,
+                466,
+                716
+              ]
+            },
+            {
+              "text": "but",
+              "bbox": [
+                470,
+                704,
+                484,
+                716
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                488,
+                704,
+                505,
+                716
+              ]
+            },
+            {
+              "text": "inform",
+              "bbox": [
+                509,
+                704,
+                539,
+                716
+              ]
+            },
+            {
+              "text": "strategic",
+              "bbox": [
+                543,
+                704,
+                580,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "text": "decision-making as the company continues to innovate and adapt in a rapidly evolving market landscape. As we delve deeper",
+          "bbox": [
+            15,
+            719,
+            580,
+            731
+          ],
+          "words": [
+            {
+              "text": "decision-making",
+              "bbox": [
+                15,
+                719,
+                88,
+                731
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                92,
+                719,
+                101,
+                731
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                104,
+                719,
+                118,
+                731
+              ]
+            },
+            {
+              "text": "company",
+              "bbox": [
+                121,
+                719,
+                162,
+                731
+              ]
+            },
+            {
+              "text": "continues",
+              "bbox": [
+                165,
+                719,
+                207,
+                731
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                211,
+                719,
+                220,
+                731
+              ]
+            },
+            {
+              "text": "innovate",
+              "bbox": [
+                223,
+                719,
+                261,
+                731
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                264,
+                719,
+                280,
+                731
+              ]
+            },
+            {
+              "text": "adapt",
+              "bbox": [
+                284,
+                719,
+                308,
+                731
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                311,
+                719,
+                320,
+                731
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                323,
+                719,
+                328,
+                731
+              ]
+            },
+            {
+              "text": "rapidly",
+              "bbox": [
+                332,
+                719,
+                363,
+                731
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                366,
+                719,
+                405,
+                731
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                408,
+                719,
+                439,
+                731
+              ]
+            },
+            {
+              "text": "landscape.",
+              "bbox": [
+                442,
+                719,
+                488,
+                731
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                491,
+                719,
+                504,
+                731
+              ]
+            },
+            {
+              "text": "we",
+              "bbox": [
+                507,
+                719,
+                520,
+                731
+              ]
+            },
+            {
+              "text": "delve",
+              "bbox": [
+                523,
+                719,
+                547,
+                731
+              ]
+            },
+            {
+              "text": "deeper",
+              "bbox": [
+                551,
+                719,
+                580,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "text": "into the analysis, it will become increasingly evident how these metrics correlate with CRH's long-term objectives in",
+          "bbox": [
+            15,
+            735,
+            580,
+            747
+          ],
+          "words": [
+            {
+              "text": "into",
+              "bbox": [
+                15,
+                735,
+                32,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                38,
+                735,
+                52,
+                747
+              ]
+            },
+            {
+              "text": "analysis,",
+              "bbox": [
+                57,
+                735,
+                96,
+                747
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                102,
+                735,
+                108,
+                747
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                114,
+                735,
+                131,
+                747
+              ]
+            },
+            {
+              "text": "become",
+              "bbox": [
+                137,
+                735,
+                171,
+                747
+              ]
+            },
+            {
+              "text": "increasingly",
+              "bbox": [
+                177,
+                735,
+                231,
+                747
+              ]
+            },
+            {
+              "text": "evident",
+              "bbox": [
+                237,
+                735,
+                269,
+                747
+              ]
+            },
+            {
+              "text": "how",
+              "bbox": [
+                275,
+                735,
+                294,
+                747
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                300,
+                735,
+                322,
+                747
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                328,
+                735,
+                361,
+                747
+              ]
+            },
+            {
+              "text": "correlate",
+              "bbox": [
+                367,
+                735,
+                405,
+                747
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                411,
+                735,
+                431,
+                747
+              ]
+            },
+            {
+              "text": "CRH's",
+              "bbox": [
+                437,
+                735,
+                466,
+                747
+              ]
+            },
+            {
+              "text": "long-term",
+              "bbox": [
+                472,
+                735,
+                515,
+                747
+              ]
+            },
+            {
+              "text": "objectives",
+              "bbox": [
+                521,
+                735,
+                565,
+                747
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                735,
+                580,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "sustainability and market leadership.",
+          "bbox": [
+            15,
+            750,
+            176,
+            762
+          ],
+          "words": [
+            {
+              "text": "sustainability",
+              "bbox": [
+                15,
+                750,
+                74,
+                762
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                76,
+                750,
+                92,
+                762
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                95,
+                750,
+                126,
+                762
+              ]
+            },
+            {
+              "text": "leadership.",
+              "bbox": [
+                128,
+                750,
+                176,
+                762
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

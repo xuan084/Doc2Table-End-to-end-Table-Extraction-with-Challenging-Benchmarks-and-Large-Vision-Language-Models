@@ -1,0 +1,4810 @@
+{
+  "image_id": "img_036697",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_036697_t0",
+      "bbox": [
+        15,
+        65,
+        580,
+        234
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            66,
+            580,
+            87
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            87,
+            580,
+            108
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            108,
+            580,
+            129
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            129,
+            580,
+            150
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            150,
+            580,
+            171
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            171,
+            580,
+            192
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            192,
+            580,
+            213
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            16,
+            213,
+            580,
+            234
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"3\"></td><td colspan=\"2\">Within OPM error</td><td colspan=\"2\">Outside OPM error</td><td colspan=\"2\">All targets</td></tr><tr><td>Search type</td><td>Type</td><td>Within OPM error</td><td>Mean tilt</td><td>Max tilt</td><td>Mean tilt</td><td>Max tilt</td><td>Mean tilt</td><td>Max tilt</td></tr><tr><td>GA</td><td>Alpha</td><td>86.9%</td><td>0.56</td><td>2.98</td><td>3.58</td><td>7.61</td><td>1.07</td><td>2.12</td></tr><tr><td>Direct</td><td>Alpha</td><td>80.3%</td><td>0.77</td><td>4.83</td><td>6.94</td><td>28.44</td><td>1.98</td><td>2.66</td></tr><tr><td>Grid</td><td>Alpha</td><td>79.2%</td><td>0.74</td><td>3.74</td><td>5.04</td><td>14.68</td><td>1.63</td><td>1.67</td></tr><tr><td>GA</td><td>Beta</td><td>80.6%</td><td>1.03</td><td>3.62</td><td>9.25</td><td>20.02</td><td>3.77</td><td>3.82</td></tr><tr><td>Direct</td><td>Beta</td><td>83.3%</td><td>1.76</td><td>6.90</td><td>13.71</td><td>29.97</td><td>3.75</td><td>3.03</td></tr><tr><td>Grid</td><td>Beta</td><td>77.7%</td><td>2.35</td><td>10.03</td><td>14.12</td><td>37.64</td><td>4.97</td><td>2.74</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            66,
+            239,
+            87
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Within OPM error",
+          "bbox": [
+            239,
+            66,
+            353,
+            87
+          ],
+          "words": [
+            {
+              "text": "Within",
+              "bbox": [
+                245,
+                70,
+                275,
+                81
+              ]
+            },
+            {
+              "text": "OPM",
+              "bbox": [
+                277,
+                70,
+                301,
+                81
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                303,
+                70,
+                326,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Outside OPM error",
+          "bbox": [
+            353,
+            66,
+            466,
+            87
+          ],
+          "words": [
+            {
+              "text": "Outside",
+              "bbox": [
+                376,
+                70,
+                410,
+                81
+              ]
+            },
+            {
+              "text": "OPM",
+              "bbox": [
+                412,
+                70,
+                436,
+                81
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                438,
+                70,
+                461,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "All targets",
+          "bbox": [
+            466,
+            66,
+            580,
+            87
+          ],
+          "words": [
+            {
+              "text": "All",
+              "bbox": [
+                529,
+                70,
+                542,
+                81
+              ]
+            },
+            {
+              "text": "targets",
+              "bbox": [
+                545,
+                70,
+                574,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Search type",
+          "bbox": [
+            16,
+            87,
+            88,
+            108
+          ],
+          "words": [
+            {
+              "text": "Search",
+              "bbox": [
+                21,
+                91,
+                50,
+                102
+              ]
+            },
+            {
+              "text": "type",
+              "bbox": [
+                53,
+                91,
+                71,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Type",
+          "bbox": [
+            88,
+            87,
+            130,
+            108
+          ],
+          "words": [
+            {
+              "text": "Type",
+              "bbox": [
+                94,
+                91,
+                115,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Within OPM error",
+          "bbox": [
+            130,
+            87,
+            239,
+            108
+          ],
+          "words": [
+            {
+              "text": "Within",
+              "bbox": [
+                136,
+                91,
+                166,
+                102
+              ]
+            },
+            {
+              "text": "OPM",
+              "bbox": [
+                168,
+                91,
+                191,
+                102
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                194,
+                91,
+                217,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Mean tilt",
+          "bbox": [
+            239,
+            87,
+            299,
+            108
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                245,
+                91,
+                269,
+                102
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                272,
+                91,
+                284,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Max tilt",
+          "bbox": [
+            299,
+            87,
+            353,
+            108
+          ],
+          "words": [
+            {
+              "text": "Max",
+              "bbox": [
+                313,
+                91,
+                333,
+                102
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                335,
+                91,
+                347,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Mean tilt",
+          "bbox": [
+            353,
+            87,
+            412,
+            108
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                368,
+                91,
+                392,
+                102
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                395,
+                91,
+                407,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Max tilt",
+          "bbox": [
+            412,
+            87,
+            466,
+            108
+          ],
+          "words": [
+            {
+              "text": "Max",
+              "bbox": [
+                426,
+                91,
+                446,
+                102
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                448,
+                91,
+                461,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Mean tilt",
+          "bbox": [
+            466,
+            87,
+            526,
+            108
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                481,
+                91,
+                506,
+                102
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                508,
+                91,
+                520,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Max tilt",
+          "bbox": [
+            526,
+            87,
+            580,
+            108
+          ],
+          "words": [
+            {
+              "text": "Max",
+              "bbox": [
+                540,
+                91,
+                559,
+                102
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                562,
+                91,
+                574,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "GA",
+          "bbox": [
+            16,
+            108,
+            88,
+            129
+          ],
+          "words": [
+            {
+              "text": "GA",
+              "bbox": [
+                21,
+                112,
+                35,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Alpha",
+          "bbox": [
+            88,
+            108,
+            130,
+            129
+          ],
+          "words": [
+            {
+              "text": "Alpha",
+              "bbox": [
+                94,
+                112,
+                118,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "86.9%",
+          "bbox": [
+            130,
+            108,
+            239,
+            129
+          ],
+          "words": [
+            {
+              "text": "86.9%",
+              "bbox": [
+                136,
+                112,
+                162,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.56",
+          "bbox": [
+            239,
+            108,
+            299,
+            129
+          ],
+          "words": [
+            {
+              "text": "0.56",
+              "bbox": [
+                245,
+                112,
+                262,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2.98",
+          "bbox": [
+            299,
+            108,
+            353,
+            129
+          ],
+          "words": [
+            {
+              "text": "2.98",
+              "bbox": [
+                330,
+                112,
+                347,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3.58",
+          "bbox": [
+            353,
+            108,
+            412,
+            129
+          ],
+          "words": [
+            {
+              "text": "3.58",
+              "bbox": [
+                389,
+                112,
+                407,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "7.61",
+          "bbox": [
+            412,
+            108,
+            466,
+            129
+          ],
+          "words": [
+            {
+              "text": "7.61",
+              "bbox": [
+                443,
+                112,
+                461,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1.07",
+          "bbox": [
+            466,
+            108,
+            526,
+            129
+          ],
+          "words": [
+            {
+              "text": "1.07",
+              "bbox": [
+                503,
+                112,
+                520,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "2.12",
+          "bbox": [
+            526,
+            108,
+            580,
+            129
+          ],
+          "words": [
+            {
+              "text": "2.12",
+              "bbox": [
+                557,
+                112,
+                574,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Direct",
+          "bbox": [
+            16,
+            129,
+            88,
+            150
+          ],
+          "words": [
+            {
+              "text": "Direct",
+              "bbox": [
+                21,
+                133,
+                46,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Alpha",
+          "bbox": [
+            88,
+            129,
+            130,
+            150
+          ],
+          "words": [
+            {
+              "text": "Alpha",
+              "bbox": [
+                94,
+                133,
+                118,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "80.3%",
+          "bbox": [
+            130,
+            129,
+            239,
+            150
+          ],
+          "words": [
+            {
+              "text": "80.3%",
+              "bbox": [
+                136,
+                133,
+                162,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.77",
+          "bbox": [
+            239,
+            129,
+            299,
+            150
+          ],
+          "words": [
+            {
+              "text": "0.77",
+              "bbox": [
+                245,
+                133,
+                262,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4.83",
+          "bbox": [
+            299,
+            129,
+            353,
+            150
+          ],
+          "words": [
+            {
+              "text": "4.83",
+              "bbox": [
+                330,
+                133,
+                347,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "6.94",
+          "bbox": [
+            353,
+            129,
+            412,
+            150
+          ],
+          "words": [
+            {
+              "text": "6.94",
+              "bbox": [
+                389,
+                133,
+                407,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "28.44",
+          "bbox": [
+            412,
+            129,
+            466,
+            150
+          ],
+          "words": [
+            {
+              "text": "28.44",
+              "bbox": [
+                438,
+                133,
+                461,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1.98",
+          "bbox": [
+            466,
+            129,
+            526,
+            150
+          ],
+          "words": [
+            {
+              "text": "1.98",
+              "bbox": [
+                503,
+                133,
+                520,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "2.66",
+          "bbox": [
+            526,
+            129,
+            580,
+            150
+          ],
+          "words": [
+            {
+              "text": "2.66",
+              "bbox": [
+                557,
+                133,
+                574,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Grid",
+          "bbox": [
+            16,
+            150,
+            88,
+            171
+          ],
+          "words": [
+            {
+              "text": "Grid",
+              "bbox": [
+                21,
+                154,
+                39,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Alpha",
+          "bbox": [
+            88,
+            150,
+            130,
+            171
+          ],
+          "words": [
+            {
+              "text": "Alpha",
+              "bbox": [
+                94,
+                154,
+                118,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "79.2%",
+          "bbox": [
+            130,
+            150,
+            239,
+            171
+          ],
+          "words": [
+            {
+              "text": "79.2%",
+              "bbox": [
+                136,
+                154,
+                162,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.74",
+          "bbox": [
+            239,
+            150,
+            299,
+            171
+          ],
+          "words": [
+            {
+              "text": "0.74",
+              "bbox": [
+                245,
+                154,
+                262,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.74",
+          "bbox": [
+            299,
+            150,
+            353,
+            171
+          ],
+          "words": [
+            {
+              "text": "3.74",
+              "bbox": [
+                330,
+                154,
+                347,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5.04",
+          "bbox": [
+            353,
+            150,
+            412,
+            171
+          ],
+          "words": [
+            {
+              "text": "5.04",
+              "bbox": [
+                389,
+                154,
+                407,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "14.68",
+          "bbox": [
+            412,
+            150,
+            466,
+            171
+          ],
+          "words": [
+            {
+              "text": "14.68",
+              "bbox": [
+                438,
+                154,
+                461,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1.63",
+          "bbox": [
+            466,
+            150,
+            526,
+            171
+          ],
+          "words": [
+            {
+              "text": "1.63",
+              "bbox": [
+                503,
+                154,
+                520,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "1.67",
+          "bbox": [
+            526,
+            150,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "1.67",
+              "bbox": [
+                557,
+                154,
+                574,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "GA",
+          "bbox": [
+            16,
+            171,
+            88,
+            192
+          ],
+          "words": [
+            {
+              "text": "GA",
+              "bbox": [
+                21,
+                175,
+                35,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Beta",
+          "bbox": [
+            88,
+            171,
+            130,
+            192
+          ],
+          "words": [
+            {
+              "text": "Beta",
+              "bbox": [
+                94,
+                175,
+                112,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "80.6%",
+          "bbox": [
+            130,
+            171,
+            239,
+            192
+          ],
+          "words": [
+            {
+              "text": "80.6%",
+              "bbox": [
+                136,
+                175,
+                162,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.03",
+          "bbox": [
+            239,
+            171,
+            299,
+            192
+          ],
+          "words": [
+            {
+              "text": "1.03",
+              "bbox": [
+                245,
+                175,
+                262,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.62",
+          "bbox": [
+            299,
+            171,
+            353,
+            192
+          ],
+          "words": [
+            {
+              "text": "3.62",
+              "bbox": [
+                330,
+                175,
+                347,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "9.25",
+          "bbox": [
+            353,
+            171,
+            412,
+            192
+          ],
+          "words": [
+            {
+              "text": "9.25",
+              "bbox": [
+                389,
+                175,
+                407,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "20.02",
+          "bbox": [
+            412,
+            171,
+            466,
+            192
+          ],
+          "words": [
+            {
+              "text": "20.02",
+              "bbox": [
+                438,
+                175,
+                461,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "3.77",
+          "bbox": [
+            466,
+            171,
+            526,
+            192
+          ],
+          "words": [
+            {
+              "text": "3.77",
+              "bbox": [
+                503,
+                175,
+                520,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "3.82",
+          "bbox": [
+            526,
+            171,
+            580,
+            192
+          ],
+          "words": [
+            {
+              "text": "3.82",
+              "bbox": [
+                557,
+                175,
+                574,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Direct",
+          "bbox": [
+            16,
+            192,
+            88,
+            213
+          ],
+          "words": [
+            {
+              "text": "Direct",
+              "bbox": [
+                21,
+                196,
+                46,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Beta",
+          "bbox": [
+            88,
+            192,
+            130,
+            213
+          ],
+          "words": [
+            {
+              "text": "Beta",
+              "bbox": [
+                94,
+                196,
+                112,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "83.3%",
+          "bbox": [
+            130,
+            192,
+            239,
+            213
+          ],
+          "words": [
+            {
+              "text": "83.3%",
+              "bbox": [
+                136,
+                196,
+                162,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.76",
+          "bbox": [
+            239,
+            192,
+            299,
+            213
+          ],
+          "words": [
+            {
+              "text": "1.76",
+              "bbox": [
+                245,
+                196,
+                262,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "6.90",
+          "bbox": [
+            299,
+            192,
+            353,
+            213
+          ],
+          "words": [
+            {
+              "text": "6.90",
+              "bbox": [
+                330,
+                196,
+                347,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "13.71",
+          "bbox": [
+            353,
+            192,
+            412,
+            213
+          ],
+          "words": [
+            {
+              "text": "13.71",
+              "bbox": [
+                384,
+                196,
+                407,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "29.97",
+          "bbox": [
+            412,
+            192,
+            466,
+            213
+          ],
+          "words": [
+            {
+              "text": "29.97",
+              "bbox": [
+                438,
+                196,
+                461,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "3.75",
+          "bbox": [
+            466,
+            192,
+            526,
+            213
+          ],
+          "words": [
+            {
+              "text": "3.75",
+              "bbox": [
+                503,
+                196,
+                520,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "3.03",
+          "bbox": [
+            526,
+            192,
+            580,
+            213
+          ],
+          "words": [
+            {
+              "text": "3.03",
+              "bbox": [
+                557,
+                196,
+                574,
+                207
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Grid",
+          "bbox": [
+            16,
+            213,
+            88,
+            234
+          ],
+          "words": [
+            {
+              "text": "Grid",
+              "bbox": [
+                21,
+                217,
+                39,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Beta",
+          "bbox": [
+            88,
+            213,
+            130,
+            234
+          ],
+          "words": [
+            {
+              "text": "Beta",
+              "bbox": [
+                94,
+                217,
+                112,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "77.7%",
+          "bbox": [
+            130,
+            213,
+            239,
+            234
+          ],
+          "words": [
+            {
+              "text": "77.7%",
+              "bbox": [
+                136,
+                217,
+                162,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2.35",
+          "bbox": [
+            239,
+            213,
+            299,
+            234
+          ],
+          "words": [
+            {
+              "text": "2.35",
+              "bbox": [
+                245,
+                217,
+                262,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10.03",
+          "bbox": [
+            299,
+            213,
+            353,
+            234
+          ],
+          "words": [
+            {
+              "text": "10.03",
+              "bbox": [
+                325,
+                217,
+                347,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "14.12",
+          "bbox": [
+            353,
+            213,
+            412,
+            234
+          ],
+          "words": [
+            {
+              "text": "14.12",
+              "bbox": [
+                384,
+                217,
+                407,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "37.64",
+          "bbox": [
+            412,
+            213,
+            466,
+            234
+          ],
+          "words": [
+            {
+              "text": "37.64",
+              "bbox": [
+                438,
+                217,
+                461,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "4.97",
+          "bbox": [
+            466,
+            213,
+            526,
+            234
+          ],
+          "words": [
+            {
+              "text": "4.97",
+              "bbox": [
+                503,
+                217,
+                520,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "2.74",
+          "bbox": [
+            526,
+            213,
+            580,
+            234
+          ],
+          "words": [
+            {
+              "text": "2.74",
+              "bbox": [
+                557,
+                217,
+                574,
+                228
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_036697_t1",
+      "bbox": [
+        15,
+        249,
+        580,
+        390
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            249,
+            580,
+            270
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            270,
+            580,
+            290
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            290,
+            580,
+            310
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            310,
+            580,
+            330
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            330,
+            580,
+            350
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            350,
+            580,
+            370
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            370,
+            580,
+            390
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>Sample</td><td>Abs280 nm</td></tr><tr><td>Control SCB</td><td>0.67</td></tr><tr><td>SCB + LMS_MtL</td><td>1.39</td></tr><tr><td>SCB + LMS_TvL</td><td>0.80</td></tr><tr><td>Control WS</td><td>0.97</td></tr><tr><td>WS + LMS_MtL</td><td>1.89</td></tr><tr><td>WS + LMS_TvL</td><td>1.18</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Sample",
+          "bbox": [
+            15,
+            249,
+            347,
+            270
+          ],
+          "words": [
+            {
+              "text": "Sample",
+              "bbox": [
+                20,
+                253,
+                52,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Abs280 nm",
+          "bbox": [
+            347,
+            249,
+            580,
+            270
+          ],
+          "words": [
+            {
+              "text": "Abs280",
+              "bbox": [
+                527,
+                253,
+                559,
+                264
+              ]
+            },
+            {
+              "text": "nm",
+              "bbox": [
+                561,
+                253,
+                575,
+                264
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Control SCB",
+          "bbox": [
+            15,
+            270,
+            347,
+            290
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                20,
+                274,
+                51,
+                285
+              ]
+            },
+            {
+              "text": "SCB",
+              "bbox": [
+                53,
+                274,
+                72,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.67",
+          "bbox": [
+            347,
+            270,
+            580,
+            290
+          ],
+          "words": [
+            {
+              "text": "0.67",
+              "bbox": [
+                558,
+                274,
+                575,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SCB + LMS_MtL",
+          "bbox": [
+            15,
+            290,
+            347,
+            310
+          ],
+          "words": [
+            {
+              "text": "SCB",
+              "bbox": [
+                20,
+                294,
+                39,
+                305
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                41,
+                294,
+                47,
+                305
+              ]
+            },
+            {
+              "text": "LMS_MtL",
+              "bbox": [
+                50,
+                294,
+                93,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.39",
+          "bbox": [
+            347,
+            290,
+            580,
+            310
+          ],
+          "words": [
+            {
+              "text": "1.39",
+              "bbox": [
+                558,
+                294,
+                575,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SCB + LMS_TvL",
+          "bbox": [
+            15,
+            310,
+            347,
+            330
+          ],
+          "words": [
+            {
+              "text": "SCB",
+              "bbox": [
+                20,
+                314,
+                39,
+                325
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                41,
+                314,
+                47,
+                325
+              ]
+            },
+            {
+              "text": "LMS_TvL",
+              "bbox": [
+                50,
+                314,
+                92,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.80",
+          "bbox": [
+            347,
+            310,
+            580,
+            330
+          ],
+          "words": [
+            {
+              "text": "0.80",
+              "bbox": [
+                558,
+                314,
+                575,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Control WS",
+          "bbox": [
+            15,
+            330,
+            347,
+            350
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                20,
+                334,
+                51,
+                345
+              ]
+            },
+            {
+              "text": "WS",
+              "bbox": [
+                53,
+                334,
+                68,
+                345
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.97",
+          "bbox": [
+            347,
+            330,
+            580,
+            350
+          ],
+          "words": [
+            {
+              "text": "0.97",
+              "bbox": [
+                558,
+                334,
+                575,
+                345
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "WS + LMS_MtL",
+          "bbox": [
+            15,
+            350,
+            347,
+            370
+          ],
+          "words": [
+            {
+              "text": "WS",
+              "bbox": [
+                20,
+                354,
+                35,
+                365
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                38,
+                354,
+                43,
+                365
+              ]
+            },
+            {
+              "text": "LMS_MtL",
+              "bbox": [
+                46,
+                354,
+                89,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.89",
+          "bbox": [
+            347,
+            350,
+            580,
+            370
+          ],
+          "words": [
+            {
+              "text": "1.89",
+              "bbox": [
+                558,
+                354,
+                575,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "WS + LMS_TvL",
+          "bbox": [
+            15,
+            370,
+            347,
+            390
+          ],
+          "words": [
+            {
+              "text": "WS",
+              "bbox": [
+                20,
+                374,
+                35,
+                385
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                38,
+                374,
+                43,
+                385
+              ]
+            },
+            {
+              "text": "LMS_TvL",
+              "bbox": [
+                46,
+                374,
+                88,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.18",
+          "bbox": [
+            347,
+            370,
+            580,
+            390
+          ],
+          "words": [
+            {
+              "text": "1.18",
+              "bbox": [
+                558,
+                374,
+                575,
+                385
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        405,
+        580,
+        559
+      ],
+      "content": "The analysis of search types reveals varying performance metrics, with the headers including \"Within OPM error,\" \"Outside OPM error,\" and \"All targets.\" For the GA Alpha search type, the values are 86.9% within OPM error, with a mean tilt of 0.56 and a max tilt of 2.98 in the first category, while in the second category, the mean tilt is 3.58 and max tilt is 7.61, leading to mean and max tilts of 1.07 and 2.12 in the overall targets. The Direct Alpha type shows 80.3% within OPM error, mean and max tilts of 0.77 and 4.83 for the first category, followed by 6.94 and 28.44 in the second category, and 1.98 and 2.66 overall. For Grid Alpha, the corresponding values are 79.2%, 0.74, 3.74, 5.04, 14.68, 1.63, and 1.67. The Beta variations show 80.6% within OPM error for GA with mean and max tilts of 1.03 and 3.62, 9.25 and 20.02, and 3.77 and 3.82 overall. The Direct Beta type has 83.3%, 1.76, 6.90, 13.71, 29.97, 3.75, and 3.03, while Grid Beta shows 77.7%, 2.35, 10.03, 14.12, 37.64, 4.97, and 2.74. Additionally, the second table lists samples with their Abs280 nm values: Control SCB at 0.67, SCB + LMS_MtL at 1.39, SCB + LMS_TvL at 0.80, Control WS at 0.97, WS + LMS_MtL at 1.89, and WS + LMS_TvL at 1.18.",
+      "lines": [
+        {
+          "text": "The analysis of search types reveals varying performance metrics, with the headers including \"Within OPM error,\" \"Outside",
+          "bbox": [
+            15,
+            406,
+            580,
+            418
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                406,
+                32,
+                418
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                36,
+                406,
+                71,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                75,
+                406,
+                85,
+                418
+              ]
+            },
+            {
+              "text": "search",
+              "bbox": [
+                89,
+                406,
+                117,
+                418
+              ]
+            },
+            {
+              "text": "types",
+              "bbox": [
+                121,
+                406,
+                144,
+                418
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                148,
+                406,
+                179,
+                418
+              ]
+            },
+            {
+              "text": "varying",
+              "bbox": [
+                183,
+                406,
+                216,
+                418
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                220,
+                406,
+                276,
+                418
+              ]
+            },
+            {
+              "text": "metrics,",
+              "bbox": [
+                280,
+                406,
+                315,
+                418
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                319,
+                406,
+                339,
+                418
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                342,
+                406,
+                356,
+                418
+              ]
+            },
+            {
+              "text": "headers",
+              "bbox": [
+                360,
+                406,
+                393,
+                418
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                397,
+                406,
+                439,
+                418
+              ]
+            },
+            {
+              "text": "\"Within",
+              "bbox": [
+                443,
+                406,
+                477,
+                418
+              ]
+            },
+            {
+              "text": "OPM",
+              "bbox": [
+                481,
+                406,
+                505,
+                418
+              ]
+            },
+            {
+              "text": "error,\"",
+              "bbox": [
+                509,
+                406,
+                537,
+                418
+              ]
+            },
+            {
+              "text": "\"Outside",
+              "bbox": [
+                541,
+                406,
+                580,
+                418
+              ]
+            }
+          ]
+        },
+        {
+          "text": "OPM error,\" and \"All targets.\" For the GA Alpha search type, the values are 86.9% within OPM error, with a mean tilt of 0.56",
+          "bbox": [
+            15,
+            421,
+            580,
+            433
+          ],
+          "words": [
+            {
+              "text": "OPM",
+              "bbox": [
+                15,
+                421,
+                39,
+                433
+              ]
+            },
+            {
+              "text": "error,\"",
+              "bbox": [
+                42,
+                421,
+                70,
+                433
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                73,
+                421,
+                89,
+                433
+              ]
+            },
+            {
+              "text": "\"All",
+              "bbox": [
+                93,
+                421,
+                111,
+                433
+              ]
+            },
+            {
+              "text": "targets.\"",
+              "bbox": [
+                114,
+                421,
+                151,
+                433
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                154,
+                421,
+                169,
+                433
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                172,
+                421,
+                186,
+                433
+              ]
+            },
+            {
+              "text": "GA",
+              "bbox": [
+                189,
+                421,
+                204,
+                433
+              ]
+            },
+            {
+              "text": "Alpha",
+              "bbox": [
+                207,
+                421,
+                234,
+                433
+              ]
+            },
+            {
+              "text": "search",
+              "bbox": [
+                237,
+                421,
+                265,
+                433
+              ]
+            },
+            {
+              "text": "type,",
+              "bbox": [
+                268,
+                421,
+                290,
+                433
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                293,
+                421,
+                307,
+                433
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                310,
+                421,
+                338,
+                433
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                341,
+                421,
+                355,
+                433
+              ]
+            },
+            {
+              "text": "86.9%",
+              "bbox": [
+                358,
+                421,
+                386,
+                433
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                390,
+                421,
+                418,
+                433
+              ]
+            },
+            {
+              "text": "OPM",
+              "bbox": [
+                421,
+                421,
+                445,
+                433
+              ]
+            },
+            {
+              "text": "error,",
+              "bbox": [
+                448,
+                421,
+                472,
+                433
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                475,
+                421,
+                495,
+                433
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                498,
+                421,
+                503,
+                433
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                506,
+                421,
+                530,
+                433
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                533,
+                421,
+                545,
+                433
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                548,
+                421,
+                558,
+                433
+              ]
+            },
+            {
+              "text": "0.56",
+              "bbox": [
+                561,
+                421,
+                580,
+                433
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and a max tilt of 2.98 in the first category, while in the second category, the mean tilt is 3.58 and max tilt is 7.61, leading to",
+          "bbox": [
+            15,
+            437,
+            580,
+            449
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                437,
+                31,
+                449
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                35,
+                437,
+                39,
+                449
+              ]
+            },
+            {
+              "text": "max",
+              "bbox": [
+                43,
+                437,
+                62,
+                449
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                66,
+                437,
+                78,
+                449
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                82,
+                437,
+                91,
+                449
+              ]
+            },
+            {
+              "text": "2.98",
+              "bbox": [
+                94,
+                437,
+                114,
+                449
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                117,
+                437,
+                126,
+                449
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                129,
+                437,
+                143,
+                449
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                146,
+                437,
+                164,
+                449
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                168,
+                437,
+                208,
+                449
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                211,
+                437,
+                236,
+                449
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                239,
+                437,
+                248,
+                449
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                252,
+                437,
+                265,
+                449
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                269,
+                437,
+                299,
+                449
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                303,
+                437,
+                343,
+                449
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                347,
+                437,
+                360,
+                449
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                364,
+                437,
+                387,
+                449
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                391,
+                437,
+                403,
+                449
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                407,
+                437,
+                414,
+                449
+              ]
+            },
+            {
+              "text": "3.58",
+              "bbox": [
+                418,
+                437,
+                437,
+                449
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                441,
+                437,
+                457,
+                449
+              ]
+            },
+            {
+              "text": "max",
+              "bbox": [
+                460,
+                437,
+                479,
+                449
+              ]
+            },
+            {
+              "text": "tilt",
+              "bbox": [
+                483,
+                437,
+                495,
+                449
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                499,
+                437,
+                506,
+                449
+              ]
+            },
+            {
+              "text": "7.61,",
+              "bbox": [
+                510,
+                437,
+                532,
+                449
+              ]
+            },
+            {
+              "text": "leading",
+              "bbox": [
+                535,
+                437,
+                568,
+                449
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                571,
+                437,
+                580,
+                449
+              ]
+            }
+          ]
+        },
+        {
+          "text": "mean and max tilts of 1.07 and 2.12 in the overall targets. The Direct Alpha type shows 80.3% within OPM error, mean and",
+          "bbox": [
+            15,
+            452,
+            580,
+            464
+          ],
+          "words": [
+            {
+              "text": "mean",
+              "bbox": [
+                15,
+                452,
+                39,
+                464
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                43,
+                452,
+                58,
+                464
+              ]
+            },
+            {
+              "text": "max",
+              "bbox": [
+                62,
+                452,
+                81,
+                464
+              ]
+            },
+            {
+              "text": "tilts",
+              "bbox": [
+                85,
+                452,
+                101,
+                464
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                105,
+                452,
+                114,
+                464
+              ]
+            },
+            {
+              "text": "1.07",
+              "bbox": [
+                118,
+                452,
+                137,
+                464
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                141,
+                452,
+                157,
+                464
+              ]
+            },
+            {
+              "text": "2.12",
+              "bbox": [
+                160,
+                452,
+                179,
+                464
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                183,
+                452,
+                192,
+                464
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                195,
+                452,
+                209,
+                464
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                213,
+                452,
+                243,
+                464
+              ]
+            },
+            {
+              "text": "targets.",
+              "bbox": [
+                247,
+                452,
+                279,
+                464
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                282,
+                452,
+                299,
+                464
+              ]
+            },
+            {
+              "text": "Direct",
+              "bbox": [
+                303,
+                452,
+                330,
+                464
+              ]
+            },
+            {
+              "text": "Alpha",
+              "bbox": [
+                333,
+                452,
+                360,
+                464
+              ]
+            },
+            {
+              "text": "type",
+              "bbox": [
+                364,
+                452,
+                383,
+                464
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                387,
+                452,
+                414,
+                464
+              ]
+            },
+            {
+              "text": "80.3%",
+              "bbox": [
+                418,
+                452,
+                446,
+                464
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                450,
+                452,
+                478,
+                464
+              ]
+            },
+            {
+              "text": "OPM",
+              "bbox": [
+                482,
+                452,
+                506,
+                464
+              ]
+            },
+            {
+              "text": "error,",
+              "bbox": [
+                509,
+                452,
+                533,
+                464
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                537,
+                452,
+                560,
+                464
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                452,
+                580,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "text": "max tilts of 0.77 and 4.83 for the first category, followed by 6.94 and 28.44 in the second category, and 1.98 and 2.66 overall.",
+          "bbox": [
+            15,
+            468,
+            580,
+            480
+          ],
+          "words": [
+            {
+              "text": "max",
+              "bbox": [
+                15,
+                468,
+                34,
+                480
+              ]
+            },
+            {
+              "text": "tilts",
+              "bbox": [
+                37,
+                468,
+                54,
+                480
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                57,
+                468,
+                66,
+                480
+              ]
+            },
+            {
+              "text": "0.77",
+              "bbox": [
+                70,
+                468,
+                89,
+                480
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                92,
+                468,
+                108,
+                480
+              ]
+            },
+            {
+              "text": "4.83",
+              "bbox": [
+                111,
+                468,
+                131,
+                480
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                134,
+                468,
+                147,
+                480
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                150,
+                468,
+                163,
+                480
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                167,
+                468,
+                184,
+                480
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                188,
+                468,
+                228,
+                480
+              ]
+            },
+            {
+              "text": "followed",
+              "bbox": [
+                231,
+                468,
+                270,
+                480
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                273,
+                468,
+                284,
+                480
+              ]
+            },
+            {
+              "text": "6.94",
+              "bbox": [
+                288,
+                468,
+                307,
+                480
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                310,
+                468,
+                326,
+                480
+              ]
+            },
+            {
+              "text": "28.44",
+              "bbox": [
+                329,
+                468,
+                354,
+                480
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                358,
+                468,
+                366,
+                480
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                369,
+                468,
+                383,
+                480
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                386,
+                468,
+                417,
+                480
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                420,
+                468,
+                460,
+                480
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                463,
+                468,
+                479,
+                480
+              ]
+            },
+            {
+              "text": "1.98",
+              "bbox": [
+                482,
+                468,
+                502,
+                480
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                505,
+                468,
+                521,
+                480
+              ]
+            },
+            {
+              "text": "2.66",
+              "bbox": [
+                524,
+                468,
+                543,
+                480
+              ]
+            },
+            {
+              "text": "overall.",
+              "bbox": [
+                547,
+                468,
+                580,
+                480
+              ]
+            }
+          ]
+        },
+        {
+          "text": "For Grid Alpha, the corresponding values are 79.2%, 0.74, 3.74, 5.04, 14.68, 1.63, and 1.67. The Beta variations show 80.6%",
+          "bbox": [
+            15,
+            483,
+            580,
+            495
+          ],
+          "words": [
+            {
+              "text": "For",
+              "bbox": [
+                15,
+                483,
+                30,
+                495
+              ]
+            },
+            {
+              "text": "Grid",
+              "bbox": [
+                34,
+                483,
+                54,
+                495
+              ]
+            },
+            {
+              "text": "Alpha,",
+              "bbox": [
+                57,
+                483,
+                86,
+                495
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                90,
+                483,
+                103,
+                495
+              ]
+            },
+            {
+              "text": "corresponding",
+              "bbox": [
+                107,
+                483,
+                170,
+                495
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                173,
+                483,
+                201,
+                495
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                205,
+                483,
+                218,
+                495
+              ]
+            },
+            {
+              "text": "79.2%,",
+              "bbox": [
+                222,
+                483,
+                253,
+                495
+              ]
+            },
+            {
+              "text": "0.74,",
+              "bbox": [
+                256,
+                483,
+                278,
+                495
+              ]
+            },
+            {
+              "text": "3.74,",
+              "bbox": [
+                282,
+                483,
+                304,
+                495
+              ]
+            },
+            {
+              "text": "5.04,",
+              "bbox": [
+                307,
+                483,
+                329,
+                495
+              ]
+            },
+            {
+              "text": "14.68,",
+              "bbox": [
+                333,
+                483,
+                360,
+                495
+              ]
+            },
+            {
+              "text": "1.63,",
+              "bbox": [
+                364,
+                483,
+                386,
+                495
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                389,
+                483,
+                405,
+                495
+              ]
+            },
+            {
+              "text": "1.67.",
+              "bbox": [
+                409,
+                483,
+                431,
+                495
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                434,
+                483,
+                451,
+                495
+              ]
+            },
+            {
+              "text": "Beta",
+              "bbox": [
+                454,
+                483,
+                475,
+                495
+              ]
+            },
+            {
+              "text": "variations",
+              "bbox": [
+                478,
+                483,
+                521,
+                495
+              ]
+            },
+            {
+              "text": "show",
+              "bbox": [
+                525,
+                483,
+                548,
+                495
+              ]
+            },
+            {
+              "text": "80.6%",
+              "bbox": [
+                552,
+                483,
+                580,
+                495
+              ]
+            }
+          ]
+        },
+        {
+          "text": "within OPM error for GA with mean and max tilts of 1.03 and 3.62, 9.25 and 20.02, and 3.77 and 3.82 overall. The Direct Beta",
+          "bbox": [
+            15,
+            498,
+            580,
+            510
+          ],
+          "words": [
+            {
+              "text": "within",
+              "bbox": [
+                15,
+                498,
+                43,
+                510
+              ]
+            },
+            {
+              "text": "OPM",
+              "bbox": [
+                46,
+                498,
+                70,
+                510
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                73,
+                498,
+                94,
+                510
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                97,
+                498,
+                110,
+                510
+              ]
+            },
+            {
+              "text": "GA",
+              "bbox": [
+                113,
+                498,
+                128,
+                510
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                131,
+                498,
+                151,
+                510
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                154,
+                498,
+                178,
+                510
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                181,
+                498,
+                197,
+                510
+              ]
+            },
+            {
+              "text": "max",
+              "bbox": [
+                200,
+                498,
+                219,
+                510
+              ]
+            },
+            {
+              "text": "tilts",
+              "bbox": [
+                222,
+                498,
+                238,
+                510
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                241,
+                498,
+                250,
+                510
+              ]
+            },
+            {
+              "text": "1.03",
+              "bbox": [
+                253,
+                498,
+                272,
+                510
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                275,
+                498,
+                291,
+                510
+              ]
+            },
+            {
+              "text": "3.62,",
+              "bbox": [
+                294,
+                498,
+                316,
+                510
+              ]
+            },
+            {
+              "text": "9.25",
+              "bbox": [
+                319,
+                498,
+                339,
+                510
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                342,
+                498,
+                357,
+                510
+              ]
+            },
+            {
+              "text": "20.02,",
+              "bbox": [
+                360,
+                498,
+                388,
+                510
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                391,
+                498,
+                407,
+                510
+              ]
+            },
+            {
+              "text": "3.77",
+              "bbox": [
+                410,
+                498,
+                429,
+                510
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                432,
+                498,
+                448,
+                510
+              ]
+            },
+            {
+              "text": "3.82",
+              "bbox": [
+                451,
+                498,
+                470,
+                510
+              ]
+            },
+            {
+              "text": "overall.",
+              "bbox": [
+                473,
+                498,
+                506,
+                510
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                509,
+                498,
+                526,
+                510
+              ]
+            },
+            {
+              "text": "Direct",
+              "bbox": [
+                529,
+                498,
+                557,
+                510
+              ]
+            },
+            {
+              "text": "Beta",
+              "bbox": [
+                560,
+                498,
+                580,
+                510
+              ]
+            }
+          ]
+        },
+        {
+          "text": "type has 83.3%, 1.76, 6.90, 13.71, 29.97, 3.75, and 3.03, while Grid Beta shows 77.7%, 2.35, 10.03, 14.12, 37.64, 4.97, and",
+          "bbox": [
+            15,
+            514,
+            580,
+            526
+          ],
+          "words": [
+            {
+              "text": "type",
+              "bbox": [
+                15,
+                514,
+                34,
+                526
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                38,
+                514,
+                52,
+                526
+              ]
+            },
+            {
+              "text": "83.3%,",
+              "bbox": [
+                56,
+                514,
+                87,
+                526
+              ]
+            },
+            {
+              "text": "1.76,",
+              "bbox": [
+                91,
+                514,
+                113,
+                526
+              ]
+            },
+            {
+              "text": "6.90,",
+              "bbox": [
+                117,
+                514,
+                139,
+                526
+              ]
+            },
+            {
+              "text": "13.71,",
+              "bbox": [
+                143,
+                514,
+                170,
+                526
+              ]
+            },
+            {
+              "text": "29.97,",
+              "bbox": [
+                174,
+                514,
+                201,
+                526
+              ]
+            },
+            {
+              "text": "3.75,",
+              "bbox": [
+                205,
+                514,
+                227,
+                526
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                231,
+                514,
+                247,
+                526
+              ]
+            },
+            {
+              "text": "3.03,",
+              "bbox": [
+                251,
+                514,
+                273,
+                526
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                276,
+                514,
+                301,
+                526
+              ]
+            },
+            {
+              "text": "Grid",
+              "bbox": [
+                305,
+                514,
+                325,
+                526
+              ]
+            },
+            {
+              "text": "Beta",
+              "bbox": [
+                329,
+                514,
+                349,
+                526
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                353,
+                514,
+                380,
+                526
+              ]
+            },
+            {
+              "text": "77.7%,",
+              "bbox": [
+                384,
+                514,
+                415,
+                526
+              ]
+            },
+            {
+              "text": "2.35,",
+              "bbox": [
+                419,
+                514,
+                441,
+                526
+              ]
+            },
+            {
+              "text": "10.03,",
+              "bbox": [
+                444,
+                514,
+                472,
+                526
+              ]
+            },
+            {
+              "text": "14.12,",
+              "bbox": [
+                476,
+                514,
+                503,
+                526
+              ]
+            },
+            {
+              "text": "37.64,",
+              "bbox": [
+                507,
+                514,
+                535,
+                526
+              ]
+            },
+            {
+              "text": "4.97,",
+              "bbox": [
+                538,
+                514,
+                560,
+                526
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                514,
+                580,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "text": "2.74. Additionally, the second table lists samples with their Abs280 nm values: Control SCB at 0.67, SCB + LMS_MtL at 1.39,",
+          "bbox": [
+            15,
+            529,
+            580,
+            541
+          ],
+          "words": [
+            {
+              "text": "2.74.",
+              "bbox": [
+                15,
+                529,
+                37,
+                541
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                39,
+                529,
+                97,
+                541
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                100,
+                529,
+                114,
+                541
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                117,
+                529,
+                147,
+                541
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                150,
+                529,
+                171,
+                541
+              ]
+            },
+            {
+              "text": "lists",
+              "bbox": [
+                174,
+                529,
+                192,
+                541
+              ]
+            },
+            {
+              "text": "samples",
+              "bbox": [
+                195,
+                529,
+                231,
+                541
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                234,
+                529,
+                253,
+                541
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                256,
+                529,
+                276,
+                541
+              ]
+            },
+            {
+              "text": "Abs280",
+              "bbox": [
+                279,
+                529,
+                313,
+                541
+              ]
+            },
+            {
+              "text": "nm",
+              "bbox": [
+                316,
+                529,
+                330,
+                541
+              ]
+            },
+            {
+              "text": "values:",
+              "bbox": [
+                333,
+                529,
+                364,
+                541
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                367,
+                529,
+                401,
+                541
+              ]
+            },
+            {
+              "text": "SCB",
+              "bbox": [
+                404,
+                529,
+                425,
+                541
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                428,
+                529,
+                436,
+                541
+              ]
+            },
+            {
+              "text": "0.67,",
+              "bbox": [
+                439,
+                529,
+                461,
+                541
+              ]
+            },
+            {
+              "text": "SCB",
+              "bbox": [
+                464,
+                529,
+                485,
+                541
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                488,
+                529,
+                494,
+                541
+              ]
+            },
+            {
+              "text": "LMS_MtL",
+              "bbox": [
+                497,
+                529,
+                544,
+                541
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                547,
+                529,
+                555,
+                541
+              ]
+            },
+            {
+              "text": "1.39,",
+              "bbox": [
+                558,
+                529,
+                580,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "text": "SCB + LMS_TvL at 0.80, Control WS at 0.97, WS + LMS_MtL at 1.89, and WS + LMS_TvL at 1.18.",
+          "bbox": [
+            15,
+            545,
+            465,
+            557
+          ],
+          "words": [
+            {
+              "text": "SCB",
+              "bbox": [
+                15,
+                545,
+                36,
+                557
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                39,
+                545,
+                45,
+                557
+              ]
+            },
+            {
+              "text": "LMS_TvL",
+              "bbox": [
+                47,
+                545,
+                94,
+                557
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                97,
+                545,
+                105,
+                557
+              ]
+            },
+            {
+              "text": "0.80,",
+              "bbox": [
+                108,
+                545,
+                130,
+                557
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                132,
+                545,
+                166,
+                557
+              ]
+            },
+            {
+              "text": "WS",
+              "bbox": [
+                168,
+                545,
+                185,
+                557
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                188,
+                545,
+                196,
+                557
+              ]
+            },
+            {
+              "text": "0.97,",
+              "bbox": [
+                198,
+                545,
+                220,
+                557
+              ]
+            },
+            {
+              "text": "WS",
+              "bbox": [
+                223,
+                545,
+                240,
+                557
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                242,
+                545,
+                248,
+                557
+              ]
+            },
+            {
+              "text": "LMS_MtL",
+              "bbox": [
+                251,
+                545,
+                298,
+                557
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                301,
+                545,
+                309,
+                557
+              ]
+            },
+            {
+              "text": "1.89,",
+              "bbox": [
+                312,
+                545,
+                334,
+                557
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                337,
+                545,
+                353,
+                557
+              ]
+            },
+            {
+              "text": "WS",
+              "bbox": [
+                355,
+                545,
+                372,
+                557
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                374,
+                545,
+                381,
+                557
+              ]
+            },
+            {
+              "text": "LMS_TvL",
+              "bbox": [
+                383,
+                545,
+                430,
+                557
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                433,
+                545,
+                441,
+                557
+              ]
+            },
+            {
+              "text": "1.18.",
+              "bbox": [
+                443,
+                545,
+                465,
+                557
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4075 @@
+{
+  "image_id": "img_049198",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        50,
+        580,
+        235
+      ],
+      "content": "The first table presents a comparative analysis of helpful and hindering factors for Panic Disorder and Dysthymia, with relevant factors categorized under therapist roles and techniques. For Panic Disorder, the helpful factors include \"Therapist as coach\" linked to \"Phobias*\", \"Relaxation techniques\" associated with \"Fear of anxiety*\", \"Awareness and handling of feelings\" addressing \"Difficult handling bodily sensations and feelings*\", and \"Exposure gave confidence\" with no hindrances listed. In contrast, the hindering factors include \"Therapist as parent\" with \"Mistrust of others*\", \"Experiential and creative techniques\" coupled with \"Sensitive to confirmation*\", \"Self-acceptance and compassion\" hindered by \"Blaming self or others*\", and \"Feedback from others in group\" alongside \"Difficulties in close relations*\". The table also notes unresolved dynamics with two entries under Dysthymia, wherein \"Resolved relational problems\" and \"Several therapies important\" lack hindering factors. The second table details the correlation of various parameters with k values ranging from 1 to 5, where for k=1, Ntrain is 311,540, Ntest is 77,993, and correlation is 0.895; for k=2, Ntrain is 311,463, Ntest is 78,070, and correlation is 0.891; for k=3, Ntrain is 311,652, Ntest is 77,881, and correlation is 0.898; for k=4, Ntrain is 311,565, Ntest is 77,968, and correlation is 0.901; and for k=5, Ntrain is 311,454, Ntest is 78,079, and correlation is 0.903.",
+      "lines": [
+        {
+          "text": "The first table presents a comparative analysis of helpful and hindering factors for Panic Disorder and Dysthymia, with relevant",
+          "bbox": [
+            15,
+            51,
+            580,
+            63
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                51,
+                32,
+                63
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                35,
+                51,
+                53,
+                63
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                56,
+                51,
+                77,
+                63
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                80,
+                51,
+                116,
+                63
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                119,
+                51,
+                124,
+                63
+              ]
+            },
+            {
+              "text": "comparative",
+              "bbox": [
+                127,
+                51,
+                181,
+                63
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                184,
+                51,
+                219,
+                63
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                222,
+                51,
+                231,
+                63
+              ]
+            },
+            {
+              "text": "helpful",
+              "bbox": [
+                234,
+                51,
+                265,
+                63
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                268,
+                51,
+                284,
+                63
+              ]
+            },
+            {
+              "text": "hindering",
+              "bbox": [
+                287,
+                51,
+                329,
+                63
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                332,
+                51,
+                362,
+                63
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                365,
+                51,
+                378,
+                63
+              ]
+            },
+            {
+              "text": "Panic",
+              "bbox": [
+                381,
+                51,
+                405,
+                63
+              ]
+            },
+            {
+              "text": "Disorder",
+              "bbox": [
+                408,
+                51,
+                447,
+                63
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                449,
+                51,
+                465,
+                63
+              ]
+            },
+            {
+              "text": "Dysthymia,",
+              "bbox": [
+                468,
+                51,
+                519,
+                63
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                522,
+                51,
+                542,
+                63
+              ]
+            },
+            {
+              "text": "relevant",
+              "bbox": [
+                545,
+                51,
+                580,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "text": "factors categorized under therapist roles and techniques. For Panic Disorder, the helpful factors include \"Therapist as coach\"",
+          "bbox": [
+            15,
+            66,
+            580,
+            78
+          ],
+          "words": [
+            {
+              "text": "factors",
+              "bbox": [
+                15,
+                66,
+                45,
+                78
+              ]
+            },
+            {
+              "text": "categorized",
+              "bbox": [
+                49,
+                66,
+                99,
+                78
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                103,
+                66,
+                128,
+                78
+              ]
+            },
+            {
+              "text": "therapist",
+              "bbox": [
+                132,
+                66,
+                170,
+                78
+              ]
+            },
+            {
+              "text": "roles",
+              "bbox": [
+                174,
+                66,
+                195,
+                78
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                199,
+                66,
+                215,
+                78
+              ]
+            },
+            {
+              "text": "techniques.",
+              "bbox": [
+                219,
+                66,
+                269,
+                78
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                273,
+                66,
+                288,
+                78
+              ]
+            },
+            {
+              "text": "Panic",
+              "bbox": [
+                292,
+                66,
+                316,
+                78
+              ]
+            },
+            {
+              "text": "Disorder,",
+              "bbox": [
+                320,
+                66,
+                361,
+                78
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                365,
+                66,
+                378,
+                78
+              ]
+            },
+            {
+              "text": "helpful",
+              "bbox": [
+                382,
+                66,
+                413,
+                78
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                417,
+                66,
+                447,
+                78
+              ]
+            },
+            {
+              "text": "include",
+              "bbox": [
+                451,
+                66,
+                483,
+                78
+              ]
+            },
+            {
+              "text": "\"Therapist",
+              "bbox": [
+                487,
+                66,
+                533,
+                78
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                537,
+                66,
+                546,
+                78
+              ]
+            },
+            {
+              "text": "coach\"",
+              "bbox": [
+                550,
+                66,
+                580,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "text": "linked to \"Phobias*\", \"Relaxation techniques\" associated with \"Fear of anxiety*\", \"Awareness and handling of feelings\"",
+          "bbox": [
+            15,
+            82,
+            580,
+            94
+          ],
+          "words": [
+            {
+              "text": "linked",
+              "bbox": [
+                15,
+                82,
+                43,
+                94
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                48,
+                82,
+                56,
+                94
+              ]
+            },
+            {
+              "text": "\"Phobias*\",",
+              "bbox": [
+                62,
+                82,
+                114,
+                94
+              ]
+            },
+            {
+              "text": "\"Relaxation",
+              "bbox": [
+                119,
+                82,
+                171,
+                94
+              ]
+            },
+            {
+              "text": "techniques\"",
+              "bbox": [
+                177,
+                82,
+                228,
+                94
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                234,
+                82,
+                279,
+                94
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                284,
+                82,
+                304,
+                94
+              ]
+            },
+            {
+              "text": "\"Fear",
+              "bbox": [
+                309,
+                82,
+                333,
+                94
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                339,
+                82,
+                348,
+                94
+              ]
+            },
+            {
+              "text": "anxiety*\",",
+              "bbox": [
+                353,
+                82,
+                398,
+                94
+              ]
+            },
+            {
+              "text": "\"Awareness",
+              "bbox": [
+                404,
+                82,
+                456,
+                94
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                461,
+                82,
+                477,
+                94
+              ]
+            },
+            {
+              "text": "handling",
+              "bbox": [
+                482,
+                82,
+                521,
+                94
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                526,
+                82,
+                535,
+                94
+              ]
+            },
+            {
+              "text": "feelings\"",
+              "bbox": [
+                541,
+                82,
+                580,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "text": "addressing \"Difficult handling bodily sensations and feelings*\", and \"Exposure gave confidence\" with no hindrances listed. In",
+          "bbox": [
+            15,
+            97,
+            580,
+            109
+          ],
+          "words": [
+            {
+              "text": "addressing",
+              "bbox": [
+                15,
+                97,
+                62,
+                109
+              ]
+            },
+            {
+              "text": "\"Difficult",
+              "bbox": [
+                65,
+                97,
+                108,
+                109
+              ]
+            },
+            {
+              "text": "handling",
+              "bbox": [
+                111,
+                97,
+                150,
+                109
+              ]
+            },
+            {
+              "text": "bodily",
+              "bbox": [
+                153,
+                97,
+                181,
+                109
+              ]
+            },
+            {
+              "text": "sensations",
+              "bbox": [
+                184,
+                97,
+                230,
+                109
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                233,
+                97,
+                249,
+                109
+              ]
+            },
+            {
+              "text": "feelings*\",",
+              "bbox": [
+                252,
+                97,
+                300,
+                109
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                303,
+                97,
+                319,
+                109
+              ]
+            },
+            {
+              "text": "\"Exposure",
+              "bbox": [
+                323,
+                97,
+                369,
+                109
+              ]
+            },
+            {
+              "text": "gave",
+              "bbox": [
+                372,
+                97,
+                393,
+                109
+              ]
+            },
+            {
+              "text": "confidence\"",
+              "bbox": [
+                396,
+                97,
+                449,
+                109
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                452,
+                97,
+                472,
+                109
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                475,
+                97,
+                486,
+                109
+              ]
+            },
+            {
+              "text": "hindrances",
+              "bbox": [
+                490,
+                97,
+                537,
+                109
+              ]
+            },
+            {
+              "text": "listed.",
+              "bbox": [
+                541,
+                97,
+                567,
+                109
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                571,
+                97,
+                580,
+                109
+              ]
+            }
+          ]
+        },
+        {
+          "text": "contrast, the hindering factors include \"Therapist as parent\" with \"Mistrust of others*\", \"Experiential and creative techniques\"",
+          "bbox": [
+            15,
+            113,
+            580,
+            125
+          ],
+          "words": [
+            {
+              "text": "contrast,",
+              "bbox": [
+                15,
+                113,
+                53,
+                125
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                56,
+                113,
+                70,
+                125
+              ]
+            },
+            {
+              "text": "hindering",
+              "bbox": [
+                73,
+                113,
+                115,
+                125
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                119,
+                113,
+                149,
+                125
+              ]
+            },
+            {
+              "text": "include",
+              "bbox": [
+                152,
+                113,
+                184,
+                125
+              ]
+            },
+            {
+              "text": "\"Therapist",
+              "bbox": [
+                188,
+                113,
+                234,
+                125
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                237,
+                113,
+                247,
+                125
+              ]
+            },
+            {
+              "text": "parent\"",
+              "bbox": [
+                250,
+                113,
+                282,
+                125
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                286,
+                113,
+                305,
+                125
+              ]
+            },
+            {
+              "text": "\"Mistrust",
+              "bbox": [
+                309,
+                113,
+                350,
+                125
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                353,
+                113,
+                362,
+                125
+              ]
+            },
+            {
+              "text": "others*\",",
+              "bbox": [
+                366,
+                113,
+                406,
+                125
+              ]
+            },
+            {
+              "text": "\"Experiential",
+              "bbox": [
+                409,
+                113,
+                467,
+                125
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                471,
+                113,
+                487,
+                125
+              ]
+            },
+            {
+              "text": "creative",
+              "bbox": [
+                490,
+                113,
+                525,
+                125
+              ]
+            },
+            {
+              "text": "techniques\"",
+              "bbox": [
+                528,
+                113,
+                580,
+                125
+              ]
+            }
+          ]
+        },
+        {
+          "text": "coupled with \"Sensitive to confirmation*\", \"Self-acceptance and compassion\" hindered by \"Blaming self or others*\", and",
+          "bbox": [
+            15,
+            128,
+            580,
+            140
+          ],
+          "words": [
+            {
+              "text": "coupled",
+              "bbox": [
+                15,
+                128,
+                50,
+                140
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                55,
+                128,
+                74,
+                140
+              ]
+            },
+            {
+              "text": "\"Sensitive",
+              "bbox": [
+                79,
+                128,
+                124,
+                140
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                129,
+                128,
+                138,
+                140
+              ]
+            },
+            {
+              "text": "confirmation*\",",
+              "bbox": [
+                142,
+                128,
+                212,
+                140
+              ]
+            },
+            {
+              "text": "\"Self-acceptance",
+              "bbox": [
+                217,
+                128,
+                291,
+                140
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                296,
+                128,
+                312,
+                140
+              ]
+            },
+            {
+              "text": "compassion\"",
+              "bbox": [
+                317,
+                128,
+                373,
+                140
+              ]
+            },
+            {
+              "text": "hindered",
+              "bbox": [
+                378,
+                128,
+                417,
+                140
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                421,
+                128,
+                432,
+                140
+              ]
+            },
+            {
+              "text": "\"Blaming",
+              "bbox": [
+                437,
+                128,
+                480,
+                140
+              ]
+            },
+            {
+              "text": "self",
+              "bbox": [
+                485,
+                128,
+                501,
+                140
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                505,
+                128,
+                515,
+                140
+              ]
+            },
+            {
+              "text": "others*\",",
+              "bbox": [
+                520,
+                128,
+                559,
+                140
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                128,
+                580,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "text": "\"Feedback from others in group\" alongside \"Difficulties in close relations*\". The table also notes unresolved dynamics with two",
+          "bbox": [
+            15,
+            143,
+            580,
+            155
+          ],
+          "words": [
+            {
+              "text": "\"Feedback",
+              "bbox": [
+                15,
+                143,
+                62,
+                155
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                64,
+                143,
+                86,
+                155
+              ]
+            },
+            {
+              "text": "others",
+              "bbox": [
+                89,
+                143,
+                115,
+                155
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                118,
+                143,
+                127,
+                155
+              ]
+            },
+            {
+              "text": "group\"",
+              "bbox": [
+                130,
+                143,
+                160,
+                155
+              ]
+            },
+            {
+              "text": "alongside",
+              "bbox": [
+                163,
+                143,
+                205,
+                155
+              ]
+            },
+            {
+              "text": "\"Difficulties",
+              "bbox": [
+                207,
+                143,
+                262,
+                155
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                265,
+                143,
+                273,
+                155
+              ]
+            },
+            {
+              "text": "close",
+              "bbox": [
+                276,
+                143,
+                299,
+                155
+              ]
+            },
+            {
+              "text": "relations*\".",
+              "bbox": [
+                301,
+                143,
+                352,
+                155
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                355,
+                143,
+                372,
+                155
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                374,
+                143,
+                396,
+                155
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                399,
+                143,
+                416,
+                155
+              ]
+            },
+            {
+              "text": "notes",
+              "bbox": [
+                419,
+                143,
+                442,
+                155
+              ]
+            },
+            {
+              "text": "unresolved",
+              "bbox": [
+                445,
+                143,
+                493,
+                155
+              ]
+            },
+            {
+              "text": "dynamics",
+              "bbox": [
+                496,
+                143,
+                538,
+                155
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                541,
+                143,
+                561,
+                155
+              ]
+            },
+            {
+              "text": "two",
+              "bbox": [
+                563,
+                143,
+                580,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "text": "entries under Dysthymia, wherein \"Resolved relational problems\" and \"Several therapies important\" lack hindering factors. The",
+          "bbox": [
+            15,
+            159,
+            580,
+            171
+          ],
+          "words": [
+            {
+              "text": "entries",
+              "bbox": [
+                15,
+                159,
+                44,
+                171
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                47,
+                159,
+                72,
+                171
+              ]
+            },
+            {
+              "text": "Dysthymia,",
+              "bbox": [
+                75,
+                159,
+                126,
+                171
+              ]
+            },
+            {
+              "text": "wherein",
+              "bbox": [
+                129,
+                159,
+                165,
+                171
+              ]
+            },
+            {
+              "text": "\"Resolved",
+              "bbox": [
+                168,
+                159,
+                213,
+                171
+              ]
+            },
+            {
+              "text": "relational",
+              "bbox": [
+                216,
+                159,
+                258,
+                171
+              ]
+            },
+            {
+              "text": "problems\"",
+              "bbox": [
+                261,
+                159,
+                306,
+                171
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                309,
+                159,
+                325,
+                171
+              ]
+            },
+            {
+              "text": "\"Several",
+              "bbox": [
+                328,
+                159,
+                365,
+                171
+              ]
+            },
+            {
+              "text": "therapies",
+              "bbox": [
+                368,
+                159,
+                408,
+                171
+              ]
+            },
+            {
+              "text": "important\"",
+              "bbox": [
+                411,
+                159,
+                458,
+                171
+              ]
+            },
+            {
+              "text": "lack",
+              "bbox": [
+                461,
+                159,
+                479,
+                171
+              ]
+            },
+            {
+              "text": "hindering",
+              "bbox": [
+                482,
+                159,
+                525,
+                171
+              ]
+            },
+            {
+              "text": "factors.",
+              "bbox": [
+                527,
+                159,
+                560,
+                171
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                563,
+                159,
+                580,
+                171
+              ]
+            }
+          ]
+        },
+        {
+          "text": "second table details the correlation of various parameters with k values ranging from 1 to 5, where for k=1, Ntrain is 311,540,",
+          "bbox": [
+            15,
+            174,
+            580,
+            186
+          ],
+          "words": [
+            {
+              "text": "second",
+              "bbox": [
+                15,
+                174,
+                46,
+                186
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                49,
+                174,
+                70,
+                186
+              ]
+            },
+            {
+              "text": "details",
+              "bbox": [
+                74,
+                174,
+                102,
+                186
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                106,
+                174,
+                119,
+                186
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                122,
+                174,
+                170,
+                186
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                173,
+                174,
+                183,
+                186
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                186,
+                174,
+                218,
+                186
+              ]
+            },
+            {
+              "text": "parameters",
+              "bbox": [
+                222,
+                174,
+                270,
+                186
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                273,
+                174,
+                293,
+                186
+              ]
+            },
+            {
+              "text": "k",
+              "bbox": [
+                296,
+                174,
+                302,
+                186
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                305,
+                174,
+                333,
+                186
+              ]
+            },
+            {
+              "text": "ranging",
+              "bbox": [
+                336,
+                174,
+                370,
+                186
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                373,
+                174,
+                395,
+                186
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                398,
+                174,
+                403,
+                186
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                407,
+                174,
+                415,
+                186
+              ]
+            },
+            {
+              "text": "5,",
+              "bbox": [
+                419,
+                174,
+                427,
+                186
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                430,
+                174,
+                457,
+                186
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                460,
+                174,
+                473,
+                186
+              ]
+            },
+            {
+              "text": "k=1,",
+              "bbox": [
+                477,
+                174,
+                497,
+                186
+              ]
+            },
+            {
+              "text": "Ntrain",
+              "bbox": [
+                500,
+                174,
+                528,
+                186
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                531,
+                174,
+                539,
+                186
+              ]
+            },
+            {
+              "text": "311,540,",
+              "bbox": [
+                542,
+                174,
+                580,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ntest is 77,993, and correlation is 0.895; for k=2, Ntrain is 311,463, Ntest is 78,070, and correlation is 0.891; for k=3, Ntrain is",
+          "bbox": [
+            15,
+            190,
+            580,
+            202
+          ],
+          "words": [
+            {
+              "text": "Ntest",
+              "bbox": [
+                15,
+                190,
+                38,
+                202
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                41,
+                190,
+                49,
+                202
+              ]
+            },
+            {
+              "text": "77,993,",
+              "bbox": [
+                52,
+                190,
+                85,
+                202
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                88,
+                190,
+                103,
+                202
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                106,
+                190,
+                154,
+                202
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                157,
+                190,
+                164,
+                202
+              ]
+            },
+            {
+              "text": "0.895;",
+              "bbox": [
+                167,
+                190,
+                195,
+                202
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                198,
+                190,
+                211,
+                202
+              ]
+            },
+            {
+              "text": "k=2,",
+              "bbox": [
+                214,
+                190,
+                234,
+                202
+              ]
+            },
+            {
+              "text": "Ntrain",
+              "bbox": [
+                237,
+                190,
+                265,
+                202
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                268,
+                190,
+                275,
+                202
+              ]
+            },
+            {
+              "text": "311,463,",
+              "bbox": [
+                278,
+                190,
+                317,
+                202
+              ]
+            },
+            {
+              "text": "Ntest",
+              "bbox": [
+                320,
+                190,
+                343,
+                202
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                346,
+                190,
+                353,
+                202
+              ]
+            },
+            {
+              "text": "78,070,",
+              "bbox": [
+                356,
+                190,
+                389,
+                202
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                392,
+                190,
+                408,
+                202
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                411,
+                190,
+                459,
+                202
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                462,
+                190,
+                469,
+                202
+              ]
+            },
+            {
+              "text": "0.891;",
+              "bbox": [
+                472,
+                190,
+                500,
+                202
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                503,
+                190,
+                516,
+                202
+              ]
+            },
+            {
+              "text": "k=3,",
+              "bbox": [
+                519,
+                190,
+                539,
+                202
+              ]
+            },
+            {
+              "text": "Ntrain",
+              "bbox": [
+                542,
+                190,
+                570,
+                202
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                573,
+                190,
+                580,
+                202
+              ]
+            }
+          ]
+        },
+        {
+          "text": "311,652, Ntest is 77,881, and correlation is 0.898; for k=4, Ntrain is 311,565, Ntest is 77,968, and correlation is 0.901; and for",
+          "bbox": [
+            15,
+            205,
+            580,
+            217
+          ],
+          "words": [
+            {
+              "text": "311,652,",
+              "bbox": [
+                15,
+                205,
+                53,
+                217
+              ]
+            },
+            {
+              "text": "Ntest",
+              "bbox": [
+                56,
+                205,
+                80,
+                217
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                83,
+                205,
+                90,
+                217
+              ]
+            },
+            {
+              "text": "77,881,",
+              "bbox": [
+                93,
+                205,
+                126,
+                217
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                129,
+                205,
+                145,
+                217
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                149,
+                205,
+                196,
+                217
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                199,
+                205,
+                207,
+                217
+              ]
+            },
+            {
+              "text": "0.898;",
+              "bbox": [
+                210,
+                205,
+                238,
+                217
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                241,
+                205,
+                254,
+                217
+              ]
+            },
+            {
+              "text": "k=4,",
+              "bbox": [
+                257,
+                205,
+                277,
+                217
+              ]
+            },
+            {
+              "text": "Ntrain",
+              "bbox": [
+                280,
+                205,
+                308,
+                217
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                312,
+                205,
+                319,
+                217
+              ]
+            },
+            {
+              "text": "311,565,",
+              "bbox": [
+                322,
+                205,
+                360,
+                217
+              ]
+            },
+            {
+              "text": "Ntest",
+              "bbox": [
+                363,
+                205,
+                387,
+                217
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                390,
+                205,
+                397,
+                217
+              ]
+            },
+            {
+              "text": "77,968,",
+              "bbox": [
+                400,
+                205,
+                433,
+                217
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                437,
+                205,
+                452,
+                217
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                456,
+                205,
+                503,
+                217
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                507,
+                205,
+                514,
+                217
+              ]
+            },
+            {
+              "text": "0.901;",
+              "bbox": [
+                517,
+                205,
+                545,
+                217
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                548,
+                205,
+                564,
+                217
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                567,
+                205,
+                580,
+                217
+              ]
+            }
+          ]
+        },
+        {
+          "text": "k=5, Ntrain is 311,454, Ntest is 78,079, and correlation is 0.903.",
+          "bbox": [
+            15,
+            220,
+            298,
+            232
+          ],
+          "words": [
+            {
+              "text": "k=5,",
+              "bbox": [
+                15,
+                220,
+                35,
+                232
+              ]
+            },
+            {
+              "text": "Ntrain",
+              "bbox": [
+                38,
+                220,
+                66,
+                232
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                69,
+                220,
+                76,
+                232
+              ]
+            },
+            {
+              "text": "311,454,",
+              "bbox": [
+                79,
+                220,
+                117,
+                232
+              ]
+            },
+            {
+              "text": "Ntest",
+              "bbox": [
+                119,
+                220,
+                143,
+                232
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                145,
+                220,
+                153,
+                232
+              ]
+            },
+            {
+              "text": "78,079,",
+              "bbox": [
+                156,
+                220,
+                189,
+                232
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                191,
+                220,
+                207,
+                232
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                210,
+                220,
+                258,
+                232
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                260,
+                220,
+                268,
+                232
+              ]
+            },
+            {
+              "text": "0.903.",
+              "bbox": [
+                270,
+                220,
+                298,
+                232
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_049198_t0",
+      "bbox": [
+        15,
+        250,
+        580,
+        453
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            250,
+            580,
+            270
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            270,
+            580,
+            290
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            290,
+            580,
+            311
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            311,
+            580,
+            345
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            345,
+            580,
+            379
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            379,
+            580,
+            413
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            413,
+            580,
+            433
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            433,
+            580,
+            453
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">Panic disorder</td><td colspan=\"2\">Dysthymia</td></tr><tr><td>Helpful factors</td><td>Hindering factors</td><td>Helpful factors</td><td>Hindering factors</td></tr><tr><td>Therapist as coach</td><td>Phobias*</td><td>Therapist as parent</td><td>Mistrust of others*</td></tr><tr><td>Relaxation techniques</td><td>Fear of anxiety*</td><td>Experiential and creative techniques</td><td>Sensitive to confirmation*</td></tr><tr><td>Awareness and handling of feelings</td><td>Difficult handling bodily sensations and feelings*</td><td>Self-acceptance and compassion</td><td>Blaming self or others*</td></tr><tr><td>Exposure gave confidence</td><td></td><td>Feedback from others in group</td><td>Difficulties in close relations*</td></tr><tr><td></td><td></td><td>Resolved relational problems</td><td></td></tr><tr><td></td><td></td><td>Several therapies important</td><td></td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Panic disorder",
+          "bbox": [
+            15,
+            250,
+            330,
+            270
+          ],
+          "words": [
+            {
+              "text": "Panic",
+              "bbox": [
+                20,
+                254,
+                44,
+                265
+              ]
+            },
+            {
+              "text": "disorder",
+              "bbox": [
+                46,
+                254,
+                83,
+                265
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Dysthymia",
+          "bbox": [
+            330,
+            250,
+            580,
+            270
+          ],
+          "words": [
+            {
+              "text": "Dysthymia",
+              "bbox": [
+                529,
+                254,
+                575,
+                265
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Helpful factors",
+          "bbox": [
+            15,
+            270,
+            148,
+            290
+          ],
+          "words": [
+            {
+              "text": "Helpful",
+              "bbox": [
+                20,
+                274,
+                52,
+                285
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                55,
+                274,
+                84,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Hindering factors",
+          "bbox": [
+            148,
+            270,
+            330,
+            290
+          ],
+          "words": [
+            {
+              "text": "Hindering",
+              "bbox": [
+                153,
+                274,
+                197,
+                285
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                199,
+                274,
+                229,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Helpful factors",
+          "bbox": [
+            330,
+            270,
+            465,
+            290
+          ],
+          "words": [
+            {
+              "text": "Helpful",
+              "bbox": [
+                396,
+                274,
+                428,
+                285
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                431,
+                274,
+                460,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Hindering factors",
+          "bbox": [
+            465,
+            270,
+            580,
+            290
+          ],
+          "words": [
+            {
+              "text": "Hindering",
+              "bbox": [
+                499,
+                274,
+                543,
+                285
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                546,
+                274,
+                575,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Therapist as coach",
+          "bbox": [
+            15,
+            290,
+            148,
+            311
+          ],
+          "words": [
+            {
+              "text": "Therapist",
+              "bbox": [
+                20,
+                295,
+                58,
+                306
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                60,
+                295,
+                69,
+                306
+              ]
+            },
+            {
+              "text": "coach",
+              "bbox": [
+                71,
+                295,
+                94,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Phobias*",
+          "bbox": [
+            148,
+            290,
+            330,
+            311
+          ],
+          "words": [
+            {
+              "text": "Phobias*",
+              "bbox": [
+                153,
+                295,
+                190,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Therapist as parent",
+          "bbox": [
+            330,
+            290,
+            465,
+            311
+          ],
+          "words": [
+            {
+              "text": "Therapist",
+              "bbox": [
+                384,
+                295,
+                422,
+                306
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                425,
+                295,
+                433,
+                306
+              ]
+            },
+            {
+              "text": "parent",
+              "bbox": [
+                435,
+                295,
+                460,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Mistrust of others*",
+          "bbox": [
+            465,
+            290,
+            580,
+            311
+          ],
+          "words": [
+            {
+              "text": "Mistrust",
+              "bbox": [
+                499,
+                295,
+                532,
+                306
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                535,
+                295,
+                543,
+                306
+              ]
+            },
+            {
+              "text": "others*",
+              "bbox": [
+                546,
+                295,
+                575,
+                306
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Relaxation techniques",
+          "bbox": [
+            15,
+            311,
+            148,
+            345
+          ],
+          "words": [
+            {
+              "text": "Relaxation",
+              "bbox": [
+                20,
+                315,
+                63,
+                326
+              ]
+            },
+            {
+              "text": "techniques",
+              "bbox": [
+                66,
+                315,
+                109,
+                326
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Fear of anxiety*",
+          "bbox": [
+            148,
+            311,
+            330,
+            345
+          ],
+          "words": [
+            {
+              "text": "Fear",
+              "bbox": [
+                153,
+                315,
+                171,
+                326
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                173,
+                315,
+                182,
+                326
+              ]
+            },
+            {
+              "text": "anxiety*",
+              "bbox": [
+                184,
+                315,
+                219,
+                326
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Experiential and creative techniques",
+          "bbox": [
+            330,
+            311,
+            465,
+            345
+          ],
+          "words": [
+            {
+              "text": "Experiential",
+              "bbox": [
+                360,
+                315,
+                409,
+                326
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                412,
+                315,
+                426,
+                326
+              ]
+            },
+            {
+              "text": "creative",
+              "bbox": [
+                429,
+                315,
+                460,
+                326
+              ]
+            },
+            {
+              "text": "techniques",
+              "bbox": [
+                418,
+                329,
+                460,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Sensitive to confirmation*",
+          "bbox": [
+            465,
+            311,
+            580,
+            345
+          ],
+          "words": [
+            {
+              "text": "Sensitive",
+              "bbox": [
+                528,
+                315,
+                565,
+                326
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                567,
+                315,
+                575,
+                326
+              ]
+            },
+            {
+              "text": "confirmation*",
+              "bbox": [
+                518,
+                329,
+                575,
+                340
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Awareness and handling of feelings",
+          "bbox": [
+            15,
+            345,
+            148,
+            379
+          ],
+          "words": [
+            {
+              "text": "Awareness",
+              "bbox": [
+                20,
+                349,
+                63,
+                360
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                65,
+                349,
+                80,
+                360
+              ]
+            },
+            {
+              "text": "handling",
+              "bbox": [
+                82,
+                349,
+                117,
+                360
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                120,
+                349,
+                128,
+                360
+              ]
+            },
+            {
+              "text": "feelings",
+              "bbox": [
+                20,
+                363,
+                52,
+                374
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Difficult handling bodily sensations and feelings*",
+          "bbox": [
+            148,
+            345,
+            330,
+            379
+          ],
+          "words": [
+            {
+              "text": "Difficult",
+              "bbox": [
+                153,
+                349,
+                187,
+                360
+              ]
+            },
+            {
+              "text": "handling",
+              "bbox": [
+                190,
+                349,
+                225,
+                360
+              ]
+            },
+            {
+              "text": "bodily",
+              "bbox": [
+                227,
+                349,
+                253,
+                360
+              ]
+            },
+            {
+              "text": "sensations",
+              "bbox": [
+                255,
+                349,
+                296,
+                360
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                299,
+                349,
+                313,
+                360
+              ]
+            },
+            {
+              "text": "feelings*",
+              "bbox": [
+                153,
+                363,
+                190,
+                374
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Self-acceptance and compassion",
+          "bbox": [
+            330,
+            345,
+            465,
+            379
+          ],
+          "words": [
+            {
+              "text": "Self-acceptance",
+              "bbox": [
+                380,
+                349,
+                443,
+                360
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                446,
+                349,
+                460,
+                360
+              ]
+            },
+            {
+              "text": "compassion",
+              "bbox": [
+                413,
+                363,
+                460,
+                374
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Blaming self or others*",
+          "bbox": [
+            465,
+            345,
+            580,
+            379
+          ],
+          "words": [
+            {
+              "text": "Blaming",
+              "bbox": [
+                481,
+                349,
+                515,
+                360
+              ]
+            },
+            {
+              "text": "self",
+              "bbox": [
+                518,
+                349,
+                532,
+                360
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                535,
+                349,
+                543,
+                360
+              ]
+            },
+            {
+              "text": "others*",
+              "bbox": [
+                546,
+                349,
+                575,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Exposure gave confidence",
+          "bbox": [
+            15,
+            379,
+            148,
+            413
+          ],
+          "words": [
+            {
+              "text": "Exposure",
+              "bbox": [
+                20,
+                383,
+                58,
+                394
+              ]
+            },
+            {
+              "text": "gave",
+              "bbox": [
+                60,
+                383,
+                79,
+                394
+              ]
+            },
+            {
+              "text": "confidence",
+              "bbox": [
+                82,
+                383,
+                126,
+                394
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            148,
+            379,
+            330,
+            413
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Feedback from others in group",
+          "bbox": [
+            330,
+            379,
+            465,
+            413
+          ],
+          "words": [
+            {
+              "text": "Feedback",
+              "bbox": [
+                337,
+                383,
+                375,
+                394
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                378,
+                383,
+                397,
+                394
+              ]
+            },
+            {
+              "text": "others",
+              "bbox": [
+                400,
+                383,
+                424,
+                394
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                427,
+                383,
+                435,
+                394
+              ]
+            },
+            {
+              "text": "group",
+              "bbox": [
+                437,
+                383,
+                460,
+                394
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Difficulties in close relations*",
+          "bbox": [
+            465,
+            379,
+            580,
+            413
+          ],
+          "words": [
+            {
+              "text": "Difficulties",
+              "bbox": [
+                496,
+                383,
+                542,
+                394
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                544,
+                383,
+                552,
+                394
+              ]
+            },
+            {
+              "text": "close",
+              "bbox": [
+                554,
+                383,
+                575,
+                394
+              ]
+            },
+            {
+              "text": "relations*",
+              "bbox": [
+                536,
+                397,
+                575,
+                408
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            413,
+            148,
+            433
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            148,
+            413,
+            330,
+            433
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Resolved relational problems",
+          "bbox": [
+            330,
+            413,
+            465,
+            433
+          ],
+          "words": [
+            {
+              "text": "Resolved",
+              "bbox": [
+                343,
+                417,
+                380,
+                428
+              ]
+            },
+            {
+              "text": "relational",
+              "bbox": [
+                383,
+                417,
+                421,
+                428
+              ]
+            },
+            {
+              "text": "problems",
+              "bbox": [
+                423,
+                417,
+                460,
+                428
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            465,
+            413,
+            580,
+            433
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            433,
+            148,
+            453
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            148,
+            433,
+            330,
+            453
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Several therapies important",
+          "bbox": [
+            330,
+            433,
+            465,
+            453
+          ],
+          "words": [
+            {
+              "text": "Several",
+              "bbox": [
+                350,
+                437,
+                380,
+                448
+              ]
+            },
+            {
+              "text": "therapies",
+              "bbox": [
+                383,
+                437,
+                419,
+                448
+              ]
+            },
+            {
+              "text": "important",
+              "bbox": [
+                422,
+                437,
+                460,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            465,
+            433,
+            580,
+            453
+          ],
+          "words": []
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_049198_t1",
+      "bbox": [
+        15,
+        468,
+        580,
+        595
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            468,
+            580,
+            489
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            489,
+            580,
+            510
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            510,
+            580,
+            531
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            531,
+            580,
+            552
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            552,
+            580,
+            573
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            573,
+            580,
+            594
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>k</td><td>Ntrain</td><td>Ntest</td><td>Correlation</td></tr><tr><td>1</td><td>311,540</td><td>77,993</td><td>0.895</td></tr><tr><td>2</td><td>311,463</td><td>78,070</td><td>0.891</td></tr><tr><td>3</td><td>311,652</td><td>77,881</td><td>0.898</td></tr><tr><td>4</td><td>311,565</td><td>77,968</td><td>0.901</td></tr><tr><td>5</td><td>311,454</td><td>78,079</td><td>0.903</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "k",
+          "bbox": [
+            16,
+            468,
+            74,
+            489
+          ],
+          "words": [
+            {
+              "text": "k",
+              "bbox": [
+                21,
+                473,
+                27,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Ntrain",
+          "bbox": [
+            74,
+            468,
+            227,
+            489
+          ],
+          "words": [
+            {
+              "text": "Ntrain",
+              "bbox": [
+                80,
+                473,
+                108,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Ntest",
+          "bbox": [
+            227,
+            468,
+            364,
+            489
+          ],
+          "words": [
+            {
+              "text": "Ntest",
+              "bbox": [
+                336,
+                473,
+                358,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Correlation",
+          "bbox": [
+            364,
+            468,
+            580,
+            489
+          ],
+          "words": [
+            {
+              "text": "Correlation",
+              "bbox": [
+                524,
+                473,
+                574,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            16,
+            489,
+            74,
+            510
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                21,
+                494,
+                26,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "311,540",
+          "bbox": [
+            74,
+            489,
+            227,
+            510
+          ],
+          "words": [
+            {
+              "text": "311,540",
+              "bbox": [
+                80,
+                494,
+                112,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "77,993",
+          "bbox": [
+            227,
+            489,
+            364,
+            510
+          ],
+          "words": [
+            {
+              "text": "77,993",
+              "bbox": [
+                331,
+                494,
+                358,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.895",
+          "bbox": [
+            364,
+            489,
+            580,
+            510
+          ],
+          "words": [
+            {
+              "text": "0.895",
+              "bbox": [
+                552,
+                494,
+                574,
+                505
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            16,
+            510,
+            74,
+            531
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                21,
+                515,
+                26,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "311,463",
+          "bbox": [
+            74,
+            510,
+            227,
+            531
+          ],
+          "words": [
+            {
+              "text": "311,463",
+              "bbox": [
+                80,
+                515,
+                112,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "78,070",
+          "bbox": [
+            227,
+            510,
+            364,
+            531
+          ],
+          "words": [
+            {
+              "text": "78,070",
+              "bbox": [
+                331,
+                515,
+                358,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.891",
+          "bbox": [
+            364,
+            510,
+            580,
+            531
+          ],
+          "words": [
+            {
+              "text": "0.891",
+              "bbox": [
+                552,
+                515,
+                574,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "3",
+          "bbox": [
+            16,
+            531,
+            74,
+            552
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                21,
+                536,
+                26,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "311,652",
+          "bbox": [
+            74,
+            531,
+            227,
+            552
+          ],
+          "words": [
+            {
+              "text": "311,652",
+              "bbox": [
+                80,
+                536,
+                112,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "77,881",
+          "bbox": [
+            227,
+            531,
+            364,
+            552
+          ],
+          "words": [
+            {
+              "text": "77,881",
+              "bbox": [
+                331,
+                536,
+                358,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.898",
+          "bbox": [
+            364,
+            531,
+            580,
+            552
+          ],
+          "words": [
+            {
+              "text": "0.898",
+              "bbox": [
+                552,
+                536,
+                574,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            16,
+            552,
+            74,
+            573
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                21,
+                557,
+                26,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "311,565",
+          "bbox": [
+            74,
+            552,
+            227,
+            573
+          ],
+          "words": [
+            {
+              "text": "311,565",
+              "bbox": [
+                80,
+                557,
+                112,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "77,968",
+          "bbox": [
+            227,
+            552,
+            364,
+            573
+          ],
+          "words": [
+            {
+              "text": "77,968",
+              "bbox": [
+                331,
+                557,
+                358,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.901",
+          "bbox": [
+            364,
+            552,
+            580,
+            573
+          ],
+          "words": [
+            {
+              "text": "0.901",
+              "bbox": [
+                552,
+                557,
+                574,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            16,
+            573,
+            74,
+            594
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                21,
+                578,
+                26,
+                589
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "311,454",
+          "bbox": [
+            74,
+            573,
+            227,
+            594
+          ],
+          "words": [
+            {
+              "text": "311,454",
+              "bbox": [
+                80,
+                578,
+                112,
+                589
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "78,079",
+          "bbox": [
+            227,
+            573,
+            364,
+            594
+          ],
+          "words": [
+            {
+              "text": "78,079",
+              "bbox": [
+                331,
+                578,
+                358,
+                589
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.903",
+          "bbox": [
+            364,
+            573,
+            580,
+            594
+          ],
+          "words": [
+            {
+              "text": "0.903",
+              "bbox": [
+                552,
+                578,
+                574,
+                589
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

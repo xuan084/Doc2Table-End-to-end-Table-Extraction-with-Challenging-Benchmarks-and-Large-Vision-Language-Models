@@ -1,0 +1,7179 @@
+{
+  "image_id": "img_128747",
+  "subset": "S3",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_128747_t0",
+      "bbox": [
+        13,
+        55,
+        494,
+        422
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "Stain",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            56,
+            494,
+            97
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            97,
+            494,
+            150
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            150,
+            494,
+            203
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            203,
+            494,
+            256
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            256,
+            494,
+            333
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            333,
+            494,
+            422
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>ProjectName</td><td>Location</td><td>StartDate</td><td>EndDate</td><td colspan=\"4\">CostBreakdown</td><td colspan=\"2\">OperatingCosts</td><td colspan=\"3\">CapitalExpenditure</td><td colspan=\"2\">LaborCosts</td><td>TotalCost</td></tr><tr><td>SiteA</td><td>Beijing</td><td>2023-01-10</td><td>2024-01-10</td><td>¥50M</td><td>¥20M</td><td>¥15M</td><td>¥85M</td><td>SiteB</td><td>Shanghai</td><td>2023-02-15</td><td>2024-02-15</td><td>¥70M</td><td>¥30M</td><td>¥10M</td><td>¥110M</td></tr><tr><td>SiteC</td><td>Guangzhou</td><td>2023-03-20</td><td>2024-03-20</td><td>¥40M</td><td>¥25M</td><td>¥5M</td><td>¥70M</td><td>SiteD</td><td>Shenzhen</td><td>2023-04-25</td><td>2024-04-25</td><td>¥60M</td><td>¥35M</td><td>¥8M</td><td>¥103M</td></tr><tr><td>SiteE</td><td>Chengdu</td><td>2023-05-30</td><td>2024-05-30</td><td>¥55M</td><td>¥28M</td><td>¥12M</td><td>¥95M</td><td>TotalProjects</td><td>N/A</td><td>N/A</td><td>N/A</td><td>¥275M</td><td>¥133M</td><td>¥60M</td><td>¥468M</td></tr><tr><td>ContingencyFund</td><td>¥20M</td><td>EnvironmentalImpactFee</td><td>¥10M</td><td>TotalFinanced</td><td>¥500M</td><td>FundingSources</td><td>PrivateInvestment</td><td>¥200M</td><td>GovernmentGrant</td><td>¥150M</td><td>BankLoan</td><td>¥150M</td><td>TotalRevenue</td><td>¥550M</td><td>NetIncome</td></tr><tr><td>¥50M</td><td>ReturnonInvestment</td><td>10%</td><td>PaybackPeriod</td><td>5years</td><td>SustainabilityIndex</td><td>85%</td><td>RegulatoryCompliance</td><td>100%</td><td>WasteRecycled</td><td>70%</td><td>CommunityEngagement</td><td>High</td><td>PublicAwareness</td><td>Medium</td><td>Total</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectName",
+          "bbox": [
+            13,
+            56,
+            75,
+            97
+          ],
+          "words": [
+            {
+              "text": "ProjectName",
+              "bbox": [
+                17,
+                60,
+                65,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Location",
+          "bbox": [
+            75,
+            56,
+            137,
+            97
+          ],
+          "words": [
+            {
+              "text": "Location",
+              "bbox": [
+                79,
+                60,
+                111,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "StartDate",
+          "bbox": [
+            137,
+            56,
+            199,
+            97
+          ],
+          "words": [
+            {
+              "text": "StartDate",
+              "bbox": [
+                160,
+                60,
+                195,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "EndDate",
+          "bbox": [
+            199,
+            56,
+            222,
+            97
+          ],
+          "words": [
+            {
+              "text": "EndDate",
+              "bbox": [
+                204,
+                60,
+                214,
+                93
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "CostBreakdown",
+          "bbox": [
+            222,
+            56,
+            313,
+            97
+          ],
+          "words": [
+            {
+              "text": "CostBreakdown",
+              "bbox": [
+                250,
+                60,
+                308,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            8,
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "OperatingCosts",
+          "bbox": [
+            313,
+            56,
+            358,
+            97
+          ],
+          "words": [
+            {
+              "text": "OperatingCosts",
+              "bbox": [
+                320,
+                60,
+                354,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            10,
+            11,
+            12
+          ],
+          "is_column_header": true,
+          "cell_text": "CapitalExpenditure",
+          "bbox": [
+            358,
+            56,
+            426,
+            97
+          ],
+          "words": [
+            {
+              "text": "CapitalExpenditure",
+              "bbox": [
+                364,
+                60,
+                421,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            13,
+            14
+          ],
+          "is_column_header": true,
+          "cell_text": "LaborCosts",
+          "bbox": [
+            426,
+            56,
+            471,
+            97
+          ],
+          "words": [
+            {
+              "text": "LaborCosts",
+              "bbox": [
+                430,
+                60,
+                467,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            15
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalCost",
+          "bbox": [
+            471,
+            56,
+            494,
+            97
+          ],
+          "words": [
+            {
+              "text": "TotalCost",
+              "bbox": [
+                477,
+                60,
+                490,
+                93
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "SiteA",
+          "bbox": [
+            13,
+            97,
+            75,
+            150
+          ],
+          "words": [
+            {
+              "text": "SiteA",
+              "bbox": [
+                17,
+                100,
+                37,
+                110
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Beijing",
+          "bbox": [
+            75,
+            97,
+            137,
+            150
+          ],
+          "words": [
+            {
+              "text": "Beijing",
+              "bbox": [
+                79,
+                100,
+                105,
+                110
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "2023-01-10",
+          "bbox": [
+            137,
+            97,
+            199,
+            150
+          ],
+          "words": [
+            {
+              "text": "2023-01-10",
+              "bbox": [
+                155,
+                100,
+                195,
+                110
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "2024-01-10",
+          "bbox": [
+            199,
+            97,
+            222,
+            150
+          ],
+          "words": [
+            {
+              "text": "2024-01-10",
+              "bbox": [
+                204,
+                100,
+                216,
+                146
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "¥50M",
+          "bbox": [
+            222,
+            97,
+            245,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥50M",
+              "bbox": [
+                228,
+                100,
+                240,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "¥20M",
+          "bbox": [
+            245,
+            97,
+            267,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥20M",
+              "bbox": [
+                250,
+                100,
+                263,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "¥15M",
+          "bbox": [
+            267,
+            97,
+            290,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥15M",
+              "bbox": [
+                273,
+                100,
+                286,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "¥85M",
+          "bbox": [
+            290,
+            97,
+            313,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥85M",
+              "bbox": [
+                295,
+                100,
+                308,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "SiteB",
+          "bbox": [
+            313,
+            97,
+            335,
+            150
+          ],
+          "words": [
+            {
+              "text": "SiteB",
+              "bbox": [
+                317,
+                100,
+                331,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "Shanghai",
+          "bbox": [
+            335,
+            97,
+            358,
+            150
+          ],
+          "words": [
+            {
+              "text": "Shanghai",
+              "bbox": [
+                340,
+                100,
+                354,
+                134
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "2023-02-15",
+          "bbox": [
+            358,
+            97,
+            380,
+            150
+          ],
+          "words": [
+            {
+              "text": "2023-02-15",
+              "bbox": [
+                363,
+                100,
+                376,
+                146
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": true,
+          "cell_text": "2024-02-15",
+          "bbox": [
+            380,
+            97,
+            403,
+            150
+          ],
+          "words": [
+            {
+              "text": "2024-02-15",
+              "bbox": [
+                386,
+                100,
+                399,
+                146
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            12
+          ],
+          "is_column_header": true,
+          "cell_text": "¥70M",
+          "bbox": [
+            403,
+            97,
+            426,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥70M",
+              "bbox": [
+                409,
+                100,
+                421,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            13
+          ],
+          "is_column_header": true,
+          "cell_text": "¥30M",
+          "bbox": [
+            426,
+            97,
+            448,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥30M",
+              "bbox": [
+                431,
+                100,
+                444,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            14
+          ],
+          "is_column_header": true,
+          "cell_text": "¥10M",
+          "bbox": [
+            448,
+            97,
+            471,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥10M",
+              "bbox": [
+                454,
+                100,
+                467,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            15
+          ],
+          "is_column_header": true,
+          "cell_text": "¥110M",
+          "bbox": [
+            471,
+            97,
+            494,
+            150
+          ],
+          "words": [
+            {
+              "text": "¥110M",
+              "bbox": [
+                477,
+                100,
+                490,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SiteC",
+          "bbox": [
+            13,
+            150,
+            75,
+            203
+          ],
+          "words": [
+            {
+              "text": "SiteC",
+              "bbox": [
+                17,
+                154,
+                36,
+                163
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Guangzhou",
+          "bbox": [
+            75,
+            150,
+            137,
+            203
+          ],
+          "words": [
+            {
+              "text": "Guangzhou",
+              "bbox": [
+                79,
+                154,
+                118,
+                163
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2023-03-20",
+          "bbox": [
+            137,
+            150,
+            199,
+            203
+          ],
+          "words": [
+            {
+              "text": "2023-03-20",
+              "bbox": [
+                155,
+                154,
+                195,
+                163
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-03-20",
+          "bbox": [
+            199,
+            150,
+            222,
+            203
+          ],
+          "words": [
+            {
+              "text": "2024-03-20",
+              "bbox": [
+                204,
+                154,
+                216,
+                199
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "¥40M",
+          "bbox": [
+            222,
+            150,
+            245,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥40M",
+              "bbox": [
+                228,
+                154,
+                240,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "¥25M",
+          "bbox": [
+            245,
+            150,
+            267,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥25M",
+              "bbox": [
+                250,
+                154,
+                263,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "¥5M",
+          "bbox": [
+            267,
+            150,
+            290,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥5M",
+              "bbox": [
+                277,
+                154,
+                286,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "¥70M",
+          "bbox": [
+            290,
+            150,
+            313,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥70M",
+              "bbox": [
+                295,
+                154,
+                308,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "SiteD",
+          "bbox": [
+            313,
+            150,
+            335,
+            203
+          ],
+          "words": [
+            {
+              "text": "SiteD",
+              "bbox": [
+                318,
+                154,
+                331,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "Shenzhen",
+          "bbox": [
+            335,
+            150,
+            358,
+            203
+          ],
+          "words": [
+            {
+              "text": "Shenzhen",
+              "bbox": [
+                341,
+                154,
+                354,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "2023-04-25",
+          "bbox": [
+            358,
+            150,
+            380,
+            203
+          ],
+          "words": [
+            {
+              "text": "2023-04-25",
+              "bbox": [
+                363,
+                154,
+                376,
+                199
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-04-25",
+          "bbox": [
+            380,
+            150,
+            403,
+            203
+          ],
+          "words": [
+            {
+              "text": "2024-04-25",
+              "bbox": [
+                386,
+                154,
+                399,
+                199
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            12
+          ],
+          "is_column_header": false,
+          "cell_text": "¥60M",
+          "bbox": [
+            403,
+            150,
+            426,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥60M",
+              "bbox": [
+                409,
+                154,
+                421,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            13
+          ],
+          "is_column_header": false,
+          "cell_text": "¥35M",
+          "bbox": [
+            426,
+            150,
+            448,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥35M",
+              "bbox": [
+                431,
+                154,
+                444,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            14
+          ],
+          "is_column_header": false,
+          "cell_text": "¥8M",
+          "bbox": [
+            448,
+            150,
+            471,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥8M",
+              "bbox": [
+                458,
+                154,
+                467,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            15
+          ],
+          "is_column_header": false,
+          "cell_text": "¥103M",
+          "bbox": [
+            471,
+            150,
+            494,
+            203
+          ],
+          "words": [
+            {
+              "text": "¥103M",
+              "bbox": [
+                477,
+                154,
+                490,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SiteE",
+          "bbox": [
+            13,
+            203,
+            75,
+            256
+          ],
+          "words": [
+            {
+              "text": "SiteE",
+              "bbox": [
+                17,
+                207,
+                35,
+                216
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Chengdu",
+          "bbox": [
+            75,
+            203,
+            137,
+            256
+          ],
+          "words": [
+            {
+              "text": "Chengdu",
+              "bbox": [
+                79,
+                207,
+                110,
+                216
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2023-05-30",
+          "bbox": [
+            137,
+            203,
+            199,
+            256
+          ],
+          "words": [
+            {
+              "text": "2023-05-30",
+              "bbox": [
+                155,
+                207,
+                195,
+                216
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-05-30",
+          "bbox": [
+            199,
+            203,
+            222,
+            256
+          ],
+          "words": [
+            {
+              "text": "2024-05-30",
+              "bbox": [
+                204,
+                207,
+                216,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "¥55M",
+          "bbox": [
+            222,
+            203,
+            245,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥55M",
+              "bbox": [
+                228,
+                207,
+                240,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "¥28M",
+          "bbox": [
+            245,
+            203,
+            267,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥28M",
+              "bbox": [
+                250,
+                207,
+                263,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "¥12M",
+          "bbox": [
+            267,
+            203,
+            290,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥12M",
+              "bbox": [
+                273,
+                207,
+                286,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "¥95M",
+          "bbox": [
+            290,
+            203,
+            313,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥95M",
+              "bbox": [
+                295,
+                207,
+                308,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalProjects",
+          "bbox": [
+            313,
+            203,
+            335,
+            256
+          ],
+          "words": [
+            {
+              "text": "TotalProjects",
+              "bbox": [
+                317,
+                207,
+                331,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            335,
+            203,
+            358,
+            256
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                345,
+                207,
+                354,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            358,
+            203,
+            380,
+            256
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                368,
+                207,
+                376,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            380,
+            203,
+            403,
+            256
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                390,
+                207,
+                399,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            12
+          ],
+          "is_column_header": false,
+          "cell_text": "¥275M",
+          "bbox": [
+            403,
+            203,
+            426,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥275M",
+              "bbox": [
+                409,
+                207,
+                421,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            13
+          ],
+          "is_column_header": false,
+          "cell_text": "¥133M",
+          "bbox": [
+            426,
+            203,
+            448,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥133M",
+              "bbox": [
+                431,
+                207,
+                444,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            14
+          ],
+          "is_column_header": false,
+          "cell_text": "¥60M",
+          "bbox": [
+            448,
+            203,
+            471,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥60M",
+              "bbox": [
+                454,
+                207,
+                467,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            15
+          ],
+          "is_column_header": false,
+          "cell_text": "¥468M",
+          "bbox": [
+            471,
+            203,
+            494,
+            256
+          ],
+          "words": [
+            {
+              "text": "¥468M",
+              "bbox": [
+                477,
+                207,
+                490,
+                228
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ContingencyFund",
+          "bbox": [
+            13,
+            256,
+            75,
+            333
+          ],
+          "words": [
+            {
+              "text": "ContingencyFund",
+              "bbox": [
+                17,
+                260,
+                70,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "¥20M",
+          "bbox": [
+            75,
+            256,
+            137,
+            333
+          ],
+          "words": [
+            {
+              "text": "¥20M",
+              "bbox": [
+                79,
+                260,
+                100,
+                269
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "EnvironmentalImpactFee",
+          "bbox": [
+            137,
+            256,
+            199,
+            333
+          ],
+          "words": [
+            {
+              "text": "EnvironmentalImpactFee",
+              "bbox": [
+                142,
+                260,
+                195,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "¥10M",
+          "bbox": [
+            199,
+            256,
+            222,
+            333
+          ],
+          "words": [
+            {
+              "text": "¥10M",
+              "bbox": [
+                204,
+                260,
+                216,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalFinanced",
+          "bbox": [
+            222,
+            256,
+            245,
+            333
+          ],
+          "words": [
+            {
+              "text": "TotalFinanced",
+              "bbox": [
+                227,
+                260,
+                240,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "¥500M",
+          "bbox": [
+            245,
+            256,
+            267,
+            333
+          ],
+          "words": [
+            {
+              "text": "¥500M",
+              "bbox": [
+                250,
+                260,
+                263,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "FundingSources",
+          "bbox": [
+            267,
+            256,
+            290,
+            333
+          ],
+          "words": [
+            {
+              "text": "FundingSources",
+              "bbox": [
+                272,
+                260,
+                286,
+                317
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "PrivateInvestment",
+          "bbox": [
+            290,
+            256,
+            313,
+            333
+          ],
+          "words": [
+            {
+              "text": "PrivateInvestment",
+              "bbox": [
+                295,
+                260,
+                308,
+                329
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "¥200M",
+          "bbox": [
+            313,
+            256,
+            335,
+            333
+          ],
+          "words": [
+            {
+              "text": "¥200M",
+              "bbox": [
+                318,
+                260,
+                331,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "GovernmentGrant",
+          "bbox": [
+            335,
+            256,
+            358,
+            333
+          ],
+          "words": [
+            {
+              "text": "GovernmentGrant",
+              "bbox": [
+                341,
+                260,
+                354,
+                329
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "¥150M",
+          "bbox": [
+            358,
+            256,
+            380,
+            333
+          ],
+          "words": [
+            {
+              "text": "¥150M",
+              "bbox": [
+                363,
+                260,
+                376,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "BankLoan",
+          "bbox": [
+            380,
+            256,
+            403,
+            333
+          ],
+          "words": [
+            {
+              "text": "BankLoan",
+              "bbox": [
+                385,
+                260,
+                399,
+                293
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            12
+          ],
+          "is_column_header": false,
+          "cell_text": "¥150M",
+          "bbox": [
+            403,
+            256,
+            426,
+            333
+          ],
+          "words": [
+            {
+              "text": "¥150M",
+              "bbox": [
+                409,
+                260,
+                421,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            13
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            426,
+            256,
+            448,
+            333
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                432,
+                260,
+                444,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 71,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            14
+          ],
+          "is_column_header": false,
+          "cell_text": "¥550M",
+          "bbox": [
+            448,
+            256,
+            471,
+            333
+          ],
+          "words": [
+            {
+              "text": "¥550M",
+              "bbox": [
+                454,
+                260,
+                467,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 72,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            15
+          ],
+          "is_column_header": false,
+          "cell_text": "NetIncome",
+          "bbox": [
+            471,
+            256,
+            494,
+            333
+          ],
+          "words": [
+            {
+              "text": "NetIncome",
+              "bbox": [
+                477,
+                260,
+                490,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 73,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "¥50M",
+          "bbox": [
+            13,
+            333,
+            75,
+            422
+          ],
+          "words": [
+            {
+              "text": "¥50M",
+              "bbox": [
+                17,
+                336,
+                37,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 74,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "ReturnonInvestment",
+          "bbox": [
+            75,
+            333,
+            137,
+            422
+          ],
+          "words": [
+            {
+              "text": "ReturnonInvestment",
+              "bbox": [
+                79,
+                336,
+                132,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 75,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            137,
+            333,
+            199,
+            422
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                179,
+                336,
+                195,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 76,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "PaybackPeriod",
+          "bbox": [
+            199,
+            333,
+            222,
+            422
+          ],
+          "words": [
+            {
+              "text": "PaybackPeriod",
+              "bbox": [
+                204,
+                336,
+                217,
+                381
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 77,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5years",
+          "bbox": [
+            222,
+            333,
+            245,
+            422
+          ],
+          "words": [
+            {
+              "text": "5years",
+              "bbox": [
+                228,
+                336,
+                240,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 78,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "SustainabilityIndex",
+          "bbox": [
+            245,
+            333,
+            267,
+            422
+          ],
+          "words": [
+            {
+              "text": "SustainabilityIndex",
+              "bbox": [
+                250,
+                336,
+                263,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 79,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "85%",
+          "bbox": [
+            267,
+            333,
+            290,
+            422
+          ],
+          "words": [
+            {
+              "text": "85%",
+              "bbox": [
+                277,
+                336,
+                286,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 80,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "RegulatoryCompliance",
+          "bbox": [
+            290,
+            333,
+            313,
+            422
+          ],
+          "words": [
+            {
+              "text": "RegulatoryCompliance",
+              "bbox": [
+                295,
+                336,
+                308,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 81,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "100%",
+          "bbox": [
+            313,
+            333,
+            335,
+            422
+          ],
+          "words": [
+            {
+              "text": "100%",
+              "bbox": [
+                318,
+                336,
+                331,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 82,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "WasteRecycled",
+          "bbox": [
+            335,
+            333,
+            358,
+            422
+          ],
+          "words": [
+            {
+              "text": "WasteRecycled",
+              "bbox": [
+                340,
+                336,
+                354,
+                393
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 83,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "70%",
+          "bbox": [
+            358,
+            333,
+            380,
+            422
+          ],
+          "words": [
+            {
+              "text": "70%",
+              "bbox": [
+                368,
+                336,
+                376,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 84,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            11
+          ],
+          "is_column_header": false,
+          "cell_text": "CommunityEngagement",
+          "bbox": [
+            380,
+            333,
+            403,
+            422
+          ],
+          "words": [
+            {
+              "text": "CommunityEngagement",
+              "bbox": [
+                385,
+                336,
+                399,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 85,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            12
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            403,
+            333,
+            426,
+            422
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                409,
+                336,
+                421,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 86,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            13
+          ],
+          "is_column_header": false,
+          "cell_text": "PublicAwareness",
+          "bbox": [
+            426,
+            333,
+            448,
+            422
+          ],
+          "words": [
+            {
+              "text": "PublicAwareness",
+              "bbox": [
+                431,
+                336,
+                444,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 87,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            14
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            448,
+            333,
+            471,
+            422
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                455,
+                336,
+                467,
+                369
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 88,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            15
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            471,
+            333,
+            494,
+            422
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                478,
+                336,
+                490,
+                358
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        435,
+        494,
+        789
+      ],
+      "content": "The increasing emphasis on environmental sustainability within the Asia-Pacific region has led to a growing focus on environmental remediation efforts and associated costs. As organizations strive to comply with stringent regulatory frameworks and societal expectations, understanding the financial implications of remediation activities becomes imperative. The data presented in the accompanying table highlights key metrics related to environmental remediation costs, specifically for two sites: SiteA in Beijing and SiteB in Shanghai. The timeline for these projects spans from early 2023 to early 2024, with notable financial commitments indicated for each site. For instance, the projected environmental remediation cost for SiteA in Beijing is approximately ¥50M, reflecting a significant allocation of resources towards restoring the site to meet environmental standards. This investment can be seen as a vital component of the overall Return on Investment strategy, where the anticipated benefits of improved environmental conditions are expected to outweigh the costs incurred.\n\nIn comparison, SiteB in Shanghai has a higher projected remediation cost of ¥70M, which underscores the complexities and challenges associated with urban environmental management in a rapidly developing metropolis. The breakdown of costs for SiteB includes an estimated ¥30M in direct remediation expenses and an additional ¥10M for ancillary services, demonstrating the multifaceted nature of such projects. Furthermore, it is crucial to note that the contingency fund allocated for SiteB stands at ¥200M, which provides a financial buffer to accommodate any unforeseen challenges that may arise during the remediation process. With a comprehensive funding strategy that includes both public and private investment, evidenced by the allocation of ¥85M categorized under PrivateInvestment, stakeholders can ensure that these projects maintain momentum despite potential financial uncertainties.\n\nAdditionally, while some sites may present unique challenges, such as SiteE in the same region, where the remediation status remains undetermined with a current entry of N/A, it is essential to maintain a vigilant approach towards environmental issues. The ongoing analysis of these metrics offers valuable insights that can influence future decisions and strategies for managing environmental risks. For instance, a cost allocation of ¥60M is noted for SiteE under certain parameters, highlighting the need for careful financial planning in the face of variable site conditions. \n\nMoreover, the anticipated rate of return on environmental investment for the projects is pivotal for justifying expenditures. Notably, for the assessment conducted on February 15, 2023, the projected return for SiteB is approximately 70%, indicating a promising outlook for stakeholders involved in these remediation efforts. Collectively, these factors illustrate the intricate balance between investing in environmental remediation and the potential long-term benefits that can result from such initiatives, particularly in the context of urban development and environmental stewardship in the Asia-Pacific region. As organizations continue to navigate these challenges, the insights gleaned from this data will play a critical role in shaping effective environmental management strategies moving forward.",
+      "lines": [
+        {
+          "text": "The increasing emphasis on environmental sustainability within the Asia-Pacific region has led to a growing focus on",
+          "bbox": [
+            13,
+            436,
+            494,
+            446
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                13,
+                436,
+                27,
+                446
+              ]
+            },
+            {
+              "text": "increasing",
+              "bbox": [
+                32,
+                436,
+                71,
+                446
+              ]
+            },
+            {
+              "text": "emphasis",
+              "bbox": [
+                76,
+                436,
+                110,
+                446
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                115,
+                436,
+                125,
+                446
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                130,
+                436,
+                184,
+                446
+              ]
+            },
+            {
+              "text": "sustainability",
+              "bbox": [
+                189,
+                436,
+                239,
+                446
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                243,
+                436,
+                267,
+                446
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                272,
+                436,
+                284,
+                446
+              ]
+            },
+            {
+              "text": "Asia-Pacific",
+              "bbox": [
+                288,
+                436,
+                334,
+                446
+              ]
+            },
+            {
+              "text": "region",
+              "bbox": [
+                339,
+                436,
+                363,
+                446
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                368,
+                436,
+                381,
+                446
+              ]
+            },
+            {
+              "text": "led",
+              "bbox": [
+                386,
+                436,
+                397,
+                446
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                402,
+                436,
+                409,
+                446
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                414,
+                436,
+                418,
+                446
+              ]
+            },
+            {
+              "text": "growing",
+              "bbox": [
+                423,
+                436,
+                454,
+                446
+              ]
+            },
+            {
+              "text": "focus",
+              "bbox": [
+                459,
+                436,
+                480,
+                446
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                484,
+                436,
+                494,
+                446
+              ]
+            }
+          ]
+        },
+        {
+          "text": "environmental remediation efforts and associated costs. As organizations strive to comply with stringent regulatory frameworks",
+          "bbox": [
+            13,
+            449,
+            494,
+            459
+          ],
+          "words": [
+            {
+              "text": "environmental",
+              "bbox": [
+                13,
+                449,
+                67,
+                459
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                69,
+                449,
+                114,
+                459
+              ]
+            },
+            {
+              "text": "efforts",
+              "bbox": [
+                117,
+                449,
+                141,
+                459
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                144,
+                449,
+                157,
+                459
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                160,
+                449,
+                198,
+                459
+              ]
+            },
+            {
+              "text": "costs.",
+              "bbox": [
+                201,
+                449,
+                222,
+                459
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                224,
+                449,
+                234,
+                459
+              ]
+            },
+            {
+              "text": "organizations",
+              "bbox": [
+                237,
+                449,
+                287,
+                459
+              ]
+            },
+            {
+              "text": "strive",
+              "bbox": [
+                290,
+                449,
+                310,
+                459
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                313,
+                449,
+                320,
+                459
+              ]
+            },
+            {
+              "text": "comply",
+              "bbox": [
+                323,
+                449,
+                351,
+                459
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                353,
+                449,
+                370,
+                459
+              ]
+            },
+            {
+              "text": "stringent",
+              "bbox": [
+                373,
+                449,
+                405,
+                459
+              ]
+            },
+            {
+              "text": "regulatory",
+              "bbox": [
+                408,
+                449,
+                447,
+                459
+              ]
+            },
+            {
+              "text": "frameworks",
+              "bbox": [
+                449,
+                449,
+                494,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and societal expectations, understanding the financial implications of remediation activities becomes imperative. The data",
+          "bbox": [
+            13,
+            462,
+            494,
+            472
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                13,
+                462,
+                26,
+                472
+              ]
+            },
+            {
+              "text": "societal",
+              "bbox": [
+                30,
+                462,
+                59,
+                472
+              ]
+            },
+            {
+              "text": "expectations,",
+              "bbox": [
+                63,
+                462,
+                112,
+                472
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                117,
+                462,
+                170,
+                472
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                174,
+                462,
+                185,
+                472
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                190,
+                462,
+                222,
+                472
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                227,
+                462,
+                273,
+                472
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                277,
+                462,
+                285,
+                472
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                289,
+                462,
+                334,
+                472
+              ]
+            },
+            {
+              "text": "activities",
+              "bbox": [
+                338,
+                462,
+                372,
+                472
+              ]
+            },
+            {
+              "text": "becomes",
+              "bbox": [
+                376,
+                462,
+                409,
+                472
+              ]
+            },
+            {
+              "text": "imperative.",
+              "bbox": [
+                413,
+                462,
+                455,
+                472
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                459,
+                462,
+                474,
+                472
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                478,
+                462,
+                494,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "text": "presented in the accompanying table highlights key metrics related to environmental remediation costs, specifically for two",
+          "bbox": [
+            13,
+            475,
+            494,
+            485
+          ],
+          "words": [
+            {
+              "text": "presented",
+              "bbox": [
+                13,
+                475,
+                49,
+                485
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                52,
+                475,
+                60,
+                485
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                63,
+                475,
+                75,
+                485
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                78,
+                475,
+                133,
+                485
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                136,
+                475,
+                155,
+                485
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                158,
+                475,
+                196,
+                485
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                199,
+                475,
+                213,
+                485
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                216,
+                475,
+                244,
+                485
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                248,
+                475,
+                273,
+                485
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                277,
+                475,
+                284,
+                485
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                288,
+                475,
+                342,
+                485
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                345,
+                475,
+                390,
+                485
+              ]
+            },
+            {
+              "text": "costs,",
+              "bbox": [
+                394,
+                475,
+                415,
+                485
+              ]
+            },
+            {
+              "text": "specifically",
+              "bbox": [
+                418,
+                475,
+                462,
+                485
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                465,
+                475,
+                476,
+                485
+              ]
+            },
+            {
+              "text": "two",
+              "bbox": [
+                480,
+                475,
+                494,
+                485
+              ]
+            }
+          ]
+        },
+        {
+          "text": "sites: SiteA in Beijing and SiteB in Shanghai. The timeline for these projects spans from early 2023 to early 2024, with notable",
+          "bbox": [
+            13,
+            488,
+            494,
+            499
+          ],
+          "words": [
+            {
+              "text": "sites:",
+              "bbox": [
+                13,
+                488,
+                32,
+                499
+              ]
+            },
+            {
+              "text": "SiteA",
+              "bbox": [
+                35,
+                488,
+                55,
+                499
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                58,
+                488,
+                65,
+                499
+              ]
+            },
+            {
+              "text": "Beijing",
+              "bbox": [
+                68,
+                488,
+                96,
+                499
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                98,
+                488,
+                112,
+                499
+              ]
+            },
+            {
+              "text": "SiteB",
+              "bbox": [
+                114,
+                488,
+                135,
+                499
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                138,
+                488,
+                145,
+                499
+              ]
+            },
+            {
+              "text": "Shanghai.",
+              "bbox": [
+                148,
+                488,
+                185,
+                499
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                187,
+                488,
+                202,
+                499
+              ]
+            },
+            {
+              "text": "timeline",
+              "bbox": [
+                204,
+                488,
+                235,
+                499
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                238,
+                488,
+                249,
+                499
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                251,
+                488,
+                270,
+                499
+              ]
+            },
+            {
+              "text": "projects",
+              "bbox": [
+                273,
+                488,
+                303,
+                499
+              ]
+            },
+            {
+              "text": "spans",
+              "bbox": [
+                305,
+                488,
+                326,
+                499
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                329,
+                488,
+                347,
+                499
+              ]
+            },
+            {
+              "text": "early",
+              "bbox": [
+                349,
+                488,
+                368,
+                499
+              ]
+            },
+            {
+              "text": "2023",
+              "bbox": [
+                371,
+                488,
+                389,
+                499
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                392,
+                488,
+                399,
+                499
+              ]
+            },
+            {
+              "text": "early",
+              "bbox": [
+                402,
+                488,
+                421,
+                499
+              ]
+            },
+            {
+              "text": "2024,",
+              "bbox": [
+                423,
+                488,
+                444,
+                499
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                447,
+                488,
+                464,
+                499
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                466,
+                488,
+                494,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "text": "financial commitments indicated for each site. For instance, the projected environmental remediation cost for SiteA in Beijing is",
+          "bbox": [
+            13,
+            501,
+            494,
+            512
+          ],
+          "words": [
+            {
+              "text": "financial",
+              "bbox": [
+                13,
+                501,
+                46,
+                512
+              ]
+            },
+            {
+              "text": "commitments",
+              "bbox": [
+                48,
+                501,
+                99,
+                512
+              ]
+            },
+            {
+              "text": "indicated",
+              "bbox": [
+                101,
+                501,
+                136,
+                512
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                138,
+                501,
+                149,
+                512
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                151,
+                501,
+                168,
+                512
+              ]
+            },
+            {
+              "text": "site.",
+              "bbox": [
+                171,
+                501,
+                186,
+                512
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                189,
+                501,
+                202,
+                512
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                204,
+                501,
+                237,
+                512
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                239,
+                501,
+                251,
+                512
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                253,
+                501,
+                288,
+                512
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                290,
+                501,
+                344,
+                512
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                347,
+                501,
+                392,
+                512
+              ]
+            },
+            {
+              "text": "cost",
+              "bbox": [
+                394,
+                501,
+                409,
+                512
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                411,
+                501,
+                422,
+                512
+              ]
+            },
+            {
+              "text": "SiteA",
+              "bbox": [
+                425,
+                501,
+                446,
+                512
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                448,
+                501,
+                455,
+                512
+              ]
+            },
+            {
+              "text": "Beijing",
+              "bbox": [
+                458,
+                501,
+                485,
+                512
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                488,
+                501,
+                494,
+                512
+              ]
+            }
+          ]
+        },
+        {
+          "text": "approximately ¥50M, reflecting a significant allocation of resources towards restoring the site to meet environmental standards.",
+          "bbox": [
+            13,
+            515,
+            494,
+            525
+          ],
+          "words": [
+            {
+              "text": "approximately",
+              "bbox": [
+                13,
+                515,
+                67,
+                525
+              ]
+            },
+            {
+              "text": "¥50M,",
+              "bbox": [
+                69,
+                515,
+                94,
+                525
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                97,
+                515,
+                133,
+                525
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                135,
+                515,
+                139,
+                525
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                142,
+                515,
+                181,
+                525
+              ]
+            },
+            {
+              "text": "allocation",
+              "bbox": [
+                184,
+                515,
+                221,
+                525
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                223,
+                515,
+                231,
+                525
+              ]
+            },
+            {
+              "text": "resources",
+              "bbox": [
+                234,
+                515,
+                269,
+                525
+              ]
+            },
+            {
+              "text": "towards",
+              "bbox": [
+                271,
+                515,
+                301,
+                525
+              ]
+            },
+            {
+              "text": "restoring",
+              "bbox": [
+                304,
+                515,
+                337,
+                525
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                339,
+                515,
+                351,
+                525
+              ]
+            },
+            {
+              "text": "site",
+              "bbox": [
+                353,
+                515,
+                366,
+                525
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                369,
+                515,
+                376,
+                525
+              ]
+            },
+            {
+              "text": "meet",
+              "bbox": [
+                379,
+                515,
+                397,
+                525
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                399,
+                515,
+                454,
+                525
+              ]
+            },
+            {
+              "text": "standards.",
+              "bbox": [
+                456,
+                515,
+                494,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "text": "This investment can be seen as a vital component of the overall Return on Investment strategy, where the anticipated benefits of",
+          "bbox": [
+            13,
+            528,
+            494,
+            538
+          ],
+          "words": [
+            {
+              "text": "This",
+              "bbox": [
+                13,
+                528,
+                29,
+                538
+              ]
+            },
+            {
+              "text": "investment",
+              "bbox": [
+                32,
+                528,
+                73,
+                538
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                75,
+                528,
+                88,
+                538
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                91,
+                528,
+                100,
+                538
+              ]
+            },
+            {
+              "text": "seen",
+              "bbox": [
+                102,
+                528,
+                119,
+                538
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                121,
+                528,
+                129,
+                538
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                131,
+                528,
+                136,
+                538
+              ]
+            },
+            {
+              "text": "vital",
+              "bbox": [
+                138,
+                528,
+                155,
+                538
+              ]
+            },
+            {
+              "text": "component",
+              "bbox": [
+                157,
+                528,
+                199,
+                538
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                201,
+                528,
+                209,
+                538
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                211,
+                528,
+                223,
+                538
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                225,
+                528,
+                251,
+                538
+              ]
+            },
+            {
+              "text": "Return",
+              "bbox": [
+                254,
+                528,
+                279,
+                538
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                282,
+                528,
+                291,
+                538
+              ]
+            },
+            {
+              "text": "Investment",
+              "bbox": [
+                293,
+                528,
+                335,
+                538
+              ]
+            },
+            {
+              "text": "strategy,",
+              "bbox": [
+                337,
+                528,
+                369,
+                538
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                371,
+                528,
+                394,
+                538
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                397,
+                528,
+                408,
+                538
+              ]
+            },
+            {
+              "text": "anticipated",
+              "bbox": [
+                410,
+                528,
+                451,
+                538
+              ]
+            },
+            {
+              "text": "benefits",
+              "bbox": [
+                454,
+                528,
+                484,
+                538
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                486,
+                528,
+                494,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "text": "improved environmental conditions are expected to outweigh the costs incurred.\n\nIn comparison, SiteB in Shanghai has a higher",
+          "bbox": [
+            13,
+            541,
+            494,
+            551
+          ],
+          "words": [
+            {
+              "text": "improved",
+              "bbox": [
+                13,
+                541,
+                49,
+                551
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                51,
+                541,
+                105,
+                551
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                108,
+                541,
+                147,
+                551
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                150,
+                541,
+                161,
+                551
+              ]
+            },
+            {
+              "text": "expected",
+              "bbox": [
+                164,
+                541,
+                197,
+                551
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                199,
+                541,
+                207,
+                551
+              ]
+            },
+            {
+              "text": "outweigh",
+              "bbox": [
+                209,
+                541,
+                244,
+                551
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                247,
+                541,
+                258,
+                551
+              ]
+            },
+            {
+              "text": "costs",
+              "bbox": [
+                261,
+                541,
+                280,
+                551
+              ]
+            },
+            {
+              "text": "incurred.",
+              "bbox": [
+                282,
+                541,
+                316,
+                551
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                318,
+                541,
+                326,
+                551
+              ]
+            },
+            {
+              "text": "comparison,",
+              "bbox": [
+                329,
+                541,
+                375,
+                551
+              ]
+            },
+            {
+              "text": "SiteB",
+              "bbox": [
+                377,
+                541,
+                398,
+                551
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                401,
+                541,
+                408,
+                551
+              ]
+            },
+            {
+              "text": "Shanghai",
+              "bbox": [
+                411,
+                541,
+                445,
+                551
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                448,
+                541,
+                461,
+                551
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                463,
+                541,
+                467,
+                551
+              ]
+            },
+            {
+              "text": "higher",
+              "bbox": [
+                470,
+                541,
+                494,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "text": "projected remediation cost of ¥70M, which underscores the complexities and challenges associated with urban environmental",
+          "bbox": [
+            13,
+            554,
+            494,
+            564
+          ],
+          "words": [
+            {
+              "text": "projected",
+              "bbox": [
+                13,
+                554,
+                48,
+                564
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                51,
+                554,
+                95,
+                564
+              ]
+            },
+            {
+              "text": "cost",
+              "bbox": [
+                99,
+                554,
+                114,
+                564
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                117,
+                554,
+                125,
+                564
+              ]
+            },
+            {
+              "text": "¥70M,",
+              "bbox": [
+                128,
+                554,
+                152,
+                564
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                155,
+                554,
+                178,
+                564
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                181,
+                554,
+                226,
+                564
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                229,
+                554,
+                241,
+                564
+              ]
+            },
+            {
+              "text": "complexities",
+              "bbox": [
+                244,
+                554,
+                292,
+                564
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                295,
+                554,
+                308,
+                564
+              ]
+            },
+            {
+              "text": "challenges",
+              "bbox": [
+                311,
+                554,
+                351,
+                564
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                354,
+                554,
+                392,
+                564
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                396,
+                554,
+                412,
+                564
+              ]
+            },
+            {
+              "text": "urban",
+              "bbox": [
+                415,
+                554,
+                437,
+                564
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                440,
+                554,
+                494,
+                564
+              ]
+            }
+          ]
+        },
+        {
+          "text": "management in a rapidly developing metropolis. The breakdown of costs for SiteB includes an estimated ¥30M in direct",
+          "bbox": [
+            13,
+            567,
+            494,
+            577
+          ],
+          "words": [
+            {
+              "text": "management",
+              "bbox": [
+                13,
+                567,
+                61,
+                577
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                65,
+                567,
+                72,
+                577
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                76,
+                567,
+                80,
+                577
+              ]
+            },
+            {
+              "text": "rapidly",
+              "bbox": [
+                84,
+                567,
+                111,
+                577
+              ]
+            },
+            {
+              "text": "developing",
+              "bbox": [
+                115,
+                567,
+                157,
+                577
+              ]
+            },
+            {
+              "text": "metropolis.",
+              "bbox": [
+                161,
+                567,
+                203,
+                577
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                207,
+                567,
+                222,
+                577
+              ]
+            },
+            {
+              "text": "breakdown",
+              "bbox": [
+                226,
+                567,
+                267,
+                577
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                272,
+                567,
+                279,
+                577
+              ]
+            },
+            {
+              "text": "costs",
+              "bbox": [
+                283,
+                567,
+                302,
+                577
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                306,
+                567,
+                317,
+                577
+              ]
+            },
+            {
+              "text": "SiteB",
+              "bbox": [
+                321,
+                567,
+                342,
+                577
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                346,
+                567,
+                377,
+                577
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                382,
+                567,
+                390,
+                577
+              ]
+            },
+            {
+              "text": "estimated",
+              "bbox": [
+                395,
+                567,
+                430,
+                577
+              ]
+            },
+            {
+              "text": "¥30M",
+              "bbox": [
+                435,
+                567,
+                457,
+                577
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                461,
+                567,
+                468,
+                577
+              ]
+            },
+            {
+              "text": "direct",
+              "bbox": [
+                472,
+                567,
+                494,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "text": "remediation expenses and an additional ¥10M for ancillary services, demonstrating the multifaceted nature of such projects.",
+          "bbox": [
+            13,
+            580,
+            494,
+            590
+          ],
+          "words": [
+            {
+              "text": "remediation",
+              "bbox": [
+                13,
+                580,
+                58,
+                590
+              ]
+            },
+            {
+              "text": "expenses",
+              "bbox": [
+                61,
+                580,
+                95,
+                590
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                98,
+                580,
+                112,
+                590
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                115,
+                580,
+                124,
+                590
+              ]
+            },
+            {
+              "text": "additional",
+              "bbox": [
+                128,
+                580,
+                165,
+                590
+              ]
+            },
+            {
+              "text": "¥10M",
+              "bbox": [
+                168,
+                580,
+                191,
+                590
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                194,
+                580,
+                205,
+                590
+              ]
+            },
+            {
+              "text": "ancillary",
+              "bbox": [
+                209,
+                580,
+                241,
+                590
+              ]
+            },
+            {
+              "text": "services,",
+              "bbox": [
+                245,
+                580,
+                277,
+                590
+              ]
+            },
+            {
+              "text": "demonstrating",
+              "bbox": [
+                281,
+                580,
+                334,
+                590
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                338,
+                580,
+                349,
+                590
+              ]
+            },
+            {
+              "text": "multifaceted",
+              "bbox": [
+                353,
+                580,
+                400,
+                590
+              ]
+            },
+            {
+              "text": "nature",
+              "bbox": [
+                403,
+                580,
+                426,
+                590
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                430,
+                580,
+                438,
+                590
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                441,
+                580,
+                458,
+                590
+              ]
+            },
+            {
+              "text": "projects.",
+              "bbox": [
+                462,
+                580,
+                494,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Furthermore, it is crucial to note that the contingency fund allocated for SiteB stands at ¥200M, which provides a financial",
+          "bbox": [
+            13,
+            593,
+            494,
+            603
+          ],
+          "words": [
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                13,
+                593,
+                62,
+                603
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                65,
+                593,
+                71,
+                603
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                74,
+                593,
+                80,
+                603
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                84,
+                593,
+                109,
+                603
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                113,
+                593,
+                120,
+                603
+              ]
+            },
+            {
+              "text": "note",
+              "bbox": [
+                123,
+                593,
+                140,
+                603
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                143,
+                593,
+                157,
+                603
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                161,
+                593,
+                172,
+                603
+              ]
+            },
+            {
+              "text": "contingency",
+              "bbox": [
+                176,
+                593,
+                221,
+                603
+              ]
+            },
+            {
+              "text": "fund",
+              "bbox": [
+                225,
+                593,
+                242,
+                603
+              ]
+            },
+            {
+              "text": "allocated",
+              "bbox": [
+                245,
+                593,
+                279,
+                603
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                283,
+                593,
+                294,
+                603
+              ]
+            },
+            {
+              "text": "SiteB",
+              "bbox": [
+                297,
+                593,
+                318,
+                603
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                321,
+                593,
+                345,
+                603
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                348,
+                593,
+                355,
+                603
+              ]
+            },
+            {
+              "text": "¥200M,",
+              "bbox": [
+                358,
+                593,
+                388,
+                603
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                391,
+                593,
+                414,
+                603
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                418,
+                593,
+                450,
+                603
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                453,
+                593,
+                458,
+                603
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                461,
+                593,
+                494,
+                603
+              ]
+            }
+          ]
+        },
+        {
+          "text": "buffer to accommodate any unforeseen challenges that may arise during the remediation process. With a comprehensive funding",
+          "bbox": [
+            13,
+            606,
+            494,
+            616
+          ],
+          "words": [
+            {
+              "text": "buffer",
+              "bbox": [
+                13,
+                606,
+                35,
+                616
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                38,
+                606,
+                45,
+                616
+              ]
+            },
+            {
+              "text": "accommodate",
+              "bbox": [
+                47,
+                606,
+                100,
+                616
+              ]
+            },
+            {
+              "text": "any",
+              "bbox": [
+                102,
+                606,
+                115,
+                616
+              ]
+            },
+            {
+              "text": "unforeseen",
+              "bbox": [
+                118,
+                606,
+                159,
+                616
+              ]
+            },
+            {
+              "text": "challenges",
+              "bbox": [
+                161,
+                606,
+                201,
+                616
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                203,
+                606,
+                217,
+                616
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                219,
+                606,
+                236,
+                616
+              ]
+            },
+            {
+              "text": "arise",
+              "bbox": [
+                238,
+                606,
+                256,
+                616
+              ]
+            },
+            {
+              "text": "during",
+              "bbox": [
+                258,
+                606,
+                282,
+                616
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                285,
+                606,
+                296,
+                616
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                299,
+                606,
+                343,
+                616
+              ]
+            },
+            {
+              "text": "process.",
+              "bbox": [
+                346,
+                606,
+                376,
+                616
+              ]
+            },
+            {
+              "text": "With",
+              "bbox": [
+                378,
+                606,
+                397,
+                616
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                399,
+                606,
+                403,
+                616
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                406,
+                606,
+                462,
+                616
+              ]
+            },
+            {
+              "text": "funding",
+              "bbox": [
+                465,
+                606,
+                494,
+                616
+              ]
+            }
+          ]
+        },
+        {
+          "text": "strategy that includes both public and private investment, evidenced by the allocation of ¥85M categorized under",
+          "bbox": [
+            13,
+            619,
+            494,
+            630
+          ],
+          "words": [
+            {
+              "text": "strategy",
+              "bbox": [
+                13,
+                619,
+                42,
+                630
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                49,
+                619,
+                63,
+                630
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                69,
+                619,
+                100,
+                630
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                106,
+                619,
+                123,
+                630
+              ]
+            },
+            {
+              "text": "public",
+              "bbox": [
+                129,
+                619,
+                152,
+                630
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                159,
+                619,
+                172,
+                630
+              ]
+            },
+            {
+              "text": "private",
+              "bbox": [
+                178,
+                619,
+                204,
+                630
+              ]
+            },
+            {
+              "text": "investment,",
+              "bbox": [
+                211,
+                619,
+                254,
+                630
+              ]
+            },
+            {
+              "text": "evidenced",
+              "bbox": [
+                260,
+                619,
+                298,
+                630
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                304,
+                619,
+                314,
+                630
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                320,
+                619,
+                331,
+                630
+              ]
+            },
+            {
+              "text": "allocation",
+              "bbox": [
+                337,
+                619,
+                374,
+                630
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                381,
+                619,
+                388,
+                630
+              ]
+            },
+            {
+              "text": "¥85M",
+              "bbox": [
+                395,
+                619,
+                417,
+                630
+              ]
+            },
+            {
+              "text": "categorized",
+              "bbox": [
+                423,
+                619,
+                466,
+                630
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                472,
+                619,
+                494,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "text": "PrivateInvestment, stakeholders can ensure that these projects maintain momentum despite potential financial uncertainties.",
+          "bbox": [
+            13,
+            632,
+            494,
+            643
+          ],
+          "words": [
+            {
+              "text": "PrivateInvestment,",
+              "bbox": [
+                13,
+                632,
+                83,
+                643
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                87,
+                632,
+                134,
+                643
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                138,
+                632,
+                151,
+                643
+              ]
+            },
+            {
+              "text": "ensure",
+              "bbox": [
+                154,
+                632,
+                179,
+                643
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                183,
+                632,
+                197,
+                643
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                201,
+                632,
+                220,
+                643
+              ]
+            },
+            {
+              "text": "projects",
+              "bbox": [
+                224,
+                632,
+                253,
+                643
+              ]
+            },
+            {
+              "text": "maintain",
+              "bbox": [
+                257,
+                632,
+                290,
+                643
+              ]
+            },
+            {
+              "text": "momentum",
+              "bbox": [
+                294,
+                632,
+                336,
+                643
+              ]
+            },
+            {
+              "text": "despite",
+              "bbox": [
+                340,
+                632,
+                367,
+                643
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                370,
+                632,
+                403,
+                643
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                407,
+                632,
+                440,
+                643
+              ]
+            },
+            {
+              "text": "uncertainties.",
+              "bbox": [
+                444,
+                632,
+                494,
+                643
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Additionally, while some sites may present unique challenges, such as SiteE in the same region, where the remediation status",
+          "bbox": [
+            13,
+            646,
+            494,
+            656
+          ],
+          "words": [
+            {
+              "text": "Additionally,",
+              "bbox": [
+                13,
+                646,
+                62,
+                656
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                65,
+                646,
+                86,
+                656
+              ]
+            },
+            {
+              "text": "some",
+              "bbox": [
+                89,
+                646,
+                108,
+                656
+              ]
+            },
+            {
+              "text": "sites",
+              "bbox": [
+                111,
+                646,
+                128,
+                656
+              ]
+            },
+            {
+              "text": "may",
+              "bbox": [
+                131,
+                646,
+                147,
+                656
+              ]
+            },
+            {
+              "text": "present",
+              "bbox": [
+                150,
+                646,
+                177,
+                656
+              ]
+            },
+            {
+              "text": "unique",
+              "bbox": [
+                180,
+                646,
+                206,
+                656
+              ]
+            },
+            {
+              "text": "challenges,",
+              "bbox": [
+                209,
+                646,
+                251,
+                656
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                254,
+                646,
+                271,
+                656
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                274,
+                646,
+                282,
+                656
+              ]
+            },
+            {
+              "text": "SiteE",
+              "bbox": [
+                285,
+                646,
+                305,
+                656
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                308,
+                646,
+                315,
+                656
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                318,
+                646,
+                330,
+                656
+              ]
+            },
+            {
+              "text": "same",
+              "bbox": [
+                333,
+                646,
+                352,
+                656
+              ]
+            },
+            {
+              "text": "region,",
+              "bbox": [
+                355,
+                646,
+                381,
+                656
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                384,
+                646,
+                407,
+                656
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                410,
+                646,
+                422,
+                656
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                425,
+                646,
+                469,
+                656
+              ]
+            },
+            {
+              "text": "status",
+              "bbox": [
+                472,
+                646,
+                494,
+                656
+              ]
+            }
+          ]
+        },
+        {
+          "text": "remains undetermined with a current entry of N/A, it is essential to maintain a vigilant approach towards environmental issues.",
+          "bbox": [
+            13,
+            659,
+            494,
+            669
+          ],
+          "words": [
+            {
+              "text": "remains",
+              "bbox": [
+                13,
+                659,
+                42,
+                669
+              ]
+            },
+            {
+              "text": "undetermined",
+              "bbox": [
+                45,
+                659,
+                97,
+                669
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                99,
+                659,
+                116,
+                669
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                119,
+                659,
+                123,
+                669
+              ]
+            },
+            {
+              "text": "current",
+              "bbox": [
+                125,
+                659,
+                152,
+                669
+              ]
+            },
+            {
+              "text": "entry",
+              "bbox": [
+                154,
+                659,
+                174,
+                669
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                176,
+                659,
+                184,
+                669
+              ]
+            },
+            {
+              "text": "N/A,",
+              "bbox": [
+                187,
+                659,
+                205,
+                669
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                208,
+                659,
+                213,
+                669
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                216,
+                659,
+                222,
+                669
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                225,
+                659,
+                257,
+                669
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                260,
+                659,
+                267,
+                669
+              ]
+            },
+            {
+              "text": "maintain",
+              "bbox": [
+                270,
+                659,
+                302,
+                669
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                305,
+                659,
+                309,
+                669
+              ]
+            },
+            {
+              "text": "vigilant",
+              "bbox": [
+                312,
+                659,
+                340,
+                669
+              ]
+            },
+            {
+              "text": "approach",
+              "bbox": [
+                343,
+                659,
+                377,
+                669
+              ]
+            },
+            {
+              "text": "towards",
+              "bbox": [
+                380,
+                659,
+                410,
+                669
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                412,
+                659,
+                466,
+                669
+              ]
+            },
+            {
+              "text": "issues.",
+              "bbox": [
+                469,
+                659,
+                494,
+                669
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The ongoing analysis of these metrics offers valuable insights that can influence future decisions and strategies for managing",
+          "bbox": [
+            13,
+            672,
+            494,
+            682
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                13,
+                672,
+                27,
+                682
+              ]
+            },
+            {
+              "text": "ongoing",
+              "bbox": [
+                30,
+                672,
+                61,
+                682
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                64,
+                672,
+                94,
+                682
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                97,
+                672,
+                105,
+                682
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                108,
+                672,
+                128,
+                682
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                131,
+                672,
+                158,
+                682
+              ]
+            },
+            {
+              "text": "offers",
+              "bbox": [
+                161,
+                672,
+                183,
+                682
+              ]
+            },
+            {
+              "text": "valuable",
+              "bbox": [
+                186,
+                672,
+                218,
+                682
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                221,
+                672,
+                250,
+                682
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                253,
+                672,
+                267,
+                682
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                270,
+                672,
+                283,
+                682
+              ]
+            },
+            {
+              "text": "influence",
+              "bbox": [
+                286,
+                672,
+                321,
+                682
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                324,
+                672,
+                347,
+                682
+              ]
+            },
+            {
+              "text": "decisions",
+              "bbox": [
+                350,
+                672,
+                385,
+                682
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                388,
+                672,
+                401,
+                682
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                404,
+                672,
+                440,
+                682
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                443,
+                672,
+                454,
+                682
+              ]
+            },
+            {
+              "text": "managing",
+              "bbox": [
+                457,
+                672,
+                494,
+                682
+              ]
+            }
+          ]
+        },
+        {
+          "text": "environmental risks. For instance, a cost allocation of ¥60M is noted for SiteE under certain parameters, highlighting the need",
+          "bbox": [
+            13,
+            685,
+            494,
+            695
+          ],
+          "words": [
+            {
+              "text": "environmental",
+              "bbox": [
+                13,
+                685,
+                67,
+                695
+              ]
+            },
+            {
+              "text": "risks.",
+              "bbox": [
+                70,
+                685,
+                90,
+                695
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                93,
+                685,
+                106,
+                695
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                108,
+                685,
+                141,
+                695
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                144,
+                685,
+                148,
+                695
+              ]
+            },
+            {
+              "text": "cost",
+              "bbox": [
+                151,
+                685,
+                166,
+                695
+              ]
+            },
+            {
+              "text": "allocation",
+              "bbox": [
+                169,
+                685,
+                206,
+                695
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                209,
+                685,
+                217,
+                695
+              ]
+            },
+            {
+              "text": "¥60M",
+              "bbox": [
+                220,
+                685,
+                242,
+                695
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                245,
+                685,
+                251,
+                695
+              ]
+            },
+            {
+              "text": "noted",
+              "bbox": [
+                254,
+                685,
+                275,
+                695
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                278,
+                685,
+                289,
+                695
+              ]
+            },
+            {
+              "text": "SiteE",
+              "bbox": [
+                291,
+                685,
+                312,
+                695
+              ]
+            },
+            {
+              "text": "under",
+              "bbox": [
+                314,
+                685,
+                336,
+                695
+              ]
+            },
+            {
+              "text": "certain",
+              "bbox": [
+                339,
+                685,
+                364,
+                695
+              ]
+            },
+            {
+              "text": "parameters,",
+              "bbox": [
+                367,
+                685,
+                410,
+                695
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                413,
+                685,
+                459,
+                695
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                462,
+                685,
+                473,
+                695
+              ]
+            },
+            {
+              "text": "need",
+              "bbox": [
+                476,
+                685,
+                494,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for careful financial planning in the face of variable site conditions. \n\nMoreover, the anticipated rate of return on environmental",
+          "bbox": [
+            13,
+            698,
+            494,
+            708
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                13,
+                698,
+                24,
+                708
+              ]
+            },
+            {
+              "text": "careful",
+              "bbox": [
+                27,
+                698,
+                53,
+                708
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                56,
+                698,
+                88,
+                708
+              ]
+            },
+            {
+              "text": "planning",
+              "bbox": [
+                91,
+                698,
+                124,
+                708
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                127,
+                698,
+                134,
+                708
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                137,
+                698,
+                149,
+                708
+              ]
+            },
+            {
+              "text": "face",
+              "bbox": [
+                152,
+                698,
+                167,
+                708
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                170,
+                698,
+                178,
+                708
+              ]
+            },
+            {
+              "text": "variable",
+              "bbox": [
+                181,
+                698,
+                211,
+                708
+              ]
+            },
+            {
+              "text": "site",
+              "bbox": [
+                214,
+                698,
+                227,
+                708
+              ]
+            },
+            {
+              "text": "conditions.",
+              "bbox": [
+                230,
+                698,
+                271,
+                708
+              ]
+            },
+            {
+              "text": "Moreover,",
+              "bbox": [
+                274,
+                698,
+                313,
+                708
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                316,
+                698,
+                327,
+                708
+              ]
+            },
+            {
+              "text": "anticipated",
+              "bbox": [
+                330,
+                698,
+                371,
+                708
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                374,
+                698,
+                388,
+                708
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                391,
+                698,
+                399,
+                708
+              ]
+            },
+            {
+              "text": "return",
+              "bbox": [
+                402,
+                698,
+                424,
+                708
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                427,
+                698,
+                437,
+                708
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                440,
+                698,
+                494,
+                708
+              ]
+            }
+          ]
+        },
+        {
+          "text": "investment for the projects is pivotal for justifying expenditures. Notably, for the assessment conducted on February 15, 2023,",
+          "bbox": [
+            13,
+            711,
+            494,
+            721
+          ],
+          "words": [
+            {
+              "text": "investment",
+              "bbox": [
+                13,
+                711,
+                54,
+                721
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                57,
+                711,
+                68,
+                721
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                70,
+                711,
+                82,
+                721
+              ]
+            },
+            {
+              "text": "projects",
+              "bbox": [
+                85,
+                711,
+                114,
+                721
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                117,
+                711,
+                124,
+                721
+              ]
+            },
+            {
+              "text": "pivotal",
+              "bbox": [
+                126,
+                711,
+                152,
+                721
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                155,
+                711,
+                166,
+                721
+              ]
+            },
+            {
+              "text": "justifying",
+              "bbox": [
+                169,
+                711,
+                205,
+                721
+              ]
+            },
+            {
+              "text": "expenditures.",
+              "bbox": [
+                208,
+                711,
+                258,
+                721
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                261,
+                711,
+                293,
+                721
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                295,
+                711,
+                306,
+                721
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                309,
+                711,
+                321,
+                721
+              ]
+            },
+            {
+              "text": "assessment",
+              "bbox": [
+                324,
+                711,
+                365,
+                721
+              ]
+            },
+            {
+              "text": "conducted",
+              "bbox": [
+                368,
+                711,
+                406,
+                721
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                409,
+                711,
+                419,
+                721
+              ]
+            },
+            {
+              "text": "February",
+              "bbox": [
+                422,
+                711,
+                455,
+                721
+              ]
+            },
+            {
+              "text": "15,",
+              "bbox": [
+                458,
+                711,
+                470,
+                721
+              ]
+            },
+            {
+              "text": "2023,",
+              "bbox": [
+                473,
+                711,
+                494,
+                721
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the projected return for SiteB is approximately 70%, indicating a promising outlook for stakeholders involved in these",
+          "bbox": [
+            13,
+            724,
+            494,
+            734
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                13,
+                724,
+                24,
+                734
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                29,
+                724,
+                64,
+                734
+              ]
+            },
+            {
+              "text": "return",
+              "bbox": [
+                68,
+                724,
+                91,
+                734
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                96,
+                724,
+                107,
+                734
+              ]
+            },
+            {
+              "text": "SiteB",
+              "bbox": [
+                111,
+                724,
+                132,
+                734
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                137,
+                724,
+                143,
+                734
+              ]
+            },
+            {
+              "text": "approximately",
+              "bbox": [
+                148,
+                724,
+                202,
+                734
+              ]
+            },
+            {
+              "text": "70%,",
+              "bbox": [
+                207,
+                724,
+                226,
+                734
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                231,
+                724,
+                268,
+                734
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                273,
+                724,
+                277,
+                734
+              ]
+            },
+            {
+              "text": "promising",
+              "bbox": [
+                282,
+                724,
+                320,
+                734
+              ]
+            },
+            {
+              "text": "outlook",
+              "bbox": [
+                325,
+                724,
+                353,
+                734
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                358,
+                724,
+                369,
+                734
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                373,
+                724,
+                420,
+                734
+              ]
+            },
+            {
+              "text": "involved",
+              "bbox": [
+                425,
+                724,
+                458,
+                734
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                463,
+                724,
+                470,
+                734
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                475,
+                724,
+                494,
+                734
+              ]
+            }
+          ]
+        },
+        {
+          "text": "remediation efforts. Collectively, these factors illustrate the intricate balance between investing in environmental remediation",
+          "bbox": [
+            13,
+            737,
+            494,
+            747
+          ],
+          "words": [
+            {
+              "text": "remediation",
+              "bbox": [
+                13,
+                737,
+                58,
+                747
+              ]
+            },
+            {
+              "text": "efforts.",
+              "bbox": [
+                61,
+                737,
+                87,
+                747
+              ]
+            },
+            {
+              "text": "Collectively,",
+              "bbox": [
+                91,
+                737,
+                138,
+                747
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                141,
+                737,
+                161,
+                747
+              ]
+            },
+            {
+              "text": "factors",
+              "bbox": [
+                164,
+                737,
+                189,
+                747
+              ]
+            },
+            {
+              "text": "illustrate",
+              "bbox": [
+                193,
+                737,
+                225,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                229,
+                737,
+                240,
+                747
+              ]
+            },
+            {
+              "text": "intricate",
+              "bbox": [
+                243,
+                737,
+                274,
+                747
+              ]
+            },
+            {
+              "text": "balance",
+              "bbox": [
+                277,
+                737,
+                306,
+                747
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                309,
+                737,
+                340,
+                747
+              ]
+            },
+            {
+              "text": "investing",
+              "bbox": [
+                344,
+                737,
+                378,
+                747
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                381,
+                737,
+                388,
+                747
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                392,
+                737,
+                446,
+                747
+              ]
+            },
+            {
+              "text": "remediation",
+              "bbox": [
+                449,
+                737,
+                494,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and the potential long-term benefits that can result from such initiatives, particularly in the context of urban development and",
+          "bbox": [
+            13,
+            750,
+            494,
+            761
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                13,
+                750,
+                26,
+                761
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                29,
+                750,
+                41,
+                761
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                44,
+                750,
+                76,
+                761
+              ]
+            },
+            {
+              "text": "long-term",
+              "bbox": [
+                79,
+                750,
+                116,
+                761
+              ]
+            },
+            {
+              "text": "benefits",
+              "bbox": [
+                119,
+                750,
+                149,
+                761
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                152,
+                750,
+                166,
+                761
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                169,
+                750,
+                182,
+                761
+              ]
+            },
+            {
+              "text": "result",
+              "bbox": [
+                185,
+                750,
+                206,
+                761
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                209,
+                750,
+                227,
+                761
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                230,
+                750,
+                247,
+                761
+              ]
+            },
+            {
+              "text": "initiatives,",
+              "bbox": [
+                250,
+                750,
+                289,
+                761
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                292,
+                750,
+                336,
+                761
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                339,
+                750,
+                346,
+                761
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                349,
+                750,
+                360,
+                761
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                363,
+                750,
+                391,
+                761
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                394,
+                750,
+                402,
+                761
+              ]
+            },
+            {
+              "text": "urban",
+              "bbox": [
+                405,
+                750,
+                426,
+                761
+              ]
+            },
+            {
+              "text": "development",
+              "bbox": [
+                429,
+                750,
+                477,
+                761
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                480,
+                750,
+                494,
+                761
+              ]
+            }
+          ]
+        },
+        {
+          "text": "environmental stewardship in the Asia-Pacific region. As organizations continue to navigate these challenges, the insights",
+          "bbox": [
+            13,
+            763,
+            494,
+            774
+          ],
+          "words": [
+            {
+              "text": "environmental",
+              "bbox": [
+                13,
+                763,
+                67,
+                774
+              ]
+            },
+            {
+              "text": "stewardship",
+              "bbox": [
+                71,
+                763,
+                116,
+                774
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                120,
+                763,
+                127,
+                774
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                131,
+                763,
+                143,
+                774
+              ]
+            },
+            {
+              "text": "Asia-Pacific",
+              "bbox": [
+                146,
+                763,
+                193,
+                774
+              ]
+            },
+            {
+              "text": "region.",
+              "bbox": [
+                197,
+                763,
+                223,
+                774
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                227,
+                763,
+                237,
+                774
+              ]
+            },
+            {
+              "text": "organizations",
+              "bbox": [
+                241,
+                763,
+                292,
+                774
+              ]
+            },
+            {
+              "text": "continue",
+              "bbox": [
+                296,
+                763,
+                328,
+                774
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                332,
+                763,
+                340,
+                774
+              ]
+            },
+            {
+              "text": "navigate",
+              "bbox": [
+                344,
+                763,
+                375,
+                774
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                380,
+                763,
+                399,
+                774
+              ]
+            },
+            {
+              "text": "challenges,",
+              "bbox": [
+                403,
+                763,
+                445,
+                774
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                449,
+                763,
+                460,
+                774
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                465,
+                763,
+                494,
+                774
+              ]
+            }
+          ]
+        },
+        {
+          "text": "gleaned from this data will play a critical role in shaping effective environmental management strategies moving forward.",
+          "bbox": [
+            13,
+            777,
+            469,
+            787
+          ],
+          "words": [
+            {
+              "text": "gleaned",
+              "bbox": [
+                13,
+                777,
+                42,
+                787
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                44,
+                777,
+                62,
+                787
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                65,
+                777,
+                78,
+                787
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                81,
+                777,
+                96,
+                787
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                99,
+                777,
+                113,
+                787
+              ]
+            },
+            {
+              "text": "play",
+              "bbox": [
+                115,
+                777,
+                132,
+                787
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                134,
+                777,
+                138,
+                787
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                140,
+                777,
+                166,
+                787
+              ]
+            },
+            {
+              "text": "role",
+              "bbox": [
+                169,
+                777,
+                183,
+                787
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                186,
+                777,
+                193,
+                787
+              ]
+            },
+            {
+              "text": "shaping",
+              "bbox": [
+                195,
+                777,
+                224,
+                787
+              ]
+            },
+            {
+              "text": "effective",
+              "bbox": [
+                227,
+                777,
+                259,
+                787
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                262,
+                777,
+                316,
+                787
+              ]
+            },
+            {
+              "text": "management",
+              "bbox": [
+                318,
+                777,
+                366,
+                787
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                368,
+                777,
+                404,
+                787
+              ]
+            },
+            {
+              "text": "moving",
+              "bbox": [
+                406,
+                777,
+                435,
+                787
+              ]
+            },
+            {
+              "text": "forward.",
+              "bbox": [
+                437,
+                777,
+                469,
+                787
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "degradation": {
+    "type": "Stain",
+    "affected_cells": [
+      {
+        "table_id": "img_128747_t0",
+        "cell_indices": [
+          51,
+          65,
+          55,
+          83,
+          64
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 51,
+            "text": "N/A",
+            "header": "2023-02-15",
+            "row_label": "SiteE",
+            "bbox": [
+              358,
+              203,
+              380,
+              256
+            ]
+          },
+          {
+            "cell_idx": 65,
+            "text": "¥200M",
+            "header": "SiteB",
+            "row_label": "ContingencyFund",
+            "bbox": [
+              313,
+              256,
+              335,
+              333
+            ]
+          },
+          {
+            "cell_idx": 55,
+            "text": "¥60M",
+            "header": "¥10M",
+            "row_label": "SiteE",
+            "bbox": [
+              448,
+              203,
+              471,
+              256
+            ]
+          },
+          {
+            "cell_idx": 83,
+            "text": "70%",
+            "header": "2023-02-15",
+            "row_label": "¥50M",
+            "bbox": [
+              358,
+              333,
+              380,
+              422
+            ]
+          },
+          {
+            "cell_idx": 64,
+            "text": "PrivateInvestment",
+            "header": "¥85M",
+            "row_label": "ContingencyFund",
+            "bbox": [
+              290,
+              256,
+              313,
+              333
+            ]
+          }
+        ]
+      }
+    ],
+    "released_cells": [
+      {
+        "table_idx": 0,
+        "cell_idx": 74,
+        "text": "ReturnonInvestment",
+        "header": "Beijing",
+        "row_label": "¥50M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7389 @@
+{
+  "image_id": "img_058322",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_058322_t0",
+      "bbox": [
+        15,
+        129,
+        580,
+        277
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            130,
+            580,
+            151
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            151,
+            580,
+            172
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            172,
+            580,
+            193
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            193,
+            580,
+            214
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            214,
+            580,
+            235
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            235,
+            580,
+            256
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            256,
+            580,
+            277
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td rowspan=\"2\"></td><td colspan=\"2\">LVEDD</td><td colspan=\"2\">LVEF</td><td colspan=\"2\">IVS</td><td colspan=\"2\">LVPW</td><td colspan=\"2\">HW</td></tr><tr><td>r Value</td><td>p Value</td><td>r Value</td><td>p Value</td><td>r Value</td><td>p Value</td><td>r Value</td><td>p Value</td><td>r Value</td><td>p Value</td></tr></thead><tbody><tr><td>miR-155</td><td>− 0.488</td><td>0.153</td><td>0.485</td><td>0.155</td><td>0.587</td><td>0.075</td><td>0.413</td><td>0.236</td><td>0.597</td><td>0.068</td></tr><tr><td>miR-10b</td><td>0.323</td><td>0.363</td><td>− 0.415</td><td>0.232</td><td>0.007</td><td>0.985</td><td>0.014</td><td>0.969</td><td>− 0.166</td><td>0.647</td></tr><tr><td>miR-23a</td><td>0.122</td><td>0.754</td><td>− 0.026</td><td>0.947</td><td>− 0.500</td><td>0.171</td><td>− 0.293</td><td>0.444</td><td>− 0.376</td><td>0.319</td></tr><tr><td>miR-214</td><td>0.294</td><td>0.409</td><td>− 0.394</td><td>0.260</td><td>0.125</td><td>0.731</td><td>0.188</td><td>0.603</td><td>0.110</td><td>0.762</td></tr><tr><td>MiR-21</td><td>− 0.590</td><td>0.872</td><td>0.157</td><td>0.665</td><td>− 0.116</td><td>0.749</td><td>− 0.032</td><td>0.929</td><td>− 0.169</td><td>0.641</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            16,
+            130,
+            72,
+            151
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "LVEDD",
+          "bbox": [
+            72,
+            130,
+            176,
+            151
+          ],
+          "words": [
+            {
+              "text": "LVEDD",
+              "bbox": [
+                78,
+                134,
+                112,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "LVEF",
+          "bbox": [
+            176,
+            130,
+            279,
+            151
+          ],
+          "words": [
+            {
+              "text": "LVEF",
+              "bbox": [
+                181,
+                134,
+                207,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "IVS",
+          "bbox": [
+            279,
+            130,
+            383,
+            151
+          ],
+          "words": [
+            {
+              "text": "IVS",
+              "bbox": [
+                360,
+                134,
+                377,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "LVPW",
+          "bbox": [
+            383,
+            130,
+            486,
+            151
+          ],
+          "words": [
+            {
+              "text": "LVPW",
+              "bbox": [
+                451,
+                134,
+                481,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            9,
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "HW",
+          "bbox": [
+            486,
+            130,
+            580,
+            151
+          ],
+          "words": [
+            {
+              "text": "HW",
+              "bbox": [
+                556,
+                134,
+                574,
+                145
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "r Value",
+          "bbox": [
+            16,
+            151,
+            72,
+            172
+          ],
+          "words": [
+            {
+              "text": "r",
+              "bbox": [
+                21,
+                155,
+                25,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                28,
+                155,
+                52,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "p Value",
+          "bbox": [
+            72,
+            151,
+            125,
+            172
+          ],
+          "words": [
+            {
+              "text": "p",
+              "bbox": [
+                78,
+                155,
+                83,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                86,
+                155,
+                110,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "r Value",
+          "bbox": [
+            125,
+            151,
+            176,
+            172
+          ],
+          "words": [
+            {
+              "text": "r",
+              "bbox": [
+                130,
+                155,
+                135,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                137,
+                155,
+                161,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "p Value",
+          "bbox": [
+            176,
+            151,
+            228,
+            172
+          ],
+          "words": [
+            {
+              "text": "p",
+              "bbox": [
+                181,
+                155,
+                187,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                189,
+                155,
+                213,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "r Value",
+          "bbox": [
+            228,
+            151,
+            279,
+            172
+          ],
+          "words": [
+            {
+              "text": "r",
+              "bbox": [
+                234,
+                155,
+                238,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                240,
+                155,
+                264,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "p Value",
+          "bbox": [
+            279,
+            151,
+            332,
+            172
+          ],
+          "words": [
+            {
+              "text": "p",
+              "bbox": [
+                294,
+                155,
+                300,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                302,
+                155,
+                326,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "r Value",
+          "bbox": [
+            332,
+            151,
+            383,
+            172
+          ],
+          "words": [
+            {
+              "text": "r",
+              "bbox": [
+                346,
+                155,
+                351,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                353,
+                155,
+                377,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "p Value",
+          "bbox": [
+            383,
+            151,
+            435,
+            172
+          ],
+          "words": [
+            {
+              "text": "p",
+              "bbox": [
+                398,
+                155,
+                403,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                406,
+                155,
+                430,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "r Value",
+          "bbox": [
+            435,
+            151,
+            486,
+            172
+          ],
+          "words": [
+            {
+              "text": "r",
+              "bbox": [
+                450,
+                155,
+                454,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                456,
+                155,
+                481,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "p Value",
+          "bbox": [
+            486,
+            151,
+            539,
+            172
+          ],
+          "words": [
+            {
+              "text": "p",
+              "bbox": [
+                501,
+                155,
+                507,
+                166
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                509,
+                155,
+                533,
+                166
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "miR-155",
+          "bbox": [
+            16,
+            172,
+            72,
+            193
+          ],
+          "words": [
+            {
+              "text": "miR-155",
+              "bbox": [
+                21,
+                176,
+                57,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.488",
+          "bbox": [
+            72,
+            172,
+            125,
+            193
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                78,
+                176,
+                84,
+                187
+              ]
+            },
+            {
+              "text": "0.488",
+              "bbox": [
+                86,
+                176,
+                109,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.153",
+          "bbox": [
+            125,
+            172,
+            176,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.153",
+              "bbox": [
+                130,
+                176,
+                153,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.485",
+          "bbox": [
+            176,
+            172,
+            228,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.485",
+              "bbox": [
+                181,
+                176,
+                204,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.155",
+          "bbox": [
+            228,
+            172,
+            279,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.155",
+              "bbox": [
+                234,
+                176,
+                256,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.587",
+          "bbox": [
+            279,
+            172,
+            332,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.587",
+              "bbox": [
+                304,
+                176,
+                326,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.075",
+          "bbox": [
+            332,
+            172,
+            383,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.075",
+              "bbox": [
+                355,
+                176,
+                377,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.413",
+          "bbox": [
+            383,
+            172,
+            435,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.413",
+              "bbox": [
+                407,
+                176,
+                430,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.236",
+          "bbox": [
+            435,
+            172,
+            486,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.236",
+              "bbox": [
+                458,
+                176,
+                481,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "0.597",
+          "bbox": [
+            486,
+            172,
+            539,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.597",
+              "bbox": [
+                511,
+                176,
+                533,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "0.068",
+          "bbox": [
+            539,
+            172,
+            580,
+            193
+          ],
+          "words": [
+            {
+              "text": "0.068",
+              "bbox": [
+                552,
+                176,
+                574,
+                187
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "miR-10b",
+          "bbox": [
+            16,
+            193,
+            72,
+            214
+          ],
+          "words": [
+            {
+              "text": "miR-10b",
+              "bbox": [
+                21,
+                197,
+                57,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.323",
+          "bbox": [
+            72,
+            193,
+            125,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.323",
+              "bbox": [
+                78,
+                197,
+                100,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.363",
+          "bbox": [
+            125,
+            193,
+            176,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.363",
+              "bbox": [
+                130,
+                197,
+                153,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.415",
+          "bbox": [
+            176,
+            193,
+            228,
+            214
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                181,
+                197,
+                187,
+                208
+              ]
+            },
+            {
+              "text": "0.415",
+              "bbox": [
+                189,
+                197,
+                212,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.232",
+          "bbox": [
+            228,
+            193,
+            279,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.232",
+              "bbox": [
+                234,
+                197,
+                256,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.007",
+          "bbox": [
+            279,
+            193,
+            332,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.007",
+              "bbox": [
+                304,
+                197,
+                326,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.985",
+          "bbox": [
+            332,
+            193,
+            383,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.985",
+              "bbox": [
+                355,
+                197,
+                377,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.014",
+          "bbox": [
+            383,
+            193,
+            435,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.014",
+              "bbox": [
+                407,
+                197,
+                430,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.969",
+          "bbox": [
+            435,
+            193,
+            486,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.969",
+              "bbox": [
+                458,
+                197,
+                481,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.166",
+          "bbox": [
+            486,
+            193,
+            539,
+            214
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                502,
+                197,
+                508,
+                208
+              ]
+            },
+            {
+              "text": "0.166",
+              "bbox": [
+                511,
+                197,
+                533,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "0.647",
+          "bbox": [
+            539,
+            193,
+            580,
+            214
+          ],
+          "words": [
+            {
+              "text": "0.647",
+              "bbox": [
+                552,
+                197,
+                574,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "miR-23a",
+          "bbox": [
+            16,
+            214,
+            72,
+            235
+          ],
+          "words": [
+            {
+              "text": "miR-23a",
+              "bbox": [
+                21,
+                218,
+                56,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.122",
+          "bbox": [
+            72,
+            214,
+            125,
+            235
+          ],
+          "words": [
+            {
+              "text": "0.122",
+              "bbox": [
+                78,
+                218,
+                100,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.754",
+          "bbox": [
+            125,
+            214,
+            176,
+            235
+          ],
+          "words": [
+            {
+              "text": "0.754",
+              "bbox": [
+                130,
+                218,
+                153,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.026",
+          "bbox": [
+            176,
+            214,
+            228,
+            235
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                181,
+                218,
+                187,
+                229
+              ]
+            },
+            {
+              "text": "0.026",
+              "bbox": [
+                189,
+                218,
+                212,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.947",
+          "bbox": [
+            228,
+            214,
+            279,
+            235
+          ],
+          "words": [
+            {
+              "text": "0.947",
+              "bbox": [
+                234,
+                218,
+                256,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.500",
+          "bbox": [
+            279,
+            214,
+            332,
+            235
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                296,
+                218,
+                301,
+                229
+              ]
+            },
+            {
+              "text": "0.500",
+              "bbox": [
+                304,
+                218,
+                326,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.171",
+          "bbox": [
+            332,
+            214,
+            383,
+            235
+          ],
+          "words": [
+            {
+              "text": "0.171",
+              "bbox": [
+                355,
+                218,
+                377,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.293",
+          "bbox": [
+            383,
+            214,
+            435,
+            235
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                399,
+                218,
+                405,
+                229
+              ]
+            },
+            {
+              "text": "0.293",
+              "bbox": [
+                407,
+                218,
+                430,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.444",
+          "bbox": [
+            435,
+            214,
+            486,
+            235
+          ],
+          "words": [
+            {
+              "text": "0.444",
+              "bbox": [
+                458,
+                218,
+                481,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.376",
+          "bbox": [
+            486,
+            214,
+            539,
+            235
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                502,
+                218,
+                508,
+                229
+              ]
+            },
+            {
+              "text": "0.376",
+              "bbox": [
+                511,
+                218,
+                533,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "0.319",
+          "bbox": [
+            539,
+            214,
+            580,
+            235
+          ],
+          "words": [
+            {
+              "text": "0.319",
+              "bbox": [
+                552,
+                218,
+                574,
+                229
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "miR-214",
+          "bbox": [
+            16,
+            235,
+            72,
+            256
+          ],
+          "words": [
+            {
+              "text": "miR-214",
+              "bbox": [
+                21,
+                239,
+                57,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "0.294",
+          "bbox": [
+            72,
+            235,
+            125,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.294",
+              "bbox": [
+                78,
+                239,
+                100,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.409",
+          "bbox": [
+            125,
+            235,
+            176,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.409",
+              "bbox": [
+                130,
+                239,
+                153,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.394",
+          "bbox": [
+            176,
+            235,
+            228,
+            256
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                181,
+                239,
+                187,
+                250
+              ]
+            },
+            {
+              "text": "0.394",
+              "bbox": [
+                189,
+                239,
+                212,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.260",
+          "bbox": [
+            228,
+            235,
+            279,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.260",
+              "bbox": [
+                234,
+                239,
+                256,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.125",
+          "bbox": [
+            279,
+            235,
+            332,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.125",
+              "bbox": [
+                304,
+                239,
+                326,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.731",
+          "bbox": [
+            332,
+            235,
+            383,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.731",
+              "bbox": [
+                355,
+                239,
+                377,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.188",
+          "bbox": [
+            383,
+            235,
+            435,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.188",
+              "bbox": [
+                407,
+                239,
+                430,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.603",
+          "bbox": [
+            435,
+            235,
+            486,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.603",
+              "bbox": [
+                458,
+                239,
+                481,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "0.110",
+          "bbox": [
+            486,
+            235,
+            539,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.110",
+              "bbox": [
+                511,
+                239,
+                533,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "0.762",
+          "bbox": [
+            539,
+            235,
+            580,
+            256
+          ],
+          "words": [
+            {
+              "text": "0.762",
+              "bbox": [
+                552,
+                239,
+                574,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "MiR-21",
+          "bbox": [
+            16,
+            256,
+            72,
+            277
+          ],
+          "words": [
+            {
+              "text": "MiR-21",
+              "bbox": [
+                21,
+                260,
+                53,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.590",
+          "bbox": [
+            72,
+            256,
+            125,
+            277
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                78,
+                260,
+                84,
+                271
+              ]
+            },
+            {
+              "text": "0.590",
+              "bbox": [
+                86,
+                260,
+                109,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.872",
+          "bbox": [
+            125,
+            256,
+            176,
+            277
+          ],
+          "words": [
+            {
+              "text": "0.872",
+              "bbox": [
+                130,
+                260,
+                153,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.157",
+          "bbox": [
+            176,
+            256,
+            228,
+            277
+          ],
+          "words": [
+            {
+              "text": "0.157",
+              "bbox": [
+                181,
+                260,
+                204,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.665",
+          "bbox": [
+            228,
+            256,
+            279,
+            277
+          ],
+          "words": [
+            {
+              "text": "0.665",
+              "bbox": [
+                234,
+                260,
+                256,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.116",
+          "bbox": [
+            279,
+            256,
+            332,
+            277
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                296,
+                260,
+                302,
+                271
+              ]
+            },
+            {
+              "text": "0.116",
+              "bbox": [
+                304,
+                260,
+                326,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "0.749",
+          "bbox": [
+            332,
+            256,
+            383,
+            277
+          ],
+          "words": [
+            {
+              "text": "0.749",
+              "bbox": [
+                355,
+                260,
+                377,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.032",
+          "bbox": [
+            383,
+            256,
+            435,
+            277
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                399,
+                260,
+                405,
+                271
+              ]
+            },
+            {
+              "text": "0.032",
+              "bbox": [
+                407,
+                260,
+                430,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "0.929",
+          "bbox": [
+            435,
+            256,
+            486,
+            277
+          ],
+          "words": [
+            {
+              "text": "0.929",
+              "bbox": [
+                458,
+                260,
+                481,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "− 0.169",
+          "bbox": [
+            486,
+            256,
+            539,
+            277
+          ],
+          "words": [
+            {
+              "text": "−",
+              "bbox": [
+                502,
+                260,
+                508,
+                271
+              ]
+            },
+            {
+              "text": "0.169",
+              "bbox": [
+                511,
+                260,
+                533,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "0.641",
+          "bbox": [
+            539,
+            256,
+            580,
+            277
+          ],
+          "words": [
+            {
+              "text": "0.641",
+              "bbox": [
+                552,
+                260,
+                574,
+                271
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_058322_t1",
+      "bbox": [
+        15,
+        328,
+        580,
+        471
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            329,
+            580,
+            350
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            350,
+            580,
+            370
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            370,
+            580,
+            390
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            390,
+            580,
+            410
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            410,
+            580,
+            430
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            430,
+            580,
+            450
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            450,
+            580,
+            471
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Peptide Name</td><td>S. aureus USA300 (MIC, μM)</td><td>Peptide Name</td><td>HIV-1 (EC50, μM)</td></tr></thead><tbody><tr><td>Ascaphin-8</td><td>3.1</td><td>Ascaphin-8</td><td>1.2</td></tr><tr><td>DASamP1</td><td>3.1</td><td>DASamP1</td><td>0.63</td></tr><tr><td>DASamP2</td><td>6.2</td><td>DASamP5</td><td>0.83</td></tr><tr><td>Lycotoxin I</td><td>3.1</td><td>Ponericin L2</td><td>1.4</td></tr><tr><td>Maculatin 1.3</td><td>6.2</td><td>Brevinin-2 related</td><td>1.65</td></tr><tr><td>Piscidin 1</td><td>3.1</td><td>Piscidin 1</td><td>2.1</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Peptide Name",
+          "bbox": [
+            15,
+            329,
+            119,
+            350
+          ],
+          "words": [
+            {
+              "text": "Peptide",
+              "bbox": [
+                20,
+                333,
+                52,
+                344
+              ]
+            },
+            {
+              "text": "Name",
+              "bbox": [
+                55,
+                333,
+                80,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "S. aureus USA300 (MIC, μM)",
+          "bbox": [
+            119,
+            329,
+            323,
+            350
+          ],
+          "words": [
+            {
+              "text": "S.",
+              "bbox": [
+                124,
+                333,
+                132,
+                344
+              ]
+            },
+            {
+              "text": "aureus",
+              "bbox": [
+                134,
+                333,
+                163,
+                344
+              ]
+            },
+            {
+              "text": "USA300",
+              "bbox": [
+                166,
+                333,
+                201,
+                344
+              ]
+            },
+            {
+              "text": "(MIC,",
+              "bbox": [
+                203,
+                333,
+                230,
+                344
+              ]
+            },
+            {
+              "text": "μM)",
+              "bbox": [
+                232,
+                333,
+                251,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Peptide Name",
+          "bbox": [
+            323,
+            329,
+            446,
+            350
+          ],
+          "words": [
+            {
+              "text": "Peptide",
+              "bbox": [
+                382,
+                333,
+                414,
+                344
+              ]
+            },
+            {
+              "text": "Name",
+              "bbox": [
+                416,
+                333,
+                441,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "HIV-1 (EC50, μM)",
+          "bbox": [
+            446,
+            329,
+            580,
+            350
+          ],
+          "words": [
+            {
+              "text": "HIV-1",
+              "bbox": [
+                495,
+                333,
+                522,
+                344
+              ]
+            },
+            {
+              "text": "(EC50,",
+              "bbox": [
+                524,
+                333,
+                554,
+                344
+              ]
+            },
+            {
+              "text": "μM)",
+              "bbox": [
+                557,
+                333,
+                575,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Ascaphin-8",
+          "bbox": [
+            15,
+            350,
+            119,
+            370
+          ],
+          "words": [
+            {
+              "text": "Ascaphin-8",
+              "bbox": [
+                20,
+                354,
+                66,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.1",
+          "bbox": [
+            119,
+            350,
+            323,
+            370
+          ],
+          "words": [
+            {
+              "text": "3.1",
+              "bbox": [
+                124,
+                354,
+                136,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Ascaphin-8",
+          "bbox": [
+            323,
+            350,
+            446,
+            370
+          ],
+          "words": [
+            {
+              "text": "Ascaphin-8",
+              "bbox": [
+                395,
+                354,
+                441,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.2",
+          "bbox": [
+            446,
+            350,
+            580,
+            370
+          ],
+          "words": [
+            {
+              "text": "1.2",
+              "bbox": [
+                563,
+                354,
+                575,
+                365
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "DASamP1",
+          "bbox": [
+            15,
+            370,
+            119,
+            390
+          ],
+          "words": [
+            {
+              "text": "DASamP1",
+              "bbox": [
+                20,
+                374,
+                63,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.1",
+          "bbox": [
+            119,
+            370,
+            323,
+            390
+          ],
+          "words": [
+            {
+              "text": "3.1",
+              "bbox": [
+                124,
+                374,
+                136,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "DASamP1",
+          "bbox": [
+            323,
+            370,
+            446,
+            390
+          ],
+          "words": [
+            {
+              "text": "DASamP1",
+              "bbox": [
+                399,
+                374,
+                441,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.63",
+          "bbox": [
+            446,
+            370,
+            580,
+            390
+          ],
+          "words": [
+            {
+              "text": "0.63",
+              "bbox": [
+                558,
+                374,
+                575,
+                385
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "DASamP2",
+          "bbox": [
+            15,
+            390,
+            119,
+            410
+          ],
+          "words": [
+            {
+              "text": "DASamP2",
+              "bbox": [
+                20,
+                394,
+                63,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6.2",
+          "bbox": [
+            119,
+            390,
+            323,
+            410
+          ],
+          "words": [
+            {
+              "text": "6.2",
+              "bbox": [
+                124,
+                394,
+                136,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "DASamP5",
+          "bbox": [
+            323,
+            390,
+            446,
+            410
+          ],
+          "words": [
+            {
+              "text": "DASamP5",
+              "bbox": [
+                399,
+                394,
+                441,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.83",
+          "bbox": [
+            446,
+            390,
+            580,
+            410
+          ],
+          "words": [
+            {
+              "text": "0.83",
+              "bbox": [
+                558,
+                394,
+                575,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Lycotoxin I",
+          "bbox": [
+            15,
+            410,
+            119,
+            430
+          ],
+          "words": [
+            {
+              "text": "Lycotoxin",
+              "bbox": [
+                20,
+                414,
+                61,
+                425
+              ]
+            },
+            {
+              "text": "I",
+              "bbox": [
+                63,
+                414,
+                66,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.1",
+          "bbox": [
+            119,
+            410,
+            323,
+            430
+          ],
+          "words": [
+            {
+              "text": "3.1",
+              "bbox": [
+                124,
+                414,
+                136,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Ponericin L2",
+          "bbox": [
+            323,
+            410,
+            446,
+            430
+          ],
+          "words": [
+            {
+              "text": "Ponericin",
+              "bbox": [
+                389,
+                414,
+                428,
+                425
+              ]
+            },
+            {
+              "text": "L2",
+              "bbox": [
+                430,
+                414,
+                441,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.4",
+          "bbox": [
+            446,
+            410,
+            580,
+            430
+          ],
+          "words": [
+            {
+              "text": "1.4",
+              "bbox": [
+                563,
+                414,
+                575,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Maculatin 1.3",
+          "bbox": [
+            15,
+            430,
+            119,
+            450
+          ],
+          "words": [
+            {
+              "text": "Maculatin",
+              "bbox": [
+                20,
+                434,
+                61,
+                445
+              ]
+            },
+            {
+              "text": "1.3",
+              "bbox": [
+                63,
+                434,
+                76,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "6.2",
+          "bbox": [
+            119,
+            430,
+            323,
+            450
+          ],
+          "words": [
+            {
+              "text": "6.2",
+              "bbox": [
+                124,
+                434,
+                136,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Brevinin-2 related",
+          "bbox": [
+            323,
+            430,
+            446,
+            450
+          ],
+          "words": [
+            {
+              "text": "Brevinin-2",
+              "bbox": [
+                368,
+                434,
+                412,
+                445
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                414,
+                434,
+                441,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1.65",
+          "bbox": [
+            446,
+            430,
+            580,
+            450
+          ],
+          "words": [
+            {
+              "text": "1.65",
+              "bbox": [
+                558,
+                434,
+                575,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Piscidin 1",
+          "bbox": [
+            15,
+            450,
+            119,
+            471
+          ],
+          "words": [
+            {
+              "text": "Piscidin",
+              "bbox": [
+                20,
+                454,
+                52,
+                465
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                55,
+                454,
+                60,
+                465
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.1",
+          "bbox": [
+            119,
+            450,
+            323,
+            471
+          ],
+          "words": [
+            {
+              "text": "3.1",
+              "bbox": [
+                124,
+                454,
+                136,
+                465
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Piscidin 1",
+          "bbox": [
+            323,
+            450,
+            446,
+            471
+          ],
+          "words": [
+            {
+              "text": "Piscidin",
+              "bbox": [
+                402,
+                454,
+                434,
+                465
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                436,
+                454,
+                441,
+                465
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2.1",
+          "bbox": [
+            446,
+            450,
+            580,
+            471
+          ],
+          "words": [
+            {
+              "text": "2.1",
+              "bbox": [
+                563,
+                454,
+                575,
+                465
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        503,
+        580,
+        765
+      ],
+      "content": "The analysis of the first table reveals correlations between various microRNAs and cardiac parameters, where miR-155 shows an LVEDD r Value of −0.488 and a p Value of 0.153, an LVEF r Value of 0.485 with a p Value of 0.155, an IVS r Value of 0.587 and a p Value of 0.075, an LVPW r Value of 0.413 with a p Value of 0.236, and a HW r Value of 0.597 and a p Value of 0.068. For miR-10b, the LVEDD r Value is 0.323 and p Value 0.363, LVEF r Value is −0.415 with p Value of 0.232, an IVS r Value of 0.007 and a p Value of 0.985, an LVPW r Value of 0.014 with a p Value of 0.969, and a HW r Value of −0.166 with a p Value of 0.647. miR-23a presents an LVEDD r Value of 0.122 and p Value of 0.754, LVEF r Value of −0.026 with p Value of 0.947, an IVS r Value of −0.500 and a p Value of 0.171, an LVPW r Value of −0.293 with p Value of 0.444, and a HW r Value of −0.376 with a p Value of 0.319. miR-214 has an LVEDD r Value of 0.294 and p Value of 0.409, LVEF r Value of −0.394 with p Value of 0.260, an IVS r Value of 0.125 and a p Value of 0.731, an LVPW r Value of 0.188 with p Value of 0.603, and a HW r Value of 0.110 with a p Value of 0.762. Finally, MiR-21 shows an LVEDD r Value of −0.590 and a p Value of 0.872, an LVEF r Value of 0.157 with p Value of 0.665, an IVS r Value of −0.116 and a p Value of 0.749, an LVPW r Value of −0.032 with p Value of 0.929, and a HW r Value of −0.169 with p Value of 0.641. In the second table, Ascaphin-8 presents an S. aureus USA300 MIC of 3.1 μM and an HIV-1 EC50 of 1.2 μM, DASamP1 has an S. aureus USA300 MIC of 3.1 μM and an HIV-1 EC50 of 0.63 μM, DASamP2 shows an S. aureus USA300 MIC of 6.2 μM and DASamP5 has an HIV-1 EC50 of 0.83 μM, Lycotoxin I possesses an S. aureus USA300 MIC of 3.1 μM and Ponericin L2 has an HIV-1 EC50 of 1.4 μM, Maculatin 1.3 reports an S. aureus USA300 MIC of 6.2 μM and Brevinin-2 related has an HIV-1 EC50 of 1.65 μM, and Piscidin 1 indicates an S. aureus USA300 MIC of 3.1 μM and an HIV-1 EC50 of 2.1 μM.",
+      "lines": [
+        {
+          "text": "The analysis of the first table reveals correlations between various microRNAs and cardiac parameters, where miR-155 shows",
+          "bbox": [
+            15,
+            504,
+            580,
+            516
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                504,
+                32,
+                516
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                35,
+                504,
+                71,
+                516
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                74,
+                504,
+                83,
+                516
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                87,
+                504,
+                100,
+                516
+              ]
+            },
+            {
+              "text": "first",
+              "bbox": [
+                103,
+                504,
+                121,
+                516
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                125,
+                504,
+                146,
+                516
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                149,
+                504,
+                180,
+                516
+              ]
+            },
+            {
+              "text": "correlations",
+              "bbox": [
+                184,
+                504,
+                236,
+                516
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                239,
+                504,
+                276,
+                516
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                279,
+                504,
+                311,
+                516
+              ]
+            },
+            {
+              "text": "microRNAs",
+              "bbox": [
+                315,
+                504,
+                368,
+                516
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                371,
+                504,
+                387,
+                516
+              ]
+            },
+            {
+              "text": "cardiac",
+              "bbox": [
+                390,
+                504,
+                422,
+                516
+              ]
+            },
+            {
+              "text": "parameters,",
+              "bbox": [
+                425,
+                504,
+                477,
+                516
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                480,
+                504,
+                507,
+                516
+              ]
+            },
+            {
+              "text": "miR-155",
+              "bbox": [
+                510,
+                504,
+                549,
+                516
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                552,
+                504,
+                580,
+                516
+              ]
+            }
+          ]
+        },
+        {
+          "text": "an LVEDD r Value of −0.488 and a p Value of 0.153, an LVEF r Value of 0.485 with a p Value of 0.155, an IVS r Value of 0.587",
+          "bbox": [
+            15,
+            519,
+            580,
+            531
+          ],
+          "words": [
+            {
+              "text": "an",
+              "bbox": [
+                15,
+                519,
+                25,
+                531
+              ]
+            },
+            {
+              "text": "LVEDD",
+              "bbox": [
+                28,
+                519,
+                64,
+                531
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                67,
+                519,
+                71,
+                531
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                73,
+                519,
+                99,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                101,
+                519,
+                110,
+                531
+              ]
+            },
+            {
+              "text": "−0.488",
+              "bbox": [
+                113,
+                519,
+                144,
+                531
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                147,
+                519,
+                163,
+                531
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                166,
+                519,
+                171,
+                531
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                173,
+                519,
+                179,
+                531
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                181,
+                519,
+                206,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                209,
+                519,
+                218,
+                531
+              ]
+            },
+            {
+              "text": "0.153,",
+              "bbox": [
+                221,
+                519,
+                249,
+                531
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                251,
+                519,
+                262,
+                531
+              ]
+            },
+            {
+              "text": "LVEF",
+              "bbox": [
+                265,
+                519,
+                291,
+                531
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                294,
+                519,
+                298,
+                531
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                300,
+                519,
+                325,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                328,
+                519,
+                337,
+                531
+              ]
+            },
+            {
+              "text": "0.485",
+              "bbox": [
+                340,
+                519,
+                365,
+                531
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                367,
+                519,
+                387,
+                531
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                390,
+                519,
+                395,
+                531
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                397,
+                519,
+                403,
+                531
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                405,
+                519,
+                431,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                433,
+                519,
+                443,
+                531
+              ]
+            },
+            {
+              "text": "0.155,",
+              "bbox": [
+                445,
+                519,
+                473,
+                531
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                476,
+                519,
+                486,
+                531
+              ]
+            },
+            {
+              "text": "IVS",
+              "bbox": [
+                489,
+                519,
+                506,
+                531
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                509,
+                519,
+                513,
+                531
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                515,
+                519,
+                541,
+                531
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                543,
+                519,
+                552,
+                531
+              ]
+            },
+            {
+              "text": "0.587",
+              "bbox": [
+                555,
+                519,
+                580,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and a p Value of 0.075, an LVPW r Value of 0.413 with a p Value of 0.236, and a HW r Value of 0.597 and a p Value of 0.068.",
+          "bbox": [
+            15,
+            535,
+            580,
+            547
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                535,
+                31,
+                547
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                34,
+                535,
+                39,
+                547
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                42,
+                535,
+                48,
+                547
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                50,
+                535,
+                76,
+                547
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                79,
+                535,
+                88,
+                547
+              ]
+            },
+            {
+              "text": "0.075,",
+              "bbox": [
+                91,
+                535,
+                118,
+                547
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                122,
+                535,
+                132,
+                547
+              ]
+            },
+            {
+              "text": "LVPW",
+              "bbox": [
+                135,
+                535,
+                165,
+                547
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                168,
+                535,
+                172,
+                547
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                175,
+                535,
+                200,
+                547
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                203,
+                535,
+                212,
+                547
+              ]
+            },
+            {
+              "text": "0.413",
+              "bbox": [
+                215,
+                535,
+                240,
+                547
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                243,
+                535,
+                263,
+                547
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                266,
+                535,
+                271,
+                547
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                274,
+                535,
+                279,
+                547
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                282,
+                535,
+                307,
+                547
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                310,
+                535,
+                320,
+                547
+              ]
+            },
+            {
+              "text": "0.236,",
+              "bbox": [
+                323,
+                535,
+                350,
+                547
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                353,
+                535,
+                369,
+                547
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                372,
+                535,
+                377,
+                547
+              ]
+            },
+            {
+              "text": "HW",
+              "bbox": [
+                380,
+                535,
+                399,
+                547
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                402,
+                535,
+                405,
+                547
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                408,
+                535,
+                433,
+                547
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                436,
+                535,
+                446,
+                547
+              ]
+            },
+            {
+              "text": "0.597",
+              "bbox": [
+                449,
+                535,
+                473,
+                547
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                477,
+                535,
+                492,
+                547
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                496,
+                535,
+                500,
+                547
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                504,
+                535,
+                509,
+                547
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                512,
+                535,
+                537,
+                547
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                540,
+                535,
+                549,
+                547
+              ]
+            },
+            {
+              "text": "0.068.",
+              "bbox": [
+                552,
+                535,
+                580,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "text": "For miR-10b, the LVEDD r Value is 0.323 and p Value 0.363, LVEF r Value is −0.415 with p Value of 0.232, an IVS r Value of",
+          "bbox": [
+            15,
+            550,
+            580,
+            562
+          ],
+          "words": [
+            {
+              "text": "For",
+              "bbox": [
+                15,
+                550,
+                30,
+                562
+              ]
+            },
+            {
+              "text": "miR-10b,",
+              "bbox": [
+                33,
+                550,
+                75,
+                562
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                78,
+                550,
+                92,
+                562
+              ]
+            },
+            {
+              "text": "LVEDD",
+              "bbox": [
+                95,
+                550,
+                131,
+                562
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                134,
+                550,
+                138,
+                562
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                140,
+                550,
+                165,
+                562
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                168,
+                550,
+                176,
+                562
+              ]
+            },
+            {
+              "text": "0.323",
+              "bbox": [
+                179,
+                550,
+                204,
+                562
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                206,
+                550,
+                222,
+                562
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                225,
+                550,
+                231,
+                562
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                234,
+                550,
+                259,
+                562
+              ]
+            },
+            {
+              "text": "0.363,",
+              "bbox": [
+                262,
+                550,
+                289,
+                562
+              ]
+            },
+            {
+              "text": "LVEF",
+              "bbox": [
+                292,
+                550,
+                319,
+                562
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                322,
+                550,
+                325,
+                562
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                328,
+                550,
+                353,
+                562
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                356,
+                550,
+                364,
+                562
+              ]
+            },
+            {
+              "text": "−0.415",
+              "bbox": [
+                367,
+                550,
+                398,
+                562
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                401,
+                550,
+                420,
+                562
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                423,
+                550,
+                429,
+                562
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                431,
+                550,
+                457,
+                562
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                460,
+                550,
+                469,
+                562
+              ]
+            },
+            {
+              "text": "0.232,",
+              "bbox": [
+                472,
+                550,
+                499,
+                562
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                502,
+                550,
+                513,
+                562
+              ]
+            },
+            {
+              "text": "IVS",
+              "bbox": [
+                516,
+                550,
+                533,
+                562
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                536,
+                550,
+                540,
+                562
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                543,
+                550,
+                568,
+                562
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                550,
+                580,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.007 and a p Value of 0.985, an LVPW r Value of 0.014 with a p Value of 0.969, and a HW r Value of −0.166 with a p Value of",
+          "bbox": [
+            15,
+            566,
+            580,
+            578
+          ],
+          "words": [
+            {
+              "text": "0.007",
+              "bbox": [
+                15,
+                566,
+                40,
+                578
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                43,
+                566,
+                59,
+                578
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                61,
+                566,
+                66,
+                578
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                69,
+                566,
+                75,
+                578
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                77,
+                566,
+                102,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                105,
+                566,
+                115,
+                578
+              ]
+            },
+            {
+              "text": "0.985,",
+              "bbox": [
+                117,
+                566,
+                145,
+                578
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                148,
+                566,
+                158,
+                578
+              ]
+            },
+            {
+              "text": "LVPW",
+              "bbox": [
+                161,
+                566,
+                191,
+                578
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                194,
+                566,
+                198,
+                578
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                200,
+                566,
+                225,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                228,
+                566,
+                237,
+                578
+              ]
+            },
+            {
+              "text": "0.014",
+              "bbox": [
+                240,
+                566,
+                265,
+                578
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                268,
+                566,
+                287,
+                578
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                290,
+                566,
+                295,
+                578
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                298,
+                566,
+                304,
+                578
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                306,
+                566,
+                331,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                334,
+                566,
+                343,
+                578
+              ]
+            },
+            {
+              "text": "0.969,",
+              "bbox": [
+                346,
+                566,
+                374,
+                578
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                377,
+                566,
+                393,
+                578
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                395,
+                566,
+                400,
+                578
+              ]
+            },
+            {
+              "text": "HW",
+              "bbox": [
+                403,
+                566,
+                421,
+                578
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                424,
+                566,
+                428,
+                578
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                431,
+                566,
+                456,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                459,
+                566,
+                468,
+                578
+              ]
+            },
+            {
+              "text": "−0.166",
+              "bbox": [
+                471,
+                566,
+                502,
+                578
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                504,
+                566,
+                524,
+                578
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                527,
+                566,
+                532,
+                578
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                535,
+                566,
+                540,
+                578
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                543,
+                566,
+                568,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                566,
+                580,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.647. miR-23a presents an LVEDD r Value of 0.122 and p Value of 0.754, LVEF r Value of −0.026 with p Value of 0.947, an",
+          "bbox": [
+            15,
+            581,
+            580,
+            593
+          ],
+          "words": [
+            {
+              "text": "0.647.",
+              "bbox": [
+                15,
+                581,
+                43,
+                593
+              ]
+            },
+            {
+              "text": "miR-23a",
+              "bbox": [
+                46,
+                581,
+                84,
+                593
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                88,
+                581,
+                124,
+                593
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                127,
+                581,
+                137,
+                593
+              ]
+            },
+            {
+              "text": "LVEDD",
+              "bbox": [
+                141,
+                581,
+                177,
+                593
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                180,
+                581,
+                184,
+                593
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                187,
+                581,
+                212,
+                593
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                215,
+                581,
+                224,
+                593
+              ]
+            },
+            {
+              "text": "0.122",
+              "bbox": [
+                228,
+                581,
+                252,
+                593
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                256,
+                581,
+                272,
+                593
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                275,
+                581,
+                280,
+                593
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                283,
+                581,
+                309,
+                593
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                312,
+                581,
+                321,
+                593
+              ]
+            },
+            {
+              "text": "0.754,",
+              "bbox": [
+                324,
+                581,
+                352,
+                593
+              ]
+            },
+            {
+              "text": "LVEF",
+              "bbox": [
+                355,
+                581,
+                382,
+                593
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                385,
+                581,
+                389,
+                593
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                392,
+                581,
+                417,
+                593
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                420,
+                581,
+                429,
+                593
+              ]
+            },
+            {
+              "text": "−0.026",
+              "bbox": [
+                432,
+                581,
+                463,
+                593
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                467,
+                581,
+                486,
+                593
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                489,
+                581,
+                495,
+                593
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                498,
+                581,
+                523,
+                593
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                526,
+                581,
+                536,
+                593
+              ]
+            },
+            {
+              "text": "0.947,",
+              "bbox": [
+                539,
+                581,
+                566,
+                593
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                570,
+                581,
+                580,
+                593
+              ]
+            }
+          ]
+        },
+        {
+          "text": "IVS r Value of −0.500 and a p Value of 0.171, an LVPW r Value of −0.293 with p Value of 0.444, and a HW r Value of −0.376",
+          "bbox": [
+            15,
+            596,
+            580,
+            608
+          ],
+          "words": [
+            {
+              "text": "IVS",
+              "bbox": [
+                15,
+                596,
+                33,
+                608
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                36,
+                596,
+                40,
+                608
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                42,
+                596,
+                68,
+                608
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                71,
+                596,
+                80,
+                608
+              ]
+            },
+            {
+              "text": "−0.500",
+              "bbox": [
+                83,
+                596,
+                114,
+                608
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                117,
+                596,
+                133,
+                608
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                136,
+                596,
+                141,
+                608
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                144,
+                596,
+                150,
+                608
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                153,
+                596,
+                178,
+                608
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                181,
+                596,
+                190,
+                608
+              ]
+            },
+            {
+              "text": "0.171,",
+              "bbox": [
+                193,
+                596,
+                221,
+                608
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                224,
+                596,
+                234,
+                608
+              ]
+            },
+            {
+              "text": "LVPW",
+              "bbox": [
+                237,
+                596,
+                267,
+                608
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                270,
+                596,
+                274,
+                608
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                277,
+                596,
+                302,
+                608
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                305,
+                596,
+                314,
+                608
+              ]
+            },
+            {
+              "text": "−0.293",
+              "bbox": [
+                317,
+                596,
+                348,
+                608
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                351,
+                596,
+                371,
+                608
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                374,
+                596,
+                380,
+                608
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                383,
+                596,
+                408,
+                608
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                411,
+                596,
+                420,
+                608
+              ]
+            },
+            {
+              "text": "0.444,",
+              "bbox": [
+                423,
+                596,
+                451,
+                608
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                454,
+                596,
+                470,
+                608
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                473,
+                596,
+                478,
+                608
+              ]
+            },
+            {
+              "text": "HW",
+              "bbox": [
+                481,
+                596,
+                499,
+                608
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                502,
+                596,
+                506,
+                608
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                509,
+                596,
+                534,
+                608
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                537,
+                596,
+                546,
+                608
+              ]
+            },
+            {
+              "text": "−0.376",
+              "bbox": [
+                549,
+                596,
+                580,
+                608
+              ]
+            }
+          ]
+        },
+        {
+          "text": "with a p Value of 0.319. miR-214 has an LVEDD r Value of 0.294 and p Value of 0.409, LVEF r Value of −0.394 with p Value",
+          "bbox": [
+            15,
+            612,
+            580,
+            624
+          ],
+          "words": [
+            {
+              "text": "with",
+              "bbox": [
+                15,
+                612,
+                35,
+                624
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                38,
+                612,
+                43,
+                624
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                46,
+                612,
+                51,
+                624
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                54,
+                612,
+                79,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                83,
+                612,
+                92,
+                624
+              ]
+            },
+            {
+              "text": "0.319.",
+              "bbox": [
+                95,
+                612,
+                122,
+                624
+              ]
+            },
+            {
+              "text": "miR-214",
+              "bbox": [
+                126,
+                612,
+                165,
+                624
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                168,
+                612,
+                183,
+                624
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                186,
+                612,
+                196,
+                624
+              ]
+            },
+            {
+              "text": "LVEDD",
+              "bbox": [
+                199,
+                612,
+                236,
+                624
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                239,
+                612,
+                242,
+                624
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                245,
+                612,
+                270,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                274,
+                612,
+                283,
+                624
+              ]
+            },
+            {
+              "text": "0.294",
+              "bbox": [
+                286,
+                612,
+                311,
+                624
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                314,
+                612,
+                330,
+                624
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                333,
+                612,
+                338,
+                624
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                341,
+                612,
+                366,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                370,
+                612,
+                379,
+                624
+              ]
+            },
+            {
+              "text": "0.409,",
+              "bbox": [
+                382,
+                612,
+                410,
+                624
+              ]
+            },
+            {
+              "text": "LVEF",
+              "bbox": [
+                413,
+                612,
+                439,
+                624
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                442,
+                612,
+                446,
+                624
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                449,
+                612,
+                474,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                477,
+                612,
+                486,
+                624
+              ]
+            },
+            {
+              "text": "−0.394",
+              "bbox": [
+                490,
+                612,
+                521,
+                624
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                524,
+                612,
+                543,
+                624
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                546,
+                612,
+                552,
+                624
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                555,
+                612,
+                580,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of 0.260, an IVS r Value of 0.125 and a p Value of 0.731, an LVPW r Value of 0.188 with p Value of 0.603, and a HW r Value of",
+          "bbox": [
+            15,
+            627,
+            580,
+            639
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                627,
+                24,
+                639
+              ]
+            },
+            {
+              "text": "0.260,",
+              "bbox": [
+                27,
+                627,
+                54,
+                639
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                57,
+                627,
+                68,
+                639
+              ]
+            },
+            {
+              "text": "IVS",
+              "bbox": [
+                70,
+                627,
+                88,
+                639
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                91,
+                627,
+                95,
+                639
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                97,
+                627,
+                122,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                125,
+                627,
+                134,
+                639
+              ]
+            },
+            {
+              "text": "0.125",
+              "bbox": [
+                137,
+                627,
+                162,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                165,
+                627,
+                181,
+                639
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                183,
+                627,
+                188,
+                639
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                191,
+                627,
+                197,
+                639
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                199,
+                627,
+                224,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                227,
+                627,
+                236,
+                639
+              ]
+            },
+            {
+              "text": "0.731,",
+              "bbox": [
+                239,
+                627,
+                266,
+                639
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                269,
+                627,
+                280,
+                639
+              ]
+            },
+            {
+              "text": "LVPW",
+              "bbox": [
+                282,
+                627,
+                312,
+                639
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                315,
+                627,
+                319,
+                639
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                321,
+                627,
+                347,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                349,
+                627,
+                358,
+                639
+              ]
+            },
+            {
+              "text": "0.188",
+              "bbox": [
+                361,
+                627,
+                386,
+                639
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                389,
+                627,
+                408,
+                639
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                411,
+                627,
+                417,
+                639
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                419,
+                627,
+                444,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                447,
+                627,
+                456,
+                639
+              ]
+            },
+            {
+              "text": "0.603,",
+              "bbox": [
+                459,
+                627,
+                487,
+                639
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                489,
+                627,
+                505,
+                639
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                508,
+                627,
+                513,
+                639
+              ]
+            },
+            {
+              "text": "HW",
+              "bbox": [
+                516,
+                627,
+                534,
+                639
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                537,
+                627,
+                540,
+                639
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                543,
+                627,
+                568,
+                639
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                627,
+                580,
+                639
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.110 with a p Value of 0.762. Finally, MiR-21 shows an LVEDD r Value of −0.590 and a p Value of 0.872, an LVEF r Value of",
+          "bbox": [
+            15,
+            643,
+            580,
+            655
+          ],
+          "words": [
+            {
+              "text": "0.110",
+              "bbox": [
+                15,
+                643,
+                39,
+                655
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                42,
+                643,
+                62,
+                655
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                65,
+                643,
+                70,
+                655
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                73,
+                643,
+                78,
+                655
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                81,
+                643,
+                106,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                109,
+                643,
+                118,
+                655
+              ]
+            },
+            {
+              "text": "0.762.",
+              "bbox": [
+                121,
+                643,
+                148,
+                655
+              ]
+            },
+            {
+              "text": "Finally,",
+              "bbox": [
+                151,
+                643,
+                184,
+                655
+              ]
+            },
+            {
+              "text": "MiR-21",
+              "bbox": [
+                187,
+                643,
+                222,
+                655
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                225,
+                643,
+                253,
+                655
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                256,
+                643,
+                266,
+                655
+              ]
+            },
+            {
+              "text": "LVEDD",
+              "bbox": [
+                269,
+                643,
+                305,
+                655
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                308,
+                643,
+                312,
+                655
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                314,
+                643,
+                340,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                342,
+                643,
+                352,
+                655
+              ]
+            },
+            {
+              "text": "−0.590",
+              "bbox": [
+                355,
+                643,
+                386,
+                655
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                388,
+                643,
+                404,
+                655
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                407,
+                643,
+                412,
+                655
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                415,
+                643,
+                421,
+                655
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                423,
+                643,
+                448,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                451,
+                643,
+                460,
+                655
+              ]
+            },
+            {
+              "text": "0.872,",
+              "bbox": [
+                463,
+                643,
+                491,
+                655
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                494,
+                643,
+                504,
+                655
+              ]
+            },
+            {
+              "text": "LVEF",
+              "bbox": [
+                507,
+                643,
+                534,
+                655
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                536,
+                643,
+                540,
+                655
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                543,
+                643,
+                568,
+                655
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                643,
+                580,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.157 with p Value of 0.665, an IVS r Value of −0.116 and a p Value of 0.749, an LVPW r Value of −0.032 with p Value of",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "0.157",
+              "bbox": [
+                15,
+                658,
+                40,
+                670
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                44,
+                658,
+                63,
+                670
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                67,
+                658,
+                72,
+                670
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                76,
+                658,
+                101,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                105,
+                658,
+                114,
+                670
+              ]
+            },
+            {
+              "text": "0.665,",
+              "bbox": [
+                118,
+                658,
+                145,
+                670
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                149,
+                658,
+                159,
+                670
+              ]
+            },
+            {
+              "text": "IVS",
+              "bbox": [
+                163,
+                658,
+                181,
+                670
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                185,
+                658,
+                188,
+                670
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                192,
+                658,
+                217,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                221,
+                658,
+                230,
+                670
+              ]
+            },
+            {
+              "text": "−0.116",
+              "bbox": [
+                233,
+                658,
+                264,
+                670
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                268,
+                658,
+                284,
+                670
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                287,
+                658,
+                292,
+                670
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                296,
+                658,
+                302,
+                670
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                305,
+                658,
+                330,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                334,
+                658,
+                343,
+                670
+              ]
+            },
+            {
+              "text": "0.749,",
+              "bbox": [
+                347,
+                658,
+                374,
+                670
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                378,
+                658,
+                389,
+                670
+              ]
+            },
+            {
+              "text": "LVPW",
+              "bbox": [
+                392,
+                658,
+                422,
+                670
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                426,
+                658,
+                430,
+                670
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                433,
+                658,
+                458,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                462,
+                658,
+                471,
+                670
+              ]
+            },
+            {
+              "text": "−0.032",
+              "bbox": [
+                475,
+                658,
+                506,
+                670
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                510,
+                658,
+                529,
+                670
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                533,
+                658,
+                538,
+                670
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                542,
+                658,
+                567,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                571,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.929, and a HW r Value of −0.169 with p Value of 0.641. In the second table, Ascaphin-8 presents an S. aureus USA300 MIC",
+          "bbox": [
+            15,
+            673,
+            580,
+            685
+          ],
+          "words": [
+            {
+              "text": "0.929,",
+              "bbox": [
+                15,
+                673,
+                43,
+                685
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                46,
+                673,
+                62,
+                685
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                65,
+                673,
+                70,
+                685
+              ]
+            },
+            {
+              "text": "HW",
+              "bbox": [
+                73,
+                673,
+                91,
+                685
+              ]
+            },
+            {
+              "text": "r",
+              "bbox": [
+                94,
+                673,
+                98,
+                685
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                101,
+                673,
+                126,
+                685
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                129,
+                673,
+                138,
+                685
+              ]
+            },
+            {
+              "text": "−0.169",
+              "bbox": [
+                141,
+                673,
+                172,
+                685
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                175,
+                673,
+                195,
+                685
+              ]
+            },
+            {
+              "text": "p",
+              "bbox": [
+                198,
+                673,
+                204,
+                685
+              ]
+            },
+            {
+              "text": "Value",
+              "bbox": [
+                207,
+                673,
+                232,
+                685
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                235,
+                673,
+                244,
+                685
+              ]
+            },
+            {
+              "text": "0.641.",
+              "bbox": [
+                247,
+                673,
+                275,
+                685
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                278,
+                673,
+                287,
+                685
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                290,
+                673,
+                303,
+                685
+              ]
+            },
+            {
+              "text": "second",
+              "bbox": [
+                307,
+                673,
+                337,
+                685
+              ]
+            },
+            {
+              "text": "table,",
+              "bbox": [
+                340,
+                673,
+                364,
+                685
+              ]
+            },
+            {
+              "text": "Ascaphin-8",
+              "bbox": [
+                367,
+                673,
+                418,
+                685
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                421,
+                673,
+                457,
+                685
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                460,
+                673,
+                471,
+                685
+              ]
+            },
+            {
+              "text": "S.",
+              "bbox": [
+                474,
+                673,
+                483,
+                685
+              ]
+            },
+            {
+              "text": "aureus",
+              "bbox": [
+                486,
+                673,
+                514,
+                685
+              ]
+            },
+            {
+              "text": "USA300",
+              "bbox": [
+                518,
+                673,
+                556,
+                685
+              ]
+            },
+            {
+              "text": "MIC",
+              "bbox": [
+                559,
+                673,
+                580,
+                685
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of 3.1 μM and an HIV-1 EC50 of 1.2 μM, DASamP1 has an S. aureus USA300 MIC of 3.1 μM and an HIV-1 EC50 of 0.63 μM,",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                689,
+                24,
+                701
+              ]
+            },
+            {
+              "text": "3.1",
+              "bbox": [
+                27,
+                689,
+                41,
+                701
+              ]
+            },
+            {
+              "text": "μM",
+              "bbox": [
+                43,
+                689,
+                59,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                62,
+                689,
+                78,
+                701
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                81,
+                689,
+                91,
+                701
+              ]
+            },
+            {
+              "text": "HIV-1",
+              "bbox": [
+                94,
+                689,
+                122,
+                701
+              ]
+            },
+            {
+              "text": "EC50",
+              "bbox": [
+                124,
+                689,
+                149,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                152,
+                689,
+                161,
+                701
+              ]
+            },
+            {
+              "text": "1.2",
+              "bbox": [
+                164,
+                689,
+                178,
+                701
+              ]
+            },
+            {
+              "text": "μM,",
+              "bbox": [
+                181,
+                689,
+                199,
+                701
+              ]
+            },
+            {
+              "text": "DASamP1",
+              "bbox": [
+                202,
+                689,
+                249,
+                701
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                252,
+                689,
+                266,
+                701
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                269,
+                689,
+                280,
+                701
+              ]
+            },
+            {
+              "text": "S.",
+              "bbox": [
+                282,
+                689,
+                291,
+                701
+              ]
+            },
+            {
+              "text": "aureus",
+              "bbox": [
+                294,
+                689,
+                323,
+                701
+              ]
+            },
+            {
+              "text": "USA300",
+              "bbox": [
+                326,
+                689,
+                364,
+                701
+              ]
+            },
+            {
+              "text": "MIC",
+              "bbox": [
+                367,
+                689,
+                388,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                390,
+                689,
+                400,
+                701
+              ]
+            },
+            {
+              "text": "3.1",
+              "bbox": [
+                402,
+                689,
+                416,
+                701
+              ]
+            },
+            {
+              "text": "μM",
+              "bbox": [
+                419,
+                689,
+                435,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                437,
+                689,
+                453,
+                701
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                456,
+                689,
+                466,
+                701
+              ]
+            },
+            {
+              "text": "HIV-1",
+              "bbox": [
+                469,
+                689,
+                497,
+                701
+              ]
+            },
+            {
+              "text": "EC50",
+              "bbox": [
+                500,
+                689,
+                525,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                528,
+                689,
+                537,
+                701
+              ]
+            },
+            {
+              "text": "0.63",
+              "bbox": [
+                540,
+                689,
+                559,
+                701
+              ]
+            },
+            {
+              "text": "μM,",
+              "bbox": [
+                562,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "DASamP2 shows an S. aureus USA300 MIC of 6.2 μM and DASamP5 has an HIV-1 EC50 of 0.83 μM, Lycotoxin I possesses",
+          "bbox": [
+            15,
+            704,
+            580,
+            716
+          ],
+          "words": [
+            {
+              "text": "DASamP2",
+              "bbox": [
+                15,
+                704,
+                62,
+                716
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                65,
+                704,
+                93,
+                716
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                96,
+                704,
+                106,
+                716
+              ]
+            },
+            {
+              "text": "S.",
+              "bbox": [
+                109,
+                704,
+                118,
+                716
+              ]
+            },
+            {
+              "text": "aureus",
+              "bbox": [
+                121,
+                704,
+                150,
+                716
+              ]
+            },
+            {
+              "text": "USA300",
+              "bbox": [
+                153,
+                704,
+                192,
+                716
+              ]
+            },
+            {
+              "text": "MIC",
+              "bbox": [
+                195,
+                704,
+                216,
+                716
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                219,
+                704,
+                228,
+                716
+              ]
+            },
+            {
+              "text": "6.2",
+              "bbox": [
+                231,
+                704,
+                245,
+                716
+              ]
+            },
+            {
+              "text": "μM",
+              "bbox": [
+                248,
+                704,
+                264,
+                716
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                267,
+                704,
+                283,
+                716
+              ]
+            },
+            {
+              "text": "DASamP5",
+              "bbox": [
+                286,
+                704,
+                333,
+                716
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                336,
+                704,
+                351,
+                716
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                354,
+                704,
+                365,
+                716
+              ]
+            },
+            {
+              "text": "HIV-1",
+              "bbox": [
+                368,
+                704,
+                395,
+                716
+              ]
+            },
+            {
+              "text": "EC50",
+              "bbox": [
+                399,
+                704,
+                424,
+                716
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                427,
+                704,
+                436,
+                716
+              ]
+            },
+            {
+              "text": "0.83",
+              "bbox": [
+                439,
+                704,
+                458,
+                716
+              ]
+            },
+            {
+              "text": "μM,",
+              "bbox": [
+                462,
+                704,
+                480,
+                716
+              ]
+            },
+            {
+              "text": "Lycotoxin",
+              "bbox": [
+                483,
+                704,
+                528,
+                716
+              ]
+            },
+            {
+              "text": "I",
+              "bbox": [
+                531,
+                704,
+                535,
+                716
+              ]
+            },
+            {
+              "text": "possesses",
+              "bbox": [
+                538,
+                704,
+                580,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "text": "an S. aureus USA300 MIC of 3.1 μM and Ponericin L2 has an HIV-1 EC50 of 1.4 μM, Maculatin 1.3 reports an S. aureus",
+          "bbox": [
+            15,
+            719,
+            580,
+            731
+          ],
+          "words": [
+            {
+              "text": "an",
+              "bbox": [
+                15,
+                719,
+                25,
+                731
+              ]
+            },
+            {
+              "text": "S.",
+              "bbox": [
+                29,
+                719,
+                38,
+                731
+              ]
+            },
+            {
+              "text": "aureus",
+              "bbox": [
+                42,
+                719,
+                71,
+                731
+              ]
+            },
+            {
+              "text": "USA300",
+              "bbox": [
+                75,
+                719,
+                114,
+                731
+              ]
+            },
+            {
+              "text": "MIC",
+              "bbox": [
+                118,
+                719,
+                138,
+                731
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                142,
+                719,
+                152,
+                731
+              ]
+            },
+            {
+              "text": "3.1",
+              "bbox": [
+                156,
+                719,
+                169,
+                731
+              ]
+            },
+            {
+              "text": "μM",
+              "bbox": [
+                173,
+                719,
+                189,
+                731
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                193,
+                719,
+                209,
+                731
+              ]
+            },
+            {
+              "text": "Ponericin",
+              "bbox": [
+                213,
+                719,
+                255,
+                731
+              ]
+            },
+            {
+              "text": "L2",
+              "bbox": [
+                259,
+                719,
+                272,
+                731
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                276,
+                719,
+                290,
+                731
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                294,
+                719,
+                305,
+                731
+              ]
+            },
+            {
+              "text": "HIV-1",
+              "bbox": [
+                309,
+                719,
+                336,
+                731
+              ]
+            },
+            {
+              "text": "EC50",
+              "bbox": [
+                340,
+                719,
+                365,
+                731
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                369,
+                719,
+                379,
+                731
+              ]
+            },
+            {
+              "text": "1.4",
+              "bbox": [
+                383,
+                719,
+                396,
+                731
+              ]
+            },
+            {
+              "text": "μM,",
+              "bbox": [
+                400,
+                719,
+                419,
+                731
+              ]
+            },
+            {
+              "text": "Maculatin",
+              "bbox": [
+                423,
+                719,
+                468,
+                731
+              ]
+            },
+            {
+              "text": "1.3",
+              "bbox": [
+                472,
+                719,
+                485,
+                731
+              ]
+            },
+            {
+              "text": "reports",
+              "bbox": [
+                489,
+                719,
+                520,
+                731
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                524,
+                719,
+                534,
+                731
+              ]
+            },
+            {
+              "text": "S.",
+              "bbox": [
+                538,
+                719,
+                547,
+                731
+              ]
+            },
+            {
+              "text": "aureus",
+              "bbox": [
+                551,
+                719,
+                580,
+                731
+              ]
+            }
+          ]
+        },
+        {
+          "text": "USA300 MIC of 6.2 μM and Brevinin-2 related has an HIV-1 EC50 of 1.65 μM, and Piscidin 1 indicates an S. aureus USA300",
+          "bbox": [
+            15,
+            735,
+            580,
+            747
+          ],
+          "words": [
+            {
+              "text": "USA300",
+              "bbox": [
+                15,
+                735,
+                54,
+                747
+              ]
+            },
+            {
+              "text": "MIC",
+              "bbox": [
+                57,
+                735,
+                77,
+                747
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                80,
+                735,
+                90,
+                747
+              ]
+            },
+            {
+              "text": "6.2",
+              "bbox": [
+                93,
+                735,
+                106,
+                747
+              ]
+            },
+            {
+              "text": "μM",
+              "bbox": [
+                109,
+                735,
+                125,
+                747
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                128,
+                735,
+                144,
+                747
+              ]
+            },
+            {
+              "text": "Brevinin-2",
+              "bbox": [
+                147,
+                735,
+                195,
+                747
+              ]
+            },
+            {
+              "text": "related",
+              "bbox": [
+                198,
+                735,
+                228,
+                747
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                231,
+                735,
+                245,
+                747
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                248,
+                735,
+                259,
+                747
+              ]
+            },
+            {
+              "text": "HIV-1",
+              "bbox": [
+                262,
+                735,
+                289,
+                747
+              ]
+            },
+            {
+              "text": "EC50",
+              "bbox": [
+                292,
+                735,
+                317,
+                747
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                320,
+                735,
+                330,
+                747
+              ]
+            },
+            {
+              "text": "1.65",
+              "bbox": [
+                333,
+                735,
+                352,
+                747
+              ]
+            },
+            {
+              "text": "μM,",
+              "bbox": [
+                355,
+                735,
+                373,
+                747
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                376,
+                735,
+                392,
+                747
+              ]
+            },
+            {
+              "text": "Piscidin",
+              "bbox": [
+                395,
+                735,
+                431,
+                747
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                434,
+                735,
+                439,
+                747
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                442,
+                735,
+                481,
+                747
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                484,
+                735,
+                495,
+                747
+              ]
+            },
+            {
+              "text": "S.",
+              "bbox": [
+                498,
+                735,
+                507,
+                747
+              ]
+            },
+            {
+              "text": "aureus",
+              "bbox": [
+                510,
+                735,
+                538,
+                747
+              ]
+            },
+            {
+              "text": "USA300",
+              "bbox": [
+                541,
+                735,
+                580,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "MIC of 3.1 μM and an HIV-1 EC50 of 2.1 μM.",
+          "bbox": [
+            15,
+            750,
+            222,
+            762
+          ],
+          "words": [
+            {
+              "text": "MIC",
+              "bbox": [
+                15,
+                750,
+                36,
+                762
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                39,
+                750,
+                48,
+                762
+              ]
+            },
+            {
+              "text": "3.1",
+              "bbox": [
+                50,
+                750,
+                64,
+                762
+              ]
+            },
+            {
+              "text": "μM",
+              "bbox": [
+                67,
+                750,
+                83,
+                762
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                85,
+                750,
+                101,
+                762
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                104,
+                750,
+                114,
+                762
+              ]
+            },
+            {
+              "text": "HIV-1",
+              "bbox": [
+                117,
+                750,
+                145,
+                762
+              ]
+            },
+            {
+              "text": "EC50",
+              "bbox": [
+                148,
+                750,
+                173,
+                762
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                175,
+                750,
+                185,
+                762
+              ]
+            },
+            {
+              "text": "2.1",
+              "bbox": [
+                187,
+                750,
+                201,
+                762
+              ]
+            },
+            {
+              "text": "μM.",
+              "bbox": [
+                204,
+                750,
+                222,
+                762
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

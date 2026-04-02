@@ -1,0 +1,5056 @@
+{
+  "image_id": "img_167525",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_167525_t0",
+      "bbox": [
+        15,
+        82,
+        580,
+        258
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "Stamp",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            83,
+            580,
+            118
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            118,
+            580,
+            153
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            153,
+            580,
+            174
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            174,
+            580,
+            195
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            195,
+            580,
+            216
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            216,
+            580,
+            237
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            237,
+            580,
+            258
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>ProjectName</td><td>DrillingType</td><td>DrillLength(m)</td><td>CoreSample(kg)</td><td>AssayResults(%)</td><td>Location</td><td>DrillingDate</td></tr><tr><td>Copper</td><td>Gold</td><td>Silver</td><td>Lead</td><td>Zinc</td><td>TotalDepth(m)</td><td>DrillRigsUsed</td></tr></thead><tbody><tr><td>ProjectA</td><td>Diamond</td><td>1500</td><td>1200</td><td>0.85</td><td>SouthAsia</td><td>2024-01-15</td></tr><tr><td>ProjectB</td><td>RC</td><td>2000</td><td>1500</td><td>1.10</td><td>EastAsia</td><td>2024-02-20</td></tr><tr><td>ProjectC</td><td>Diamond</td><td>1800</td><td>900</td><td>0.60</td><td>NorthAsia</td><td>2024-03-10</td></tr><tr><td>ProjectD</td><td>RC</td><td>2200</td><td>1100</td><td>0.95</td><td>WestAsia</td><td>2024-04-05</td></tr><tr><td>ProjectE</td><td>Diamond</td><td>1600</td><td>1300</td><td>0.75</td><td>CentralAsia</td><td>2024-05-12</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectName",
+          "bbox": [
+            16,
+            83,
+            152,
+            118
+          ],
+          "words": [
+            {
+              "text": "ProjectName",
+              "bbox": [
+                21,
+                87,
+                77,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "DrillingType",
+          "bbox": [
+            152,
+            83,
+            223,
+            118
+          ],
+          "words": [
+            {
+              "text": "DrillingType",
+              "bbox": [
+                163,
+                87,
+                218,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "DrillLength(m)",
+          "bbox": [
+            223,
+            83,
+            294,
+            118
+          ],
+          "words": [
+            {
+              "text": "DrillLength(m)",
+              "bbox": [
+                235,
+                87,
+                289,
+                112
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CoreSample(kg)",
+          "bbox": [
+            294,
+            83,
+            366,
+            118
+          ],
+          "words": [
+            {
+              "text": "CoreSample(kg)",
+              "bbox": [
+                304,
+                87,
+                360,
+                112
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "AssayResults(%)",
+          "bbox": [
+            366,
+            83,
+            437,
+            118
+          ],
+          "words": [
+            {
+              "text": "AssayResults(%)",
+              "bbox": [
+                372,
+                87,
+                431,
+                112
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Location",
+          "bbox": [
+            437,
+            83,
+            508,
+            118
+          ],
+          "words": [
+            {
+              "text": "Location",
+              "bbox": [
+                465,
+                87,
+                503,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "DrillingDate",
+          "bbox": [
+            508,
+            83,
+            580,
+            118
+          ],
+          "words": [
+            {
+              "text": "DrillingDate",
+              "bbox": [
+                521,
+                87,
+                574,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Copper",
+          "bbox": [
+            16,
+            118,
+            152,
+            153
+          ],
+          "words": [
+            {
+              "text": "Copper",
+              "bbox": [
+                21,
+                122,
+                53,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Gold",
+          "bbox": [
+            152,
+            118,
+            223,
+            153
+          ],
+          "words": [
+            {
+              "text": "Gold",
+              "bbox": [
+                196,
+                122,
+                218,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Silver",
+          "bbox": [
+            223,
+            118,
+            294,
+            153
+          ],
+          "words": [
+            {
+              "text": "Silver",
+              "bbox": [
+                264,
+                122,
+                289,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Lead",
+          "bbox": [
+            294,
+            118,
+            366,
+            153
+          ],
+          "words": [
+            {
+              "text": "Lead",
+              "bbox": [
+                338,
+                122,
+                360,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Zinc",
+          "bbox": [
+            366,
+            118,
+            437,
+            153
+          ],
+          "words": [
+            {
+              "text": "Zinc",
+              "bbox": [
+                412,
+                122,
+                431,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalDepth(m)",
+          "bbox": [
+            437,
+            118,
+            508,
+            153
+          ],
+          "words": [
+            {
+              "text": "TotalDepth(m)",
+              "bbox": [
+                443,
+                122,
+                503,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "DrillRigsUsed",
+          "bbox": [
+            508,
+            118,
+            580,
+            153
+          ],
+          "words": [
+            {
+              "text": "DrillRigsUsed",
+              "bbox": [
+                514,
+                122,
+                574,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProjectA",
+          "bbox": [
+            16,
+            153,
+            152,
+            174
+          ],
+          "words": [
+            {
+              "text": "ProjectA",
+              "bbox": [
+                21,
+                157,
+                57,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Diamond",
+          "bbox": [
+            152,
+            153,
+            223,
+            174
+          ],
+          "words": [
+            {
+              "text": "Diamond",
+              "bbox": [
+                180,
+                157,
+                218,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1500",
+          "bbox": [
+            223,
+            153,
+            294,
+            174
+          ],
+          "words": [
+            {
+              "text": "1500",
+              "bbox": [
+                269,
+                157,
+                289,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1200",
+          "bbox": [
+            294,
+            153,
+            366,
+            174
+          ],
+          "words": [
+            {
+              "text": "1200",
+              "bbox": [
+                340,
+                157,
+                360,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.85",
+          "bbox": [
+            366,
+            153,
+            437,
+            174
+          ],
+          "words": [
+            {
+              "text": "0.85",
+              "bbox": [
+                414,
+                157,
+                431,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "SouthAsia",
+          "bbox": [
+            437,
+            153,
+            508,
+            174
+          ],
+          "words": [
+            {
+              "text": "SouthAsia",
+              "bbox": [
+                461,
+                157,
+                503,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-01-15",
+          "bbox": [
+            508,
+            153,
+            580,
+            174
+          ],
+          "words": [
+            {
+              "text": "2024-01-15",
+              "bbox": [
+                527,
+                157,
+                574,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProjectB",
+          "bbox": [
+            16,
+            174,
+            152,
+            195
+          ],
+          "words": [
+            {
+              "text": "ProjectB",
+              "bbox": [
+                21,
+                178,
+                56,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "RC",
+          "bbox": [
+            152,
+            174,
+            223,
+            195
+          ],
+          "words": [
+            {
+              "text": "RC",
+              "bbox": [
+                204,
+                178,
+                218,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2000",
+          "bbox": [
+            223,
+            174,
+            294,
+            195
+          ],
+          "words": [
+            {
+              "text": "2000",
+              "bbox": [
+                269,
+                178,
+                289,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1500",
+          "bbox": [
+            294,
+            174,
+            366,
+            195
+          ],
+          "words": [
+            {
+              "text": "1500",
+              "bbox": [
+                340,
+                178,
+                360,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1.10",
+          "bbox": [
+            366,
+            174,
+            437,
+            195
+          ],
+          "words": [
+            {
+              "text": "1.10",
+              "bbox": [
+                414,
+                178,
+                431,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "EastAsia",
+          "bbox": [
+            437,
+            174,
+            508,
+            195
+          ],
+          "words": [
+            {
+              "text": "EastAsia",
+              "bbox": [
+                467,
+                178,
+                503,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-02-20",
+          "bbox": [
+            508,
+            174,
+            580,
+            195
+          ],
+          "words": [
+            {
+              "text": "2024-02-20",
+              "bbox": [
+                527,
+                178,
+                574,
+                189
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProjectC",
+          "bbox": [
+            16,
+            195,
+            152,
+            216
+          ],
+          "words": [
+            {
+              "text": "ProjectC",
+              "bbox": [
+                21,
+                199,
+                56,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Diamond",
+          "bbox": [
+            152,
+            195,
+            223,
+            216
+          ],
+          "words": [
+            {
+              "text": "Diamond",
+              "bbox": [
+                180,
+                199,
+                218,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1800",
+          "bbox": [
+            223,
+            195,
+            294,
+            216
+          ],
+          "words": [
+            {
+              "text": "1800",
+              "bbox": [
+                269,
+                199,
+                289,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "900",
+          "bbox": [
+            294,
+            195,
+            366,
+            216
+          ],
+          "words": [
+            {
+              "text": "900",
+              "bbox": [
+                345,
+                199,
+                360,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.60",
+          "bbox": [
+            366,
+            195,
+            437,
+            216
+          ],
+          "words": [
+            {
+              "text": "0.60",
+              "bbox": [
+                414,
+                199,
+                431,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "NorthAsia",
+          "bbox": [
+            437,
+            195,
+            508,
+            216
+          ],
+          "words": [
+            {
+              "text": "NorthAsia",
+              "bbox": [
+                461,
+                199,
+                503,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-03-10",
+          "bbox": [
+            508,
+            195,
+            580,
+            216
+          ],
+          "words": [
+            {
+              "text": "2024-03-10",
+              "bbox": [
+                527,
+                199,
+                574,
+                210
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProjectD",
+          "bbox": [
+            16,
+            216,
+            152,
+            237
+          ],
+          "words": [
+            {
+              "text": "ProjectD",
+              "bbox": [
+                21,
+                220,
+                57,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "RC",
+          "bbox": [
+            152,
+            216,
+            223,
+            237
+          ],
+          "words": [
+            {
+              "text": "RC",
+              "bbox": [
+                204,
+                220,
+                218,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2200",
+          "bbox": [
+            223,
+            216,
+            294,
+            237
+          ],
+          "words": [
+            {
+              "text": "2200",
+              "bbox": [
+                269,
+                220,
+                289,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1100",
+          "bbox": [
+            294,
+            216,
+            366,
+            237
+          ],
+          "words": [
+            {
+              "text": "1100",
+              "bbox": [
+                340,
+                220,
+                360,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.95",
+          "bbox": [
+            366,
+            216,
+            437,
+            237
+          ],
+          "words": [
+            {
+              "text": "0.95",
+              "bbox": [
+                414,
+                220,
+                431,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "WestAsia",
+          "bbox": [
+            437,
+            216,
+            508,
+            237
+          ],
+          "words": [
+            {
+              "text": "WestAsia",
+              "bbox": [
+                465,
+                220,
+                503,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-04-05",
+          "bbox": [
+            508,
+            216,
+            580,
+            237
+          ],
+          "words": [
+            {
+              "text": "2024-04-05",
+              "bbox": [
+                527,
+                220,
+                574,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProjectE",
+          "bbox": [
+            16,
+            237,
+            152,
+            258
+          ],
+          "words": [
+            {
+              "text": "ProjectE",
+              "bbox": [
+                21,
+                241,
+                55,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Diamond",
+          "bbox": [
+            152,
+            237,
+            223,
+            258
+          ],
+          "words": [
+            {
+              "text": "Diamond",
+              "bbox": [
+                180,
+                241,
+                218,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "1600",
+          "bbox": [
+            223,
+            237,
+            294,
+            258
+          ],
+          "words": [
+            {
+              "text": "1600",
+              "bbox": [
+                269,
+                241,
+                289,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "1300",
+          "bbox": [
+            294,
+            237,
+            366,
+            258
+          ],
+          "words": [
+            {
+              "text": "1300",
+              "bbox": [
+                340,
+                241,
+                360,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.75",
+          "bbox": [
+            366,
+            237,
+            437,
+            258
+          ],
+          "words": [
+            {
+              "text": "0.75",
+              "bbox": [
+                414,
+                241,
+                431,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "CentralAsia",
+          "bbox": [
+            437,
+            237,
+            508,
+            258
+          ],
+          "words": [
+            {
+              "text": "CentralAsia",
+              "bbox": [
+                455,
+                241,
+                503,
+                252
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-05-12",
+          "bbox": [
+            508,
+            237,
+            580,
+            258
+          ],
+          "words": [
+            {
+              "text": "2024-05-12",
+              "bbox": [
+                527,
+                241,
+                574,
+                252
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        273,
+        580,
+        427
+      ],
+      "content": "In the context of Freeport-McMoRan's ongoing exploration initiatives within the Asia-Pacific region, the recent drilling results have provided pivotal insights into the mineral potential of various projects. The data highlights the comprehensive assessment of key commodities, including copper, gold, and silver, which are crucial for strategic decision-making. For instance, ProjectD's silver yield reached an impressive 2200, underscoring its viability. Additionally, the operational metrics reveal that ProjectB utilized 2024-02-20 drill rigs, enhancing the efficiency of exploration activities. The sensitivity of commodity prices plays a significant role in evaluating the profitability of these projects. The copper price remains a critical factor, influencing the overall financial health of the company, while the gold price is particularly pertinent for ProjectE, which has been identified as a focal point of exploration with its unique attributes, including a notable gold grade of Diamond. Furthermore, the financial ratios reflect the company's stability; for instance, HKD62,500's debt/equity ratio was recorded at 0.9, and its silver price stood at HKD21, while the P/E ratio was 13.0.",
+      "lines": [
+        {
+          "text": "In the context of Freeport-McMoRan's ongoing exploration initiatives within the Asia-Pacific region, the recent drilling results",
+          "bbox": [
+            15,
+            274,
+            580,
+            286
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                274,
+                24,
+                286
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                27,
+                274,
+                41,
+                286
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                44,
+                274,
+                77,
+                286
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                80,
+                274,
+                89,
+                286
+              ]
+            },
+            {
+              "text": "Freeport-McMoRan's",
+              "bbox": [
+                92,
+                274,
+                187,
+                286
+              ]
+            },
+            {
+              "text": "ongoing",
+              "bbox": [
+                190,
+                274,
+                226,
+                286
+              ]
+            },
+            {
+              "text": "exploration",
+              "bbox": [
+                230,
+                274,
+                280,
+                286
+              ]
+            },
+            {
+              "text": "initiatives",
+              "bbox": [
+                283,
+                274,
+                326,
+                286
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                330,
+                274,
+                358,
+                286
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                361,
+                274,
+                374,
+                286
+              ]
+            },
+            {
+              "text": "Asia-Pacific",
+              "bbox": [
+                377,
+                274,
+                431,
+                286
+              ]
+            },
+            {
+              "text": "region,",
+              "bbox": [
+                435,
+                274,
+                466,
+                286
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                469,
+                274,
+                482,
+                286
+              ]
+            },
+            {
+              "text": "recent",
+              "bbox": [
+                486,
+                274,
+                512,
+                286
+              ]
+            },
+            {
+              "text": "drilling",
+              "bbox": [
+                516,
+                274,
+                548,
+                286
+              ]
+            },
+            {
+              "text": "results",
+              "bbox": [
+                551,
+                274,
+                580,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "text": "have provided pivotal insights into the mineral potential of various projects. The data highlights the comprehensive assessment",
+          "bbox": [
+            15,
+            289,
+            580,
+            301
+          ],
+          "words": [
+            {
+              "text": "have",
+              "bbox": [
+                15,
+                289,
+                36,
+                301
+              ]
+            },
+            {
+              "text": "provided",
+              "bbox": [
+                39,
+                289,
+                78,
+                301
+              ]
+            },
+            {
+              "text": "pivotal",
+              "bbox": [
+                81,
+                289,
+                112,
+                301
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                115,
+                289,
+                149,
+                301
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                152,
+                289,
+                169,
+                301
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                173,
+                289,
+                186,
+                301
+              ]
+            },
+            {
+              "text": "mineral",
+              "bbox": [
+                189,
+                289,
+                223,
+                301
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                226,
+                289,
+                264,
+                301
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                268,
+                289,
+                277,
+                301
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                280,
+                289,
+                312,
+                301
+              ]
+            },
+            {
+              "text": "projects.",
+              "bbox": [
+                315,
+                289,
+                353,
+                301
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                356,
+                289,
+                373,
+                301
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                376,
+                289,
+                394,
+                301
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                398,
+                289,
+                442,
+                301
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                445,
+                289,
+                458,
+                301
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                461,
+                289,
+                528,
+                301
+              ]
+            },
+            {
+              "text": "assessment",
+              "bbox": [
+                531,
+                289,
+                580,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "text": "of key commodities, including copper, gold, and silver, which are crucial for strategic decision-making. For instance, ProjectD's",
+          "bbox": [
+            15,
+            305,
+            580,
+            317
+          ],
+          "words": [
+            {
+              "text": "of",
+              "bbox": [
+                15,
+                305,
+                24,
+                317
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                27,
+                305,
+                43,
+                317
+              ]
+            },
+            {
+              "text": "commodities,",
+              "bbox": [
+                46,
+                305,
+                105,
+                317
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                108,
+                305,
+                150,
+                317
+              ]
+            },
+            {
+              "text": "copper,",
+              "bbox": [
+                153,
+                305,
+                185,
+                317
+              ]
+            },
+            {
+              "text": "gold,",
+              "bbox": [
+                188,
+                305,
+                210,
+                317
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                213,
+                305,
+                229,
+                317
+              ]
+            },
+            {
+              "text": "silver,",
+              "bbox": [
+                232,
+                305,
+                258,
+                317
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                261,
+                305,
+                288,
+                317
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                291,
+                305,
+                304,
+                317
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                307,
+                305,
+                337,
+                317
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                340,
+                305,
+                353,
+                317
+              ]
+            },
+            {
+              "text": "strategic",
+              "bbox": [
+                356,
+                305,
+                393,
+                317
+              ]
+            },
+            {
+              "text": "decision-making.",
+              "bbox": [
+                396,
+                305,
+                472,
+                317
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                475,
+                305,
+                490,
+                317
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                493,
+                305,
+                532,
+                317
+              ]
+            },
+            {
+              "text": "ProjectD's",
+              "bbox": [
+                535,
+                305,
+                580,
+                317
+              ]
+            }
+          ]
+        },
+        {
+          "text": "silver yield reached an impressive 2200, underscoring its viability. Additionally, the operational metrics reveal that ProjectB",
+          "bbox": [
+            15,
+            320,
+            580,
+            332
+          ],
+          "words": [
+            {
+              "text": "silver",
+              "bbox": [
+                15,
+                320,
+                39,
+                332
+              ]
+            },
+            {
+              "text": "yield",
+              "bbox": [
+                43,
+                320,
+                66,
+                332
+              ]
+            },
+            {
+              "text": "reached",
+              "bbox": [
+                70,
+                320,
+                104,
+                332
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                108,
+                320,
+                118,
+                332
+              ]
+            },
+            {
+              "text": "impressive",
+              "bbox": [
+                122,
+                320,
+                170,
+                332
+              ]
+            },
+            {
+              "text": "2200,",
+              "bbox": [
+                174,
+                320,
+                199,
+                332
+              ]
+            },
+            {
+              "text": "underscoring",
+              "bbox": [
+                203,
+                320,
+                260,
+                332
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                264,
+                320,
+                275,
+                332
+              ]
+            },
+            {
+              "text": "viability.",
+              "bbox": [
+                279,
+                320,
+                317,
+                332
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                321,
+                320,
+                379,
+                332
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                383,
+                320,
+                396,
+                332
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                400,
+                320,
+                450,
+                332
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                454,
+                320,
+                486,
+                332
+              ]
+            },
+            {
+              "text": "reveal",
+              "bbox": [
+                490,
+                320,
+                517,
+                332
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                521,
+                320,
+                537,
+                332
+              ]
+            },
+            {
+              "text": "ProjectB",
+              "bbox": [
+                542,
+                320,
+                580,
+                332
+              ]
+            }
+          ]
+        },
+        {
+          "text": "utilized 2024-02-20 drill rigs, enhancing the efficiency of exploration activities. The sensitivity of commodity prices plays a",
+          "bbox": [
+            15,
+            336,
+            580,
+            348
+          ],
+          "words": [
+            {
+              "text": "utilized",
+              "bbox": [
+                15,
+                336,
+                48,
+                348
+              ]
+            },
+            {
+              "text": "2024-02-20",
+              "bbox": [
+                52,
+                336,
+                103,
+                348
+              ]
+            },
+            {
+              "text": "drill",
+              "bbox": [
+                107,
+                336,
+                126,
+                348
+              ]
+            },
+            {
+              "text": "rigs,",
+              "bbox": [
+                129,
+                336,
+                149,
+                348
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                153,
+                336,
+                198,
+                348
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                202,
+                336,
+                215,
+                348
+              ]
+            },
+            {
+              "text": "efficiency",
+              "bbox": [
+                219,
+                336,
+                263,
+                348
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                267,
+                336,
+                276,
+                348
+              ]
+            },
+            {
+              "text": "exploration",
+              "bbox": [
+                280,
+                336,
+                330,
+                348
+              ]
+            },
+            {
+              "text": "activities.",
+              "bbox": [
+                334,
+                336,
+                377,
+                348
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                380,
+                336,
+                397,
+                348
+              ]
+            },
+            {
+              "text": "sensitivity",
+              "bbox": [
+                401,
+                336,
+                447,
+                348
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                451,
+                336,
+                460,
+                348
+              ]
+            },
+            {
+              "text": "commodity",
+              "bbox": [
+                464,
+                336,
+                514,
+                348
+              ]
+            },
+            {
+              "text": "prices",
+              "bbox": [
+                518,
+                336,
+                544,
+                348
+              ]
+            },
+            {
+              "text": "plays",
+              "bbox": [
+                548,
+                336,
+                571,
+                348
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                336,
+                580,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "text": "significant role in evaluating the profitability of these projects. The copper price remains a critical factor, influencing the overall",
+          "bbox": [
+            15,
+            351,
+            580,
+            363
+          ],
+          "words": [
+            {
+              "text": "significant",
+              "bbox": [
+                15,
+                351,
+                61,
+                363
+              ]
+            },
+            {
+              "text": "role",
+              "bbox": [
+                64,
+                351,
+                81,
+                363
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                84,
+                351,
+                93,
+                363
+              ]
+            },
+            {
+              "text": "evaluating",
+              "bbox": [
+                96,
+                351,
+                141,
+                363
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                144,
+                351,
+                158,
+                363
+              ]
+            },
+            {
+              "text": "profitability",
+              "bbox": [
+                160,
+                351,
+                213,
+                363
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                216,
+                351,
+                225,
+                363
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                228,
+                351,
+                250,
+                363
+              ]
+            },
+            {
+              "text": "projects.",
+              "bbox": [
+                253,
+                351,
+                291,
+                363
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                293,
+                351,
+                310,
+                363
+              ]
+            },
+            {
+              "text": "copper",
+              "bbox": [
+                313,
+                351,
+                343,
+                363
+              ]
+            },
+            {
+              "text": "price",
+              "bbox": [
+                346,
+                351,
+                368,
+                363
+              ]
+            },
+            {
+              "text": "remains",
+              "bbox": [
+                371,
+                351,
+                406,
+                363
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                408,
+                351,
+                413,
+                363
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                416,
+                351,
+                447,
+                363
+              ]
+            },
+            {
+              "text": "factor,",
+              "bbox": [
+                450,
+                351,
+                477,
+                363
+              ]
+            },
+            {
+              "text": "influencing",
+              "bbox": [
+                480,
+                351,
+                530,
+                363
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                533,
+                351,
+                547,
+                363
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                549,
+                351,
+                580,
+                363
+              ]
+            }
+          ]
+        },
+        {
+          "text": "financial health of the company, while the gold price is particularly pertinent for ProjectE, which has been identified as a focal",
+          "bbox": [
+            15,
+            366,
+            580,
+            378
+          ],
+          "words": [
+            {
+              "text": "financial",
+              "bbox": [
+                15,
+                366,
+                53,
+                378
+              ]
+            },
+            {
+              "text": "health",
+              "bbox": [
+                57,
+                366,
+                84,
+                378
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                87,
+                366,
+                96,
+                378
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                99,
+                366,
+                113,
+                378
+              ]
+            },
+            {
+              "text": "company,",
+              "bbox": [
+                116,
+                366,
+                158,
+                378
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                161,
+                366,
+                186,
+                378
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                189,
+                366,
+                202,
+                378
+              ]
+            },
+            {
+              "text": "gold",
+              "bbox": [
+                206,
+                366,
+                225,
+                378
+              ]
+            },
+            {
+              "text": "price",
+              "bbox": [
+                228,
+                366,
+                250,
+                378
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                254,
+                366,
+                261,
+                378
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                264,
+                366,
+                315,
+                378
+              ]
+            },
+            {
+              "text": "pertinent",
+              "bbox": [
+                318,
+                366,
+                357,
+                378
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                360,
+                366,
+                373,
+                378
+              ]
+            },
+            {
+              "text": "ProjectE,",
+              "bbox": [
+                376,
+                366,
+                417,
+                378
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                420,
+                366,
+                447,
+                378
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                450,
+                366,
+                465,
+                378
+              ]
+            },
+            {
+              "text": "been",
+              "bbox": [
+                468,
+                366,
+                489,
+                378
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                492,
+                366,
+                534,
+                378
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                538,
+                366,
+                547,
+                378
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                550,
+                366,
+                555,
+                378
+              ]
+            },
+            {
+              "text": "focal",
+              "bbox": [
+                558,
+                366,
+                580,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "text": "point of exploration with its unique attributes, including a notable gold grade of Diamond. Furthermore, the financial ratios",
+          "bbox": [
+            15,
+            382,
+            580,
+            394
+          ],
+          "words": [
+            {
+              "text": "point",
+              "bbox": [
+                15,
+                382,
+                38,
+                394
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                42,
+                382,
+                51,
+                394
+              ]
+            },
+            {
+              "text": "exploration",
+              "bbox": [
+                55,
+                382,
+                105,
+                394
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                109,
+                382,
+                129,
+                394
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                133,
+                382,
+                143,
+                394
+              ]
+            },
+            {
+              "text": "unique",
+              "bbox": [
+                147,
+                382,
+                177,
+                394
+              ]
+            },
+            {
+              "text": "attributes,",
+              "bbox": [
+                181,
+                382,
+                225,
+                394
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                229,
+                382,
+                271,
+                394
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                275,
+                382,
+                280,
+                394
+              ]
+            },
+            {
+              "text": "notable",
+              "bbox": [
+                284,
+                382,
+                316,
+                394
+              ]
+            },
+            {
+              "text": "gold",
+              "bbox": [
+                320,
+                382,
+                340,
+                394
+              ]
+            },
+            {
+              "text": "grade",
+              "bbox": [
+                344,
+                382,
+                368,
+                394
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                373,
+                382,
+                382,
+                394
+              ]
+            },
+            {
+              "text": "Diamond.",
+              "bbox": [
+                386,
+                382,
+                429,
+                394
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                434,
+                382,
+                491,
+                394
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                495,
+                382,
+                509,
+                394
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                513,
+                382,
+                551,
+                394
+              ]
+            },
+            {
+              "text": "ratios",
+              "bbox": [
+                556,
+                382,
+                580,
+                394
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reflect the company's stability; for instance, HKD62,500's debt/equity ratio was recorded at 0.9, and its silver price stood at",
+          "bbox": [
+            15,
+            397,
+            580,
+            409
+          ],
+          "words": [
+            {
+              "text": "reflect",
+              "bbox": [
+                15,
+                397,
+                43,
+                409
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                47,
+                397,
+                61,
+                409
+              ]
+            },
+            {
+              "text": "company's",
+              "bbox": [
+                65,
+                397,
+                111,
+                409
+              ]
+            },
+            {
+              "text": "stability;",
+              "bbox": [
+                115,
+                397,
+                154,
+                409
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                158,
+                397,
+                171,
+                409
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                175,
+                397,
+                213,
+                409
+              ]
+            },
+            {
+              "text": "HKD62,500's",
+              "bbox": [
+                217,
+                397,
+                278,
+                409
+              ]
+            },
+            {
+              "text": "debt/equity",
+              "bbox": [
+                282,
+                397,
+                331,
+                409
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                335,
+                397,
+                355,
+                409
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                359,
+                397,
+                376,
+                409
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                380,
+                397,
+                419,
+                409
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                423,
+                397,
+                431,
+                409
+              ]
+            },
+            {
+              "text": "0.9,",
+              "bbox": [
+                435,
+                397,
+                451,
+                409
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                455,
+                397,
+                471,
+                409
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                475,
+                397,
+                486,
+                409
+              ]
+            },
+            {
+              "text": "silver",
+              "bbox": [
+                490,
+                397,
+                514,
+                409
+              ]
+            },
+            {
+              "text": "price",
+              "bbox": [
+                518,
+                397,
+                540,
+                409
+              ]
+            },
+            {
+              "text": "stood",
+              "bbox": [
+                544,
+                397,
+                568,
+                409
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                572,
+                397,
+                580,
+                409
+              ]
+            }
+          ]
+        },
+        {
+          "text": "HKD21, while the P/E ratio was 13.0.",
+          "bbox": [
+            15,
+            413,
+            182,
+            425
+          ],
+          "words": [
+            {
+              "text": "HKD21,",
+              "bbox": [
+                15,
+                413,
+                53,
+                425
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                55,
+                413,
+                80,
+                425
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                83,
+                413,
+                96,
+                425
+              ]
+            },
+            {
+              "text": "P/E",
+              "bbox": [
+                99,
+                413,
+                115,
+                425
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                117,
+                413,
+                138,
+                425
+              ]
+            },
+            {
+              "text": "was",
+              "bbox": [
+                140,
+                413,
+                157,
+                425
+              ]
+            },
+            {
+              "text": "13.0.",
+              "bbox": [
+                160,
+                413,
+                182,
+                425
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_167525_t1",
+      "bbox": [
+        15,
+        448,
+        580,
+        717
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "Stamp",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            448,
+            580,
+            497
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            497,
+            580,
+            546
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            546,
+            580,
+            581
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            581,
+            580,
+            615
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            615,
+            580,
+            649
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            649,
+            580,
+            683
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            683,
+            580,
+            717
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\">CommodityPriceSensitivity</td><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td colspan=\"3\">MarketIndicators</td></tr><tr><td>CopperPrice</td><td>GoldPrice</td><td>SilverPrice</td><td>AluminumPrice</td><td>IronOrePrice</td><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td></tr></thead><tbody><tr><td>HKD60,000</td><td>HKD1,200</td><td>HKD22</td><td>HKD16,000</td><td>HKD500</td><td>12.3</td><td>1.5</td><td>0.8</td></tr><tr><td>HKD62,500</td><td>HKD1,220</td><td>HKD21</td><td>HKD15,500</td><td>HKD520</td><td>13.0</td><td>1.6</td><td>0.9</td></tr><tr><td>HKD61,000</td><td>HKD1,250</td><td>HKD19</td><td>HKD17,000</td><td>HKD510</td><td>11.8</td><td>1.7</td><td>0.7</td></tr><tr><td>HKD63,000</td><td>HKD1,300</td><td>HKD18</td><td>HKD16,500</td><td>HKD530</td><td>12.1</td><td>1.4</td><td>0.85</td></tr><tr><td>HKD64,000</td><td>HKD1,350</td><td>HKD20</td><td>HKD15,000</td><td>HKD540</td><td>12.5</td><td>1.3</td><td>0.75</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CommodityPriceSensitivity",
+          "bbox": [
+            16,
+            448,
+            222,
+            497
+          ],
+          "words": [
+            {
+              "text": "CommodityPriceSensitivity",
+              "bbox": [
+                21,
+                453,
+                138,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "P/ERatio",
+          "bbox": [
+            222,
+            448,
+            325,
+            497
+          ],
+          "words": [
+            {
+              "text": "P/ERatio",
+              "bbox": [
+                227,
+                453,
+                266,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "CurrentRatio",
+          "bbox": [
+            325,
+            448,
+            428,
+            497
+          ],
+          "words": [
+            {
+              "text": "CurrentRatio",
+              "bbox": [
+                365,
+                453,
+                423,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Debt/Equity",
+          "bbox": [
+            428,
+            448,
+            466,
+            497
+          ],
+          "words": [
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                434,
+                453,
+                458,
+                492
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6,
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketIndicators",
+          "bbox": [
+            466,
+            448,
+            580,
+            497
+          ],
+          "words": [
+            {
+              "text": "MarketIndicators",
+              "bbox": [
+                498,
+                453,
+                574,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "CopperPrice",
+          "bbox": [
+            16,
+            497,
+            119,
+            546
+          ],
+          "words": [
+            {
+              "text": "CopperPrice",
+              "bbox": [
+                21,
+                502,
+                75,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "GoldPrice",
+          "bbox": [
+            119,
+            497,
+            222,
+            546
+          ],
+          "words": [
+            {
+              "text": "GoldPrice",
+              "bbox": [
+                124,
+                502,
+                168,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "SilverPrice",
+          "bbox": [
+            222,
+            497,
+            325,
+            546
+          ],
+          "words": [
+            {
+              "text": "SilverPrice",
+              "bbox": [
+                227,
+                502,
+                275,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AluminumPrice",
+          "bbox": [
+            325,
+            497,
+            428,
+            546
+          ],
+          "words": [
+            {
+              "text": "AluminumPrice",
+              "bbox": [
+                354,
+                502,
+                423,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "IronOrePrice",
+          "bbox": [
+            428,
+            497,
+            466,
+            546
+          ],
+          "words": [
+            {
+              "text": "IronOrePrice",
+              "bbox": [
+                434,
+                502,
+                460,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "P/ERatio",
+          "bbox": [
+            466,
+            497,
+            504,
+            546
+          ],
+          "words": [
+            {
+              "text": "P/ERatio",
+              "bbox": [
+                476,
+                502,
+                498,
+                527
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "CurrentRatio",
+          "bbox": [
+            504,
+            497,
+            542,
+            546
+          ],
+          "words": [
+            {
+              "text": "CurrentRatio",
+              "bbox": [
+                510,
+                502,
+                536,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Debt/Equity",
+          "bbox": [
+            542,
+            497,
+            580,
+            546
+          ],
+          "words": [
+            {
+              "text": "Debt/Equity",
+              "bbox": [
+                550,
+                502,
+                574,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD60,000",
+          "bbox": [
+            16,
+            546,
+            119,
+            581
+          ],
+          "words": [
+            {
+              "text": "HKD60,000",
+              "bbox": [
+                21,
+                551,
+                70,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD1,200",
+          "bbox": [
+            119,
+            546,
+            222,
+            581
+          ],
+          "words": [
+            {
+              "text": "HKD1,200",
+              "bbox": [
+                124,
+                551,
+                168,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD22",
+          "bbox": [
+            222,
+            546,
+            325,
+            581
+          ],
+          "words": [
+            {
+              "text": "HKD22",
+              "bbox": [
+                227,
+                551,
+                259,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD16,000",
+          "bbox": [
+            325,
+            546,
+            428,
+            581
+          ],
+          "words": [
+            {
+              "text": "HKD16,000",
+              "bbox": [
+                374,
+                551,
+                423,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD500",
+          "bbox": [
+            428,
+            546,
+            466,
+            581
+          ],
+          "words": [
+            {
+              "text": "HKD500",
+              "bbox": [
+                433,
+                551,
+                460,
+                576
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "12.3",
+          "bbox": [
+            466,
+            546,
+            504,
+            581
+          ],
+          "words": [
+            {
+              "text": "12.3",
+              "bbox": [
+                481,
+                551,
+                499,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            504,
+            546,
+            542,
+            581
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                524,
+                551,
+                537,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.8",
+          "bbox": [
+            542,
+            546,
+            580,
+            581
+          ],
+          "words": [
+            {
+              "text": "0.8",
+              "bbox": [
+                562,
+                551,
+                575,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD62,500",
+          "bbox": [
+            16,
+            581,
+            119,
+            615
+          ],
+          "words": [
+            {
+              "text": "HKD62,500",
+              "bbox": [
+                21,
+                585,
+                70,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD1,220",
+          "bbox": [
+            119,
+            581,
+            222,
+            615
+          ],
+          "words": [
+            {
+              "text": "HKD1,220",
+              "bbox": [
+                124,
+                585,
+                168,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD21",
+          "bbox": [
+            222,
+            581,
+            325,
+            615
+          ],
+          "words": [
+            {
+              "text": "HKD21",
+              "bbox": [
+                227,
+                585,
+                259,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD15,500",
+          "bbox": [
+            325,
+            581,
+            428,
+            615
+          ],
+          "words": [
+            {
+              "text": "HKD15,500",
+              "bbox": [
+                374,
+                585,
+                423,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD520",
+          "bbox": [
+            428,
+            581,
+            466,
+            615
+          ],
+          "words": [
+            {
+              "text": "HKD520",
+              "bbox": [
+                433,
+                585,
+                460,
+                610
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "13.0",
+          "bbox": [
+            466,
+            581,
+            504,
+            615
+          ],
+          "words": [
+            {
+              "text": "13.0",
+              "bbox": [
+                481,
+                585,
+                499,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.6",
+          "bbox": [
+            504,
+            581,
+            542,
+            615
+          ],
+          "words": [
+            {
+              "text": "1.6",
+              "bbox": [
+                524,
+                585,
+                537,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.9",
+          "bbox": [
+            542,
+            581,
+            580,
+            615
+          ],
+          "words": [
+            {
+              "text": "0.9",
+              "bbox": [
+                562,
+                585,
+                575,
+                596
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD61,000",
+          "bbox": [
+            16,
+            615,
+            119,
+            649
+          ],
+          "words": [
+            {
+              "text": "HKD61,000",
+              "bbox": [
+                21,
+                619,
+                70,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD1,250",
+          "bbox": [
+            119,
+            615,
+            222,
+            649
+          ],
+          "words": [
+            {
+              "text": "HKD1,250",
+              "bbox": [
+                124,
+                619,
+                168,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD19",
+          "bbox": [
+            222,
+            615,
+            325,
+            649
+          ],
+          "words": [
+            {
+              "text": "HKD19",
+              "bbox": [
+                227,
+                619,
+                259,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD17,000",
+          "bbox": [
+            325,
+            615,
+            428,
+            649
+          ],
+          "words": [
+            {
+              "text": "HKD17,000",
+              "bbox": [
+                374,
+                619,
+                423,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD510",
+          "bbox": [
+            428,
+            615,
+            466,
+            649
+          ],
+          "words": [
+            {
+              "text": "HKD510",
+              "bbox": [
+                433,
+                619,
+                460,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "11.8",
+          "bbox": [
+            466,
+            615,
+            504,
+            649
+          ],
+          "words": [
+            {
+              "text": "11.8",
+              "bbox": [
+                482,
+                619,
+                499,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.7",
+          "bbox": [
+            504,
+            615,
+            542,
+            649
+          ],
+          "words": [
+            {
+              "text": "1.7",
+              "bbox": [
+                524,
+                619,
+                537,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.7",
+          "bbox": [
+            542,
+            615,
+            580,
+            649
+          ],
+          "words": [
+            {
+              "text": "0.7",
+              "bbox": [
+                562,
+                619,
+                575,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD63,000",
+          "bbox": [
+            16,
+            649,
+            119,
+            683
+          ],
+          "words": [
+            {
+              "text": "HKD63,000",
+              "bbox": [
+                21,
+                653,
+                70,
+                664
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD1,300",
+          "bbox": [
+            119,
+            649,
+            222,
+            683
+          ],
+          "words": [
+            {
+              "text": "HKD1,300",
+              "bbox": [
+                124,
+                653,
+                168,
+                664
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD18",
+          "bbox": [
+            222,
+            649,
+            325,
+            683
+          ],
+          "words": [
+            {
+              "text": "HKD18",
+              "bbox": [
+                227,
+                653,
+                259,
+                664
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD16,500",
+          "bbox": [
+            325,
+            649,
+            428,
+            683
+          ],
+          "words": [
+            {
+              "text": "HKD16,500",
+              "bbox": [
+                374,
+                653,
+                423,
+                664
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD530",
+          "bbox": [
+            428,
+            649,
+            466,
+            683
+          ],
+          "words": [
+            {
+              "text": "HKD530",
+              "bbox": [
+                433,
+                653,
+                460,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "12.1",
+          "bbox": [
+            466,
+            649,
+            504,
+            683
+          ],
+          "words": [
+            {
+              "text": "12.1",
+              "bbox": [
+                481,
+                653,
+                499,
+                664
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.4",
+          "bbox": [
+            504,
+            649,
+            542,
+            683
+          ],
+          "words": [
+            {
+              "text": "1.4",
+              "bbox": [
+                524,
+                653,
+                537,
+                664
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.85",
+          "bbox": [
+            542,
+            649,
+            580,
+            683
+          ],
+          "words": [
+            {
+              "text": "0.85",
+              "bbox": [
+                557,
+                653,
+                575,
+                664
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD64,000",
+          "bbox": [
+            16,
+            683,
+            119,
+            717
+          ],
+          "words": [
+            {
+              "text": "HKD64,000",
+              "bbox": [
+                21,
+                687,
+                70,
+                698
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD1,350",
+          "bbox": [
+            119,
+            683,
+            222,
+            717
+          ],
+          "words": [
+            {
+              "text": "HKD1,350",
+              "bbox": [
+                124,
+                687,
+                168,
+                698
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD20",
+          "bbox": [
+            222,
+            683,
+            325,
+            717
+          ],
+          "words": [
+            {
+              "text": "HKD20",
+              "bbox": [
+                227,
+                687,
+                259,
+                698
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD15,000",
+          "bbox": [
+            325,
+            683,
+            428,
+            717
+          ],
+          "words": [
+            {
+              "text": "HKD15,000",
+              "bbox": [
+                374,
+                687,
+                423,
+                698
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "HKD540",
+          "bbox": [
+            428,
+            683,
+            466,
+            717
+          ],
+          "words": [
+            {
+              "text": "HKD540",
+              "bbox": [
+                433,
+                687,
+                460,
+                712
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5",
+          "bbox": [
+            466,
+            683,
+            504,
+            717
+          ],
+          "words": [
+            {
+              "text": "12.5",
+              "bbox": [
+                481,
+                687,
+                499,
+                698
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1.3",
+          "bbox": [
+            504,
+            683,
+            542,
+            717
+          ],
+          "words": [
+            {
+              "text": "1.3",
+              "bbox": [
+                524,
+                687,
+                537,
+                698
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "0.75",
+          "bbox": [
+            542,
+            683,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "0.75",
+              "bbox": [
+                557,
+                687,
+                575,
+                698
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        732,
+        580,
+        763
+      ],
+      "content": "In comparison, HKD63,000 exhibited a current ratio of 1.4, reinforcing the solid financial foundation necessary for sustained growth in the competitive mining landscape.",
+      "lines": [
+        {
+          "text": "In comparison, HKD63,000 exhibited a current ratio of 1.4, reinforcing the solid financial foundation necessary for sustained",
+          "bbox": [
+            15,
+            733,
+            580,
+            745
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                733,
+                24,
+                745
+              ]
+            },
+            {
+              "text": "comparison,",
+              "bbox": [
+                28,
+                733,
+                82,
+                745
+              ]
+            },
+            {
+              "text": "HKD63,000",
+              "bbox": [
+                86,
+                733,
+                140,
+                745
+              ]
+            },
+            {
+              "text": "exhibited",
+              "bbox": [
+                143,
+                733,
+                184,
+                745
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                188,
+                733,
+                193,
+                745
+              ]
+            },
+            {
+              "text": "current",
+              "bbox": [
+                196,
+                733,
+                228,
+                745
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                231,
+                733,
+                251,
+                745
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                255,
+                733,
+                264,
+                745
+              ]
+            },
+            {
+              "text": "1.4,",
+              "bbox": [
+                268,
+                733,
+                284,
+                745
+              ]
+            },
+            {
+              "text": "reinforcing",
+              "bbox": [
+                288,
+                733,
+                337,
+                745
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                341,
+                733,
+                354,
+                745
+              ]
+            },
+            {
+              "text": "solid",
+              "bbox": [
+                358,
+                733,
+                379,
+                745
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                383,
+                733,
+                421,
+                745
+              ]
+            },
+            {
+              "text": "foundation",
+              "bbox": [
+                425,
+                733,
+                473,
+                745
+              ]
+            },
+            {
+              "text": "necessary",
+              "bbox": [
+                476,
+                733,
+                519,
+                745
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                523,
+                733,
+                535,
+                745
+              ]
+            },
+            {
+              "text": "sustained",
+              "bbox": [
+                539,
+                733,
+                580,
+                745
+              ]
+            }
+          ]
+        },
+        {
+          "text": "growth in the competitive mining landscape.",
+          "bbox": [
+            15,
+            748,
+            211,
+            760
+          ],
+          "words": [
+            {
+              "text": "growth",
+              "bbox": [
+                15,
+                748,
+                46,
+                760
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                49,
+                748,
+                57,
+                760
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                60,
+                748,
+                74,
+                760
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                76,
+                748,
+                128,
+                760
+              ]
+            },
+            {
+              "text": "mining",
+              "bbox": [
+                131,
+                748,
+                162,
+                760
+              ]
+            },
+            {
+              "text": "landscape.",
+              "bbox": [
+                165,
+                748,
+                211,
+                760
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "degradation": {
+    "type": "Stamp",
+    "affected_cells": [
+      {
+        "table_id": "img_167525_t0",
+        "cell_indices": [
+          27,
+          42,
+          37,
+          43
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 27,
+            "text": "2024-02-20",
+            "header": "DrillRigsUsed",
+            "row_label": "ProjectB",
+            "bbox": [
+              508,
+              174,
+              580,
+              195
+            ]
+          },
+          {
+            "cell_idx": 42,
+            "text": "ProjectE",
+            "header": "Copper",
+            "row_label": "ProjectE",
+            "bbox": [
+              16,
+              237,
+              152,
+              258
+            ]
+          },
+          {
+            "cell_idx": 37,
+            "text": "2200",
+            "header": "Silver",
+            "row_label": "ProjectD",
+            "bbox": [
+              223,
+              216,
+              294,
+              237
+            ]
+          },
+          {
+            "cell_idx": 43,
+            "text": "Diamond",
+            "header": "Gold",
+            "row_label": "ProjectE",
+            "bbox": [
+              152,
+              237,
+              223,
+              258
+            ]
+          }
+        ]
+      },
+      {
+        "table_id": "img_167525_t1",
+        "cell_indices": [
+          28,
+          23,
+          26,
+          43
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 28,
+            "text": "0.9",
+            "header": "Debt/Equity",
+            "row_label": "HKD62,500",
+            "bbox": [
+              542,
+              581,
+              580,
+              615
+            ]
+          },
+          {
+            "cell_idx": 23,
+            "text": "HKD21",
+            "header": "SilverPrice",
+            "row_label": "HKD62,500",
+            "bbox": [
+              222,
+              581,
+              325,
+              615
+            ]
+          },
+          {
+            "cell_idx": 26,
+            "text": "13.0",
+            "header": "P/ERatio",
+            "row_label": "HKD62,500",
+            "bbox": [
+              466,
+              581,
+              504,
+              615
+            ]
+          },
+          {
+            "cell_idx": 43,
+            "text": "1.4",
+            "header": "CurrentRatio",
+            "row_label": "HKD63,000",
+            "bbox": [
+              504,
+              649,
+              542,
+              683
+            ]
+          }
+        ]
+      }
+    ],
+    "released_cells": [
+      {
+        "table_idx": 0,
+        "cell_idx": 41,
+        "text": "2024-04-05",
+        "header": "DrillRigsUsed",
+        "row_label": "ProjectD"
+      },
+      {
+        "table_idx": 0,
+        "cell_idx": 48,
+        "text": "2024-05-12",
+        "header": "DrillRigsUsed",
+        "row_label": "ProjectE"
+      }
+    ]
+  }
+}

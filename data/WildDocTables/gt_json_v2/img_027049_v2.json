@@ -1,0 +1,3631 @@
+{
+  "image_id": "img_027049",
+  "subset": "S1",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        50,
+        580,
+        65
+      ],
+      "content": "The table presents a comparative analysis of various models across specific criteria.",
+      "lines": [
+        {
+          "text": "The table presents a comparative analysis of various models across specific criteria.",
+          "bbox": [
+            15,
+            51,
+            383,
+            63
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                51,
+                32,
+                63
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                35,
+                51,
+                56,
+                63
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                59,
+                51,
+                95,
+                63
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                98,
+                51,
+                103,
+                63
+              ]
+            },
+            {
+              "text": "comparative",
+              "bbox": [
+                105,
+                51,
+                160,
+                63
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                163,
+                51,
+                198,
+                63
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                201,
+                51,
+                210,
+                63
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                213,
+                51,
+                245,
+                63
+              ]
+            },
+            {
+              "text": "models",
+              "bbox": [
+                248,
+                51,
+                280,
+                63
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                282,
+                51,
+                310,
+                63
+              ]
+            },
+            {
+              "text": "specific",
+              "bbox": [
+                313,
+                51,
+                347,
+                63
+              ]
+            },
+            {
+              "text": "criteria.",
+              "bbox": [
+                349,
+                51,
+                383,
+                63
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_027049_t0",
+      "bbox": [
+        15,
+        80,
+        580,
+        300
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            80,
+            580,
+            100
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            100,
+            580,
+            120
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            120,
+            580,
+            140
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            140,
+            580,
+            160
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            160,
+            580,
+            180
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            180,
+            580,
+            200
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            200,
+            580,
+            220
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            220,
+            580,
+            240
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            15,
+            240,
+            580,
+            260
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 9,
+          "bbox": [
+            15,
+            260,
+            580,
+            280
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 10,
+          "bbox": [
+            15,
+            280,
+            580,
+            300
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td></td><td>Comparison criteria</td><td colspan=\"4\">Modela,b</td></tr><tr><td></td><td></td><td>SMM</td><td>RMM1</td><td>RMM2</td><td>RMM3</td></tr><tr><td>GL</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Mean squared error</td><td>18.717</td><td>18.717</td><td>18.716</td><td>18.715</td></tr><tr><td></td><td>Pearson&#x27;s correlation</td><td>0.465</td><td>0.465</td><td>0.465</td><td>0.465</td></tr><tr><td>CD</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Mean squared error</td><td>0.788</td><td>0.791</td><td>0.791</td><td>0.791</td></tr><tr><td></td><td>Pearson&#x27;s correlation</td><td>0.487</td><td>0.485</td><td>0.486</td><td>0.486</td></tr><tr><td>SB</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Mean squared error</td><td>0.108</td><td>0.109</td><td>0.109</td><td>0.109</td></tr><tr><td></td><td>Pearson&#x27;s correlation</td><td>0.246</td><td>0.243</td><td>0.244</td><td>0.243</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            80,
+            63,
+            100
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Comparison criteria",
+          "bbox": [
+            63,
+            80,
+            256,
+            100
+          ],
+          "words": [
+            {
+              "text": "Comparison",
+              "bbox": [
+                69,
+                84,
+                121,
+                95
+              ]
+            },
+            {
+              "text": "criteria",
+              "bbox": [
+                124,
+                84,
+                156,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Modela,b",
+          "bbox": [
+            256,
+            80,
+            580,
+            100
+          ],
+          "words": [
+            {
+              "text": "Modela,b",
+              "bbox": [
+                262,
+                84,
+                302,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            100,
+            63,
+            120
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            63,
+            100,
+            256,
+            120
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "SMM",
+          "bbox": [
+            256,
+            100,
+            332,
+            120
+          ],
+          "words": [
+            {
+              "text": "SMM",
+              "bbox": [
+                262,
+                104,
+                286,
+                115
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "RMM1",
+          "bbox": [
+            332,
+            100,
+            415,
+            120
+          ],
+          "words": [
+            {
+              "text": "RMM1",
+              "bbox": [
+                378,
+                104,
+                409,
+                115
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "RMM2",
+          "bbox": [
+            415,
+            100,
+            498,
+            120
+          ],
+          "words": [
+            {
+              "text": "RMM2",
+              "bbox": [
+                461,
+                104,
+                492,
+                115
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "RMM3",
+          "bbox": [
+            498,
+            100,
+            580,
+            120
+          ],
+          "words": [
+            {
+              "text": "RMM3",
+              "bbox": [
+                544,
+                104,
+                575,
+                115
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "GL",
+          "bbox": [
+            15,
+            120,
+            63,
+            140
+          ],
+          "words": [
+            {
+              "text": "GL",
+              "bbox": [
+                20,
+                124,
+                33,
+                135
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            63,
+            120,
+            256,
+            140
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            256,
+            120,
+            332,
+            140
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            332,
+            120,
+            415,
+            140
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            415,
+            120,
+            498,
+            140
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            498,
+            120,
+            580,
+            140
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            140,
+            63,
+            160
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Mean squared error",
+          "bbox": [
+            63,
+            140,
+            256,
+            160
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                69,
+                144,
+                91,
+                155
+              ]
+            },
+            {
+              "text": "squared",
+              "bbox": [
+                94,
+                144,
+                125,
+                155
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                127,
+                144,
+                147,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "18.717",
+          "bbox": [
+            256,
+            140,
+            332,
+            160
+          ],
+          "words": [
+            {
+              "text": "18.717",
+              "bbox": [
+                262,
+                144,
+                289,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "18.717",
+          "bbox": [
+            332,
+            140,
+            415,
+            160
+          ],
+          "words": [
+            {
+              "text": "18.717",
+              "bbox": [
+                382,
+                144,
+                409,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "18.716",
+          "bbox": [
+            415,
+            140,
+            498,
+            160
+          ],
+          "words": [
+            {
+              "text": "18.716",
+              "bbox": [
+                465,
+                144,
+                492,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "18.715",
+          "bbox": [
+            498,
+            140,
+            580,
+            160
+          ],
+          "words": [
+            {
+              "text": "18.715",
+              "bbox": [
+                548,
+                144,
+                575,
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            160,
+            63,
+            180
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Pearson's correlation",
+          "bbox": [
+            63,
+            160,
+            256,
+            180
+          ],
+          "words": [
+            {
+              "text": "Pearson's",
+              "bbox": [
+                69,
+                164,
+                106,
+                175
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                108,
+                164,
+                152,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.465",
+          "bbox": [
+            256,
+            160,
+            332,
+            180
+          ],
+          "words": [
+            {
+              "text": "0.465",
+              "bbox": [
+                262,
+                164,
+                284,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.465",
+          "bbox": [
+            332,
+            160,
+            415,
+            180
+          ],
+          "words": [
+            {
+              "text": "0.465",
+              "bbox": [
+                387,
+                164,
+                409,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.465",
+          "bbox": [
+            415,
+            160,
+            498,
+            180
+          ],
+          "words": [
+            {
+              "text": "0.465",
+              "bbox": [
+                470,
+                164,
+                492,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.465",
+          "bbox": [
+            498,
+            160,
+            580,
+            180
+          ],
+          "words": [
+            {
+              "text": "0.465",
+              "bbox": [
+                553,
+                164,
+                575,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CD",
+          "bbox": [
+            15,
+            180,
+            63,
+            200
+          ],
+          "words": [
+            {
+              "text": "CD",
+              "bbox": [
+                20,
+                184,
+                34,
+                195
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            63,
+            180,
+            256,
+            200
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            256,
+            180,
+            332,
+            200
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            332,
+            180,
+            415,
+            200
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            415,
+            180,
+            498,
+            200
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            498,
+            180,
+            580,
+            200
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            200,
+            63,
+            220
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Mean squared error",
+          "bbox": [
+            63,
+            200,
+            256,
+            220
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                69,
+                204,
+                91,
+                215
+              ]
+            },
+            {
+              "text": "squared",
+              "bbox": [
+                94,
+                204,
+                125,
+                215
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                127,
+                204,
+                147,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.788",
+          "bbox": [
+            256,
+            200,
+            332,
+            220
+          ],
+          "words": [
+            {
+              "text": "0.788",
+              "bbox": [
+                262,
+                204,
+                284,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.791",
+          "bbox": [
+            332,
+            200,
+            415,
+            220
+          ],
+          "words": [
+            {
+              "text": "0.791",
+              "bbox": [
+                387,
+                204,
+                409,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.791",
+          "bbox": [
+            415,
+            200,
+            498,
+            220
+          ],
+          "words": [
+            {
+              "text": "0.791",
+              "bbox": [
+                470,
+                204,
+                492,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.791",
+          "bbox": [
+            498,
+            200,
+            580,
+            220
+          ],
+          "words": [
+            {
+              "text": "0.791",
+              "bbox": [
+                553,
+                204,
+                575,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            220,
+            63,
+            240
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Pearson's correlation",
+          "bbox": [
+            63,
+            220,
+            256,
+            240
+          ],
+          "words": [
+            {
+              "text": "Pearson's",
+              "bbox": [
+                69,
+                224,
+                106,
+                235
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                108,
+                224,
+                152,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.487",
+          "bbox": [
+            256,
+            220,
+            332,
+            240
+          ],
+          "words": [
+            {
+              "text": "0.487",
+              "bbox": [
+                262,
+                224,
+                284,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.485",
+          "bbox": [
+            332,
+            220,
+            415,
+            240
+          ],
+          "words": [
+            {
+              "text": "0.485",
+              "bbox": [
+                387,
+                224,
+                409,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.486",
+          "bbox": [
+            415,
+            220,
+            498,
+            240
+          ],
+          "words": [
+            {
+              "text": "0.486",
+              "bbox": [
+                470,
+                224,
+                492,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.486",
+          "bbox": [
+            498,
+            220,
+            580,
+            240
+          ],
+          "words": [
+            {
+              "text": "0.486",
+              "bbox": [
+                553,
+                224,
+                575,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SB",
+          "bbox": [
+            15,
+            240,
+            63,
+            260
+          ],
+          "words": [
+            {
+              "text": "SB",
+              "bbox": [
+                20,
+                244,
+                32,
+                255
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            63,
+            240,
+            256,
+            260
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            256,
+            240,
+            332,
+            260
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            332,
+            240,
+            415,
+            260
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            415,
+            240,
+            498,
+            260
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            498,
+            240,
+            580,
+            260
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            260,
+            63,
+            280
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Mean squared error",
+          "bbox": [
+            63,
+            260,
+            256,
+            280
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                69,
+                264,
+                91,
+                275
+              ]
+            },
+            {
+              "text": "squared",
+              "bbox": [
+                94,
+                264,
+                125,
+                275
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                127,
+                264,
+                147,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.108",
+          "bbox": [
+            256,
+            260,
+            332,
+            280
+          ],
+          "words": [
+            {
+              "text": "0.108",
+              "bbox": [
+                262,
+                264,
+                284,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.109",
+          "bbox": [
+            332,
+            260,
+            415,
+            280
+          ],
+          "words": [
+            {
+              "text": "0.109",
+              "bbox": [
+                387,
+                264,
+                409,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.109",
+          "bbox": [
+            415,
+            260,
+            498,
+            280
+          ],
+          "words": [
+            {
+              "text": "0.109",
+              "bbox": [
+                470,
+                264,
+                492,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            9
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.109",
+          "bbox": [
+            498,
+            260,
+            580,
+            280
+          ],
+          "words": [
+            {
+              "text": "0.109",
+              "bbox": [
+                553,
+                264,
+                575,
+                275
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            280,
+            63,
+            300
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Pearson's correlation",
+          "bbox": [
+            63,
+            280,
+            256,
+            300
+          ],
+          "words": [
+            {
+              "text": "Pearson's",
+              "bbox": [
+                69,
+                284,
+                106,
+                295
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                108,
+                284,
+                152,
+                295
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.246",
+          "bbox": [
+            256,
+            280,
+            332,
+            300
+          ],
+          "words": [
+            {
+              "text": "0.246",
+              "bbox": [
+                262,
+                284,
+                284,
+                295
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.243",
+          "bbox": [
+            332,
+            280,
+            415,
+            300
+          ],
+          "words": [
+            {
+              "text": "0.243",
+              "bbox": [
+                387,
+                284,
+                409,
+                295
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.244",
+          "bbox": [
+            415,
+            280,
+            498,
+            300
+          ],
+          "words": [
+            {
+              "text": "0.244",
+              "bbox": [
+                470,
+                284,
+                492,
+                295
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            10
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.243",
+          "bbox": [
+            498,
+            280,
+            580,
+            300
+          ],
+          "words": [
+            {
+              "text": "0.243",
+              "bbox": [
+                553,
+                284,
+                575,
+                295
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        315,
+        580,
+        469
+      ],
+      "content": "Under the \"Comparison criteria\" header, three distinct categories are analyzed: GL, CD, and SB. For the GL category, the mean squared error values are recorded as 18.717 for SMM, 18.717 for RMM1, 18.716 for RMM2, and 18.715 for RMM3, while Pearson's correlation values are consistent at 0.465 across all models. In the CD category, the mean squared error values are 0.788 for SMM, 0.791 for RMM1, 0.791 for RMM2, and 0.791 for RMM3, with Pearson's correlation values measuring 0.487 for SMM, 0.485 for RMM1, 0.486 for RMM2, and 0.486 for RMM3, indicating slight variation among the models. The SB category shows mean squared error values of 0.108 for SMM, 0.109 for RMM1, 0.109 for RMM2, and 0.109 for RMM3, while Pearson's correlation values are recorded as 0.246 for SMM, 0.243 for RMM1, 0.244 for RMM2, and 0.243 for RMM3. Overall, the data reveals varied performance across the models, with GL showing the highest mean squared error and Pearson's correlation values, whereas SB presents the lowest mean squared error, highlighting the differing efficacy of each model in the specified comparison criteria.",
+      "lines": [
+        {
+          "text": "Under the \"Comparison criteria\" header, three distinct categories are analyzed: GL, CD, and SB. For the GL category, the mean",
+          "bbox": [
+            15,
+            316,
+            580,
+            328
+          ],
+          "words": [
+            {
+              "text": "Under",
+              "bbox": [
+                15,
+                316,
+                43,
+                328
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                45,
+                316,
+                59,
+                328
+              ]
+            },
+            {
+              "text": "\"Comparison",
+              "bbox": [
+                62,
+                316,
+                120,
+                328
+              ]
+            },
+            {
+              "text": "criteria\"",
+              "bbox": [
+                123,
+                316,
+                159,
+                328
+              ]
+            },
+            {
+              "text": "header,",
+              "bbox": [
+                162,
+                316,
+                193,
+                328
+              ]
+            },
+            {
+              "text": "three",
+              "bbox": [
+                196,
+                316,
+                218,
+                328
+              ]
+            },
+            {
+              "text": "distinct",
+              "bbox": [
+                221,
+                316,
+                254,
+                328
+              ]
+            },
+            {
+              "text": "categories",
+              "bbox": [
+                257,
+                316,
+                301,
+                328
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                304,
+                316,
+                318,
+                328
+              ]
+            },
+            {
+              "text": "analyzed:",
+              "bbox": [
+                321,
+                316,
+                363,
+                328
+              ]
+            },
+            {
+              "text": "GL,",
+              "bbox": [
+                366,
+                316,
+                383,
+                328
+              ]
+            },
+            {
+              "text": "CD,",
+              "bbox": [
+                386,
+                316,
+                404,
+                328
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                407,
+                316,
+                423,
+                328
+              ]
+            },
+            {
+              "text": "SB.",
+              "bbox": [
+                426,
+                316,
+                442,
+                328
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                445,
+                316,
+                460,
+                328
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                463,
+                316,
+                477,
+                328
+              ]
+            },
+            {
+              "text": "GL",
+              "bbox": [
+                480,
+                316,
+                494,
+                328
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                497,
+                316,
+                537,
+                328
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                540,
+                316,
+                553,
+                328
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                556,
+                316,
+                580,
+                328
+              ]
+            }
+          ]
+        },
+        {
+          "text": "squared error values are recorded as 18.717 for SMM, 18.717 for RMM1, 18.716 for RMM2, and 18.715 for RMM3, while",
+          "bbox": [
+            15,
+            332,
+            580,
+            344
+          ],
+          "words": [
+            {
+              "text": "squared",
+              "bbox": [
+                15,
+                332,
+                49,
+                344
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                53,
+                332,
+                74,
+                344
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                78,
+                332,
+                106,
+                344
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                110,
+                332,
+                124,
+                344
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                128,
+                332,
+                166,
+                344
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                170,
+                332,
+                179,
+                344
+              ]
+            },
+            {
+              "text": "18.717",
+              "bbox": [
+                183,
+                332,
+                213,
+                344
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                217,
+                332,
+                230,
+                344
+              ]
+            },
+            {
+              "text": "SMM,",
+              "bbox": [
+                234,
+                332,
+                262,
+                344
+              ]
+            },
+            {
+              "text": "18.717",
+              "bbox": [
+                266,
+                332,
+                296,
+                344
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                300,
+                332,
+                313,
+                344
+              ]
+            },
+            {
+              "text": "RMM1,",
+              "bbox": [
+                317,
+                332,
+                352,
+                344
+              ]
+            },
+            {
+              "text": "18.716",
+              "bbox": [
+                356,
+                332,
+                386,
+                344
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                390,
+                332,
+                403,
+                344
+              ]
+            },
+            {
+              "text": "RMM2,",
+              "bbox": [
+                407,
+                332,
+                442,
+                344
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                446,
+                332,
+                462,
+                344
+              ]
+            },
+            {
+              "text": "18.715",
+              "bbox": [
+                466,
+                332,
+                496,
+                344
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                500,
+                332,
+                513,
+                344
+              ]
+            },
+            {
+              "text": "RMM3,",
+              "bbox": [
+                517,
+                332,
+                552,
+                344
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                556,
+                332,
+                580,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pearson's correlation values are consistent at 0.465 across all models. In the CD category, the mean squared error values are",
+          "bbox": [
+            15,
+            347,
+            580,
+            359
+          ],
+          "words": [
+            {
+              "text": "Pearson's",
+              "bbox": [
+                15,
+                347,
+                56,
+                359
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                60,
+                347,
+                108,
+                359
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                111,
+                347,
+                140,
+                359
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                143,
+                347,
+                157,
+                359
+              ]
+            },
+            {
+              "text": "consistent",
+              "bbox": [
+                161,
+                347,
+                205,
+                359
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                208,
+                347,
+                216,
+                359
+              ]
+            },
+            {
+              "text": "0.465",
+              "bbox": [
+                220,
+                347,
+                245,
+                359
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                249,
+                347,
+                276,
+                359
+              ]
+            },
+            {
+              "text": "all",
+              "bbox": [
+                280,
+                347,
+                291,
+                359
+              ]
+            },
+            {
+              "text": "models.",
+              "bbox": [
+                295,
+                347,
+                329,
+                359
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                333,
+                347,
+                342,
+                359
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                346,
+                347,
+                360,
+                359
+              ]
+            },
+            {
+              "text": "CD",
+              "bbox": [
+                364,
+                347,
+                379,
+                359
+              ]
+            },
+            {
+              "text": "category,",
+              "bbox": [
+                383,
+                347,
+                423,
+                359
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                426,
+                347,
+                440,
+                359
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                444,
+                347,
+                468,
+                359
+              ]
+            },
+            {
+              "text": "squared",
+              "bbox": [
+                471,
+                347,
+                506,
+                359
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                509,
+                347,
+                531,
+                359
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                535,
+                347,
+                563,
+                359
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                567,
+                347,
+                580,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "text": "0.788 for SMM, 0.791 for RMM1, 0.791 for RMM2, and 0.791 for RMM3, with Pearson's correlation values measuring 0.487",
+          "bbox": [
+            15,
+            363,
+            580,
+            375
+          ],
+          "words": [
+            {
+              "text": "0.788",
+              "bbox": [
+                15,
+                363,
+                40,
+                375
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                43,
+                363,
+                56,
+                375
+              ]
+            },
+            {
+              "text": "SMM,",
+              "bbox": [
+                59,
+                363,
+                87,
+                375
+              ]
+            },
+            {
+              "text": "0.791",
+              "bbox": [
+                91,
+                363,
+                115,
+                375
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                119,
+                363,
+                131,
+                375
+              ]
+            },
+            {
+              "text": "RMM1,",
+              "bbox": [
+                135,
+                363,
+                170,
+                375
+              ]
+            },
+            {
+              "text": "0.791",
+              "bbox": [
+                173,
+                363,
+                198,
+                375
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                201,
+                363,
+                214,
+                375
+              ]
+            },
+            {
+              "text": "RMM2,",
+              "bbox": [
+                217,
+                363,
+                252,
+                375
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                255,
+                363,
+                271,
+                375
+              ]
+            },
+            {
+              "text": "0.791",
+              "bbox": [
+                275,
+                363,
+                299,
+                375
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                303,
+                363,
+                315,
+                375
+              ]
+            },
+            {
+              "text": "RMM3,",
+              "bbox": [
+                319,
+                363,
+                354,
+                375
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                357,
+                363,
+                376,
+                375
+              ]
+            },
+            {
+              "text": "Pearson's",
+              "bbox": [
+                380,
+                363,
+                421,
+                375
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                424,
+                363,
+                472,
+                375
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                475,
+                363,
+                503,
+                375
+              ]
+            },
+            {
+              "text": "measuring",
+              "bbox": [
+                506,
+                363,
+                552,
+                375
+              ]
+            },
+            {
+              "text": "0.487",
+              "bbox": [
+                555,
+                363,
+                580,
+                375
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for SMM, 0.485 for RMM1, 0.486 for RMM2, and 0.486 for RMM3, indicating slight variation among the models. The SB",
+          "bbox": [
+            15,
+            378,
+            580,
+            390
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                15,
+                378,
+                28,
+                390
+              ]
+            },
+            {
+              "text": "SMM,",
+              "bbox": [
+                32,
+                378,
+                60,
+                390
+              ]
+            },
+            {
+              "text": "0.485",
+              "bbox": [
+                64,
+                378,
+                89,
+                390
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                93,
+                378,
+                106,
+                390
+              ]
+            },
+            {
+              "text": "RMM1,",
+              "bbox": [
+                109,
+                378,
+                145,
+                390
+              ]
+            },
+            {
+              "text": "0.486",
+              "bbox": [
+                148,
+                378,
+                173,
+                390
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                177,
+                378,
+                190,
+                390
+              ]
+            },
+            {
+              "text": "RMM2,",
+              "bbox": [
+                194,
+                378,
+                229,
+                390
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                233,
+                378,
+                249,
+                390
+              ]
+            },
+            {
+              "text": "0.486",
+              "bbox": [
+                253,
+                378,
+                277,
+                390
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                281,
+                378,
+                294,
+                390
+              ]
+            },
+            {
+              "text": "RMM3,",
+              "bbox": [
+                298,
+                378,
+                333,
+                390
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                337,
+                378,
+                381,
+                390
+              ]
+            },
+            {
+              "text": "slight",
+              "bbox": [
+                385,
+                378,
+                409,
+                390
+              ]
+            },
+            {
+              "text": "variation",
+              "bbox": [
+                413,
+                378,
+                452,
+                390
+              ]
+            },
+            {
+              "text": "among",
+              "bbox": [
+                456,
+                378,
+                486,
+                390
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                490,
+                378,
+                503,
+                390
+              ]
+            },
+            {
+              "text": "models.",
+              "bbox": [
+                507,
+                378,
+                542,
+                390
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                546,
+                378,
+                563,
+                390
+              ]
+            },
+            {
+              "text": "SB",
+              "bbox": [
+                567,
+                378,
+                580,
+                390
+              ]
+            }
+          ]
+        },
+        {
+          "text": "category shows mean squared error values of 0.108 for SMM, 0.109 for RMM1, 0.109 for RMM2, and 0.109 for RMM3, while",
+          "bbox": [
+            15,
+            393,
+            580,
+            405
+          ],
+          "words": [
+            {
+              "text": "category",
+              "bbox": [
+                15,
+                393,
+                53,
+                405
+              ]
+            },
+            {
+              "text": "shows",
+              "bbox": [
+                56,
+                393,
+                83,
+                405
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                86,
+                393,
+                110,
+                405
+              ]
+            },
+            {
+              "text": "squared",
+              "bbox": [
+                113,
+                393,
+                147,
+                405
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                150,
+                393,
+                171,
+                405
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                174,
+                393,
+                203,
+                405
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                205,
+                393,
+                215,
+                405
+              ]
+            },
+            {
+              "text": "0.108",
+              "bbox": [
+                217,
+                393,
+                242,
+                405
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                245,
+                393,
+                258,
+                405
+              ]
+            },
+            {
+              "text": "SMM,",
+              "bbox": [
+                261,
+                393,
+                289,
+                405
+              ]
+            },
+            {
+              "text": "0.109",
+              "bbox": [
+                292,
+                393,
+                317,
+                405
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                320,
+                393,
+                333,
+                405
+              ]
+            },
+            {
+              "text": "RMM1,",
+              "bbox": [
+                336,
+                393,
+                371,
+                405
+              ]
+            },
+            {
+              "text": "0.109",
+              "bbox": [
+                374,
+                393,
+                399,
+                405
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                401,
+                393,
+                414,
+                405
+              ]
+            },
+            {
+              "text": "RMM2,",
+              "bbox": [
+                417,
+                393,
+                452,
+                405
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                455,
+                393,
+                471,
+                405
+              ]
+            },
+            {
+              "text": "0.109",
+              "bbox": [
+                474,
+                393,
+                499,
+                405
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                502,
+                393,
+                515,
+                405
+              ]
+            },
+            {
+              "text": "RMM3,",
+              "bbox": [
+                517,
+                393,
+                553,
+                405
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                556,
+                393,
+                580,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pearson's correlation values are recorded as 0.246 for SMM, 0.243 for RMM1, 0.244 for RMM2, and 0.243 for RMM3.",
+          "bbox": [
+            15,
+            409,
+            580,
+            421
+          ],
+          "words": [
+            {
+              "text": "Pearson's",
+              "bbox": [
+                15,
+                409,
+                56,
+                421
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                61,
+                409,
+                109,
+                421
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                113,
+                409,
+                142,
+                421
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                146,
+                409,
+                160,
+                421
+              ]
+            },
+            {
+              "text": "recorded",
+              "bbox": [
+                165,
+                409,
+                203,
+                421
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                208,
+                409,
+                217,
+                421
+              ]
+            },
+            {
+              "text": "0.246",
+              "bbox": [
+                222,
+                409,
+                247,
+                421
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                251,
+                409,
+                264,
+                421
+              ]
+            },
+            {
+              "text": "SMM,",
+              "bbox": [
+                269,
+                409,
+                298,
+                421
+              ]
+            },
+            {
+              "text": "0.243",
+              "bbox": [
+                302,
+                409,
+                327,
+                421
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                332,
+                409,
+                345,
+                421
+              ]
+            },
+            {
+              "text": "RMM1,",
+              "bbox": [
+                350,
+                409,
+                385,
+                421
+              ]
+            },
+            {
+              "text": "0.244",
+              "bbox": [
+                390,
+                409,
+                414,
+                421
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                419,
+                409,
+                432,
+                421
+              ]
+            },
+            {
+              "text": "RMM2,",
+              "bbox": [
+                437,
+                409,
+                472,
+                421
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                477,
+                409,
+                493,
+                421
+              ]
+            },
+            {
+              "text": "0.243",
+              "bbox": [
+                498,
+                409,
+                522,
+                421
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                527,
+                409,
+                540,
+                421
+              ]
+            },
+            {
+              "text": "RMM3.",
+              "bbox": [
+                545,
+                409,
+                580,
+                421
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Overall, the data reveals varied performance across the models, with GL showing the highest mean squared error and Pearson's",
+          "bbox": [
+            15,
+            424,
+            580,
+            436
+          ],
+          "words": [
+            {
+              "text": "Overall,",
+              "bbox": [
+                15,
+                424,
+                51,
+                436
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                54,
+                424,
+                67,
+                436
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                70,
+                424,
+                89,
+                436
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                92,
+                424,
+                123,
+                436
+              ]
+            },
+            {
+              "text": "varied",
+              "bbox": [
+                126,
+                424,
+                153,
+                436
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                156,
+                424,
+                212,
+                436
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                215,
+                424,
+                243,
+                436
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                246,
+                424,
+                259,
+                436
+              ]
+            },
+            {
+              "text": "models,",
+              "bbox": [
+                262,
+                424,
+                297,
+                436
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                300,
+                424,
+                319,
+                436
+              ]
+            },
+            {
+              "text": "GL",
+              "bbox": [
+                322,
+                424,
+                337,
+                436
+              ]
+            },
+            {
+              "text": "showing",
+              "bbox": [
+                340,
+                424,
+                377,
+                436
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                380,
+                424,
+                393,
+                436
+              ]
+            },
+            {
+              "text": "highest",
+              "bbox": [
+                397,
+                424,
+                428,
+                436
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                431,
+                424,
+                455,
+                436
+              ]
+            },
+            {
+              "text": "squared",
+              "bbox": [
+                458,
+                424,
+                492,
+                436
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                496,
+                424,
+                517,
+                436
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                520,
+                424,
+                536,
+                436
+              ]
+            },
+            {
+              "text": "Pearson's",
+              "bbox": [
+                539,
+                424,
+                580,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "text": "correlation values, whereas SB presents the lowest mean squared error, highlighting the differing efficacy of each model in the",
+          "bbox": [
+            15,
+            440,
+            580,
+            452
+          ],
+          "words": [
+            {
+              "text": "correlation",
+              "bbox": [
+                15,
+                440,
+                63,
+                452
+              ]
+            },
+            {
+              "text": "values,",
+              "bbox": [
+                66,
+                440,
+                97,
+                452
+              ]
+            },
+            {
+              "text": "whereas",
+              "bbox": [
+                100,
+                440,
+                136,
+                452
+              ]
+            },
+            {
+              "text": "SB",
+              "bbox": [
+                139,
+                440,
+                153,
+                452
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                156,
+                440,
+                192,
+                452
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                195,
+                440,
+                208,
+                452
+              ]
+            },
+            {
+              "text": "lowest",
+              "bbox": [
+                212,
+                440,
+                240,
+                452
+              ]
+            },
+            {
+              "text": "mean",
+              "bbox": [
+                244,
+                440,
+                267,
+                452
+              ]
+            },
+            {
+              "text": "squared",
+              "bbox": [
+                271,
+                440,
+                305,
+                452
+              ]
+            },
+            {
+              "text": "error,",
+              "bbox": [
+                308,
+                440,
+                332,
+                452
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                335,
+                440,
+                389,
+                452
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                392,
+                440,
+                405,
+                452
+              ]
+            },
+            {
+              "text": "differing",
+              "bbox": [
+                409,
+                440,
+                447,
+                452
+              ]
+            },
+            {
+              "text": "efficacy",
+              "bbox": [
+                450,
+                440,
+                485,
+                452
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                488,
+                440,
+                498,
+                452
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                501,
+                440,
+                521,
+                452
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                524,
+                440,
+                552,
+                452
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                555,
+                440,
+                563,
+                452
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                440,
+                580,
+                452
+              ]
+            }
+          ]
+        },
+        {
+          "text": "specified comparison criteria.",
+          "bbox": [
+            15,
+            455,
+            145,
+            467
+          ],
+          "words": [
+            {
+              "text": "specified",
+              "bbox": [
+                15,
+                455,
+                55,
+                467
+              ]
+            },
+            {
+              "text": "comparison",
+              "bbox": [
+                57,
+                455,
+                109,
+                467
+              ]
+            },
+            {
+              "text": "criteria.",
+              "bbox": [
+                112,
+                455,
+                145,
+                467
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "image_id": "img_028508",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The following data table presents a comparative analysis of various visual odometry systems, with a focus on their performance",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "metrics under different conditions. The systems evaluated include GVORB, GV-NoLC, ORB-SLAM, and ORB-NoLC, each",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "representing distinct methodologies in the realm of visual localization and mapping. The table specifically highlights the",
+      "bbox": [
+        15,
+        82,
+        580,
+        94
+      ]
+    },
+    {
+      "text": "sequences tested and their corresponding metrics, such as the accuracy rates measured in terms of mean absolute error and",
+      "bbox": [
+        15,
+        97,
+        580,
+        109
+      ]
+    },
+    {
+      "text": "computational efficiency. \n\nFor instance, the GVORB system recorded a notable accuracy score of 0.64, reflecting its robustness",
+      "bbox": [
+        15,
+        113,
+        580,
+        125
+      ]
+    },
+    {
+      "text": "in handling complex environments.",
+      "bbox": [
+        15,
+        128,
+        171,
+        140
+      ]
+    },
+    {
+      "text": "Sequence  GVORB  GV-NoLC  ORB-SLAM  ORB-NoLC",
+      "bbox": [
+        16,
+        158,
+        580,
+        179
+      ]
+    },
+    {
+      "text": "00  0.64  0.94  5.45  45.00",
+      "bbox": [
+        16,
+        179,
+        580,
+        200
+      ]
+    },
+    {
+      "text": "02  1.02  0.97  17.29  24.12",
+      "bbox": [
+        16,
+        200,
+        580,
+        221
+      ]
+    },
+    {
+      "text": "03  0.64  0.62",
+      "bbox": [
+        16,
+        221,
+        580,
+        242
+      ]
+    },
+    {
+      "text": "04  0.63  0.68",
+      "bbox": [
+        16,
+        242,
+        580,
+        263
+      ]
+    },
+    {
+      "text": "05  0.71  0.65  3.11  26.24",
+      "bbox": [
+        16,
+        263,
+        580,
+        284
+      ]
+    },
+    {
+      "text": "06  1.13  0.88  6.85  31.62",
+      "bbox": [
+        16,
+        284,
+        580,
+        305
+      ]
+    },
+    {
+      "text": "07  0.66  0.66  1.17  11.01",
+      "bbox": [
+        16,
+        305,
+        580,
+        326
+      ]
+    },
+    {
+      "text": "08  1.26  28.20",
+      "bbox": [
+        16,
+        326,
+        580,
+        347
+      ]
+    },
+    {
+      "text": "09  0.74  31.46",
+      "bbox": [
+        16,
+        347,
+        580,
+        368
+      ]
+    },
+    {
+      "text": "10  0.69  3.92",
+      "bbox": [
+        16,
+        368,
+        580,
+        389
+      ]
+    },
+    {
+      "text": "In contrast, the ORB-SLAM system, which operates without loop closure (ORB-NoLC), demonstrated a higher accuracy of",
+      "bbox": [
+        15,
+        405,
+        580,
+        417
+      ]
+    },
+    {
+      "text": "0.94, suggesting its effectiveness in maintaining consistency during prolonged navigation. These metrics are crucial for",
+      "bbox": [
+        15,
+        421,
+        580,
+        433
+      ]
+    },
+    {
+      "text": "understanding the strengths and limitations of each approach, particularly in real-time applications where efficiency and",
+      "bbox": [
+        15,
+        436,
+        580,
+        448
+      ]
+    },
+    {
+      "text": "precision are paramount. Overall, the data provides valuable insights that can guide future developments in visual odometry",
+      "bbox": [
+        15,
+        452,
+        580,
+        464
+      ]
+    },
+    {
+      "text": "technologies, emphasizing the need for continued innovation to enhance performance across various scenarios.",
+      "bbox": [
+        15,
+        467,
+        503,
+        479
+      ]
+    }
+  ]
+}

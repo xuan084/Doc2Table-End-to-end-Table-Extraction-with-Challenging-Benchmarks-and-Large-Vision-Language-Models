@@ -1,0 +1,4302 @@
+{
+  "image_id": "img_220195",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_220195_t0",
+      "bbox": [
+        15,
+        132,
+        580,
+        305
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 4,
+        "T3": "Stain",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            133,
+            580,
+            154
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            154,
+            580,
+            175
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            175,
+            580,
+            210
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            210,
+            580,
+            245
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            245,
+            580,
+            265
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            265,
+            580,
+            285
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            285,
+            580,
+            305
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>R&amp;DtoRevenueRatio</td><td>Jan-2024</td></tr><tr><td>FinancialMetrics</td><td colspan=\"2\">EUR</td></tr><tr><td>OperatingMargin</td><td colspan=\"3\">GrossMargin</td><td>NetProfitMargin</td></tr><tr><td>CurrentRatio</td><td>DebttoEquity</td><td>P/ERatio</td><td>ReturnonAssets</td><td>ReturnonEquity</td></tr><tr><td>0.18</td><td>1.5</td><td>0.45</td><td>0.12</td><td>0.15</td></tr><tr><td>0.20</td><td>2.0</td><td>0.50</td><td>0.10</td><td>0.18</td></tr><tr><td>0.22</td><td>1.8</td><td>0.55</td><td>0.14</td><td>0.16</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "R&DtoRevenueRatio",
+          "bbox": [
+            16,
+            133,
+            299,
+            154
+          ],
+          "words": [
+            {
+              "text": "R&DtoRevenueRatio",
+              "bbox": [
+                21,
+                137,
+                112,
+                148
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Jan-2024",
+          "bbox": [
+            299,
+            133,
+            369,
+            154
+          ],
+          "words": [
+            {
+              "text": "Jan-2024",
+              "bbox": [
+                325,
+                137,
+                364,
+                148
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "FinancialMetrics",
+          "bbox": [
+            16,
+            154,
+            299,
+            175
+          ],
+          "words": [
+            {
+              "text": "FinancialMetrics",
+              "bbox": [
+                21,
+                158,
+                94,
+                169
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "EUR",
+          "bbox": [
+            299,
+            154,
+            439,
+            175
+          ],
+          "words": [
+            {
+              "text": "EUR",
+              "bbox": [
+                413,
+                158,
+                434,
+                169
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "OperatingMargin",
+          "bbox": [
+            16,
+            175,
+            299,
+            210
+          ],
+          "words": [
+            {
+              "text": "OperatingMargin",
+              "bbox": [
+                21,
+                179,
+                97,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "GrossMargin",
+          "bbox": [
+            299,
+            175,
+            509,
+            210
+          ],
+          "words": [
+            {
+              "text": "GrossMargin",
+              "bbox": [
+                447,
+                179,
+                504,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "NetProfitMargin",
+          "bbox": [
+            509,
+            175,
+            580,
+            210
+          ],
+          "words": [
+            {
+              "text": "NetProfitMargin",
+              "bbox": [
+                515,
+                179,
+                574,
+                204
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "CurrentRatio",
+          "bbox": [
+            16,
+            210,
+            299,
+            245
+          ],
+          "words": [
+            {
+              "text": "CurrentRatio",
+              "bbox": [
+                21,
+                214,
+                79,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "DebttoEquity",
+          "bbox": [
+            299,
+            210,
+            369,
+            245
+          ],
+          "words": [
+            {
+              "text": "DebttoEquity",
+              "bbox": [
+                306,
+                214,
+                364,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "P/ERatio",
+          "bbox": [
+            369,
+            210,
+            439,
+            245
+          ],
+          "words": [
+            {
+              "text": "P/ERatio",
+              "bbox": [
+                395,
+                214,
+                434,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "ReturnonAssets",
+          "bbox": [
+            439,
+            210,
+            509,
+            245
+          ],
+          "words": [
+            {
+              "text": "ReturnonAssets",
+              "bbox": [
+                448,
+                214,
+                504,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ReturnonEquity",
+          "bbox": [
+            509,
+            210,
+            580,
+            245
+          ],
+          "words": [
+            {
+              "text": "ReturnonEquity",
+              "bbox": [
+                515,
+                214,
+                574,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.18",
+          "bbox": [
+            16,
+            245,
+            299,
+            265
+          ],
+          "words": [
+            {
+              "text": "0.18",
+              "bbox": [
+                21,
+                249,
+                38,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            299,
+            245,
+            369,
+            265
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                352,
+                249,
+                364,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.45",
+          "bbox": [
+            369,
+            245,
+            439,
+            265
+          ],
+          "words": [
+            {
+              "text": "0.45",
+              "bbox": [
+                417,
+                249,
+                434,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.12",
+          "bbox": [
+            439,
+            245,
+            509,
+            265
+          ],
+          "words": [
+            {
+              "text": "0.12",
+              "bbox": [
+                487,
+                249,
+                504,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.15",
+          "bbox": [
+            509,
+            245,
+            580,
+            265
+          ],
+          "words": [
+            {
+              "text": "0.15",
+              "bbox": [
+                557,
+                249,
+                575,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.20",
+          "bbox": [
+            16,
+            265,
+            299,
+            285
+          ],
+          "words": [
+            {
+              "text": "0.20",
+              "bbox": [
+                21,
+                269,
+                38,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            299,
+            265,
+            369,
+            285
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                352,
+                269,
+                364,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.50",
+          "bbox": [
+            369,
+            265,
+            439,
+            285
+          ],
+          "words": [
+            {
+              "text": "0.50",
+              "bbox": [
+                417,
+                269,
+                434,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.10",
+          "bbox": [
+            439,
+            265,
+            509,
+            285
+          ],
+          "words": [
+            {
+              "text": "0.10",
+              "bbox": [
+                487,
+                269,
+                504,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.18",
+          "bbox": [
+            509,
+            265,
+            580,
+            285
+          ],
+          "words": [
+            {
+              "text": "0.18",
+              "bbox": [
+                557,
+                269,
+                575,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "0.22",
+          "bbox": [
+            16,
+            285,
+            299,
+            305
+          ],
+          "words": [
+            {
+              "text": "0.22",
+              "bbox": [
+                21,
+                289,
+                38,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1.8",
+          "bbox": [
+            299,
+            285,
+            369,
+            305
+          ],
+          "words": [
+            {
+              "text": "1.8",
+              "bbox": [
+                352,
+                289,
+                364,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.55",
+          "bbox": [
+            369,
+            285,
+            439,
+            305
+          ],
+          "words": [
+            {
+              "text": "0.55",
+              "bbox": [
+                417,
+                289,
+                434,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.14",
+          "bbox": [
+            439,
+            285,
+            509,
+            305
+          ],
+          "words": [
+            {
+              "text": "0.14",
+              "bbox": [
+                487,
+                289,
+                504,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.16",
+          "bbox": [
+            509,
+            285,
+            580,
+            305
+          ],
+          "words": [
+            {
+              "text": "0.16",
+              "bbox": [
+                557,
+                289,
+                575,
+                300
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        344,
+        580,
+        390
+      ],
+      "content": "In the competitive landscape of the semiconductor industry, understanding the relationship between research and development (R&D) expenditures and revenue generation is critical for companies like SK Hynix. The R&D to revenue ratio serves as a key indicator of a firm’s commitment to innovation and market leadership.",
+      "lines": [
+        {
+          "text": "In the competitive landscape of the semiconductor industry, understanding the relationship between research and development",
+          "bbox": [
+            15,
+            345,
+            580,
+            357
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                345,
+                24,
+                357
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                345,
+                41,
+                357
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                44,
+                345,
+                96,
+                357
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                100,
+                345,
+                143,
+                357
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                147,
+                345,
+                156,
+                357
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                159,
+                345,
+                173,
+                357
+              ]
+            },
+            {
+              "text": "semiconductor",
+              "bbox": [
+                176,
+                345,
+                241,
+                357
+              ]
+            },
+            {
+              "text": "industry,",
+              "bbox": [
+                244,
+                345,
+                282,
+                357
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                286,
+                345,
+                348,
+                357
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                352,
+                345,
+                365,
+                357
+              ]
+            },
+            {
+              "text": "relationship",
+              "bbox": [
+                368,
+                345,
+                420,
+                357
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                424,
+                345,
+                460,
+                357
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                464,
+                345,
+                500,
+                357
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                504,
+                345,
+                520,
+                357
+              ]
+            },
+            {
+              "text": "development",
+              "bbox": [
+                523,
+                345,
+                580,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(R&D) expenditures and revenue generation is critical for companies like SK Hynix. The R&D to revenue ratio serves as a key",
+          "bbox": [
+            15,
+            360,
+            580,
+            372
+          ],
+          "words": [
+            {
+              "text": "(R&D)",
+              "bbox": [
+                15,
+                360,
+                46,
+                372
+              ]
+            },
+            {
+              "text": "expenditures",
+              "bbox": [
+                49,
+                360,
+                105,
+                372
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                108,
+                360,
+                124,
+                372
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                127,
+                360,
+                162,
+                372
+              ]
+            },
+            {
+              "text": "generation",
+              "bbox": [
+                165,
+                360,
+                212,
+                372
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                215,
+                360,
+                222,
+                372
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                225,
+                360,
+                255,
+                372
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                258,
+                360,
+                271,
+                372
+              ]
+            },
+            {
+              "text": "companies",
+              "bbox": [
+                274,
+                360,
+                321,
+                372
+              ]
+            },
+            {
+              "text": "like",
+              "bbox": [
+                324,
+                360,
+                341,
+                372
+              ]
+            },
+            {
+              "text": "SK",
+              "bbox": [
+                344,
+                360,
+                358,
+                372
+              ]
+            },
+            {
+              "text": "Hynix.",
+              "bbox": [
+                361,
+                360,
+                391,
+                372
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                394,
+                360,
+                411,
+                372
+              ]
+            },
+            {
+              "text": "R&D",
+              "bbox": [
+                414,
+                360,
+                438,
+                372
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                441,
+                360,
+                450,
+                372
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                453,
+                360,
+                487,
+                372
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                490,
+                360,
+                511,
+                372
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                514,
+                360,
+                541,
+                372
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                544,
+                360,
+                553,
+                372
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                556,
+                360,
+                561,
+                372
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                564,
+                360,
+                580,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "text": "indicator of a firm’s commitment to innovation and market leadership.",
+          "bbox": [
+            15,
+            376,
+            325,
+            388
+          ],
+          "words": [
+            {
+              "text": "indicator",
+              "bbox": [
+                15,
+                376,
+                54,
+                388
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                57,
+                376,
+                66,
+                388
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                69,
+                376,
+                74,
+                388
+              ]
+            },
+            {
+              "text": "firm’s",
+              "bbox": [
+                76,
+                376,
+                103,
+                388
+              ]
+            },
+            {
+              "text": "commitment",
+              "bbox": [
+                105,
+                376,
+                161,
+                388
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                164,
+                376,
+                172,
+                388
+              ]
+            },
+            {
+              "text": "innovation",
+              "bbox": [
+                175,
+                376,
+                222,
+                388
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                225,
+                376,
+                241,
+                388
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                244,
+                376,
+                274,
+                388
+              ]
+            },
+            {
+              "text": "leadership.",
+              "bbox": [
+                277,
+                376,
+                325,
+                388
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_220195_t1",
+      "bbox": [
+        15,
+        432,
+        580,
+        576
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "Stain",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            433,
+            580,
+            454
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            454,
+            580,
+            475
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            475,
+            580,
+            496
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            496,
+            580,
+            516
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            516,
+            580,
+            536
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            536,
+            580,
+            556
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            556,
+            580,
+            576
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"2\">EquipmentSpendingCycle</td><td>Status</td><td>Category</td></tr><tr><td>Year</td><td colspan=\"2\">InvestmentPlan</td><td colspan=\"3\">ProjectedAmount</td><td>Variance</td></tr><tr><td>2024</td><td>Active</td><td>Manufacturing</td><td>50MEUR</td><td>5%</td><td>High</td><td>Low</td></tr><tr><td>Q1</td><td>InProgress</td><td>WaferFab</td><td>15MEUR</td><td>2%</td><td>OnTrack</td><td>N/A</td></tr><tr><td>Q2</td><td>Planned</td><td>TestEquipment</td><td>20MEUR</td><td>3%</td><td>OnSchedule</td><td>N/A</td></tr><tr><td>Q3</td><td>Future</td><td>AssemblyTools</td><td>10MEUR</td><td>1%</td><td>PendingApproval</td><td>N/A</td></tr><tr><td>Q4</td><td>Proposed</td><td>R&amp;DEquipment</td><td>5MEUR</td><td>0%</td><td>UnderReview</td><td>N/A</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "EquipmentSpendingCycle",
+          "bbox": [
+            16,
+            433,
+            187,
+            454
+          ],
+          "words": [
+            {
+              "text": "EquipmentSpendingCycle",
+              "bbox": [
+                21,
+                437,
+                133,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Status",
+          "bbox": [
+            187,
+            433,
+            273,
+            454
+          ],
+          "words": [
+            {
+              "text": "Status",
+              "bbox": [
+                192,
+                437,
+                219,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Category",
+          "bbox": [
+            273,
+            433,
+            358,
+            454
+          ],
+          "words": [
+            {
+              "text": "Category",
+              "bbox": [
+                278,
+                437,
+                318,
+                448
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Year",
+          "bbox": [
+            16,
+            454,
+            101,
+            475
+          ],
+          "words": [
+            {
+              "text": "Year",
+              "bbox": [
+                21,
+                458,
+                41,
+                469
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "InvestmentPlan",
+          "bbox": [
+            101,
+            454,
+            273,
+            475
+          ],
+          "words": [
+            {
+              "text": "InvestmentPlan",
+              "bbox": [
+                107,
+                458,
+                174,
+                469
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3,
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectedAmount",
+          "bbox": [
+            273,
+            454,
+            530,
+            475
+          ],
+          "words": [
+            {
+              "text": "ProjectedAmount",
+              "bbox": [
+                278,
+                458,
+                354,
+                469
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Variance",
+          "bbox": [
+            530,
+            454,
+            580,
+            475
+          ],
+          "words": [
+            {
+              "text": "Variance",
+              "bbox": [
+                535,
+                458,
+                573,
+                469
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "2024",
+          "bbox": [
+            16,
+            475,
+            101,
+            496
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                21,
+                479,
+                41,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Active",
+          "bbox": [
+            101,
+            475,
+            187,
+            496
+          ],
+          "words": [
+            {
+              "text": "Active",
+              "bbox": [
+                107,
+                479,
+                134,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Manufacturing",
+          "bbox": [
+            187,
+            475,
+            273,
+            496
+          ],
+          "words": [
+            {
+              "text": "Manufacturing",
+              "bbox": [
+                192,
+                479,
+                257,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "50MEUR",
+          "bbox": [
+            273,
+            475,
+            358,
+            496
+          ],
+          "words": [
+            {
+              "text": "50MEUR",
+              "bbox": [
+                278,
+                479,
+                319,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "5%",
+          "bbox": [
+            358,
+            475,
+            444,
+            496
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                364,
+                479,
+                379,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "High",
+          "bbox": [
+            444,
+            475,
+            530,
+            496
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                503,
+                479,
+                524,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Low",
+          "bbox": [
+            530,
+            475,
+            580,
+            496
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                535,
+                479,
+                554,
+                490
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Q1",
+          "bbox": [
+            16,
+            496,
+            101,
+            516
+          ],
+          "words": [
+            {
+              "text": "Q1",
+              "bbox": [
+                21,
+                500,
+                33,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "InProgress",
+          "bbox": [
+            101,
+            496,
+            187,
+            516
+          ],
+          "words": [
+            {
+              "text": "InProgress",
+              "bbox": [
+                106,
+                500,
+                149,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "WaferFab",
+          "bbox": [
+            187,
+            496,
+            273,
+            516
+          ],
+          "words": [
+            {
+              "text": "WaferFab",
+              "bbox": [
+                192,
+                500,
+                231,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15MEUR",
+          "bbox": [
+            273,
+            496,
+            358,
+            516
+          ],
+          "words": [
+            {
+              "text": "15MEUR",
+              "bbox": [
+                278,
+                500,
+                317,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2%",
+          "bbox": [
+            358,
+            496,
+            444,
+            516
+          ],
+          "words": [
+            {
+              "text": "2%",
+              "bbox": [
+                363,
+                500,
+                377,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "OnTrack",
+          "bbox": [
+            444,
+            496,
+            530,
+            516
+          ],
+          "words": [
+            {
+              "text": "OnTrack",
+              "bbox": [
+                490,
+                500,
+                525,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            530,
+            496,
+            580,
+            516
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                535,
+                500,
+                552,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Q2",
+          "bbox": [
+            16,
+            516,
+            101,
+            536
+          ],
+          "words": [
+            {
+              "text": "Q2",
+              "bbox": [
+                21,
+                520,
+                33,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Planned",
+          "bbox": [
+            101,
+            516,
+            187,
+            536
+          ],
+          "words": [
+            {
+              "text": "Planned",
+              "bbox": [
+                106,
+                520,
+                138,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "TestEquipment",
+          "bbox": [
+            187,
+            516,
+            273,
+            536
+          ],
+          "words": [
+            {
+              "text": "TestEquipment",
+              "bbox": [
+                192,
+                520,
+                252,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20MEUR",
+          "bbox": [
+            273,
+            516,
+            358,
+            536
+          ],
+          "words": [
+            {
+              "text": "20MEUR",
+              "bbox": [
+                278,
+                520,
+                317,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3%",
+          "bbox": [
+            358,
+            516,
+            444,
+            536
+          ],
+          "words": [
+            {
+              "text": "3%",
+              "bbox": [
+                363,
+                520,
+                377,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "OnSchedule",
+          "bbox": [
+            444,
+            516,
+            530,
+            536
+          ],
+          "words": [
+            {
+              "text": "OnSchedule",
+              "bbox": [
+                476,
+                520,
+                525,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            530,
+            516,
+            580,
+            536
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                535,
+                520,
+                552,
+                531
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Q3",
+          "bbox": [
+            16,
+            536,
+            101,
+            556
+          ],
+          "words": [
+            {
+              "text": "Q3",
+              "bbox": [
+                21,
+                540,
+                33,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Future",
+          "bbox": [
+            101,
+            536,
+            187,
+            556
+          ],
+          "words": [
+            {
+              "text": "Future",
+              "bbox": [
+                106,
+                540,
+                132,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "AssemblyTools",
+          "bbox": [
+            187,
+            536,
+            273,
+            556
+          ],
+          "words": [
+            {
+              "text": "AssemblyTools",
+              "bbox": [
+                192,
+                540,
+                254,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "10MEUR",
+          "bbox": [
+            273,
+            536,
+            358,
+            556
+          ],
+          "words": [
+            {
+              "text": "10MEUR",
+              "bbox": [
+                278,
+                540,
+                317,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1%",
+          "bbox": [
+            358,
+            536,
+            444,
+            556
+          ],
+          "words": [
+            {
+              "text": "1%",
+              "bbox": [
+                363,
+                540,
+                377,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "PendingApproval",
+          "bbox": [
+            444,
+            536,
+            530,
+            556
+          ],
+          "words": [
+            {
+              "text": "PendingApproval",
+              "bbox": [
+                454,
+                540,
+                525,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            530,
+            536,
+            580,
+            556
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                535,
+                540,
+                552,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Q4",
+          "bbox": [
+            16,
+            556,
+            101,
+            576
+          ],
+          "words": [
+            {
+              "text": "Q4",
+              "bbox": [
+                21,
+                560,
+                33,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Proposed",
+          "bbox": [
+            101,
+            556,
+            187,
+            576
+          ],
+          "words": [
+            {
+              "text": "Proposed",
+              "bbox": [
+                106,
+                560,
+                143,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "R&DEquipment",
+          "bbox": [
+            187,
+            556,
+            273,
+            576
+          ],
+          "words": [
+            {
+              "text": "R&DEquipment",
+              "bbox": [
+                192,
+                560,
+                258,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5MEUR",
+          "bbox": [
+            273,
+            556,
+            358,
+            576
+          ],
+          "words": [
+            {
+              "text": "5MEUR",
+              "bbox": [
+                278,
+                560,
+                312,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0%",
+          "bbox": [
+            358,
+            556,
+            444,
+            576
+          ],
+          "words": [
+            {
+              "text": "0%",
+              "bbox": [
+                363,
+                560,
+                377,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "UnderReview",
+          "bbox": [
+            444,
+            556,
+            530,
+            576
+          ],
+          "words": [
+            {
+              "text": "UnderReview",
+              "bbox": [
+                469,
+                560,
+                525,
+                571
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "N/A",
+          "bbox": [
+            530,
+            556,
+            580,
+            576
+          ],
+          "words": [
+            {
+              "text": "N/A",
+              "bbox": [
+                535,
+                560,
+                552,
+                571
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        611,
+        580,
+        750
+      ],
+      "content": "As illustrated in the accompanying data table, the current ratio for SK Hynix stands at 0.18, highlighting the company’s liquidity position in the context of its operational expenditures. The firm’s return on assets is notably at 0.14, indicating its efficiency in utilizing assets to generate earnings, while the return on equity is slightly higher at 0.15, reflecting shareholder profitability. Additionally, the table provides insights into the equipment spending cycle, with a P/E ratio of 0.50 suggesting investor confidence in the company's growth potential. It is essential to examine the production timelines and equipment types, such as the proposed active manufacturing of WaferFab and the utilization of TestEquipment, which are pivotal in enhancing production efficiency. Furthermore, the quarterly projections reveal that Q3's equipment spending is anticipated to be 10MEUR, with a modest growth rate of 1% for the same period. This comprehensive analysis underscores the importance of strategic investments in R&D and equipment to maintain competitive advantage in the dynamic semiconductor market.",
+      "lines": [
+        {
+          "text": "As illustrated in the accompanying data table, the current ratio for SK Hynix stands at 0.18, highlighting the company’s",
+          "bbox": [
+            15,
+            612,
+            580,
+            624
+          ],
+          "words": [
+            {
+              "text": "As",
+              "bbox": [
+                15,
+                612,
+                27,
+                624
+              ]
+            },
+            {
+              "text": "illustrated",
+              "bbox": [
+                32,
+                612,
+                76,
+                624
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                81,
+                612,
+                90,
+                624
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                95,
+                612,
+                108,
+                624
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                113,
+                612,
+                177,
+                624
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                182,
+                612,
+                200,
+                624
+              ]
+            },
+            {
+              "text": "table,",
+              "bbox": [
+                205,
+                612,
+                229,
+                624
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                234,
+                612,
+                248,
+                624
+              ]
+            },
+            {
+              "text": "current",
+              "bbox": [
+                253,
+                612,
+                284,
+                624
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                289,
+                612,
+                309,
+                624
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                314,
+                612,
+                327,
+                624
+              ]
+            },
+            {
+              "text": "SK",
+              "bbox": [
+                332,
+                612,
+                346,
+                624
+              ]
+            },
+            {
+              "text": "Hynix",
+              "bbox": [
+                351,
+                612,
+                378,
+                624
+              ]
+            },
+            {
+              "text": "stands",
+              "bbox": [
+                383,
+                612,
+                411,
+                624
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                415,
+                612,
+                423,
+                624
+              ]
+            },
+            {
+              "text": "0.18,",
+              "bbox": [
+                428,
+                612,
+                450,
+                624
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                455,
+                612,
+                509,
+                624
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                514,
+                612,
+                527,
+                624
+              ]
+            },
+            {
+              "text": "company’s",
+              "bbox": [
+                532,
+                612,
+                580,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "text": "liquidity position in the context of its operational expenditures. The firm’s return on assets is notably at 0.14, indicating its",
+          "bbox": [
+            15,
+            628,
+            580,
+            640
+          ],
+          "words": [
+            {
+              "text": "liquidity",
+              "bbox": [
+                15,
+                628,
+                52,
+                640
+              ]
+            },
+            {
+              "text": "position",
+              "bbox": [
+                56,
+                628,
+                92,
+                640
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                96,
+                628,
+                105,
+                640
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                109,
+                628,
+                122,
+                640
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                126,
+                628,
+                159,
+                640
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                163,
+                628,
+                172,
+                640
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                176,
+                628,
+                187,
+                640
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                191,
+                628,
+                240,
+                640
+              ]
+            },
+            {
+              "text": "expenditures.",
+              "bbox": [
+                244,
+                628,
+                303,
+                640
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                307,
+                628,
+                324,
+                640
+              ]
+            },
+            {
+              "text": "firm’s",
+              "bbox": [
+                329,
+                628,
+                355,
+                640
+              ]
+            },
+            {
+              "text": "return",
+              "bbox": [
+                359,
+                628,
+                385,
+                640
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                390,
+                628,
+                401,
+                640
+              ]
+            },
+            {
+              "text": "assets",
+              "bbox": [
+                405,
+                628,
+                430,
+                640
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                435,
+                628,
+                442,
+                640
+              ]
+            },
+            {
+              "text": "notably",
+              "bbox": [
+                446,
+                628,
+                479,
+                640
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                483,
+                628,
+                491,
+                640
+              ]
+            },
+            {
+              "text": "0.14,",
+              "bbox": [
+                495,
+                628,
+                517,
+                640
+              ]
+            },
+            {
+              "text": "indicating",
+              "bbox": [
+                521,
+                628,
+                565,
+                640
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                570,
+                628,
+                580,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "text": "efficiency in utilizing assets to generate earnings, while the return on equity is slightly higher at 0.15, reflecting shareholder",
+          "bbox": [
+            15,
+            643,
+            580,
+            655
+          ],
+          "words": [
+            {
+              "text": "efficiency",
+              "bbox": [
+                15,
+                643,
+                59,
+                655
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                63,
+                643,
+                71,
+                655
+              ]
+            },
+            {
+              "text": "utilizing",
+              "bbox": [
+                75,
+                643,
+                112,
+                655
+              ]
+            },
+            {
+              "text": "assets",
+              "bbox": [
+                116,
+                643,
+                141,
+                655
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                145,
+                643,
+                154,
+                655
+              ]
+            },
+            {
+              "text": "generate",
+              "bbox": [
+                158,
+                643,
+                195,
+                655
+              ]
+            },
+            {
+              "text": "earnings,",
+              "bbox": [
+                199,
+                643,
+                239,
+                655
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                243,
+                643,
+                267,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                271,
+                643,
+                284,
+                655
+              ]
+            },
+            {
+              "text": "return",
+              "bbox": [
+                288,
+                643,
+                315,
+                655
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                319,
+                643,
+                330,
+                655
+              ]
+            },
+            {
+              "text": "equity",
+              "bbox": [
+                333,
+                643,
+                361,
+                655
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                365,
+                643,
+                372,
+                655
+              ]
+            },
+            {
+              "text": "slightly",
+              "bbox": [
+                376,
+                643,
+                409,
+                655
+              ]
+            },
+            {
+              "text": "higher",
+              "bbox": [
+                413,
+                643,
+                441,
+                655
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                445,
+                643,
+                453,
+                655
+              ]
+            },
+            {
+              "text": "0.15,",
+              "bbox": [
+                457,
+                643,
+                479,
+                655
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                483,
+                643,
+                525,
+                655
+              ]
+            },
+            {
+              "text": "shareholder",
+              "bbox": [
+                529,
+                643,
+                580,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "profitability. Additionally, the table provides insights into the equipment spending cycle, with a P/E ratio of 0.50 suggesting",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "profitability.",
+              "bbox": [
+                15,
+                658,
+                70,
+                670
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                73,
+                658,
+                131,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                135,
+                658,
+                148,
+                670
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                152,
+                658,
+                173,
+                670
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                177,
+                658,
+                215,
+                670
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                219,
+                658,
+                254,
+                670
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                257,
+                658,
+                275,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                279,
+                658,
+                292,
+                670
+              ]
+            },
+            {
+              "text": "equipment",
+              "bbox": [
+                296,
+                658,
+                342,
+                670
+              ]
+            },
+            {
+              "text": "spending",
+              "bbox": [
+                346,
+                658,
+                386,
+                670
+              ]
+            },
+            {
+              "text": "cycle,",
+              "bbox": [
+                390,
+                658,
+                416,
+                670
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                420,
+                658,
+                440,
+                670
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                444,
+                658,
+                449,
+                670
+              ]
+            },
+            {
+              "text": "P/E",
+              "bbox": [
+                453,
+                658,
+                468,
+                670
+              ]
+            },
+            {
+              "text": "ratio",
+              "bbox": [
+                472,
+                658,
+                493,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                497,
+                658,
+                506,
+                670
+              ]
+            },
+            {
+              "text": "0.50",
+              "bbox": [
+                510,
+                658,
+                529,
+                670
+              ]
+            },
+            {
+              "text": "suggesting",
+              "bbox": [
+                533,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "investor confidence in the company's growth potential. It is essential to examine the production timelines and equipment types,",
+          "bbox": [
+            15,
+            674,
+            580,
+            686
+          ],
+          "words": [
+            {
+              "text": "investor",
+              "bbox": [
+                15,
+                674,
+                50,
+                686
+              ]
+            },
+            {
+              "text": "confidence",
+              "bbox": [
+                54,
+                674,
+                102,
+                686
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                105,
+                674,
+                113,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                117,
+                674,
+                130,
+                686
+              ]
+            },
+            {
+              "text": "company's",
+              "bbox": [
+                133,
+                674,
+                180,
+                686
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                183,
+                674,
+                214,
+                686
+              ]
+            },
+            {
+              "text": "potential.",
+              "bbox": [
+                217,
+                674,
+                258,
+                686
+              ]
+            },
+            {
+              "text": "It",
+              "bbox": [
+                261,
+                674,
+                268,
+                686
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                271,
+                674,
+                279,
+                686
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                282,
+                674,
+                320,
+                686
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                323,
+                674,
+                331,
+                686
+              ]
+            },
+            {
+              "text": "examine",
+              "bbox": [
+                334,
+                674,
+                372,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                375,
+                674,
+                388,
+                686
+              ]
+            },
+            {
+              "text": "production",
+              "bbox": [
+                391,
+                674,
+                439,
+                686
+              ]
+            },
+            {
+              "text": "timelines",
+              "bbox": [
+                442,
+                674,
+                482,
+                686
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                485,
+                674,
+                501,
+                686
+              ]
+            },
+            {
+              "text": "equipment",
+              "bbox": [
+                504,
+                674,
+                551,
+                686
+              ]
+            },
+            {
+              "text": "types,",
+              "bbox": [
+                554,
+                674,
+                580,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "such as the proposed active manufacturing of WaferFab and the utilization of TestEquipment, which are pivotal in enhancing",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "such",
+              "bbox": [
+                15,
+                689,
+                35,
+                701
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                39,
+                689,
+                48,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                52,
+                689,
+                65,
+                701
+              ]
+            },
+            {
+              "text": "proposed",
+              "bbox": [
+                69,
+                689,
+                109,
+                701
+              ]
+            },
+            {
+              "text": "active",
+              "bbox": [
+                113,
+                689,
+                139,
+                701
+              ]
+            },
+            {
+              "text": "manufacturing",
+              "bbox": [
+                143,
+                689,
+                207,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                211,
+                689,
+                220,
+                701
+              ]
+            },
+            {
+              "text": "WaferFab",
+              "bbox": [
+                223,
+                689,
+                266,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                270,
+                689,
+                286,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                290,
+                689,
+                303,
+                701
+              ]
+            },
+            {
+              "text": "utilization",
+              "bbox": [
+                307,
+                689,
+                351,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                355,
+                689,
+                364,
+                701
+              ]
+            },
+            {
+              "text": "TestEquipment,",
+              "bbox": [
+                368,
+                689,
+                437,
+                701
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                441,
+                689,
+                468,
+                701
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                471,
+                689,
+                485,
+                701
+              ]
+            },
+            {
+              "text": "pivotal",
+              "bbox": [
+                488,
+                689,
+                519,
+                701
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                523,
+                689,
+                531,
+                701
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                535,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "production efficiency. Furthermore, the quarterly projections reveal that Q3's equipment spending is anticipated to be 10MEUR,",
+          "bbox": [
+            15,
+            705,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "production",
+              "bbox": [
+                15,
+                705,
+                63,
+                717
+              ]
+            },
+            {
+              "text": "efficiency.",
+              "bbox": [
+                65,
+                705,
+                111,
+                717
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                114,
+                705,
+                172,
+                717
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                175,
+                705,
+                188,
+                717
+              ]
+            },
+            {
+              "text": "quarterly",
+              "bbox": [
+                191,
+                705,
+                231,
+                717
+              ]
+            },
+            {
+              "text": "projections",
+              "bbox": [
+                234,
+                705,
+                282,
+                717
+              ]
+            },
+            {
+              "text": "reveal",
+              "bbox": [
+                285,
+                705,
+                312,
+                717
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                315,
+                705,
+                331,
+                717
+              ]
+            },
+            {
+              "text": "Q3's",
+              "bbox": [
+                334,
+                705,
+                354,
+                717
+              ]
+            },
+            {
+              "text": "equipment",
+              "bbox": [
+                357,
+                705,
+                403,
+                717
+              ]
+            },
+            {
+              "text": "spending",
+              "bbox": [
+                406,
+                705,
+                446,
+                717
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                449,
+                705,
+                456,
+                717
+              ]
+            },
+            {
+              "text": "anticipated",
+              "bbox": [
+                459,
+                705,
+                507,
+                717
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                510,
+                705,
+                518,
+                717
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                521,
+                705,
+                532,
+                717
+              ]
+            },
+            {
+              "text": "10MEUR,",
+              "bbox": [
+                534,
+                705,
+                580,
+                717
+              ]
+            }
+          ]
+        },
+        {
+          "text": "with a modest growth rate of 1% for the same period. This comprehensive analysis underscores the importance of strategic",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "with",
+              "bbox": [
+                15,
+                720,
+                35,
+                732
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                39,
+                720,
+                44,
+                732
+              ]
+            },
+            {
+              "text": "modest",
+              "bbox": [
+                48,
+                720,
+                79,
+                732
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                84,
+                720,
+                115,
+                732
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                119,
+                720,
+                135,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                140,
+                720,
+                149,
+                732
+              ]
+            },
+            {
+              "text": "1%",
+              "bbox": [
+                153,
+                720,
+                167,
+                732
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                172,
+                720,
+                184,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                189,
+                720,
+                202,
+                732
+              ]
+            },
+            {
+              "text": "same",
+              "bbox": [
+                206,
+                720,
+                229,
+                732
+              ]
+            },
+            {
+              "text": "period.",
+              "bbox": [
+                233,
+                720,
+                264,
+                732
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                268,
+                720,
+                287,
+                732
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                291,
+                720,
+                358,
+                732
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                362,
+                720,
+                397,
+                732
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                402,
+                720,
+                454,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                458,
+                720,
+                472,
+                732
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                476,
+                720,
+                525,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                529,
+                720,
+                539,
+                732
+              ]
+            },
+            {
+              "text": "strategic",
+              "bbox": [
+                543,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "investments in R&D and equipment to maintain competitive advantage in the dynamic semiconductor market.",
+          "bbox": [
+            15,
+            735,
+            500,
+            747
+          ],
+          "words": [
+            {
+              "text": "investments",
+              "bbox": [
+                15,
+                735,
+                68,
+                747
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                70,
+                735,
+                79,
+                747
+              ]
+            },
+            {
+              "text": "R&D",
+              "bbox": [
+                82,
+                735,
+                105,
+                747
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                108,
+                735,
+                124,
+                747
+              ]
+            },
+            {
+              "text": "equipment",
+              "bbox": [
+                127,
+                735,
+                173,
+                747
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                176,
+                735,
+                185,
+                747
+              ]
+            },
+            {
+              "text": "maintain",
+              "bbox": [
+                187,
+                735,
+                226,
+                747
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                229,
+                735,
+                280,
+                747
+              ]
+            },
+            {
+              "text": "advantage",
+              "bbox": [
+                283,
+                735,
+                328,
+                747
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                331,
+                735,
+                339,
+                747
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                342,
+                735,
+                355,
+                747
+              ]
+            },
+            {
+              "text": "dynamic",
+              "bbox": [
+                358,
+                735,
+                396,
+                747
+              ]
+            },
+            {
+              "text": "semiconductor",
+              "bbox": [
+                399,
+                735,
+                463,
+                747
+              ]
+            },
+            {
+              "text": "market.",
+              "bbox": [
+                466,
+                735,
+                500,
+                747
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "degradation": {
+    "type": "Stain",
+    "affected_cells": [
+      {
+        "table_id": "img_220195_t0",
+        "cell_indices": [
+          12,
+          25,
+          16,
+          19
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 12,
+            "text": "0.18",
+            "header": "CurrentRatio",
+            "row_label": "",
+            "bbox": [
+              16,
+              245,
+              299,
+              265
+            ]
+          },
+          {
+            "cell_idx": 25,
+            "text": "0.14",
+            "header": "ReturnonAssets",
+            "row_label": "",
+            "bbox": [
+              439,
+              285,
+              509,
+              305
+            ]
+          },
+          {
+            "cell_idx": 16,
+            "text": "0.15",
+            "header": "ReturnonEquity",
+            "row_label": "",
+            "bbox": [
+              509,
+              245,
+              580,
+              265
+            ]
+          },
+          {
+            "cell_idx": 19,
+            "text": "0.50",
+            "header": "P/ERatio",
+            "row_label": "",
+            "bbox": [
+              369,
+              265,
+              439,
+              285
+            ]
+          }
+        ]
+      },
+      {
+        "table_id": "img_220195_t1",
+        "cell_indices": [
+          31,
+          16,
+          32,
+          36,
+          23
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 31,
+            "text": "10MEUR",
+            "header": "50MEUR",
+            "row_label": "Q3",
+            "bbox": [
+              273,
+              536,
+              358,
+              556
+            ]
+          },
+          {
+            "cell_idx": 16,
+            "text": "WaferFab",
+            "header": "Manufacturing",
+            "row_label": "Q1",
+            "bbox": [
+              187,
+              496,
+              273,
+              516
+            ]
+          },
+          {
+            "cell_idx": 32,
+            "text": "1%",
+            "header": "5%",
+            "row_label": "Q3",
+            "bbox": [
+              358,
+              536,
+              444,
+              556
+            ]
+          },
+          {
+            "cell_idx": 36,
+            "text": "Proposed",
+            "header": "Active",
+            "row_label": "Q4",
+            "bbox": [
+              101,
+              556,
+              187,
+              576
+            ]
+          },
+          {
+            "cell_idx": 23,
+            "text": "TestEquipment",
+            "header": "Manufacturing",
+            "row_label": "Q2",
+            "bbox": [
+              187,
+              516,
+              273,
+              536
+            ]
+          }
+        ]
+      }
+    ],
+    "released_cells": [
+      {
+        "table_idx": 0,
+        "cell_idx": 17,
+        "text": "0.20",
+        "header": "CurrentRatio",
+        "row_label": ""
+      },
+      {
+        "table_idx": 1,
+        "cell_idx": 34,
+        "text": "N/A",
+        "header": "Low",
+        "row_label": "Q3"
+      }
+    ]
+  }
+}

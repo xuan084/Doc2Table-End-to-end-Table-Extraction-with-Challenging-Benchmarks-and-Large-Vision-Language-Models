@@ -1,0 +1,6261 @@
+{
+  "image_id": "img_048009",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_048009_t0",
+      "bbox": [
+        15,
+        63,
+        564,
+        213
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderFull_BodyHorizontal"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            64,
+            563,
+            98
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            98,
+            563,
+            118
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            118,
+            563,
+            139
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            139,
+            563,
+            159
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            159,
+            563,
+            179
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            179,
+            563,
+            213
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td></td><td>Total genes</td><td>Tandem redundancy removed</td><td>Syntenic orthologs to B. rapaa</td><td>Non-syntenic orthologs to B. rapab</td><td>Non-orthologs</td></tr></thead><tbody><tr><td>B. rapa</td><td>41,174</td><td>38,161</td><td>N</td><td>N</td><td>N</td></tr><tr><td>A. thaliana</td><td>27,379</td><td>24,939</td><td>18,410/30,615</td><td>2,561/1,391</td><td>3,968/6,155</td></tr><tr><td>A. lyrata</td><td>33,410</td><td>30,773</td><td>18,125/30,250</td><td>1,877/1,226</td><td>10,771/6,685</td></tr><tr><td>T. parvulla</td><td>28,901</td><td>27,344</td><td>17,303/29,473</td><td>3,909/1,605</td><td>6,132/7,083</td></tr><tr><td>At + Al + Tp</td><td>N</td><td>N</td><td>N/32,310</td><td>N/808</td><td>N/5,043</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            64,
+            69,
+            98
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Total genes",
+          "bbox": [
+            69,
+            64,
+            121,
+            98
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                75,
+                68,
+                96,
+                79
+              ]
+            },
+            {
+              "text": "genes",
+              "bbox": [
+                75,
+                82,
+                97,
+                92
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Tandem redundancy removed",
+          "bbox": [
+            121,
+            64,
+            241,
+            98
+          ],
+          "words": [
+            {
+              "text": "Tandem",
+              "bbox": [
+                127,
+                68,
+                160,
+                79
+              ]
+            },
+            {
+              "text": "redundancy",
+              "bbox": [
+                163,
+                68,
+                212,
+                79
+              ]
+            },
+            {
+              "text": "removed",
+              "bbox": [
+                127,
+                82,
+                163,
+                92
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Syntenic orthologs to B. rapaa",
+          "bbox": [
+            241,
+            64,
+            362,
+            98
+          ],
+          "words": [
+            {
+              "text": "Syntenic",
+              "bbox": [
+                258,
+                68,
+                294,
+                79
+              ]
+            },
+            {
+              "text": "orthologs",
+              "bbox": [
+                296,
+                68,
+                335,
+                79
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                337,
+                68,
+                345,
+                79
+              ]
+            },
+            {
+              "text": "B.",
+              "bbox": [
+                348,
+                68,
+                357,
+                79
+              ]
+            },
+            {
+              "text": "rapaa",
+              "bbox": [
+                332,
+                82,
+                357,
+                92
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Non-syntenic orthologs to B. rapab",
+          "bbox": [
+            362,
+            64,
+            500,
+            98
+          ],
+          "words": [
+            {
+              "text": "Non-syntenic",
+              "bbox": [
+                377,
+                68,
+                431,
+                79
+              ]
+            },
+            {
+              "text": "orthologs",
+              "bbox": [
+                434,
+                68,
+                473,
+                79
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                475,
+                68,
+                483,
+                79
+              ]
+            },
+            {
+              "text": "B.",
+              "bbox": [
+                486,
+                68,
+                495,
+                79
+              ]
+            },
+            {
+              "text": "rapab",
+              "bbox": [
+                470,
+                82,
+                495,
+                92
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Non-orthologs",
+          "bbox": [
+            500,
+            64,
+            563,
+            98
+          ],
+          "words": [
+            {
+              "text": "Non-orthologs",
+              "bbox": [
+                519,
+                68,
+                558,
+                92
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "B. rapa",
+          "bbox": [
+            15,
+            98,
+            69,
+            118
+          ],
+          "words": [
+            {
+              "text": "B.",
+              "bbox": [
+                20,
+                102,
+                29,
+                113
+              ]
+            },
+            {
+              "text": "rapa",
+              "bbox": [
+                31,
+                102,
+                48,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "41,174",
+          "bbox": [
+            69,
+            98,
+            121,
+            118
+          ],
+          "words": [
+            {
+              "text": "41,174",
+              "bbox": [
+                74,
+                102,
+                101,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "38,161",
+          "bbox": [
+            121,
+            98,
+            241,
+            118
+          ],
+          "words": [
+            {
+              "text": "38,161",
+              "bbox": [
+                126,
+                102,
+                153,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "N",
+          "bbox": [
+            241,
+            98,
+            362,
+            118
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                350,
+                102,
+                357,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "N",
+          "bbox": [
+            362,
+            98,
+            500,
+            118
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                488,
+                102,
+                495,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "N",
+          "bbox": [
+            500,
+            98,
+            563,
+            118
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                552,
+                102,
+                559,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "A. thaliana",
+          "bbox": [
+            15,
+            118,
+            69,
+            139
+          ],
+          "words": [
+            {
+              "text": "A.",
+              "bbox": [
+                20,
+                123,
+                29,
+                133
+              ]
+            },
+            {
+              "text": "thaliana",
+              "bbox": [
+                32,
+                123,
+                63,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "27,379",
+          "bbox": [
+            69,
+            118,
+            121,
+            139
+          ],
+          "words": [
+            {
+              "text": "27,379",
+              "bbox": [
+                74,
+                123,
+                101,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "24,939",
+          "bbox": [
+            121,
+            118,
+            241,
+            139
+          ],
+          "words": [
+            {
+              "text": "24,939",
+              "bbox": [
+                126,
+                123,
+                153,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "18,410/30,615",
+          "bbox": [
+            241,
+            118,
+            362,
+            139
+          ],
+          "words": [
+            {
+              "text": "18,410/30,615",
+              "bbox": [
+                301,
+                123,
+                357,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2,561/1,391",
+          "bbox": [
+            362,
+            118,
+            500,
+            139
+          ],
+          "words": [
+            {
+              "text": "2,561/1,391",
+              "bbox": [
+                449,
+                123,
+                495,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3,968/6,155",
+          "bbox": [
+            500,
+            118,
+            563,
+            139
+          ],
+          "words": [
+            {
+              "text": "3,968/6,155",
+              "bbox": [
+                512,
+                123,
+                559,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "A. lyrata",
+          "bbox": [
+            15,
+            139,
+            69,
+            159
+          ],
+          "words": [
+            {
+              "text": "A.",
+              "bbox": [
+                20,
+                143,
+                29,
+                154
+              ]
+            },
+            {
+              "text": "lyrata",
+              "bbox": [
+                32,
+                143,
+                54,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "33,410",
+          "bbox": [
+            69,
+            139,
+            121,
+            159
+          ],
+          "words": [
+            {
+              "text": "33,410",
+              "bbox": [
+                74,
+                143,
+                101,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "30,773",
+          "bbox": [
+            121,
+            139,
+            241,
+            159
+          ],
+          "words": [
+            {
+              "text": "30,773",
+              "bbox": [
+                126,
+                143,
+                153,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "18,125/30,250",
+          "bbox": [
+            241,
+            139,
+            362,
+            159
+          ],
+          "words": [
+            {
+              "text": "18,125/30,250",
+              "bbox": [
+                301,
+                143,
+                357,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1,877/1,226",
+          "bbox": [
+            362,
+            139,
+            500,
+            159
+          ],
+          "words": [
+            {
+              "text": "1,877/1,226",
+              "bbox": [
+                449,
+                143,
+                495,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "10,771/6,685",
+          "bbox": [
+            500,
+            139,
+            563,
+            159
+          ],
+          "words": [
+            {
+              "text": "10,771/6,685",
+              "bbox": [
+                507,
+                143,
+                559,
+                154
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "T. parvulla",
+          "bbox": [
+            15,
+            159,
+            69,
+            179
+          ],
+          "words": [
+            {
+              "text": "T.",
+              "bbox": [
+                20,
+                163,
+                28,
+                174
+              ]
+            },
+            {
+              "text": "parvulla",
+              "bbox": [
+                30,
+                163,
+                62,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "28,901",
+          "bbox": [
+            69,
+            159,
+            121,
+            179
+          ],
+          "words": [
+            {
+              "text": "28,901",
+              "bbox": [
+                74,
+                163,
+                101,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "27,344",
+          "bbox": [
+            121,
+            159,
+            241,
+            179
+          ],
+          "words": [
+            {
+              "text": "27,344",
+              "bbox": [
+                126,
+                163,
+                153,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "17,303/29,473",
+          "bbox": [
+            241,
+            159,
+            362,
+            179
+          ],
+          "words": [
+            {
+              "text": "17,303/29,473",
+              "bbox": [
+                301,
+                163,
+                357,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3,909/1,605",
+          "bbox": [
+            362,
+            159,
+            500,
+            179
+          ],
+          "words": [
+            {
+              "text": "3,909/1,605",
+              "bbox": [
+                449,
+                163,
+                495,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "6,132/7,083",
+          "bbox": [
+            500,
+            159,
+            563,
+            179
+          ],
+          "words": [
+            {
+              "text": "6,132/7,083",
+              "bbox": [
+                512,
+                163,
+                559,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "At + Al + Tp",
+          "bbox": [
+            15,
+            179,
+            69,
+            213
+          ],
+          "words": [
+            {
+              "text": "At",
+              "bbox": [
+                20,
+                184,
+                30,
+                194
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                32,
+                184,
+                38,
+                194
+              ]
+            },
+            {
+              "text": "Al",
+              "bbox": [
+                39,
+                184,
+                49,
+                194
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                52,
+                184,
+                57,
+                194
+              ]
+            },
+            {
+              "text": "Tp",
+              "bbox": [
+                20,
+                197,
+                31,
+                208
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "N",
+          "bbox": [
+            69,
+            179,
+            121,
+            213
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                74,
+                184,
+                81,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "N",
+          "bbox": [
+            121,
+            179,
+            241,
+            213
+          ],
+          "words": [
+            {
+              "text": "N",
+              "bbox": [
+                126,
+                184,
+                133,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "N/32,310",
+          "bbox": [
+            241,
+            179,
+            362,
+            213
+          ],
+          "words": [
+            {
+              "text": "N/32,310",
+              "bbox": [
+                321,
+                184,
+                357,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "N/808",
+          "bbox": [
+            362,
+            179,
+            500,
+            213
+          ],
+          "words": [
+            {
+              "text": "N/808",
+              "bbox": [
+                471,
+                184,
+                495,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "N/5,043",
+          "bbox": [
+            500,
+            179,
+            563,
+            213
+          ],
+          "words": [
+            {
+              "text": "N/5,043",
+              "bbox": [
+                527,
+                184,
+                559,
+                194
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_048009_t1",
+      "bbox": [
+        15,
+        228,
+        564,
+        388
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            228,
+            564,
+            262
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            262,
+            564,
+            295
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            295,
+            564,
+            315
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            315,
+            564,
+            334
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            334,
+            564,
+            354
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            354,
+            564,
+            387
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td rowspan=\"2\">Group</td><td colspan=\"3\">Mean diameter of axons measured at each region (χ ± s)</td><td rowspan=\"2\">Mean diameter of axons of the 3 regions (χ ± s)</td></tr><tr><td>Midbrain (cases)</td><td>Pons (cases)</td><td>Medulla Oblongata (cases)</td></tr></thead><tbody><tr><td>Control Group 1</td><td>3.70 ± 0.70*(20)</td><td>3.95 ± 0.76*(20)</td><td>4.20 ± 0.73*(20)</td><td>3.95 ± 0.73*(20)</td></tr><tr><td>Control Group 2</td><td>3.64 ± 0.66*(20)</td><td>3.82 ± 0.69*(20)</td><td>4.01 ± 0.72*(20)</td><td>3.83 ± 0.68*(20)</td></tr><tr><td>Injury Group</td><td>4.73 ± 0.72(25)</td><td>4.78 ± 0.72(25)</td><td>5.23 ± 0.72(25)</td><td>4.91 ± 0.73(25)</td></tr><tr><td>Variance Analysis</td><td>F = 7.83, P &lt; 0.05</td><td>F = 5.16, P &lt; 0.05</td><td>F = 8.24, P &lt; 0.05</td><td>F = 20.70, P &lt; 0.05</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Group",
+          "bbox": [
+            15,
+            228,
+            93,
+            262
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                19,
+                232,
+                47,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Mean diameter of axons measured at each region (χ ± s)",
+          "bbox": [
+            93,
+            228,
+            366,
+            262
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                97,
+                232,
+                121,
+                243
+              ]
+            },
+            {
+              "text": "diameter",
+              "bbox": [
+                124,
+                232,
+                161,
+                243
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                163,
+                232,
+                171,
+                243
+              ]
+            },
+            {
+              "text": "axons",
+              "bbox": [
+                174,
+                232,
+                197,
+                243
+              ]
+            },
+            {
+              "text": "measured",
+              "bbox": [
+                200,
+                232,
+                240,
+                243
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                243,
+                232,
+                251,
+                243
+              ]
+            },
+            {
+              "text": "each",
+              "bbox": [
+                253,
+                232,
+                272,
+                243
+              ]
+            },
+            {
+              "text": "region",
+              "bbox": [
+                274,
+                232,
+                301,
+                243
+              ]
+            },
+            {
+              "text": "(χ",
+              "bbox": [
+                303,
+                232,
+                311,
+                243
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                313,
+                232,
+                319,
+                243
+              ]
+            },
+            {
+              "text": "s)",
+              "bbox": [
+                321,
+                232,
+                328,
+                243
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0,
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Mean diameter of axons of the 3 regions (χ ± s)",
+          "bbox": [
+            366,
+            228,
+            564,
+            262
+          ],
+          "words": [
+            {
+              "text": "Mean",
+              "bbox": [
+                375,
+                232,
+                399,
+                243
+              ]
+            },
+            {
+              "text": "diameter",
+              "bbox": [
+                402,
+                232,
+                439,
+                243
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                441,
+                232,
+                449,
+                243
+              ]
+            },
+            {
+              "text": "axons",
+              "bbox": [
+                452,
+                232,
+                475,
+                243
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                478,
+                232,
+                486,
+                243
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                488,
+                232,
+                501,
+                243
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                504,
+                232,
+                509,
+                243
+              ]
+            },
+            {
+              "text": "regions",
+              "bbox": [
+                511,
+                232,
+                541,
+                243
+              ]
+            },
+            {
+              "text": "(χ",
+              "bbox": [
+                544,
+                232,
+                551,
+                243
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                554,
+                232,
+                559,
+                243
+              ]
+            },
+            {
+              "text": "s)",
+              "bbox": [
+                552,
+                246,
+                559,
+                257
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Midbrain (cases)",
+          "bbox": [
+            15,
+            262,
+            93,
+            295
+          ],
+          "words": [
+            {
+              "text": "Midbrain",
+              "bbox": [
+                19,
+                265,
+                59,
+                276
+              ]
+            },
+            {
+              "text": "(cases)",
+              "bbox": [
+                19,
+                279,
+                47,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Pons (cases)",
+          "bbox": [
+            93,
+            262,
+            171,
+            295
+          ],
+          "words": [
+            {
+              "text": "Pons",
+              "bbox": [
+                97,
+                265,
+                117,
+                276
+              ]
+            },
+            {
+              "text": "(cases)",
+              "bbox": [
+                120,
+                265,
+                147,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Medulla Oblongata (cases)",
+          "bbox": [
+            171,
+            262,
+            288,
+            295
+          ],
+          "words": [
+            {
+              "text": "Medulla",
+              "bbox": [
+                203,
+                265,
+                237,
+                276
+              ]
+            },
+            {
+              "text": "Oblongata",
+              "bbox": [
+                240,
+                265,
+                283,
+                276
+              ]
+            },
+            {
+              "text": "(cases)",
+              "bbox": [
+                256,
+                279,
+                283,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Control Group 1",
+          "bbox": [
+            15,
+            295,
+            93,
+            315
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                19,
+                299,
+                49,
+                310
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                52,
+                299,
+                76,
+                310
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                79,
+                299,
+                84,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.70 ± 0.70*(20)",
+          "bbox": [
+            93,
+            295,
+            171,
+            315
+          ],
+          "words": [
+            {
+              "text": "3.70",
+              "bbox": [
+                97,
+                299,
+                114,
+                310
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                117,
+                299,
+                122,
+                310
+              ]
+            },
+            {
+              "text": "0.70*(20)",
+              "bbox": [
+                125,
+                299,
+                163,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "3.95 ± 0.76*(20)",
+          "bbox": [
+            171,
+            295,
+            288,
+            315
+          ],
+          "words": [
+            {
+              "text": "3.95",
+              "bbox": [
+                218,
+                299,
+                235,
+                310
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                237,
+                299,
+                243,
+                310
+              ]
+            },
+            {
+              "text": "0.76*(20)",
+              "bbox": [
+                245,
+                299,
+                283,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4.20 ± 0.73*(20)",
+          "bbox": [
+            288,
+            295,
+            366,
+            315
+          ],
+          "words": [
+            {
+              "text": "4.20",
+              "bbox": [
+                296,
+                299,
+                313,
+                310
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                315,
+                299,
+                321,
+                310
+              ]
+            },
+            {
+              "text": "0.73*(20)",
+              "bbox": [
+                323,
+                299,
+                361,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.95 ± 0.73*(20)",
+          "bbox": [
+            366,
+            295,
+            564,
+            315
+          ],
+          "words": [
+            {
+              "text": "3.95",
+              "bbox": [
+                494,
+                299,
+                511,
+                310
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                513,
+                299,
+                519,
+                310
+              ]
+            },
+            {
+              "text": "0.73*(20)",
+              "bbox": [
+                521,
+                299,
+                559,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Control Group 2",
+          "bbox": [
+            15,
+            315,
+            93,
+            334
+          ],
+          "words": [
+            {
+              "text": "Control",
+              "bbox": [
+                19,
+                319,
+                49,
+                330
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                52,
+                319,
+                76,
+                330
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                79,
+                319,
+                84,
+                330
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.64 ± 0.66*(20)",
+          "bbox": [
+            93,
+            315,
+            171,
+            334
+          ],
+          "words": [
+            {
+              "text": "3.64",
+              "bbox": [
+                97,
+                319,
+                114,
+                330
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                117,
+                319,
+                122,
+                330
+              ]
+            },
+            {
+              "text": "0.66*(20)",
+              "bbox": [
+                125,
+                319,
+                163,
+                330
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "3.82 ± 0.69*(20)",
+          "bbox": [
+            171,
+            315,
+            288,
+            334
+          ],
+          "words": [
+            {
+              "text": "3.82",
+              "bbox": [
+                218,
+                319,
+                235,
+                330
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                237,
+                319,
+                243,
+                330
+              ]
+            },
+            {
+              "text": "0.69*(20)",
+              "bbox": [
+                245,
+                319,
+                283,
+                330
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "4.01 ± 0.72*(20)",
+          "bbox": [
+            288,
+            315,
+            366,
+            334
+          ],
+          "words": [
+            {
+              "text": "4.01",
+              "bbox": [
+                296,
+                319,
+                313,
+                330
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                315,
+                319,
+                321,
+                330
+              ]
+            },
+            {
+              "text": "0.72*(20)",
+              "bbox": [
+                323,
+                319,
+                361,
+                330
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3.83 ± 0.68*(20)",
+          "bbox": [
+            366,
+            315,
+            564,
+            334
+          ],
+          "words": [
+            {
+              "text": "3.83",
+              "bbox": [
+                494,
+                319,
+                511,
+                330
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                513,
+                319,
+                519,
+                330
+              ]
+            },
+            {
+              "text": "0.68*(20)",
+              "bbox": [
+                521,
+                319,
+                559,
+                330
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Injury Group",
+          "bbox": [
+            15,
+            334,
+            93,
+            354
+          ],
+          "words": [
+            {
+              "text": "Injury",
+              "bbox": [
+                19,
+                338,
+                43,
+                349
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                46,
+                338,
+                70,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4.73 ± 0.72(25)",
+          "bbox": [
+            93,
+            334,
+            171,
+            354
+          ],
+          "words": [
+            {
+              "text": "4.73",
+              "bbox": [
+                97,
+                338,
+                114,
+                349
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                117,
+                338,
+                122,
+                349
+              ]
+            },
+            {
+              "text": "0.72(25)",
+              "bbox": [
+                125,
+                338,
+                158,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "4.78 ± 0.72(25)",
+          "bbox": [
+            171,
+            334,
+            288,
+            354
+          ],
+          "words": [
+            {
+              "text": "4.78",
+              "bbox": [
+                223,
+                338,
+                240,
+                349
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                242,
+                338,
+                248,
+                349
+              ]
+            },
+            {
+              "text": "0.72(25)",
+              "bbox": [
+                250,
+                338,
+                283,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5.23 ± 0.72(25)",
+          "bbox": [
+            288,
+            334,
+            366,
+            354
+          ],
+          "words": [
+            {
+              "text": "5.23",
+              "bbox": [
+                301,
+                338,
+                318,
+                349
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                320,
+                338,
+                326,
+                349
+              ]
+            },
+            {
+              "text": "0.72(25)",
+              "bbox": [
+                328,
+                338,
+                361,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4.91 ± 0.73(25)",
+          "bbox": [
+            366,
+            334,
+            564,
+            354
+          ],
+          "words": [
+            {
+              "text": "4.91",
+              "bbox": [
+                499,
+                338,
+                516,
+                349
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                518,
+                338,
+                523,
+                349
+              ]
+            },
+            {
+              "text": "0.73(25)",
+              "bbox": [
+                526,
+                338,
+                559,
+                349
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Variance Analysis",
+          "bbox": [
+            15,
+            354,
+            93,
+            387
+          ],
+          "words": [
+            {
+              "text": "Variance",
+              "bbox": [
+                19,
+                358,
+                53,
+                368
+              ]
+            },
+            {
+              "text": "Analysis",
+              "bbox": [
+                19,
+                371,
+                53,
+                382
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "F = 7.83, P < 0.05",
+          "bbox": [
+            93,
+            354,
+            171,
+            387
+          ],
+          "words": [
+            {
+              "text": "F",
+              "bbox": [
+                97,
+                358,
+                103,
+                368
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                105,
+                358,
+                111,
+                368
+              ]
+            },
+            {
+              "text": "7.83,",
+              "bbox": [
+                113,
+                358,
+                133,
+                368
+              ]
+            },
+            {
+              "text": "P",
+              "bbox": [
+                135,
+                358,
+                140,
+                368
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                143,
+                358,
+                148,
+                368
+              ]
+            },
+            {
+              "text": "0.05",
+              "bbox": [
+                97,
+                371,
+                114,
+                382
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "F = 5.16, P < 0.05",
+          "bbox": [
+            171,
+            354,
+            288,
+            387
+          ],
+          "words": [
+            {
+              "text": "F",
+              "bbox": [
+                213,
+                358,
+                219,
+                368
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                221,
+                358,
+                227,
+                368
+              ]
+            },
+            {
+              "text": "5.16,",
+              "bbox": [
+                229,
+                358,
+                249,
+                368
+              ]
+            },
+            {
+              "text": "P",
+              "bbox": [
+                251,
+                358,
+                256,
+                368
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                258,
+                358,
+                264,
+                368
+              ]
+            },
+            {
+              "text": "0.05",
+              "bbox": [
+                266,
+                358,
+                283,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "F = 8.24, P < 0.05",
+          "bbox": [
+            288,
+            354,
+            366,
+            387
+          ],
+          "words": [
+            {
+              "text": "F",
+              "bbox": [
+                311,
+                358,
+                316,
+                368
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                319,
+                358,
+                324,
+                368
+              ]
+            },
+            {
+              "text": "8.24,",
+              "bbox": [
+                326,
+                358,
+                346,
+                368
+              ]
+            },
+            {
+              "text": "P",
+              "bbox": [
+                348,
+                358,
+                353,
+                368
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                356,
+                358,
+                361,
+                368
+              ]
+            },
+            {
+              "text": "0.05",
+              "bbox": [
+                344,
+                371,
+                361,
+                382
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "F = 20.70, P < 0.05",
+          "bbox": [
+            366,
+            354,
+            564,
+            387
+          ],
+          "words": [
+            {
+              "text": "F",
+              "bbox": [
+                484,
+                358,
+                490,
+                368
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                492,
+                358,
+                497,
+                368
+              ]
+            },
+            {
+              "text": "20.70,",
+              "bbox": [
+                500,
+                358,
+                524,
+                368
+              ]
+            },
+            {
+              "text": "P",
+              "bbox": [
+                527,
+                358,
+                532,
+                368
+              ]
+            },
+            {
+              "text": "<",
+              "bbox": [
+                534,
+                358,
+                540,
+                368
+              ]
+            },
+            {
+              "text": "0.05",
+              "bbox": [
+                542,
+                358,
+                559,
+                368
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_048009_t2",
+      "bbox": [
+        15,
+        403,
+        564,
+        617
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            403,
+            564,
+            451
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            451,
+            564,
+            484
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            484,
+            564,
+            531
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            531,
+            564,
+            564
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            564,
+            564,
+            597
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            597,
+            564,
+            617
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>DNA polymerase</td><td>Hot Start activity</td><td>Number of clones sequenced</td><td>Bases sequenced</td><td>Number of bases deleted, inserted or substituted</td><td>Error rate (error/kb)</td><td>Number of deletions</td><td>Number of insertions</td><td>Number of substitutions</td></tr></thead><tbody><tr><td>KOD HS DNA pol.</td><td>yes</td><td>24</td><td>5720</td><td>5</td><td>0.87</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Q5® HS HF DNA pol.</td><td>yes</td><td>24</td><td>6240</td><td>10</td><td>1.6</td><td>6</td><td>1</td><td>3</td></tr><tr><td>NZYProof DNA pol.</td><td>no</td><td>24</td><td>6240</td><td>10</td><td>1.6</td><td>5</td><td>2</td><td>3</td></tr><tr><td>NZYTaq DNA pol.</td><td>no</td><td>24</td><td>5980</td><td>13</td><td>2.2</td><td>2</td><td>3</td><td>7</td></tr><tr><td>Total</td><td></td><td>96</td><td>24,180</td><td>38</td><td></td><td>15</td><td>7</td><td>15</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "DNA polymerase",
+          "bbox": [
+            15,
+            403,
+            70,
+            451
+          ],
+          "words": [
+            {
+              "text": "DNA",
+              "bbox": [
+                19,
+                407,
+                40,
+                418
+              ]
+            },
+            {
+              "text": "polymerase",
+              "bbox": [
+                19,
+                421,
+                63,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Hot Start activity",
+          "bbox": [
+            70,
+            403,
+            118,
+            451
+          ],
+          "words": [
+            {
+              "text": "Hot",
+              "bbox": [
+                75,
+                407,
+                91,
+                418
+              ]
+            },
+            {
+              "text": "Start",
+              "bbox": [
+                75,
+                421,
+                96,
+                432
+              ]
+            },
+            {
+              "text": "activity",
+              "bbox": [
+                75,
+                435,
+                106,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of clones sequenced",
+          "bbox": [
+            118,
+            403,
+            187,
+            451
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                123,
+                407,
+                157,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                160,
+                407,
+                168,
+                418
+              ]
+            },
+            {
+              "text": "clones",
+              "bbox": [
+                123,
+                421,
+                148,
+                432
+              ]
+            },
+            {
+              "text": "sequenced",
+              "bbox": [
+                123,
+                435,
+                166,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Bases sequenced",
+          "bbox": [
+            187,
+            403,
+            232,
+            451
+          ],
+          "words": [
+            {
+              "text": "Bases",
+              "bbox": [
+                192,
+                407,
+                215,
+                418
+              ]
+            },
+            {
+              "text": "sequenced",
+              "bbox": [
+                192,
+                421,
+                225,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of bases deleted, inserted or substituted",
+          "bbox": [
+            232,
+            403,
+            340,
+            451
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                266,
+                407,
+                300,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                303,
+                407,
+                311,
+                418
+              ]
+            },
+            {
+              "text": "bases",
+              "bbox": [
+                313,
+                407,
+                335,
+                418
+              ]
+            },
+            {
+              "text": "deleted,",
+              "bbox": [
+                256,
+                421,
+                288,
+                432
+              ]
+            },
+            {
+              "text": "inserted",
+              "bbox": [
+                290,
+                421,
+                324,
+                432
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                326,
+                421,
+                335,
+                432
+              ]
+            },
+            {
+              "text": "substituted",
+              "bbox": [
+                289,
+                435,
+                335,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Error rate (error/kb)",
+          "bbox": [
+            340,
+            403,
+            394,
+            451
+          ],
+          "words": [
+            {
+              "text": "Error",
+              "bbox": [
+                346,
+                407,
+                370,
+                418
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                373,
+                407,
+                389,
+                418
+              ]
+            },
+            {
+              "text": "(error/kb)",
+              "bbox": [
+                347,
+                421,
+                389,
+                432
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of deletions",
+          "bbox": [
+            394,
+            403,
+            448,
+            451
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                408,
+                407,
+                443,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                435,
+                421,
+                443,
+                432
+              ]
+            },
+            {
+              "text": "deletions",
+              "bbox": [
+                406,
+                435,
+                443,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of insertions",
+          "bbox": [
+            448,
+            403,
+            503,
+            451
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                453,
+                407,
+                487,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                490,
+                407,
+                498,
+                418
+              ]
+            },
+            {
+              "text": "insertions",
+              "bbox": [
+                457,
+                421,
+                498,
+                432
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Number of substitutions",
+          "bbox": [
+            503,
+            403,
+            564,
+            451
+          ],
+          "words": [
+            {
+              "text": "Number",
+              "bbox": [
+                514,
+                407,
+                549,
+                418
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                551,
+                407,
+                559,
+                418
+              ]
+            },
+            {
+              "text": "substitutions",
+              "bbox": [
+                510,
+                421,
+                559,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "KOD HS DNA pol.",
+          "bbox": [
+            15,
+            451,
+            70,
+            484
+          ],
+          "words": [
+            {
+              "text": "KOD",
+              "bbox": [
+                19,
+                455,
+                41,
+                466
+              ]
+            },
+            {
+              "text": "HS",
+              "bbox": [
+                43,
+                455,
+                55,
+                466
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                19,
+                469,
+                40,
+                479
+              ]
+            },
+            {
+              "text": "pol.",
+              "bbox": [
+                42,
+                469,
+                57,
+                479
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "yes",
+          "bbox": [
+            70,
+            451,
+            118,
+            484
+          ],
+          "words": [
+            {
+              "text": "yes",
+              "bbox": [
+                75,
+                455,
+                88,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "24",
+          "bbox": [
+            118,
+            451,
+            187,
+            484
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                123,
+                455,
+                133,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5720",
+          "bbox": [
+            187,
+            451,
+            232,
+            484
+          ],
+          "words": [
+            {
+              "text": "5720",
+              "bbox": [
+                192,
+                455,
+                212,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            232,
+            451,
+            340,
+            484
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                330,
+                455,
+                335,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "0.87",
+          "bbox": [
+            340,
+            451,
+            394,
+            484
+          ],
+          "words": [
+            {
+              "text": "0.87",
+              "bbox": [
+                372,
+                455,
+                389,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            394,
+            451,
+            448,
+            484
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                438,
+                455,
+                443,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            448,
+            451,
+            503,
+            484
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                493,
+                455,
+                498,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            503,
+            451,
+            564,
+            484
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                554,
+                455,
+                559,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Q5® HS HF DNA pol.",
+          "bbox": [
+            15,
+            484,
+            70,
+            531
+          ],
+          "words": [
+            {
+              "text": "Q5®",
+              "bbox": [
+                19,
+                488,
+                39,
+                499
+              ]
+            },
+            {
+              "text": "HS",
+              "bbox": [
+                41,
+                488,
+                54,
+                499
+              ]
+            },
+            {
+              "text": "HF",
+              "bbox": [
+                19,
+                502,
+                32,
+                512
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                34,
+                502,
+                55,
+                512
+              ]
+            },
+            {
+              "text": "pol.",
+              "bbox": [
+                19,
+                515,
+                34,
+                526
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "yes",
+          "bbox": [
+            70,
+            484,
+            118,
+            531
+          ],
+          "words": [
+            {
+              "text": "yes",
+              "bbox": [
+                75,
+                488,
+                88,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "24",
+          "bbox": [
+            118,
+            484,
+            187,
+            531
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                123,
+                488,
+                133,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6240",
+          "bbox": [
+            187,
+            484,
+            232,
+            531
+          ],
+          "words": [
+            {
+              "text": "6240",
+              "bbox": [
+                192,
+                488,
+                212,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            232,
+            484,
+            340,
+            531
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                326,
+                488,
+                335,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.6",
+          "bbox": [
+            340,
+            484,
+            394,
+            531
+          ],
+          "words": [
+            {
+              "text": "1.6",
+              "bbox": [
+                377,
+                488,
+                389,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            394,
+            484,
+            448,
+            531
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                438,
+                488,
+                443,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "1",
+          "bbox": [
+            448,
+            484,
+            503,
+            531
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                493,
+                488,
+                498,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "3",
+          "bbox": [
+            503,
+            484,
+            564,
+            531
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                554,
+                488,
+                559,
+                499
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "NZYProof DNA pol.",
+          "bbox": [
+            15,
+            531,
+            70,
+            564
+          ],
+          "words": [
+            {
+              "text": "NZYProof",
+              "bbox": [
+                19,
+                535,
+                61,
+                545
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                19,
+                548,
+                40,
+                559
+              ]
+            },
+            {
+              "text": "pol.",
+              "bbox": [
+                42,
+                548,
+                57,
+                559
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "no",
+          "bbox": [
+            70,
+            531,
+            118,
+            564
+          ],
+          "words": [
+            {
+              "text": "no",
+              "bbox": [
+                75,
+                535,
+                85,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "24",
+          "bbox": [
+            118,
+            531,
+            187,
+            564
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                123,
+                535,
+                133,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6240",
+          "bbox": [
+            187,
+            531,
+            232,
+            564
+          ],
+          "words": [
+            {
+              "text": "6240",
+              "bbox": [
+                192,
+                535,
+                212,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            232,
+            531,
+            340,
+            564
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                326,
+                535,
+                335,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.6",
+          "bbox": [
+            340,
+            531,
+            394,
+            564
+          ],
+          "words": [
+            {
+              "text": "1.6",
+              "bbox": [
+                377,
+                535,
+                389,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            394,
+            531,
+            448,
+            564
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                438,
+                535,
+                443,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            448,
+            531,
+            503,
+            564
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                493,
+                535,
+                498,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "3",
+          "bbox": [
+            503,
+            531,
+            564,
+            564
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                554,
+                535,
+                559,
+                545
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "NZYTaq DNA pol.",
+          "bbox": [
+            15,
+            564,
+            70,
+            597
+          ],
+          "words": [
+            {
+              "text": "NZYTaq",
+              "bbox": [
+                19,
+                568,
+                54,
+                579
+              ]
+            },
+            {
+              "text": "DNA",
+              "bbox": [
+                19,
+                581,
+                40,
+                592
+              ]
+            },
+            {
+              "text": "pol.",
+              "bbox": [
+                42,
+                581,
+                57,
+                592
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "no",
+          "bbox": [
+            70,
+            564,
+            118,
+            597
+          ],
+          "words": [
+            {
+              "text": "no",
+              "bbox": [
+                75,
+                568,
+                85,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "24",
+          "bbox": [
+            118,
+            564,
+            187,
+            597
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                123,
+                568,
+                133,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5980",
+          "bbox": [
+            187,
+            564,
+            232,
+            597
+          ],
+          "words": [
+            {
+              "text": "5980",
+              "bbox": [
+                192,
+                568,
+                212,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "13",
+          "bbox": [
+            232,
+            564,
+            340,
+            597
+          ],
+          "words": [
+            {
+              "text": "13",
+              "bbox": [
+                326,
+                568,
+                335,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "2.2",
+          "bbox": [
+            340,
+            564,
+            394,
+            597
+          ],
+          "words": [
+            {
+              "text": "2.2",
+              "bbox": [
+                377,
+                568,
+                389,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            394,
+            564,
+            448,
+            597
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                438,
+                568,
+                443,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "3",
+          "bbox": [
+            448,
+            564,
+            503,
+            597
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                493,
+                568,
+                498,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "7",
+          "bbox": [
+            503,
+            564,
+            564,
+            597
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                554,
+                568,
+                559,
+                579
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            15,
+            597,
+            70,
+            617
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                19,
+                601,
+                39,
+                612
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            70,
+            597,
+            118,
+            617
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "96",
+          "bbox": [
+            118,
+            597,
+            187,
+            617
+          ],
+          "words": [
+            {
+              "text": "96",
+              "bbox": [
+                123,
+                601,
+                133,
+                612
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "24,180",
+          "bbox": [
+            187,
+            597,
+            232,
+            617
+          ],
+          "words": [
+            {
+              "text": "24,180",
+              "bbox": [
+                192,
+                601,
+                219,
+                612
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "38",
+          "bbox": [
+            232,
+            597,
+            340,
+            617
+          ],
+          "words": [
+            {
+              "text": "38",
+              "bbox": [
+                326,
+                601,
+                335,
+                612
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            340,
+            597,
+            394,
+            617
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "15",
+          "bbox": [
+            394,
+            597,
+            448,
+            617
+          ],
+          "words": [
+            {
+              "text": "15",
+              "bbox": [
+                433,
+                601,
+                443,
+                612
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "7",
+          "bbox": [
+            448,
+            597,
+            503,
+            617
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                493,
+                601,
+                498,
+                612
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "15",
+          "bbox": [
+            503,
+            597,
+            564,
+            617
+          ],
+          "words": [
+            {
+              "text": "15",
+              "bbox": [
+                549,
+                601,
+                559,
+                612
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        632,
+        564,
+        782
+      ],
+      "content": "The analysis of genetic data pertaining to *Brassica rapa* highlights significant insights into gene redundancy and orthologous relationships. The table delineates the total genes identified as 41,174, of which 38,161 had tandem redundancy removed, indicating a focused effort to streamline genomic data for more accurate interpretations. This reduction is crucial for understanding the evolutionary dynamics of *B. rapa* and its syntenic relationships within the Brassica family. Notably, the metrics concerning the midbrain, pons, and medulla oblongata cases offer a glimpse into the neurological implications of genetic variations, particularly in Control Group 1, where midbrain cases reveal a hot start activity of 3.70 ± 0.70*(20). These findings suggest a potential correlation between specific genetic markers and neurological development, warranting further exploration into the roles these genes play. Additionally, the error rate of error/kb provides essential context for the reliability of the sequencing data, underscoring the importance of precision in genomic studies. The data collectively contribute to our understanding of the genetic landscape of *B. rapa*, paving the way for future research endeavors.",
+      "lines": [
+        {
+          "text": "The analysis of genetic data pertaining to *Brassica rapa* highlights significant insights into gene redundancy and orthologous",
+          "bbox": [
+            15,
+            633,
+            564,
+            645
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                633,
+                31,
+                645
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                34,
+                633,
+                69,
+                645
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                72,
+                633,
+                81,
+                645
+              ]
+            },
+            {
+              "text": "genetic",
+              "bbox": [
+                84,
+                633,
+                115,
+                645
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                118,
+                633,
+                136,
+                645
+              ]
+            },
+            {
+              "text": "pertaining",
+              "bbox": [
+                139,
+                633,
+                182,
+                645
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                185,
+                633,
+                193,
+                645
+              ]
+            },
+            {
+              "text": "*Brassica",
+              "bbox": [
+                196,
+                633,
+                238,
+                645
+              ]
+            },
+            {
+              "text": "rapa*",
+              "bbox": [
+                241,
+                633,
+                265,
+                645
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                268,
+                633,
+                311,
+                645
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                314,
+                633,
+                359,
+                645
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                362,
+                633,
+                395,
+                645
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                398,
+                633,
+                415,
+                645
+              ]
+            },
+            {
+              "text": "gene",
+              "bbox": [
+                418,
+                633,
+                438,
+                645
+              ]
+            },
+            {
+              "text": "redundancy",
+              "bbox": [
+                441,
+                633,
+                491,
+                645
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                494,
+                633,
+                510,
+                645
+              ]
+            },
+            {
+              "text": "orthologous",
+              "bbox": [
+                513,
+                633,
+                564,
+                645
+              ]
+            }
+          ]
+        },
+        {
+          "text": "relationships. The table delineates the total genes identified as 41,174, of which 38,161 had tandem redundancy removed,",
+          "bbox": [
+            15,
+            648,
+            564,
+            660
+          ],
+          "words": [
+            {
+              "text": "relationships.",
+              "bbox": [
+                15,
+                648,
+                72,
+                660
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                76,
+                648,
+                93,
+                660
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                97,
+                648,
+                118,
+                660
+              ]
+            },
+            {
+              "text": "delineates",
+              "bbox": [
+                123,
+                648,
+                165,
+                660
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                170,
+                648,
+                183,
+                660
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                188,
+                648,
+                207,
+                660
+              ]
+            },
+            {
+              "text": "genes",
+              "bbox": [
+                211,
+                648,
+                235,
+                660
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                240,
+                648,
+                281,
+                660
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                285,
+                648,
+                294,
+                660
+              ]
+            },
+            {
+              "text": "41,174,",
+              "bbox": [
+                299,
+                648,
+                331,
+                660
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                335,
+                648,
+                344,
+                660
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                349,
+                648,
+                375,
+                660
+              ]
+            },
+            {
+              "text": "38,161",
+              "bbox": [
+                380,
+                648,
+                409,
+                660
+              ]
+            },
+            {
+              "text": "had",
+              "bbox": [
+                413,
+                648,
+                429,
+                660
+              ]
+            },
+            {
+              "text": "tandem",
+              "bbox": [
+                433,
+                648,
+                465,
+                660
+              ]
+            },
+            {
+              "text": "redundancy",
+              "bbox": [
+                469,
+                648,
+                519,
+                660
+              ]
+            },
+            {
+              "text": "removed,",
+              "bbox": [
+                524,
+                648,
+                564,
+                660
+              ]
+            }
+          ]
+        },
+        {
+          "text": "indicating a focused effort to streamline genomic data for more accurate interpretations. This reduction is crucial for",
+          "bbox": [
+            15,
+            663,
+            564,
+            675
+          ],
+          "words": [
+            {
+              "text": "indicating",
+              "bbox": [
+                15,
+                663,
+                57,
+                675
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                63,
+                663,
+                68,
+                675
+              ]
+            },
+            {
+              "text": "focused",
+              "bbox": [
+                74,
+                663,
+                107,
+                675
+              ]
+            },
+            {
+              "text": "effort",
+              "bbox": [
+                113,
+                663,
+                137,
+                675
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                143,
+                663,
+                151,
+                675
+              ]
+            },
+            {
+              "text": "streamline",
+              "bbox": [
+                157,
+                663,
+                202,
+                675
+              ]
+            },
+            {
+              "text": "genomic",
+              "bbox": [
+                207,
+                663,
+                244,
+                675
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                250,
+                663,
+                268,
+                675
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                274,
+                663,
+                286,
+                675
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                292,
+                663,
+                314,
+                675
+              ]
+            },
+            {
+              "text": "accurate",
+              "bbox": [
+                320,
+                663,
+                356,
+                675
+              ]
+            },
+            {
+              "text": "interpretations.",
+              "bbox": [
+                362,
+                663,
+                426,
+                675
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                432,
+                663,
+                451,
+                675
+              ]
+            },
+            {
+              "text": "reduction",
+              "bbox": [
+                457,
+                663,
+                497,
+                675
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                503,
+                663,
+                510,
+                675
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                516,
+                663,
+                546,
+                675
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                551,
+                663,
+                564,
+                675
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding the evolutionary dynamics of *B. rapa* and its syntenic relationships within the Brassica family. Notably, the",
+          "bbox": [
+            15,
+            678,
+            564,
+            690
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                678,
+                75,
+                690
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                79,
+                678,
+                92,
+                690
+              ]
+            },
+            {
+              "text": "evolutionary",
+              "bbox": [
+                96,
+                678,
+                150,
+                690
+              ]
+            },
+            {
+              "text": "dynamics",
+              "bbox": [
+                154,
+                678,
+                195,
+                690
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                199,
+                678,
+                207,
+                690
+              ]
+            },
+            {
+              "text": "*B.",
+              "bbox": [
+                211,
+                678,
+                226,
+                690
+              ]
+            },
+            {
+              "text": "rapa*",
+              "bbox": [
+                230,
+                678,
+                254,
+                690
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                258,
+                678,
+                273,
+                690
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                277,
+                678,
+                287,
+                690
+              ]
+            },
+            {
+              "text": "syntenic",
+              "bbox": [
+                291,
+                678,
+                327,
+                690
+              ]
+            },
+            {
+              "text": "relationships",
+              "bbox": [
+                330,
+                678,
+                385,
+                690
+              ]
+            },
+            {
+              "text": "within",
+              "bbox": [
+                389,
+                678,
+                416,
+                690
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                420,
+                678,
+                433,
+                690
+              ]
+            },
+            {
+              "text": "Brassica",
+              "bbox": [
+                437,
+                678,
+                473,
+                690
+              ]
+            },
+            {
+              "text": "family.",
+              "bbox": [
+                477,
+                678,
+                507,
+                690
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                511,
+                678,
+                547,
+                690
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                551,
+                678,
+                564,
+                690
+              ]
+            }
+          ]
+        },
+        {
+          "text": "metrics concerning the midbrain, pons, and medulla oblongata cases offer a glimpse into the neurological implications of",
+          "bbox": [
+            15,
+            693,
+            564,
+            704
+          ],
+          "words": [
+            {
+              "text": "metrics",
+              "bbox": [
+                15,
+                693,
+                46,
+                704
+              ]
+            },
+            {
+              "text": "concerning",
+              "bbox": [
+                51,
+                693,
+                98,
+                704
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                103,
+                693,
+                116,
+                704
+              ]
+            },
+            {
+              "text": "midbrain,",
+              "bbox": [
+                121,
+                693,
+                162,
+                704
+              ]
+            },
+            {
+              "text": "pons,",
+              "bbox": [
+                167,
+                693,
+                189,
+                704
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                194,
+                693,
+                209,
+                704
+              ]
+            },
+            {
+              "text": "medulla",
+              "bbox": [
+                214,
+                693,
+                249,
+                704
+              ]
+            },
+            {
+              "text": "oblongata",
+              "bbox": [
+                253,
+                693,
+                295,
+                704
+              ]
+            },
+            {
+              "text": "cases",
+              "bbox": [
+                300,
+                693,
+                323,
+                704
+              ]
+            },
+            {
+              "text": "offer",
+              "bbox": [
+                327,
+                693,
+                348,
+                704
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                352,
+                693,
+                357,
+                704
+              ]
+            },
+            {
+              "text": "glimpse",
+              "bbox": [
+                362,
+                693,
+                396,
+                704
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                400,
+                693,
+                417,
+                704
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                422,
+                693,
+                435,
+                704
+              ]
+            },
+            {
+              "text": "neurological",
+              "bbox": [
+                439,
+                693,
+                493,
+                704
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                497,
+                693,
+                550,
+                704
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                555,
+                693,
+                564,
+                704
+              ]
+            }
+          ]
+        },
+        {
+          "text": "genetic variations, particularly in Control Group 1, where midbrain cases reveal a hot start activity of 3.70 ± 0.70*(20). These",
+          "bbox": [
+            15,
+            708,
+            564,
+            719
+          ],
+          "words": [
+            {
+              "text": "genetic",
+              "bbox": [
+                15,
+                708,
+                45,
+                719
+              ]
+            },
+            {
+              "text": "variations,",
+              "bbox": [
+                49,
+                708,
+                94,
+                719
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                97,
+                708,
+                146,
+                719
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                149,
+                708,
+                158,
+                719
+              ]
+            },
+            {
+              "text": "Control",
+              "bbox": [
+                161,
+                708,
+                194,
+                719
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                197,
+                708,
+                224,
+                719
+              ]
+            },
+            {
+              "text": "1,",
+              "bbox": [
+                228,
+                708,
+                236,
+                719
+              ]
+            },
+            {
+              "text": "where",
+              "bbox": [
+                239,
+                708,
+                265,
+                719
+              ]
+            },
+            {
+              "text": "midbrain",
+              "bbox": [
+                268,
+                708,
+                307,
+                719
+              ]
+            },
+            {
+              "text": "cases",
+              "bbox": [
+                310,
+                708,
+                333,
+                719
+              ]
+            },
+            {
+              "text": "reveal",
+              "bbox": [
+                336,
+                708,
+                362,
+                719
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                365,
+                708,
+                370,
+                719
+              ]
+            },
+            {
+              "text": "hot",
+              "bbox": [
+                373,
+                708,
+                387,
+                719
+              ]
+            },
+            {
+              "text": "start",
+              "bbox": [
+                390,
+                708,
+                409,
+                719
+              ]
+            },
+            {
+              "text": "activity",
+              "bbox": [
+                412,
+                708,
+                444,
+                719
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                447,
+                708,
+                456,
+                719
+              ]
+            },
+            {
+              "text": "3.70",
+              "bbox": [
+                460,
+                708,
+                478,
+                719
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                482,
+                708,
+                487,
+                719
+              ]
+            },
+            {
+              "text": "0.70*(20).",
+              "bbox": [
+                491,
+                708,
+                535,
+                719
+              ]
+            },
+            {
+              "text": "These",
+              "bbox": [
+                538,
+                708,
+                564,
+                719
+              ]
+            }
+          ]
+        },
+        {
+          "text": "findings suggest a potential correlation between specific genetic markers and neurological development, warranting further",
+          "bbox": [
+            15,
+            723,
+            564,
+            734
+          ],
+          "words": [
+            {
+              "text": "findings",
+              "bbox": [
+                15,
+                723,
+                50,
+                734
+              ]
+            },
+            {
+              "text": "suggest",
+              "bbox": [
+                54,
+                723,
+                86,
+                734
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                91,
+                723,
+                95,
+                734
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                100,
+                723,
+                137,
+                734
+              ]
+            },
+            {
+              "text": "correlation",
+              "bbox": [
+                142,
+                723,
+                188,
+                734
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                192,
+                723,
+                228,
+                734
+              ]
+            },
+            {
+              "text": "specific",
+              "bbox": [
+                232,
+                723,
+                266,
+                734
+              ]
+            },
+            {
+              "text": "genetic",
+              "bbox": [
+                270,
+                723,
+                301,
+                734
+              ]
+            },
+            {
+              "text": "markers",
+              "bbox": [
+                305,
+                723,
+                340,
+                734
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                344,
+                723,
+                360,
+                734
+              ]
+            },
+            {
+              "text": "neurological",
+              "bbox": [
+                364,
+                723,
+                417,
+                734
+              ]
+            },
+            {
+              "text": "development,",
+              "bbox": [
+                422,
+                723,
+                480,
+                734
+              ]
+            },
+            {
+              "text": "warranting",
+              "bbox": [
+                484,
+                723,
+                530,
+                734
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                535,
+                723,
+                564,
+                734
+              ]
+            }
+          ]
+        },
+        {
+          "text": "exploration into the roles these genes play. Additionally, the error rate of error/kb provides essential context for the reliability of",
+          "bbox": [
+            15,
+            738,
+            564,
+            749
+          ],
+          "words": [
+            {
+              "text": "exploration",
+              "bbox": [
+                15,
+                738,
+                63,
+                749
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                66,
+                738,
+                83,
+                749
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                86,
+                738,
+                99,
+                749
+              ]
+            },
+            {
+              "text": "roles",
+              "bbox": [
+                101,
+                738,
+                122,
+                749
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                125,
+                738,
+                147,
+                749
+              ]
+            },
+            {
+              "text": "genes",
+              "bbox": [
+                150,
+                738,
+                174,
+                749
+              ]
+            },
+            {
+              "text": "play.",
+              "bbox": [
+                177,
+                738,
+                197,
+                749
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                200,
+                738,
+                256,
+                749
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                259,
+                738,
+                272,
+                749
+              ]
+            },
+            {
+              "text": "error",
+              "bbox": [
+                274,
+                738,
+                295,
+                749
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                298,
+                738,
+                314,
+                749
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                317,
+                738,
+                326,
+                749
+              ]
+            },
+            {
+              "text": "error/kb",
+              "bbox": [
+                329,
+                738,
+                363,
+                749
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                366,
+                738,
+                403,
+                749
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                405,
+                738,
+                442,
+                749
+              ]
+            },
+            {
+              "text": "context",
+              "bbox": [
+                445,
+                738,
+                477,
+                749
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                479,
+                738,
+                492,
+                749
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                495,
+                738,
+                508,
+                749
+              ]
+            },
+            {
+              "text": "reliability",
+              "bbox": [
+                511,
+                738,
+                552,
+                749
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                555,
+                738,
+                564,
+                749
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the sequencing data, underscoring the importance of precision in genomic studies. The data collectively contribute to our",
+          "bbox": [
+            15,
+            753,
+            564,
+            764
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                15,
+                753,
+                28,
+                764
+              ]
+            },
+            {
+              "text": "sequencing",
+              "bbox": [
+                32,
+                753,
+                80,
+                764
+              ]
+            },
+            {
+              "text": "data,",
+              "bbox": [
+                85,
+                753,
+                106,
+                764
+              ]
+            },
+            {
+              "text": "underscoring",
+              "bbox": [
+                110,
+                753,
+                166,
+                764
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                171,
+                753,
+                184,
+                764
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                189,
+                753,
+                237,
+                764
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                241,
+                753,
+                250,
+                764
+              ]
+            },
+            {
+              "text": "precision",
+              "bbox": [
+                255,
+                753,
+                294,
+                764
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                299,
+                753,
+                307,
+                764
+              ]
+            },
+            {
+              "text": "genomic",
+              "bbox": [
+                312,
+                753,
+                349,
+                764
+              ]
+            },
+            {
+              "text": "studies.",
+              "bbox": [
+                353,
+                753,
+                386,
+                764
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                390,
+                753,
+                407,
+                764
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                412,
+                753,
+                429,
+                764
+              ]
+            },
+            {
+              "text": "collectively",
+              "bbox": [
+                434,
+                753,
+                484,
+                764
+              ]
+            },
+            {
+              "text": "contribute",
+              "bbox": [
+                489,
+                753,
+                532,
+                764
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                537,
+                753,
+                545,
+                764
+              ]
+            },
+            {
+              "text": "our",
+              "bbox": [
+                550,
+                753,
+                564,
+                764
+              ]
+            }
+          ]
+        },
+        {
+          "text": "understanding of the genetic landscape of *B. rapa*, paving the way for future research endeavors.",
+          "bbox": [
+            15,
+            768,
+            438,
+            779
+          ],
+          "words": [
+            {
+              "text": "understanding",
+              "bbox": [
+                15,
+                768,
+                75,
+                779
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                78,
+                768,
+                87,
+                779
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                89,
+                768,
+                103,
+                779
+              ]
+            },
+            {
+              "text": "genetic",
+              "bbox": [
+                105,
+                768,
+                136,
+                779
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                139,
+                768,
+                181,
+                779
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                184,
+                768,
+                192,
+                779
+              ]
+            },
+            {
+              "text": "*B.",
+              "bbox": [
+                195,
+                768,
+                210,
+                779
+              ]
+            },
+            {
+              "text": "rapa*,",
+              "bbox": [
+                213,
+                768,
+                239,
+                779
+              ]
+            },
+            {
+              "text": "paving",
+              "bbox": [
+                242,
+                768,
+                271,
+                779
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                274,
+                768,
+                287,
+                779
+              ]
+            },
+            {
+              "text": "way",
+              "bbox": [
+                290,
+                768,
+                307,
+                779
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                310,
+                768,
+                323,
+                779
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                325,
+                768,
+                351,
+                779
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                353,
+                768,
+                389,
+                779
+              ]
+            },
+            {
+              "text": "endeavors.",
+              "bbox": [
+                392,
+                768,
+                438,
+                779
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

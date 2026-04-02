@@ -1,0 +1,3967 @@
+{
+  "image_id": "img_127222",
+  "subset": "S3",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_127222_t0",
+      "bbox": [
+        15,
+        254,
+        580,
+        489
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "Watermark",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            255,
+            580,
+            290
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            290,
+            580,
+            353
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            353,
+            580,
+            387
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            387,
+            580,
+            421
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            421,
+            580,
+            455
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            455,
+            580,
+            489
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td>DrugName</td><td>MarketShare</td><td>Revenue(CAD)</td><td>NetIncome(CAD)</td><td>PatentExpiryDate</td><td colspan=\"4\">SalesImpactAnalysis</td><td colspan=\"2\">CostSavings</td></tr><tr><td>Year</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>ProjectedLoss</td><td>RevenueImpact</td><td>MarketGrowth</td><td>RiskAssessment</td></tr><tr><td>ProductA</td><td>25%</td><td>$200M</td><td>$50M</td><td>2024-05-15</td><td>Moderate</td><td>$20M</td><td>5%</td><td>8%</td><td>Low</td><td>ProductB</td></tr><tr><td>15%</td><td>$150M</td><td>$30M</td><td>2023-11-30</td><td>High</td><td>$50M</td><td>10%</td><td>7%</td><td>Medium</td><td>ProductC</td><td>20%</td></tr><tr><td>$180M</td><td>$40M</td><td>2025-01-10</td><td>Low</td><td>$10M</td><td>6%</td><td>9%</td><td>High</td><td>ProductD</td><td>30%</td><td>$250M</td></tr><tr><td>$60M</td><td>2026-07-22</td><td>Moderate</td><td>$30M</td><td>4%</td><td>5%</td><td>Medium</td><td>ProductE</td><td>10%</td><td>$120M</td><td>$25M</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "DrugName",
+          "bbox": [
+            16,
+            255,
+            90,
+            290
+          ],
+          "words": [
+            {
+              "text": "DrugName",
+              "bbox": [
+                21,
+                259,
+                68,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare",
+          "bbox": [
+            90,
+            255,
+            165,
+            290
+          ],
+          "words": [
+            {
+              "text": "MarketShare",
+              "bbox": [
+                96,
+                259,
+                153,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(CAD)",
+          "bbox": [
+            165,
+            255,
+            240,
+            290
+          ],
+          "words": [
+            {
+              "text": "Revenue(CAD)",
+              "bbox": [
+                170,
+                259,
+                232,
+                284
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome(CAD)",
+          "bbox": [
+            240,
+            255,
+            314,
+            290
+          ],
+          "words": [
+            {
+              "text": "NetIncome(CAD)",
+              "bbox": [
+                245,
+                259,
+                302,
+                284
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "PatentExpiryDate",
+          "bbox": [
+            314,
+            255,
+            389,
+            290
+          ],
+          "words": [
+            {
+              "text": "PatentExpiryDate",
+              "bbox": [
+                320,
+                259,
+                377,
+                284
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "SalesImpactAnalysis",
+          "bbox": [
+            389,
+            255,
+            516,
+            290
+          ],
+          "words": [
+            {
+              "text": "SalesImpactAnalysis",
+              "bbox": [
+                422,
+                259,
+                510,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            9,
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "CostSavings",
+          "bbox": [
+            516,
+            255,
+            580,
+            290
+          ],
+          "words": [
+            {
+              "text": "CostSavings",
+              "bbox": [
+                522,
+                259,
+                574,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Year",
+          "bbox": [
+            16,
+            290,
+            90,
+            353
+          ],
+          "words": [
+            {
+              "text": "Year",
+              "bbox": [
+                21,
+                294,
+                41,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "2023",
+          "bbox": [
+            90,
+            290,
+            165,
+            353
+          ],
+          "words": [
+            {
+              "text": "2023",
+              "bbox": [
+                96,
+                294,
+                116,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "2024",
+          "bbox": [
+            165,
+            290,
+            240,
+            353
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                170,
+                294,
+                190,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "2025",
+          "bbox": [
+            240,
+            290,
+            314,
+            353
+          ],
+          "words": [
+            {
+              "text": "2025",
+              "bbox": [
+                245,
+                294,
+                265,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "2026",
+          "bbox": [
+            314,
+            290,
+            389,
+            353
+          ],
+          "words": [
+            {
+              "text": "2026",
+              "bbox": [
+                320,
+                294,
+                340,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "2027",
+          "bbox": [
+            389,
+            290,
+            421,
+            353
+          ],
+          "words": [
+            {
+              "text": "2027",
+              "bbox": [
+                395,
+                294,
+                415,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "2028",
+          "bbox": [
+            421,
+            290,
+            453,
+            353
+          ],
+          "words": [
+            {
+              "text": "2028",
+              "bbox": [
+                427,
+                294,
+                447,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "ProjectedLoss",
+          "bbox": [
+            453,
+            290,
+            484,
+            353
+          ],
+          "words": [
+            {
+              "text": "ProjectedLoss",
+              "bbox": [
+                460,
+                294,
+                479,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "RevenueImpact",
+          "bbox": [
+            484,
+            290,
+            516,
+            353
+          ],
+          "words": [
+            {
+              "text": "RevenueImpact",
+              "bbox": [
+                490,
+                294,
+                510,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketGrowth",
+          "bbox": [
+            516,
+            290,
+            548,
+            353
+          ],
+          "words": [
+            {
+              "text": "MarketGrowth",
+              "bbox": [
+                523,
+                294,
+                542,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": true,
+          "cell_text": "RiskAssessment",
+          "bbox": [
+            548,
+            290,
+            580,
+            353
+          ],
+          "words": [
+            {
+              "text": "RiskAssessment",
+              "bbox": [
+                553,
+                294,
+                574,
+                347
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "ProductA",
+          "bbox": [
+            16,
+            353,
+            90,
+            387
+          ],
+          "words": [
+            {
+              "text": "ProductA",
+              "bbox": [
+                21,
+                357,
+                59,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "25%",
+          "bbox": [
+            90,
+            353,
+            165,
+            387
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                95,
+                357,
+                114,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$200M",
+          "bbox": [
+            165,
+            353,
+            240,
+            387
+          ],
+          "words": [
+            {
+              "text": "$200M",
+              "bbox": [
+                170,
+                357,
+                199,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$50M",
+          "bbox": [
+            240,
+            353,
+            314,
+            387
+          ],
+          "words": [
+            {
+              "text": "$50M",
+              "bbox": [
+                245,
+                357,
+                269,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2024-05-15",
+          "bbox": [
+            314,
+            353,
+            389,
+            387
+          ],
+          "words": [
+            {
+              "text": "2024-05-15",
+              "bbox": [
+                319,
+                357,
+                366,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Moderate",
+          "bbox": [
+            389,
+            353,
+            421,
+            387
+          ],
+          "words": [
+            {
+              "text": "Moderate",
+              "bbox": [
+                396,
+                357,
+                416,
+                382
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "$20M",
+          "bbox": [
+            421,
+            353,
+            453,
+            387
+          ],
+          "words": [
+            {
+              "text": "$20M",
+              "bbox": [
+                433,
+                357,
+                448,
+                382
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            453,
+            353,
+            484,
+            387
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                466,
+                357,
+                479,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "8%",
+          "bbox": [
+            484,
+            353,
+            516,
+            387
+          ],
+          "words": [
+            {
+              "text": "8%",
+              "bbox": [
+                498,
+                357,
+                511,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "Low",
+          "bbox": [
+            516,
+            353,
+            548,
+            387
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                524,
+                357,
+                543,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "ProductB",
+          "bbox": [
+            548,
+            353,
+            580,
+            387
+          ],
+          "words": [
+            {
+              "text": "ProductB",
+              "bbox": [
+                556,
+                357,
+                575,
+                382
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            16,
+            387,
+            90,
+            421
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                21,
+                391,
+                39,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$150M",
+          "bbox": [
+            90,
+            387,
+            165,
+            421
+          ],
+          "words": [
+            {
+              "text": "$150M",
+              "bbox": [
+                95,
+                391,
+                124,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "$30M",
+          "bbox": [
+            165,
+            387,
+            240,
+            421
+          ],
+          "words": [
+            {
+              "text": "$30M",
+              "bbox": [
+                170,
+                391,
+                194,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2023-11-30",
+          "bbox": [
+            240,
+            387,
+            314,
+            421
+          ],
+          "words": [
+            {
+              "text": "2023-11-30",
+              "bbox": [
+                245,
+                391,
+                291,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            314,
+            387,
+            389,
+            421
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                319,
+                391,
+                339,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "$50M",
+          "bbox": [
+            389,
+            387,
+            421,
+            421
+          ],
+          "words": [
+            {
+              "text": "$50M",
+              "bbox": [
+                401,
+                391,
+                416,
+                416
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            421,
+            387,
+            453,
+            421
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                429,
+                391,
+                448,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "7%",
+          "bbox": [
+            453,
+            387,
+            484,
+            421
+          ],
+          "words": [
+            {
+              "text": "7%",
+              "bbox": [
+                466,
+                391,
+                479,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            484,
+            387,
+            516,
+            421
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                490,
+                391,
+                511,
+                416
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "ProductC",
+          "bbox": [
+            516,
+            387,
+            548,
+            421
+          ],
+          "words": [
+            {
+              "text": "ProductC",
+              "bbox": [
+                524,
+                391,
+                543,
+                416
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            548,
+            387,
+            580,
+            421
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                556,
+                391,
+                575,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "$180M",
+          "bbox": [
+            16,
+            421,
+            90,
+            455
+          ],
+          "words": [
+            {
+              "text": "$180M",
+              "bbox": [
+                21,
+                425,
+                49,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "$40M",
+          "bbox": [
+            90,
+            421,
+            165,
+            455
+          ],
+          "words": [
+            {
+              "text": "$40M",
+              "bbox": [
+                95,
+                425,
+                119,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2025-01-10",
+          "bbox": [
+            165,
+            421,
+            240,
+            455
+          ],
+          "words": [
+            {
+              "text": "2025-01-10",
+              "bbox": [
+                170,
+                425,
+                217,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Low",
+          "bbox": [
+            240,
+            421,
+            314,
+            455
+          ],
+          "words": [
+            {
+              "text": "Low",
+              "bbox": [
+                245,
+                425,
+                263,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "$10M",
+          "bbox": [
+            314,
+            421,
+            389,
+            455
+          ],
+          "words": [
+            {
+              "text": "$10M",
+              "bbox": [
+                319,
+                425,
+                343,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "6%",
+          "bbox": [
+            389,
+            421,
+            421,
+            455
+          ],
+          "words": [
+            {
+              "text": "6%",
+              "bbox": [
+                403,
+                425,
+                416,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "9%",
+          "bbox": [
+            421,
+            421,
+            453,
+            455
+          ],
+          "words": [
+            {
+              "text": "9%",
+              "bbox": [
+                434,
+                425,
+                448,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "High",
+          "bbox": [
+            453,
+            421,
+            484,
+            455
+          ],
+          "words": [
+            {
+              "text": "High",
+              "bbox": [
+                459,
+                425,
+                479,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "ProductD",
+          "bbox": [
+            484,
+            421,
+            516,
+            455
+          ],
+          "words": [
+            {
+              "text": "ProductD",
+              "bbox": [
+                492,
+                425,
+                511,
+                450
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "30%",
+          "bbox": [
+            516,
+            421,
+            548,
+            455
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                524,
+                425,
+                543,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "$250M",
+          "bbox": [
+            548,
+            421,
+            580,
+            455
+          ],
+          "words": [
+            {
+              "text": "$250M",
+              "bbox": [
+                555,
+                425,
+                575,
+                450
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "$60M",
+          "bbox": [
+            16,
+            455,
+            90,
+            489
+          ],
+          "words": [
+            {
+              "text": "$60M",
+              "bbox": [
+                21,
+                459,
+                44,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2026-07-22",
+          "bbox": [
+            90,
+            455,
+            165,
+            489
+          ],
+          "words": [
+            {
+              "text": "2026-07-22",
+              "bbox": [
+                95,
+                459,
+                142,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Moderate",
+          "bbox": [
+            165,
+            455,
+            240,
+            489
+          ],
+          "words": [
+            {
+              "text": "Moderate",
+              "bbox": [
+                170,
+                459,
+                208,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "$30M",
+          "bbox": [
+            240,
+            455,
+            314,
+            489
+          ],
+          "words": [
+            {
+              "text": "$30M",
+              "bbox": [
+                245,
+                459,
+                269,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4%",
+          "bbox": [
+            314,
+            455,
+            389,
+            489
+          ],
+          "words": [
+            {
+              "text": "4%",
+              "bbox": [
+                319,
+                459,
+                333,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            389,
+            455,
+            421,
+            489
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                403,
+                459,
+                416,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Medium",
+          "bbox": [
+            421,
+            455,
+            453,
+            489
+          ],
+          "words": [
+            {
+              "text": "Medium",
+              "bbox": [
+                426,
+                459,
+                448,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "ProductE",
+          "bbox": [
+            453,
+            455,
+            484,
+            489
+          ],
+          "words": [
+            {
+              "text": "ProductE",
+              "bbox": [
+                460,
+                459,
+                479,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            484,
+            455,
+            516,
+            489
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                493,
+                459,
+                511,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "$120M",
+          "bbox": [
+            516,
+            455,
+            548,
+            489
+          ],
+          "words": [
+            {
+              "text": "$120M",
+              "bbox": [
+                523,
+                459,
+                543,
+                484
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            10
+          ],
+          "is_column_header": false,
+          "cell_text": "$25M",
+          "bbox": [
+            548,
+            455,
+            580,
+            489
+          ],
+          "words": [
+            {
+              "text": "$25M",
+              "bbox": [
+                560,
+                459,
+                575,
+                484
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        565,
+        580,
+        765
+      ],
+      "content": "In the highly competitive landscape of the pharmaceuticals and biotech sector, the patent expiry of key products poses significant financial implications for major players like Merck & Co. As patents approach expiration, companies must strategize to mitigate revenue losses and maintain market positioning. The accompanying Patent Expiry Impact Analysis table provides a comprehensive overview of projected financial impacts across the upcoming years, specifically focusing on Product A, which is slated for patent expiry on 2024-05-15. The analysis highlights a projected loss of 5% for this product in terms of revenue, reflecting the anticipated market dynamics as generic alternatives become available. Furthermore, the table outlines the projected revenue impact for 2027, estimated at $50M, which underscores the importance of effective risk assessment in navigating the changing market environment. The Risk Assessment column indicates that the overall risk associated with the patent expiry of Product A is valued at $250M, emphasizing the financial stakes involved in managing intellectual property and market share. As the company strategizes for the years ahead, these metrics will be crucial for forecasting market growth and preparing for potential revenue declines. The insights derived from this analysis not only assist in understanding the immediate financial repercussions but also aid in formulating long-term strategies to enhance resilience in an evolving healthcare landscape.",
+      "lines": [
+        {
+          "text": "In the highly competitive landscape of the pharmaceuticals and biotech sector, the patent expiry of key products poses",
+          "bbox": [
+            15,
+            566,
+            580,
+            578
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                566,
+                24,
+                578
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                30,
+                566,
+                43,
+                578
+              ]
+            },
+            {
+              "text": "highly",
+              "bbox": [
+                48,
+                566,
+                77,
+                578
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                82,
+                566,
+                134,
+                578
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                139,
+                566,
+                183,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                188,
+                566,
+                197,
+                578
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                203,
+                566,
+                216,
+                578
+              ]
+            },
+            {
+              "text": "pharmaceuticals",
+              "bbox": [
+                222,
+                566,
+                293,
+                578
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                299,
+                566,
+                314,
+                578
+              ]
+            },
+            {
+              "text": "biotech",
+              "bbox": [
+                320,
+                566,
+                352,
+                578
+              ]
+            },
+            {
+              "text": "sector,",
+              "bbox": [
+                358,
+                566,
+                386,
+                578
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                392,
+                566,
+                405,
+                578
+              ]
+            },
+            {
+              "text": "patent",
+              "bbox": [
+                410,
+                566,
+                437,
+                578
+              ]
+            },
+            {
+              "text": "expiry",
+              "bbox": [
+                443,
+                566,
+                471,
+                578
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                476,
+                566,
+                486,
+                578
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                491,
+                566,
+                507,
+                578
+              ]
+            },
+            {
+              "text": "products",
+              "bbox": [
+                512,
+                566,
+                550,
+                578
+              ]
+            },
+            {
+              "text": "poses",
+              "bbox": [
+                556,
+                566,
+                580,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "text": "significant financial implications for major players like Merck & Co. As patents approach expiration, companies must strategize",
+          "bbox": [
+            15,
+            581,
+            580,
+            593
+          ],
+          "words": [
+            {
+              "text": "significant",
+              "bbox": [
+                15,
+                581,
+                61,
+                593
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                64,
+                581,
+                103,
+                593
+              ]
+            },
+            {
+              "text": "implications",
+              "bbox": [
+                106,
+                581,
+                160,
+                593
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                163,
+                581,
+                176,
+                593
+              ]
+            },
+            {
+              "text": "major",
+              "bbox": [
+                178,
+                581,
+                204,
+                593
+              ]
+            },
+            {
+              "text": "players",
+              "bbox": [
+                207,
+                581,
+                239,
+                593
+              ]
+            },
+            {
+              "text": "like",
+              "bbox": [
+                241,
+                581,
+                258,
+                593
+              ]
+            },
+            {
+              "text": "Merck",
+              "bbox": [
+                261,
+                581,
+                289,
+                593
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                292,
+                581,
+                301,
+                593
+              ]
+            },
+            {
+              "text": "Co.",
+              "bbox": [
+                304,
+                581,
+                319,
+                593
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                321,
+                581,
+                334,
+                593
+              ]
+            },
+            {
+              "text": "patents",
+              "bbox": [
+                337,
+                581,
+                368,
+                593
+              ]
+            },
+            {
+              "text": "approach",
+              "bbox": [
+                370,
+                581,
+                411,
+                593
+              ]
+            },
+            {
+              "text": "expiration,",
+              "bbox": [
+                414,
+                581,
+                461,
+                593
+              ]
+            },
+            {
+              "text": "companies",
+              "bbox": [
+                464,
+                581,
+                511,
+                593
+              ]
+            },
+            {
+              "text": "must",
+              "bbox": [
+                514,
+                581,
+                535,
+                593
+              ]
+            },
+            {
+              "text": "strategize",
+              "bbox": [
+                538,
+                581,
+                580,
+                593
+              ]
+            }
+          ]
+        },
+        {
+          "text": "to mitigate revenue losses and maintain market positioning. The accompanying Patent Expiry Impact Analysis table provides a",
+          "bbox": [
+            15,
+            597,
+            580,
+            609
+          ],
+          "words": [
+            {
+              "text": "to",
+              "bbox": [
+                15,
+                597,
+                24,
+                609
+              ]
+            },
+            {
+              "text": "mitigate",
+              "bbox": [
+                27,
+                597,
+                63,
+                609
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                66,
+                597,
+                101,
+                609
+              ]
+            },
+            {
+              "text": "losses",
+              "bbox": [
+                104,
+                597,
+                130,
+                609
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                133,
+                597,
+                149,
+                609
+              ]
+            },
+            {
+              "text": "maintain",
+              "bbox": [
+                153,
+                597,
+                191,
+                609
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                194,
+                597,
+                225,
+                609
+              ]
+            },
+            {
+              "text": "positioning.",
+              "bbox": [
+                228,
+                597,
+                280,
+                609
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                283,
+                597,
+                300,
+                609
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                303,
+                597,
+                368,
+                609
+              ]
+            },
+            {
+              "text": "Patent",
+              "bbox": [
+                371,
+                597,
+                398,
+                609
+              ]
+            },
+            {
+              "text": "Expiry",
+              "bbox": [
+                402,
+                597,
+                431,
+                609
+              ]
+            },
+            {
+              "text": "Impact",
+              "bbox": [
+                435,
+                597,
+                465,
+                609
+              ]
+            },
+            {
+              "text": "Analysis",
+              "bbox": [
+                468,
+                597,
+                506,
+                609
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                509,
+                597,
+                531,
+                609
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                534,
+                597,
+                572,
+                609
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                597,
+                580,
+                609
+              ]
+            }
+          ]
+        },
+        {
+          "text": "comprehensive overview of projected financial impacts across the upcoming years, specifically focusing on Product A, which is",
+          "bbox": [
+            15,
+            612,
+            580,
+            624
+          ],
+          "words": [
+            {
+              "text": "comprehensive",
+              "bbox": [
+                15,
+                612,
+                82,
+                624
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                84,
+                612,
+                125,
+                624
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                128,
+                612,
+                137,
+                624
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                140,
+                612,
+                181,
+                624
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                184,
+                612,
+                223,
+                624
+              ]
+            },
+            {
+              "text": "impacts",
+              "bbox": [
+                225,
+                612,
+                260,
+                624
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                262,
+                612,
+                290,
+                624
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                293,
+                612,
+                306,
+                624
+              ]
+            },
+            {
+              "text": "upcoming",
+              "bbox": [
+                309,
+                612,
+                353,
+                624
+              ]
+            },
+            {
+              "text": "years,",
+              "bbox": [
+                356,
+                612,
+                382,
+                624
+              ]
+            },
+            {
+              "text": "specifically",
+              "bbox": [
+                385,
+                612,
+                435,
+                624
+              ]
+            },
+            {
+              "text": "focusing",
+              "bbox": [
+                438,
+                612,
+                476,
+                624
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                479,
+                612,
+                490,
+                624
+              ]
+            },
+            {
+              "text": "Product",
+              "bbox": [
+                493,
+                612,
+                527,
+                624
+              ]
+            },
+            {
+              "text": "A,",
+              "bbox": [
+                529,
+                612,
+                540,
+                624
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                543,
+                612,
+                570,
+                624
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                573,
+                612,
+                580,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "text": "slated for patent expiry on 2024-05-15. The analysis highlights a projected loss of 5% for this product in terms of revenue,",
+          "bbox": [
+            15,
+            628,
+            580,
+            640
+          ],
+          "words": [
+            {
+              "text": "slated",
+              "bbox": [
+                15,
+                628,
+                41,
+                640
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                45,
+                628,
+                58,
+                640
+              ]
+            },
+            {
+              "text": "patent",
+              "bbox": [
+                62,
+                628,
+                89,
+                640
+              ]
+            },
+            {
+              "text": "expiry",
+              "bbox": [
+                93,
+                628,
+                121,
+                640
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                125,
+                628,
+                136,
+                640
+              ]
+            },
+            {
+              "text": "2024-05-15.",
+              "bbox": [
+                140,
+                628,
+                194,
+                640
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                198,
+                628,
+                215,
+                640
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                219,
+                628,
+                254,
+                640
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                258,
+                628,
+                302,
+                640
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                306,
+                628,
+                311,
+                640
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                315,
+                628,
+                356,
+                640
+              ]
+            },
+            {
+              "text": "loss",
+              "bbox": [
+                360,
+                628,
+                378,
+                640
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                382,
+                628,
+                391,
+                640
+              ]
+            },
+            {
+              "text": "5%",
+              "bbox": [
+                395,
+                628,
+                410,
+                640
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                414,
+                628,
+                426,
+                640
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                430,
+                628,
+                446,
+                640
+              ]
+            },
+            {
+              "text": "product",
+              "bbox": [
+                450,
+                628,
+                484,
+                640
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                488,
+                628,
+                497,
+                640
+              ]
+            },
+            {
+              "text": "terms",
+              "bbox": [
+                501,
+                628,
+                525,
+                640
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                529,
+                628,
+                538,
+                640
+              ]
+            },
+            {
+              "text": "revenue,",
+              "bbox": [
+                542,
+                628,
+                580,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reflecting the anticipated market dynamics as generic alternatives become available. Furthermore, the table outlines the",
+          "bbox": [
+            15,
+            643,
+            580,
+            655
+          ],
+          "words": [
+            {
+              "text": "reflecting",
+              "bbox": [
+                15,
+                643,
+                57,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                63,
+                643,
+                76,
+                655
+              ]
+            },
+            {
+              "text": "anticipated",
+              "bbox": [
+                82,
+                643,
+                130,
+                655
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                136,
+                643,
+                166,
+                655
+              ]
+            },
+            {
+              "text": "dynamics",
+              "bbox": [
+                172,
+                643,
+                214,
+                655
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                220,
+                643,
+                229,
+                655
+              ]
+            },
+            {
+              "text": "generic",
+              "bbox": [
+                234,
+                643,
+                267,
+                655
+              ]
+            },
+            {
+              "text": "alternatives",
+              "bbox": [
+                272,
+                643,
+                323,
+                655
+              ]
+            },
+            {
+              "text": "become",
+              "bbox": [
+                329,
+                643,
+                363,
+                655
+              ]
+            },
+            {
+              "text": "available.",
+              "bbox": [
+                369,
+                643,
+                411,
+                655
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                417,
+                643,
+                474,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                480,
+                643,
+                493,
+                655
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                499,
+                643,
+                520,
+                655
+              ]
+            },
+            {
+              "text": "outlines",
+              "bbox": [
+                526,
+                643,
+                561,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                643,
+                580,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "projected revenue impact for 2027, estimated at $50M, which underscores the importance of effective risk assessment in",
+          "bbox": [
+            15,
+            658,
+            580,
+            670
+          ],
+          "words": [
+            {
+              "text": "projected",
+              "bbox": [
+                15,
+                658,
+                56,
+                670
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                61,
+                658,
+                96,
+                670
+              ]
+            },
+            {
+              "text": "impact",
+              "bbox": [
+                101,
+                658,
+                131,
+                670
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                135,
+                658,
+                148,
+                670
+              ]
+            },
+            {
+              "text": "2027,",
+              "bbox": [
+                153,
+                658,
+                178,
+                670
+              ]
+            },
+            {
+              "text": "estimated",
+              "bbox": [
+                183,
+                658,
+                225,
+                670
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                230,
+                658,
+                238,
+                670
+              ]
+            },
+            {
+              "text": "$50M,",
+              "bbox": [
+                243,
+                658,
+                272,
+                670
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                277,
+                658,
+                304,
+                670
+              ]
+            },
+            {
+              "text": "underscores",
+              "bbox": [
+                309,
+                658,
+                361,
+                670
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                366,
+                658,
+                380,
+                670
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                384,
+                658,
+                434,
+                670
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                439,
+                658,
+                448,
+                670
+              ]
+            },
+            {
+              "text": "effective",
+              "bbox": [
+                453,
+                658,
+                491,
+                670
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                496,
+                658,
+                513,
+                670
+              ]
+            },
+            {
+              "text": "assessment",
+              "bbox": [
+                518,
+                658,
+                567,
+                670
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                658,
+                580,
+                670
+              ]
+            }
+          ]
+        },
+        {
+          "text": "navigating the changing market environment. The Risk Assessment column indicates that the overall risk associated with the",
+          "bbox": [
+            15,
+            674,
+            580,
+            686
+          ],
+          "words": [
+            {
+              "text": "navigating",
+              "bbox": [
+                15,
+                674,
+                61,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                65,
+                674,
+                79,
+                686
+              ]
+            },
+            {
+              "text": "changing",
+              "bbox": [
+                82,
+                674,
+                123,
+                686
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                126,
+                674,
+                157,
+                686
+              ]
+            },
+            {
+              "text": "environment.",
+              "bbox": [
+                161,
+                674,
+                219,
+                686
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                223,
+                674,
+                240,
+                686
+              ]
+            },
+            {
+              "text": "Risk",
+              "bbox": [
+                244,
+                674,
+                264,
+                686
+              ]
+            },
+            {
+              "text": "Assessment",
+              "bbox": [
+                267,
+                674,
+                319,
+                686
+              ]
+            },
+            {
+              "text": "column",
+              "bbox": [
+                323,
+                674,
+                356,
+                686
+              ]
+            },
+            {
+              "text": "indicates",
+              "bbox": [
+                359,
+                674,
+                398,
+                686
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                402,
+                674,
+                419,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                422,
+                674,
+                436,
+                686
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                440,
+                674,
+                470,
+                686
+              ]
+            },
+            {
+              "text": "risk",
+              "bbox": [
+                474,
+                674,
+                491,
+                686
+              ]
+            },
+            {
+              "text": "associated",
+              "bbox": [
+                494,
+                674,
+                539,
+                686
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                543,
+                674,
+                563,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                674,
+                580,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "patent expiry of Product A is valued at $250M, emphasizing the financial stakes involved in managing intellectual property and",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "patent",
+              "bbox": [
+                15,
+                689,
+                42,
+                701
+              ]
+            },
+            {
+              "text": "expiry",
+              "bbox": [
+                45,
+                689,
+                73,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                76,
+                689,
+                85,
+                701
+              ]
+            },
+            {
+              "text": "Product",
+              "bbox": [
+                88,
+                689,
+                122,
+                701
+              ]
+            },
+            {
+              "text": "A",
+              "bbox": [
+                125,
+                689,
+                132,
+                701
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                135,
+                689,
+                142,
+                701
+              ]
+            },
+            {
+              "text": "valued",
+              "bbox": [
+                145,
+                689,
+                175,
+                701
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                178,
+                689,
+                186,
+                701
+              ]
+            },
+            {
+              "text": "$250M,",
+              "bbox": [
+                189,
+                689,
+                223,
+                701
+              ]
+            },
+            {
+              "text": "emphasizing",
+              "bbox": [
+                226,
+                689,
+                282,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                285,
+                689,
+                298,
+                701
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                301,
+                689,
+                340,
+                701
+              ]
+            },
+            {
+              "text": "stakes",
+              "bbox": [
+                343,
+                689,
+                370,
+                701
+              ]
+            },
+            {
+              "text": "involved",
+              "bbox": [
+                373,
+                689,
+                411,
+                701
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                414,
+                689,
+                423,
+                701
+              ]
+            },
+            {
+              "text": "managing",
+              "bbox": [
+                426,
+                689,
+                469,
+                701
+              ]
+            },
+            {
+              "text": "intellectual",
+              "bbox": [
+                472,
+                689,
+                521,
+                701
+              ]
+            },
+            {
+              "text": "property",
+              "bbox": [
+                524,
+                689,
+                561,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "market share. As the company strategizes for the years ahead, these metrics will be crucial for forecasting market growth and",
+          "bbox": [
+            15,
+            705,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "market",
+              "bbox": [
+                15,
+                705,
+                46,
+                717
+              ]
+            },
+            {
+              "text": "share.",
+              "bbox": [
+                49,
+                705,
+                75,
+                717
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                78,
+                705,
+                90,
+                717
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                94,
+                705,
+                107,
+                717
+              ]
+            },
+            {
+              "text": "company",
+              "bbox": [
+                111,
+                705,
+                151,
+                717
+              ]
+            },
+            {
+              "text": "strategizes",
+              "bbox": [
+                155,
+                705,
+                201,
+                717
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                205,
+                705,
+                217,
+                717
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                221,
+                705,
+                234,
+                717
+              ]
+            },
+            {
+              "text": "years",
+              "bbox": [
+                238,
+                705,
+                261,
+                717
+              ]
+            },
+            {
+              "text": "ahead,",
+              "bbox": [
+                265,
+                705,
+                293,
+                717
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                297,
+                705,
+                319,
+                717
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                323,
+                705,
+                355,
+                717
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                359,
+                705,
+                376,
+                717
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                379,
+                705,
+                390,
+                717
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                393,
+                705,
+                423,
+                717
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                427,
+                705,
+                439,
+                717
+              ]
+            },
+            {
+              "text": "forecasting",
+              "bbox": [
+                443,
+                705,
+                492,
+                717
+              ]
+            },
+            {
+              "text": "market",
+              "bbox": [
+                495,
+                705,
+                526,
+                717
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                529,
+                705,
+                561,
+                717
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                705,
+                580,
+                717
+              ]
+            }
+          ]
+        },
+        {
+          "text": "preparing for potential revenue declines. The insights derived from this analysis not only assist in understanding the immediate",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "preparing",
+              "bbox": [
+                15,
+                720,
+                57,
+                732
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                60,
+                720,
+                73,
+                732
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                76,
+                720,
+                115,
+                732
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                118,
+                720,
+                153,
+                732
+              ]
+            },
+            {
+              "text": "declines.",
+              "bbox": [
+                156,
+                720,
+                195,
+                732
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                197,
+                720,
+                215,
+                732
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                218,
+                720,
+                252,
+                732
+              ]
+            },
+            {
+              "text": "derived",
+              "bbox": [
+                255,
+                720,
+                288,
+                732
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                291,
+                720,
+                312,
+                732
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                316,
+                720,
+                331,
+                732
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                335,
+                720,
+                370,
+                732
+              ]
+            },
+            {
+              "text": "not",
+              "bbox": [
+                373,
+                720,
+                387,
+                732
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                390,
+                720,
+                410,
+                732
+              ]
+            },
+            {
+              "text": "assist",
+              "bbox": [
+                413,
+                720,
+                437,
+                732
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                440,
+                720,
+                448,
+                732
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                452,
+                720,
+                514,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                517,
+                720,
+                530,
+                732
+              ]
+            },
+            {
+              "text": "immediate",
+              "bbox": [
+                534,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "financial repercussions but also aid in formulating long-term strategies to enhance resilience in an evolving healthcare",
+          "bbox": [
+            15,
+            735,
+            580,
+            747
+          ],
+          "words": [
+            {
+              "text": "financial",
+              "bbox": [
+                15,
+                735,
+                53,
+                747
+              ]
+            },
+            {
+              "text": "repercussions",
+              "bbox": [
+                59,
+                735,
+                119,
+                747
+              ]
+            },
+            {
+              "text": "but",
+              "bbox": [
+                125,
+                735,
+                139,
+                747
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                145,
+                735,
+                162,
+                747
+              ]
+            },
+            {
+              "text": "aid",
+              "bbox": [
+                168,
+                735,
+                182,
+                747
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                187,
+                735,
+                196,
+                747
+              ]
+            },
+            {
+              "text": "formulating",
+              "bbox": [
+                202,
+                735,
+                254,
+                747
+              ]
+            },
+            {
+              "text": "long-term",
+              "bbox": [
+                260,
+                735,
+                303,
+                747
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                309,
+                735,
+                350,
+                747
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                356,
+                735,
+                365,
+                747
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                370,
+                735,
+                406,
+                747
+              ]
+            },
+            {
+              "text": "resilience",
+              "bbox": [
+                412,
+                735,
+                454,
+                747
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                460,
+                735,
+                469,
+                747
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                474,
+                735,
+                485,
+                747
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                491,
+                735,
+                529,
+                747
+              ]
+            },
+            {
+              "text": "healthcare",
+              "bbox": [
+                535,
+                735,
+                580,
+                747
+              ]
+            }
+          ]
+        },
+        {
+          "text": "landscape.",
+          "bbox": [
+            15,
+            751,
+            61,
+            763
+          ],
+          "words": [
+            {
+              "text": "landscape.",
+              "bbox": [
+                15,
+                751,
+                61,
+                763
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "degradation": {
+    "type": "Watermark",
+    "affected_cells": [
+      {
+        "table_id": "img_127222_t0",
+        "cell_indices": [
+          50,
+          25,
+          34,
+          22
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 50,
+            "text": "$250M",
+            "header": "RiskAssessment",
+            "row_label": "$180M",
+            "bbox": [
+              548,
+              421,
+              580,
+              455
+            ]
+          },
+          {
+            "cell_idx": 25,
+            "text": "5%",
+            "header": "ProjectedLoss",
+            "row_label": "ProductA",
+            "bbox": [
+              453,
+              353,
+              484,
+              387
+            ]
+          },
+          {
+            "cell_idx": 34,
+            "text": "$50M",
+            "header": "2027",
+            "row_label": "",
+            "bbox": [
+              389,
+              387,
+              421,
+              421
+            ]
+          },
+          {
+            "cell_idx": 22,
+            "text": "2024-05-15",
+            "header": "2026",
+            "row_label": "ProductA",
+            "bbox": [
+              314,
+              353,
+              389,
+              387
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

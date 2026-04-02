@@ -1,0 +1,261 @@
+{
+  "image_id": "img_057912",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "Understanding the complexities of polycystic ovary syndrome (PCOS) is crucial for effective diagnosis and management. The",
+      "bbox": [
+        15,
+        71,
+        580,
+        83
+      ]
+    },
+    {
+      "text": "accompanying data table presents significant findings related to various biomarkers associated with PCOS, specifically",
+      "bbox": [
+        15,
+        86,
+        580,
+        98
+      ]
+    },
+    {
+      "text": "highlighting metrics such as the p Value and Area Under the Receiver Operating Characteristic curve (AUROC) with 95%",
+      "bbox": [
+        15,
+        102,
+        580,
+        114
+      ]
+    },
+    {
+      "text": "confidence intervals (CI). These metrics are vital in assessing the diagnostic performance of different biomarkers. For instance,",
+      "bbox": [
+        15,
+        117,
+        580,
+        129
+      ]
+    },
+    {
+      "text": "the data indicates that the biomarker IL-1β, measured in picograms per milliliter (pg/mL), shows a noteworthy association with",
+      "bbox": [
+        15,
+        133,
+        580,
+        145
+      ]
+    },
+    {
+      "text": "the condition, as evidenced by the reported p Value.",
+      "bbox": [
+        15,
+        148,
+        243,
+        160
+      ]
+    },
+    {
+      "text": "Algorithm  Module number  Module size  Discard rate(%)  GO(-log P-value)",
+      "bbox": [
+        16,
+        184,
+        580,
+        205
+      ]
+    },
+    {
+      "text": "BP  MF  CC",
+      "bbox": [
+        16,
+        205,
+        580,
+        226
+      ]
+    },
+    {
+      "text": "OMIM  115  25.81  44.26  7.27  7.69  7.44",
+      "bbox": [
+        16,
+        226,
+        580,
+        246
+      ]
+    },
+    {
+      "text": "Newman  115  24.18  44.26  7.18  7.39  7.22",
+      "bbox": [
+        16,
+        246,
+        580,
+        266
+      ]
+    },
+    {
+      "text": "MCL  319  7.40  52.68  7.17  6.72  7.16",
+      "bbox": [
+        16,
+        266,
+        580,
+        286
+      ]
+    },
+    {
+      "text": "CPM  66  10.96  85.51  8.39  7.60  8.53",
+      "bbox": [
+        16,
+        286,
+        580,
+        306
+      ]
+    },
+    {
+      "text": "Biomarker  VAP  Non-VAP  p Value  AUROC (95% CI)",
+      "bbox": [
+        15,
+        330,
+        580,
+        351
+      ]
+    },
+    {
+      "text": "IL-1β pg/mL  712 (112–1999)  29 (3–184)  <0.001  0.81 (0.74 to 0.88)",
+      "bbox": [
+        15,
+        351,
+        580,
+        371
+      ]
+    },
+    {
+      "text": "IL-8 pg/mL  7546 (1987–23 050)  1401 (369–4422)  <0.001  0.74 (0.65 to 0.82)",
+      "bbox": [
+        15,
+        371,
+        580,
+        391
+      ]
+    },
+    {
+      "text": "MMP-8 ng/mL  734 (113–2792)  66 (11–325)  <0.001  0.76 (0.68 to 0.84)",
+      "bbox": [
+        15,
+        391,
+        580,
+        411
+      ]
+    },
+    {
+      "text": "MMP-9 ng/mL  6840 (1721–22 221)  491 (106–3146)  <0.001  0.79 (0.71 to 0.86)",
+      "bbox": [
+        15,
+        411,
+        580,
+        431
+      ]
+    },
+    {
+      "text": "HNE ng/mL  3882 (710–11 183)  349 (96–1473)  <0.001  0.78 (0.70 to 0.85)",
+      "bbox": [
+        15,
+        431,
+        580,
+        451
+      ]
+    },
+    {
+      "text": "PCOS definition  Clinical (modified Ferriman-Gallway score >8*) or biochemical hyperandrogenemia (elevated total or free testosterone level **)  Oligomenorrhoea (< 6-9 menstrual cycles per year) or oligo-anovulation  Polycystic ovaries on ultrasound (>12 follicles in one ovary or volume >10 cc)",
+      "bbox": [
+        16,
+        473,
+        580,
+        522
+      ]
+    },
+    {
+      "text": "NICHD 1990 [4]  Yes  Yes",
+      "bbox": [
+        16,
+        522,
+        580,
+        557
+      ]
+    },
+    {
+      "text": "Rotterdam 2003 [5]  Yes  Yes  Yes",
+      "bbox": [
+        16,
+        557,
+        580,
+        606
+      ]
+    },
+    {
+      "text": "2 of 3 criteria",
+      "bbox": [
+        16,
+        606,
+        580,
+        627
+      ]
+    },
+    {
+      "text": "AE-PCOS 2009 [6]  Yes  Yes  Yes",
+      "bbox": [
+        16,
+        627,
+        580,
+        676
+      ]
+    },
+    {
+      "text": "1 of 2 criteria",
+      "bbox": [
+        16,
+        676,
+        580,
+        697
+      ]
+    },
+    {
+      "text": "Additionally, the AUROC values provide insight into the predictive accuracy of IL-1β in identifying individuals meeting the",
+      "bbox": [
+        15,
+        713,
+        580,
+        725
+      ]
+    },
+    {
+      "text": "clinical definition of PCOS, which encompasses criteria such as oligomenorrhea and hyperandrogenism. Such findings",
+      "bbox": [
+        15,
+        729,
+        580,
+        741
+      ]
+    },
+    {
+      "text": "underscore the importance of integrating biomarker analysis into routine clinical practice to enhance the diagnostic accuracy for",
+      "bbox": [
+        15,
+        744,
+        580,
+        756
+      ]
+    },
+    {
+      "text": "PCOS, ultimately leading to improved patient outcomes.",
+      "bbox": [
+        15,
+        760,
+        264,
+        772
+      ]
+    }
+  ]
+}

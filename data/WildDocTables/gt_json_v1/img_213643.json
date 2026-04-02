@@ -1,0 +1,4459 @@
+{
+  "image_id": "img_213643",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "table",
+      "table_id": "img_213643_t0",
+      "bbox": [
+        14,
+        62,
+        554,
+        163
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 3,
+        "T3": "Stain",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            63,
+            553,
+            83
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            83,
+            553,
+            103
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            103,
+            553,
+            123
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            123,
+            553,
+            143
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            143,
+            553,
+            163
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>PatientSatisfaction</td><td>Score(%)</td></tr><tr><td colspan=\"2\">OverallRatings</td><td>Comments</td></tr><tr><td>Doctors</td><td>Nurses</td><td>Facilities</td></tr></thead><tbody><tr><td>88.5</td><td>90.2</td><td>85.7</td></tr><tr><td>Positive</td><td>Positive</td><td>Neutral</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "PatientSatisfaction",
+          "bbox": [
+            15,
+            63,
+            250,
+            83
+          ],
+          "words": [
+            {
+              "text": "PatientSatisfaction",
+              "bbox": [
+                20,
+                67,
+                97,
+                77
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Score(%)",
+          "bbox": [
+            250,
+            63,
+            486,
+            83
+          ],
+          "words": [
+            {
+              "text": "Score(%)",
+              "bbox": [
+                442,
+                67,
+                481,
+                77
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "OverallRatings",
+          "bbox": [
+            15,
+            83,
+            486,
+            103
+          ],
+          "words": [
+            {
+              "text": "OverallRatings",
+              "bbox": [
+                20,
+                87,
+                82,
+                97
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Comments",
+          "bbox": [
+            486,
+            83,
+            553,
+            103
+          ],
+          "words": [
+            {
+              "text": "Comments",
+              "bbox": [
+                491,
+                87,
+                535,
+                97
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Doctors",
+          "bbox": [
+            15,
+            103,
+            250,
+            123
+          ],
+          "words": [
+            {
+              "text": "Doctors",
+              "bbox": [
+                20,
+                107,
+                52,
+                117
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Nurses",
+          "bbox": [
+            250,
+            103,
+            486,
+            123
+          ],
+          "words": [
+            {
+              "text": "Nurses",
+              "bbox": [
+                452,
+                107,
+                481,
+                117
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Facilities",
+          "bbox": [
+            486,
+            103,
+            553,
+            123
+          ],
+          "words": [
+            {
+              "text": "Facilities",
+              "bbox": [
+                491,
+                107,
+                528,
+                117
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "88.5",
+          "bbox": [
+            15,
+            123,
+            250,
+            143
+          ],
+          "words": [
+            {
+              "text": "88.5",
+              "bbox": [
+                20,
+                127,
+                37,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "90.2",
+          "bbox": [
+            250,
+            123,
+            486,
+            143
+          ],
+          "words": [
+            {
+              "text": "90.2",
+              "bbox": [
+                464,
+                127,
+                481,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "85.7",
+          "bbox": [
+            486,
+            123,
+            553,
+            143
+          ],
+          "words": [
+            {
+              "text": "85.7",
+              "bbox": [
+                491,
+                127,
+                508,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Positive",
+          "bbox": [
+            15,
+            143,
+            250,
+            163
+          ],
+          "words": [
+            {
+              "text": "Positive",
+              "bbox": [
+                20,
+                147,
+                51,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Positive",
+          "bbox": [
+            250,
+            143,
+            486,
+            163
+          ],
+          "words": [
+            {
+              "text": "Positive",
+              "bbox": [
+                450,
+                147,
+                481,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Neutral",
+          "bbox": [
+            486,
+            143,
+            553,
+            163
+          ],
+          "words": [
+            {
+              "text": "Neutral",
+              "bbox": [
+                491,
+                147,
+                520,
+                158
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        14,
+        178,
+        554,
+        236
+      ],
+      "content": "In the evolving landscape of healthcare across the Asia-Pacific region, the integration of patient satisfaction scores and emergency department metrics has become increasingly vital for assessing overall service quality. Recent analyses indicate that doctors achieved a satisfaction score of 88.5%, reflecting a positive trend in patient care. Meanwhile, nurses also received a \"Positive\" designation, underscoring their critical role in enhancing patient experiences.",
+      "lines": [
+        {
+          "text": "In the evolving landscape of healthcare across the Asia-Pacific region, the integration of patient satisfaction scores and",
+          "bbox": [
+            14,
+            179,
+            554,
+            190
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                14,
+                179,
+                23,
+                190
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                28,
+                179,
+                41,
+                190
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                46,
+                179,
+                83,
+                190
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                88,
+                179,
+                130,
+                190
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                135,
+                179,
+                144,
+                190
+              ]
+            },
+            {
+              "text": "healthcare",
+              "bbox": [
+                149,
+                179,
+                192,
+                190
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                197,
+                179,
+                223,
+                190
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                228,
+                179,
+                241,
+                190
+              ]
+            },
+            {
+              "text": "Asia-Pacific",
+              "bbox": [
+                246,
+                179,
+                298,
+                190
+              ]
+            },
+            {
+              "text": "region,",
+              "bbox": [
+                303,
+                179,
+                332,
+                190
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                338,
+                179,
+                351,
+                190
+              ]
+            },
+            {
+              "text": "integration",
+              "bbox": [
+                356,
+                179,
+                401,
+                190
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                406,
+                179,
+                415,
+                190
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                420,
+                179,
+                449,
+                190
+              ]
+            },
+            {
+              "text": "satisfaction",
+              "bbox": [
+                454,
+                179,
+                502,
+                190
+              ]
+            },
+            {
+              "text": "scores",
+              "bbox": [
+                507,
+                179,
+                533,
+                190
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                539,
+                179,
+                554,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "text": "emergency department metrics has become increasingly vital for assessing overall service quality. Recent analyses indicate that",
+          "bbox": [
+            14,
+            193,
+            554,
+            205
+          ],
+          "words": [
+            {
+              "text": "emergency",
+              "bbox": [
+                14,
+                193,
+                60,
+                205
+              ]
+            },
+            {
+              "text": "department",
+              "bbox": [
+                63,
+                193,
+                110,
+                205
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                113,
+                193,
+                144,
+                205
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                147,
+                193,
+                161,
+                205
+              ]
+            },
+            {
+              "text": "become",
+              "bbox": [
+                164,
+                193,
+                197,
+                205
+              ]
+            },
+            {
+              "text": "increasingly",
+              "bbox": [
+                200,
+                193,
+                251,
+                205
+              ]
+            },
+            {
+              "text": "vital",
+              "bbox": [
+                254,
+                193,
+                272,
+                205
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                275,
+                193,
+                288,
+                205
+              ]
+            },
+            {
+              "text": "assessing",
+              "bbox": [
+                290,
+                193,
+                330,
+                205
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                333,
+                193,
+                362,
+                205
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                365,
+                193,
+                394,
+                205
+              ]
+            },
+            {
+              "text": "quality.",
+              "bbox": [
+                397,
+                193,
+                428,
+                205
+              ]
+            },
+            {
+              "text": "Recent",
+              "bbox": [
+                431,
+                193,
+                460,
+                205
+              ]
+            },
+            {
+              "text": "analyses",
+              "bbox": [
+                463,
+                193,
+                499,
+                205
+              ]
+            },
+            {
+              "text": "indicate",
+              "bbox": [
+                502,
+                193,
+                535,
+                205
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                538,
+                193,
+                554,
+                205
+              ]
+            }
+          ]
+        },
+        {
+          "text": "doctors achieved a satisfaction score of 88.5%, reflecting a positive trend in patient care. Meanwhile, nurses also received a",
+          "bbox": [
+            14,
+            208,
+            554,
+            219
+          ],
+          "words": [
+            {
+              "text": "doctors",
+              "bbox": [
+                14,
+                208,
+                45,
+                219
+              ]
+            },
+            {
+              "text": "achieved",
+              "bbox": [
+                49,
+                208,
+                86,
+                219
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                90,
+                208,
+                95,
+                219
+              ]
+            },
+            {
+              "text": "satisfaction",
+              "bbox": [
+                98,
+                208,
+                146,
+                219
+              ]
+            },
+            {
+              "text": "score",
+              "bbox": [
+                150,
+                208,
+                172,
+                219
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                176,
+                208,
+                185,
+                219
+              ]
+            },
+            {
+              "text": "88.5%,",
+              "bbox": [
+                188,
+                208,
+                218,
+                219
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                222,
+                208,
+                262,
+                219
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                266,
+                208,
+                271,
+                219
+              ]
+            },
+            {
+              "text": "positive",
+              "bbox": [
+                274,
+                208,
+                308,
+                219
+              ]
+            },
+            {
+              "text": "trend",
+              "bbox": [
+                311,
+                208,
+                333,
+                219
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                337,
+                208,
+                345,
+                219
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                349,
+                208,
+                377,
+                219
+              ]
+            },
+            {
+              "text": "care.",
+              "bbox": [
+                381,
+                208,
+                401,
+                219
+              ]
+            },
+            {
+              "text": "Meanwhile,",
+              "bbox": [
+                405,
+                208,
+                455,
+                219
+              ]
+            },
+            {
+              "text": "nurses",
+              "bbox": [
+                458,
+                208,
+                485,
+                219
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                489,
+                208,
+                506,
+                219
+              ]
+            },
+            {
+              "text": "received",
+              "bbox": [
+                510,
+                208,
+                545,
+                219
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                549,
+                208,
+                554,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "text": "\"Positive\" designation, underscoring their critical role in enhancing patient experiences.",
+          "bbox": [
+            14,
+            223,
+            383,
+            234
+          ],
+          "words": [
+            {
+              "text": "\"Positive\"",
+              "bbox": [
+                14,
+                223,
+                57,
+                234
+              ]
+            },
+            {
+              "text": "designation,",
+              "bbox": [
+                59,
+                223,
+                110,
+                234
+              ]
+            },
+            {
+              "text": "underscoring",
+              "bbox": [
+                113,
+                223,
+                168,
+                234
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                170,
+                223,
+                190,
+                234
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                192,
+                223,
+                221,
+                234
+              ]
+            },
+            {
+              "text": "role",
+              "bbox": [
+                224,
+                223,
+                240,
+                234
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                243,
+                223,
+                251,
+                234
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                254,
+                223,
+                297,
+                234
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                300,
+                223,
+                328,
+                234
+              ]
+            },
+            {
+              "text": "experiences.",
+              "bbox": [
+                331,
+                223,
+                383,
+                234
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_213643_t1",
+      "bbox": [
+        14,
+        251,
+        554,
+        432
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "Stain",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            251,
+            553,
+            271
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            271,
+            553,
+            305
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            305,
+            553,
+            351
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            351,
+            553,
+            398
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            398,
+            553,
+            432
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"3\">EmergencyDepartmentMetrics</td><td>2QFY2025</td><td>Currency:JPY</td></tr><tr><td colspan=\"3\">TotalVisits</td><td>GrowthRate(%)</td><td colspan=\"3\">PatientSatisfaction(%)</td></tr><tr><td>TotalVolume</td><td>Year-over-YearChange</td><td colspan=\"2\">VisitDuration(hrs)</td><td>SatisfactionScore</td><td>MarketShare(%)</td><td colspan=\"2\">RevenueBreakdown</td><td>CostperVisit(JPY)</td></tr><tr><td>AdultPatients</td><td>15,000</td><td>5.2%</td><td>4.5</td><td>88%</td><td>35%</td><td>¥1,200</td><td>PediatricPatients</td><td>3,000</td></tr></thead><tbody><tr><td>4.8%</td><td>3.7</td><td>90%</td><td>15%</td><td>¥1,000</td><td>TotalRevenue</td><td>¥18,000M</td><td>10%</td><td>Total</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "EmergencyDepartmentMetrics",
+          "bbox": [
+            15,
+            251,
+            243,
+            271
+          ],
+          "words": [
+            {
+              "text": "EmergencyDepartmentMetrics",
+              "bbox": [
+                20,
+                255,
+                147,
+                266
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "2QFY2025",
+          "bbox": [
+            243,
+            251,
+            318,
+            271
+          ],
+          "words": [
+            {
+              "text": "2QFY2025",
+              "bbox": [
+                248,
+                255,
+                292,
+                266
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Currency:JPY",
+          "bbox": [
+            318,
+            251,
+            394,
+            271
+          ],
+          "words": [
+            {
+              "text": "Currency:JPY",
+              "bbox": [
+                329,
+                255,
+                389,
+                266
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalVisits",
+          "bbox": [
+            15,
+            271,
+            243,
+            305
+          ],
+          "words": [
+            {
+              "text": "TotalVisits",
+              "bbox": [
+                20,
+                275,
+                63,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate(%)",
+          "bbox": [
+            243,
+            271,
+            318,
+            305
+          ],
+          "words": [
+            {
+              "text": "GrowthRate(%)",
+              "bbox": [
+                248,
+                275,
+                311,
+                299
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "PatientSatisfaction(%)",
+          "bbox": [
+            318,
+            271,
+            474,
+            305
+          ],
+          "words": [
+            {
+              "text": "PatientSatisfaction(%)",
+              "bbox": [
+                376,
+                275,
+                469,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalVolume",
+          "bbox": [
+            15,
+            305,
+            91,
+            351
+          ],
+          "words": [
+            {
+              "text": "TotalVolume",
+              "bbox": [
+                20,
+                309,
+                72,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Year-over-YearChange",
+          "bbox": [
+            91,
+            305,
+            167,
+            351
+          ],
+          "words": [
+            {
+              "text": "Year-over-YearChange",
+              "bbox": [
+                96,
+                309,
+                146,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "VisitDuration(hrs)",
+          "bbox": [
+            167,
+            305,
+            318,
+            351
+          ],
+          "words": [
+            {
+              "text": "VisitDuration(hrs)",
+              "bbox": [
+                172,
+                309,
+                247,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "SatisfactionScore",
+          "bbox": [
+            318,
+            305,
+            394,
+            351
+          ],
+          "words": [
+            {
+              "text": "SatisfactionScore",
+              "bbox": [
+                327,
+                309,
+                389,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            394,
+            305,
+            434,
+            351
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                400,
+                309,
+                427,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6,
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "RevenueBreakdown",
+          "bbox": [
+            434,
+            305,
+            514,
+            351
+          ],
+          "words": [
+            {
+              "text": "RevenueBreakdown",
+              "bbox": [
+                444,
+                309,
+                509,
+                333
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "CostperVisit(JPY)",
+          "bbox": [
+            514,
+            305,
+            553,
+            351
+          ],
+          "words": [
+            {
+              "text": "CostperVisit(JPY)",
+              "bbox": [
+                520,
+                309,
+                548,
+                346
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "AdultPatients",
+          "bbox": [
+            15,
+            351,
+            91,
+            398
+          ],
+          "words": [
+            {
+              "text": "AdultPatients",
+              "bbox": [
+                20,
+                356,
+                76,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "15,000",
+          "bbox": [
+            91,
+            351,
+            167,
+            398
+          ],
+          "words": [
+            {
+              "text": "15,000",
+              "bbox": [
+                96,
+                356,
+                122,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "5.2%",
+          "bbox": [
+            167,
+            351,
+            243,
+            398
+          ],
+          "words": [
+            {
+              "text": "5.2%",
+              "bbox": [
+                172,
+                356,
+                193,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "4.5",
+          "bbox": [
+            243,
+            351,
+            318,
+            398
+          ],
+          "words": [
+            {
+              "text": "4.5",
+              "bbox": [
+                248,
+                356,
+                260,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "88%",
+          "bbox": [
+            318,
+            351,
+            394,
+            398
+          ],
+          "words": [
+            {
+              "text": "88%",
+              "bbox": [
+                370,
+                356,
+                389,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "35%",
+          "bbox": [
+            394,
+            351,
+            434,
+            398
+          ],
+          "words": [
+            {
+              "text": "35%",
+              "bbox": [
+                400,
+                356,
+                419,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "¥1,200",
+          "bbox": [
+            434,
+            351,
+            474,
+            398
+          ],
+          "words": [
+            {
+              "text": "¥1,200",
+              "bbox": [
+                443,
+                356,
+                469,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "PediatricPatients",
+          "bbox": [
+            474,
+            351,
+            514,
+            398
+          ],
+          "words": [
+            {
+              "text": "PediatricPatients",
+              "bbox": [
+                481,
+                356,
+                509,
+                393
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "3,000",
+          "bbox": [
+            514,
+            351,
+            553,
+            398
+          ],
+          "words": [
+            {
+              "text": "3,000",
+              "bbox": [
+                526,
+                356,
+                548,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "4.8%",
+          "bbox": [
+            15,
+            398,
+            91,
+            432
+          ],
+          "words": [
+            {
+              "text": "4.8%",
+              "bbox": [
+                20,
+                402,
+                40,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3.7",
+          "bbox": [
+            91,
+            398,
+            167,
+            432
+          ],
+          "words": [
+            {
+              "text": "3.7",
+              "bbox": [
+                96,
+                402,
+                108,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "90%",
+          "bbox": [
+            167,
+            398,
+            243,
+            432
+          ],
+          "words": [
+            {
+              "text": "90%",
+              "bbox": [
+                172,
+                402,
+                189,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "15%",
+          "bbox": [
+            243,
+            398,
+            318,
+            432
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                248,
+                402,
+                265,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "¥1,000",
+          "bbox": [
+            318,
+            398,
+            394,
+            432
+          ],
+          "words": [
+            {
+              "text": "¥1,000",
+              "bbox": [
+                363,
+                402,
+                389,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            394,
+            398,
+            434,
+            432
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                400,
+                402,
+                427,
+                426
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "¥18,000M",
+          "bbox": [
+            434,
+            398,
+            474,
+            432
+          ],
+          "words": [
+            {
+              "text": "¥18,000M",
+              "bbox": [
+                443,
+                402,
+                469,
+                426
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            474,
+            398,
+            514,
+            432
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                491,
+                402,
+                509,
+                413
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            514,
+            398,
+            553,
+            432
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                528,
+                402,
+                548,
+                413
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        14,
+        446,
+        554,
+        461
+      ],
+      "content": "The performance of healthcare facilities is equally noteworthy, with an impressive rating of 85.7 for operational efficiency.",
+      "lines": [
+        {
+          "text": "The performance of healthcare facilities is equally noteworthy, with an impressive rating of 85.7 for operational efficiency.",
+          "bbox": [
+            14,
+            447,
+            530,
+            459
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                14,
+                447,
+                31,
+                459
+              ]
+            },
+            {
+              "text": "performance",
+              "bbox": [
+                33,
+                447,
+                86,
+                459
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                89,
+                447,
+                98,
+                459
+              ]
+            },
+            {
+              "text": "healthcare",
+              "bbox": [
+                100,
+                447,
+                143,
+                459
+              ]
+            },
+            {
+              "text": "facilities",
+              "bbox": [
+                146,
+                447,
+                182,
+                459
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                185,
+                447,
+                192,
+                459
+              ]
+            },
+            {
+              "text": "equally",
+              "bbox": [
+                194,
+                447,
+                225,
+                459
+              ]
+            },
+            {
+              "text": "noteworthy,",
+              "bbox": [
+                228,
+                447,
+                278,
+                459
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                280,
+                447,
+                299,
+                459
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                302,
+                447,
+                312,
+                459
+              ]
+            },
+            {
+              "text": "impressive",
+              "bbox": [
+                314,
+                447,
+                360,
+                459
+              ]
+            },
+            {
+              "text": "rating",
+              "bbox": [
+                362,
+                447,
+                387,
+                459
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                389,
+                447,
+                398,
+                459
+              ]
+            },
+            {
+              "text": "85.7",
+              "bbox": [
+                401,
+                447,
+                419,
+                459
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                422,
+                447,
+                434,
+                459
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                437,
+                447,
+                484,
+                459
+              ]
+            },
+            {
+              "text": "efficiency.",
+              "bbox": [
+                487,
+                447,
+                530,
+                459
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_213643_t2",
+      "bbox": [
+        14,
+        475,
+        554,
+        681
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "Stain",
+        "T4": "HeaderFull_BodyNone"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            476,
+            553,
+            523
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            523,
+            553,
+            569
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            569,
+            553,
+            602
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            602,
+            553,
+            648
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            648,
+            553,
+            681
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>TestType</td><td>Volume(Units)</td><td>Revenue(JPY)</td><td>YoYGrowth(%)</td><td colspan=\"2\">MarketShareAnalysis</td><td>MarketShare(%)</td><td>CompetitiveRank</td></tr><tr><td>BloodTests</td><td>2,500,000</td><td>1,200M</td><td>15.5</td><td>TopPerformer</td><td>45</td><td>1</td><td>LungImaging</td></tr></thead><tbody><tr><td>1,000,000</td><td>800M</td><td>12.0</td><td>RisingStar</td><td>30</td><td>3</td><td>GeneticTesting</td><td>600,000</td></tr><tr><td>400M</td><td>20.0</td><td>EmergingSegment</td><td>25</td><td>4</td><td>Urinalysis</td><td>1,200,000</td><td>600M</td></tr><tr><td>10.5</td><td>StableGrowth</td><td>35</td><td>2</td><td>TotalVolume</td><td>5,500,000</td><td>3,000M</td><td>OverallGrowth</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TestType",
+          "bbox": [
+            15,
+            476,
+            164,
+            523
+          ],
+          "words": [
+            {
+              "text": "TestType",
+              "bbox": [
+                20,
+                480,
+                57,
+                491
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Volume(Units)",
+          "bbox": [
+            164,
+            476,
+            314,
+            523
+          ],
+          "words": [
+            {
+              "text": "Volume(Units)",
+              "bbox": [
+                169,
+                480,
+                229,
+                491
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(JPY)",
+          "bbox": [
+            314,
+            476,
+            354,
+            523
+          ],
+          "words": [
+            {
+              "text": "Revenue(JPY)",
+              "bbox": [
+                323,
+                480,
+                348,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "YoYGrowth(%)",
+          "bbox": [
+            354,
+            476,
+            393,
+            523
+          ],
+          "words": [
+            {
+              "text": "YoYGrowth(%)",
+              "bbox": [
+                359,
+                480,
+                388,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShareAnalysis",
+          "bbox": [
+            393,
+            476,
+            473,
+            523
+          ],
+          "words": [
+            {
+              "text": "MarketShareAnalysis",
+              "bbox": [
+                401,
+                480,
+                468,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            473,
+            476,
+            513,
+            523
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                480,
+                480,
+                508,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "CompetitiveRank",
+          "bbox": [
+            513,
+            476,
+            553,
+            523
+          ],
+          "words": [
+            {
+              "text": "CompetitiveRank",
+              "bbox": [
+                519,
+                480,
+                548,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "BloodTests",
+          "bbox": [
+            15,
+            523,
+            164,
+            569
+          ],
+          "words": [
+            {
+              "text": "BloodTests",
+              "bbox": [
+                20,
+                527,
+                64,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "2,500,000",
+          "bbox": [
+            164,
+            523,
+            314,
+            569
+          ],
+          "words": [
+            {
+              "text": "2,500,000",
+              "bbox": [
+                169,
+                527,
+                208,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "1,200M",
+          "bbox": [
+            314,
+            523,
+            354,
+            569
+          ],
+          "words": [
+            {
+              "text": "1,200M",
+              "bbox": [
+                327,
+                527,
+                348,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "15.5",
+          "bbox": [
+            354,
+            523,
+            393,
+            569
+          ],
+          "words": [
+            {
+              "text": "15.5",
+              "bbox": [
+                372,
+                527,
+                388,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "TopPerformer",
+          "bbox": [
+            393,
+            523,
+            433,
+            569
+          ],
+          "words": [
+            {
+              "text": "TopPerformer",
+              "bbox": [
+                400,
+                527,
+                428,
+                564
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "45",
+          "bbox": [
+            433,
+            523,
+            473,
+            569
+          ],
+          "words": [
+            {
+              "text": "45",
+              "bbox": [
+                459,
+                527,
+                468,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "1",
+          "bbox": [
+            473,
+            523,
+            513,
+            569
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                503,
+                527,
+                508,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "LungImaging",
+          "bbox": [
+            513,
+            523,
+            553,
+            569
+          ],
+          "words": [
+            {
+              "text": "LungImaging",
+              "bbox": [
+                522,
+                527,
+                548,
+                564
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1,000,000",
+          "bbox": [
+            15,
+            569,
+            164,
+            602
+          ],
+          "words": [
+            {
+              "text": "1,000,000",
+              "bbox": [
+                20,
+                574,
+                58,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "800M",
+          "bbox": [
+            164,
+            569,
+            314,
+            602
+          ],
+          "words": [
+            {
+              "text": "800M",
+              "bbox": [
+                169,
+                574,
+                192,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "12.0",
+          "bbox": [
+            314,
+            569,
+            354,
+            602
+          ],
+          "words": [
+            {
+              "text": "12.0",
+              "bbox": [
+                332,
+                574,
+                349,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "RisingStar",
+          "bbox": [
+            354,
+            569,
+            393,
+            602
+          ],
+          "words": [
+            {
+              "text": "RisingStar",
+              "bbox": [
+                358,
+                574,
+                389,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "30",
+          "bbox": [
+            393,
+            569,
+            433,
+            602
+          ],
+          "words": [
+            {
+              "text": "30",
+              "bbox": [
+                419,
+                574,
+                429,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3",
+          "bbox": [
+            433,
+            569,
+            473,
+            602
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                464,
+                574,
+                469,
+                584
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "GeneticTesting",
+          "bbox": [
+            473,
+            569,
+            513,
+            602
+          ],
+          "words": [
+            {
+              "text": "GeneticTesting",
+              "bbox": [
+                479,
+                574,
+                508,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "600,000",
+          "bbox": [
+            513,
+            569,
+            553,
+            602
+          ],
+          "words": [
+            {
+              "text": "600,000",
+              "bbox": [
+                522,
+                574,
+                548,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "400M",
+          "bbox": [
+            15,
+            602,
+            164,
+            648
+          ],
+          "words": [
+            {
+              "text": "400M",
+              "bbox": [
+                20,
+                606,
+                42,
+                617
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0",
+          "bbox": [
+            164,
+            602,
+            314,
+            648
+          ],
+          "words": [
+            {
+              "text": "20.0",
+              "bbox": [
+                169,
+                606,
+                186,
+                617
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "EmergingSegment",
+          "bbox": [
+            314,
+            602,
+            354,
+            648
+          ],
+          "words": [
+            {
+              "text": "EmergingSegment",
+              "bbox": [
+                321,
+                606,
+                349,
+                643
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "25",
+          "bbox": [
+            354,
+            602,
+            393,
+            648
+          ],
+          "words": [
+            {
+              "text": "25",
+              "bbox": [
+                379,
+                606,
+                389,
+                617
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "4",
+          "bbox": [
+            393,
+            602,
+            433,
+            648
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                424,
+                606,
+                429,
+                617
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Urinalysis",
+          "bbox": [
+            433,
+            602,
+            473,
+            648
+          ],
+          "words": [
+            {
+              "text": "Urinalysis",
+              "bbox": [
+                439,
+                606,
+                469,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1,200,000",
+          "bbox": [
+            473,
+            602,
+            513,
+            648
+          ],
+          "words": [
+            {
+              "text": "1,200,000",
+              "bbox": [
+                480,
+                606,
+                508,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "600M",
+          "bbox": [
+            513,
+            602,
+            553,
+            648
+          ],
+          "words": [
+            {
+              "text": "600M",
+              "bbox": [
+                526,
+                606,
+                548,
+                617
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "10.5",
+          "bbox": [
+            15,
+            648,
+            164,
+            681
+          ],
+          "words": [
+            {
+              "text": "10.5",
+              "bbox": [
+                20,
+                652,
+                36,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "StableGrowth",
+          "bbox": [
+            164,
+            648,
+            314,
+            681
+          ],
+          "words": [
+            {
+              "text": "StableGrowth",
+              "bbox": [
+                169,
+                652,
+                222,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "35",
+          "bbox": [
+            314,
+            648,
+            354,
+            681
+          ],
+          "words": [
+            {
+              "text": "35",
+              "bbox": [
+                339,
+                652,
+                349,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "2",
+          "bbox": [
+            354,
+            648,
+            393,
+            681
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                384,
+                652,
+                389,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalVolume",
+          "bbox": [
+            393,
+            648,
+            433,
+            681
+          ],
+          "words": [
+            {
+              "text": "TotalVolume",
+              "bbox": [
+                399,
+                652,
+                429,
+                676
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5,500,000",
+          "bbox": [
+            433,
+            648,
+            473,
+            681
+          ],
+          "words": [
+            {
+              "text": "5,500,000",
+              "bbox": [
+                440,
+                652,
+                469,
+                676
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "3,000M",
+          "bbox": [
+            473,
+            648,
+            513,
+            681
+          ],
+          "words": [
+            {
+              "text": "3,000M",
+              "bbox": [
+                478,
+                652,
+                508,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "OverallGrowth",
+          "bbox": [
+            513,
+            648,
+            553,
+            681
+          ],
+          "words": [
+            {
+              "text": "OverallGrowth",
+              "bbox": [
+                519,
+                652,
+                548,
+                676
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        14,
+        695,
+        554,
+        783
+      ],
+      "content": "With a total of 15,000 adult patients treated, the emergency department's responsiveness is highlighted by a 4.5 average wait time in minutes, aligning with the goal of minimizing delays. Diagnostic test volume has seen substantial growth, evidenced by the 2,500,000 blood tests conducted this year, contributing significantly to overall patient diagnostics. Furthermore, total revenue reached ¥1,200M, with a remarkable 35% increase year-on-year, illustrating the financial robustness of the healthcare system amidst these developments. The insights drawn from these metrics are vital for stakeholders aiming to enhance service delivery and patient satisfaction in a rapidly changing healthcare environment.",
+      "lines": [
+        {
+          "text": "With a total of 15,000 adult patients treated, the emergency department's responsiveness is highlighted by a 4.5 average wait",
+          "bbox": [
+            14,
+            696,
+            554,
+            707
+          ],
+          "words": [
+            {
+              "text": "With",
+              "bbox": [
+                14,
+                696,
+                35,
+                707
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                38,
+                696,
+                43,
+                707
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                47,
+                696,
+                65,
+                707
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                69,
+                696,
+                78,
+                707
+              ]
+            },
+            {
+              "text": "15,000",
+              "bbox": [
+                81,
+                696,
+                110,
+                707
+              ]
+            },
+            {
+              "text": "adult",
+              "bbox": [
+                114,
+                696,
+                135,
+                707
+              ]
+            },
+            {
+              "text": "patients",
+              "bbox": [
+                138,
+                696,
+                171,
+                707
+              ]
+            },
+            {
+              "text": "treated,",
+              "bbox": [
+                174,
+                696,
+                206,
+                707
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                209,
+                696,
+                222,
+                707
+              ]
+            },
+            {
+              "text": "emergency",
+              "bbox": [
+                226,
+                696,
+                272,
+                707
+              ]
+            },
+            {
+              "text": "department's",
+              "bbox": [
+                275,
+                696,
+                328,
+                707
+              ]
+            },
+            {
+              "text": "responsiveness",
+              "bbox": [
+                332,
+                696,
+                395,
+                707
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                398,
+                696,
+                405,
+                707
+              ]
+            },
+            {
+              "text": "highlighted",
+              "bbox": [
+                409,
+                696,
+                457,
+                707
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                460,
+                696,
+                471,
+                707
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                474,
+                696,
+                479,
+                707
+              ]
+            },
+            {
+              "text": "4.5",
+              "bbox": [
+                483,
+                696,
+                496,
+                707
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                499,
+                696,
+                532,
+                707
+              ]
+            },
+            {
+              "text": "wait",
+              "bbox": [
+                536,
+                696,
+                554,
+                707
+              ]
+            }
+          ]
+        },
+        {
+          "text": "time in minutes, aligning with the goal of minimizing delays. Diagnostic test volume has seen substantial growth, evidenced by",
+          "bbox": [
+            14,
+            711,
+            554,
+            722
+          ],
+          "words": [
+            {
+              "text": "time",
+              "bbox": [
+                14,
+                711,
+                33,
+                722
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                36,
+                711,
+                44,
+                722
+              ]
+            },
+            {
+              "text": "minutes,",
+              "bbox": [
+                47,
+                711,
+                83,
+                722
+              ]
+            },
+            {
+              "text": "aligning",
+              "bbox": [
+                86,
+                711,
+                120,
+                722
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                123,
+                711,
+                142,
+                722
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                144,
+                711,
+                157,
+                722
+              ]
+            },
+            {
+              "text": "goal",
+              "bbox": [
+                160,
+                711,
+                178,
+                722
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                181,
+                711,
+                190,
+                722
+              ]
+            },
+            {
+              "text": "minimizing",
+              "bbox": [
+                193,
+                711,
+                241,
+                722
+              ]
+            },
+            {
+              "text": "delays.",
+              "bbox": [
+                244,
+                711,
+                273,
+                722
+              ]
+            },
+            {
+              "text": "Diagnostic",
+              "bbox": [
+                276,
+                711,
+                322,
+                722
+              ]
+            },
+            {
+              "text": "test",
+              "bbox": [
+                325,
+                711,
+                339,
+                722
+              ]
+            },
+            {
+              "text": "volume",
+              "bbox": [
+                342,
+                711,
+                374,
+                722
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                376,
+                711,
+                390,
+                722
+              ]
+            },
+            {
+              "text": "seen",
+              "bbox": [
+                393,
+                711,
+                412,
+                722
+              ]
+            },
+            {
+              "text": "substantial",
+              "bbox": [
+                415,
+                711,
+                460,
+                722
+              ]
+            },
+            {
+              "text": "growth,",
+              "bbox": [
+                463,
+                711,
+                495,
+                722
+              ]
+            },
+            {
+              "text": "evidenced",
+              "bbox": [
+                498,
+                711,
+                540,
+                722
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                543,
+                711,
+                554,
+                722
+              ]
+            }
+          ]
+        },
+        {
+          "text": "the 2,500,000 blood tests conducted this year, contributing significantly to overall patient diagnostics. Furthermore, total",
+          "bbox": [
+            14,
+            725,
+            554,
+            737
+          ],
+          "words": [
+            {
+              "text": "the",
+              "bbox": [
+                14,
+                725,
+                27,
+                737
+              ]
+            },
+            {
+              "text": "2,500,000",
+              "bbox": [
+                32,
+                725,
+                74,
+                737
+              ]
+            },
+            {
+              "text": "blood",
+              "bbox": [
+                79,
+                725,
+                103,
+                737
+              ]
+            },
+            {
+              "text": "tests",
+              "bbox": [
+                108,
+                725,
+                127,
+                737
+              ]
+            },
+            {
+              "text": "conducted",
+              "bbox": [
+                132,
+                725,
+                175,
+                737
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                180,
+                725,
+                195,
+                737
+              ]
+            },
+            {
+              "text": "year,",
+              "bbox": [
+                200,
+                725,
+                220,
+                737
+              ]
+            },
+            {
+              "text": "contributing",
+              "bbox": [
+                225,
+                725,
+                277,
+                737
+              ]
+            },
+            {
+              "text": "significantly",
+              "bbox": [
+                282,
+                725,
+                334,
+                737
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                339,
+                725,
+                347,
+                737
+              ]
+            },
+            {
+              "text": "overall",
+              "bbox": [
+                352,
+                725,
+                381,
+                737
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                386,
+                725,
+                415,
+                737
+              ]
+            },
+            {
+              "text": "diagnostics.",
+              "bbox": [
+                420,
+                725,
+                470,
+                737
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                475,
+                725,
+                530,
+                737
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                535,
+                725,
+                554,
+                737
+              ]
+            }
+          ]
+        },
+        {
+          "text": "revenue reached ¥1,200M, with a remarkable 35% increase year-on-year, illustrating the financial robustness of the healthcare",
+          "bbox": [
+            14,
+            740,
+            554,
+            751
+          ],
+          "words": [
+            {
+              "text": "revenue",
+              "bbox": [
+                14,
+                740,
+                48,
+                751
+              ]
+            },
+            {
+              "text": "reached",
+              "bbox": [
+                51,
+                740,
+                83,
+                751
+              ]
+            },
+            {
+              "text": "¥1,200M,",
+              "bbox": [
+                87,
+                740,
+                128,
+                751
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                131,
+                740,
+                149,
+                751
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                153,
+                740,
+                157,
+                751
+              ]
+            },
+            {
+              "text": "remarkable",
+              "bbox": [
+                161,
+                740,
+                208,
+                751
+              ]
+            },
+            {
+              "text": "35%",
+              "bbox": [
+                211,
+                740,
+                230,
+                751
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                234,
+                740,
+                268,
+                751
+              ]
+            },
+            {
+              "text": "year-on-year,",
+              "bbox": [
+                271,
+                740,
+                327,
+                751
+              ]
+            },
+            {
+              "text": "illustrating",
+              "bbox": [
+                330,
+                740,
+                376,
+                751
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                379,
+                740,
+                392,
+                751
+              ]
+            },
+            {
+              "text": "financial",
+              "bbox": [
+                395,
+                740,
+                432,
+                751
+              ]
+            },
+            {
+              "text": "robustness",
+              "bbox": [
+                435,
+                740,
+                479,
+                751
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                482,
+                740,
+                491,
+                751
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                494,
+                740,
+                507,
+                751
+              ]
+            },
+            {
+              "text": "healthcare",
+              "bbox": [
+                511,
+                740,
+                554,
+                751
+              ]
+            }
+          ]
+        },
+        {
+          "text": "system amidst these developments. The insights drawn from these metrics are vital for stakeholders aiming to enhance service",
+          "bbox": [
+            14,
+            755,
+            554,
+            766
+          ],
+          "words": [
+            {
+              "text": "system",
+              "bbox": [
+                14,
+                755,
+                43,
+                766
+              ]
+            },
+            {
+              "text": "amidst",
+              "bbox": [
+                47,
+                755,
+                75,
+                766
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                78,
+                755,
+                99,
+                766
+              ]
+            },
+            {
+              "text": "developments.",
+              "bbox": [
+                103,
+                755,
+                164,
+                766
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                167,
+                755,
+                183,
+                766
+              ]
+            },
+            {
+              "text": "insights",
+              "bbox": [
+                186,
+                755,
+                219,
+                766
+              ]
+            },
+            {
+              "text": "drawn",
+              "bbox": [
+                222,
+                755,
+                248,
+                766
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                251,
+                755,
+                272,
+                766
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                275,
+                755,
+                297,
+                766
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                300,
+                755,
+                331,
+                766
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                334,
+                755,
+                347,
+                766
+              ]
+            },
+            {
+              "text": "vital",
+              "bbox": [
+                350,
+                755,
+                368,
+                766
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                372,
+                755,
+                384,
+                766
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                387,
+                755,
+                440,
+                766
+              ]
+            },
+            {
+              "text": "aiming",
+              "bbox": [
+                443,
+                755,
+                472,
+                766
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                475,
+                755,
+                483,
+                766
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                486,
+                755,
+                521,
+                766
+              ]
+            },
+            {
+              "text": "service",
+              "bbox": [
+                524,
+                755,
+                554,
+                766
+              ]
+            }
+          ]
+        },
+        {
+          "text": "delivery and patient satisfaction in a rapidly changing healthcare environment.",
+          "bbox": [
+            14,
+            769,
+            344,
+            781
+          ],
+          "words": [
+            {
+              "text": "delivery",
+              "bbox": [
+                14,
+                769,
+                49,
+                781
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                51,
+                769,
+                67,
+                781
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                69,
+                769,
+                98,
+                781
+              ]
+            },
+            {
+              "text": "satisfaction",
+              "bbox": [
+                100,
+                769,
+                148,
+                781
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                151,
+                769,
+                159,
+                781
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                162,
+                769,
+                166,
+                781
+              ]
+            },
+            {
+              "text": "rapidly",
+              "bbox": [
+                169,
+                769,
+                199,
+                781
+              ]
+            },
+            {
+              "text": "changing",
+              "bbox": [
+                201,
+                769,
+                240,
+                781
+              ]
+            },
+            {
+              "text": "healthcare",
+              "bbox": [
+                242,
+                769,
+                285,
+                781
+              ]
+            },
+            {
+              "text": "environment.",
+              "bbox": [
+                288,
+                769,
+                344,
+                781
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "degradation": {
+    "type": "Stain",
+    "affected_cells": [
+      {
+        "table_id": "img_213643_t0",
+        "cell_indices": [
+          10,
+          9,
+          7,
+          11
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 10,
+            "text": "Positive",
+            "header": "Doctors",
+            "row_label": "Positive",
+            "bbox": [
+              15,
+              143,
+              250,
+              163
+            ]
+          },
+          {
+            "cell_idx": 9,
+            "text": "85.7",
+            "header": "Facilities",
+            "row_label": "",
+            "bbox": [
+              486,
+              123,
+              553,
+              143
+            ]
+          },
+          {
+            "cell_idx": 7,
+            "text": "88.5",
+            "header": "Doctors",
+            "row_label": "",
+            "bbox": [
+              15,
+              123,
+              250,
+              143
+            ]
+          },
+          {
+            "cell_idx": 11,
+            "text": "Positive",
+            "header": "Nurses",
+            "row_label": "Positive",
+            "bbox": [
+              250,
+              143,
+              486,
+              163
+            ]
+          }
+        ]
+      },
+      {
+        "table_id": "img_213643_t1",
+        "cell_indices": [
+          30,
+          25
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 30,
+            "text": "Total",
+            "header": "3,000",
+            "row_label": "",
+            "bbox": [
+              514,
+              398,
+              553,
+              432
+            ]
+          },
+          {
+            "cell_idx": 25,
+            "text": "15%",
+            "header": "4.5",
+            "row_label": "",
+            "bbox": [
+              243,
+              398,
+              318,
+              432
+            ]
+          }
+        ]
+      },
+      {
+        "table_id": "img_213643_t2",
+        "cell_indices": [
+          33
+        ],
+        "cell_details": [
+          {
+            "cell_idx": 33,
+            "text": "35",
+            "header": "1,200M",
+            "row_label": "",
+            "bbox": [
+              314,
+              648,
+              354,
+              681
+            ]
+          }
+        ]
+      }
+    ],
+    "released_cells": [
+      {
+        "table_idx": 1,
+        "cell_idx": 26,
+        "text": "¥1,000",
+        "header": "88%",
+        "row_label": ""
+      },
+      {
+        "table_idx": 1,
+        "cell_idx": 27,
+        "text": "TotalRevenue",
+        "header": "35%",
+        "row_label": ""
+      },
+      {
+        "table_idx": 1,
+        "cell_idx": 23,
+        "text": "3.7",
+        "header": "15,000",
+        "row_label": ""
+      },
+      {
+        "table_idx": 2,
+        "cell_idx": 29,
+        "text": "1,200,000",
+        "header": "1",
+        "row_label": "400M"
+      },
+      {
+        "table_idx": 2,
+        "cell_idx": 28,
+        "text": "Urinalysis",
+        "header": "45",
+        "row_label": "400M"
+      },
+      {
+        "table_idx": 2,
+        "cell_idx": 24,
+        "text": "20.0",
+        "header": "2,500,000",
+        "row_label": "400M"
+      }
+    ]
+  }
+}

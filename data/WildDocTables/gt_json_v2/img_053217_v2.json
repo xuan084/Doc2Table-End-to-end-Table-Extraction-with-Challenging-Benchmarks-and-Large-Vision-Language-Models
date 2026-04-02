@@ -1,0 +1,6147 @@
+{
+  "image_id": "img_053217",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        44,
+        515,
+        167
+      ],
+      "content": "The tables detail conserved signature motifs of MAPKs and the calling strategies used for identifying validated mutations in hepatocellular carcinoma and breast cancer samples. In Table 1, the N-Terminal conserved motifs include Group A: A-K-Y, N-K-Y; Group A: T-E-Y, T-Q-Y; Group A & B: S-D-Y, S-E-Y, T-D-Y; Group B: S-K-Y, R-K-Y; Group B: T-E-Y, M-E-Y, T-E-C, T-V-Y; and Group C: D-N-Y, S-Q-Y. The activation loop motifs comprise Group C: T-K-Y and Group C: T-E-Y, while the C-terminal motifs include Group D: S-K-Y, T-K-Y, S-R-Y, S-N-Y; Group D: S-Q-Y, N-R-Y, S-R-Y; and Group D: T-D-Y, with Group E: T-S-Y, T-E-M, T-Q-M, T-R-M noted as well. Table 2 presents various calling strategies, with Single algorithms (after filtering) using Bambino identifying 742 validated mutations (88.1% sensitivity, average 2503 ± 1070 variant calls/sample), while CaVEMan identified 801 mutations (95.1% sensitivity, average 1072 ± 1055) and Mpileup identified 727 mutations (86.3% sensitivity, average 429 ± 226).",
+      "lines": [
+        {
+          "text": "The tables detail conserved signature motifs of MAPKs and the calling strategies used for identifying validated mutations in",
+          "bbox": [
+            13,
+            45,
+            515,
+            56
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                13,
+                45,
+                28,
+                56
+              ]
+            },
+            {
+              "text": "tables",
+              "bbox": [
+                32,
+                45,
+                55,
+                56
+              ]
+            },
+            {
+              "text": "detail",
+              "bbox": [
+                58,
+                45,
+                80,
+                56
+              ]
+            },
+            {
+              "text": "conserved",
+              "bbox": [
+                83,
+                45,
+                123,
+                56
+              ]
+            },
+            {
+              "text": "signature",
+              "bbox": [
+                126,
+                45,
+                162,
+                56
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                165,
+                45,
+                190,
+                56
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                194,
+                45,
+                202,
+                56
+              ]
+            },
+            {
+              "text": "MAPKs",
+              "bbox": [
+                205,
+                45,
+                237,
+                56
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                241,
+                45,
+                255,
+                56
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                258,
+                45,
+                270,
+                56
+              ]
+            },
+            {
+              "text": "calling",
+              "bbox": [
+                273,
+                45,
+                300,
+                56
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                303,
+                45,
+                340,
+                56
+              ]
+            },
+            {
+              "text": "used",
+              "bbox": [
+                344,
+                45,
+                362,
+                56
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                365,
+                45,
+                376,
+                56
+              ]
+            },
+            {
+              "text": "identifying",
+              "bbox": [
+                380,
+                45,
+                423,
+                56
+              ]
+            },
+            {
+              "text": "validated",
+              "bbox": [
+                426,
+                45,
+                462,
+                56
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                465,
+                45,
+                504,
+                56
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                507,
+                45,
+                515,
+                56
+              ]
+            }
+          ]
+        },
+        {
+          "text": "hepatocellular carcinoma and breast cancer samples. In Table 1, the N-Terminal conserved motifs include Group A: A-K-Y, N-",
+          "bbox": [
+            13,
+            59,
+            515,
+            70
+          ],
+          "words": [
+            {
+              "text": "hepatocellular",
+              "bbox": [
+                13,
+                59,
+                69,
+                70
+              ]
+            },
+            {
+              "text": "carcinoma",
+              "bbox": [
+                71,
+                59,
+                112,
+                70
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                115,
+                59,
+                129,
+                70
+              ]
+            },
+            {
+              "text": "breast",
+              "bbox": [
+                132,
+                59,
+                155,
+                70
+              ]
+            },
+            {
+              "text": "cancer",
+              "bbox": [
+                158,
+                59,
+                184,
+                70
+              ]
+            },
+            {
+              "text": "samples.",
+              "bbox": [
+                186,
+                59,
+                220,
+                70
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                223,
+                59,
+                231,
+                70
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                234,
+                59,
+                255,
+                70
+              ]
+            },
+            {
+              "text": "1,",
+              "bbox": [
+                258,
+                59,
+                266,
+                70
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                268,
+                59,
+                280,
+                70
+              ]
+            },
+            {
+              "text": "N-Terminal",
+              "bbox": [
+                283,
+                59,
+                329,
+                70
+              ]
+            },
+            {
+              "text": "conserved",
+              "bbox": [
+                331,
+                59,
+                371,
+                70
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                374,
+                59,
+                399,
+                70
+              ]
+            },
+            {
+              "text": "include",
+              "bbox": [
+                402,
+                59,
+                430,
+                70
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                433,
+                59,
+                458,
+                70
+              ]
+            },
+            {
+              "text": "A:",
+              "bbox": [
+                461,
+                59,
+                470,
+                70
+              ]
+            },
+            {
+              "text": "A-K-Y,",
+              "bbox": [
+                473,
+                59,
+                501,
+                70
+              ]
+            },
+            {
+              "text": "N-",
+              "bbox": [
+                504,
+                59,
+                515,
+                70
+              ]
+            }
+          ]
+        },
+        {
+          "text": "K-Y; Group A: T-E-Y, T-Q-Y; Group A & B: S-D-Y, S-E-Y, T-D-Y; Group B: S-K-Y, R-K-Y; Group B: T-E-Y, M-E-Y, T-E-C, T-",
+          "bbox": [
+            13,
+            73,
+            515,
+            83
+          ],
+          "words": [
+            {
+              "text": "K-Y;",
+              "bbox": [
+                13,
+                73,
+                32,
+                83
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                35,
+                73,
+                60,
+                83
+              ]
+            },
+            {
+              "text": "A:",
+              "bbox": [
+                62,
+                73,
+                72,
+                83
+              ]
+            },
+            {
+              "text": "T-E-Y,",
+              "bbox": [
+                74,
+                73,
+                100,
+                83
+              ]
+            },
+            {
+              "text": "T-Q-Y;",
+              "bbox": [
+                102,
+                73,
+                130,
+                83
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                132,
+                73,
+                157,
+                83
+              ]
+            },
+            {
+              "text": "A",
+              "bbox": [
+                159,
+                73,
+                166,
+                83
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                168,
+                73,
+                176,
+                83
+              ]
+            },
+            {
+              "text": "B:",
+              "bbox": [
+                178,
+                73,
+                187,
+                83
+              ]
+            },
+            {
+              "text": "S-D-Y,",
+              "bbox": [
+                190,
+                73,
+                217,
+                83
+              ]
+            },
+            {
+              "text": "S-E-Y,",
+              "bbox": [
+                220,
+                73,
+                246,
+                83
+              ]
+            },
+            {
+              "text": "T-D-Y;",
+              "bbox": [
+                248,
+                73,
+                276,
+                83
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                278,
+                73,
+                303,
+                83
+              ]
+            },
+            {
+              "text": "B:",
+              "bbox": [
+                306,
+                73,
+                315,
+                83
+              ]
+            },
+            {
+              "text": "S-K-Y,",
+              "bbox": [
+                317,
+                73,
+                345,
+                83
+              ]
+            },
+            {
+              "text": "R-K-Y;",
+              "bbox": [
+                347,
+                73,
+                376,
+                83
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                378,
+                73,
+                403,
+                83
+              ]
+            },
+            {
+              "text": "B:",
+              "bbox": [
+                406,
+                73,
+                415,
+                83
+              ]
+            },
+            {
+              "text": "T-E-Y,",
+              "bbox": [
+                417,
+                73,
+                443,
+                83
+              ]
+            },
+            {
+              "text": "M-E-Y,",
+              "bbox": [
+                446,
+                73,
+                475,
+                83
+              ]
+            },
+            {
+              "text": "T-E-C,",
+              "bbox": [
+                477,
+                73,
+                504,
+                83
+              ]
+            },
+            {
+              "text": "T-",
+              "bbox": [
+                506,
+                73,
+                515,
+                83
+              ]
+            }
+          ]
+        },
+        {
+          "text": "V-Y; and Group C: D-N-Y, S-Q-Y. The activation loop motifs comprise Group C: T-K-Y and Group C: T-E-Y, while the C-",
+          "bbox": [
+            13,
+            86,
+            515,
+            97
+          ],
+          "words": [
+            {
+              "text": "V-Y;",
+              "bbox": [
+                13,
+                86,
+                32,
+                97
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                35,
+                86,
+                49,
+                97
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                53,
+                86,
+                78,
+                97
+              ]
+            },
+            {
+              "text": "C:",
+              "bbox": [
+                81,
+                86,
+                90,
+                97
+              ]
+            },
+            {
+              "text": "D-N-Y,",
+              "bbox": [
+                94,
+                86,
+                123,
+                97
+              ]
+            },
+            {
+              "text": "S-Q-Y.",
+              "bbox": [
+                126,
+                86,
+                154,
+                97
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                157,
+                86,
+                172,
+                97
+              ]
+            },
+            {
+              "text": "activation",
+              "bbox": [
+                176,
+                86,
+                214,
+                97
+              ]
+            },
+            {
+              "text": "loop",
+              "bbox": [
+                218,
+                86,
+                235,
+                97
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                239,
+                86,
+                263,
+                97
+              ]
+            },
+            {
+              "text": "comprise",
+              "bbox": [
+                267,
+                86,
+                303,
+                97
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                306,
+                86,
+                331,
+                97
+              ]
+            },
+            {
+              "text": "C:",
+              "bbox": [
+                335,
+                86,
+                344,
+                97
+              ]
+            },
+            {
+              "text": "T-K-Y",
+              "bbox": [
+                347,
+                86,
+                373,
+                97
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                376,
+                86,
+                390,
+                97
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                394,
+                86,
+                419,
+                97
+              ]
+            },
+            {
+              "text": "C:",
+              "bbox": [
+                422,
+                86,
+                432,
+                97
+              ]
+            },
+            {
+              "text": "T-E-Y,",
+              "bbox": [
+                435,
+                86,
+                461,
+                97
+              ]
+            },
+            {
+              "text": "while",
+              "bbox": [
+                464,
+                86,
+                486,
+                97
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                489,
+                86,
+                501,
+                97
+              ]
+            },
+            {
+              "text": "C-",
+              "bbox": [
+                505,
+                86,
+                515,
+                97
+              ]
+            }
+          ]
+        },
+        {
+          "text": "terminal motifs include Group D: S-K-Y, T-K-Y, S-R-Y, S-N-Y; Group D: S-Q-Y, N-R-Y, S-R-Y; and Group D: T-D-Y, with",
+          "bbox": [
+            13,
+            100,
+            515,
+            111
+          ],
+          "words": [
+            {
+              "text": "terminal",
+              "bbox": [
+                13,
+                100,
+                46,
+                111
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                49,
+                100,
+                74,
+                111
+              ]
+            },
+            {
+              "text": "include",
+              "bbox": [
+                78,
+                100,
+                106,
+                111
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                110,
+                100,
+                135,
+                111
+              ]
+            },
+            {
+              "text": "D:",
+              "bbox": [
+                138,
+                100,
+                148,
+                111
+              ]
+            },
+            {
+              "text": "S-K-Y,",
+              "bbox": [
+                151,
+                100,
+                179,
+                111
+              ]
+            },
+            {
+              "text": "T-K-Y,",
+              "bbox": [
+                182,
+                100,
+                209,
+                111
+              ]
+            },
+            {
+              "text": "S-R-Y,",
+              "bbox": [
+                212,
+                100,
+                239,
+                111
+              ]
+            },
+            {
+              "text": "S-N-Y;",
+              "bbox": [
+                242,
+                100,
+                270,
+                111
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                273,
+                100,
+                298,
+                111
+              ]
+            },
+            {
+              "text": "D:",
+              "bbox": [
+                302,
+                100,
+                312,
+                111
+              ]
+            },
+            {
+              "text": "S-Q-Y,",
+              "bbox": [
+                315,
+                100,
+                342,
+                111
+              ]
+            },
+            {
+              "text": "N-R-Y,",
+              "bbox": [
+                346,
+                100,
+                374,
+                111
+              ]
+            },
+            {
+              "text": "S-R-Y;",
+              "bbox": [
+                377,
+                100,
+                405,
+                111
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                408,
+                100,
+                422,
+                111
+              ]
+            },
+            {
+              "text": "Group",
+              "bbox": [
+                426,
+                100,
+                451,
+                111
+              ]
+            },
+            {
+              "text": "D:",
+              "bbox": [
+                454,
+                100,
+                464,
+                111
+              ]
+            },
+            {
+              "text": "T-D-Y,",
+              "bbox": [
+                467,
+                100,
+                494,
+                111
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                497,
+                100,
+                515,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Group E: T-S-Y, T-E-M, T-Q-M, T-R-M noted as well. Table 2 presents various calling strategies, with Single algorithms (after",
+          "bbox": [
+            13,
+            114,
+            515,
+            124
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                13,
+                114,
+                38,
+                124
+              ]
+            },
+            {
+              "text": "E:",
+              "bbox": [
+                41,
+                114,
+                50,
+                124
+              ]
+            },
+            {
+              "text": "T-S-Y,",
+              "bbox": [
+                52,
+                114,
+                78,
+                124
+              ]
+            },
+            {
+              "text": "T-E-M,",
+              "bbox": [
+                80,
+                114,
+                109,
+                124
+              ]
+            },
+            {
+              "text": "T-Q-M,",
+              "bbox": [
+                112,
+                114,
+                141,
+                124
+              ]
+            },
+            {
+              "text": "T-R-M",
+              "bbox": [
+                144,
+                114,
+                171,
+                124
+              ]
+            },
+            {
+              "text": "noted",
+              "bbox": [
+                174,
+                114,
+                195,
+                124
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                198,
+                114,
+                206,
+                124
+              ]
+            },
+            {
+              "text": "well.",
+              "bbox": [
+                209,
+                114,
+                228,
+                124
+              ]
+            },
+            {
+              "text": "Table",
+              "bbox": [
+                231,
+                114,
+                252,
+                124
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                255,
+                114,
+                260,
+                124
+              ]
+            },
+            {
+              "text": "presents",
+              "bbox": [
+                263,
+                114,
+                295,
+                124
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                298,
+                114,
+                327,
+                124
+              ]
+            },
+            {
+              "text": "calling",
+              "bbox": [
+                329,
+                114,
+                356,
+                124
+              ]
+            },
+            {
+              "text": "strategies,",
+              "bbox": [
+                359,
+                114,
+                398,
+                124
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                401,
+                114,
+                418,
+                124
+              ]
+            },
+            {
+              "text": "Single",
+              "bbox": [
+                421,
+                114,
+                446,
+                124
+              ]
+            },
+            {
+              "text": "algorithms",
+              "bbox": [
+                449,
+                114,
+                491,
+                124
+              ]
+            },
+            {
+              "text": "(after",
+              "bbox": [
+                493,
+                114,
+                515,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "text": "filtering) using Bambino identifying 742 validated mutations (88.1% sensitivity, average 2503 ± 1070 variant calls/sample),",
+          "bbox": [
+            13,
+            127,
+            515,
+            138
+          ],
+          "words": [
+            {
+              "text": "filtering)",
+              "bbox": [
+                13,
+                127,
+                48,
+                138
+              ]
+            },
+            {
+              "text": "using",
+              "bbox": [
+                52,
+                127,
+                73,
+                138
+              ]
+            },
+            {
+              "text": "Bambino",
+              "bbox": [
+                77,
+                127,
+                112,
+                138
+              ]
+            },
+            {
+              "text": "identifying",
+              "bbox": [
+                116,
+                127,
+                159,
+                138
+              ]
+            },
+            {
+              "text": "742",
+              "bbox": [
+                163,
+                127,
+                177,
+                138
+              ]
+            },
+            {
+              "text": "validated",
+              "bbox": [
+                181,
+                127,
+                217,
+                138
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                220,
+                127,
+                259,
+                138
+              ]
+            },
+            {
+              "text": "(88.1%",
+              "bbox": [
+                263,
+                127,
+                291,
+                138
+              ]
+            },
+            {
+              "text": "sensitivity,",
+              "bbox": [
+                295,
+                127,
+                337,
+                138
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                340,
+                127,
+                371,
+                138
+              ]
+            },
+            {
+              "text": "2503",
+              "bbox": [
+                374,
+                127,
+                394,
+                138
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                398,
+                127,
+                403,
+                138
+              ]
+            },
+            {
+              "text": "1070",
+              "bbox": [
+                407,
+                127,
+                426,
+                138
+              ]
+            },
+            {
+              "text": "variant",
+              "bbox": [
+                430,
+                127,
+                457,
+                138
+              ]
+            },
+            {
+              "text": "calls/sample),",
+              "bbox": [
+                461,
+                127,
+                515,
+                138
+              ]
+            }
+          ]
+        },
+        {
+          "text": "while CaVEMan identified 801 mutations (95.1% sensitivity, average 1072 ± 1055) and Mpileup identified 727 mutations",
+          "bbox": [
+            13,
+            141,
+            515,
+            151
+          ],
+          "words": [
+            {
+              "text": "while",
+              "bbox": [
+                13,
+                141,
+                35,
+                151
+              ]
+            },
+            {
+              "text": "CaVEMan",
+              "bbox": [
+                39,
+                141,
+                81,
+                151
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                85,
+                141,
+                122,
+                151
+              ]
+            },
+            {
+              "text": "801",
+              "bbox": [
+                126,
+                141,
+                141,
+                151
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                145,
+                141,
+                184,
+                151
+              ]
+            },
+            {
+              "text": "(95.1%",
+              "bbox": [
+                188,
+                141,
+                216,
+                151
+              ]
+            },
+            {
+              "text": "sensitivity,",
+              "bbox": [
+                220,
+                141,
+                262,
+                151
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                266,
+                141,
+                297,
+                151
+              ]
+            },
+            {
+              "text": "1072",
+              "bbox": [
+                301,
+                141,
+                320,
+                151
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                324,
+                141,
+                330,
+                151
+              ]
+            },
+            {
+              "text": "1055)",
+              "bbox": [
+                334,
+                141,
+                356,
+                151
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                361,
+                141,
+                375,
+                151
+              ]
+            },
+            {
+              "text": "Mpileup",
+              "bbox": [
+                379,
+                141,
+                412,
+                151
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                416,
+                141,
+                453,
+                151
+              ]
+            },
+            {
+              "text": "727",
+              "bbox": [
+                457,
+                141,
+                472,
+                151
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                476,
+                141,
+                515,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(86.3% sensitivity, average 429 ± 226).",
+          "bbox": [
+            13,
+            154,
+            167,
+            165
+          ],
+          "words": [
+            {
+              "text": "(86.3%",
+              "bbox": [
+                13,
+                154,
+                42,
+                165
+              ]
+            },
+            {
+              "text": "sensitivity,",
+              "bbox": [
+                44,
+                154,
+                86,
+                165
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                89,
+                154,
+                119,
+                165
+              ]
+            },
+            {
+              "text": "429",
+              "bbox": [
+                121,
+                154,
+                136,
+                165
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                138,
+                154,
+                144,
+                165
+              ]
+            },
+            {
+              "text": "226).",
+              "bbox": [
+                146,
+                154,
+                167,
+                165
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_053217_t0",
+      "bbox": [
+        13,
+        181,
+        515,
+        370
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            181,
+            515,
+            200
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            200,
+            515,
+            230
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            230,
+            515,
+            260
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            260,
+            515,
+            291
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            291,
+            515,
+            321
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            321,
+            515,
+            338
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            13,
+            338,
+            515,
+            369
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td colspan=\"4\">Conserved signature motifs of MAPKs</td></tr><tr><td>N-Terminal conserved motifs</td><td>Some other conserved Motif Present in N-terminal End</td><td>Activation loop motifs</td><td>C-Terminal motifs</td></tr><tr><td>Group D</td><td>Group A: A-K-Y, N-K-Y</td><td>Group A: T-E-Y, T-Q-Y</td><td>Group A &amp; B: S-D-Y, S-E-Y, T-D-Y</td></tr><tr><td>S-D-Y, S-E-Y</td><td>Group B: S-K-Y, R-K-Y</td><td>Group B: T-E-Y, M-E-Y, T-E-C, T-V-Y</td><td>Group C: D-N-Y, S-Q-Y</td></tr><tr><td>T-D-Y, T-E-Y</td><td>Group C: T-K-Y</td><td>Group C: T-E-Y</td><td>Group D: S-K-Y, T-K-Y, S-R-Y, S-N-Y</td></tr><tr><td></td><td>Group D: S-Q-Y, N-R-Y, S-R-Y</td><td>Group D: T-D-Y</td><td></td></tr><tr><td></td><td></td><td>Group E: T-S-Y, T-E-M, T-Q-M, T-R-M</td><td></td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Conserved signature motifs of MAPKs",
+          "bbox": [
+            13,
+            181,
+            515,
+            200
+          ],
+          "words": [
+            {
+              "text": "Conserved",
+              "bbox": [
+                18,
+                185,
+                58,
+                195
+              ]
+            },
+            {
+              "text": "signature",
+              "bbox": [
+                60,
+                185,
+                96,
+                195
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                98,
+                185,
+                122,
+                195
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                124,
+                185,
+                131,
+                195
+              ]
+            },
+            {
+              "text": "MAPKs",
+              "bbox": [
+                133,
+                185,
+                164,
+                195
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "N-Terminal conserved motifs",
+          "bbox": [
+            13,
+            200,
+            106,
+            230
+          ],
+          "words": [
+            {
+              "text": "N-Terminal",
+              "bbox": [
+                18,
+                204,
+                59,
+                213
+              ]
+            },
+            {
+              "text": "conserved",
+              "bbox": [
+                61,
+                204,
+                97,
+                213
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                18,
+                216,
+                40,
+                226
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Some other conserved Motif Present in N-terminal End",
+          "bbox": [
+            106,
+            200,
+            272,
+            230
+          ],
+          "words": [
+            {
+              "text": "Some",
+              "bbox": [
+                111,
+                204,
+                131,
+                213
+              ]
+            },
+            {
+              "text": "other",
+              "bbox": [
+                133,
+                204,
+                151,
+                213
+              ]
+            },
+            {
+              "text": "conserved",
+              "bbox": [
+                153,
+                204,
+                189,
+                213
+              ]
+            },
+            {
+              "text": "Motif",
+              "bbox": [
+                192,
+                204,
+                212,
+                213
+              ]
+            },
+            {
+              "text": "Present",
+              "bbox": [
+                214,
+                204,
+                240,
+                213
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                242,
+                204,
+                249,
+                213
+              ]
+            },
+            {
+              "text": "N-terminal",
+              "bbox": [
+                111,
+                204,
+                261,
+                226
+              ]
+            },
+            {
+              "text": "End",
+              "bbox": [
+                142,
+                216,
+                157,
+                226
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Activation loop motifs",
+          "bbox": [
+            272,
+            200,
+            394,
+            230
+          ],
+          "words": [
+            {
+              "text": "Activation",
+              "bbox": [
+                309,
+                204,
+                347,
+                213
+              ]
+            },
+            {
+              "text": "loop",
+              "bbox": [
+                349,
+                204,
+                365,
+                213
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                367,
+                204,
+                390,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "C-Terminal motifs",
+          "bbox": [
+            394,
+            200,
+            515,
+            230
+          ],
+          "words": [
+            {
+              "text": "C-Terminal",
+              "bbox": [
+                444,
+                204,
+                485,
+                213
+              ]
+            },
+            {
+              "text": "motifs",
+              "bbox": [
+                487,
+                204,
+                510,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Group D",
+          "bbox": [
+            13,
+            230,
+            106,
+            260
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                18,
+                234,
+                40,
+                244
+              ]
+            },
+            {
+              "text": "D",
+              "bbox": [
+                43,
+                234,
+                49,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Group A: A-K-Y, N-K-Y",
+          "bbox": [
+            106,
+            230,
+            272,
+            260
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                111,
+                234,
+                133,
+                244
+              ]
+            },
+            {
+              "text": "A:",
+              "bbox": [
+                135,
+                234,
+                144,
+                244
+              ]
+            },
+            {
+              "text": "A-K-Y,",
+              "bbox": [
+                146,
+                234,
+                172,
+                244
+              ]
+            },
+            {
+              "text": "N-K-Y",
+              "bbox": [
+                174,
+                234,
+                199,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Group A: T-E-Y, T-Q-Y",
+          "bbox": [
+            272,
+            230,
+            394,
+            260
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                305,
+                234,
+                328,
+                244
+              ]
+            },
+            {
+              "text": "A:",
+              "bbox": [
+                330,
+                234,
+                339,
+                244
+              ]
+            },
+            {
+              "text": "T-E-Y,",
+              "bbox": [
+                341,
+                234,
+                364,
+                244
+              ]
+            },
+            {
+              "text": "T-Q-Y",
+              "bbox": [
+                366,
+                234,
+                390,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Group A & B: S-D-Y, S-E-Y, T-D-Y",
+          "bbox": [
+            394,
+            230,
+            515,
+            260
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                407,
+                234,
+                430,
+                244
+              ]
+            },
+            {
+              "text": "A",
+              "bbox": [
+                432,
+                234,
+                438,
+                244
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                440,
+                234,
+                447,
+                244
+              ]
+            },
+            {
+              "text": "B:",
+              "bbox": [
+                449,
+                234,
+                457,
+                244
+              ]
+            },
+            {
+              "text": "S-D-Y,",
+              "bbox": [
+                459,
+                234,
+                484,
+                244
+              ]
+            },
+            {
+              "text": "S-E-Y,",
+              "bbox": [
+                486,
+                234,
+                510,
+                244
+              ]
+            },
+            {
+              "text": "T-D-Y",
+              "bbox": [
+                487,
+                246,
+                510,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "S-D-Y, S-E-Y",
+          "bbox": [
+            13,
+            260,
+            106,
+            291
+          ],
+          "words": [
+            {
+              "text": "S-D-Y,",
+              "bbox": [
+                18,
+                264,
+                42,
+                274
+              ]
+            },
+            {
+              "text": "S-E-Y",
+              "bbox": [
+                45,
+                264,
+                67,
+                274
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Group B: S-K-Y, R-K-Y",
+          "bbox": [
+            106,
+            260,
+            272,
+            291
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                111,
+                264,
+                133,
+                274
+              ]
+            },
+            {
+              "text": "B:",
+              "bbox": [
+                135,
+                264,
+                144,
+                274
+              ]
+            },
+            {
+              "text": "S-K-Y,",
+              "bbox": [
+                146,
+                264,
+                171,
+                274
+              ]
+            },
+            {
+              "text": "R-K-Y",
+              "bbox": [
+                173,
+                264,
+                198,
+                274
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Group B: T-E-Y, M-E-Y, T-E-C, T-V-Y",
+          "bbox": [
+            272,
+            260,
+            394,
+            291
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                284,
+                264,
+                307,
+                274
+              ]
+            },
+            {
+              "text": "B:",
+              "bbox": [
+                309,
+                264,
+                317,
+                274
+              ]
+            },
+            {
+              "text": "T-E-Y,",
+              "bbox": [
+                319,
+                264,
+                343,
+                274
+              ]
+            },
+            {
+              "text": "M-E-Y,",
+              "bbox": [
+                345,
+                264,
+                372,
+                274
+              ]
+            },
+            {
+              "text": "T-E-C,",
+              "bbox": [
+                357,
+                264,
+                390,
+                286
+              ]
+            },
+            {
+              "text": "T-V-Y",
+              "bbox": [
+                367,
+                276,
+                390,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Group C: D-N-Y, S-Q-Y",
+          "bbox": [
+            394,
+            260,
+            515,
+            291
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                423,
+                264,
+                445,
+                274
+              ]
+            },
+            {
+              "text": "C:",
+              "bbox": [
+                447,
+                264,
+                456,
+                274
+              ]
+            },
+            {
+              "text": "D-N-Y,",
+              "bbox": [
+                458,
+                264,
+                484,
+                274
+              ]
+            },
+            {
+              "text": "S-Q-Y",
+              "bbox": [
+                487,
+                264,
+                510,
+                274
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "T-D-Y, T-E-Y",
+          "bbox": [
+            13,
+            291,
+            106,
+            321
+          ],
+          "words": [
+            {
+              "text": "T-D-Y,",
+              "bbox": [
+                18,
+                294,
+                42,
+                304
+              ]
+            },
+            {
+              "text": "T-E-Y",
+              "bbox": [
+                44,
+                294,
+                67,
+                304
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Group C: T-K-Y",
+          "bbox": [
+            106,
+            291,
+            272,
+            321
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                111,
+                294,
+                133,
+                304
+              ]
+            },
+            {
+              "text": "C:",
+              "bbox": [
+                135,
+                294,
+                144,
+                304
+              ]
+            },
+            {
+              "text": "T-K-Y",
+              "bbox": [
+                146,
+                294,
+                169,
+                304
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Group C: T-E-Y",
+          "bbox": [
+            272,
+            291,
+            394,
+            321
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                332,
+                294,
+                355,
+                304
+              ]
+            },
+            {
+              "text": "C:",
+              "bbox": [
+                357,
+                294,
+                365,
+                304
+              ]
+            },
+            {
+              "text": "T-E-Y",
+              "bbox": [
+                367,
+                294,
+                390,
+                304
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Group D: S-K-Y, T-K-Y, S-R-Y, S-N-Y",
+          "bbox": [
+            394,
+            291,
+            515,
+            321
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                404,
+                294,
+                427,
+                304
+              ]
+            },
+            {
+              "text": "D:",
+              "bbox": [
+                429,
+                294,
+                438,
+                304
+              ]
+            },
+            {
+              "text": "S-K-Y,",
+              "bbox": [
+                440,
+                294,
+                465,
+                304
+              ]
+            },
+            {
+              "text": "T-K-Y,",
+              "bbox": [
+                467,
+                294,
+                491,
+                304
+              ]
+            },
+            {
+              "text": "S-R-Y,",
+              "bbox": [
+                477,
+                294,
+                510,
+                316
+              ]
+            },
+            {
+              "text": "S-N-Y",
+              "bbox": [
+                486,
+                307,
+                510,
+                316
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            13,
+            321,
+            106,
+            338
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Group D: S-Q-Y, N-R-Y, S-R-Y",
+          "bbox": [
+            106,
+            321,
+            272,
+            338
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                111,
+                324,
+                133,
+                334
+              ]
+            },
+            {
+              "text": "D:",
+              "bbox": [
+                135,
+                324,
+                144,
+                334
+              ]
+            },
+            {
+              "text": "S-Q-Y,",
+              "bbox": [
+                146,
+                324,
+                171,
+                334
+              ]
+            },
+            {
+              "text": "N-R-Y,",
+              "bbox": [
+                173,
+                324,
+                199,
+                334
+              ]
+            },
+            {
+              "text": "S-R-Y",
+              "bbox": [
+                201,
+                324,
+                225,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Group D: T-D-Y",
+          "bbox": [
+            272,
+            321,
+            394,
+            338
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                330,
+                324,
+                353,
+                334
+              ]
+            },
+            {
+              "text": "D:",
+              "bbox": [
+                355,
+                324,
+                364,
+                334
+              ]
+            },
+            {
+              "text": "T-D-Y",
+              "bbox": [
+                366,
+                324,
+                390,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            394,
+            321,
+            515,
+            338
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            13,
+            338,
+            106,
+            369
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            106,
+            338,
+            272,
+            369
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Group E: T-S-Y, T-E-M, T-Q-M, T-R-M",
+          "bbox": [
+            272,
+            338,
+            394,
+            369
+          ],
+          "words": [
+            {
+              "text": "Group",
+              "bbox": [
+                285,
+                342,
+                307,
+                352
+              ]
+            },
+            {
+              "text": "E:",
+              "bbox": [
+                310,
+                342,
+                317,
+                352
+              ]
+            },
+            {
+              "text": "T-S-Y,",
+              "bbox": [
+                320,
+                342,
+                342,
+                352
+              ]
+            },
+            {
+              "text": "T-E-M,",
+              "bbox": [
+                345,
+                342,
+                371,
+                352
+              ]
+            },
+            {
+              "text": "T-Q-M,",
+              "bbox": [
+                353,
+                342,
+                390,
+                364
+              ]
+            },
+            {
+              "text": "T-R-M",
+              "bbox": [
+                365,
+                354,
+                390,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            394,
+            338,
+            515,
+            369
+          ],
+          "words": []
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_053217_t1",
+      "bbox": [
+        13,
+        383,
+        515,
+        719
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 2,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            13,
+            383,
+            515,
+            414
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            13,
+            414,
+            515,
+            469
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            13,
+            469,
+            515,
+            525
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            13,
+            525,
+            515,
+            555
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            13,
+            555,
+            515,
+            585
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            13,
+            585,
+            515,
+            615
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            13,
+            615,
+            515,
+            658
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            13,
+            658,
+            515,
+            688
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            13,
+            688,
+            515,
+            719
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><tr><td></td><td></td><td colspan=\"3\">Hepatocellular carcinoma (24 samples/842 validated sites)</td><td colspan=\"4\">Breast cancer (2 samples/264 validated sites)</td></tr><tr><td>Calling strategy</td><td>Algorithms</td><td>Validated mutations identified (total)</td><td>Sensitivity (%)</td><td>Average number of variant calls per sample</td><td>Validated mutations identified (total)</td><td>Sensitivity (%)</td><td>Average number of variant calls per sample</td><td>Validation success rate (Sequenom) (%)</td></tr><tr><td rowspan=\"4\">Single algorithms (after filtering)</td><td>Bambino</td><td>742</td><td>88.1</td><td>2503 ± 1070</td><td>248</td><td>93.9</td><td>3456 ± 324</td><td></td></tr><tr><td>CaVEMan</td><td>801</td><td>95.1</td><td>1072 ± 1055</td><td>(263)</td><td>(99.6)</td><td>(961 ± 90)</td><td></td></tr><tr><td>Mpileup</td><td>727</td><td>86.3</td><td>429 ± 226</td><td>181</td><td>68.6</td><td>329 ± 32</td><td></td></tr><tr><td>VarScan 2</td><td>805</td><td>95.6</td><td>926 ± 527</td><td>205</td><td>77.7</td><td>929 ± 91</td><td></td></tr><tr><td rowspan=\"3\">Cake</td><td>≥ any 2 callers</td><td>812</td><td>96.4</td><td>634 ± 299</td><td>254</td><td>96.2</td><td>613 ± 42</td><td>51.5</td></tr><tr><td>≥ any 3 callers</td><td>794</td><td>94.3</td><td>270 ± 132</td><td>214</td><td>81.1</td><td>326 ± 50</td><td>81.7</td></tr><tr><td>4 callers</td><td>652</td><td>77.4</td><td>168 ± 98</td><td>166</td><td>62.8</td><td>178 ± 42</td><td>88.3</td></tr></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            13,
+            383,
+            70,
+            414
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            70,
+            383,
+            102,
+            414
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Hepatocellular carcinoma (24 samples/842 validated sites)",
+          "bbox": [
+            102,
+            383,
+            274,
+            414
+          ],
+          "words": [
+            {
+              "text": "Hepatocellular",
+              "bbox": [
+                106,
+                387,
+                162,
+                397
+              ]
+            },
+            {
+              "text": "carcinoma",
+              "bbox": [
+                165,
+                387,
+                204,
+                397
+              ]
+            },
+            {
+              "text": "(24",
+              "bbox": [
+                207,
+                387,
+                219,
+                397
+              ]
+            },
+            {
+              "text": "samples/842",
+              "bbox": [
+                221,
+                387,
+                267,
+                397
+              ]
+            },
+            {
+              "text": "validated",
+              "bbox": [
+                106,
+                400,
+                141,
+                409
+              ]
+            },
+            {
+              "text": "sites)",
+              "bbox": [
+                144,
+                400,
+                163,
+                409
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Breast cancer (2 samples/264 validated sites)",
+          "bbox": [
+            274,
+            383,
+            515,
+            414
+          ],
+          "words": [
+            {
+              "text": "Breast",
+              "bbox": [
+                342,
+                387,
+                367,
+                397
+              ]
+            },
+            {
+              "text": "cancer",
+              "bbox": [
+                369,
+                387,
+                394,
+                397
+              ]
+            },
+            {
+              "text": "(2",
+              "bbox": [
+                396,
+                387,
+                403,
+                397
+              ]
+            },
+            {
+              "text": "samples/264",
+              "bbox": [
+                406,
+                387,
+                452,
+                397
+              ]
+            },
+            {
+              "text": "validated",
+              "bbox": [
+                454,
+                387,
+                489,
+                397
+              ]
+            },
+            {
+              "text": "sites)",
+              "bbox": [
+                491,
+                387,
+                510,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Calling strategy",
+          "bbox": [
+            13,
+            414,
+            70,
+            469
+          ],
+          "words": [
+            {
+              "text": "Calling",
+              "bbox": [
+                18,
+                417,
+                45,
+                427
+              ]
+            },
+            {
+              "text": "strategy",
+              "bbox": [
+                18,
+                430,
+                48,
+                440
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Algorithms",
+          "bbox": [
+            70,
+            414,
+            102,
+            469
+          ],
+          "words": [
+            {
+              "text": "Algorithms",
+              "bbox": [
+                74,
+                417,
+                96,
+                440
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Validated mutations identified (total)",
+          "bbox": [
+            102,
+            414,
+            166,
+            469
+          ],
+          "words": [
+            {
+              "text": "Validated",
+              "bbox": [
+                106,
+                417,
+                143,
+                427
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                106,
+                430,
+                144,
+                440
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                106,
+                442,
+                142,
+                452
+              ]
+            },
+            {
+              "text": "(total)",
+              "bbox": [
+                106,
+                455,
+                130,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Sensitivity (%)",
+          "bbox": [
+            166,
+            414,
+            201,
+            469
+          ],
+          "words": [
+            {
+              "text": "Sensitivity",
+              "bbox": [
+                170,
+                417,
+                196,
+                440
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                170,
+                442,
+                185,
+                452
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "Average number of variant calls per sample",
+          "bbox": [
+            201,
+            414,
+            274,
+            469
+          ],
+          "words": [
+            {
+              "text": "Average",
+              "bbox": [
+                206,
+                417,
+                237,
+                427
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                239,
+                417,
+                269,
+                427
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                213,
+                430,
+                221,
+                440
+              ]
+            },
+            {
+              "text": "variant",
+              "bbox": [
+                223,
+                430,
+                251,
+                440
+              ]
+            },
+            {
+              "text": "calls",
+              "bbox": [
+                253,
+                430,
+                269,
+                440
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                228,
+                442,
+                241,
+                452
+              ]
+            },
+            {
+              "text": "sample",
+              "bbox": [
+                243,
+                442,
+                269,
+                452
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "Validated mutations identified (total)",
+          "bbox": [
+            274,
+            414,
+            338,
+            469
+          ],
+          "words": [
+            {
+              "text": "Validated",
+              "bbox": [
+                297,
+                417,
+                333,
+                427
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                295,
+                430,
+                333,
+                440
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                297,
+                442,
+                333,
+                452
+              ]
+            },
+            {
+              "text": "(total)",
+              "bbox": [
+                310,
+                455,
+                333,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "Sensitivity (%)",
+          "bbox": [
+            338,
+            414,
+            373,
+            469
+          ],
+          "words": [
+            {
+              "text": "Sensitivity",
+              "bbox": [
+                343,
+                417,
+                368,
+                440
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                354,
+                442,
+                368,
+                452
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "Average number of variant calls per sample",
+          "bbox": [
+            373,
+            414,
+            446,
+            469
+          ],
+          "words": [
+            {
+              "text": "Average",
+              "bbox": [
+                378,
+                417,
+                409,
+                427
+              ]
+            },
+            {
+              "text": "number",
+              "bbox": [
+                411,
+                417,
+                441,
+                427
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                385,
+                430,
+                393,
+                440
+              ]
+            },
+            {
+              "text": "variant",
+              "bbox": [
+                395,
+                430,
+                422,
+                440
+              ]
+            },
+            {
+              "text": "calls",
+              "bbox": [
+                425,
+                430,
+                441,
+                440
+              ]
+            },
+            {
+              "text": "per",
+              "bbox": [
+                400,
+                442,
+                413,
+                452
+              ]
+            },
+            {
+              "text": "sample",
+              "bbox": [
+                415,
+                442,
+                441,
+                452
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "Validation success rate (Sequenom) (%)",
+          "bbox": [
+            446,
+            414,
+            515,
+            469
+          ],
+          "words": [
+            {
+              "text": "Validation",
+              "bbox": [
+                471,
+                417,
+                510,
+                427
+              ]
+            },
+            {
+              "text": "success",
+              "bbox": [
+                466,
+                430,
+                493,
+                440
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                495,
+                430,
+                510,
+                440
+              ]
+            },
+            {
+              "text": "(Sequenom)",
+              "bbox": [
+                465,
+                442,
+                510,
+                452
+              ]
+            },
+            {
+              "text": "(%)",
+              "bbox": [
+                495,
+                455,
+                510,
+                464
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Single algorithms (after filtering)",
+          "bbox": [
+            13,
+            469,
+            70,
+            525
+          ],
+          "words": [
+            {
+              "text": "Single",
+              "bbox": [
+                18,
+                473,
+                40,
+                483
+              ]
+            },
+            {
+              "text": "algorithms",
+              "bbox": [
+                18,
+                486,
+                56,
+                496
+              ]
+            },
+            {
+              "text": "(after",
+              "bbox": [
+                18,
+                498,
+                37,
+                508
+              ]
+            },
+            {
+              "text": "filtering)",
+              "bbox": [
+                18,
+                511,
+                49,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Bambino",
+          "bbox": [
+            70,
+            469,
+            102,
+            525
+          ],
+          "words": [
+            {
+              "text": "Bambino",
+              "bbox": [
+                74,
+                473,
+                95,
+                496
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "742",
+          "bbox": [
+            102,
+            469,
+            166,
+            525
+          ],
+          "words": [
+            {
+              "text": "742",
+              "bbox": [
+                106,
+                473,
+                120,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "88.1",
+          "bbox": [
+            166,
+            469,
+            201,
+            525
+          ],
+          "words": [
+            {
+              "text": "88.1",
+              "bbox": [
+                170,
+                473,
+                186,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2503 ± 1070",
+          "bbox": [
+            201,
+            469,
+            274,
+            525
+          ],
+          "words": [
+            {
+              "text": "2503",
+              "bbox": [
+                225,
+                473,
+                242,
+                483
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                245,
+                473,
+                250,
+                483
+              ]
+            },
+            {
+              "text": "1070",
+              "bbox": [
+                252,
+                473,
+                269,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "248",
+          "bbox": [
+            274,
+            469,
+            338,
+            525
+          ],
+          "words": [
+            {
+              "text": "248",
+              "bbox": [
+                320,
+                473,
+                333,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "93.9",
+          "bbox": [
+            338,
+            469,
+            373,
+            525
+          ],
+          "words": [
+            {
+              "text": "93.9",
+              "bbox": [
+                353,
+                473,
+                368,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "3456 ± 324",
+          "bbox": [
+            373,
+            469,
+            446,
+            525
+          ],
+          "words": [
+            {
+              "text": "3456",
+              "bbox": [
+                401,
+                473,
+                419,
+                483
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                421,
+                473,
+                426,
+                483
+              ]
+            },
+            {
+              "text": "324",
+              "bbox": [
+                428,
+                473,
+                441,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            446,
+            469,
+            515,
+            525
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "CaVEMan",
+          "bbox": [
+            13,
+            525,
+            70,
+            555
+          ],
+          "words": [
+            {
+              "text": "CaVEMan",
+              "bbox": [
+                18,
+                528,
+                56,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "801",
+          "bbox": [
+            70,
+            525,
+            102,
+            555
+          ],
+          "words": [
+            {
+              "text": "801",
+              "bbox": [
+                74,
+                528,
+                87,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "95.1",
+          "bbox": [
+            102,
+            525,
+            166,
+            555
+          ],
+          "words": [
+            {
+              "text": "95.1",
+              "bbox": [
+                106,
+                528,
+                122,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "1072 ± 1055",
+          "bbox": [
+            166,
+            525,
+            201,
+            555
+          ],
+          "words": [
+            {
+              "text": "1072",
+              "bbox": [
+                170,
+                528,
+                188,
+                538
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                190,
+                528,
+                195,
+                538
+              ]
+            },
+            {
+              "text": "1055",
+              "bbox": [
+                170,
+                541,
+                188,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "(263)",
+          "bbox": [
+            201,
+            525,
+            274,
+            555
+          ],
+          "words": [
+            {
+              "text": "(263)",
+              "bbox": [
+                250,
+                528,
+                269,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "(99.6)",
+          "bbox": [
+            274,
+            525,
+            338,
+            555
+          ],
+          "words": [
+            {
+              "text": "(99.6)",
+              "bbox": [
+                312,
+                528,
+                333,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "(961 ± 90)",
+          "bbox": [
+            338,
+            525,
+            373,
+            555
+          ],
+          "words": [
+            {
+              "text": "(961",
+              "bbox": [
+                345,
+                528,
+                361,
+                538
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                363,
+                528,
+                368,
+                538
+              ]
+            },
+            {
+              "text": "90)",
+              "bbox": [
+                356,
+                541,
+                368,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            373,
+            525,
+            446,
+            555
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Mpileup",
+          "bbox": [
+            13,
+            555,
+            70,
+            585
+          ],
+          "words": [
+            {
+              "text": "Mpileup",
+              "bbox": [
+                18,
+                559,
+                48,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "727",
+          "bbox": [
+            70,
+            555,
+            102,
+            585
+          ],
+          "words": [
+            {
+              "text": "727",
+              "bbox": [
+                74,
+                559,
+                87,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "86.3",
+          "bbox": [
+            102,
+            555,
+            166,
+            585
+          ],
+          "words": [
+            {
+              "text": "86.3",
+              "bbox": [
+                106,
+                559,
+                122,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "429 ± 226",
+          "bbox": [
+            166,
+            555,
+            201,
+            585
+          ],
+          "words": [
+            {
+              "text": "429",
+              "bbox": [
+                170,
+                559,
+                184,
+                568
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                186,
+                559,
+                191,
+                568
+              ]
+            },
+            {
+              "text": "226",
+              "bbox": [
+                170,
+                571,
+                184,
+                581
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "181",
+          "bbox": [
+            201,
+            555,
+            274,
+            585
+          ],
+          "words": [
+            {
+              "text": "181",
+              "bbox": [
+                256,
+                559,
+                269,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "68.6",
+          "bbox": [
+            274,
+            555,
+            338,
+            585
+          ],
+          "words": [
+            {
+              "text": "68.6",
+              "bbox": [
+                318,
+                559,
+                333,
+                568
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "329 ± 32",
+          "bbox": [
+            338,
+            555,
+            373,
+            585
+          ],
+          "words": [
+            {
+              "text": "329",
+              "bbox": [
+                348,
+                559,
+                361,
+                568
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                363,
+                559,
+                368,
+                568
+              ]
+            },
+            {
+              "text": "32",
+              "bbox": [
+                359,
+                571,
+                368,
+                581
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            373,
+            555,
+            446,
+            585
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "VarScan 2",
+          "bbox": [
+            13,
+            585,
+            70,
+            615
+          ],
+          "words": [
+            {
+              "text": "VarScan",
+              "bbox": [
+                18,
+                589,
+                47,
+                598
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                50,
+                589,
+                54,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "805",
+          "bbox": [
+            70,
+            585,
+            102,
+            615
+          ],
+          "words": [
+            {
+              "text": "805",
+              "bbox": [
+                74,
+                589,
+                87,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "95.6",
+          "bbox": [
+            102,
+            585,
+            166,
+            615
+          ],
+          "words": [
+            {
+              "text": "95.6",
+              "bbox": [
+                106,
+                589,
+                122,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "926 ± 527",
+          "bbox": [
+            166,
+            585,
+            201,
+            615
+          ],
+          "words": [
+            {
+              "text": "926",
+              "bbox": [
+                170,
+                589,
+                184,
+                598
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                186,
+                589,
+                191,
+                598
+              ]
+            },
+            {
+              "text": "527",
+              "bbox": [
+                170,
+                601,
+                184,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "205",
+          "bbox": [
+            201,
+            585,
+            274,
+            615
+          ],
+          "words": [
+            {
+              "text": "205",
+              "bbox": [
+                256,
+                589,
+                269,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "77.7",
+          "bbox": [
+            274,
+            585,
+            338,
+            615
+          ],
+          "words": [
+            {
+              "text": "77.7",
+              "bbox": [
+                318,
+                589,
+                333,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "929 ± 91",
+          "bbox": [
+            338,
+            585,
+            373,
+            615
+          ],
+          "words": [
+            {
+              "text": "929",
+              "bbox": [
+                348,
+                589,
+                361,
+                598
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                363,
+                589,
+                368,
+                598
+              ]
+            },
+            {
+              "text": "91",
+              "bbox": [
+                359,
+                601,
+                368,
+                611
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            373,
+            585,
+            446,
+            615
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6,
+            7,
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Cake",
+          "bbox": [
+            13,
+            615,
+            70,
+            658
+          ],
+          "words": [
+            {
+              "text": "Cake",
+              "bbox": [
+                18,
+                619,
+                36,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "≥ any 2 callers",
+          "bbox": [
+            70,
+            615,
+            102,
+            658
+          ],
+          "words": [
+            {
+              "text": "≥",
+              "bbox": [
+                74,
+                619,
+                79,
+                629
+              ]
+            },
+            {
+              "text": "any",
+              "bbox": [
+                81,
+                619,
+                94,
+                629
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                74,
+                631,
+                79,
+                641
+              ]
+            },
+            {
+              "text": "callers",
+              "bbox": [
+                74,
+                644,
+                97,
+                653
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "812",
+          "bbox": [
+            102,
+            615,
+            166,
+            658
+          ],
+          "words": [
+            {
+              "text": "812",
+              "bbox": [
+                106,
+                619,
+                120,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "96.4",
+          "bbox": [
+            166,
+            615,
+            201,
+            658
+          ],
+          "words": [
+            {
+              "text": "96.4",
+              "bbox": [
+                170,
+                619,
+                186,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "634 ± 299",
+          "bbox": [
+            201,
+            615,
+            274,
+            658
+          ],
+          "words": [
+            {
+              "text": "634",
+              "bbox": [
+                234,
+                619,
+                247,
+                629
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                249,
+                619,
+                254,
+                629
+              ]
+            },
+            {
+              "text": "299",
+              "bbox": [
+                256,
+                619,
+                269,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "254",
+          "bbox": [
+            274,
+            615,
+            338,
+            658
+          ],
+          "words": [
+            {
+              "text": "254",
+              "bbox": [
+                320,
+                619,
+                333,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "96.2",
+          "bbox": [
+            338,
+            615,
+            373,
+            658
+          ],
+          "words": [
+            {
+              "text": "96.2",
+              "bbox": [
+                353,
+                619,
+                368,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "613 ± 42",
+          "bbox": [
+            373,
+            615,
+            446,
+            658
+          ],
+          "words": [
+            {
+              "text": "613",
+              "bbox": [
+                410,
+                619,
+                423,
+                629
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                425,
+                619,
+                430,
+                629
+              ]
+            },
+            {
+              "text": "42",
+              "bbox": [
+                432,
+                619,
+                441,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "51.5",
+          "bbox": [
+            446,
+            615,
+            515,
+            658
+          ],
+          "words": [
+            {
+              "text": "51.5",
+              "bbox": [
+                495,
+                619,
+                510,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 55,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "≥ any 3 callers",
+          "bbox": [
+            13,
+            658,
+            70,
+            688
+          ],
+          "words": [
+            {
+              "text": "≥",
+              "bbox": [
+                18,
+                661,
+                23,
+                671
+              ]
+            },
+            {
+              "text": "any",
+              "bbox": [
+                25,
+                661,
+                38,
+                671
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                40,
+                661,
+                44,
+                671
+              ]
+            },
+            {
+              "text": "callers",
+              "bbox": [
+                18,
+                674,
+                41,
+                684
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 56,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "794",
+          "bbox": [
+            70,
+            658,
+            102,
+            688
+          ],
+          "words": [
+            {
+              "text": "794",
+              "bbox": [
+                74,
+                661,
+                87,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 57,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "94.3",
+          "bbox": [
+            102,
+            658,
+            166,
+            688
+          ],
+          "words": [
+            {
+              "text": "94.3",
+              "bbox": [
+                106,
+                661,
+                122,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 58,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "270 ± 132",
+          "bbox": [
+            166,
+            658,
+            201,
+            688
+          ],
+          "words": [
+            {
+              "text": "270",
+              "bbox": [
+                170,
+                661,
+                184,
+                671
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                186,
+                661,
+                191,
+                671
+              ]
+            },
+            {
+              "text": "132",
+              "bbox": [
+                170,
+                674,
+                184,
+                684
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 59,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "214",
+          "bbox": [
+            201,
+            658,
+            274,
+            688
+          ],
+          "words": [
+            {
+              "text": "214",
+              "bbox": [
+                256,
+                661,
+                269,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 60,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "81.1",
+          "bbox": [
+            274,
+            658,
+            338,
+            688
+          ],
+          "words": [
+            {
+              "text": "81.1",
+              "bbox": [
+                318,
+                661,
+                333,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 61,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "326 ± 50",
+          "bbox": [
+            338,
+            658,
+            373,
+            688
+          ],
+          "words": [
+            {
+              "text": "326",
+              "bbox": [
+                348,
+                661,
+                361,
+                671
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                363,
+                661,
+                368,
+                671
+              ]
+            },
+            {
+              "text": "50",
+              "bbox": [
+                359,
+                674,
+                368,
+                684
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 62,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "81.7",
+          "bbox": [
+            373,
+            658,
+            446,
+            688
+          ],
+          "words": [
+            {
+              "text": "81.7",
+              "bbox": [
+                426,
+                661,
+                441,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 63,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "4 callers",
+          "bbox": [
+            13,
+            688,
+            70,
+            719
+          ],
+          "words": [
+            {
+              "text": "4",
+              "bbox": [
+                18,
+                692,
+                22,
+                701
+              ]
+            },
+            {
+              "text": "callers",
+              "bbox": [
+                24,
+                692,
+                48,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 64,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "652",
+          "bbox": [
+            70,
+            688,
+            102,
+            719
+          ],
+          "words": [
+            {
+              "text": "652",
+              "bbox": [
+                74,
+                692,
+                87,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 65,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "77.4",
+          "bbox": [
+            102,
+            688,
+            166,
+            719
+          ],
+          "words": [
+            {
+              "text": "77.4",
+              "bbox": [
+                106,
+                692,
+                122,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 66,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "168 ± 98",
+          "bbox": [
+            166,
+            688,
+            201,
+            719
+          ],
+          "words": [
+            {
+              "text": "168",
+              "bbox": [
+                170,
+                692,
+                184,
+                701
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                186,
+                692,
+                191,
+                701
+              ]
+            },
+            {
+              "text": "98",
+              "bbox": [
+                170,
+                704,
+                179,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 67,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "166",
+          "bbox": [
+            201,
+            688,
+            274,
+            719
+          ],
+          "words": [
+            {
+              "text": "166",
+              "bbox": [
+                256,
+                692,
+                269,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 68,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "62.8",
+          "bbox": [
+            274,
+            688,
+            338,
+            719
+          ],
+          "words": [
+            {
+              "text": "62.8",
+              "bbox": [
+                318,
+                692,
+                333,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 69,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "178 ± 42",
+          "bbox": [
+            338,
+            688,
+            373,
+            719
+          ],
+          "words": [
+            {
+              "text": "178",
+              "bbox": [
+                348,
+                692,
+                361,
+                701
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                363,
+                692,
+                368,
+                701
+              ]
+            },
+            {
+              "text": "42",
+              "bbox": [
+                359,
+                704,
+                368,
+                714
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 70,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "88.3",
+          "bbox": [
+            373,
+            688,
+            446,
+            719
+          ],
+          "words": [
+            {
+              "text": "88.3",
+              "bbox": [
+                426,
+                692,
+                441,
+                701
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        13,
+        732,
+        515,
+        787
+      ],
+      "content": "VarScan 2 identified 805 mutations (95.6% sensitivity, average 926 ± 527), and Cake with ≥ any 2 callers identified 812 mutations (96.4% sensitivity, average 634 ± 299) with a validation success rate of 51.5%. For ≥ any 3 callers, 794 mutations (94.3% sensitivity, average 270 ± 132) were identified, and 652 mutations (77.4% sensitivity, average 168 ± 98) were found with 4 callers.",
+      "lines": [
+        {
+          "text": "VarScan 2 identified 805 mutations (95.6% sensitivity, average 926 ± 527), and Cake with ≥ any 2 callers identified 812",
+          "bbox": [
+            13,
+            733,
+            515,
+            744
+          ],
+          "words": [
+            {
+              "text": "VarScan",
+              "bbox": [
+                13,
+                733,
+                46,
+                744
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                50,
+                733,
+                55,
+                744
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                59,
+                733,
+                96,
+                744
+              ]
+            },
+            {
+              "text": "805",
+              "bbox": [
+                101,
+                733,
+                115,
+                744
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                119,
+                733,
+                158,
+                744
+              ]
+            },
+            {
+              "text": "(95.6%",
+              "bbox": [
+                162,
+                733,
+                190,
+                744
+              ]
+            },
+            {
+              "text": "sensitivity,",
+              "bbox": [
+                195,
+                733,
+                237,
+                744
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                241,
+                733,
+                271,
+                744
+              ]
+            },
+            {
+              "text": "926",
+              "bbox": [
+                275,
+                733,
+                290,
+                744
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                294,
+                733,
+                299,
+                744
+              ]
+            },
+            {
+              "text": "527),",
+              "bbox": [
+                304,
+                733,
+                324,
+                744
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                328,
+                733,
+                342,
+                744
+              ]
+            },
+            {
+              "text": "Cake",
+              "bbox": [
+                346,
+                733,
+                366,
+                744
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                370,
+                733,
+                388,
+                744
+              ]
+            },
+            {
+              "text": "≥",
+              "bbox": [
+                392,
+                733,
+                397,
+                744
+              ]
+            },
+            {
+              "text": "any",
+              "bbox": [
+                401,
+                733,
+                416,
+                744
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                420,
+                733,
+                425,
+                744
+              ]
+            },
+            {
+              "text": "callers",
+              "bbox": [
+                429,
+                733,
+                454,
+                744
+              ]
+            },
+            {
+              "text": "identified",
+              "bbox": [
+                458,
+                733,
+                496,
+                744
+              ]
+            },
+            {
+              "text": "812",
+              "bbox": [
+                500,
+                733,
+                515,
+                744
+              ]
+            }
+          ]
+        },
+        {
+          "text": "mutations (96.4% sensitivity, average 634 ± 299) with a validation success rate of 51.5%. For ≥ any 3 callers, 794 mutations",
+          "bbox": [
+            13,
+            747,
+            515,
+            758
+          ],
+          "words": [
+            {
+              "text": "mutations",
+              "bbox": [
+                13,
+                747,
+                52,
+                758
+              ]
+            },
+            {
+              "text": "(96.4%",
+              "bbox": [
+                55,
+                747,
+                84,
+                758
+              ]
+            },
+            {
+              "text": "sensitivity,",
+              "bbox": [
+                87,
+                747,
+                129,
+                758
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                132,
+                747,
+                162,
+                758
+              ]
+            },
+            {
+              "text": "634",
+              "bbox": [
+                165,
+                747,
+                180,
+                758
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                183,
+                747,
+                189,
+                758
+              ]
+            },
+            {
+              "text": "299)",
+              "bbox": [
+                192,
+                747,
+                210,
+                758
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                213,
+                747,
+                230,
+                758
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                234,
+                747,
+                238,
+                758
+              ]
+            },
+            {
+              "text": "validation",
+              "bbox": [
+                241,
+                747,
+                280,
+                758
+              ]
+            },
+            {
+              "text": "success",
+              "bbox": [
+                284,
+                747,
+                313,
+                758
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                316,
+                747,
+                331,
+                758
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                334,
+                747,
+                342,
+                758
+              ]
+            },
+            {
+              "text": "51.5%.",
+              "bbox": [
+                345,
+                747,
+                373,
+                758
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                376,
+                747,
+                390,
+                758
+              ]
+            },
+            {
+              "text": "≥",
+              "bbox": [
+                393,
+                747,
+                398,
+                758
+              ]
+            },
+            {
+              "text": "any",
+              "bbox": [
+                402,
+                747,
+                416,
+                758
+              ]
+            },
+            {
+              "text": "3",
+              "bbox": [
+                419,
+                747,
+                424,
+                758
+              ]
+            },
+            {
+              "text": "callers,",
+              "bbox": [
+                427,
+                747,
+                455,
+                758
+              ]
+            },
+            {
+              "text": "794",
+              "bbox": [
+                458,
+                747,
+                473,
+                758
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                476,
+                747,
+                515,
+                758
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(94.3% sensitivity, average 270 ± 132) were identified, and 652 mutations (77.4% sensitivity, average 168 ± 98) were found",
+          "bbox": [
+            13,
+            761,
+            515,
+            771
+          ],
+          "words": [
+            {
+              "text": "(94.3%",
+              "bbox": [
+                13,
+                761,
+                42,
+                771
+              ]
+            },
+            {
+              "text": "sensitivity,",
+              "bbox": [
+                45,
+                761,
+                87,
+                771
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                90,
+                761,
+                121,
+                771
+              ]
+            },
+            {
+              "text": "270",
+              "bbox": [
+                124,
+                761,
+                139,
+                771
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                142,
+                761,
+                148,
+                771
+              ]
+            },
+            {
+              "text": "132)",
+              "bbox": [
+                151,
+                761,
+                169,
+                771
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                172,
+                761,
+                191,
+                771
+              ]
+            },
+            {
+              "text": "identified,",
+              "bbox": [
+                195,
+                761,
+                235,
+                771
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                238,
+                761,
+                252,
+                771
+              ]
+            },
+            {
+              "text": "652",
+              "bbox": [
+                255,
+                761,
+                270,
+                771
+              ]
+            },
+            {
+              "text": "mutations",
+              "bbox": [
+                273,
+                761,
+                312,
+                771
+              ]
+            },
+            {
+              "text": "(77.4%",
+              "bbox": [
+                315,
+                761,
+                344,
+                771
+              ]
+            },
+            {
+              "text": "sensitivity,",
+              "bbox": [
+                347,
+                761,
+                389,
+                771
+              ]
+            },
+            {
+              "text": "average",
+              "bbox": [
+                393,
+                761,
+                423,
+                771
+              ]
+            },
+            {
+              "text": "168",
+              "bbox": [
+                426,
+                761,
+                441,
+                771
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                444,
+                761,
+                450,
+                771
+              ]
+            },
+            {
+              "text": "98)",
+              "bbox": [
+                453,
+                761,
+                466,
+                771
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                469,
+                761,
+                488,
+                771
+              ]
+            },
+            {
+              "text": "found",
+              "bbox": [
+                492,
+                761,
+                515,
+                771
+              ]
+            }
+          ]
+        },
+        {
+          "text": "with 4 callers.",
+          "bbox": [
+            13,
+            774,
+            68,
+            785
+          ],
+          "words": [
+            {
+              "text": "with",
+              "bbox": [
+                13,
+                774,
+                31,
+                785
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                33,
+                774,
+                38,
+                785
+              ]
+            },
+            {
+              "text": "callers.",
+              "bbox": [
+                40,
+                774,
+                68,
+                785
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "image_id": "img_043398",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The data presented in the accompanying table provides a comprehensive overview of the relationship between various",
+      "bbox": [
+        15,
+        51,
+        580,
+        63
+      ]
+    },
+    {
+      "text": "institutional characteristics and their corresponding outcomes in the context of liver triglyceride levels, measured in millimoles",
+      "bbox": [
+        15,
+        66,
+        580,
+        78
+      ]
+    },
+    {
+      "text": "per gram of liver (TG).",
+      "bbox": [
+        15,
+        82,
+        117,
+        94
+      ]
+    },
+    {
+      "text": "Item  Supplemental (−)-HCA (mg/kg)",
+      "bbox": [
+        15,
+        112,
+        580,
+        132
+      ]
+    },
+    {
+      "text": "0  1000  2000  3000",
+      "bbox": [
+        15,
+        132,
+        580,
+        153
+      ]
+    },
+    {
+      "text": "TG (mmol/g liver)  3.31 ± 0.56  2.78 ± 0.40  2.75 ± 0.58  2.02 ± 0.34*",
+      "bbox": [
+        15,
+        153,
+        580,
+        173
+      ]
+    },
+    {
+      "text": "NEFA (μmol/L)  65.83 ± 5.66  95.41 ± 9.52  109.90 ± 19.21*  125.52 ± 12.37**",
+      "bbox": [
+        15,
+        173,
+        580,
+        193
+      ]
+    },
+    {
+      "text": "HL (U/mL)  1.57 ± 0.11  1.59 ± 0.09  3.41 ± 0.27**  2.68 ± 0.28**",
+      "bbox": [
+        15,
+        193,
+        580,
+        213
+      ]
+    },
+    {
+      "text": "Hepatic glycogen (mg/g liver)  2.63 ± 0.23  3.63 ± 0.34  3.91 ± 0.41*  3.91 ± 0.65*",
+      "bbox": [
+        15,
+        213,
+        580,
+        234
+      ]
+    },
+    {
+      "text": "Institution  Field  Number of interviews",
+      "bbox": [
+        15,
+        249,
+        580,
+        270
+      ]
+    },
+    {
+      "text": "Public University  Humanities  8 (4 men, 4 women)",
+      "bbox": [
+        15,
+        270,
+        580,
+        290
+      ]
+    },
+    {
+      "text": "Public University  Architecture  8 (4 men, 4 women)",
+      "bbox": [
+        15,
+        290,
+        580,
+        310
+      ]
+    },
+    {
+      "text": "Public University  Telecommunications Engineering  8 (4 men, 4 women)",
+      "bbox": [
+        15,
+        310,
+        580,
+        330
+      ]
+    },
+    {
+      "text": "Research Centre  Environmental Sciences  4 (2 men, 2 women)",
+      "bbox": [
+        15,
+        330,
+        580,
+        350
+      ]
+    },
+    {
+      "text": "Research Centre  Biomedicine  8 (4 men, 4 women)",
+      "bbox": [
+        15,
+        350,
+        580,
+        370
+      ]
+    },
+    {
+      "text": "Model  Features Selected  LOOCV Misclassification Rate (%)",
+      "bbox": [
+        16,
+        386,
+        580,
+        407
+      ]
+    },
+    {
+      "text": "Logistic Regression - Forward Stepwise  4 – 9  31",
+      "bbox": [
+        16,
+        407,
+        580,
+        428
+      ]
+    },
+    {
+      "text": "Greedy - LDA  10 – 20  31",
+      "bbox": [
+        16,
+        428,
+        580,
+        449
+      ]
+    },
+    {
+      "text": "Genetic algorithm - LDA  10  28",
+      "bbox": [
+        16,
+        449,
+        580,
+        470
+      ]
+    },
+    {
+      "text": "PCA - LDA  10 – 20  24",
+      "bbox": [
+        16,
+        470,
+        580,
+        491
+      ]
+    },
+    {
+      "text": "Robust feature selection - LDA  5 – 11  31",
+      "bbox": [
+        16,
+        491,
+        580,
+        511
+      ]
+    },
+    {
+      "text": "Specifically, the table details the number of interviews conducted across different institutions, alongside their respective fields",
+      "bbox": [
+        15,
+        527,
+        580,
+        539
+      ]
+    },
+    {
+      "text": "of study, showcasing a diverse range of research environments. For instance, a public university in the humanities conducted",
+      "bbox": [
+        15,
+        543,
+        580,
+        555
+      ]
+    },
+    {
+      "text": "eight interviews, evenly divided between male and female participants, which reflects a balanced consideration of gender in the",
+      "bbox": [
+        15,
+        558,
+        580,
+        570
+      ]
+    },
+    {
+      "text": "study. The model employed to analyze the data is crucial for understanding the efficiency of feature selection, as indicated by",
+      "bbox": [
+        15,
+        573,
+        580,
+        585
+      ]
+    },
+    {
+      "text": "the column \"Features Selected.\" Furthermore, the misclassification rates presented, particularly the LOOCV (Leave-One-Out",
+      "bbox": [
+        15,
+        589,
+        580,
+        601
+      ]
+    },
+    {
+      "text": "Cross-Validation) Misclassification Rate (%), highlight the accuracy and reliability of the predictive models utilized in this",
+      "bbox": [
+        15,
+        604,
+        580,
+        616
+      ]
+    },
+    {
+      "text": "research. These metrics collectively underscore the significance of institutional context and methodological rigor in exploring",
+      "bbox": [
+        15,
+        620,
+        580,
+        632
+      ]
+    },
+    {
+      "text": "the determinants of liver triglyceride levels.",
+      "bbox": [
+        15,
+        635,
+        207,
+        647
+      ]
+    }
+  ]
+}

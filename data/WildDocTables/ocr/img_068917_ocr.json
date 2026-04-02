@@ -1,0 +1,252 @@
+{
+  "image_id": "img_068917",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "In recent years, the field of machine learning has seen substantial advancements, particularly in the application of various",
+      "bbox": [
+        15,
+        138,
+        580,
+        150
+      ]
+    },
+    {
+      "text": "classifiers for predictive modeling in healthcare. The data presented in the accompanying table elucidates the effectiveness of",
+      "bbox": [
+        15,
+        153,
+        580,
+        165
+      ]
+    },
+    {
+      "text": "different classifiers, measuring key metrics such as sensitivity and specificity.",
+      "bbox": [
+        15,
+        169,
+        357,
+        181
+      ]
+    },
+    {
+      "text": "Paper  Year  Classifier  Sensitivity  Specificity",
+      "bbox": [
+        16,
+        234,
+        580,
+        255
+      ]
+    },
+    {
+      "text": "[17]  2013  Naïve bayes  0.91  0.95",
+      "bbox": [
+        16,
+        255,
+        580,
+        275
+      ]
+    },
+    {
+      "text": "[6]  2014  RF and LCA  0.72  0.78",
+      "bbox": [
+        16,
+        275,
+        580,
+        295
+      ]
+    },
+    {
+      "text": "[57]  2013  LCR  0.66  0.89",
+      "bbox": [
+        16,
+        295,
+        580,
+        315
+      ]
+    },
+    {
+      "text": "[58]  2013  ANN  0.60  0.67",
+      "bbox": [
+        16,
+        315,
+        580,
+        335
+      ]
+    },
+    {
+      "text": "[20]  2012  SVM  0.73  0.76",
+      "bbox": [
+        16,
+        335,
+        580,
+        355
+      ]
+    },
+    {
+      "text": "[59]  2012  WFSS  0.92  0.88",
+      "bbox": [
+        16,
+        355,
+        580,
+        375
+      ]
+    },
+    {
+      "text": "[8]  2009  SI  0.90  0.75",
+      "bbox": [
+        16,
+        375,
+        580,
+        395
+      ]
+    },
+    {
+      "text": "[60]  2010  SVM  0.70  0.78",
+      "bbox": [
+        16,
+        395,
+        580,
+        415
+      ]
+    },
+    {
+      "text": "Review  Mean difference  95% confidence interval of the difference  t-value",
+      "bbox": [
+        16,
+        458,
+        580,
+        479
+      ]
+    },
+    {
+      "text": "Lower  Upper",
+      "bbox": [
+        16,
+        479,
+        580,
+        500
+      ]
+    },
+    {
+      "text": "0 week  3.1181  4.7903  1.4458  3.712*",
+      "bbox": [
+        16,
+        500,
+        580,
+        521
+      ]
+    },
+    {
+      "text": "4 weeks  8.452  6.9091  9.9949  10.975*",
+      "bbox": [
+        16,
+        521,
+        580,
+        542
+      ]
+    },
+    {
+      "text": "8 weeks  11.7847  10.4513  13.1181  17.603*",
+      "bbox": [
+        16,
+        542,
+        580,
+        563
+      ]
+    },
+    {
+      "text": "12 weeks  15.7865  14.681  16.8921  18.659*",
+      "bbox": [
+        16,
+        563,
+        580,
+        584
+      ]
+    },
+    {
+      "text": "For instance, a study published in 2013 demonstrated the application of the Naïve Bayes classifier, which achieved a sensitivity",
+      "bbox": [
+        15,
+        627,
+        580,
+        639
+      ]
+    },
+    {
+      "text": "of 0.91 and a specificity of 0.95. These metrics are critical in evaluating the classifier's performance, especially in medical",
+      "bbox": [
+        15,
+        643,
+        580,
+        655
+      ]
+    },
+    {
+      "text": "diagnostics where accurate predictions can significantly impact patient outcomes. \n\nThe sensitivity metric indicates the classifier's",
+      "bbox": [
+        15,
+        658,
+        580,
+        670
+      ]
+    },
+    {
+      "text": "ability to correctly identify positive cases, while specificity measures its capacity to accurately classify negative cases. The",
+      "bbox": [
+        15,
+        673,
+        580,
+        685
+      ]
+    },
+    {
+      "text": "robustness of the Naïve Bayes classifier is further supported by the reported confidence intervals, which range from 0 week to",
+      "bbox": [
+        15,
+        689,
+        580,
+        701
+      ]
+    },
+    {
+      "text": "3.1181 for the lower bound and up to 4.7903 for the upper bound. Such statistical insights are vital for practitioners and",
+      "bbox": [
+        15,
+        704,
+        580,
+        716
+      ]
+    },
+    {
+      "text": "researchers alike, as they provide a clearer understanding of the classifier's reliability and potential limitations in real-world",
+      "bbox": [
+        15,
+        720,
+        580,
+        732
+      ]
+    },
+    {
+      "text": "applications. Overall, the findings underscore the importance of classifier selection in enhancing predictive accuracy in clinical",
+      "bbox": [
+        15,
+        735,
+        580,
+        747
+      ]
+    },
+    {
+      "text": "settings.",
+      "bbox": [
+        15,
+        750,
+        51,
+        762
+      ]
+    }
+  ]
+}

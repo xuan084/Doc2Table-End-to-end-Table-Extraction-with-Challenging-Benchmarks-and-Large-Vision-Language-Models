@@ -1,0 +1,5073 @@
+{
+  "image_id": "img_162571",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        56,
+        580,
+        87
+      ],
+      "content": "As organizations in Europe increasingly adopt digital transformation strategies, the urgency to bolster cybersecurity measures has never been more pronounced.",
+      "lines": [
+        {
+          "text": "As organizations in Europe increasingly adopt digital transformation strategies, the urgency to bolster cybersecurity measures",
+          "bbox": [
+            15,
+            57,
+            580,
+            69
+          ],
+          "words": [
+            {
+              "text": "As",
+              "bbox": [
+                15,
+                57,
+                27,
+                69
+              ]
+            },
+            {
+              "text": "organizations",
+              "bbox": [
+                31,
+                57,
+                90,
+                69
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                94,
+                57,
+                102,
+                69
+              ]
+            },
+            {
+              "text": "Europe",
+              "bbox": [
+                106,
+                57,
+                137,
+                69
+              ]
+            },
+            {
+              "text": "increasingly",
+              "bbox": [
+                141,
+                57,
+                195,
+                69
+              ]
+            },
+            {
+              "text": "adopt",
+              "bbox": [
+                198,
+                57,
+                223,
+                69
+              ]
+            },
+            {
+              "text": "digital",
+              "bbox": [
+                227,
+                57,
+                255,
+                69
+              ]
+            },
+            {
+              "text": "transformation",
+              "bbox": [
+                258,
+                57,
+                323,
+                69
+              ]
+            },
+            {
+              "text": "strategies,",
+              "bbox": [
+                327,
+                57,
+                371,
+                69
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                375,
+                57,
+                388,
+                69
+              ]
+            },
+            {
+              "text": "urgency",
+              "bbox": [
+                392,
+                57,
+                427,
+                69
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                430,
+                57,
+                439,
+                69
+              ]
+            },
+            {
+              "text": "bolster",
+              "bbox": [
+                443,
+                57,
+                473,
+                69
+              ]
+            },
+            {
+              "text": "cybersecurity",
+              "bbox": [
+                476,
+                57,
+                535,
+                69
+              ]
+            },
+            {
+              "text": "measures",
+              "bbox": [
+                539,
+                57,
+                580,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "text": "has never been more pronounced.",
+          "bbox": [
+            15,
+            72,
+            163,
+            84
+          ],
+          "words": [
+            {
+              "text": "has",
+              "bbox": [
+                15,
+                72,
+                30,
+                84
+              ]
+            },
+            {
+              "text": "never",
+              "bbox": [
+                32,
+                72,
+                57,
+                84
+              ]
+            },
+            {
+              "text": "been",
+              "bbox": [
+                60,
+                72,
+                80,
+                84
+              ]
+            },
+            {
+              "text": "more",
+              "bbox": [
+                83,
+                72,
+                106,
+                84
+              ]
+            },
+            {
+              "text": "pronounced.",
+              "bbox": [
+                108,
+                72,
+                163,
+                84
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_162571_t0",
+      "bbox": [
+        15,
+        105,
+        580,
+        379
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 4,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            105,
+            580,
+            126
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            126,
+            580,
+            147
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            147,
+            580,
+            168
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            168,
+            580,
+            203
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            203,
+            580,
+            238
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            238,
+            580,
+            273
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            16,
+            273,
+            580,
+            308
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            16,
+            308,
+            580,
+            343
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            16,
+            343,
+            580,
+            378
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>IncidentStatistics</td><td colspan=\"2\">SeverityAnalysis</td></tr><tr><td>TypeofIncident</td><td>Count</td><td colspan=\"2\">PercentageChange</td></tr><tr><td>DataBreaches</td><td>250</td><td colspan=\"2\">15%</td><td colspan=\"3\">MalwareAttacks</td></tr><tr><td>Ransomware</td><td>80</td><td>10%</td><td>Phishing</td><td>120</td><td>25%</td><td>DenialofService</td></tr></thead><tbody><tr><td>TotalIncidents</td><td>450</td><td>20%</td><td>HighSeverity</td><td>150</td><td>30%</td><td>MediumSeverity</td></tr><tr><td>200</td><td>50%</td><td>LowSeverity</td><td>100</td><td>20%</td><td>IncidentResponseTime</td><td>Average(Hours)</td></tr><tr><td>5</td><td>10%</td><td>BestPracticeAdoption</td><td>Percentage(%)</td><td>65%</td><td>TrainingCompletion</td><td>400</td></tr><tr><td>UserAwareness</td><td>75%</td><td>SecurityToolsImplemented</td><td>Count</td><td>180</td><td>InvestmentinSecurity</td><td>Amount(£M)</td></tr><tr><td>50</td><td>5%</td><td>CyberInsuranceCoverage</td><td>TotalPolicies</td><td>60</td><td>10%</td><td>Total</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "IncidentStatistics",
+          "bbox": [
+            16,
+            105,
+            149,
+            126
+          ],
+          "words": [
+            {
+              "text": "IncidentStatistics",
+              "bbox": [
+                70,
+                110,
+                144,
+                121
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "SeverityAnalysis",
+          "bbox": [
+            149,
+            105,
+            293,
+            126
+          ],
+          "words": [
+            {
+              "text": "SeverityAnalysis",
+              "bbox": [
+                155,
+                110,
+                226,
+                121
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "TypeofIncident",
+          "bbox": [
+            16,
+            126,
+            149,
+            147
+          ],
+          "words": [
+            {
+              "text": "TypeofIncident",
+              "bbox": [
+                79,
+                131,
+                144,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Count",
+          "bbox": [
+            149,
+            126,
+            221,
+            147
+          ],
+          "words": [
+            {
+              "text": "Count",
+              "bbox": [
+                155,
+                131,
+                181,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "PercentageChange",
+          "bbox": [
+            221,
+            126,
+            364,
+            147
+          ],
+          "words": [
+            {
+              "text": "PercentageChange",
+              "bbox": [
+                279,
+                131,
+                359,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "DataBreaches",
+          "bbox": [
+            16,
+            147,
+            149,
+            168
+          ],
+          "words": [
+            {
+              "text": "DataBreaches",
+              "bbox": [
+                85,
+                152,
+                144,
+                163
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "250",
+          "bbox": [
+            149,
+            147,
+            221,
+            168
+          ],
+          "words": [
+            {
+              "text": "250",
+              "bbox": [
+                155,
+                152,
+                170,
+                163
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "15%",
+          "bbox": [
+            221,
+            147,
+            364,
+            168
+          ],
+          "words": [
+            {
+              "text": "15%",
+              "bbox": [
+                339,
+                152,
+                359,
+                163
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "MalwareAttacks",
+          "bbox": [
+            364,
+            147,
+            580,
+            168
+          ],
+          "words": [
+            {
+              "text": "MalwareAttacks",
+              "bbox": [
+                503,
+                152,
+                574,
+                163
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Ransomware",
+          "bbox": [
+            16,
+            168,
+            149,
+            203
+          ],
+          "words": [
+            {
+              "text": "Ransomware",
+              "bbox": [
+                88,
+                173,
+                144,
+                184
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "80",
+          "bbox": [
+            149,
+            168,
+            221,
+            203
+          ],
+          "words": [
+            {
+              "text": "80",
+              "bbox": [
+                155,
+                173,
+                165,
+                184
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "10%",
+          "bbox": [
+            221,
+            168,
+            293,
+            203
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                267,
+                173,
+                287,
+                184
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Phishing",
+          "bbox": [
+            293,
+            168,
+            364,
+            203
+          ],
+          "words": [
+            {
+              "text": "Phishing",
+              "bbox": [
+                322,
+                173,
+                359,
+                184
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "120",
+          "bbox": [
+            364,
+            168,
+            436,
+            203
+          ],
+          "words": [
+            {
+              "text": "120",
+              "bbox": [
+                416,
+                173,
+                431,
+                184
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "25%",
+          "bbox": [
+            436,
+            168,
+            508,
+            203
+          ],
+          "words": [
+            {
+              "text": "25%",
+              "bbox": [
+                482,
+                173,
+                502,
+                184
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "DenialofService",
+          "bbox": [
+            508,
+            168,
+            580,
+            203
+          ],
+          "words": [
+            {
+              "text": "DenialofService",
+              "bbox": [
+                516,
+                173,
+                574,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalIncidents",
+          "bbox": [
+            16,
+            203,
+            149,
+            238
+          ],
+          "words": [
+            {
+              "text": "TotalIncidents",
+              "bbox": [
+                87,
+                208,
+                144,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "450",
+          "bbox": [
+            149,
+            203,
+            221,
+            238
+          ],
+          "words": [
+            {
+              "text": "450",
+              "bbox": [
+                155,
+                208,
+                170,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            221,
+            203,
+            293,
+            238
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                269,
+                208,
+                287,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "HighSeverity",
+          "bbox": [
+            293,
+            203,
+            364,
+            238
+          ],
+          "words": [
+            {
+              "text": "HighSeverity",
+              "bbox": [
+                306,
+                208,
+                359,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "150",
+          "bbox": [
+            364,
+            203,
+            436,
+            238
+          ],
+          "words": [
+            {
+              "text": "150",
+              "bbox": [
+                416,
+                208,
+                431,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "30%",
+          "bbox": [
+            436,
+            203,
+            508,
+            238
+          ],
+          "words": [
+            {
+              "text": "30%",
+              "bbox": [
+                484,
+                208,
+                502,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "MediumSeverity",
+          "bbox": [
+            508,
+            203,
+            580,
+            238
+          ],
+          "words": [
+            {
+              "text": "MediumSeverity",
+              "bbox": [
+                515,
+                208,
+                574,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "200",
+          "bbox": [
+            16,
+            238,
+            149,
+            273
+          ],
+          "words": [
+            {
+              "text": "200",
+              "bbox": [
+                129,
+                243,
+                144,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "50%",
+          "bbox": [
+            149,
+            238,
+            221,
+            273
+          ],
+          "words": [
+            {
+              "text": "50%",
+              "bbox": [
+                155,
+                243,
+                173,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "LowSeverity",
+          "bbox": [
+            221,
+            238,
+            293,
+            273
+          ],
+          "words": [
+            {
+              "text": "LowSeverity",
+              "bbox": [
+                236,
+                243,
+                287,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "100",
+          "bbox": [
+            293,
+            238,
+            364,
+            273
+          ],
+          "words": [
+            {
+              "text": "100",
+              "bbox": [
+                344,
+                243,
+                359,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "20%",
+          "bbox": [
+            364,
+            238,
+            436,
+            273
+          ],
+          "words": [
+            {
+              "text": "20%",
+              "bbox": [
+                412,
+                243,
+                431,
+                254
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "IncidentResponseTime",
+          "bbox": [
+            436,
+            238,
+            508,
+            273
+          ],
+          "words": [
+            {
+              "text": "IncidentResponseTime",
+              "bbox": [
+                444,
+                243,
+                502,
+                268
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Average(Hours)",
+          "bbox": [
+            508,
+            238,
+            580,
+            273
+          ],
+          "words": [
+            {
+              "text": "Average(Hours)",
+              "bbox": [
+                517,
+                243,
+                574,
+                268
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            16,
+            273,
+            149,
+            308
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                139,
+                278,
+                144,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            149,
+            273,
+            221,
+            308
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                155,
+                278,
+                173,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "BestPracticeAdoption",
+          "bbox": [
+            221,
+            273,
+            293,
+            308
+          ],
+          "words": [
+            {
+              "text": "BestPracticeAdoption",
+              "bbox": [
+                230,
+                278,
+                287,
+                303
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Percentage(%)",
+          "bbox": [
+            293,
+            273,
+            364,
+            308
+          ],
+          "words": [
+            {
+              "text": "Percentage(%)",
+              "bbox": [
+                300,
+                278,
+                359,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "65%",
+          "bbox": [
+            364,
+            273,
+            436,
+            308
+          ],
+          "words": [
+            {
+              "text": "65%",
+              "bbox": [
+                412,
+                278,
+                431,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "TrainingCompletion",
+          "bbox": [
+            436,
+            273,
+            508,
+            308
+          ],
+          "words": [
+            {
+              "text": "TrainingCompletion",
+              "bbox": [
+                444,
+                278,
+                502,
+                303
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "400",
+          "bbox": [
+            508,
+            273,
+            580,
+            308
+          ],
+          "words": [
+            {
+              "text": "400",
+              "bbox": [
+                559,
+                278,
+                574,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "UserAwareness",
+          "bbox": [
+            16,
+            308,
+            149,
+            343
+          ],
+          "words": [
+            {
+              "text": "UserAwareness",
+              "bbox": [
+                82,
+                313,
+                144,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            149,
+            308,
+            221,
+            343
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                155,
+                313,
+                173,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "SecurityToolsImplemented",
+          "bbox": [
+            221,
+            308,
+            293,
+            343
+          ],
+          "words": [
+            {
+              "text": "SecurityToolsImplemented",
+              "bbox": [
+                228,
+                313,
+                287,
+                338
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "Count",
+          "bbox": [
+            293,
+            308,
+            364,
+            343
+          ],
+          "words": [
+            {
+              "text": "Count",
+              "bbox": [
+                334,
+                313,
+                359,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "180",
+          "bbox": [
+            364,
+            308,
+            436,
+            343
+          ],
+          "words": [
+            {
+              "text": "180",
+              "bbox": [
+                416,
+                313,
+                431,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "InvestmentinSecurity",
+          "bbox": [
+            436,
+            308,
+            508,
+            343
+          ],
+          "words": [
+            {
+              "text": "InvestmentinSecurity",
+              "bbox": [
+                444,
+                313,
+                502,
+                338
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Amount(£M)",
+          "bbox": [
+            508,
+            308,
+            580,
+            343
+          ],
+          "words": [
+            {
+              "text": "Amount(£M)",
+              "bbox": [
+                521,
+                313,
+                574,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "50",
+          "bbox": [
+            16,
+            343,
+            149,
+            378
+          ],
+          "words": [
+            {
+              "text": "50",
+              "bbox": [
+                134,
+                348,
+                144,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5%",
+          "bbox": [
+            149,
+            343,
+            221,
+            378
+          ],
+          "words": [
+            {
+              "text": "5%",
+              "bbox": [
+                155,
+                348,
+                168,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "CyberInsuranceCoverage",
+          "bbox": [
+            221,
+            343,
+            293,
+            378
+          ],
+          "words": [
+            {
+              "text": "CyberInsuranceCoverage",
+              "bbox": [
+                228,
+                348,
+                287,
+                373
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalPolicies",
+          "bbox": [
+            293,
+            343,
+            364,
+            378
+          ],
+          "words": [
+            {
+              "text": "TotalPolicies",
+              "bbox": [
+                307,
+                348,
+                359,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "60",
+          "bbox": [
+            364,
+            343,
+            436,
+            378
+          ],
+          "words": [
+            {
+              "text": "60",
+              "bbox": [
+                421,
+                348,
+                431,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "10%",
+          "bbox": [
+            436,
+            343,
+            508,
+            378
+          ],
+          "words": [
+            {
+              "text": "10%",
+              "bbox": [
+                484,
+                348,
+                502,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            508,
+            343,
+            580,
+            378
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                554,
+                348,
+                574,
+                359
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        394,
+        580,
+        471
+      ],
+      "content": "The rise in cyber threats, particularly ransomware and phishing attacks, poses significant challenges to businesses, prompting a reevaluation of their security postures. Recent statistics indicate that ransomware incidents have surged to 80 reported cases, representing a 10% increase from the previous year. Meanwhile, phishing attempts have escalated dramatically, with a staggering 120 incidents recorded, accounting for 25% of all reported cyber incidents. In light of these threats, organizations are significantly increasing their investment in cloud infrastructure to enhance security and operational resilience.",
+      "lines": [
+        {
+          "text": "The rise in cyber threats, particularly ransomware and phishing attacks, poses significant challenges to businesses, prompting a",
+          "bbox": [
+            15,
+            395,
+            580,
+            407
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                395,
+                32,
+                407
+              ]
+            },
+            {
+              "text": "rise",
+              "bbox": [
+                35,
+                395,
+                51,
+                407
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                54,
+                395,
+                63,
+                407
+              ]
+            },
+            {
+              "text": "cyber",
+              "bbox": [
+                66,
+                395,
+                90,
+                407
+              ]
+            },
+            {
+              "text": "threats,",
+              "bbox": [
+                93,
+                395,
+                125,
+                407
+              ]
+            },
+            {
+              "text": "particularly",
+              "bbox": [
+                129,
+                395,
+                179,
+                407
+              ]
+            },
+            {
+              "text": "ransomware",
+              "bbox": [
+                182,
+                395,
+                236,
+                407
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                239,
+                395,
+                255,
+                407
+              ]
+            },
+            {
+              "text": "phishing",
+              "bbox": [
+                258,
+                395,
+                296,
+                407
+              ]
+            },
+            {
+              "text": "attacks,",
+              "bbox": [
+                299,
+                395,
+                333,
+                407
+              ]
+            },
+            {
+              "text": "poses",
+              "bbox": [
+                336,
+                395,
+                360,
+                407
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                363,
+                395,
+                410,
+                407
+              ]
+            },
+            {
+              "text": "challenges",
+              "bbox": [
+                413,
+                395,
+                459,
+                407
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                462,
+                395,
+                471,
+                407
+              ]
+            },
+            {
+              "text": "businesses,",
+              "bbox": [
+                474,
+                395,
+                523,
+                407
+              ]
+            },
+            {
+              "text": "prompting",
+              "bbox": [
+                526,
+                395,
+                572,
+                407
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                395,
+                580,
+                407
+              ]
+            }
+          ]
+        },
+        {
+          "text": "reevaluation of their security postures. Recent statistics indicate that ransomware incidents have surged to 80 reported cases,",
+          "bbox": [
+            15,
+            410,
+            580,
+            422
+          ],
+          "words": [
+            {
+              "text": "reevaluation",
+              "bbox": [
+                15,
+                410,
+                69,
+                422
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                73,
+                410,
+                82,
+                422
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                86,
+                410,
+                106,
+                422
+              ]
+            },
+            {
+              "text": "security",
+              "bbox": [
+                110,
+                410,
+                145,
+                422
+              ]
+            },
+            {
+              "text": "postures.",
+              "bbox": [
+                149,
+                410,
+                188,
+                422
+              ]
+            },
+            {
+              "text": "Recent",
+              "bbox": [
+                192,
+                410,
+                223,
+                422
+              ]
+            },
+            {
+              "text": "statistics",
+              "bbox": [
+                227,
+                410,
+                265,
+                422
+              ]
+            },
+            {
+              "text": "indicate",
+              "bbox": [
+                268,
+                410,
+                303,
+                422
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                307,
+                410,
+                324,
+                422
+              ]
+            },
+            {
+              "text": "ransomware",
+              "bbox": [
+                327,
+                410,
+                381,
+                422
+              ]
+            },
+            {
+              "text": "incidents",
+              "bbox": [
+                385,
+                410,
+                425,
+                422
+              ]
+            },
+            {
+              "text": "have",
+              "bbox": [
+                429,
+                410,
+                449,
+                422
+              ]
+            },
+            {
+              "text": "surged",
+              "bbox": [
+                453,
+                410,
+                482,
+                422
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                486,
+                410,
+                495,
+                422
+              ]
+            },
+            {
+              "text": "80",
+              "bbox": [
+                499,
+                410,
+                510,
+                422
+              ]
+            },
+            {
+              "text": "reported",
+              "bbox": [
+                514,
+                410,
+                550,
+                422
+              ]
+            },
+            {
+              "text": "cases,",
+              "bbox": [
+                554,
+                410,
+                580,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "text": "representing a 10% increase from the previous year. Meanwhile, phishing attempts have escalated dramatically, with a",
+          "bbox": [
+            15,
+            426,
+            580,
+            438
+          ],
+          "words": [
+            {
+              "text": "representing",
+              "bbox": [
+                15,
+                426,
+                69,
+                438
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                75,
+                426,
+                80,
+                438
+              ]
+            },
+            {
+              "text": "10%",
+              "bbox": [
+                86,
+                426,
+                106,
+                438
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                112,
+                426,
+                148,
+                438
+              ]
+            },
+            {
+              "text": "from",
+              "bbox": [
+                153,
+                426,
+                175,
+                438
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                180,
+                426,
+                194,
+                438
+              ]
+            },
+            {
+              "text": "previous",
+              "bbox": [
+                200,
+                426,
+                238,
+                438
+              ]
+            },
+            {
+              "text": "year.",
+              "bbox": [
+                243,
+                426,
+                264,
+                438
+              ]
+            },
+            {
+              "text": "Meanwhile,",
+              "bbox": [
+                270,
+                426,
+                322,
+                438
+              ]
+            },
+            {
+              "text": "phishing",
+              "bbox": [
+                328,
+                426,
+                366,
+                438
+              ]
+            },
+            {
+              "text": "attempts",
+              "bbox": [
+                372,
+                426,
+                409,
+                438
+              ]
+            },
+            {
+              "text": "have",
+              "bbox": [
+                415,
+                426,
+                435,
+                438
+              ]
+            },
+            {
+              "text": "escalated",
+              "bbox": [
+                441,
+                426,
+                481,
+                438
+              ]
+            },
+            {
+              "text": "dramatically,",
+              "bbox": [
+                487,
+                426,
+                544,
+                438
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                550,
+                426,
+                569,
+                438
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                575,
+                426,
+                580,
+                438
+              ]
+            }
+          ]
+        },
+        {
+          "text": "staggering 120 incidents recorded, accounting for 25% of all reported cyber incidents. In light of these threats, organizations are",
+          "bbox": [
+            15,
+            441,
+            580,
+            453
+          ],
+          "words": [
+            {
+              "text": "staggering",
+              "bbox": [
+                15,
+                441,
+                61,
+                453
+              ]
+            },
+            {
+              "text": "120",
+              "bbox": [
+                64,
+                441,
+                80,
+                453
+              ]
+            },
+            {
+              "text": "incidents",
+              "bbox": [
+                83,
+                441,
+                123,
+                453
+              ]
+            },
+            {
+              "text": "recorded,",
+              "bbox": [
+                126,
+                441,
+                167,
+                453
+              ]
+            },
+            {
+              "text": "accounting",
+              "bbox": [
+                170,
+                441,
+                218,
+                453
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                221,
+                441,
+                234,
+                453
+              ]
+            },
+            {
+              "text": "25%",
+              "bbox": [
+                236,
+                441,
+                257,
+                453
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                259,
+                441,
+                269,
+                453
+              ]
+            },
+            {
+              "text": "all",
+              "bbox": [
+                271,
+                441,
+                282,
+                453
+              ]
+            },
+            {
+              "text": "reported",
+              "bbox": [
+                285,
+                441,
+                322,
+                453
+              ]
+            },
+            {
+              "text": "cyber",
+              "bbox": [
+                325,
+                441,
+                349,
+                453
+              ]
+            },
+            {
+              "text": "incidents.",
+              "bbox": [
+                352,
+                441,
+                394,
+                453
+              ]
+            },
+            {
+              "text": "In",
+              "bbox": [
+                397,
+                441,
+                406,
+                453
+              ]
+            },
+            {
+              "text": "light",
+              "bbox": [
+                409,
+                441,
+                429,
+                453
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                432,
+                441,
+                441,
+                453
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                444,
+                441,
+                467,
+                453
+              ]
+            },
+            {
+              "text": "threats,",
+              "bbox": [
+                470,
+                441,
+                502,
+                453
+              ]
+            },
+            {
+              "text": "organizations",
+              "bbox": [
+                505,
+                441,
+                564,
+                453
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                567,
+                441,
+                580,
+                453
+              ]
+            }
+          ]
+        },
+        {
+          "text": "significantly increasing their investment in cloud infrastructure to enhance security and operational resilience.",
+          "bbox": [
+            15,
+            456,
+            499,
+            468
+          ],
+          "words": [
+            {
+              "text": "significantly",
+              "bbox": [
+                15,
+                456,
+                70,
+                468
+              ]
+            },
+            {
+              "text": "increasing",
+              "bbox": [
+                73,
+                456,
+                118,
+                468
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                121,
+                456,
+                141,
+                468
+              ]
+            },
+            {
+              "text": "investment",
+              "bbox": [
+                144,
+                456,
+                192,
+                468
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                195,
+                456,
+                203,
+                468
+              ]
+            },
+            {
+              "text": "cloud",
+              "bbox": [
+                206,
+                456,
+                230,
+                468
+              ]
+            },
+            {
+              "text": "infrastructure",
+              "bbox": [
+                233,
+                456,
+                292,
+                468
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                295,
+                456,
+                304,
+                468
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                306,
+                456,
+                342,
+                468
+              ]
+            },
+            {
+              "text": "security",
+              "bbox": [
+                345,
+                456,
+                380,
+                468
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                383,
+                456,
+                399,
+                468
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                401,
+                456,
+                451,
+                468
+              ]
+            },
+            {
+              "text": "resilience.",
+              "bbox": [
+                454,
+                456,
+                499,
+                468
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_162571_t1",
+      "bbox": [
+        15,
+        489,
+        580,
+        683
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "VerticalOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            489,
+            580,
+            523
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            523,
+            580,
+            543
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            543,
+            580,
+            563
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            563,
+            580,
+            583
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            583,
+            580,
+            603
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            603,
+            580,
+            623
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            623,
+            580,
+            643
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 7,
+          "bbox": [
+            15,
+            643,
+            580,
+            663
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 8,
+          "bbox": [
+            15,
+            663,
+            580,
+            683
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Category</td><td>Q12024Revenue</td><td>Q12023Revenue</td><td>Year-over-YearChange</td><td>ForecastQ22024</td><td>MarketShare(%)</td></tr><tr><td>CloudInfrastructure</td><td>£250M</td><td>£220M</td><td>13.6%</td><td>£270M</td><td>25.0%</td></tr></thead><tbody><tr><td>IaaS</td><td>£100M</td><td>£90M</td><td>11.1%</td><td>£110M</td><td>22.0%</td></tr><tr><td>PaaS</td><td>£70M</td><td>£65M</td><td>7.7%</td><td>£80M</td><td>15.0%</td></tr><tr><td>SaaS</td><td>£80M</td><td>£65M</td><td>23.1%</td><td>£90M</td><td>12.5%</td></tr><tr><td>CAPEX</td><td>£50M</td><td>£45M</td><td>11.1%</td><td>£60M</td><td>20.0%</td></tr><tr><td>NetIncome</td><td>£30M</td><td>£25M</td><td>20.0%</td><td>£35M</td><td>16.7%</td></tr><tr><td>OperatingExpenses</td><td>£20M</td><td>£18M</td><td>11.1%</td><td>£22M</td><td>10.0%</td></tr><tr><td>TotalRevenue</td><td>£250M</td><td>£220M</td><td>13.6%</td><td>£270M</td><td>Total</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Category",
+          "bbox": [
+            15,
+            489,
+            117,
+            523
+          ],
+          "words": [
+            {
+              "text": "Category",
+              "bbox": [
+                20,
+                493,
+                59,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Q12024Revenue",
+          "bbox": [
+            117,
+            489,
+            220,
+            523
+          ],
+          "words": [
+            {
+              "text": "Q12024Revenue",
+              "bbox": [
+                123,
+                493,
+                192,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Q12023Revenue",
+          "bbox": [
+            220,
+            489,
+            322,
+            523
+          ],
+          "words": [
+            {
+              "text": "Q12023Revenue",
+              "bbox": [
+                225,
+                493,
+                295,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Year-over-YearChange",
+          "bbox": [
+            322,
+            489,
+            424,
+            523
+          ],
+          "words": [
+            {
+              "text": "Year-over-YearChange",
+              "bbox": [
+                328,
+                493,
+                380,
+                518
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "ForecastQ22024",
+          "bbox": [
+            424,
+            489,
+            527,
+            523
+          ],
+          "words": [
+            {
+              "text": "ForecastQ22024",
+              "bbox": [
+                452,
+                493,
+                521,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "MarketShare(%)",
+          "bbox": [
+            527,
+            489,
+            580,
+            523
+          ],
+          "words": [
+            {
+              "text": "MarketShare(%)",
+              "bbox": [
+                532,
+                493,
+                570,
+                518
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "CloudInfrastructure",
+          "bbox": [
+            15,
+            523,
+            117,
+            543
+          ],
+          "words": [
+            {
+              "text": "CloudInfrastructure",
+              "bbox": [
+                20,
+                527,
+                108,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "£250M",
+          "bbox": [
+            117,
+            523,
+            220,
+            543
+          ],
+          "words": [
+            {
+              "text": "£250M",
+              "bbox": [
+                123,
+                527,
+                152,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "£220M",
+          "bbox": [
+            220,
+            523,
+            322,
+            543
+          ],
+          "words": [
+            {
+              "text": "£220M",
+              "bbox": [
+                225,
+                527,
+                255,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "13.6%",
+          "bbox": [
+            322,
+            523,
+            424,
+            543
+          ],
+          "words": [
+            {
+              "text": "13.6%",
+              "bbox": [
+                328,
+                527,
+                355,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "£270M",
+          "bbox": [
+            424,
+            523,
+            527,
+            543
+          ],
+          "words": [
+            {
+              "text": "£270M",
+              "bbox": [
+                492,
+                527,
+                521,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "25.0%",
+          "bbox": [
+            527,
+            523,
+            580,
+            543
+          ],
+          "words": [
+            {
+              "text": "25.0%",
+              "bbox": [
+                532,
+                527,
+                560,
+                538
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IaaS",
+          "bbox": [
+            15,
+            543,
+            117,
+            563
+          ],
+          "words": [
+            {
+              "text": "IaaS",
+              "bbox": [
+                20,
+                547,
+                38,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£100M",
+          "bbox": [
+            117,
+            543,
+            220,
+            563
+          ],
+          "words": [
+            {
+              "text": "£100M",
+              "bbox": [
+                123,
+                547,
+                152,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£90M",
+          "bbox": [
+            220,
+            543,
+            322,
+            563
+          ],
+          "words": [
+            {
+              "text": "£90M",
+              "bbox": [
+                225,
+                547,
+                249,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "11.1%",
+          "bbox": [
+            322,
+            543,
+            424,
+            563
+          ],
+          "words": [
+            {
+              "text": "11.1%",
+              "bbox": [
+                328,
+                547,
+                353,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£110M",
+          "bbox": [
+            424,
+            543,
+            527,
+            563
+          ],
+          "words": [
+            {
+              "text": "£110M",
+              "bbox": [
+                493,
+                547,
+                521,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "22.0%",
+          "bbox": [
+            527,
+            543,
+            580,
+            563
+          ],
+          "words": [
+            {
+              "text": "22.0%",
+              "bbox": [
+                532,
+                547,
+                558,
+                558
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "PaaS",
+          "bbox": [
+            15,
+            563,
+            117,
+            583
+          ],
+          "words": [
+            {
+              "text": "PaaS",
+              "bbox": [
+                20,
+                567,
+                40,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£70M",
+          "bbox": [
+            117,
+            563,
+            220,
+            583
+          ],
+          "words": [
+            {
+              "text": "£70M",
+              "bbox": [
+                123,
+                567,
+                147,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£65M",
+          "bbox": [
+            220,
+            563,
+            322,
+            583
+          ],
+          "words": [
+            {
+              "text": "£65M",
+              "bbox": [
+                225,
+                567,
+                249,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "7.7%",
+          "bbox": [
+            322,
+            563,
+            424,
+            583
+          ],
+          "words": [
+            {
+              "text": "7.7%",
+              "bbox": [
+                328,
+                567,
+                348,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£80M",
+          "bbox": [
+            424,
+            563,
+            527,
+            583
+          ],
+          "words": [
+            {
+              "text": "£80M",
+              "bbox": [
+                497,
+                567,
+                521,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0%",
+          "bbox": [
+            527,
+            563,
+            580,
+            583
+          ],
+          "words": [
+            {
+              "text": "15.0%",
+              "bbox": [
+                532,
+                567,
+                558,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "SaaS",
+          "bbox": [
+            15,
+            583,
+            117,
+            603
+          ],
+          "words": [
+            {
+              "text": "SaaS",
+              "bbox": [
+                20,
+                587,
+                40,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£80M",
+          "bbox": [
+            117,
+            583,
+            220,
+            603
+          ],
+          "words": [
+            {
+              "text": "£80M",
+              "bbox": [
+                123,
+                587,
+                147,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£65M",
+          "bbox": [
+            220,
+            583,
+            322,
+            603
+          ],
+          "words": [
+            {
+              "text": "£65M",
+              "bbox": [
+                225,
+                587,
+                249,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "23.1%",
+          "bbox": [
+            322,
+            583,
+            424,
+            603
+          ],
+          "words": [
+            {
+              "text": "23.1%",
+              "bbox": [
+                328,
+                587,
+                353,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£90M",
+          "bbox": [
+            424,
+            583,
+            527,
+            603
+          ],
+          "words": [
+            {
+              "text": "£90M",
+              "bbox": [
+                497,
+                587,
+                521,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "12.5%",
+          "bbox": [
+            527,
+            583,
+            580,
+            603
+          ],
+          "words": [
+            {
+              "text": "12.5%",
+              "bbox": [
+                532,
+                587,
+                558,
+                598
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "CAPEX",
+          "bbox": [
+            15,
+            603,
+            117,
+            623
+          ],
+          "words": [
+            {
+              "text": "CAPEX",
+              "bbox": [
+                20,
+                607,
+                53,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£50M",
+          "bbox": [
+            117,
+            603,
+            220,
+            623
+          ],
+          "words": [
+            {
+              "text": "£50M",
+              "bbox": [
+                123,
+                607,
+                147,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£45M",
+          "bbox": [
+            220,
+            603,
+            322,
+            623
+          ],
+          "words": [
+            {
+              "text": "£45M",
+              "bbox": [
+                225,
+                607,
+                249,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "11.1%",
+          "bbox": [
+            322,
+            603,
+            424,
+            623
+          ],
+          "words": [
+            {
+              "text": "11.1%",
+              "bbox": [
+                328,
+                607,
+                353,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£60M",
+          "bbox": [
+            424,
+            603,
+            527,
+            623
+          ],
+          "words": [
+            {
+              "text": "£60M",
+              "bbox": [
+                497,
+                607,
+                521,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0%",
+          "bbox": [
+            527,
+            603,
+            580,
+            623
+          ],
+          "words": [
+            {
+              "text": "20.0%",
+              "bbox": [
+                532,
+                607,
+                558,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "NetIncome",
+          "bbox": [
+            15,
+            623,
+            117,
+            643
+          ],
+          "words": [
+            {
+              "text": "NetIncome",
+              "bbox": [
+                20,
+                627,
+                64,
+                638
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£30M",
+          "bbox": [
+            117,
+            623,
+            220,
+            643
+          ],
+          "words": [
+            {
+              "text": "£30M",
+              "bbox": [
+                123,
+                627,
+                147,
+                638
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£25M",
+          "bbox": [
+            220,
+            623,
+            322,
+            643
+          ],
+          "words": [
+            {
+              "text": "£25M",
+              "bbox": [
+                225,
+                627,
+                249,
+                638
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0%",
+          "bbox": [
+            322,
+            623,
+            424,
+            643
+          ],
+          "words": [
+            {
+              "text": "20.0%",
+              "bbox": [
+                328,
+                627,
+                353,
+                638
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£35M",
+          "bbox": [
+            424,
+            623,
+            527,
+            643
+          ],
+          "words": [
+            {
+              "text": "£35M",
+              "bbox": [
+                497,
+                627,
+                521,
+                638
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "16.7%",
+          "bbox": [
+            527,
+            623,
+            580,
+            643
+          ],
+          "words": [
+            {
+              "text": "16.7%",
+              "bbox": [
+                532,
+                627,
+                558,
+                638
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "OperatingExpenses",
+          "bbox": [
+            15,
+            643,
+            117,
+            663
+          ],
+          "words": [
+            {
+              "text": "OperatingExpenses",
+              "bbox": [
+                20,
+                647,
+                98,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£20M",
+          "bbox": [
+            117,
+            643,
+            220,
+            663
+          ],
+          "words": [
+            {
+              "text": "£20M",
+              "bbox": [
+                123,
+                647,
+                147,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£18M",
+          "bbox": [
+            220,
+            643,
+            322,
+            663
+          ],
+          "words": [
+            {
+              "text": "£18M",
+              "bbox": [
+                225,
+                647,
+                249,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "11.1%",
+          "bbox": [
+            322,
+            643,
+            424,
+            663
+          ],
+          "words": [
+            {
+              "text": "11.1%",
+              "bbox": [
+                328,
+                647,
+                353,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£22M",
+          "bbox": [
+            424,
+            643,
+            527,
+            663
+          ],
+          "words": [
+            {
+              "text": "£22M",
+              "bbox": [
+                497,
+                647,
+                521,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            7
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0%",
+          "bbox": [
+            527,
+            643,
+            580,
+            663
+          ],
+          "words": [
+            {
+              "text": "10.0%",
+              "bbox": [
+                532,
+                647,
+                558,
+                658
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "TotalRevenue",
+          "bbox": [
+            15,
+            663,
+            117,
+            683
+          ],
+          "words": [
+            {
+              "text": "TotalRevenue",
+              "bbox": [
+                20,
+                667,
+                75,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "£250M",
+          "bbox": [
+            117,
+            663,
+            220,
+            683
+          ],
+          "words": [
+            {
+              "text": "£250M",
+              "bbox": [
+                123,
+                667,
+                152,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "£220M",
+          "bbox": [
+            220,
+            663,
+            322,
+            683
+          ],
+          "words": [
+            {
+              "text": "£220M",
+              "bbox": [
+                225,
+                667,
+                254,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "13.6%",
+          "bbox": [
+            322,
+            663,
+            424,
+            683
+          ],
+          "words": [
+            {
+              "text": "13.6%",
+              "bbox": [
+                328,
+                667,
+                353,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "£270M",
+          "bbox": [
+            424,
+            663,
+            527,
+            683
+          ],
+          "words": [
+            {
+              "text": "£270M",
+              "bbox": [
+                492,
+                667,
+                521,
+                678
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            8
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            527,
+            663,
+            580,
+            683
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                532,
+                667,
+                553,
+                678
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        698,
+        580,
+        775
+      ],
+      "content": "The data reveals that total spending on cloud infrastructure has reached £250 million, reflecting an upward trend in prioritizing secure cloud solutions. Furthermore, with projected growth rates of 25.0% in cloud investments, it is evident that companies are not only responding to the rising tide of cyber threats but are also adapting to the evolving technology landscape. This report aims to provide stakeholders with a comprehensive overview of current cybersecurity incident statistics and cloud infrastructure spending trends, highlighting the critical need for robust security frameworks in an increasingly digital environment.",
+      "lines": [
+        {
+          "text": "The data reveals that total spending on cloud infrastructure has reached £250 million, reflecting an upward trend in prioritizing",
+          "bbox": [
+            15,
+            699,
+            580,
+            711
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                699,
+                32,
+                711
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                35,
+                699,
+                54,
+                711
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                57,
+                699,
+                88,
+                711
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                91,
+                699,
+                107,
+                711
+              ]
+            },
+            {
+              "text": "total",
+              "bbox": [
+                111,
+                699,
+                130,
+                711
+              ]
+            },
+            {
+              "text": "spending",
+              "bbox": [
+                133,
+                699,
+                173,
+                711
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                176,
+                699,
+                187,
+                711
+              ]
+            },
+            {
+              "text": "cloud",
+              "bbox": [
+                190,
+                699,
+                215,
+                711
+              ]
+            },
+            {
+              "text": "infrastructure",
+              "bbox": [
+                218,
+                699,
+                277,
+                711
+              ]
+            },
+            {
+              "text": "has",
+              "bbox": [
+                280,
+                699,
+                295,
+                711
+              ]
+            },
+            {
+              "text": "reached",
+              "bbox": [
+                298,
+                699,
+                332,
+                711
+              ]
+            },
+            {
+              "text": "£250",
+              "bbox": [
+                335,
+                699,
+                357,
+                711
+              ]
+            },
+            {
+              "text": "million,",
+              "bbox": [
+                360,
+                699,
+                395,
+                711
+              ]
+            },
+            {
+              "text": "reflecting",
+              "bbox": [
+                398,
+                699,
+                440,
+                711
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                443,
+                699,
+                454,
+                711
+              ]
+            },
+            {
+              "text": "upward",
+              "bbox": [
+                457,
+                699,
+                490,
+                711
+              ]
+            },
+            {
+              "text": "trend",
+              "bbox": [
+                493,
+                699,
+                516,
+                711
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                519,
+                699,
+                527,
+                711
+              ]
+            },
+            {
+              "text": "prioritizing",
+              "bbox": [
+                531,
+                699,
+                580,
+                711
+              ]
+            }
+          ]
+        },
+        {
+          "text": "secure cloud solutions. Furthermore, with projected growth rates of 25.0% in cloud investments, it is evident that companies are",
+          "bbox": [
+            15,
+            714,
+            580,
+            726
+          ],
+          "words": [
+            {
+              "text": "secure",
+              "bbox": [
+                15,
+                714,
+                43,
+                726
+              ]
+            },
+            {
+              "text": "cloud",
+              "bbox": [
+                46,
+                714,
+                70,
+                726
+              ]
+            },
+            {
+              "text": "solutions.",
+              "bbox": [
+                73,
+                714,
+                116,
+                726
+              ]
+            },
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                119,
+                714,
+                176,
+                726
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                179,
+                714,
+                199,
+                726
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                202,
+                714,
+                242,
+                726
+              ]
+            },
+            {
+              "text": "growth",
+              "bbox": [
+                245,
+                714,
+                276,
+                726
+              ]
+            },
+            {
+              "text": "rates",
+              "bbox": [
+                279,
+                714,
+                300,
+                726
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                303,
+                714,
+                312,
+                726
+              ]
+            },
+            {
+              "text": "25.0%",
+              "bbox": [
+                315,
+                714,
+                343,
+                726
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                346,
+                714,
+                355,
+                726
+              ]
+            },
+            {
+              "text": "cloud",
+              "bbox": [
+                358,
+                714,
+                382,
+                726
+              ]
+            },
+            {
+              "text": "investments,",
+              "bbox": [
+                385,
+                714,
+                440,
+                726
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                443,
+                714,
+                449,
+                726
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                452,
+                714,
+                459,
+                726
+              ]
+            },
+            {
+              "text": "evident",
+              "bbox": [
+                462,
+                714,
+                495,
+                726
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                497,
+                714,
+                514,
+                726
+              ]
+            },
+            {
+              "text": "companies",
+              "bbox": [
+                517,
+                714,
+                564,
+                726
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                567,
+                714,
+                580,
+                726
+              ]
+            }
+          ]
+        },
+        {
+          "text": "not only responding to the rising tide of cyber threats but are also adapting to the evolving technology landscape. This report",
+          "bbox": [
+            15,
+            730,
+            580,
+            742
+          ],
+          "words": [
+            {
+              "text": "not",
+              "bbox": [
+                15,
+                730,
+                29,
+                742
+              ]
+            },
+            {
+              "text": "only",
+              "bbox": [
+                33,
+                730,
+                52,
+                742
+              ]
+            },
+            {
+              "text": "responding",
+              "bbox": [
+                56,
+                730,
+                105,
+                742
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                108,
+                730,
+                117,
+                742
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                120,
+                730,
+                134,
+                742
+              ]
+            },
+            {
+              "text": "rising",
+              "bbox": [
+                137,
+                730,
+                163,
+                742
+              ]
+            },
+            {
+              "text": "tide",
+              "bbox": [
+                166,
+                730,
+                183,
+                742
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                186,
+                730,
+                195,
+                742
+              ]
+            },
+            {
+              "text": "cyber",
+              "bbox": [
+                199,
+                730,
+                223,
+                742
+              ]
+            },
+            {
+              "text": "threats",
+              "bbox": [
+                227,
+                730,
+                256,
+                742
+              ]
+            },
+            {
+              "text": "but",
+              "bbox": [
+                260,
+                730,
+                274,
+                742
+              ]
+            },
+            {
+              "text": "are",
+              "bbox": [
+                278,
+                730,
+                291,
+                742
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                295,
+                730,
+                312,
+                742
+              ]
+            },
+            {
+              "text": "adapting",
+              "bbox": [
+                316,
+                730,
+                354,
+                742
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                357,
+                730,
+                366,
+                742
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                369,
+                730,
+                383,
+                742
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                387,
+                730,
+                425,
+                742
+              ]
+            },
+            {
+              "text": "technology",
+              "bbox": [
+                429,
+                730,
+                477,
+                742
+              ]
+            },
+            {
+              "text": "landscape.",
+              "bbox": [
+                481,
+                730,
+                527,
+                742
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                531,
+                730,
+                550,
+                742
+              ]
+            },
+            {
+              "text": "report",
+              "bbox": [
+                554,
+                730,
+                580,
+                742
+              ]
+            }
+          ]
+        },
+        {
+          "text": "aims to provide stakeholders with a comprehensive overview of current cybersecurity incident statistics and cloud infrastructure",
+          "bbox": [
+            15,
+            745,
+            580,
+            757
+          ],
+          "words": [
+            {
+              "text": "aims",
+              "bbox": [
+                15,
+                745,
+                36,
+                757
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                39,
+                745,
+                47,
+                757
+              ]
+            },
+            {
+              "text": "provide",
+              "bbox": [
+                50,
+                745,
+                84,
+                757
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                86,
+                745,
+                141,
+                757
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                144,
+                745,
+                164,
+                757
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                167,
+                745,
+                172,
+                757
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                174,
+                745,
+                241,
+                757
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                244,
+                745,
+                285,
+                757
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                288,
+                745,
+                297,
+                757
+              ]
+            },
+            {
+              "text": "current",
+              "bbox": [
+                300,
+                745,
+                331,
+                757
+              ]
+            },
+            {
+              "text": "cybersecurity",
+              "bbox": [
+                334,
+                745,
+                393,
+                757
+              ]
+            },
+            {
+              "text": "incident",
+              "bbox": [
+                396,
+                745,
+                431,
+                757
+              ]
+            },
+            {
+              "text": "statistics",
+              "bbox": [
+                434,
+                745,
+                472,
+                757
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                475,
+                745,
+                491,
+                757
+              ]
+            },
+            {
+              "text": "cloud",
+              "bbox": [
+                493,
+                745,
+                518,
+                757
+              ]
+            },
+            {
+              "text": "infrastructure",
+              "bbox": [
+                521,
+                745,
+                580,
+                757
+              ]
+            }
+          ]
+        },
+        {
+          "text": "spending trends, highlighting the critical need for robust security frameworks in an increasingly digital environment.",
+          "bbox": [
+            15,
+            760,
+            528,
+            772
+          ],
+          "words": [
+            {
+              "text": "spending",
+              "bbox": [
+                15,
+                760,
+                55,
+                772
+              ]
+            },
+            {
+              "text": "trends,",
+              "bbox": [
+                57,
+                760,
+                87,
+                772
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                90,
+                760,
+                144,
+                772
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                146,
+                760,
+                160,
+                772
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                163,
+                760,
+                193,
+                772
+              ]
+            },
+            {
+              "text": "need",
+              "bbox": [
+                196,
+                760,
+                217,
+                772
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                219,
+                760,
+                232,
+                772
+              ]
+            },
+            {
+              "text": "robust",
+              "bbox": [
+                235,
+                760,
+                262,
+                772
+              ]
+            },
+            {
+              "text": "security",
+              "bbox": [
+                265,
+                760,
+                300,
+                772
+              ]
+            },
+            {
+              "text": "frameworks",
+              "bbox": [
+                303,
+                760,
+                355,
+                772
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                358,
+                760,
+                367,
+                772
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                369,
+                760,
+                380,
+                772
+              ]
+            },
+            {
+              "text": "increasingly",
+              "bbox": [
+                382,
+                760,
+                436,
+                772
+              ]
+            },
+            {
+              "text": "digital",
+              "bbox": [
+                439,
+                760,
+                467,
+                772
+              ]
+            },
+            {
+              "text": "environment.",
+              "bbox": [
+                470,
+                760,
+                528,
+                772
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

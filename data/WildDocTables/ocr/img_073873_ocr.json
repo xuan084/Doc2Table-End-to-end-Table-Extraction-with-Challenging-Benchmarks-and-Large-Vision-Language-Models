@@ -1,0 +1,270 @@
+{
+  "image_id": "img_073873",
+  "image_size": [
+    595,
+    842
+  ],
+  "ocr": [
+    {
+      "text": "The following table presents a comprehensive overview of various topographic data structures utilized within the context of",
+      "bbox": [
+        15,
+        71,
+        580,
+        83
+      ]
+    },
+    {
+      "text": "VTK (Visualization Toolkit) classification. Each entry delineates specific objects associated with the vtkDelaunay2D class type,",
+      "bbox": [
+        15,
+        86,
+        580,
+        98
+      ]
+    },
+    {
+      "text": "highlighting their respective data file structures and corresponding metrics.",
+      "bbox": [
+        15,
+        102,
+        345,
+        114
+      ]
+    },
+    {
+      "text": "Object  VTK Class Type  Data File Structure",
+      "bbox": [
+        15,
+        146,
+        580,
+        167
+      ]
+    },
+    {
+      "text": "Topographic map  vtkDelaunay2D  Line 1: 1 (Classification code)Line 2: UnusedLine 3: UnusedLine 4: (x, y, z) of point 1Line 5: (x, y, z) of point 2...",
+      "bbox": [
+        15,
+        167,
+        580,
+        201
+      ]
+    },
+    {
+      "text": "Drift or shaft  vtkLineSourcevtkTubeFilter  Line 1: 2 (Classification code)Line 2: Radius of tubeLine 3: UnusedLine 4: (x, y, z) of start point 1 / end point 1Line 5: (x, y, z) of start point 2 / end point 2...",
+      "bbox": [
+        15,
+        201,
+        580,
+        235
+      ]
+    },
+    {
+      "text": "Borehole  vtkLineSourcevtkTubeFilter  Line 1: 3 (Classification code)Line 2: Radius of tubeLine 3: Number of classLine 4: (x, y, z) of point 1 / label / classLine 5: (x, y, z) of point 2 / label / class...",
+      "bbox": [
+        15,
+        235,
+        580,
+        269
+      ]
+    },
+    {
+      "text": "Goaf  vtkPolygonvtkLinearExtrusionFilter  Line 1:4 (Classification code)Line 2: Extrusion lengthLine 3: UnusedLine 4: (x, y, z) of point 1 / polygon numberLine 5: (x, y, z) of point 2 / polygon number...",
+      "bbox": [
+        15,
+        269,
+        580,
+        303
+      ]
+    },
+    {
+      "text": "Groundwater level  vtkCylinderSource  Line 1: 5 (Classification code)Line 2: Number of pondsLine 3: Radius of each pondLine 4: Number of time stepsLine 5: Pond number / time step / (x, y, z) of water level...",
+      "bbox": [
+        15,
+        303,
+        580,
+        338
+      ]
+    },
+    {
+      "text": "Pv-210  Pv-247  Pf",
+      "bbox": [
+        15,
+        362,
+        580,
+        382
+      ]
+    },
+    {
+      "text": "ELISA  PCR  ELISA  PCR  ELISA  PCR",
+      "bbox": [
+        15,
+        382,
+        580,
+        402
+      ]
+    },
+    {
+      "text": "Unfed mosquitoes detected negative  16  16  8  8  8  8",
+      "bbox": [
+        15,
+        402,
+        580,
+        422
+      ]
+    },
+    {
+      "text": "Unfed mosquitoes detected positive  0  0  0  0  0  0",
+      "bbox": [
+        15,
+        422,
+        580,
+        442
+      ]
+    },
+    {
+      "text": "Blood fed mosquitoes detected negative  0  3  11  14  12  14",
+      "bbox": [
+        15,
+        442,
+        580,
+        462
+      ]
+    },
+    {
+      "text": "Blood fed mosquitoes detected positive  30  27  19  16  18  16",
+      "bbox": [
+        15,
+        462,
+        580,
+        482
+      ]
+    },
+    {
+      "text": "Variable  WHR  WC  AG  FPG  DD",
+      "bbox": [
+        15,
+        508,
+        580,
+        529
+      ]
+    },
+    {
+      "text": "Gender (GE)  0.73∗∗  0.36∗∗  0.15∗∗  −0.01  −0.16∗∗",
+      "bbox": [
+        15,
+        529,
+        580,
+        549
+      ]
+    },
+    {
+      "text": "WHR (WHR)  0.56∗∗  0.21∗∗  0.01  0.06",
+      "bbox": [
+        15,
+        549,
+        580,
+        569
+      ]
+    },
+    {
+      "text": "WC (WC)  0.50∗∗  0.05  −0.01",
+      "bbox": [
+        15,
+        569,
+        580,
+        589
+      ]
+    },
+    {
+      "text": "Age (AG)  −0.33∗∗  0.01",
+      "bbox": [
+        15,
+        589,
+        580,
+        609
+      ]
+    },
+    {
+      "text": "FPG (FPG)  −0.02",
+      "bbox": [
+        15,
+        609,
+        580,
+        630
+      ]
+    },
+    {
+      "text": "Notably, the columns titled \"Pv-210\" and \"Pv-247\" provide insight into the isotopic composition relevant to the spatial analysis",
+      "bbox": [
+        15,
+        646,
+        580,
+        658
+      ]
+    },
+    {
+      "text": "of the topographic features represented. Such isotopic data are critical in environmental studies, where understanding the",
+      "bbox": [
+        15,
+        662,
+        580,
+        674
+      ]
+    },
+    {
+      "text": "geological and hydrological characteristics of an area is essential for effective resource management and ecological",
+      "bbox": [
+        15,
+        677,
+        580,
+        689
+      ]
+    },
+    {
+      "text": "assessments. The inclusion of metrics such as \"Variable\" and \"WHR\" further enriches the dataset, allowing for nuanced",
+      "bbox": [
+        15,
+        692,
+        580,
+        704
+      ]
+    },
+    {
+      "text": "interpretations of the topographic variations captured in the analysis. By systematically organizing these variables, the table",
+      "bbox": [
+        15,
+        708,
+        580,
+        720
+      ]
+    },
+    {
+      "text": "serves as a valuable resource for researchers and practitioners seeking to leverage VTK for advanced modeling and",
+      "bbox": [
+        15,
+        723,
+        580,
+        735
+      ]
+    },
+    {
+      "text": "visualization of topographic landscapes. The structured data empowers informed decision-making and facilitates deeper",
+      "bbox": [
+        15,
+        739,
+        580,
+        751
+      ]
+    },
+    {
+      "text": "exploration of the underlying geospatial phenomena.",
+      "bbox": [
+        15,
+        754,
+        247,
+        766
+      ]
+    }
+  ]
+}

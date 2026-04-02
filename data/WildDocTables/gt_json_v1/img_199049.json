@@ -1,0 +1,4835 @@
+{
+  "image_id": "img_199049",
+  "subset": "S4",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        69,
+        580,
+        100
+      ],
+      "content": "In the dynamic landscape of the European hospitality and tourism sector, understanding occupancy rate seasonality is essential for optimizing revenue and enhancing customer experience.",
+      "lines": [
+        {
+          "text": "In the dynamic landscape of the European hospitality and tourism sector, understanding occupancy rate seasonality is essential",
+          "bbox": [
+            15,
+            70,
+            580,
+            82
+          ],
+          "words": [
+            {
+              "text": "In",
+              "bbox": [
+                15,
+                70,
+                24,
+                82
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                27,
+                70,
+                41,
+                82
+              ]
+            },
+            {
+              "text": "dynamic",
+              "bbox": [
+                44,
+                70,
+                82,
+                82
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                85,
+                70,
+                129,
+                82
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                132,
+                70,
+                141,
+                82
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                144,
+                70,
+                158,
+                82
+              ]
+            },
+            {
+              "text": "European",
+              "bbox": [
+                161,
+                70,
+                203,
+                82
+              ]
+            },
+            {
+              "text": "hospitality",
+              "bbox": [
+                206,
+                70,
+                253,
+                82
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                256,
+                70,
+                272,
+                82
+              ]
+            },
+            {
+              "text": "tourism",
+              "bbox": [
+                275,
+                70,
+                309,
+                82
+              ]
+            },
+            {
+              "text": "sector,",
+              "bbox": [
+                312,
+                70,
+                341,
+                82
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                344,
+                70,
+                406,
+                82
+              ]
+            },
+            {
+              "text": "occupancy",
+              "bbox": [
+                409,
+                70,
+                456,
+                82
+              ]
+            },
+            {
+              "text": "rate",
+              "bbox": [
+                460,
+                70,
+                476,
+                82
+              ]
+            },
+            {
+              "text": "seasonality",
+              "bbox": [
+                479,
+                70,
+                528,
+                82
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                532,
+                70,
+                539,
+                82
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                542,
+                70,
+                580,
+                82
+              ]
+            }
+          ]
+        },
+        {
+          "text": "for optimizing revenue and enhancing customer experience.",
+          "bbox": [
+            15,
+            85,
+            279,
+            97
+          ],
+          "words": [
+            {
+              "text": "for",
+              "bbox": [
+                15,
+                85,
+                28,
+                97
+              ]
+            },
+            {
+              "text": "optimizing",
+              "bbox": [
+                31,
+                85,
+                78,
+                97
+              ]
+            },
+            {
+              "text": "revenue",
+              "bbox": [
+                81,
+                85,
+                116,
+                97
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                119,
+                85,
+                134,
+                97
+              ]
+            },
+            {
+              "text": "enhancing",
+              "bbox": [
+                137,
+                85,
+                182,
+                97
+              ]
+            },
+            {
+              "text": "customer",
+              "bbox": [
+                185,
+                85,
+                225,
+                97
+              ]
+            },
+            {
+              "text": "experience.",
+              "bbox": [
+                228,
+                85,
+                279,
+                97
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_199049_t0",
+      "bbox": [
+        15,
+        125,
+        580,
+        266
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            125,
+            580,
+            146
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            146,
+            580,
+            181
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            181,
+            580,
+            202
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            202,
+            580,
+            223
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            223,
+            580,
+            244
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            244,
+            580,
+            265
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>OccupancyRateAnalysis</td><td colspan=\"6\">MonthlyOccupancyRates</td></tr><tr><td>Month</td><td>OccupancyRate(%)</td><td>Revenue(€M)</td><td>AverageDailyRate(€)</td><td>NetIncome(€M)</td><td>TotalRooms</td><td>TotalBookings</td></tr></thead><tbody><tr><td>January</td><td>65%</td><td>15.5</td><td>120</td><td>5</td><td>1.0</td><td>1000</td></tr><tr><td>February</td><td>70%</td><td>18.0</td><td>125</td><td>6</td><td>1.5</td><td>1100</td></tr><tr><td>March</td><td>75%</td><td>22.0</td><td>130</td><td>8</td><td>2.0</td><td>1200</td></tr><tr><td>April</td><td>80%</td><td>25.0</td><td>135</td><td>10</td><td>2.5</td><td>1300</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "OccupancyRateAnalysis",
+          "bbox": [
+            16,
+            125,
+            174,
+            146
+          ],
+          "words": [
+            {
+              "text": "OccupancyRateAnalysis",
+              "bbox": [
+                65,
+                130,
+                168,
+                141
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "MonthlyOccupancyRates",
+          "bbox": [
+            174,
+            125,
+            580,
+            146
+          ],
+          "words": [
+            {
+              "text": "MonthlyOccupancyRates",
+              "bbox": [
+                179,
+                130,
+                288,
+                141
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Month",
+          "bbox": [
+            16,
+            146,
+            174,
+            181
+          ],
+          "words": [
+            {
+              "text": "Month",
+              "bbox": [
+                140,
+                151,
+                168,
+                162
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "OccupancyRate(%)",
+          "bbox": [
+            174,
+            146,
+            242,
+            181
+          ],
+          "words": [
+            {
+              "text": "OccupancyRate(%)",
+              "bbox": [
+                179,
+                151,
+                234,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(€M)",
+          "bbox": [
+            242,
+            146,
+            309,
+            181
+          ],
+          "words": [
+            {
+              "text": "Revenue(€M)",
+              "bbox": [
+                249,
+                151,
+                304,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "AverageDailyRate(€)",
+          "bbox": [
+            309,
+            146,
+            377,
+            181
+          ],
+          "words": [
+            {
+              "text": "AverageDailyRate(€)",
+              "bbox": [
+                319,
+                151,
+                372,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome(€M)",
+          "bbox": [
+            377,
+            146,
+            445,
+            181
+          ],
+          "words": [
+            {
+              "text": "NetIncome(€M)",
+              "bbox": [
+                384,
+                151,
+                439,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalRooms",
+          "bbox": [
+            445,
+            146,
+            512,
+            181
+          ],
+          "words": [
+            {
+              "text": "TotalRooms",
+              "bbox": [
+                456,
+                151,
+                507,
+                162
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalBookings",
+          "bbox": [
+            512,
+            146,
+            580,
+            181
+          ],
+          "words": [
+            {
+              "text": "TotalBookings",
+              "bbox": [
+                522,
+                151,
+                574,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "January",
+          "bbox": [
+            16,
+            181,
+            174,
+            202
+          ],
+          "words": [
+            {
+              "text": "January",
+              "bbox": [
+                137,
+                186,
+                168,
+                197
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "65%",
+          "bbox": [
+            174,
+            181,
+            242,
+            202
+          ],
+          "words": [
+            {
+              "text": "65%",
+              "bbox": [
+                179,
+                186,
+                198,
+                197
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "15.5",
+          "bbox": [
+            242,
+            181,
+            309,
+            202
+          ],
+          "words": [
+            {
+              "text": "15.5",
+              "bbox": [
+                286,
+                186,
+                304,
+                197
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "120",
+          "bbox": [
+            309,
+            181,
+            377,
+            202
+          ],
+          "words": [
+            {
+              "text": "120",
+              "bbox": [
+                357,
+                186,
+                372,
+                197
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "5",
+          "bbox": [
+            377,
+            181,
+            445,
+            202
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                434,
+                186,
+                439,
+                197
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.0",
+          "bbox": [
+            445,
+            181,
+            512,
+            202
+          ],
+          "words": [
+            {
+              "text": "1.0",
+              "bbox": [
+                494,
+                186,
+                507,
+                197
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1000",
+          "bbox": [
+            512,
+            181,
+            580,
+            202
+          ],
+          "words": [
+            {
+              "text": "1000",
+              "bbox": [
+                554,
+                186,
+                574,
+                197
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "February",
+          "bbox": [
+            16,
+            202,
+            174,
+            223
+          ],
+          "words": [
+            {
+              "text": "February",
+              "bbox": [
+                132,
+                207,
+                168,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "70%",
+          "bbox": [
+            174,
+            202,
+            242,
+            223
+          ],
+          "words": [
+            {
+              "text": "70%",
+              "bbox": [
+                179,
+                207,
+                198,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "18.0",
+          "bbox": [
+            242,
+            202,
+            309,
+            223
+          ],
+          "words": [
+            {
+              "text": "18.0",
+              "bbox": [
+                286,
+                207,
+                304,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "125",
+          "bbox": [
+            309,
+            202,
+            377,
+            223
+          ],
+          "words": [
+            {
+              "text": "125",
+              "bbox": [
+                357,
+                207,
+                372,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "6",
+          "bbox": [
+            377,
+            202,
+            445,
+            223
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                434,
+                207,
+                439,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "1.5",
+          "bbox": [
+            445,
+            202,
+            512,
+            223
+          ],
+          "words": [
+            {
+              "text": "1.5",
+              "bbox": [
+                494,
+                207,
+                507,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1100",
+          "bbox": [
+            512,
+            202,
+            580,
+            223
+          ],
+          "words": [
+            {
+              "text": "1100",
+              "bbox": [
+                554,
+                207,
+                574,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "March",
+          "bbox": [
+            16,
+            223,
+            174,
+            244
+          ],
+          "words": [
+            {
+              "text": "March",
+              "bbox": [
+                142,
+                228,
+                168,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            174,
+            223,
+            242,
+            244
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                179,
+                228,
+                198,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "22.0",
+          "bbox": [
+            242,
+            223,
+            309,
+            244
+          ],
+          "words": [
+            {
+              "text": "22.0",
+              "bbox": [
+                286,
+                228,
+                304,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "130",
+          "bbox": [
+            309,
+            223,
+            377,
+            244
+          ],
+          "words": [
+            {
+              "text": "130",
+              "bbox": [
+                357,
+                228,
+                372,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "8",
+          "bbox": [
+            377,
+            223,
+            445,
+            244
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                434,
+                228,
+                439,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "2.0",
+          "bbox": [
+            445,
+            223,
+            512,
+            244
+          ],
+          "words": [
+            {
+              "text": "2.0",
+              "bbox": [
+                494,
+                228,
+                507,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1200",
+          "bbox": [
+            512,
+            223,
+            580,
+            244
+          ],
+          "words": [
+            {
+              "text": "1200",
+              "bbox": [
+                554,
+                228,
+                574,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "April",
+          "bbox": [
+            16,
+            244,
+            174,
+            265
+          ],
+          "words": [
+            {
+              "text": "April",
+              "bbox": [
+                147,
+                249,
+                168,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            174,
+            244,
+            242,
+            265
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                179,
+                249,
+                198,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "25.0",
+          "bbox": [
+            242,
+            244,
+            309,
+            265
+          ],
+          "words": [
+            {
+              "text": "25.0",
+              "bbox": [
+                286,
+                249,
+                304,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "135",
+          "bbox": [
+            309,
+            244,
+            377,
+            265
+          ],
+          "words": [
+            {
+              "text": "135",
+              "bbox": [
+                357,
+                249,
+                372,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            377,
+            244,
+            445,
+            265
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                429,
+                249,
+                439,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "2.5",
+          "bbox": [
+            445,
+            244,
+            512,
+            265
+          ],
+          "words": [
+            {
+              "text": "2.5",
+              "bbox": [
+                494,
+                249,
+                507,
+                260
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "1300",
+          "bbox": [
+            512,
+            244,
+            580,
+            265
+          ],
+          "words": [
+            {
+              "text": "1300",
+              "bbox": [
+                554,
+                249,
+                574,
+                260
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        281,
+        580,
+        342
+      ],
+      "content": "The accompanying data table provides a comprehensive overview of key metrics, including the OccupancyRate(%) and Revenue(€M), which illustrate the fluctuating demand patterns throughout the year. Notably, the analysis reveals a significant correlation between peak travel months and increased occupancy rates, underscoring the importance of strategic marketing and pricing initiatives during high-demand periods.",
+      "lines": [
+        {
+          "text": "The accompanying data table provides a comprehensive overview of key metrics, including the OccupancyRate(%) and",
+          "bbox": [
+            15,
+            282,
+            580,
+            294
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                282,
+                32,
+                294
+              ]
+            },
+            {
+              "text": "accompanying",
+              "bbox": [
+                38,
+                282,
+                102,
+                294
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                107,
+                282,
+                126,
+                294
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                131,
+                282,
+                152,
+                294
+              ]
+            },
+            {
+              "text": "provides",
+              "bbox": [
+                158,
+                282,
+                196,
+                294
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                201,
+                282,
+                206,
+                294
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                212,
+                282,
+                278,
+                294
+              ]
+            },
+            {
+              "text": "overview",
+              "bbox": [
+                284,
+                282,
+                325,
+                294
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                330,
+                282,
+                339,
+                294
+              ]
+            },
+            {
+              "text": "key",
+              "bbox": [
+                345,
+                282,
+                361,
+                294
+              ]
+            },
+            {
+              "text": "metrics,",
+              "bbox": [
+                366,
+                282,
+                401,
+                294
+              ]
+            },
+            {
+              "text": "including",
+              "bbox": [
+                407,
+                282,
+                448,
+                294
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                454,
+                282,
+                467,
+                294
+              ]
+            },
+            {
+              "text": "OccupancyRate(%)",
+              "bbox": [
+                473,
+                282,
+                559,
+                294
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                282,
+                580,
+                294
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Revenue(€M), which illustrate the fluctuating demand patterns throughout the year. Notably, the analysis reveals a significant",
+          "bbox": [
+            15,
+            297,
+            580,
+            309
+          ],
+          "words": [
+            {
+              "text": "Revenue(€M),",
+              "bbox": [
+                15,
+                297,
+                79,
+                309
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                82,
+                297,
+                109,
+                309
+              ]
+            },
+            {
+              "text": "illustrate",
+              "bbox": [
+                113,
+                297,
+                151,
+                309
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                155,
+                297,
+                168,
+                309
+              ]
+            },
+            {
+              "text": "fluctuating",
+              "bbox": [
+                172,
+                297,
+                220,
+                309
+              ]
+            },
+            {
+              "text": "demand",
+              "bbox": [
+                223,
+                297,
+                258,
+                309
+              ]
+            },
+            {
+              "text": "patterns",
+              "bbox": [
+                262,
+                297,
+                296,
+                309
+              ]
+            },
+            {
+              "text": "throughout",
+              "bbox": [
+                300,
+                297,
+                348,
+                309
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                352,
+                297,
+                365,
+                309
+              ]
+            },
+            {
+              "text": "year.",
+              "bbox": [
+                369,
+                297,
+                390,
+                309
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                393,
+                297,
+                431,
+                309
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                434,
+                297,
+                448,
+                309
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                451,
+                297,
+                487,
+                309
+              ]
+            },
+            {
+              "text": "reveals",
+              "bbox": [
+                490,
+                297,
+                522,
+                309
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                525,
+                297,
+                530,
+                309
+              ]
+            },
+            {
+              "text": "significant",
+              "bbox": [
+                534,
+                297,
+                580,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "text": "correlation between peak travel months and increased occupancy rates, underscoring the importance of strategic marketing and",
+          "bbox": [
+            15,
+            313,
+            580,
+            325
+          ],
+          "words": [
+            {
+              "text": "correlation",
+              "bbox": [
+                15,
+                313,
+                63,
+                325
+              ]
+            },
+            {
+              "text": "between",
+              "bbox": [
+                66,
+                313,
+                102,
+                325
+              ]
+            },
+            {
+              "text": "peak",
+              "bbox": [
+                106,
+                313,
+                126,
+                325
+              ]
+            },
+            {
+              "text": "travel",
+              "bbox": [
+                130,
+                313,
+                155,
+                325
+              ]
+            },
+            {
+              "text": "months",
+              "bbox": [
+                158,
+                313,
+                190,
+                325
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                193,
+                313,
+                209,
+                325
+              ]
+            },
+            {
+              "text": "increased",
+              "bbox": [
+                212,
+                313,
+                254,
+                325
+              ]
+            },
+            {
+              "text": "occupancy",
+              "bbox": [
+                257,
+                313,
+                304,
+                325
+              ]
+            },
+            {
+              "text": "rates,",
+              "bbox": [
+                307,
+                313,
+                331,
+                325
+              ]
+            },
+            {
+              "text": "underscoring",
+              "bbox": [
+                334,
+                313,
+                391,
+                325
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                394,
+                313,
+                408,
+                325
+              ]
+            },
+            {
+              "text": "importance",
+              "bbox": [
+                411,
+                313,
+                460,
+                325
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                464,
+                313,
+                473,
+                325
+              ]
+            },
+            {
+              "text": "strategic",
+              "bbox": [
+                476,
+                313,
+                513,
+                325
+              ]
+            },
+            {
+              "text": "marketing",
+              "bbox": [
+                516,
+                313,
+                561,
+                325
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                564,
+                313,
+                580,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "text": "pricing initiatives during high-demand periods.",
+          "bbox": [
+            15,
+            328,
+            222,
+            340
+          ],
+          "words": [
+            {
+              "text": "pricing",
+              "bbox": [
+                15,
+                328,
+                46,
+                340
+              ]
+            },
+            {
+              "text": "initiatives",
+              "bbox": [
+                49,
+                328,
+                92,
+                340
+              ]
+            },
+            {
+              "text": "during",
+              "bbox": [
+                95,
+                328,
+                124,
+                340
+              ]
+            },
+            {
+              "text": "high-demand",
+              "bbox": [
+                127,
+                328,
+                185,
+                340
+              ]
+            },
+            {
+              "text": "periods.",
+              "bbox": [
+                187,
+                328,
+                222,
+                340
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_199049_t1",
+      "bbox": [
+        15,
+        365,
+        580,
+        502
+      ],
+      "attributes": {
+        "T1": "Yes",
+        "T2": 2,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            366,
+            580,
+            386
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            386,
+            580,
+            407
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            407,
+            580,
+            427
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            427,
+            580,
+            447
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            447,
+            580,
+            467
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            467,
+            580,
+            502
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\">CruisePassengerVolume</td><td colspan=\"2\">Revenue(EUR)</td><td colspan=\"2\">NetIncome(€M)</td><td colspan=\"2\">CAPEX(€M)</td><td colspan=\"2\">GrowthRate(%)</td></tr><tr><td>2023</td><td>50M</td><td>150M</td><td>30M</td><td>10M</td><td>5.0%</td><td>2024</td><td>55M</td><td>170M</td><td>35M</td></tr></thead><tbody><tr><td>15M</td><td>10.0%</td><td>Q1</td><td>20M</td><td>60M</td><td>12M</td><td>3M</td><td>6.0%</td><td>Q2</td><td>15M</td></tr><tr><td>45M</td><td>10M</td><td>2M</td><td>7.0%</td><td>Q3</td><td>10M</td><td>30M</td><td>8M</td><td>2M</td><td>5.5%</td></tr><tr><td>Q4</td><td>10M</td><td>35M</td><td>5M</td><td>3M</td><td>4.5%</td><td>Total</td><td>55M</td><td>170M</td><td>35M</td></tr><tr><td>Europe</td><td>Growth(%)</td><td>RevenueGrowth</td><td>PassengerGrowth</td><td>2023-2024</td><td>10.0%</td><td>15.0%</td><td>5.0%</td><td>NetProfitMargin</td><td>20.0%</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "CruisePassengerVolume",
+          "bbox": [
+            15,
+            366,
+            183,
+            386
+          ],
+          "words": [
+            {
+              "text": "CruisePassengerVolume",
+              "bbox": [
+                20,
+                370,
+                124,
+                381
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2,
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "Revenue(EUR)",
+          "bbox": [
+            183,
+            366,
+            283,
+            386
+          ],
+          "words": [
+            {
+              "text": "Revenue(EUR)",
+              "bbox": [
+                188,
+                370,
+                253,
+                381
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4,
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "NetIncome(€M)",
+          "bbox": [
+            283,
+            366,
+            382,
+            386
+          ],
+          "words": [
+            {
+              "text": "NetIncome(€M)",
+              "bbox": [
+                309,
+                370,
+                377,
+                381
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            6,
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "CAPEX(€M)",
+          "bbox": [
+            382,
+            366,
+            482,
+            386
+          ],
+          "words": [
+            {
+              "text": "CAPEX(€M)",
+              "bbox": [
+                421,
+                370,
+                477,
+                381
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            8,
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "GrowthRate(%)",
+          "bbox": [
+            482,
+            366,
+            580,
+            386
+          ],
+          "words": [
+            {
+              "text": "GrowthRate(%)",
+              "bbox": [
+                505,
+                370,
+                575,
+                381
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "2023",
+          "bbox": [
+            15,
+            386,
+            99,
+            407
+          ],
+          "words": [
+            {
+              "text": "2023",
+              "bbox": [
+                20,
+                390,
+                40,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "50M",
+          "bbox": [
+            99,
+            386,
+            183,
+            407
+          ],
+          "words": [
+            {
+              "text": "50M",
+              "bbox": [
+                159,
+                390,
+                178,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "150M",
+          "bbox": [
+            183,
+            386,
+            233,
+            407
+          ],
+          "words": [
+            {
+              "text": "150M",
+              "bbox": [
+                188,
+                390,
+                213,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "30M",
+          "bbox": [
+            233,
+            386,
+            283,
+            407
+          ],
+          "words": [
+            {
+              "text": "30M",
+              "bbox": [
+                258,
+                390,
+                278,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "10M",
+          "bbox": [
+            283,
+            386,
+            333,
+            407
+          ],
+          "words": [
+            {
+              "text": "10M",
+              "bbox": [
+                308,
+                390,
+                328,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": true,
+          "cell_text": "5.0%",
+          "bbox": [
+            333,
+            386,
+            382,
+            407
+          ],
+          "words": [
+            {
+              "text": "5.0%",
+              "bbox": [
+                355,
+                390,
+                377,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": true,
+          "cell_text": "2024",
+          "bbox": [
+            382,
+            386,
+            432,
+            407
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                407,
+                390,
+                427,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": true,
+          "cell_text": "55M",
+          "bbox": [
+            432,
+            386,
+            482,
+            407
+          ],
+          "words": [
+            {
+              "text": "55M",
+              "bbox": [
+                457,
+                390,
+                477,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "170M",
+          "bbox": [
+            482,
+            386,
+            531,
+            407
+          ],
+          "words": [
+            {
+              "text": "170M",
+              "bbox": [
+                502,
+                390,
+                526,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": true,
+          "cell_text": "35M",
+          "bbox": [
+            531,
+            386,
+            580,
+            407
+          ],
+          "words": [
+            {
+              "text": "35M",
+              "bbox": [
+                556,
+                390,
+                575,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "15M",
+          "bbox": [
+            15,
+            407,
+            99,
+            427
+          ],
+          "words": [
+            {
+              "text": "15M",
+              "bbox": [
+                20,
+                411,
+                39,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0%",
+          "bbox": [
+            99,
+            407,
+            183,
+            427
+          ],
+          "words": [
+            {
+              "text": "10.0%",
+              "bbox": [
+                153,
+                411,
+                178,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Q1",
+          "bbox": [
+            183,
+            407,
+            233,
+            427
+          ],
+          "words": [
+            {
+              "text": "Q1",
+              "bbox": [
+                188,
+                411,
+                201,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "20M",
+          "bbox": [
+            233,
+            407,
+            283,
+            427
+          ],
+          "words": [
+            {
+              "text": "20M",
+              "bbox": [
+                259,
+                411,
+                278,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "60M",
+          "bbox": [
+            283,
+            407,
+            333,
+            427
+          ],
+          "words": [
+            {
+              "text": "60M",
+              "bbox": [
+                309,
+                411,
+                328,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "12M",
+          "bbox": [
+            333,
+            407,
+            382,
+            427
+          ],
+          "words": [
+            {
+              "text": "12M",
+              "bbox": [
+                358,
+                411,
+                377,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "3M",
+          "bbox": [
+            382,
+            407,
+            432,
+            427
+          ],
+          "words": [
+            {
+              "text": "3M",
+              "bbox": [
+                413,
+                411,
+                427,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "6.0%",
+          "bbox": [
+            432,
+            407,
+            482,
+            427
+          ],
+          "words": [
+            {
+              "text": "6.0%",
+              "bbox": [
+                456,
+                411,
+                477,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "Q2",
+          "bbox": [
+            482,
+            407,
+            531,
+            427
+          ],
+          "words": [
+            {
+              "text": "Q2",
+              "bbox": [
+                514,
+                411,
+                526,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "15M",
+          "bbox": [
+            531,
+            407,
+            580,
+            427
+          ],
+          "words": [
+            {
+              "text": "15M",
+              "bbox": [
+                556,
+                411,
+                575,
+                422
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "45M",
+          "bbox": [
+            15,
+            427,
+            99,
+            447
+          ],
+          "words": [
+            {
+              "text": "45M",
+              "bbox": [
+                20,
+                431,
+                39,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10M",
+          "bbox": [
+            99,
+            427,
+            183,
+            447
+          ],
+          "words": [
+            {
+              "text": "10M",
+              "bbox": [
+                159,
+                431,
+                178,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2M",
+          "bbox": [
+            183,
+            427,
+            233,
+            447
+          ],
+          "words": [
+            {
+              "text": "2M",
+              "bbox": [
+                188,
+                431,
+                202,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "7.0%",
+          "bbox": [
+            233,
+            427,
+            283,
+            447
+          ],
+          "words": [
+            {
+              "text": "7.0%",
+              "bbox": [
+                257,
+                431,
+                278,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "Q3",
+          "bbox": [
+            283,
+            427,
+            333,
+            447
+          ],
+          "words": [
+            {
+              "text": "Q3",
+              "bbox": [
+                315,
+                431,
+                328,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "10M",
+          "bbox": [
+            333,
+            427,
+            382,
+            447
+          ],
+          "words": [
+            {
+              "text": "10M",
+              "bbox": [
+                358,
+                431,
+                377,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "30M",
+          "bbox": [
+            382,
+            427,
+            432,
+            447
+          ],
+          "words": [
+            {
+              "text": "30M",
+              "bbox": [
+                408,
+                431,
+                427,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "8M",
+          "bbox": [
+            432,
+            427,
+            482,
+            447
+          ],
+          "words": [
+            {
+              "text": "8M",
+              "bbox": [
+                463,
+                431,
+                477,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "2M",
+          "bbox": [
+            482,
+            427,
+            531,
+            447
+          ],
+          "words": [
+            {
+              "text": "2M",
+              "bbox": [
+                512,
+                431,
+                526,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "5.5%",
+          "bbox": [
+            531,
+            427,
+            580,
+            447
+          ],
+          "words": [
+            {
+              "text": "5.5%",
+              "bbox": [
+                554,
+                431,
+                575,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Q4",
+          "bbox": [
+            15,
+            447,
+            99,
+            467
+          ],
+          "words": [
+            {
+              "text": "Q4",
+              "bbox": [
+                20,
+                451,
+                32,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10M",
+          "bbox": [
+            99,
+            447,
+            183,
+            467
+          ],
+          "words": [
+            {
+              "text": "10M",
+              "bbox": [
+                159,
+                451,
+                178,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "35M",
+          "bbox": [
+            183,
+            447,
+            233,
+            467
+          ],
+          "words": [
+            {
+              "text": "35M",
+              "bbox": [
+                188,
+                451,
+                207,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5M",
+          "bbox": [
+            233,
+            447,
+            283,
+            467
+          ],
+          "words": [
+            {
+              "text": "5M",
+              "bbox": [
+                264,
+                451,
+                278,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "3M",
+          "bbox": [
+            283,
+            447,
+            333,
+            467
+          ],
+          "words": [
+            {
+              "text": "3M",
+              "bbox": [
+                314,
+                451,
+                328,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "4.5%",
+          "bbox": [
+            333,
+            447,
+            382,
+            467
+          ],
+          "words": [
+            {
+              "text": "4.5%",
+              "bbox": [
+                356,
+                451,
+                377,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            382,
+            447,
+            432,
+            467
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                407,
+                451,
+                427,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "55M",
+          "bbox": [
+            432,
+            447,
+            482,
+            467
+          ],
+          "words": [
+            {
+              "text": "55M",
+              "bbox": [
+                458,
+                451,
+                477,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "170M",
+          "bbox": [
+            482,
+            447,
+            531,
+            467
+          ],
+          "words": [
+            {
+              "text": "170M",
+              "bbox": [
+                502,
+                451,
+                526,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "35M",
+          "bbox": [
+            531,
+            447,
+            580,
+            467
+          ],
+          "words": [
+            {
+              "text": "35M",
+              "bbox": [
+                556,
+                451,
+                575,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Europe",
+          "bbox": [
+            15,
+            467,
+            99,
+            502
+          ],
+          "words": [
+            {
+              "text": "Europe",
+              "bbox": [
+                20,
+                471,
+                49,
+                482
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "Growth(%)",
+          "bbox": [
+            99,
+            467,
+            183,
+            502
+          ],
+          "words": [
+            {
+              "text": "Growth(%)",
+              "bbox": [
+                133,
+                471,
+                178,
+                482
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "RevenueGrowth",
+          "bbox": [
+            183,
+            467,
+            233,
+            502
+          ],
+          "words": [
+            {
+              "text": "RevenueGrowth",
+              "bbox": [
+                188,
+                471,
+                223,
+                496
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "PassengerGrowth",
+          "bbox": [
+            233,
+            467,
+            283,
+            502
+          ],
+          "words": [
+            {
+              "text": "PassengerGrowth",
+              "bbox": [
+                241,
+                471,
+                278,
+                496
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "2023-2024",
+          "bbox": [
+            283,
+            467,
+            333,
+            502
+          ],
+          "words": [
+            {
+              "text": "2023-2024",
+              "bbox": [
+                304,
+                471,
+                328,
+                496
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0%",
+          "bbox": [
+            333,
+            467,
+            382,
+            502
+          ],
+          "words": [
+            {
+              "text": "10.0%",
+              "bbox": [
+                351,
+                471,
+                377,
+                482
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "15.0%",
+          "bbox": [
+            382,
+            467,
+            432,
+            502
+          ],
+          "words": [
+            {
+              "text": "15.0%",
+              "bbox": [
+                401,
+                471,
+                427,
+                482
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0%",
+          "bbox": [
+            432,
+            467,
+            482,
+            502
+          ],
+          "words": [
+            {
+              "text": "5.0%",
+              "bbox": [
+                456,
+                471,
+                477,
+                482
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 53,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "NetProfitMargin",
+          "bbox": [
+            482,
+            467,
+            531,
+            502
+          ],
+          "words": [
+            {
+              "text": "NetProfitMargin",
+              "bbox": [
+                489,
+                471,
+                526,
+                496
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 54,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            9
+          ],
+          "is_column_header": false,
+          "cell_text": "20.0%",
+          "bbox": [
+            531,
+            467,
+            580,
+            502
+          ],
+          "words": [
+            {
+              "text": "20.0%",
+              "bbox": [
+                549,
+                471,
+                575,
+                482
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        517,
+        580,
+        564
+      ],
+      "content": "Furthermore, as cruise passenger volume continues to rise, exemplified by a projected increase to 55 million by 2024, hospitality providers must adapt to shifting consumer behaviors and preferences. Additionally, the table highlights the critical role of loyalty program enrollment, as customer retention strategies become increasingly vital in a competitive market.",
+      "lines": [
+        {
+          "text": "Furthermore, as cruise passenger volume continues to rise, exemplified by a projected increase to 55 million by 2024,",
+          "bbox": [
+            15,
+            518,
+            580,
+            530
+          ],
+          "words": [
+            {
+              "text": "Furthermore,",
+              "bbox": [
+                15,
+                518,
+                73,
+                530
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                78,
+                518,
+                87,
+                530
+              ]
+            },
+            {
+              "text": "cruise",
+              "bbox": [
+                93,
+                518,
+                119,
+                530
+              ]
+            },
+            {
+              "text": "passenger",
+              "bbox": [
+                125,
+                518,
+                168,
+                530
+              ]
+            },
+            {
+              "text": "volume",
+              "bbox": [
+                174,
+                518,
+                207,
+                530
+              ]
+            },
+            {
+              "text": "continues",
+              "bbox": [
+                212,
+                518,
+                254,
+                530
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                260,
+                518,
+                268,
+                530
+              ]
+            },
+            {
+              "text": "rise,",
+              "bbox": [
+                274,
+                518,
+                292,
+                530
+              ]
+            },
+            {
+              "text": "exemplified",
+              "bbox": [
+                298,
+                518,
+                350,
+                530
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                356,
+                518,
+                367,
+                530
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                373,
+                518,
+                377,
+                530
+              ]
+            },
+            {
+              "text": "projected",
+              "bbox": [
+                383,
+                518,
+                424,
+                530
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                429,
+                518,
+                465,
+                530
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                471,
+                518,
+                479,
+                530
+              ]
+            },
+            {
+              "text": "55",
+              "bbox": [
+                485,
+                518,
+                496,
+                530
+              ]
+            },
+            {
+              "text": "million",
+              "bbox": [
+                501,
+                518,
+                533,
+                530
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                539,
+                518,
+                550,
+                530
+              ]
+            },
+            {
+              "text": "2024,",
+              "bbox": [
+                555,
+                518,
+                580,
+                530
+              ]
+            }
+          ]
+        },
+        {
+          "text": "hospitality providers must adapt to shifting consumer behaviors and preferences. Additionally, the table highlights the critical",
+          "bbox": [
+            15,
+            534,
+            580,
+            546
+          ],
+          "words": [
+            {
+              "text": "hospitality",
+              "bbox": [
+                15,
+                534,
+                61,
+                546
+              ]
+            },
+            {
+              "text": "providers",
+              "bbox": [
+                65,
+                534,
+                107,
+                546
+              ]
+            },
+            {
+              "text": "must",
+              "bbox": [
+                110,
+                534,
+                132,
+                546
+              ]
+            },
+            {
+              "text": "adapt",
+              "bbox": [
+                135,
+                534,
+                159,
+                546
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                163,
+                534,
+                171,
+                546
+              ]
+            },
+            {
+              "text": "shifting",
+              "bbox": [
+                175,
+                534,
+                209,
+                546
+              ]
+            },
+            {
+              "text": "consumer",
+              "bbox": [
+                212,
+                534,
+                255,
+                546
+              ]
+            },
+            {
+              "text": "behaviors",
+              "bbox": [
+                259,
+                534,
+                302,
+                546
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                305,
+                534,
+                321,
+                546
+              ]
+            },
+            {
+              "text": "preferences.",
+              "bbox": [
+                325,
+                534,
+                378,
+                546
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                381,
+                534,
+                439,
+                546
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                443,
+                534,
+                456,
+                546
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                460,
+                534,
+                481,
+                546
+              ]
+            },
+            {
+              "text": "highlights",
+              "bbox": [
+                485,
+                534,
+                529,
+                546
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                532,
+                534,
+                546,
+                546
+              ]
+            },
+            {
+              "text": "critical",
+              "bbox": [
+                549,
+                534,
+                580,
+                546
+              ]
+            }
+          ]
+        },
+        {
+          "text": "role of loyalty program enrollment, as customer retention strategies become increasingly vital in a competitive market.",
+          "bbox": [
+            15,
+            549,
+            537,
+            561
+          ],
+          "words": [
+            {
+              "text": "role",
+              "bbox": [
+                15,
+                549,
+                32,
+                561
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                35,
+                549,
+                44,
+                561
+              ]
+            },
+            {
+              "text": "loyalty",
+              "bbox": [
+                47,
+                549,
+                77,
+                561
+              ]
+            },
+            {
+              "text": "program",
+              "bbox": [
+                80,
+                549,
+                117,
+                561
+              ]
+            },
+            {
+              "text": "enrollment,",
+              "bbox": [
+                120,
+                549,
+                170,
+                561
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                173,
+                549,
+                182,
+                561
+              ]
+            },
+            {
+              "text": "customer",
+              "bbox": [
+                185,
+                549,
+                225,
+                561
+              ]
+            },
+            {
+              "text": "retention",
+              "bbox": [
+                228,
+                549,
+                267,
+                561
+              ]
+            },
+            {
+              "text": "strategies",
+              "bbox": [
+                270,
+                549,
+                312,
+                561
+              ]
+            },
+            {
+              "text": "become",
+              "bbox": [
+                314,
+                549,
+                349,
+                561
+              ]
+            },
+            {
+              "text": "increasingly",
+              "bbox": [
+                351,
+                549,
+                405,
+                561
+              ]
+            },
+            {
+              "text": "vital",
+              "bbox": [
+                408,
+                549,
+                427,
+                561
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                430,
+                549,
+                439,
+                561
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                441,
+                549,
+                446,
+                561
+              ]
+            },
+            {
+              "text": "competitive",
+              "bbox": [
+                449,
+                549,
+                501,
+                561
+              ]
+            },
+            {
+              "text": "market.",
+              "bbox": [
+                504,
+                549,
+                537,
+                561
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_199049_t2",
+      "bbox": [
+        15,
+        586,
+        580,
+        709
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 4,
+        "T3": "None",
+        "T4": "ThreeLine"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            586,
+            580,
+            607
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            607,
+            580,
+            627
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            627,
+            580,
+            647
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            647,
+            580,
+            667
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            667,
+            580,
+            688
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            688,
+            580,
+            708
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td colspan=\"2\">LoyaltyProgramMetrics</td><td>EnrollmentGrowth(%)</td></tr><tr><td colspan=\"2\">TotalEnrollments</td><td>ActiveMembers(%)</td></tr><tr><td colspan=\"2\">RevenuefromMembers</td><td>Avg.SpendperMember</td></tr><tr><td>2023</td><td>2024</td><td>Change(%)</td></tr></thead><tbody><tr><td>1,500,000</td><td>1,650,000</td><td>10.0</td></tr><tr><td>75%</td><td>80%</td><td>5.0</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "LoyaltyProgramMetrics",
+          "bbox": [
+            15,
+            586,
+            470,
+            607
+          ],
+          "words": [
+            {
+              "text": "LoyaltyProgramMetrics",
+              "bbox": [
+                20,
+                591,
+                124,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "EnrollmentGrowth(%)",
+          "bbox": [
+            470,
+            586,
+            580,
+            607
+          ],
+          "words": [
+            {
+              "text": "EnrollmentGrowth(%)",
+              "bbox": [
+                476,
+                591,
+                575,
+                602
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "TotalEnrollments",
+          "bbox": [
+            15,
+            607,
+            470,
+            627
+          ],
+          "words": [
+            {
+              "text": "TotalEnrollments",
+              "bbox": [
+                20,
+                611,
+                94,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "ActiveMembers(%)",
+          "bbox": [
+            470,
+            607,
+            580,
+            627
+          ],
+          "words": [
+            {
+              "text": "ActiveMembers(%)",
+              "bbox": [
+                491,
+                611,
+                575,
+                622
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0,
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "RevenuefromMembers",
+          "bbox": [
+            15,
+            627,
+            470,
+            647
+          ],
+          "words": [
+            {
+              "text": "RevenuefromMembers",
+              "bbox": [
+                20,
+                631,
+                118,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Avg.SpendperMember",
+          "bbox": [
+            470,
+            627,
+            580,
+            647
+          ],
+          "words": [
+            {
+              "text": "Avg.SpendperMember",
+              "bbox": [
+                478,
+                631,
+                575,
+                642
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "2023",
+          "bbox": [
+            15,
+            647,
+            242,
+            667
+          ],
+          "words": [
+            {
+              "text": "2023",
+              "bbox": [
+                20,
+                651,
+                40,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "2024",
+          "bbox": [
+            242,
+            647,
+            470,
+            667
+          ],
+          "words": [
+            {
+              "text": "2024",
+              "bbox": [
+                247,
+                651,
+                267,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "Change(%)",
+          "bbox": [
+            470,
+            647,
+            580,
+            667
+          ],
+          "words": [
+            {
+              "text": "Change(%)",
+              "bbox": [
+                526,
+                651,
+                575,
+                662
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "1,500,000",
+          "bbox": [
+            15,
+            667,
+            242,
+            688
+          ],
+          "words": [
+            {
+              "text": "1,500,000",
+              "bbox": [
+                20,
+                672,
+                60,
+                683
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1,650,000",
+          "bbox": [
+            242,
+            667,
+            470,
+            688
+          ],
+          "words": [
+            {
+              "text": "1,650,000",
+              "bbox": [
+                247,
+                672,
+                287,
+                683
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "10.0",
+          "bbox": [
+            470,
+            667,
+            580,
+            688
+          ],
+          "words": [
+            {
+              "text": "10.0",
+              "bbox": [
+                558,
+                672,
+                575,
+                683
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "75%",
+          "bbox": [
+            15,
+            688,
+            242,
+            708
+          ],
+          "words": [
+            {
+              "text": "75%",
+              "bbox": [
+                20,
+                692,
+                38,
+                703
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "80%",
+          "bbox": [
+            242,
+            688,
+            470,
+            708
+          ],
+          "words": [
+            {
+              "text": "80%",
+              "bbox": [
+                247,
+                692,
+                266,
+                703
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "5.0",
+          "bbox": [
+            470,
+            688,
+            580,
+            708
+          ],
+          "words": [
+            {
+              "text": "5.0",
+              "bbox": [
+                563,
+                692,
+                575,
+                703
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        724,
+        580,
+        754
+      ],
+      "content": "By leveraging this data, stakeholders can make informed decisions to enhance operational efficiency, optimize pricing models, and ultimately drive profitability in an evolving landscape marked by both opportunities and challenges.",
+      "lines": [
+        {
+          "text": "By leveraging this data, stakeholders can make informed decisions to enhance operational efficiency, optimize pricing models,",
+          "bbox": [
+            15,
+            725,
+            580,
+            737
+          ],
+          "words": [
+            {
+              "text": "By",
+              "bbox": [
+                15,
+                725,
+                28,
+                737
+              ]
+            },
+            {
+              "text": "leveraging",
+              "bbox": [
+                31,
+                725,
+                78,
+                737
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                81,
+                725,
+                97,
+                737
+              ]
+            },
+            {
+              "text": "data,",
+              "bbox": [
+                100,
+                725,
+                121,
+                737
+              ]
+            },
+            {
+              "text": "stakeholders",
+              "bbox": [
+                124,
+                725,
+                179,
+                737
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                183,
+                725,
+                198,
+                737
+              ]
+            },
+            {
+              "text": "make",
+              "bbox": [
+                201,
+                725,
+                225,
+                737
+              ]
+            },
+            {
+              "text": "informed",
+              "bbox": [
+                228,
+                725,
+                269,
+                737
+              ]
+            },
+            {
+              "text": "decisions",
+              "bbox": [
+                272,
+                725,
+                313,
+                737
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                316,
+                725,
+                325,
+                737
+              ]
+            },
+            {
+              "text": "enhance",
+              "bbox": [
+                328,
+                725,
+                364,
+                737
+              ]
+            },
+            {
+              "text": "operational",
+              "bbox": [
+                367,
+                725,
+                417,
+                737
+              ]
+            },
+            {
+              "text": "efficiency,",
+              "bbox": [
+                420,
+                725,
+                466,
+                737
+              ]
+            },
+            {
+              "text": "optimize",
+              "bbox": [
+                469,
+                725,
+                508,
+                737
+              ]
+            },
+            {
+              "text": "pricing",
+              "bbox": [
+                511,
+                725,
+                542,
+                737
+              ]
+            },
+            {
+              "text": "models,",
+              "bbox": [
+                545,
+                725,
+                580,
+                737
+              ]
+            }
+          ]
+        },
+        {
+          "text": "and ultimately drive profitability in an evolving landscape marked by both opportunities and challenges.",
+          "bbox": [
+            15,
+            740,
+            474,
+            752
+          ],
+          "words": [
+            {
+              "text": "and",
+              "bbox": [
+                15,
+                740,
+                31,
+                752
+              ]
+            },
+            {
+              "text": "ultimately",
+              "bbox": [
+                34,
+                740,
+                78,
+                752
+              ]
+            },
+            {
+              "text": "drive",
+              "bbox": [
+                81,
+                740,
+                104,
+                752
+              ]
+            },
+            {
+              "text": "profitability",
+              "bbox": [
+                106,
+                740,
+                159,
+                752
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                162,
+                740,
+                170,
+                752
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                173,
+                740,
+                183,
+                752
+              ]
+            },
+            {
+              "text": "evolving",
+              "bbox": [
+                186,
+                740,
+                225,
+                752
+              ]
+            },
+            {
+              "text": "landscape",
+              "bbox": [
+                227,
+                740,
+                271,
+                752
+              ]
+            },
+            {
+              "text": "marked",
+              "bbox": [
+                273,
+                740,
+                306,
+                752
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                309,
+                740,
+                320,
+                752
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                323,
+                740,
+                342,
+                752
+              ]
+            },
+            {
+              "text": "opportunities",
+              "bbox": [
+                345,
+                740,
+                403,
+                752
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                406,
+                740,
+                422,
+                752
+              ]
+            },
+            {
+              "text": "challenges.",
+              "bbox": [
+                425,
+                740,
+                474,
+                752
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

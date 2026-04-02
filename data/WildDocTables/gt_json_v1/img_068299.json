@@ -1,0 +1,5223 @@
+{
+  "image_id": "img_068299",
+  "subset": "S2",
+  "image_size": [
+    595,
+    842
+  ],
+  "page": [
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        145,
+        580,
+        176
+      ],
+      "content": "The evaluation of the therapeutic effects of various dosages on experimental animals is crucial for understanding their potential applications in clinical settings.",
+      "lines": [
+        {
+          "text": "The evaluation of the therapeutic effects of various dosages on experimental animals is crucial for understanding their potential",
+          "bbox": [
+            15,
+            146,
+            580,
+            158
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                146,
+                32,
+                158
+              ]
+            },
+            {
+              "text": "evaluation",
+              "bbox": [
+                35,
+                146,
+                81,
+                158
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                84,
+                146,
+                93,
+                158
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                96,
+                146,
+                110,
+                158
+              ]
+            },
+            {
+              "text": "therapeutic",
+              "bbox": [
+                113,
+                146,
+                162,
+                158
+              ]
+            },
+            {
+              "text": "effects",
+              "bbox": [
+                165,
+                146,
+                194,
+                158
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                197,
+                146,
+                206,
+                158
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                209,
+                146,
+                241,
+                158
+              ]
+            },
+            {
+              "text": "dosages",
+              "bbox": [
+                244,
+                146,
+                279,
+                158
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                282,
+                146,
+                293,
+                158
+              ]
+            },
+            {
+              "text": "experimental",
+              "bbox": [
+                296,
+                146,
+                354,
+                158
+              ]
+            },
+            {
+              "text": "animals",
+              "bbox": [
+                357,
+                146,
+                391,
+                158
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                394,
+                146,
+                401,
+                158
+              ]
+            },
+            {
+              "text": "crucial",
+              "bbox": [
+                404,
+                146,
+                434,
+                158
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                437,
+                146,
+                450,
+                158
+              ]
+            },
+            {
+              "text": "understanding",
+              "bbox": [
+                453,
+                146,
+                515,
+                158
+              ]
+            },
+            {
+              "text": "their",
+              "bbox": [
+                518,
+                146,
+                538,
+                158
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                542,
+                146,
+                580,
+                158
+              ]
+            }
+          ]
+        },
+        {
+          "text": "applications in clinical settings.",
+          "bbox": [
+            15,
+            161,
+            154,
+            173
+          ],
+          "words": [
+            {
+              "text": "applications",
+              "bbox": [
+                15,
+                161,
+                68,
+                173
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                71,
+                161,
+                79,
+                173
+              ]
+            },
+            {
+              "text": "clinical",
+              "bbox": [
+                82,
+                161,
+                115,
+                173
+              ]
+            },
+            {
+              "text": "settings.",
+              "bbox": [
+                117,
+                161,
+                154,
+                173
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_068299_t0",
+      "bbox": [
+        15,
+        234,
+        580,
+        361
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "Full"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            16,
+            234,
+            580,
+            255
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            16,
+            255,
+            580,
+            276
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            16,
+            276,
+            580,
+            297
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            16,
+            297,
+            580,
+            318
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            16,
+            318,
+            580,
+            339
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            16,
+            339,
+            580,
+            360
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td>Experimental Animals</td><td>Dosages mg/kg</td><td>% Increase 1 h</td><td>% Increase 2 h</td><td>% Increase 4 h</td></tr></thead><tbody><tr><td>NL</td><td>No treatment</td><td>0.24 ± 0.12</td><td>0.62 ± 0.18</td><td>0.36 ± 0.24</td></tr><tr><td>IC</td><td>No treatment</td><td>2.1 ± 0.47 a</td><td>6.2 ± 0.54 a</td><td>9.4 ± 1.76 a</td></tr><tr><td>IC + LBME</td><td>100</td><td>9.3 ± 0.65 NS</td><td>14.2 ± 2.17 a</td><td>29.6 ± 4.62 b</td></tr><tr><td>IC + HBME</td><td>200</td><td>13.7 ± 1.75 NS</td><td>31.3 ± 4.13 b</td><td>62.71 ± 4.98 b</td></tr><tr><td>IC + Diclofenac</td><td>10</td><td>52.3 ± 6.89 b</td><td>60.1 ± 8.90 b</td><td>71.57 ± 7.32 b</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "Experimental Animals",
+          "bbox": [
+            16,
+            234,
+            164,
+            255
+          ],
+          "words": [
+            {
+              "text": "Experimental",
+              "bbox": [
+                21,
+                239,
+                79,
+                250
+              ]
+            },
+            {
+              "text": "Animals",
+              "bbox": [
+                81,
+                239,
+                117,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": true,
+          "cell_text": "Dosages mg/kg",
+          "bbox": [
+            164,
+            234,
+            267,
+            255
+          ],
+          "words": [
+            {
+              "text": "Dosages",
+              "bbox": [
+                169,
+                239,
+                204,
+                250
+              ]
+            },
+            {
+              "text": "mg/kg",
+              "bbox": [
+                206,
+                239,
+                233,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": true,
+          "cell_text": "% Increase 1 h",
+          "bbox": [
+            267,
+            234,
+            371,
+            255
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                302,
+                239,
+                312,
+                250
+              ]
+            },
+            {
+              "text": "Increase",
+              "bbox": [
+                314,
+                239,
+                350,
+                250
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                353,
+                239,
+                358,
+                250
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                360,
+                239,
+                366,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": true,
+          "cell_text": "% Increase 2 h",
+          "bbox": [
+            371,
+            234,
+            475,
+            255
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                406,
+                239,
+                416,
+                250
+              ]
+            },
+            {
+              "text": "Increase",
+              "bbox": [
+                418,
+                239,
+                454,
+                250
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                457,
+                239,
+                462,
+                250
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                464,
+                239,
+                470,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "% Increase 4 h",
+          "bbox": [
+            475,
+            234,
+            580,
+            255
+          ],
+          "words": [
+            {
+              "text": "%",
+              "bbox": [
+                510,
+                239,
+                520,
+                250
+              ]
+            },
+            {
+              "text": "Increase",
+              "bbox": [
+                523,
+                239,
+                558,
+                250
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                561,
+                239,
+                566,
+                250
+              ]
+            },
+            {
+              "text": "h",
+              "bbox": [
+                568,
+                239,
+                574,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "NL",
+          "bbox": [
+            16,
+            255,
+            164,
+            276
+          ],
+          "words": [
+            {
+              "text": "NL",
+              "bbox": [
+                21,
+                260,
+                34,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "No treatment",
+          "bbox": [
+            164,
+            255,
+            267,
+            276
+          ],
+          "words": [
+            {
+              "text": "No",
+              "bbox": [
+                169,
+                260,
+                182,
+                271
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                184,
+                260,
+                222,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "0.24 ± 0.12",
+          "bbox": [
+            267,
+            255,
+            371,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.24",
+              "bbox": [
+                320,
+                260,
+                338,
+                271
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                340,
+                260,
+                346,
+                271
+              ]
+            },
+            {
+              "text": "0.12",
+              "bbox": [
+                348,
+                260,
+                366,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "0.62 ± 0.18",
+          "bbox": [
+            371,
+            255,
+            475,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.62",
+              "bbox": [
+                424,
+                260,
+                442,
+                271
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                444,
+                260,
+                450,
+                271
+              ]
+            },
+            {
+              "text": "0.18",
+              "bbox": [
+                452,
+                260,
+                470,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "0.36 ± 0.24",
+          "bbox": [
+            475,
+            255,
+            580,
+            276
+          ],
+          "words": [
+            {
+              "text": "0.36",
+              "bbox": [
+                529,
+                260,
+                546,
+                271
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                549,
+                260,
+                554,
+                271
+              ]
+            },
+            {
+              "text": "0.24",
+              "bbox": [
+                556,
+                260,
+                574,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IC",
+          "bbox": [
+            16,
+            276,
+            164,
+            297
+          ],
+          "words": [
+            {
+              "text": "IC",
+              "bbox": [
+                21,
+                281,
+                31,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "No treatment",
+          "bbox": [
+            164,
+            276,
+            267,
+            297
+          ],
+          "words": [
+            {
+              "text": "No",
+              "bbox": [
+                169,
+                281,
+                182,
+                292
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                184,
+                281,
+                222,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "2.1 ± 0.47 a",
+          "bbox": [
+            267,
+            276,
+            371,
+            297
+          ],
+          "words": [
+            {
+              "text": "2.1",
+              "bbox": [
+                318,
+                281,
+                331,
+                292
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                333,
+                281,
+                339,
+                292
+              ]
+            },
+            {
+              "text": "0.47",
+              "bbox": [
+                341,
+                281,
+                359,
+                292
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                361,
+                281,
+                366,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6.2 ± 0.54 a",
+          "bbox": [
+            371,
+            276,
+            475,
+            297
+          ],
+          "words": [
+            {
+              "text": "6.2",
+              "bbox": [
+                422,
+                281,
+                435,
+                292
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                437,
+                281,
+                443,
+                292
+              ]
+            },
+            {
+              "text": "0.54",
+              "bbox": [
+                445,
+                281,
+                463,
+                292
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                465,
+                281,
+                470,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "9.4 ± 1.76 a",
+          "bbox": [
+            475,
+            276,
+            580,
+            297
+          ],
+          "words": [
+            {
+              "text": "9.4",
+              "bbox": [
+                527,
+                281,
+                539,
+                292
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                542,
+                281,
+                547,
+                292
+              ]
+            },
+            {
+              "text": "1.76",
+              "bbox": [
+                550,
+                281,
+                567,
+                292
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                570,
+                281,
+                574,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IC + LBME",
+          "bbox": [
+            16,
+            297,
+            164,
+            318
+          ],
+          "words": [
+            {
+              "text": "IC",
+              "bbox": [
+                21,
+                302,
+                31,
+                313
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                34,
+                302,
+                39,
+                313
+              ]
+            },
+            {
+              "text": "LBME",
+              "bbox": [
+                42,
+                302,
+                69,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "100",
+          "bbox": [
+            164,
+            297,
+            267,
+            318
+          ],
+          "words": [
+            {
+              "text": "100",
+              "bbox": [
+                169,
+                302,
+                184,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "9.3 ± 0.65 NS",
+          "bbox": [
+            267,
+            297,
+            371,
+            318
+          ],
+          "words": [
+            {
+              "text": "9.3",
+              "bbox": [
+                310,
+                302,
+                323,
+                313
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                325,
+                302,
+                331,
+                313
+              ]
+            },
+            {
+              "text": "0.65",
+              "bbox": [
+                333,
+                302,
+                351,
+                313
+              ]
+            },
+            {
+              "text": "NS",
+              "bbox": [
+                353,
+                302,
+                366,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "14.2 ± 2.17 a",
+          "bbox": [
+            371,
+            297,
+            475,
+            318
+          ],
+          "words": [
+            {
+              "text": "14.2",
+              "bbox": [
+                417,
+                302,
+                435,
+                313
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                437,
+                302,
+                443,
+                313
+              ]
+            },
+            {
+              "text": "2.17",
+              "bbox": [
+                445,
+                302,
+                463,
+                313
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                465,
+                302,
+                470,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "29.6 ± 4.62 b",
+          "bbox": [
+            475,
+            297,
+            580,
+            318
+          ],
+          "words": [
+            {
+              "text": "29.6",
+              "bbox": [
+                521,
+                302,
+                539,
+                313
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                541,
+                302,
+                547,
+                313
+              ]
+            },
+            {
+              "text": "4.62",
+              "bbox": [
+                549,
+                302,
+                567,
+                313
+              ]
+            },
+            {
+              "text": "b",
+              "bbox": [
+                569,
+                302,
+                574,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IC + HBME",
+          "bbox": [
+            16,
+            318,
+            164,
+            339
+          ],
+          "words": [
+            {
+              "text": "IC",
+              "bbox": [
+                21,
+                323,
+                31,
+                334
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                34,
+                323,
+                39,
+                334
+              ]
+            },
+            {
+              "text": "HBME",
+              "bbox": [
+                42,
+                323,
+                71,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "200",
+          "bbox": [
+            164,
+            318,
+            267,
+            339
+          ],
+          "words": [
+            {
+              "text": "200",
+              "bbox": [
+                169,
+                323,
+                184,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "13.7 ± 1.75 NS",
+          "bbox": [
+            267,
+            318,
+            371,
+            339
+          ],
+          "words": [
+            {
+              "text": "13.7",
+              "bbox": [
+                305,
+                323,
+                323,
+                334
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                325,
+                323,
+                331,
+                334
+              ]
+            },
+            {
+              "text": "1.75",
+              "bbox": [
+                333,
+                323,
+                351,
+                334
+              ]
+            },
+            {
+              "text": "NS",
+              "bbox": [
+                353,
+                323,
+                366,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "31.3 ± 4.13 b",
+          "bbox": [
+            371,
+            318,
+            475,
+            339
+          ],
+          "words": [
+            {
+              "text": "31.3",
+              "bbox": [
+                417,
+                323,
+                434,
+                334
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                437,
+                323,
+                442,
+                334
+              ]
+            },
+            {
+              "text": "4.13",
+              "bbox": [
+                445,
+                323,
+                462,
+                334
+              ]
+            },
+            {
+              "text": "b",
+              "bbox": [
+                465,
+                323,
+                470,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "62.71 ± 4.98 b",
+          "bbox": [
+            475,
+            318,
+            580,
+            339
+          ],
+          "words": [
+            {
+              "text": "62.71",
+              "bbox": [
+                516,
+                323,
+                539,
+                334
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                541,
+                323,
+                547,
+                334
+              ]
+            },
+            {
+              "text": "4.98",
+              "bbox": [
+                549,
+                323,
+                567,
+                334
+              ]
+            },
+            {
+              "text": "b",
+              "bbox": [
+                569,
+                323,
+                574,
+                334
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "IC + Diclofenac",
+          "bbox": [
+            16,
+            339,
+            164,
+            360
+          ],
+          "words": [
+            {
+              "text": "IC",
+              "bbox": [
+                21,
+                344,
+                31,
+                355
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                34,
+                344,
+                39,
+                355
+              ]
+            },
+            {
+              "text": "Diclofenac",
+              "bbox": [
+                42,
+                344,
+                86,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "10",
+          "bbox": [
+            164,
+            339,
+            267,
+            360
+          ],
+          "words": [
+            {
+              "text": "10",
+              "bbox": [
+                169,
+                344,
+                179,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "52.3 ± 6.89 b",
+          "bbox": [
+            267,
+            339,
+            371,
+            360
+          ],
+          "words": [
+            {
+              "text": "52.3",
+              "bbox": [
+                313,
+                344,
+                330,
+                355
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                333,
+                344,
+                338,
+                355
+              ]
+            },
+            {
+              "text": "6.89",
+              "bbox": [
+                341,
+                344,
+                358,
+                355
+              ]
+            },
+            {
+              "text": "b",
+              "bbox": [
+                361,
+                344,
+                366,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "60.1 ± 8.90 b",
+          "bbox": [
+            371,
+            339,
+            475,
+            360
+          ],
+          "words": [
+            {
+              "text": "60.1",
+              "bbox": [
+                417,
+                344,
+                434,
+                355
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                437,
+                344,
+                442,
+                355
+              ]
+            },
+            {
+              "text": "8.90",
+              "bbox": [
+                445,
+                344,
+                462,
+                355
+              ]
+            },
+            {
+              "text": "b",
+              "bbox": [
+                465,
+                344,
+                470,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "71.57 ± 7.32 b",
+          "bbox": [
+            475,
+            339,
+            580,
+            360
+          ],
+          "words": [
+            {
+              "text": "71.57",
+              "bbox": [
+                516,
+                344,
+                539,
+                355
+              ]
+            },
+            {
+              "text": "±",
+              "bbox": [
+                541,
+                344,
+                547,
+                355
+              ]
+            },
+            {
+              "text": "7.32",
+              "bbox": [
+                549,
+                344,
+                567,
+                355
+              ]
+            },
+            {
+              "text": "b",
+              "bbox": [
+                569,
+                344,
+                574,
+                355
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "table_id": "img_068299_t1",
+      "bbox": [
+        15,
+        441,
+        580,
+        582
+      ],
+      "attributes": {
+        "T1": "No",
+        "T2": 1,
+        "T3": "None",
+        "T4": "HeaderOnly"
+      },
+      "rows": [
+        {
+          "row_idx": 0,
+          "bbox": [
+            15,
+            441,
+            580,
+            461
+          ],
+          "is_header": true
+        },
+        {
+          "row_idx": 1,
+          "bbox": [
+            15,
+            461,
+            580,
+            482
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 2,
+          "bbox": [
+            15,
+            482,
+            580,
+            502
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 3,
+          "bbox": [
+            15,
+            502,
+            580,
+            522
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 4,
+          "bbox": [
+            15,
+            522,
+            580,
+            542
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 5,
+          "bbox": [
+            15,
+            542,
+            580,
+            562
+          ],
+          "is_header": false
+        },
+        {
+          "row_idx": 6,
+          "bbox": [
+            15,
+            562,
+            580,
+            582
+          ],
+          "is_header": false
+        }
+      ],
+      "html": "<table><thead><tr><td></td><td colspan=\"4\">A549</td><td colspan=\"4\">THP-1</td></tr></thead><tbody><tr><td></td><td colspan=\"2\">Neutral Red</td><td colspan=\"2\">MTT</td><td colspan=\"2\">Neutral Red</td><td colspan=\"2\">MTT</td></tr><tr><td></td><td>3 hours</td><td>24 hours</td><td>3 hours</td><td>24 hours</td><td>3 hours</td><td>24 hours</td><td>3 hours</td><td>24 hours</td></tr><tr><td>Lab. A</td><td>1 (2.1%)</td><td>7 (14.9%)</td><td>7 (14.9%)</td><td>8 (17.0%)</td><td>5 (11.4%)</td><td>12 (26.7%)</td><td>8 (18.2%)</td><td>14 (31.1%)</td></tr><tr><td>Lab. B</td><td>2 (4.3%)</td><td>7 (14.9%)</td><td>6 (12.8%)</td><td>7 (14.9%)</td><td>5 (11.4%)</td><td>5 (11.1%)</td><td>13 (29.5%)</td><td>13 (28.9%)</td></tr><tr><td>Lab. C</td><td>2 (4.3%)</td><td>6 (12.8%)</td><td>5 (10.6%)</td><td>7 (14.9%)</td><td>9 (20.5%)</td><td>12 (26.7%)</td><td>6 (13.6%)</td><td>11 (24.4%)</td></tr><tr><td>Total</td><td>5 (10.6%)</td><td>20 (42.5%)</td><td>18 (38.3%)</td><td>22 (46.8%)</td><td>19 (43.2%)</td><td>29 (64.4%)</td><td>27 (61.4%)</td><td>38 (84.4%)</td></tr></tbody></table>",
+      "cells": [
+        {
+          "cell_idx": 0,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": true,
+          "cell_text": "",
+          "bbox": [
+            15,
+            441,
+            60,
+            461
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 1,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_column_header": true,
+          "cell_text": "A549",
+          "bbox": [
+            60,
+            441,
+            317,
+            461
+          ],
+          "words": [
+            {
+              "text": "A549",
+              "bbox": [
+                65,
+                445,
+                87,
+                456
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 2,
+          "row_nums": [
+            0
+          ],
+          "column_nums": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_column_header": true,
+          "cell_text": "THP-1",
+          "bbox": [
+            317,
+            441,
+            580,
+            461
+          ],
+          "words": [
+            {
+              "text": "THP-1",
+              "bbox": [
+                322,
+                445,
+                351,
+                456
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 3,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            461,
+            60,
+            482
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 4,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            1,
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "Neutral Red",
+          "bbox": [
+            60,
+            461,
+            185,
+            482
+          ],
+          "words": [
+            {
+              "text": "Neutral",
+              "bbox": [
+                65,
+                466,
+                95,
+                477
+              ]
+            },
+            {
+              "text": "Red",
+              "bbox": [
+                97,
+                466,
+                113,
+                477
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 5,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            3,
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "MTT",
+          "bbox": [
+            185,
+            461,
+            317,
+            482
+          ],
+          "words": [
+            {
+              "text": "MTT",
+              "bbox": [
+                291,
+                466,
+                312,
+                477
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 6,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            5,
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "Neutral Red",
+          "bbox": [
+            317,
+            461,
+            448,
+            482
+          ],
+          "words": [
+            {
+              "text": "Neutral",
+              "bbox": [
+                322,
+                466,
+                352,
+                477
+              ]
+            },
+            {
+              "text": "Red",
+              "bbox": [
+                354,
+                466,
+                370,
+                477
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 7,
+          "row_nums": [
+            1
+          ],
+          "column_nums": [
+            7,
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "MTT",
+          "bbox": [
+            448,
+            461,
+            580,
+            482
+          ],
+          "words": [
+            {
+              "text": "MTT",
+              "bbox": [
+                453,
+                466,
+                474,
+                477
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 8,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "",
+          "bbox": [
+            15,
+            482,
+            60,
+            502
+          ],
+          "words": []
+        },
+        {
+          "cell_idx": 9,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "3 hours",
+          "bbox": [
+            60,
+            482,
+            119,
+            502
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                65,
+                486,
+                70,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                72,
+                486,
+                94,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 10,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "24 hours",
+          "bbox": [
+            119,
+            482,
+            185,
+            502
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                145,
+                486,
+                155,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                158,
+                486,
+                180,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 11,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "3 hours",
+          "bbox": [
+            185,
+            482,
+            251,
+            502
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                216,
+                486,
+                221,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                224,
+                486,
+                246,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 12,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "24 hours",
+          "bbox": [
+            251,
+            482,
+            317,
+            502
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                277,
+                486,
+                287,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                290,
+                486,
+                312,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 13,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "3 hours",
+          "bbox": [
+            317,
+            482,
+            383,
+            502
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                322,
+                486,
+                327,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                329,
+                486,
+                351,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 14,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "24 hours",
+          "bbox": [
+            383,
+            482,
+            448,
+            502
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                388,
+                486,
+                398,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                400,
+                486,
+                422,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 15,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "3 hours",
+          "bbox": [
+            448,
+            482,
+            514,
+            502
+          ],
+          "words": [
+            {
+              "text": "3",
+              "bbox": [
+                453,
+                486,
+                458,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                461,
+                486,
+                483,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 16,
+          "row_nums": [
+            2
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "24 hours",
+          "bbox": [
+            514,
+            482,
+            580,
+            502
+          ],
+          "words": [
+            {
+              "text": "24",
+              "bbox": [
+                519,
+                486,
+                529,
+                497
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                532,
+                486,
+                554,
+                497
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 17,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Lab. A",
+          "bbox": [
+            15,
+            502,
+            60,
+            522
+          ],
+          "words": [
+            {
+              "text": "Lab.",
+              "bbox": [
+                20,
+                506,
+                38,
+                517
+              ]
+            },
+            {
+              "text": "A",
+              "bbox": [
+                40,
+                506,
+                47,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 18,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "1 (2.1%)",
+          "bbox": [
+            60,
+            502,
+            119,
+            522
+          ],
+          "words": [
+            {
+              "text": "1",
+              "bbox": [
+                65,
+                506,
+                70,
+                517
+              ]
+            },
+            {
+              "text": "(2.1%)",
+              "bbox": [
+                72,
+                506,
+                100,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 19,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "7 (14.9%)",
+          "bbox": [
+            119,
+            502,
+            185,
+            522
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                140,
+                506,
+                145,
+                517
+              ]
+            },
+            {
+              "text": "(14.9%)",
+              "bbox": [
+                148,
+                506,
+                180,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 20,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "7 (14.9%)",
+          "bbox": [
+            185,
+            502,
+            251,
+            522
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                206,
+                506,
+                211,
+                517
+              ]
+            },
+            {
+              "text": "(14.9%)",
+              "bbox": [
+                213,
+                506,
+                246,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 21,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "8 (17.0%)",
+          "bbox": [
+            251,
+            502,
+            317,
+            522
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                272,
+                506,
+                277,
+                517
+              ]
+            },
+            {
+              "text": "(17.0%)",
+              "bbox": [
+                279,
+                506,
+                312,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 22,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5 (11.4%)",
+          "bbox": [
+            317,
+            502,
+            383,
+            522
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                322,
+                506,
+                327,
+                517
+              ]
+            },
+            {
+              "text": "(11.4%)",
+              "bbox": [
+                329,
+                506,
+                361,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 23,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "12 (26.7%)",
+          "bbox": [
+            383,
+            502,
+            448,
+            522
+          ],
+          "words": [
+            {
+              "text": "12",
+              "bbox": [
+                388,
+                506,
+                398,
+                517
+              ]
+            },
+            {
+              "text": "(26.7%)",
+              "bbox": [
+                400,
+                506,
+                433,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 24,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "8 (18.2%)",
+          "bbox": [
+            448,
+            502,
+            514,
+            522
+          ],
+          "words": [
+            {
+              "text": "8",
+              "bbox": [
+                453,
+                506,
+                458,
+                517
+              ]
+            },
+            {
+              "text": "(18.2%)",
+              "bbox": [
+                461,
+                506,
+                493,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 25,
+          "row_nums": [
+            3
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "14 (31.1%)",
+          "bbox": [
+            514,
+            502,
+            580,
+            522
+          ],
+          "words": [
+            {
+              "text": "14",
+              "bbox": [
+                519,
+                506,
+                529,
+                517
+              ]
+            },
+            {
+              "text": "(31.1%)",
+              "bbox": [
+                532,
+                506,
+                564,
+                517
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 26,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Lab. B",
+          "bbox": [
+            15,
+            522,
+            60,
+            542
+          ],
+          "words": [
+            {
+              "text": "Lab.",
+              "bbox": [
+                20,
+                526,
+                38,
+                537
+              ]
+            },
+            {
+              "text": "B",
+              "bbox": [
+                41,
+                526,
+                47,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 27,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2 (4.3%)",
+          "bbox": [
+            60,
+            522,
+            119,
+            542
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                65,
+                526,
+                70,
+                537
+              ]
+            },
+            {
+              "text": "(4.3%)",
+              "bbox": [
+                72,
+                526,
+                100,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 28,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "7 (14.9%)",
+          "bbox": [
+            119,
+            522,
+            185,
+            542
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                140,
+                526,
+                145,
+                537
+              ]
+            },
+            {
+              "text": "(14.9%)",
+              "bbox": [
+                148,
+                526,
+                180,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 29,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "6 (12.8%)",
+          "bbox": [
+            185,
+            522,
+            251,
+            542
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                206,
+                526,
+                211,
+                537
+              ]
+            },
+            {
+              "text": "(12.8%)",
+              "bbox": [
+                213,
+                526,
+                246,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 30,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "7 (14.9%)",
+          "bbox": [
+            251,
+            522,
+            317,
+            542
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                272,
+                526,
+                277,
+                537
+              ]
+            },
+            {
+              "text": "(14.9%)",
+              "bbox": [
+                279,
+                526,
+                312,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 31,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "5 (11.4%)",
+          "bbox": [
+            317,
+            522,
+            383,
+            542
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                322,
+                526,
+                327,
+                537
+              ]
+            },
+            {
+              "text": "(11.4%)",
+              "bbox": [
+                329,
+                526,
+                361,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 32,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "5 (11.1%)",
+          "bbox": [
+            383,
+            522,
+            448,
+            542
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                388,
+                526,
+                393,
+                537
+              ]
+            },
+            {
+              "text": "(11.1%)",
+              "bbox": [
+                395,
+                526,
+                427,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 33,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "13 (29.5%)",
+          "bbox": [
+            448,
+            522,
+            514,
+            542
+          ],
+          "words": [
+            {
+              "text": "13",
+              "bbox": [
+                453,
+                526,
+                463,
+                537
+              ]
+            },
+            {
+              "text": "(29.5%)",
+              "bbox": [
+                466,
+                526,
+                498,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 34,
+          "row_nums": [
+            4
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "13 (28.9%)",
+          "bbox": [
+            514,
+            522,
+            580,
+            542
+          ],
+          "words": [
+            {
+              "text": "13",
+              "bbox": [
+                519,
+                526,
+                529,
+                537
+              ]
+            },
+            {
+              "text": "(28.9%)",
+              "bbox": [
+                532,
+                526,
+                564,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 35,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Lab. C",
+          "bbox": [
+            15,
+            542,
+            60,
+            562
+          ],
+          "words": [
+            {
+              "text": "Lab.",
+              "bbox": [
+                20,
+                546,
+                38,
+                557
+              ]
+            },
+            {
+              "text": "C",
+              "bbox": [
+                41,
+                546,
+                47,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 36,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "2 (4.3%)",
+          "bbox": [
+            60,
+            542,
+            119,
+            562
+          ],
+          "words": [
+            {
+              "text": "2",
+              "bbox": [
+                65,
+                546,
+                70,
+                557
+              ]
+            },
+            {
+              "text": "(4.3%)",
+              "bbox": [
+                72,
+                546,
+                100,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 37,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "6 (12.8%)",
+          "bbox": [
+            119,
+            542,
+            185,
+            562
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                140,
+                546,
+                145,
+                557
+              ]
+            },
+            {
+              "text": "(12.8%)",
+              "bbox": [
+                148,
+                546,
+                180,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 38,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "5 (10.6%)",
+          "bbox": [
+            185,
+            542,
+            251,
+            562
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                206,
+                546,
+                211,
+                557
+              ]
+            },
+            {
+              "text": "(10.6%)",
+              "bbox": [
+                213,
+                546,
+                246,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 39,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "7 (14.9%)",
+          "bbox": [
+            251,
+            542,
+            317,
+            562
+          ],
+          "words": [
+            {
+              "text": "7",
+              "bbox": [
+                272,
+                546,
+                277,
+                557
+              ]
+            },
+            {
+              "text": "(14.9%)",
+              "bbox": [
+                279,
+                546,
+                312,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 40,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "9 (20.5%)",
+          "bbox": [
+            317,
+            542,
+            383,
+            562
+          ],
+          "words": [
+            {
+              "text": "9",
+              "bbox": [
+                322,
+                546,
+                327,
+                557
+              ]
+            },
+            {
+              "text": "(20.5%)",
+              "bbox": [
+                329,
+                546,
+                362,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 41,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "12 (26.7%)",
+          "bbox": [
+            383,
+            542,
+            448,
+            562
+          ],
+          "words": [
+            {
+              "text": "12",
+              "bbox": [
+                388,
+                546,
+                398,
+                557
+              ]
+            },
+            {
+              "text": "(26.7%)",
+              "bbox": [
+                400,
+                546,
+                433,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 42,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "6 (13.6%)",
+          "bbox": [
+            448,
+            542,
+            514,
+            562
+          ],
+          "words": [
+            {
+              "text": "6",
+              "bbox": [
+                453,
+                546,
+                458,
+                557
+              ]
+            },
+            {
+              "text": "(13.6%)",
+              "bbox": [
+                461,
+                546,
+                493,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 43,
+          "row_nums": [
+            5
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "11 (24.4%)",
+          "bbox": [
+            514,
+            542,
+            580,
+            562
+          ],
+          "words": [
+            {
+              "text": "11",
+              "bbox": [
+                519,
+                546,
+                529,
+                557
+              ]
+            },
+            {
+              "text": "(24.4%)",
+              "bbox": [
+                531,
+                546,
+                564,
+                557
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 44,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            0
+          ],
+          "is_column_header": false,
+          "cell_text": "Total",
+          "bbox": [
+            15,
+            562,
+            60,
+            582
+          ],
+          "words": [
+            {
+              "text": "Total",
+              "bbox": [
+                20,
+                566,
+                40,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 45,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            1
+          ],
+          "is_column_header": false,
+          "cell_text": "5 (10.6%)",
+          "bbox": [
+            60,
+            562,
+            119,
+            582
+          ],
+          "words": [
+            {
+              "text": "5",
+              "bbox": [
+                65,
+                566,
+                70,
+                577
+              ]
+            },
+            {
+              "text": "(10.6%)",
+              "bbox": [
+                72,
+                566,
+                105,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 46,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            2
+          ],
+          "is_column_header": false,
+          "cell_text": "20 (42.5%)",
+          "bbox": [
+            119,
+            562,
+            185,
+            582
+          ],
+          "words": [
+            {
+              "text": "20",
+              "bbox": [
+                135,
+                566,
+                145,
+                577
+              ]
+            },
+            {
+              "text": "(42.5%)",
+              "bbox": [
+                148,
+                566,
+                180,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 47,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            3
+          ],
+          "is_column_header": false,
+          "cell_text": "18 (38.3%)",
+          "bbox": [
+            185,
+            562,
+            251,
+            582
+          ],
+          "words": [
+            {
+              "text": "18",
+              "bbox": [
+                201,
+                566,
+                211,
+                577
+              ]
+            },
+            {
+              "text": "(38.3%)",
+              "bbox": [
+                213,
+                566,
+                246,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 48,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            4
+          ],
+          "is_column_header": false,
+          "cell_text": "22 (46.8%)",
+          "bbox": [
+            251,
+            562,
+            317,
+            582
+          ],
+          "words": [
+            {
+              "text": "22",
+              "bbox": [
+                267,
+                566,
+                277,
+                577
+              ]
+            },
+            {
+              "text": "(46.8%)",
+              "bbox": [
+                279,
+                566,
+                312,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 49,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            5
+          ],
+          "is_column_header": false,
+          "cell_text": "19 (43.2%)",
+          "bbox": [
+            317,
+            562,
+            383,
+            582
+          ],
+          "words": [
+            {
+              "text": "19",
+              "bbox": [
+                322,
+                566,
+                332,
+                577
+              ]
+            },
+            {
+              "text": "(43.2%)",
+              "bbox": [
+                334,
+                566,
+                367,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 50,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            6
+          ],
+          "is_column_header": false,
+          "cell_text": "29 (64.4%)",
+          "bbox": [
+            383,
+            562,
+            448,
+            582
+          ],
+          "words": [
+            {
+              "text": "29",
+              "bbox": [
+                388,
+                566,
+                398,
+                577
+              ]
+            },
+            {
+              "text": "(64.4%)",
+              "bbox": [
+                400,
+                566,
+                433,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 51,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            7
+          ],
+          "is_column_header": false,
+          "cell_text": "27 (61.4%)",
+          "bbox": [
+            448,
+            562,
+            514,
+            582
+          ],
+          "words": [
+            {
+              "text": "27",
+              "bbox": [
+                453,
+                566,
+                463,
+                577
+              ]
+            },
+            {
+              "text": "(61.4%)",
+              "bbox": [
+                466,
+                566,
+                498,
+                577
+              ]
+            }
+          ]
+        },
+        {
+          "cell_idx": 52,
+          "row_nums": [
+            6
+          ],
+          "column_nums": [
+            8
+          ],
+          "is_column_header": false,
+          "cell_text": "38 (84.4%)",
+          "bbox": [
+            514,
+            562,
+            580,
+            582
+          ],
+          "words": [
+            {
+              "text": "38",
+              "bbox": [
+                519,
+                566,
+                529,
+                577
+              ]
+            },
+            {
+              "text": "(84.4%)",
+              "bbox": [
+                532,
+                566,
+                564,
+                577
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "bbox": [
+        15,
+        627,
+        580,
+        765
+      ],
+      "content": "The data presented in the table elucidates the impact of different dosages (mg/kg) on cell viability, as measured by both Neutral Red and MTT assays, across multiple time intervals—specifically 1 hour, 2 hours, and 4 hours post-treatment. Notably, the % Increase metrics across these time intervals provide insight into the dynamic response of the A549 and THP-1 cell lines to the administered treatments. For instance, the percentage increase in viability after 2 hours demonstrates a marked difference between the treatment groups and the no treatment control group (NL), highlighting the efficacy of specific dosages in promoting cell viability. Additionally, the comparison of responses at varying time points allows for a comprehensive assessment of the treatment's temporal effects, which is essential for optimizing therapeutic strategies. As such, this data serves as a foundational reference for further investigations into dosage optimization and the biological mechanisms underlying the observed increases in cell viability, ultimately informing future research and development efforts in this domain.",
+      "lines": [
+        {
+          "text": "The data presented in the table elucidates the impact of different dosages (mg/kg) on cell viability, as measured by both Neutral",
+          "bbox": [
+            15,
+            628,
+            580,
+            640
+          ],
+          "words": [
+            {
+              "text": "The",
+              "bbox": [
+                15,
+                628,
+                32,
+                640
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                35,
+                628,
+                53,
+                640
+              ]
+            },
+            {
+              "text": "presented",
+              "bbox": [
+                56,
+                628,
+                99,
+                640
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                101,
+                628,
+                110,
+                640
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                113,
+                628,
+                126,
+                640
+              ]
+            },
+            {
+              "text": "table",
+              "bbox": [
+                129,
+                628,
+                151,
+                640
+              ]
+            },
+            {
+              "text": "elucidates",
+              "bbox": [
+                154,
+                628,
+                198,
+                640
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                201,
+                628,
+                214,
+                640
+              ]
+            },
+            {
+              "text": "impact",
+              "bbox": [
+                217,
+                628,
+                247,
+                640
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                250,
+                628,
+                259,
+                640
+              ]
+            },
+            {
+              "text": "different",
+              "bbox": [
+                262,
+                628,
+                300,
+                640
+              ]
+            },
+            {
+              "text": "dosages",
+              "bbox": [
+                303,
+                628,
+                338,
+                640
+              ]
+            },
+            {
+              "text": "(mg/kg)",
+              "bbox": [
+                340,
+                628,
+                376,
+                640
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                379,
+                628,
+                390,
+                640
+              ]
+            },
+            {
+              "text": "cell",
+              "bbox": [
+                393,
+                628,
+                409,
+                640
+              ]
+            },
+            {
+              "text": "viability,",
+              "bbox": [
+                412,
+                628,
+                450,
+                640
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                453,
+                628,
+                462,
+                640
+              ]
+            },
+            {
+              "text": "measured",
+              "bbox": [
+                465,
+                628,
+                508,
+                640
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                511,
+                628,
+                522,
+                640
+              ]
+            },
+            {
+              "text": "both",
+              "bbox": [
+                524,
+                628,
+                544,
+                640
+              ]
+            },
+            {
+              "text": "Neutral",
+              "bbox": [
+                547,
+                628,
+                580,
+                640
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Red and MTT assays, across multiple time intervals—specifically 1 hour, 2 hours, and 4 hours post-treatment. Notably, the %",
+          "bbox": [
+            15,
+            643,
+            580,
+            655
+          ],
+          "words": [
+            {
+              "text": "Red",
+              "bbox": [
+                15,
+                643,
+                33,
+                655
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                36,
+                643,
+                52,
+                655
+              ]
+            },
+            {
+              "text": "MTT",
+              "bbox": [
+                55,
+                643,
+                78,
+                655
+              ]
+            },
+            {
+              "text": "assays,",
+              "bbox": [
+                82,
+                643,
+                113,
+                655
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                116,
+                643,
+                144,
+                655
+              ]
+            },
+            {
+              "text": "multiple",
+              "bbox": [
+                147,
+                643,
+                184,
+                655
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                187,
+                643,
+                207,
+                655
+              ]
+            },
+            {
+              "text": "intervals—specifically",
+              "bbox": [
+                210,
+                643,
+                310,
+                655
+              ]
+            },
+            {
+              "text": "1",
+              "bbox": [
+                313,
+                643,
+                319,
+                655
+              ]
+            },
+            {
+              "text": "hour,",
+              "bbox": [
+                322,
+                643,
+                344,
+                655
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                348,
+                643,
+                353,
+                655
+              ]
+            },
+            {
+              "text": "hours,",
+              "bbox": [
+                357,
+                643,
+                384,
+                655
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                387,
+                643,
+                403,
+                655
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                407,
+                643,
+                412,
+                655
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                416,
+                643,
+                440,
+                655
+              ]
+            },
+            {
+              "text": "post-treatment.",
+              "bbox": [
+                443,
+                643,
+                510,
+                655
+              ]
+            },
+            {
+              "text": "Notably,",
+              "bbox": [
+                513,
+                643,
+                551,
+                655
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                554,
+                643,
+                567,
+                655
+              ]
+            },
+            {
+              "text": "%",
+              "bbox": [
+                571,
+                643,
+                580,
+                655
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Increase metrics across these time intervals provide insight into the dynamic response of the A549 and THP-1 cell lines to the",
+          "bbox": [
+            15,
+            659,
+            580,
+            671
+          ],
+          "words": [
+            {
+              "text": "Increase",
+              "bbox": [
+                15,
+                659,
+                52,
+                671
+              ]
+            },
+            {
+              "text": "metrics",
+              "bbox": [
+                55,
+                659,
+                87,
+                671
+              ]
+            },
+            {
+              "text": "across",
+              "bbox": [
+                91,
+                659,
+                118,
+                671
+              ]
+            },
+            {
+              "text": "these",
+              "bbox": [
+                122,
+                659,
+                144,
+                671
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                148,
+                659,
+                167,
+                671
+              ]
+            },
+            {
+              "text": "intervals",
+              "bbox": [
+                170,
+                659,
+                208,
+                671
+              ]
+            },
+            {
+              "text": "provide",
+              "bbox": [
+                212,
+                659,
+                245,
+                671
+              ]
+            },
+            {
+              "text": "insight",
+              "bbox": [
+                249,
+                659,
+                279,
+                671
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                282,
+                659,
+                299,
+                671
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                302,
+                659,
+                316,
+                671
+              ]
+            },
+            {
+              "text": "dynamic",
+              "bbox": [
+                319,
+                659,
+                357,
+                671
+              ]
+            },
+            {
+              "text": "response",
+              "bbox": [
+                361,
+                659,
+                399,
+                671
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                402,
+                659,
+                412,
+                671
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                415,
+                659,
+                428,
+                671
+              ]
+            },
+            {
+              "text": "A549",
+              "bbox": [
+                431,
+                659,
+                456,
+                671
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                459,
+                659,
+                475,
+                671
+              ]
+            },
+            {
+              "text": "THP-1",
+              "bbox": [
+                478,
+                659,
+                508,
+                671
+              ]
+            },
+            {
+              "text": "cell",
+              "bbox": [
+                511,
+                659,
+                527,
+                671
+              ]
+            },
+            {
+              "text": "lines",
+              "bbox": [
+                530,
+                659,
+                551,
+                671
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                555,
+                659,
+                563,
+                671
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                659,
+                580,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "text": "administered treatments. For instance, the percentage increase in viability after 2 hours demonstrates a marked difference",
+          "bbox": [
+            15,
+            674,
+            580,
+            686
+          ],
+          "words": [
+            {
+              "text": "administered",
+              "bbox": [
+                15,
+                674,
+                72,
+                686
+              ]
+            },
+            {
+              "text": "treatments.",
+              "bbox": [
+                77,
+                674,
+                125,
+                686
+              ]
+            },
+            {
+              "text": "For",
+              "bbox": [
+                130,
+                674,
+                145,
+                686
+              ]
+            },
+            {
+              "text": "instance,",
+              "bbox": [
+                150,
+                674,
+                189,
+                686
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                194,
+                674,
+                207,
+                686
+              ]
+            },
+            {
+              "text": "percentage",
+              "bbox": [
+                212,
+                674,
+                260,
+                686
+              ]
+            },
+            {
+              "text": "increase",
+              "bbox": [
+                265,
+                674,
+                301,
+                686
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                306,
+                674,
+                314,
+                686
+              ]
+            },
+            {
+              "text": "viability",
+              "bbox": [
+                319,
+                674,
+                356,
+                686
+              ]
+            },
+            {
+              "text": "after",
+              "bbox": [
+                360,
+                674,
+                381,
+                686
+              ]
+            },
+            {
+              "text": "2",
+              "bbox": [
+                385,
+                674,
+                391,
+                686
+              ]
+            },
+            {
+              "text": "hours",
+              "bbox": [
+                396,
+                674,
+                420,
+                686
+              ]
+            },
+            {
+              "text": "demonstrates",
+              "bbox": [
+                425,
+                674,
+                483,
+                686
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                488,
+                674,
+                493,
+                686
+              ]
+            },
+            {
+              "text": "marked",
+              "bbox": [
+                498,
+                674,
+                531,
+                686
+              ]
+            },
+            {
+              "text": "difference",
+              "bbox": [
+                536,
+                674,
+                580,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "text": "between the treatment groups and the no treatment control group (NL), highlighting the efficacy of specific dosages in",
+          "bbox": [
+            15,
+            689,
+            580,
+            701
+          ],
+          "words": [
+            {
+              "text": "between",
+              "bbox": [
+                15,
+                689,
+                52,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                57,
+                689,
+                70,
+                701
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                76,
+                689,
+                117,
+                701
+              ]
+            },
+            {
+              "text": "groups",
+              "bbox": [
+                123,
+                689,
+                153,
+                701
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                158,
+                689,
+                174,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                179,
+                689,
+                193,
+                701
+              ]
+            },
+            {
+              "text": "no",
+              "bbox": [
+                198,
+                689,
+                209,
+                701
+              ]
+            },
+            {
+              "text": "treatment",
+              "bbox": [
+                214,
+                689,
+                256,
+                701
+              ]
+            },
+            {
+              "text": "control",
+              "bbox": [
+                261,
+                689,
+                292,
+                701
+              ]
+            },
+            {
+              "text": "group",
+              "bbox": [
+                298,
+                689,
+                323,
+                701
+              ]
+            },
+            {
+              "text": "(NL),",
+              "bbox": [
+                329,
+                689,
+                353,
+                701
+              ]
+            },
+            {
+              "text": "highlighting",
+              "bbox": [
+                359,
+                689,
+                413,
+                701
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                418,
+                689,
+                431,
+                701
+              ]
+            },
+            {
+              "text": "efficacy",
+              "bbox": [
+                437,
+                689,
+                472,
+                701
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                477,
+                689,
+                486,
+                701
+              ]
+            },
+            {
+              "text": "specific",
+              "bbox": [
+                492,
+                689,
+                526,
+                701
+              ]
+            },
+            {
+              "text": "dosages",
+              "bbox": [
+                531,
+                689,
+                566,
+                701
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                571,
+                689,
+                580,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "text": "promoting cell viability. Additionally, the comparison of responses at varying time points allows for a comprehensive",
+          "bbox": [
+            15,
+            705,
+            580,
+            717
+          ],
+          "words": [
+            {
+              "text": "promoting",
+              "bbox": [
+                15,
+                705,
+                61,
+                717
+              ]
+            },
+            {
+              "text": "cell",
+              "bbox": [
+                67,
+                705,
+                83,
+                717
+              ]
+            },
+            {
+              "text": "viability.",
+              "bbox": [
+                89,
+                705,
+                127,
+                717
+              ]
+            },
+            {
+              "text": "Additionally,",
+              "bbox": [
+                133,
+                705,
+                190,
+                717
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                196,
+                705,
+                210,
+                717
+              ]
+            },
+            {
+              "text": "comparison",
+              "bbox": [
+                216,
+                705,
+                267,
+                717
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                273,
+                705,
+                282,
+                717
+              ]
+            },
+            {
+              "text": "responses",
+              "bbox": [
+                288,
+                705,
+                331,
+                717
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                337,
+                705,
+                345,
+                717
+              ]
+            },
+            {
+              "text": "varying",
+              "bbox": [
+                351,
+                705,
+                385,
+                717
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                391,
+                705,
+                410,
+                717
+              ]
+            },
+            {
+              "text": "points",
+              "bbox": [
+                416,
+                705,
+                443,
+                717
+              ]
+            },
+            {
+              "text": "allows",
+              "bbox": [
+                449,
+                705,
+                478,
+                717
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                484,
+                705,
+                497,
+                717
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                503,
+                705,
+                507,
+                717
+              ]
+            },
+            {
+              "text": "comprehensive",
+              "bbox": [
+                513,
+                705,
+                580,
+                717
+              ]
+            }
+          ]
+        },
+        {
+          "text": "assessment of the treatment's temporal effects, which is essential for optimizing therapeutic strategies. As such, this data serves",
+          "bbox": [
+            15,
+            720,
+            580,
+            732
+          ],
+          "words": [
+            {
+              "text": "assessment",
+              "bbox": [
+                15,
+                720,
+                64,
+                732
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                67,
+                720,
+                76,
+                732
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                79,
+                720,
+                93,
+                732
+              ]
+            },
+            {
+              "text": "treatment's",
+              "bbox": [
+                96,
+                720,
+                144,
+                732
+              ]
+            },
+            {
+              "text": "temporal",
+              "bbox": [
+                147,
+                720,
+                186,
+                732
+              ]
+            },
+            {
+              "text": "effects,",
+              "bbox": [
+                189,
+                720,
+                221,
+                732
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                224,
+                720,
+                251,
+                732
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                254,
+                720,
+                261,
+                732
+              ]
+            },
+            {
+              "text": "essential",
+              "bbox": [
+                264,
+                720,
+                302,
+                732
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                305,
+                720,
+                318,
+                732
+              ]
+            },
+            {
+              "text": "optimizing",
+              "bbox": [
+                321,
+                720,
+                369,
+                732
+              ]
+            },
+            {
+              "text": "therapeutic",
+              "bbox": [
+                372,
+                720,
+                421,
+                732
+              ]
+            },
+            {
+              "text": "strategies.",
+              "bbox": [
+                424,
+                720,
+                468,
+                732
+              ]
+            },
+            {
+              "text": "As",
+              "bbox": [
+                471,
+                720,
+                483,
+                732
+              ]
+            },
+            {
+              "text": "such,",
+              "bbox": [
+                486,
+                720,
+                509,
+                732
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                512,
+                720,
+                528,
+                732
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                531,
+                720,
+                549,
+                732
+              ]
+            },
+            {
+              "text": "serves",
+              "bbox": [
+                553,
+                720,
+                580,
+                732
+              ]
+            }
+          ]
+        },
+        {
+          "text": "as a foundational reference for further investigations into dosage optimization and the biological mechanisms underlying the",
+          "bbox": [
+            15,
+            736,
+            580,
+            748
+          ],
+          "words": [
+            {
+              "text": "as",
+              "bbox": [
+                15,
+                736,
+                24,
+                748
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                28,
+                736,
+                33,
+                748
+              ]
+            },
+            {
+              "text": "foundational",
+              "bbox": [
+                37,
+                736,
+                92,
+                748
+              ]
+            },
+            {
+              "text": "reference",
+              "bbox": [
+                96,
+                736,
+                137,
+                748
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                141,
+                736,
+                154,
+                748
+              ]
+            },
+            {
+              "text": "further",
+              "bbox": [
+                158,
+                736,
+                188,
+                748
+              ]
+            },
+            {
+              "text": "investigations",
+              "bbox": [
+                192,
+                736,
+                253,
+                748
+              ]
+            },
+            {
+              "text": "into",
+              "bbox": [
+                257,
+                736,
+                274,
+                748
+              ]
+            },
+            {
+              "text": "dosage",
+              "bbox": [
+                278,
+                736,
+                308,
+                748
+              ]
+            },
+            {
+              "text": "optimization",
+              "bbox": [
+                312,
+                736,
+                368,
+                748
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                372,
+                736,
+                388,
+                748
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                391,
+                736,
+                405,
+                748
+              ]
+            },
+            {
+              "text": "biological",
+              "bbox": [
+                409,
+                736,
+                453,
+                748
+              ]
+            },
+            {
+              "text": "mechanisms",
+              "bbox": [
+                457,
+                736,
+                511,
+                748
+              ]
+            },
+            {
+              "text": "underlying",
+              "bbox": [
+                515,
+                736,
+                563,
+                748
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                567,
+                736,
+                580,
+                748
+              ]
+            }
+          ]
+        },
+        {
+          "text": "observed increases in cell viability, ultimately informing future research and development efforts in this domain.",
+          "bbox": [
+            15,
+            751,
+            510,
+            763
+          ],
+          "words": [
+            {
+              "text": "observed",
+              "bbox": [
+                15,
+                751,
+                55,
+                763
+              ]
+            },
+            {
+              "text": "increases",
+              "bbox": [
+                57,
+                751,
+                98,
+                763
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                101,
+                751,
+                109,
+                763
+              ]
+            },
+            {
+              "text": "cell",
+              "bbox": [
+                112,
+                751,
+                128,
+                763
+              ]
+            },
+            {
+              "text": "viability,",
+              "bbox": [
+                130,
+                751,
+                169,
+                763
+              ]
+            },
+            {
+              "text": "ultimately",
+              "bbox": [
+                172,
+                751,
+                217,
+                763
+              ]
+            },
+            {
+              "text": "informing",
+              "bbox": [
+                219,
+                751,
+                263,
+                763
+              ]
+            },
+            {
+              "text": "future",
+              "bbox": [
+                266,
+                751,
+                292,
+                763
+              ]
+            },
+            {
+              "text": "research",
+              "bbox": [
+                295,
+                751,
+                332,
+                763
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                334,
+                751,
+                350,
+                763
+              ]
+            },
+            {
+              "text": "development",
+              "bbox": [
+                353,
+                751,
+                410,
+                763
+              ]
+            },
+            {
+              "text": "efforts",
+              "bbox": [
+                413,
+                751,
+                441,
+                763
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                444,
+                751,
+                452,
+                763
+              ]
+            },
+            {
+              "text": "this",
+              "bbox": [
+                455,
+                751,
+                471,
+                763
+              ]
+            },
+            {
+              "text": "domain.",
+              "bbox": [
+                474,
+                751,
+                510,
+                763
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
