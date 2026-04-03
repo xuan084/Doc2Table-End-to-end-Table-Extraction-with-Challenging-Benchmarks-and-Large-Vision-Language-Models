@@ -37,6 +37,3 @@ python agent_eval/eval_finetuned_on_dsw_tuned.py \
     --output_dir /path/to/output
 ```
 
-## Note
-
-The 2K test splits included in this repository (`data/WildDocTables/`, `dataset/fintabnet_test2k/`, `dataset/pubtables_test2k/`) are sufficient for reproducing all experiments reported in the paper. The full dataset above is provided for comprehensive evaluation and model training.

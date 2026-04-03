@@ -42,21 +42,21 @@ This repository contains the code and sample data for reproducing the experiment
 │
 ├── detr/                         # DETR table detection model code
 │
-├── data/WildDocTables/            # WildDocTables test split (2K pages)
-│   ├── images/                   # 2000 document page images (.png)
+├── data/WildDocTables/            # WildDocTables sample data
+│   ├── images/                   # Document page images (.png)
 │   ├── ocr/                      # OCR transcripts per page
 │   ├── gt_json_v1/               # Ground truth with bboxes
 │   ├── gt_json_v2/               # Ground truth HTML (no thead/tbody)
 │   └── manifest.jsonl            # Table attribute metadata (230K entries)
 │
 ├── dataset/                      # Dataset preparation scripts + test data
-│   ├── fintabnet_test2k/         # FinTabNet test split (2K pages)
-│   │   ├── images/               # 2000 page images (.png)
+│   ├── fintabnet_test2k/         # FinTabNet sample data
+│   │   ├── images/               # Page images (.png)
 │   │   ├── gt_html/              # Ground truth HTML per page
 │   │   ├── ocr/                  # OCR transcripts
 │   │   └── manifest.json         # Page index
-│   ├── pubtables_test2k/         # PubTables-1M test split (2K pages)
-│   │   ├── images/               # 2000 page images (.jpg)
+│   ├── pubtables_test2k/         # PubTables-1M sample data
+│   │   ├── images/               # Page images (.jpg)
 │   │   ├── gt_html/              # Ground truth HTML per page
 │   │   ├── ocr/                  # OCR transcripts
 │   │   └── manifest.json         # Page index
@@ -69,12 +69,12 @@ This repository contains the code and sample data for reproducing the experiment
 
 ## Dataset
 
-This repository includes test splits (2K pages each) for all three datasets used in our experiments, ready to run:
-- **WildDocTables** (2K test pages): `data/WildDocTables/`
-- **FinTabNet** (2K test pages): `dataset/fintabnet_test2k/`
-- **PubTables-1M** (2K test pages): `dataset/pubtables_test2k/`
+This repository includes sample data for quick-start inference and evaluation:
+- **WildDocTables** (sample): `data/WildDocTables/`
+- **FinTabNet** (sample): `dataset/fintabnet_test2k/`
+- **PubTables-1M** (sample): `dataset/pubtables_test2k/`
 
-The full WildDocTables dataset (230K pages, 386K tables) will be released separately.
+The full WildDocTables dataset (230K pages, 386K tables) and model checkpoint are available at **[Google Drive](https://drive.google.com/drive/folders/1HkafPW5CexffQMtpJObXAZtfzKadq-pv?usp=sharing)**. See [DOWNLOAD.md](DOWNLOAD.md) for details.
 
 ## Setup
 
